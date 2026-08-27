@@ -1,0 +1,22 @@
+user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+request_timeout: 15
+request_delay_seconds: 1.0
+max_retries: 3
+verify_ssl: true
+html_backend: httpx
+use_browser_fallback: false
+headless_browser: false
+crawl4ai_magic: false
+follow_subdomains: false
+allowed_schemes:
+  - https
+ignored_query_prefixes:
+  - utm_
+  - fbclid
+  - gclid
+  - mc_
+output_dir: data
+sitemap_candidates:
+  - /sitemap.xml
+  - /sitemap_index.xml
+  - /sitemap-index.xml
