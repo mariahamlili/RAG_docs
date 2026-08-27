@@ -19,6 +19,9 @@ class DocumentManifestRecord(BaseModel):
     http_status: int | None = None
     content_hash: str | None = None
     sitemap_origin: str | None = None
+    discovered_from: str | None = None
+    topic_path: str | None = None
+    library_kind: str | None = None
     fetched_at: str
     error: str | None = None
 
@@ -28,6 +31,11 @@ class SitemapInventoryRecord(BaseModel):
     normalized_url: str
     source_type: str
     sitemap_origin: str
+    discovered_from: str | None = None
+    depth: int | None = None
+    fetched: bool | None = None
+    outlink_count: int | None = None
+    error: str | None = None
 
 
 def utc_now_iso() -> str:

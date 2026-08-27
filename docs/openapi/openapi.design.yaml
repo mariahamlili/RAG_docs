@@ -1,0 +1,704 @@
+openapi: 3.1.0
+info:
+  title: FarmCore API
+  version: 0.4.0
+  description: |
+    Phase 0 negotiation spec for FarmCore REST endpoints. DRF serializers are the
+    runtime source of truth; drf-spectacular emits openapi.generated.yaml for CI
+    diff against this design file (ADR 0004).
+  contact:
+    name: FarmCore Assistant / Documents
+  license:
+    name: Proprietary
+
+servers:
+  - url: /
+    description: POC — no URL version prefix; contract version is info.version
+
+tags:
+  - name: Health
+  - name: Capabilities
+  - name: Farms
+  - name: Documents
+  - name: Assistant
+  - name: Audit
+  - name: Corpus
+
+paths:
+  /healthz:
+    get:
+      operationId: getHealthz
+      tags: [Health]
+      summary: Liveness probe
+      description: Returns 200 when the Django process is accepting requests.
+      security: []
+      responses:
+        "200":
+          description: Process is alive
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [status]
+                properties:
+                  status:
+                    type: string
+                    const: ok
+
+  /readyz:
+    get:
+      operationId: getReadyz
+      tags: [Health]
+      summary: Readiness probe
+      description: Returns 200 when critical dependencies (PostgreSQL, Redis) are reachable.
+      security: []
+      responses:
+        "200":
+          description: Ready to serve traffic
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [status, checks]
+                properties:
+                  status:
+                    type: string
+                    enum: [ok, degraded]
+                  checks:
+                    type: object
+                    additionalProperties:
+                      type: string
+                      enum: [ok, fail]
+        "503":
+          description: Not ready
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+  /api/capabilities:
+    get:
+      operationId: getCapabilities
+      tags: [Capabilities]
+      summary: Feature and contract capabilities
+      description: |
+        Returns server-advertised features, schema versions, and active corpus snapshot
+        summary for client negotiation.
+      responses:
+        "200":
+          description: Capability snapshot
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Capabilities"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+
+  /api/farms:
+    get:
+      operationId: listFarms
+      tags: [Farms]
+      summary: List farms the principal may access
+      responses:
+        "200":
+          description: Authorised farms
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [farms]
+                properties:
+                  farms:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/FarmSummary"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+
+  /api/farms/{farm_id}/select:
+    post:
+      operationId: selectFarm
+      tags: [Farms]
+      summary: Set active farm on server-side session
+      description: Verifies membership before updating session; subsequent requests use this farm.
+      parameters:
+        - $ref: "#/components/parameters/FarmId"
+      responses:
+        "204":
+          description: Active farm updated
+        "403":
+          $ref: "#/components/responses/Forbidden"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /api/farm-context:
+    get:
+      operationId: getFarmContext
+      tags: [Farms]
+      summary: Dashboard snapshot for active farm
+      description: Active farm is read from session — not supplied by client.
+      responses:
+        "200":
+          description: Farm context
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/FarmContext"
+        "400":
+          description: No active farm selected
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+  /api/documents:
+    post:
+      operationId: uploadDocument
+      tags: [Documents]
+      summary: Upload document and queue processing
+      description: Owner only. Returns document id and processing status reference.
+      requestBody:
+        required: true
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              required: [file]
+              properties:
+                file:
+                  type: string
+                  format: binary
+                title:
+                  type: string
+      responses:
+        "202":
+          description: Accepted for processing
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DocumentStatus"
+        "403":
+          $ref: "#/components/responses/Forbidden"
+
+  /api/documents/{document_id}:
+    get:
+      operationId: getDocument
+      tags: [Documents]
+      summary: Read document processing status
+      parameters:
+        - $ref: "#/components/parameters/DocumentId"
+      responses:
+        "200":
+          description: Document status
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/DocumentStatus"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /api/assistant/messages:
+    post:
+      operationId: postAssistantMessage
+      tags: [Assistant]
+      summary: Send message to farm assistant
+      description: |
+        Runs full orchestrator pipeline. Active farm and role from session.
+        Returns cited answer, refusal, or partial response with audit_id.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/AssistantMessageRequest"
+      responses:
+        "200":
+          description: Assistant response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AssistantAnswer"
+        "403":
+          $ref: "#/components/responses/Forbidden"
+        "503":
+          description: Provider or audit persistence unavailable
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+
+  /api/assistant/conversations/reset:
+    post:
+      operationId: resetAssistantConversation
+      tags: [Assistant]
+      summary: Clear current-session conversation context
+      responses:
+        "204":
+          description: Context cleared
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+
+  /api/assistant/schedule-explanations:
+    post:
+      operationId: explainSchedule
+      tags: [Assistant]
+      summary: Explain schedule or unscheduled reasons
+      description: |
+        Read-only explanation over structured schedule state. Does not write
+        placements or mutate schedules (ADR 0006).
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [schedule_id]
+              properties:
+                schedule_id:
+                  type: string
+                  format: uuid
+                question:
+                  type: string
+      responses:
+        "200":
+          description: Explanation
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AssistantAnswer"
+        "404":
+          $ref: "#/components/responses/NotFound"
+
+  /api/assistant/rule-candidates:
+    get:
+      operationId: listRuleCandidates
+      tags: [Assistant]
+      summary: List inert rule candidates pending owner review
+      responses:
+        "200":
+          description: Candidate list
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [candidates]
+                properties:
+                  candidates:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/RuleCandidate"
+    post:
+      operationId: createRuleCandidate
+      tags: [Assistant]
+      summary: Create rule candidate from assistant extraction
+      description: Candidates remain inert until owner approves via scheduling workflow.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [source_document_id, proposed_rule]
+              properties:
+                source_document_id:
+                  type: string
+                  format: uuid
+                proposed_rule:
+                  type: object
+                  additionalProperties: true
+      responses:
+        "201":
+          description: Candidate created
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/RuleCandidate"
+
+  /api/audit/events:
+    get:
+      operationId: listAuditEvents
+      tags: [Audit]
+      summary: Search append-only audit envelopes
+      description: Owner only. Returns typed metadata — not raw document bytes.
+      parameters:
+        - name: farm_id
+          in: query
+          schema:
+            type: string
+            format: uuid
+        - name: since
+          in: query
+          schema:
+            type: string
+            format: date-time
+        - name: until
+          in: query
+          schema:
+            type: string
+            format: date-time
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 50
+      responses:
+        "200":
+          description: Audit events
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [events]
+                properties:
+                  events:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/AuditEventSummary"
+        "403":
+          $ref: "#/components/responses/Forbidden"
+
+  /api/corpus/indexes:
+    get:
+      operationId: listCorpusIndexes
+      tags: [Corpus]
+      summary: List logical corpus indexes and active snapshot
+      responses:
+        "200":
+          description: Index registry view
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [active_snapshot_id, indexes]
+                properties:
+                  active_snapshot_id:
+                    type: string
+                    example: gov-a-20260827-9f4c1ba7e2d0
+                  indexes:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/CorpusIndex"
+
+components:
+  securitySchemes:
+    sessionAuth:
+      type: apiKey
+      in: cookie
+      name: sessionid
+      description: Django session cookie established after login
+
+  parameters:
+    FarmId:
+      name: farm_id
+      in: path
+      required: true
+      schema:
+        type: string
+        format: uuid
+    DocumentId:
+      name: document_id
+      in: path
+      required: true
+      schema:
+        type: string
+        format: uuid
+
+  responses:
+    Unauthorized:
+      description: Authentication required
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+    Forbidden:
+      description: Insufficient role or farm access
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+
+  schemas:
+    Error:
+      type: object
+      required: [detail]
+      properties:
+        detail:
+          oneOf:
+            - type: string
+            - type: array
+              items:
+                type: object
+                additionalProperties: true
+        code:
+          type: string
+          description: Optional machine-readable error code
+
+    Capabilities:
+      type: object
+      required: [api_version, schema_versions]
+      properties:
+        api_version:
+          type: string
+          example: "0.4.0"
+        schema_versions:
+          type: object
+          properties:
+            chunks:
+              type: string
+              example: chunks-v1
+            audit:
+              type: string
+              example: audit-v1
+        active_snapshot_id:
+          type: string
+          nullable: true
+        features:
+          type: array
+          items:
+            type: string
+          example: [tier_b_fallback, claim_entailment]
+
+    FarmSummary:
+      type: object
+      required: [id, name, role]
+      properties:
+        id:
+          type: string
+          format: uuid
+        name:
+          type: string
+        role:
+          type: string
+          enum: [owner, worker]
+
+    FarmContext:
+      type: object
+      required: [farm_id, name, role]
+      properties:
+        farm_id:
+          type: string
+          format: uuid
+        name:
+          type: string
+        role:
+          type: string
+          enum: [owner, worker]
+        open_task_count:
+          type: integer
+        active_alert_count:
+          type: integer
+
+    DocumentStatus:
+      type: object
+      required: [document_id, state]
+      properties:
+        document_id:
+          type: string
+          format: uuid
+        state:
+          type: string
+          enum: [uploaded, processing, active, failed, archived]
+        title:
+          type: string
+        error_code:
+          type: string
+          nullable: true
+
+    AssistantMessageRequest:
+      type: object
+      required: [message]
+      properties:
+        conversation_id:
+          type: string
+          format: uuid
+          nullable: true
+          description: Omit or null to start a new in-session conversation
+        message:
+          type: string
+          minLength: 1
+          maxLength: 8000
+
+    Citation:
+      type: object
+      required: [marker, source_class]
+      properties:
+        marker:
+          type: integer
+          minimum: 1
+        source_class:
+          type: string
+          enum: [tenant_document, gov_tier_a, gov_tier_b, structured_record]
+        chunk_id:
+          type: string
+          format: uuid
+        document_id:
+          type: string
+          format: uuid
+        title:
+          type: string
+        source_url:
+          type: string
+          format: uri
+        snapshot_id:
+          type: string
+        dated:
+          type: string
+          format: date
+        entailment_score:
+          type: number
+          format: float
+          minimum: 0
+          maximum: 1
+
+    Refusal:
+      type: object
+      required: [code, message]
+      properties:
+        code:
+          type: string
+          enum:
+            - NO_RELEVANT_CONTEXT
+            - INSUFFICIENT_COVERAGE
+            - CONFLICTING_SOURCES
+            - OUT_OF_SCOPE
+            - ACCESS_DENIED
+            - TENANT_SCOPE_EMPTY
+            - PROVIDER_UNAVAILABLE
+        message:
+          type: string
+        actionable_hint:
+          type: string
+          nullable: true
+
+    AssistantAnswer:
+      type: object
+      required: [conversation_id, audit_id, decision, blocks, retrieved_at]
+      properties:
+        conversation_id:
+          type: string
+          format: uuid
+        audit_id:
+          type: string
+          format: uuid
+        config_fingerprint:
+          type: string
+          description: Opaque hash of VersionTuple
+        decision:
+          type: string
+          enum: [ANSWER, PARTIAL, REFUSE]
+        refusal:
+          $ref: "#/components/schemas/Refusal"
+        blocks:
+          type: array
+          description: Ordered answer blocks — text, warnings, guidance separation
+          items:
+            $ref: "#/components/schemas/AnswerBlock"
+        citations:
+          type: array
+          items:
+            $ref: "#/components/schemas/Citation"
+        warnings:
+          type: array
+          items:
+            type: object
+            required: [code, message]
+            properties:
+              code:
+                type: string
+              message:
+                type: string
+        retrieved_at:
+          type: string
+          format: date-time
+        drafts:
+          type: array
+          items:
+            type: object
+            additionalProperties: true
+
+    AnswerBlock:
+      type: object
+      required: [type, content]
+      properties:
+        type:
+          type: string
+          enum: [answer_text, general_guidance, warning, facts_summary]
+        content:
+          type: string
+        source_class:
+          type: string
+          nullable: true
+          description: Present when block is tied to a source class (blended answers)
+
+    RuleCandidate:
+      type: object
+      required: [id, state, created_at]
+      properties:
+        id:
+          type: string
+          format: uuid
+        state:
+          type: string
+          enum: [draft, confirmed, rejected, expired]
+        source_document_id:
+          type: string
+          format: uuid
+        proposed_rule:
+          type: object
+          additionalProperties: true
+        created_at:
+          type: string
+          format: date-time
+
+    AuditEventSummary:
+      type: object
+      required: [audit_id, schema_version, created_at, decision]
+      properties:
+        audit_id:
+          type: string
+          format: uuid
+        schema_version:
+          type: string
+          example: audit-v1
+        created_at:
+          type: string
+          format: date-time
+        farm_id:
+          type: string
+          format: uuid
+        decision:
+          type: string
+          enum: [ANSWER, PARTIAL, REFUSE]
+        config_fingerprint:
+          type: string
+        snapshot_id:
+          type: string
+
+    CorpusIndex:
+      type: object
+      required: [index_key, tier, default_eligible]
+      properties:
+        index_key:
+          type: string
+          enum: [gov_tier_a, gov_tier_b, tenant_doc]
+        tier:
+          type: string
+          nullable: true
+        default_eligible:
+          type: boolean
+        document_count:
+          type: integer
+        snapshot_id:
+          type: string
+          nullable: true
+
+security:
+  - sessionAuth: []

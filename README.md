@@ -4,6 +4,24 @@ A sitemap-first website ingestion pipeline for building RAG-ready documents.
 
 This project is designed for sites that publish XML sitemaps and may protect direct HTTP access with Cloudflare or similar bot mitigation. It discovers sitemap URLs, expands nested sitemap indexes, normalizes and deduplicates page URLs, classifies assets, downloads content politely, extracts clean text, renders cleaned HTML pages to PDF, and writes a manifest for downstream RAG chunking.
 
+## FarmCore AI / RAG documentation
+
+SOTA Assistant & Knowledge track docs (contracts for UI and Scheduling teams):
+
+| Doc | Purpose |
+|---|---|
+| [Diary.md](Diary.md) | Living engineering diary (failures, decisions, progress) |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | System shape, trust boundaries, corpus composition |
+| [docs/PLAN.md](docs/PLAN.md) | Phased build (0–10) with entry/exit criteria |
+| [docs/API.md](docs/API.md) | Full `/api/` contracts and ownership matrix |
+| [docs/EXTENSIBILITY.md](docs/EXTENSIBILITY.md) | Tool/stage/provider registries |
+| [docs/MAPPING.md](docs/MAPPING.md) | DesignDoc → FarmCore → priority |
+| [docs/DOCUMENTATION_STANDARDS.md](docs/DOCUMENTATION_STANDARDS.md) | ADR + Diary standards |
+| [docs/adr/](docs/adr/) | Architecture Decision Records 0001–0010 |
+| [docs/openapi/openapi.design.yaml](docs/openapi/openapi.design.yaml) | Design-time OpenAPI (v0.4.0) |
+| [DesignDoc.md](DesignDoc.md) | Original RAG design rationale |
+| [FARMCORE_DOCS/](FARMCORE_DOCS/) | FarmCore product / system-shape source |
+
 ## Features
 
 - Discover sitemap entry points from `robots.txt` and common sitemap paths.

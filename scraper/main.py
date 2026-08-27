@@ -1,8 +1,10 @@
 from __future__ import annotations
 
 from collections import deque
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from shutil import copyfile
+from threading import Lock, local
 from typing import Optional
 
 import typer
@@ -20,6 +22,14 @@ from scraper.manifest import (
     utc_now_iso,
     write_json_manifest,
     write_jsonl_manifest,
+)
+from scraper.organize import (
+    breadcrumb_for,
+    build_destination,
+    collapse_small_folders,
+    destination_root,
+    library_kind_for,
+    topic_path_for,
 )
 from scraper.render_pdf import render_html_to_pdf
 from scraper.sitemap import discover_sitemap_entrypoints, expand_sitemaps
@@ -50,12 +60,422 @@ def _sitemap_manifest_path(config: AppConfig) -> Path:
     return config.output_dir / "manifests" / "sitemaps.json"
 
 
+def _library_plan_path(config: AppConfig) -> Path:
+    return config.output_dir / "manifests" / "library_plan.jsonl"
+
+
+def _pdf_library_path(config: AppConfig) -> Path:
+    return config.output_dir / "manifests" / "pdf_library.jsonl"
+
+
 def _document_manifest_path(config: AppConfig) -> Path:
     return config.output_dir / "manifests" / "documents.jsonl"
 
 
 def _crawl_inventory_path(config: AppConfig) -> Path:
     return config.output_dir / "manifests" / "crawl_inventory.jsonl"
+
+
+def _parse_library_types(types: str) -> set[str]:
+    requested = {part.strip().lower() for part in types.split(",") if part.strip()}
+    allowed = {"pdf", "office", "html"}
+    unknown = requested - allowed
+    if unknown:
+        raise typer.BadParameter(f"Unknown types {sorted(unknown)}; allowed: pdf,office,html")
+    return requested or allowed
+
+
+def _inventory_matches_types(source_type: str, types: set[str]) -> bool:
+    if source_type == "html":
+        return "html" in types
+    if source_type == "asset:pdf":
+        return "pdf" in types
+    if source_type.startswith("asset:"):
+        return "office" in types
+    return False
+
+
+def _load_inventory_records(inventory_file: Path) -> list[dict]:
+    records: list[dict] = []
+    for line in inventory_file.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        records.append(SitemapInventoryRecord.model_validate_json(line).model_dump())
+    return records
+
+
+def _build_library_plan(records: list[dict], types: set[str]) -> list[dict]:
+    selected = [row for row in records if _inventory_matches_types(row["source_type"], types)]
+    draft_assignments: list[tuple[tuple[str, ...], str]] = []
+    for row in selected:
+        topic = topic_path_for(
+            row["normalized_url"],
+            source_type=row["source_type"],
+            discovered_from=row.get("discovered_from"),
+        )
+        draft_assignments.append((topic, row["normalized_url"]))
+
+    collapsed = collapse_small_folders(draft_assignments)
+    taken_by_folder: dict[tuple[str, ...], set[str]] = {}
+    plan_rows: list[dict] = []
+
+    for row in selected:
+        topic_parts = collapsed[row["normalized_url"]]
+        folder_key = (library_kind_for(row["source_type"]),) + topic_parts
+        taken = taken_by_folder.setdefault(folder_key, set())
+        destination = build_destination(
+            source_url=row["normalized_url"],
+            source_type=row["source_type"],
+            discovered_from=row.get("discovered_from"),
+            topic_parts=topic_parts,
+            taken_in_folder=taken,
+        )
+        plan_rows.append(
+            {
+                "source_url": row["normalized_url"],
+                "source_type": row["source_type"],
+                "discovered_from": row.get("discovered_from"),
+                "sitemap_origin": row.get("sitemap_origin"),
+                "library_kind": destination.library_kind,
+                "topic_path": destination.topic_path,
+                "topic_breadcrumb": breadcrumb_for(destination.topic_parts),
+                "domain": destination.domain,
+                "relative_path": destination.relative_path,
+                "filename": destination.filename,
+            }
+        )
+
+    kind_order = {"source_pdf": 0, "office": 1, "rendered_pdf": 2}
+    plan_rows.sort(key=lambda row: (kind_order.get(row["library_kind"], 9), row["topic_path"], row["source_url"]))
+    return plan_rows
+
+
+def _is_valid_pdf_bytes(payload: bytes, content_type: str) -> bool:
+    if not payload.startswith(b"%PDF"):
+        return False
+    lowered = (content_type or "").lower()
+    if "html" in lowered or lowered.startswith("text/"):
+        return False
+    return True
+
+
+def _file_sha256(path: Path) -> str | None:
+    if not path.exists() or not path.is_file():
+        return None
+    return sha256_bytes(path.read_bytes())
+
+
+_render_lock = Lock()
+_worker_state = local()
+
+
+def _process_library_item(
+    *,
+    index: int,
+    total: int,
+    plan: dict,
+    app_config: AppConfig,
+    directories: dict[str, Path],
+    rejected_dir: Path,
+    resume: bool,
+    fetcher: Fetcher,
+) -> tuple[dict, DocumentManifestRecord, str]:
+    source_url = plan["source_url"]
+    source_type = plan["source_type"]
+    kind = plan["library_kind"]
+    root = destination_root(kind, app_config.output_dir)
+    dest_path = root / plan["relative_path"]
+    topic_path = plan["topic_path"]
+
+    console.print(f"[{index}/{total}] {kind} {source_url}")
+
+    if resume and dest_path.exists() and dest_path.stat().st_size > 0:
+        content_hash = _file_sha256(dest_path) or ""
+        library_record = {
+            **plan,
+            "local_path": str(dest_path),
+            "content_hash": content_hash,
+            "bytes": dest_path.stat().st_size,
+            "http_status": None,
+            "fetch_via": "resume",
+            "fetched_at": utc_now_iso(),
+            "status": "skipped",
+        }
+        document_record = DocumentManifestRecord(
+            source_url=source_url,
+            source_type=source_type,
+            title=plan["filename"],
+            local_pdf_path=str(dest_path) if kind.endswith("pdf") else None,
+            local_raw_path=str(dest_path) if kind == "office" else None,
+            content_hash=content_hash,
+            discovered_from=plan.get("discovered_from"),
+            topic_path=topic_path,
+            library_kind=kind,
+            sitemap_origin=plan.get("sitemap_origin"),
+            fetched_at=utc_now_iso(),
+        )
+        return library_record, document_record, "skipped"
+
+    if source_type == "html":
+        if app_config.html_backend == "crawl4ai":
+            crawled = crawl_page(source_url, app_config)
+            raw_payload = crawled.raw_html.encode("utf-8")
+            raw_path = path_from_url(source_url, directories["raw"], ".html")
+            text_path = path_from_url(source_url, directories["text"], ".txt")
+            _save_bytes(raw_path, raw_payload)
+            _save_text(text_path, crawled.text)
+            with _render_lock:
+                render_html_to_pdf(crawled.cleaned_html, dest_path, base_url=source_url)
+            content_hash = sha256_bytes(raw_payload)
+            fetch_via = crawled.via
+            http_status = crawled.status_code
+            title = crawled.title
+        else:
+            response = fetcher.fetch(source_url, binary=False)
+            raw_path = path_from_url(source_url, directories["raw"], ".html")
+            text_path = path_from_url(source_url, directories["text"], ".txt")
+            _save_bytes(raw_path, response.content)
+            html_text = response.text or response.content.decode("utf-8", errors="replace")
+            extracted = extract_document(html_text, source_url)
+            _save_text(text_path, extracted.text)
+            with _render_lock:
+                render_html_to_pdf(extracted.cleaned_html, dest_path, base_url=source_url)
+            content_hash = sha256_bytes(response.content)
+            fetch_via = response.via
+            http_status = response.status_code
+            title = extracted.title
+
+        library_record = {
+            **plan,
+            "local_path": str(dest_path),
+            "local_raw_path": str(raw_path),
+            "local_text_path": str(text_path),
+            "content_hash": content_hash,
+            "bytes": dest_path.stat().st_size if dest_path.exists() else 0,
+            "http_status": http_status,
+            "fetch_via": fetch_via,
+            "fetched_at": utc_now_iso(),
+            "status": "fetched",
+            "title": title,
+        }
+        document_record = DocumentManifestRecord(
+            source_url=source_url,
+            source_type=source_type,
+            title=title,
+            local_raw_path=str(raw_path),
+            local_text_path=str(text_path),
+            local_pdf_path=str(dest_path),
+            fetch_via=fetch_via,
+            http_status=http_status,
+            content_hash=content_hash,
+            discovered_from=plan.get("discovered_from"),
+            topic_path=topic_path,
+            library_kind=kind,
+            sitemap_origin=plan.get("sitemap_origin"),
+            fetched_at=utc_now_iso(),
+        )
+        return library_record, document_record, "fetched"
+
+    response = fetcher.fetch(source_url, binary=True)
+    payload = response.content
+    content_hash = sha256_bytes(payload)
+
+    if source_type == "asset:pdf" and not _is_valid_pdf_bytes(payload, response.content_type):
+        reject_path = rejected_dir / f"{slug_from_url(source_url)}.bin"
+        _save_bytes(reject_path, payload)
+        library_record = {
+            **plan,
+            "local_path": str(reject_path),
+            "content_hash": content_hash,
+            "bytes": len(payload),
+            "http_status": response.status_code,
+            "fetch_via": response.via,
+            "fetched_at": utc_now_iso(),
+            "status": "rejected",
+            "error": f"Invalid PDF content-type={response.content_type}",
+        }
+        document_record = DocumentManifestRecord(
+            source_url=source_url,
+            source_type=source_type,
+            discovered_from=plan.get("discovered_from"),
+            topic_path=topic_path,
+            library_kind=kind,
+            sitemap_origin=plan.get("sitemap_origin"),
+            fetched_at=utc_now_iso(),
+            error=f"Invalid PDF content-type={response.content_type}",
+        )
+        return library_record, document_record, "rejected"
+
+    _save_bytes(dest_path, payload)
+    library_record = {
+        **plan,
+        "local_path": str(dest_path),
+        "content_hash": content_hash,
+        "bytes": len(payload),
+        "http_status": response.status_code,
+        "fetch_via": response.via,
+        "fetched_at": utc_now_iso(),
+        "status": "fetched",
+        "title": plan["filename"],
+    }
+    document_record = DocumentManifestRecord(
+        source_url=source_url,
+        source_type=source_type,
+        title=plan["filename"],
+        local_raw_path=str(dest_path) if kind == "office" else None,
+        local_pdf_path=str(dest_path) if kind == "source_pdf" else None,
+        fetch_via=response.via,
+        http_status=response.status_code,
+        content_hash=content_hash,
+        discovered_from=plan.get("discovered_from"),
+        topic_path=topic_path,
+        library_kind=kind,
+        sitemap_origin=plan.get("sitemap_origin"),
+        fetched_at=utc_now_iso(),
+    )
+    return library_record, document_record, "fetched"
+
+
+def _run_library_item(
+    *,
+    index: int,
+    total: int,
+    plan: dict,
+    app_config: AppConfig,
+    directories: dict[str, Path],
+    rejected_dir: Path,
+    resume: bool,
+) -> tuple[dict, DocumentManifestRecord, str]:
+    fetcher = getattr(_worker_state, "fetcher", None)
+    if fetcher is None:
+        fetcher = Fetcher(app_config)
+        _worker_state.fetcher = fetcher
+    try:
+        return _process_library_item(
+            index=index,
+            total=total,
+            plan=plan,
+            app_config=app_config,
+            directories=directories,
+            rejected_dir=rejected_dir,
+            resume=resume,
+            fetcher=fetcher,
+        )
+    except Exception as exc:
+        library_record = {
+            **plan,
+            "fetched_at": utc_now_iso(),
+            "status": "failed",
+            "error": str(exc),
+        }
+        document_record = DocumentManifestRecord(
+            source_url=plan["source_url"],
+            source_type=plan["source_type"],
+            discovered_from=plan.get("discovered_from"),
+            topic_path=plan.get("topic_path"),
+            library_kind=plan.get("library_kind"),
+            sitemap_origin=plan.get("sitemap_origin"),
+            fetched_at=utc_now_iso(),
+            error=str(exc),
+        )
+        return library_record, document_record, "failed"
+
+
+@app.command("fetch-library")
+def fetch_library(
+    inventory_path: Path = typer.Option(
+        Path("data/manifests/agriculture_full_inventory.jsonl"),
+        help="Inventory JSONL to fetch from.",
+    ),
+    config: Optional[Path] = typer.Option(
+        Path("config.agriculture.yaml"),
+        help="Path to config YAML.",
+    ),
+    types: str = typer.Option("pdf,office,html", help="Comma-separated: pdf,office,html"),
+    limit: Optional[int] = typer.Option(None, help="Only process the first N planned records."),
+    resume: bool = typer.Option(True, help="Skip files that already exist on disk."),
+    plan_path: Optional[Path] = typer.Option(None, help="Optional existing plan JSONL."),
+    workers: int = typer.Option(8, min=1, max=32, help="Parallel worker threads."),
+) -> None:
+    app_config = load_config(config)
+    directories = app_config.ensure_directories()
+    (app_config.output_dir / "pdf" / "source").mkdir(parents=True, exist_ok=True)
+    (app_config.output_dir / "pdf" / "rendered").mkdir(parents=True, exist_ok=True)
+    rejected_dir = app_config.output_dir / "pdf" / "_rejected"
+    rejected_dir.mkdir(parents=True, exist_ok=True)
+    (app_config.output_dir / "office").mkdir(parents=True, exist_ok=True)
+
+    if not inventory_path.exists():
+        raise typer.BadParameter(f"Inventory file not found: {inventory_path}")
+
+    selected_types = _parse_library_types(types)
+    records = _load_inventory_records(inventory_path)
+    if plan_path and plan_path.exists():
+        plan_rows = [
+            __import__("json").loads(line)
+            for line in plan_path.read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        ]
+        plan_rows = [row for row in plan_rows if _inventory_matches_types(row["source_type"], selected_types)]
+    else:
+        plan_rows = _build_library_plan(records, selected_types)
+        append_jsonl(_library_plan_path(app_config), plan_rows)
+
+    if limit is not None:
+        plan_rows = plan_rows[:limit]
+
+    document_records: list[DocumentManifestRecord] = []
+    library_records: list[dict] = []
+    stats = {"fetched": 0, "skipped": 0, "rejected": 0, "failed": 0}
+    total = len(plan_rows)
+    console.print(f"Fetching {total} records with {workers} workers")
+
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = [
+            executor.submit(
+                _run_library_item,
+                index=index,
+                total=total,
+                plan=plan,
+                app_config=app_config,
+                directories=directories,
+                rejected_dir=rejected_dir,
+                resume=resume,
+            )
+            for index, plan in enumerate(plan_rows, start=1)
+        ]
+        for future in as_completed(futures):
+            library_record, document_record, status = future.result()
+            library_records.append(library_record)
+            document_records.append(document_record)
+            stats[status] = stats.get(status, 0) + 1
+
+    # Close thread-local fetchers created during the run.
+    # ThreadPoolExecutor workers are gone; open clients are finalized with process GC.
+
+    append_jsonl(_pdf_library_path(app_config), library_records)
+    write_jsonl_manifest(_document_manifest_path(app_config), document_records)
+
+    hashes: dict[str, list[str]] = {}
+    for row in library_records:
+        digest = row.get("content_hash")
+        if digest and row.get("status") in {"fetched", "skipped"}:
+            hashes.setdefault(digest, []).append(row["source_url"])
+    duplicates = sum(1 for urls in hashes.values() if len(urls) > 1)
+
+    table = Table(title="Fetch Library Summary")
+    table.add_column("Metric")
+    table.add_column("Value")
+    table.add_row("Planned", str(len(plan_rows)))
+    table.add_row("Workers", str(workers))
+    table.add_row("Fetched", str(stats["fetched"]))
+    table.add_row("Skipped", str(stats["skipped"]))
+    table.add_row("Rejected", str(stats["rejected"]))
+    table.add_row("Failed", str(stats["failed"]))
+    table.add_row("Duplicate hashes", str(duplicates))
+    table.add_row("pdf_library", str(_pdf_library_path(app_config)))
+    table.add_row("documents", str(_document_manifest_path(app_config)))
+    console.print(table)
 
 
 @app.command()
@@ -386,6 +806,57 @@ def ingest(
     table.add_row("Succeeded", str(success_count))
     table.add_row("Failed", str(failure_count))
     console.print(table)
+
+
+@app.command("plan-library")
+def plan_library(
+    inventory_path: Path = typer.Option(
+        Path("data/manifests/agriculture_full_inventory.jsonl"),
+        help="Inventory JSONL used to plan destinations.",
+    ),
+    config: Optional[Path] = typer.Option(None, help="Path to config YAML."),
+    types: str = typer.Option("pdf,office,html", help="Comma-separated: pdf,office,html"),
+    out: Optional[Path] = typer.Option(None, help="Optional plan output path."),
+) -> None:
+    app_config = load_config(config)
+    app_config.ensure_directories()
+    if not inventory_path.exists():
+        raise typer.BadParameter(f"Inventory file not found: {inventory_path}")
+
+    selected_types = _parse_library_types(types)
+    records = _load_inventory_records(inventory_path)
+    plan_rows = _build_library_plan(records, selected_types)
+    output_path = out or _library_plan_path(app_config)
+    append_jsonl(output_path, plan_rows)
+
+    folder_counts: dict[str, int] = {}
+    kind_counts: dict[str, int] = {}
+    unmapped = 0
+    for row in plan_rows:
+        kind_counts[row["library_kind"]] = kind_counts.get(row["library_kind"], 0) + 1
+        folder_key = f"{row['library_kind']}/{row['domain']}/{row['topic_path']}"
+        folder_counts[folder_key] = folder_counts.get(folder_key, 0) + 1
+        if row["topic_path"].startswith("_unsorted") or row["topic_path"] == "_unsorted":
+            unmapped += 1
+
+    table = Table(title="Library Plan")
+    table.add_column("Metric")
+    table.add_column("Value")
+    table.add_row("Planned records", str(len(plan_rows)))
+    for kind, count in sorted(kind_counts.items()):
+        table.add_row(kind, str(count))
+    table.add_row("Folders", str(len(folder_counts)))
+    table.add_row("Unsorted", str(unmapped))
+    table.add_row("Output", str(output_path))
+    console.print(table)
+
+    preview = Table(title="Largest folders")
+    preview.add_column("Folder")
+    preview.add_column("Count")
+    for folder, count in sorted(folder_counts.items(), key=lambda item: item[1], reverse=True)[:15]:
+        preview.add_row(folder, str(count))
+    console.print(preview)
+
 
 
 if __name__ == "__main__":

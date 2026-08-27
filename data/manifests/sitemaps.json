@@ -1,0 +1,34 @@
+{
+  "root_url": "https://www.dpird.nsw.gov.au",
+  "discovered_at": "2026-08-27T09:37:35.103771+00:00",
+  "sitemaps": [],
+  "config": {
+    "user_agent": "RAGSiteIngestBot/0.1 (+contact-you@example.com)",
+    "request_timeout": 30,
+    "request_delay_seconds": 1.5,
+    "max_retries": 3,
+    "verify_ssl": true,
+    "html_backend": "httpx",
+    "use_browser_fallback": true,
+    "headless_browser": true,
+    "crawl4ai_magic": true,
+    "follow_subdomains": false,
+    "allowed_schemes": [
+      "https"
+    ],
+    "ignored_query_prefixes": [
+      "utm_",
+      "fbclid",
+      "gclid",
+      "mc_"
+    ],
+    "output_dir": "data",
+    "sitemap_candidates": [
+      "/sitemap.xml",
+      "/sitemap_index.xml",
+      "/sitemap-index.xml",
+      "/sitemap/sitemap.xml",
+      "/sitemap1.xml"
+    ]
+  }
+}
