@@ -1,0 +1,129 @@
+The Entity Identifier (AEI) field* in the Integrated Cargo System (ICS) is used to track and manage offshore treatment certification that accompanies consignments entering Australia. Reporting the AEI enables the system to identify acceptable and unacceptable treatment providers and expedite clearance of consignments.
+An AEI must be reported for consignments treated offshore using:
+- methyl bromide
+- gamma irradiation
+- sulfuryl fluoride
+- ethyl formate
+- heat treatment
+- insecticide (deltamethrin only)
+- controlled atmosphere (atmospheric pressure)
+- a recognised offshore cleaning and pre-inspection provider.
+The target of the treatment can include non-commodity and commodity risks, including treatments to manage Brown marmorated stink bug (BMSB) and khapra beetle.
+*AQIS Entity Identifier continues to be used in the ICS environment as it has been hard coded in the system and is unable to be changed.
+Entering the AEI identifies an offshore treatment provider and helps us monitor the effectiveness of treatments conducted offshore. Profiles are created in the ICS for treatment providers that are ‘suspended’, ‘under review’, ‘withdrawn’ or ‘unacceptable’. Where an AEI is entered for a treatment provider that has an ICS profile applied, the import declaration will be referred to us. If the consignment has a valid treatment certificate, entering the AEI may expedite the clearance of the goods.
+In addition to entering the AEI, accredited persons are required to verify that details of the treatment certificate meet requirements.
+An AEI uses the format of a two-letter country code (ISO 3166-1-ALPHA2) followed by a four-digit company identification number. The scheme/treatment code is added to the end (e.g., AB 1234 SF).
+The exception to this format is the generic AEIs: ‘SFTREATED’ and ‘TREATEDEF’. These generic AEIs are used for work health and safety reasons to identify containers treated with sulfuryl fluoride or ethyl formate.
+A treatment certificate from a registered offshore treatment provider must include an AEI. Registered treatment providers are listed on the Pre-border Biosecurity Treatment Providers webpage.
+If the AEI is not included on the treatment certificate, this may indicate the treatment provider is not registered with the department.
+If you cannot locate the AEI on the treatment certificate:
+- Identify the country of origin and name of the treatment provider that issued the certificate.
+- Go to the Pre-border Biosecurity Treatment Providers webpage to find the treatment provider and their AEI.
+For recognised offshore vehicle cleaning providers, the AEI may be located on the endorsed manifest or the Recognised offshore cleaning and pre-inspection providers webpage.
+There are differences in how the AEI should be entered on the import declaration depending on the reason for the treatment, treatment type, and whether a registered or unregistered treatment provider is used.
+Specific AEI requirements apply to:
+The links below provide information on how to enter an AEI for all other treatments:
+AEI quick reference guides
+For a summary of how to correctly enter the AEI, refer to the AEI reference guide and help card below.
+Download
+- AEI Quick Reference Guide (PDF 179 KB)
+- AEI Quick Reference Guide (DOCX 244 KB)
+- Help card: Entering an AEI into the ICS (PDF 285 KB)
+- Help card: Entering an AEI into the ICS (DOCX 365 KB)
+If you have difficulty accessing these files, contact us for help.
+Entering an AEI for non-commodity
+Where non-commodity is treated offshore and is accompanied by a treatment certificate (excluding ISPM15 treatment), you must record the AEI against the first commodity line of the import declaration as required for individual treatments.
+Acceptable ISPM15 packaging and dunnage does not require an AEI to be reported.
+Assessment of the treatment certificate information is still required.
+If you determine the treatment certificate does not meet requirements:
+- enter the AEI
+- enter the relevant Approved arrangement class 19.1 concern type to refer the consignment to the department for assessment (e.g. BNCC or BCOM)
+- lodge your documentation through COLS, ensuring you include a clear explanation of the issue.
+It is a condition of Approved arrangement class 19.1 and 19.2 that an AEI must be entered where a declaration relies on a treatment certificate assessment and an AEI has been assigned to the treatment provider. Not entering the AEI is considered non-compliance against these arrangements.
+Amendment of the import declaration may be required in instances where the AEI for an acceptable treatment certificate should have been entered. This may result in clearance delays.
+To enter an AEI for treatment certificates (commodity and non-commodity) from registered treatment providers on the List of treatment providers, you should:
+- Determine the AEI of the company that issued the certificate.
+- In the AEI field in the ICS or customs broker third party software, select the appropriate AEI or AEIs from the list provided ensuring that the company name in the second column matches the company name on the certificate.
+All treatment providers (acceptable and unacceptable) are included in the AEI list in the ICS. An AEI is only required to be entered once for each consignment.
+If the treatment certificate covers multiple commodities in the consignment
+The AEI is only required to be entered against the first tariff line of the import declaration.
+If there are multiple treatment certificates for the consignment
+All the AEIs can be entered against the first tariff line of the import declaration.
+Some customs broker third party software will allocate the selected AEI to all tariff lines. This is also acceptable.
+Treatment certificates issued by unregistered treatment providers will not have an AEI number. For treatments conducted by an unregistered provider you must:
+- Identify the country of origin, treatment type, and name of the treatment provider that issued the certificate.
+- Refer to the Unregistered treatment providers list to verify if the treatment provider is listed as unacceptable or under review; note the relevant AEI number.
+- In the AEI field, in the ICS or third-party software, search the AEI list by country code, company name and treatment type to select it.
+  - If the provider is ‘unacceptable’ or ‘under review’ then choose the AEI assigned to it on the Unregistered treatment providers list.
+  - If the provider is not listed, select the relevant generic AEI for that country and treatment type from the Unregistered treatment provider list.
+An AEI is only required to be entered once for each consignment.
+If the treatment certificate covers multiple commodities in the consignment
+The AEI is only required to be entered against the first tariff line of the import declaration.
+If there are multiple treatment certificates for the consignment
+All the AEIs can be entered against the first tariff line of the import declaration.
+Some customs broker third-party software will allocate the selected AEI to all tariff lines. This is also acceptable.
+There are 4 approved treatment types to address BMSB risk:
+- Methyl bromide
+- Sulfuryl fluoride
+- Heat
+- Ethyl formate.
+Treatments performed in a BMSB target risk country, must be conducted by a treatment provider listed as ‘approved’ on the List of treatment providers. Treatment certificates will not be accepted from treatment providers listed as ‘suspended’, ‘withdrawn’, ‘unacceptable’, ‘under review’, or from unregistered treatment providers in target risk countries.
+Treatment providers from target risk countries can register to conduct BMSB treatments under the AusTreat pre-border biosecurity treatment provider scheme. Treatment providers in non-target risk countries (e.g. Singapore) can also register, but it is not mandatory.
+Learn more about BMSB requirements.
+AEI requirements for registered treatment providers
+All BMSB treatment certificates, issued by registered treatment providers, must include the treatment provider AEI number.
+AEI requirements for unregistered treatment providers
+BMSB treatments can be conducted by unregistered treatment providers if the treatment is not undertaken in a BMSB target risk country.
+BMSB treatment certificates issued by unregistered treatment providers will not have an AEI number unless the unregistered treatment provider is listed as ‘unacceptable’ or ‘under review’ on the unregistered treatment provider list. If there is no AEI associated with a treatment provider, you are required to enter the generic AEI for the country and treatment type.
+Entering the AEI for BMSB treatment
+The AEI is only required to be entered against the first tariff line of the import declaration. The only exception is for BMSB treatments of break bulk cargo, where the AEI needs to be entered against every line of target high risk goods.
+In the AEI field in the ICS or third-party software, select the appropriate AEI from the list provided ensuring that the company name in the second column matches the company name on the certificate. All registered treatment providers (acceptable and unacceptable) are included in the AEI list within the ICS. Multiple AEIs can be recorded in the same location.
+There may be occasions where a consignment is accompanied by more than one treatment certificate – for example, one for a BMSB treatment and one for a commodity treatment. In these instances, enter all AEIs against the first tariff line of the import declaration (except for break bulk cargo where the AEI needs to be entered against the corresponding lines).
+There are three approved treatment types for sea containers and three approved treatment types for high-risk plant products to manage the emerging risk of khapra beetle. These treatments include:
+| Sea containers | High-risk plant products | 
+|---|---|
+|  |  | 
+As these are urgent actions, the department will accept treatment certificates from both registered and unregistered treatment providers for methyl bromide, heat, insecticide (deltamethrin only) and controlled atmosphere treatments.
+For assurance purposes you will be required to enter an AEI number for all treatment certificates accompanying goods and containers subject to the khapra beetle measures, including those issued by both registered and unregistered treatment providers.
+Learn more about consignments subject to khapra beetle sea container measures and khapra beetle plant product measures.
+AEI requirements for registered treatment providers
+Where a khapra beetle methyl bromide, heat or controlled atmosphere treatment is conducted by a registered treatment provider on the List of treatment providers, the certificate must include the AEI number. Refer to offshore treatment providers webpage.
+You are required to select the appropriate AEI code from the reference file in the ICS or your third-party software. Refer to the Help card for guidance on how to enter an AEI into the ICS.
+AEI requirements for unregistered treatment providers
+Treatment certificates issued by unregistered treatment providers will not have an AEI number. For treatments conducted by an unregistered provider you must:
+- Identify the country of origin, treatment type, and name of the treatment provider that issued the certificate.
+- Refer to the offshore treatment providers webpage to verify if the treatment provider is listed as ‘unacceptable’ or ‘under review’; note the relevant AEI number.
+- In the AEI field, in the ICS or third-party software, search the AEI list by country code, company name and treatment type to select it.
+  - If the provider is 'unacceptable' or ‘under review’ then choose the AEI assigned to it on the relevant treatment providers list.
+  - If the provider is not listed select the generic AEI for the country and treatment type.
+An AEI is only required to be entered once for each consignment, against the first line of the import declaration.
+If the treatment certificate covers commodity and non-commodity or if there are multiple certificates for the consignment:
+The AEI is only required to be entered against the first tariff line of the import declaration. For example, this applies if:
+- the treatment certificate covers the container risk (e.g., khapra beetle) and the commodity risk (e.g., timber) or
+- there are different treatment certificates for the container risk (e.g., khapra beetle) and commodity risk (e.g., timber).
+Note:
+- treatment certificates covering containers that have been treated using heat or insecticide (deltamethrin only) for khapra beetle must only have the container listed as the target of the treatment.
+- treatment certificates covering goods that have been treated using heat or controlled atmosphere for khapra beetle must only have the goods listed as the target of treatment.
+Some customs broker third party software will allocate the selected AEI to all tariff lines. This is also acceptable.
+All containers treated with sulfuryl fluoride must be reported when lodging the import declaration, using the generic AEI ‘SFTREATED’. The generic AEI is only required to be entered against the first tariff line of the import declaration.
+AEI requirements for registered treatment providers
+For sulfuryl fluoride treatments conducted by a treatment provider on the department’s List of Treatment Providers both the generic AEI (SFTREATED) and the treatment provider specific AEI must be included on the import declaration.
+It is important that the generic AEI is reported in conjunction with the treatment provider specific AEI. This avoids unnecessary referrals of import declarations, where BMSB target high risk goods have been treated offshore.
+AEI requirements for unregistered treatment providers
+For sulfuryl fluoride treatments conducted by unregistered treatment providers the generic AEI (SFTREATED) is required to be included in the import declaration. Treatment certificates issued by unregistered treatment providers will not have an AEI number unless the unregistered treatment provider is listed as ‘unacceptable’ or ‘under review’ on the unregistered treatment provider list.
+All containers treated with ethyl formate must be reported when lodging the import declaration, using the generic AEI ‘TREATEDEF’. The generic AEI is only required to be entered against the first tariff line of the import declaration.
+AEI requirements for registered treatment providers
+For ethyl formate treatments conducted by a treatment provider found on the department’s List of treatment providers, both the generic AEI (TREATEDEF) and the treatment provider specific AEI must be included on the import declaration.
+It is important that the generic AEI is reported in conjunction with the treatment provider specific AEI. This avoids unnecessary referrals of import declarations, where BMSB target high risk goods have been treated offshore.
+AEI requirements for unregistered treatment providers
+For ethyl formate treatments conducted by unregistered treatment providers the generic AEI (TREATEDEF) is required to be included in the import declaration. Treatment certificates issued by unregistered treatment providers will not have an AEI number unless the unregistered treatment provider is listed as ‘unacceptable’ or ‘under review’ on the unregistered treatment provider list.
+To enter an AEI to report the cleaning and pre-inspection of used vehicles by an offshore treatment facility recognised by the department, customs brokers must:
+- Determine the AEI of the offshore facility, by referring to the list of recognised treatment providers of used vehicles, or the consignment manifest endorsed by the treatment provider.
+- In the AEI field in the ICS or customs broker third party software, select the appropriate AEI from the list provided. Refer to the Help card for guidance on how to enter an AEI into the ICS.
+All treatment providers currently recognised by the department are included in the AEI list in the ICS.
+The AEI must be entered for every vehicle in the consignment. Therefore, each vehicle in the consignment must be entered on a separate line of the import declaration and the associated AEI must be recorded against this line.
+Important: Any one consignment may comprise of vehicles that have been cleaned by multiple facilities of the same treatment provider, in which case more than one AEI will apply. Brokers must ensure the correct AEIs are entered so that the appropriate intervention rate is applied for each vehicle.
+Contact us
+If you are having problems entering an AEI or require further assistance, email:
+For offshore treatment enquiries: Offshoretreatments@aff.gov.au
+For approved arrangement class 19 enquiries: Class19@aff.gov.au

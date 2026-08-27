@@ -1,0 +1,46 @@
+The below FAQs were collected during industry engagement sessions for this transition.
+Process
+A coversheet is no longer required for the lodgement of documents. All information is now captured in the COLS information fields at the time of lodgement.
+No. From 10 August 2026, Australian Defence Force (ADF) Military consignment, and Unaccompanied Personal Effects documentation must be lodged through Cargo Online Lodgement System (COLS), instead of email.
+No. Information is now captured in the information fields at the time of lodgement.
+No. You will receive an ‘Auto-reply’ directing you to lodge through COLS. There is also support material on the department webpage to assist you.
+Lodgements for Ship or Aircraft Stores and Carnet will only be assessed through COLS. Refer to the auto reply email you received.
+COLS B2G is not part of the current product release. This may be explored for inclusion in future releases.
+This is not possible at the moment due to the different ways Ship or Aircraft Stores and Carnet consignments are processed compared with FID's. This may be explored for inclusion in future releases.
+Your 3rd party software may cache the information entered prior that may assist with an auto fill. Please contact your provider for details.
+The system will generate a Lodgement Reference Number and Q Entry Number which will be provided to the person making the lodgement.
+No. Making a payment will be a step while lodging your documents through COLS. You do not need to inform us of making payment again.
+Making a payment will be a step while lodging your documents through COLS. If ICS is not updated after assessment of your Carnet, please contact the department via the LRN lodgement reference number when requesting a reassessment, by selecting ‘Make an Enquiry’ or by calling 1800 900 090.
+No. Similar to other commodities requiring an import permit, there is no requirement to present a copy of the DAFF import permit. However, please ensure the permit number is identified in the COLS lodgement.
+Currently, import documents lodged by email will be processed within 3 business day of receiving it. However, for import documents lodged via COLS, we will process urgent lodgements within 1 business day and non-urgent lodgements within 2 business days of receiving it. We may take longer to process lodgements if they need policy advice, you have provided incomplete or incorrect information, or if we need more information to continue the assessment. More information about our Client Service Standards can be found on our website Client service standards.
+No. However we understand there is interest from industry to enable COLS to manage requests for documentary assessments outside of business hours, and the department continues to explore options. All requests to have import documents assessed outside business hours should be submitted using the current form Request to have import documents assessed outside business hours.
+Clients can access COLS and submit documents for import assessment at any time however, the department's business hours are 6:30 am to 6:30 pm, Monday to Friday (excluding public holidays). Documents may be assessed outside business hours at industry request, subject to officer availability and industry acceptance of the cost. Please note where officer availability is limited for assessment outside business hours, perishable and some emergency services goods will be prioritised first.
+Lodgement and timings
+No. DAFF assessment cannot begin until Australian Border Force (ABF) validates the Transhipment status for Ship or Aircraft Stores and Carnets.
+DAFF is aware of this and realise it is unavoidable with the current process. If a Carnet consignment is urgent, we recommend that the agent responsible for the import clearance of the goods makes initial contact with the department when the event has been confirmed and details, such as the location and dates, have been arranged. Each regional department office has a special events contact for clients who are planning to import goods for an event. For more information please visit Temporary imports and events.
+All requests to have import documents assessed outside business hours should be submitted using the current form Request to have import documents assessed outside business hours.
+A late lodgement occurs when documents for a sea freight shipment are submitted within 2 business days of their arrival. Where possible, documents should be lodged well in advance of arrival of the goods into Australia (between 5-7 days prior to a vessel’s arrival for sea freight and 24 hours for airfreight) as this will allow assessment to occur and any identified concerns to be addressed prior to the discharge of goods.
+No. There is no change to the current requirements for transhipment documentation. The department is unable to complete a documentary assessment of transhipments without a transhipment number as this number is issued by Home Affairs to identify the consignment as a true transhipment.
+Miscellaneous
+This change relates only to the DAFF lodgement process of Ship or Aircraft Stores and Carnet documents for biosecurity and/or imported food assessment.
+From 7 October 2025, Ship or Aircraft Stores and Carnet entry types will be lodged using COLS. Lodgements for these entry types will no longer need to be sent to the Import Assessment inbox.
+The processing of SAC Documents is being investigated as part of the STEPS program. It will be addressed in a future product release. Industry will be informed of any developments in due course.
+No. From 8 July 2026, Unaccompanied Personal Effects documentation must be lodged through Cargo Online Lodgement System (COLS), instead of email.
+Please use the COLS general enquiry function and include the LRN or COLS reference number in the additional comments section.
+You can locate your Broker ID/Importer ID for Ship or Aircraft Stores and Carnet lodgements on the coversheet that you received via email upon submission of your lodgement in COLS.
+Payment
+An Account Holder with the department is a Biosecurity Industry Participant who has lodged documents with the department previously.
+An AIMS Account Client is an entity that have been granted to receive services without paying fees up front.
+These two terms are not the same.
+Initial payment is required and must be paid prior to assessment.
+Have you provided proof of payment via the COLS ‘make an enquiry’ tab, to notify the department that payment has been completed?
+If not, submit payment details via the ‘make an enquiry’ option in COLS and select the enquiry type - ‘consignment specific enquiry’.
+If you're using a laptop or small screen and unable to move past the payment tab in COLS, it may be due to your screen's zoom level. To fix this:
+- Ensure your display resolution is set as default 1920*1200
+- Set your browser scale to 100%, or
+- Use your mouse or trackpad to zoom out.
+Once adjusted, the blue ‘Next’ button should become visible, allowing you to continue with the payment process.
+Support
+Each regional department office has a special events contact for clients who are planning to import goods for an event. For more information please visit Temporary imports and events.
+Current support avenues for post assessment or inspection enquiries remain available with the exception that the import assessment mailbox will no longer be an available channel of contact.
+Yes. Alternatively, an enquiry or a request for reassessment may be submitted through COLS.

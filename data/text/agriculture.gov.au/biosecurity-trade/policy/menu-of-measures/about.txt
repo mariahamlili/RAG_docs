@@ -1,0 +1,52 @@
+Overview
+The Menu of Measures is a resource developed by CSIRO, Australia’s national science agency, to support the assessment and management of phytosanitary risks – that is, risks to the health of plants. It helps users identify a range of potential risk-reducing phytosanitary measures and develop systems approaches to plant health.
+The menu supports global conversations about the diverse ways of managing the risks of trade-related movement of plant pests. It provides a shared framework for risk scientists, industry, regulators and policymakers to explore, compare and discuss biosecurity risk management options and their implementation. It can also assist in the development and assessment of robust data packages for use in market access negotiations.
+The menu can be applied to all:
+- plant pests (invertebrates and pathogens) of biosecurity concern
+- traded commodities and carriers.
+Check the explanations for some technical terms if you’re unsure what they mean.
+In the menu, the term ‘measure’ broadly applies to any procedure, activity, or requirement that helps to reduce biosecurity risk. This includes familiar phytosanitary measures such as disinfestation treatments, as well as risk-reducing features of the production and supply chain, such as commercial practices.
+Commercial practices are often considered during pest risk assessments. If commercial practices are included in import requirements, they are treated as regulated phytosanitary measures.
+The menu applies to a wide range of pests and commodities.
+The term ‘pests’ includes both invertebrate pests and pathogens.
+While the term ‘commodity’ is used, many measures can be applied to both commodities and carriers. Carriers can include sea containers as well as humans and their clothing and gear, such as luggage.
+How it works
+The menu is a decision support tool. It helps users identify measures available for managing phytosanitary risk and assess which are the most effective and efficient.
+It organises 41 phytosanitary measures into 10 categories, based on how each measure reduces risk. These 10 categories are then grouped under 4 overarching Risk Reduction Objectives (RRO). The RROs are:
+- Minimise exposure to pests
+- Minimise vulnerability of the commodity to infestation
+- Reduce infestation rates
+- Minimise entry and establishment risks.
+Note: The measures outlined in the menu should be considered as a guide only.
+Implementation of phytosanitary measures and the assurance activities that support them must be technically justified. They are also negotiated and agreed between the regulatory agencies of trading partners so that they:
+- are effective, practical and cost-effective
+- meet the regulatory requirements of the importing jurisdiction
+- comply with international and domestic rules and laws.
+Benefits of the Menu of Measures
+The expected benefits of the menu include:
+- Consistent approach and shared language: The menu provides a single point of reference for the large diversity of phytosanitary measures available. Phytosanitary measures are organised into a clear and coherent conceptual framework.
+- Improved rigour: The menu provides guidance on how to demonstrate the effectiveness of each measure, as well as how it can be applied and verified.
+- Risk-based: The menu guides the evaluation of how commercial practices help reduce biosecurity risk across the production and supply chain.
+- Diverse applications: The menu can be applied to both traded commodities (such as fruit, wood products and seeds for planting) and transport vectors (such as wood packaging, ships, planes, shipping containers, vehicles and passengers and their luggage). It can be applied to any invertebrate pest or pathogen of biosecurity concern.
+How it was developed
+The menu was developed following a comprehensive global review of more than 1,800 phytosanitary measures and consultation with policy experts. CSIRO researchers created the menu through the Managed Pathways project funded by us.
+Phytosanitary risk framework
+CSIRO identified that there are 41 unique measures currently in use to manage trade-related phytosanitary risks. These measures have been organised by how they reduce risk and where they are applied. They made up CSIRO’s Phytosanitary Risk Framework.
+The framework forms the backbone of the menu. For a quick introduction to the risk framework, watch CSIRO’s animation.
+Organising measures by how they reduce risk strengthens the ability to show how key risks for a specific pest-commodity combination are managed. This approach provides a solid foundation for understanding and explaining how multiple measures work together in a phytosanitary systems approach and other risk-based management approaches.
+The primary structure comes from the 4 RROs, which represent the 4 main ways that measures can reduce risk (Table 1; RRO1-RRO4). Within each RRO, the 41 individual measures are further grouped into 10 Measure Categories (Table 1). Measures can be applied at one more consignment stages: during production, post-production or at-border or post-border (Table 1).
+| Table 1. The Menu of Measures Phytosanitary Risk Framework |  |  | 
+|---|---|---|
+| Risk Reduction Objective | Consignment stage | Measure category and measures | 
+|---|---|---|
+| RRO1. Minimise exposure to pests | Production Post-production | Pest freedom or low pest prevalence  Pest management Pest avoidance Pest exclusion | 
+| RRO2. Minimise vulnerability to infestation | All stages | Minimise vulnerability | 
+| RRO3. Reduce infestation rates | All stages | Reduce pests in consignment Remove infested commodity units Remove infested consignments or high-risk pathways | 
+| RRO4. Reduce the likelihood of pest entry and establishment | At-border or post-border | Limit propagule pressure Limit import destinations or use | 
+For more information on the development of the menu and the framework, see CSIRO’s website and key publications:
+- van Klinken RD, et al. (2020) ‘A risk framework for using systems approaches to manage horticultural biosecurity risks for market access’, Crop Protection, 129:104994, doi: 10.1016/j.cropro.2019.104994.
+- van Klinken RD, et al. (2023) ‘A menu of measures to manage trade-related plant pest risks, and a review of methods for demonstrating measure efficacy’, Biological Invasions, 25(4):1227–1248, doi:10.1007/s10530-022-02977-2.
+Resources
+Citation
+To cite this webpage, use the following format:
+Kaye, L., Muller, J., Gibbons, R., Calvert, B., Hull, C., van Klinken, R.D. (2024). A Menu of Measures Resource to manage trade-related plant pest risks. {https://www.agriculture.gov.au/biosecurity-trade/policy/menu-of-measures}. Date accessed.

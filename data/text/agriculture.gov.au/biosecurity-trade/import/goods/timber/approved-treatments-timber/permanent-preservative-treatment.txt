@@ -1,0 +1,84 @@
+The department accepts certain permanent preservative treatments as biosecurity treatments for use on certain timber products and timber packaging. To find out whether a product requires a treatment for biosecurity purposes, please check the department's Biosecurity Import Conditions system (BICON).
+For clarification on the definitions of different types of timber and timber products, please see the timber and wooden articles definitions page.
+Overview of all requirements
+For a timber preservative treatment to sufficiently address biosecurity risks and be accepted as a biosecurity treatment by the department, it must meet all of the following requirements:
+[expand all]
+Suitable treatment application methods
+To be acceptable as a biosecurity treatment, all timber permanent preservative treatments must be applied by either impregnation or glueline treatment methods, depending on the product (as outlined in the table below).
+| Acceptable application method | Suitable timber products | 
+|---|---|
+| Impregnation treatments  Impregnation treatments must be applied in a pressure chamber at a commercial treatment facility for any timber product thicker than 5mm. Note: Surface spraying or fogging type methods of preservative application are not acceptable for products thicker than 5mm. For products less than 5mm thick, impregnation may be achieved with or without a pressure chamber, provided the relevant preservative penetration and retention requirements are met. |  | 
+| Glueline treatment  Glueline treatment is achieved through the addition of specialised timber preservative formulations to the glue that bonds laminated timber products together. |  | 
+Additional information for laminated products
+The department does not accept any preservative treatments that have been applied to laminated products post-lamination (e.g. envelope treatment of already laminated plywood or LVL products is not acceptable). For plywood/ LVL production the following conditions must be met:
+- All timber components of imported permanently preserved plywood and LVL must either have been preservative treated before assembly or bonded together with a glueline containing preservative, or both.
+- The thickness of individual untreated veneers used to make plywood or LVL using only a glueline treatment must not exceed 2.5 mm. Any veneers thicker than 2.5mm must be impregnation treated prior to lamination.
+- The thickness of individual permanently preserved veneers used to make plywood and LVL must not exceed 5 mm.
+The effectiveness of preservatives applied through impregnation treatments prior to lamination must not be affected by the plywood/LVL manufacturing process.
+Note: impregnation treatments applied prior to lamination may negatively impact glue bond quality.
+Preservative penetration zone requirements
+Preservative penetration zone refers to the depth to which the active ingredient(s) of the preservative has penetrated the timber.
+The following penetration zone requirements are adapted from the Australian Timber Preservations Standards AS and AS/NZS 1604 series. Specifications and preservative penetration and retention testing methods are described in the AS/NZS 1605 series (available in full from SAI Global). See also the protocols for assessment of wood preservatives on the Australian Wood Preservation Association website.
+Penetration of solid timber and unbonded glulam components
+For solid timber and unbonded glulam components, full penetration of the cross-section of a piece of timber by the preservative is desirable. When this cannot be achieved, the following minimum preservative penetration must be achieved in at least nine out of ten specimens for the treatment to be accepted by the department as biosecurity treatment.
+| Wood type | Preservative penetration zone requirement | 
+|---|---|
+| Termite resistant species (Australian Standard AS 5604 natural durability class 1 or 2) | Preservative must penetrate all of the sapwood*. Preservative penetration of the heartwood* is not required. | 
+| Non-termite resistant species (Australian Standard AS 5604 natural durability class 3 or 4) | Preservative must penetrate all of the sapwood* and at least some of the heartwood*. Some unpenetrated heartwood is acceptable, provided it:  | 
+* Sapwood is the outer layer of a tree’s wood (just under the bark), while heartwood is the dead, inner wood. Sapwood is distinguishable from heartwood by its lighter colour.
+Note: In some timber species, it is not always possible to achieve the required levels of preservative penetration. Treatments that do not meet these penetration requirements will not be accepted by the department. If the preservative penetration requirements cannot be met, alternative timbers or alternative treatments should be used.
+Penetration of veneers
+For impregnation treatments of unbonded veneers, full penetration of the cross-section of the timber veneer by the preservative is desirable. All sapwood and non-termite-resistant heartwood (see AS 5604) in any veneer shall show evidence of preservative penetration.
+For glueline treatments for plywood or LVL, penetration will be deemed acceptable provided minimum veneer thickness and preservative formulation and retention requirements are met.
+Preservative retention requirements
+To meet biosecurity requirements, timber preservative treatments must also meet minimum retention requirements. These define the quantity (expressed as %mass/mass*) of the preservative which must be retained in the specified penetration zone following treatment. The minimum preservative retention requirements vary depending on the formulation and are specified in the approved formulation tables (see the approved preservative formulations section below).
+Specifications and methods for testing preservative retention in the penetration zone are described in the AS/NZS 1605 series (available in full from SAI Global). See also the protocols for assessment of wood preservatives on the Australian Wood Preservation Association website.
+*Note: %mass/mass is a measure of preservative retention that is corrected for the oven dried density of the timber treated. %mass/ mass is the relationship between the amount of preservative retained in the required penetration zone of the timber (measured in kg of preservative retained per cubic metre of timber) and the 'oven dried density' of the timber treated (measured in kg of timber per cubic metre of timber).
+The following equation can be used to convert retention (expressed as %mass/ mass) into preservative retention (kg/m³):
+| Retention (kg/m3) = | Retention (%mass/ mass) x oven dried density of wood (kg/m³) | 
+|  | 100 | 
+Accepted preservative formulations
+The department only accepts preservative formulations with active ingredients (insecticidal and/or fungicidal chemicals) that it has deemed to be adequate for addressing biosecurity risk.
+To be accepted by the department for use as biosecurity treatment, formulations must:
+- Be listed on the list of accepted treatment formulations for the relevant application and meet the associated specified retention requirements; and/or
+- Comply with the relevant Australian Standards AS or AS/NZ 1604 specifications for Hazard Class 2 and above (i.e. H2-H6) and meet the associated requirements specified for ‘above the tropic of Capricorn’ or ‘all regions’ (consult published standards or see the Australian Timber Preservation Standards relevant to biosecurity).
+Note: The list of acceptable treatment formulations specifies acceptable formulations by chemical class and associated trade names, but does not necessarily include all formulations that conform to biosecurity requirements. The Australian Timber Preservation Standards (AS or AS/NZS 1604 series) specifies chemical class and composition requirements but does not specify trade names within those chemical classes.
+To demonstrate compliance with these four requirements, a permanent timber preservative treatment certificate
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) PDF [112 KB]
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/msword.gif) Word [24 KB] must be completed by the treatment provider.
+Summary of requirements by product type
+[expand all]
+Sawn and round timber and unbonded glulam components (termite-resistant species)
+| To meet the department's standards, the following requirements must be met: |  | 
+|---|---|
+| Product specifications | Sawn and round timber and unbonded glulam components (termite-resistant species as specified in Australian Standard AS 5604 natural durability class 1 or 2) | 
+|---|---|
+| Application method | Impregnation (pressure chamber only) | 
+| Penetration zone | Preservative must penetrate all of the sapwood. Preservative penetration of the heartwood is not required. | 
+| Formulations and retention | Be listed in the ‘preservatives for treating solid timber’ section of the department's Approved Timber Permanent Preservative Formulations list and/or Comply with the Australian Standards AS 1604.1 or AS/NZS 1604.5 specifications for Hazard Class 2 and above (i.e. H2-H6) and meet the associated retention requirements specified for ‘above the tropic of Capricorn’ or ‘all regions’ (see table 2 in the Australian Timber Preservation Standards). | 
+Sawn or round timber and unbonded glulam components (non termite-resistant species)
+| To meet the department's standards, the following requirements must be met: |  | 
+|---|---|
+| Product specifications | Sawn or round timber and unbonded glulam components (non termite-resistant species as specified in Australian Standard AS 5604 natural durability class 3 or 4): | 
+|---|---|
+| Application method | Impregnation (pressure chamber only) | 
+| Penetration zone | Preservative must penetrate all of the sapwood and at least some of the heartwood. Some unpenetrated heartwood is acceptable, provided:  | 
+| Formulations and retention | Be listed in the ‘preservatives for treating solid timber’ section of the department's Approved Timber Permanent Preservative Formulations list and/or Comply with the Australian Standards AS 1604.1 or AS/NZS 1604.5 specifications for Hazard Class 2 and above (i.e. H2-H6) and meet the associated retention requirements specified for ‘above the tropic of Capricorn’ or ‘all regions’ (see table 2 in Australian Timber Preservation Standards relevant to biosecurity). | 
+Unbonded veneers
+| To meet the department's standards, the following requirements must be met: |  | 
+|---|---|
+| Product specifications | Unlaminated veneers less than 5mm thick | 
+|---|---|
+| Application method | Impregnation (prior to lamination process)* | 
+| Penetration zone | Preservative should penetrate full thickness of each veneer | 
+| Formulations and retention | Be listed in the ‘preservatives for treating solid timber’ section of the department's Approved Timber Permanent Preservative Formulations list and/or Comply with the Australian Standards AS/NZS 1604.3 or AS/NZS1604.4 specifications for veneer treatments Hazard Class 2 and above (i.e. H2-H6) and meet the associated retention requirements specified for ‘above the tropic of Capricorn’ or ‘all regions’ (see table 3 in the Australian Timber Preservation Standards relevant to biosecurity). | 
+* Alternatively veneers up to 2.5mm thick may be treated using glueline treatment during lamination – see “plywood and laminated veneer lumber” below.
+Plywood and laminated veneer lumber (LVL)
+| To meet the department’s standards, the following requirements must be met: |  | 
+|---|---|
+| Product specifications | Plywood and LVL comprising of individual veneers each up to 2.5mm thick | 
+|---|---|
+| Application method | Glueline treatment (during lamination process)* | 
+| Penetration zone | Preservative should penetrate full thickness of each veneer | 
+| Formulations and retention | Be listed in the ‘preservatives for glueline treatments of veneer based products’ section of the department's Approved Timber Permanent Preservative Formulations list and/or Comply with the Australian Standards AS/NZS 1604.3 or AS/NZS 1604.4 specifications for glueline treatments Hazard Class 2 and above (i.e. H2-H6) and meet the associated retention requirements specified for ‘above the tropic of Capricorn’ or ‘all regions’ (see table 4 in the Australian Timber Preservation Standards relevant to biosecurity). | 
+* Alternatively veneers up to 5mm thick may be treated using impregnation treatment prior to lamination – see “unbonded veneers” above

@@ -1,0 +1,40 @@
+The Department of Agriculture, Fisheries and Forestry Export Documentation System (EXDOC) is used to generate export documents.
+This may include:
+- export permits
+- certificates and related documents as required by importing countries.
+The EXDOC system is used for export prescribed primary produce from Australia.
+Commodities included in EXDOC are:
+- grains
+- horticulture.
+We are incrementally onboarding commodities onto the next export documentation system (NEXDOC). Commodities currently available on NEXDOC are:
+Registering in EXDOC
+You can apply for different levels of access to EXDOC, depending on how much of the export documentation process you want to complete yourself.
+Register as an:
+- Exporter — your name and address will be included as the exporter/owner on any documents generated for you.
+- EDI user — to generate requests for export permits, certificates and related documents.
+- Exporter and EDI user — your name and address will be registered in the EXDOC system as an exporter and you will be able to request export permits, certificates and related documents.
+Linking EXDOC and Integrated Cargo System
+Users of both EXDOC and the Department of Home Affairs Integrated Cargo System (ICS) can link the two systems by requesting access to Single Electronic Window (SEW).
+Buying EXDOC software
+If you want to register in EXDOC as an EDI user, you will need to buy a software package to communicate with EXDOC from an accredited EXDOC software supplier. This must be done before you submit your application form.
+After you purchase the software, we will:
+- issue your unique EDI user number
+- direct you to the correct area for EDI knowledge testing.
+Software maintenance
+Suppliers of EXDOC software are required to keep their software package up to date.
+Access the latest:
+EXDOC users should contact your software supplier for details on:
+- delivery of software updates
+- and any associated fees applicable for completing updates.
+Costs of using EXDOC
+There are two sets of costs associated with using EXDOC.
+- Fees and charges for requesting export permits and related documentation are administered by the Department. Check our charging guidelines for costs associated with export documentation.
+- Cost of purchasing EXDOC software will vary depending on the software supplier. Contact EXDOC software suppliers for prices.
+Contact EXDOC help desk
+The EXDOC help desk provides support to clients using the EXDOC system for the creation and processing of Requests for Permit (RFPs).
+- In-office support is available Monday to Friday between the hours of 9.00am to 5.00pm (Eastern Standard Time)
+- On-call officer support is provided outside these hours for product leaving before next business day.
+Contact numbers for the helpdesk are:
+- (02) 6272 4700
+- (02) 6272 4800
+Written requests for assistance can be emailed to EXDOC.Helpdesk@aff.gov.au.

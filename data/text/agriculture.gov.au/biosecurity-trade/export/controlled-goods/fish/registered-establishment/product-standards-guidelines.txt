@@ -1,0 +1,106 @@
+The department has created this set of guidelines to assist those wishing to prepare fish products in Australia for export, as well as those wishing to export the final products.
+This guideline sets out mandatory minimum testing requirements for export establishments that prepare fish products. The document also contains European Union (EU)-specific requirements for fish products exported to the EU. The requirements are mandatory, must be incorporated into the manufacturing establishment’s Approved Arrangement and will be verified through regular export audits.
+Product testing assesses the performance of an export registered establishment’s food management system (Approved Arrangement) in producing compliant fish and fish products. A regular program of product testing provides the Australian Government with a level of assurance, which allows them to issue export health certification. See the department’s website for more information on registration, Approved Arrangements and government export health certification.
+Where the importing country has a different food standard to Australia, establishments must demonstrate compliance with this standard for all fish intended for export to that market.
+This guideline mandates minimum testing requirements for some fish and fish products. Additional product testing may be required to verify that controls documented in your Approved Arrangement (AA) are effective in producing compliant fish and fish products. Accurate product descriptions and thorough hazard analysis of all product lines for the potential presence of contaminants, natural toxicants (for example, ciguatoxin) and residues will assist in determining where additional product testing is required to verify the adequacy of your AA.
+Additional testing may also be required:
+- when food additives that may have regulated limits are used (for example, sulphur dioxide in crustacea)
+- to verify that product complies with the relevant regulatory levels as detailed in the Australian New Zealand Food Standards Code (FSC) or as set by importing country authorities
+- to verify that action taken to address non-compliance has been effective
+- to verify that a specific shipment meets importing country requirements
+- as a result of sanctions.
+Minimum testing requirements for export to the EU are provided at Tables 5 and 6. Known requirements of other importing countries can be found in the Manual of Importing Country Requirements (Micor).
+Under Australia’s export legislation a registered establishment must notify the department when product has been found to be or is suspected of being unsafe and an export permit has been issued. Procedures for this must be covered in the export registered establishment’s Approved Arrangement.
+The minimum testing required for export is outlined in Tables 1 to 4. Table 1 outlines specific testing for contamination that may occur before harvest (sourcing requirements). Tables 2 to 4 outline specific testing for contamination that may occur post-harvest and during manufacture (Hazard Analysis Critical Control Point (HACCP) verification).
+The testing requirements can be integrated into other testing that the establishment undertakes for domestic or commercial arrangements.
+Who conducts testing?
+If required by an importing country or if declarations relating to test results are required on certification, all testing must be carried out in a National Association of Testing Authorities (NATA) or International Accreditation New Zealand (IANZ) accredited laboratory. If not required for these purposes, testing can be conducted in-house or at non-NATA-accredited laboratories.
+What testing methods can be used?
+Alternate test methods are permitted for sourcing and HACCP verification in Tables 1, 3 and 4 only where the laboratory has determined equivalence to the test methods prescribed by the FSC (if one is prescribed) but may not be allowable for confirming specific declarations on certification or importing country requirements. Tables 5 - 7 stipulate EU methods as set out in Regulation (EC) No 2073-2005 Microbiological Criteria. This regulation also sets out the use of alternate analytical methods – use of alternative methods should be discussed with your NATA accredited laboratory.
+Chemical and micro testing notes
+The FSC (Standard 1.1.1) requires that foods comply with the prescribed microbiological limits at any stage of their manufacture or sale. Consideration should be given to sampling product at intervals that can verify shelf life and where ‘use by’ labelling is applied to packaging.
+Testing may be minimised for certain environmental or sourcing hazards where valid technical data can be provided that supports the likelihood that fish taken from particular areas will contain levels of environmental contaminants within acceptable limits. For example, data from the department’s Fisheries Branch or National Residue Survey (NRS) can be used to reduce the minimum testing tabled in this document on a case-by-case basis after consultation with the Dairy, Egg and Fish Export Program.
+Where the test is a presence/absence test for a specific food pathogen, the testing laboratory may composite the sub-samples and conduct one test. You should discuss your product testing needs with the laboratory before sending samples for analysis.
+Antibiotic testing
+Documented evidence of nil use of antibiotics, including in feed, may be used to justify minimum testing of one sample per year per supplier for antibiotic testing of product. NRS test results for antibiotics can be substituted for this test (if they are within 12 months).
+Tables 1 to 4 detail fish products that require testing, according to risk, and provides corresponding minimum testing frequencies.
+Table 1 Testing requirements to verify the source of fish and fish products
+| Product type | Test required | Frequency of sampling | Sample size | Regulatory levels | Notes | 
+|---|---|---|---|---|---|
+| Scallops exported roe-on and whole | Amnesic Shellfish Poison (ASP) Diarrhoeic Shellfish Poison (DSP) Paralytic Shellfish Poison (PSP) Neurotoxic shellfish poisons (NSP) | At least once per year for each area/zone (relevant to the state fishery) that scallops are sourced from. | One 100g sample per lot a | ASP maximum level of 20 mg/kg DSP maximum level of 0.2 mg/kg PSP maximum level of 0.8 mg/kg NSP maximum level of 200 MU/kg As per Australia New Zealand Food Standards Code (FSC) Standard 1.4.1. (note 0.8 mg/kg brevitoxin -2 is equivalent to 20MU b) | Whenever there are indications, such as severe storms and algal blooms, that increase the potential for contamination with biotoxins, additional biotoxin testing should be considered. The test results must identify the area/zone of the fishery. Biotoxin testing is not required for scallops harvested under an export approved Australian Shellfish Quality Assurance Program (ASQAP) management plan that includes biotoxin management. | 
+| Aquaculture fish (including crocodile, crustacea and gastropods but excluding bivalve molluscs) | Antibiotics—general screen | A minimum of one annual test per aquaculture farm is required. | One 100g sample per lot a | As per FSC Standard 1.4.2 |  | 
+| Finfish (including fish products manufactured from) of the following families: Scrombridae (tuna and mackerels), Clupeidae (including herrings and sardines), Engraulidae (anchovy), Coryphaenidae (dolphin fish), any other fish susceptible to histamine formation such as yellowtail kingfish. | Histamine | At least once per year per catcher vessel/aquaculture farm. | One (5 x 100g sub-sample) per lot a | Maximum level of 200 mg/kg As per FSC Standard 1.4.1 (for all fish) | When there is an indication that temperature control has not been maintained, additional histamine testing should be considered. Additional finfish species should be considered for testing where there have been previous known incidents with histamine levels. This testing is only required if finfish are exported as whole (whether gilled and gutted or not). | 
+| Unprocessed fishery products | Total Volatile Nitrogen (TVB-N) | When an organoleptic assessment has raised doubts as to the freshness of the product a TVB-N check is performed |  |  |  | 
+a A ‘lot’ is declared as a quantity of processed food of the same type, processed or packed under essentially the same conditions, during a particular period of time (not generally exceeding 24 hours) and usually from a particular processing or packing line. For shellfish, a ‘lot’ means a single species of shellfish harvested from a particular harvest area and designated by a single harvest record number.
+b Refer to Appendix 5: FDA and EPA Safety levels in Regulations and Guidance from the Fish and Fishery Products Hazards and Controls Guidance Fourth Edition – June 2021.
+The frequency for testing of fish products will depend on whether the establishment prepares the product types detailed and the intended use of these products.
+Table 2 Frequency of testing for product types specified in Tables 3 and 4
+|  | Product type | Test frequency | 
+|---|---|---|
+| Low | Live fish and crustacea | 6 monthly | 
+| Medium | Fish and fish products intended to be cooked or further processed before consumption | 4 monthly | 
+| High | Ready-to-eat fish and fish products | 3 monthly | 
+Table 3 Minimum testing regime of fish and fish products to verify HACCP—microbiological
+| Product type | Micro-organisms | Sampling plan |  | Regulatory levels (Food Standards Code, Standard 1.6.1 and schedule 27) |  | 
+|---|---|---|---|---|---|
+|  |  | (n) | (c) | (m) | (M) | 
+| Cooked crustacea | Coagulase positive staphylococci | 5 | 2 | 100/g | 1000/g | 
+|  | Salmonella | 5 | 0 | Not detected in 25g | – | 
+|  | SPC | 5 | 2 | 100 000/g | 1 000 000/g | 
+| Raw crustacea | Coagulase positive staphylococci | 5 | 2 | 100/g | 1000/g | 
+|  | Salmonella | 5 | 0 | Not detected in 25g |  | 
+|  | SPC | 5 | 2 | 500 000/g | 5 000 000/g | 
+| Bivalve molluscs (other than scallops) | Escherichia coli | 5 | 1 | 2.3/g | 7/g | 
+| Ready-to-eat food in which growth of Listeria monocytogenes can occur | Listeria monocytogenes | 5 | 0 | Not detected in 25g | 0 | 
+| Ready-to-eat food in which growth of Listeria monocytogenes will not occur | Listeria monocytogenes | 5 | 0 | 100 cfu/g | – | 
+(n) is the number of samples to be taken. (c) is the maximum allowable number of defective sample units. (m) is the acceptable microbiological level in a sample unit. (M) is the level that when exceeded in one or more samples would cause the lot to be rejected.
+Table 4 Minimum testing regime of fish and fish products to verify HACCP—other standards
+| Food category | Contaminant or chemical | Sample size | Regulatory level | Notes | 
+|---|---|---|---|---|
+| Finfish (including fish products manufactured from) of the families: Scrombridae (tuna and mackerels), Clupeidae (including herrings and sardines), Engraulidae (anchovy), Coryphaenidae (dolphin fish), any other fish susceptible to histamine formation such as yellowtail kingfish. | Histamine | One (5 x 100g sub-sample) per lot | Maximum level of 200 mg/kg | Additional finfish species should be considered for testing where there have been previous known incidents with histamine levels. This testing is not applied where the finfish being exported are whole (whether gilled and gutted or not) and testing to verify the source of the product is in place. | 
+Table 5 Biotoxin and contaminants testing for the European Union
+| Food category | Micro-organisms /their toxins, metabolites | Sample size | EU regulatory levels | Frequency of testing | When the criterion applies | Analytical reference method | Sampling—plan | 
+|---|---|---|---|---|---|---|---|
+| Scallops (including both roe-on and roe-off) harvested in the open ocean (i.e. off-shore areas). Abalone (regardless of whether from aquaculture or wild origin) | Amnesic Shellfish Poison (ASP) (Domoic acid) | 100g | Maximum level of 20mg of Domoic acid/kg | once every 10 shipments | End of the manufacturing process | High-performance liquid chromatography (HPLC) or equivalent* | A biotoxin test must be carried out at least once per year for each area/zone (relevant to the state fishery) and whenever there are indications, such as algal blooms that increase the potential for contamination with biotoxins. Testing methodology: liquid chromatography mass spectrometry (LC-MS/MS). This test must be covered under the laboratory’s NATA/IANZ scope of accreditation. | 
+|  | Paralytic Shellfish Poison (PSP) | 100g | Maximum PSP level 800 micrograms of saxitoxin equivalent diHCL/kg | once every 10 shipments | End of the manufacturing process | Pre-column HPLC (Lawrence method) or equivalent* |  | 
+|  | Okadaic acid, dinophysistoxis and pectenotoxins together (DSP) | 100g | maximum level 160 micrograms of Okadaic acid equivalents/kg | once every 10 shipments | End of the manufacturing process | Liquid Chromatography Mass Spectrometry (LC-MS/MS) or equivalent* |  | 
+|  | Yessotoxins | 100g | Maximum level 3.75mg of yessotoxin equivalent/kg | once every 20 shipments | End of the manufacturing process |  |  | 
+|  | Azaspiracids | 100g | Maximum level 160 micrograms of azaspiracids equivalents/kg | once every 20 shipments | End of the manufacturing process |  |  | 
+| Prawns# | Cadmium | 100g | Maximum level 0.5mg/kg | One sample every 6 months | End of the manufacturing process—as packaged for export | As the European Union may test product from each vessel on arrival you are strongly advised to discuss what test results are required with your agent or buyer before the consignment is consolidated for export. |  | 
+^ Refer to regulation (EC) 853/2004 for additional explanation
+*Refer to regulation (EC) 2073-2005 and the section that sets out the use of alternate analytical methods
+# Refer to Regulation (EC) No 1881-2006
+Table 6 Microbiological criteria for the European Union
+| Food category# | Micro-organisms, their toxins, metabolites# | Sampling plan n# | Sampling plan c# | EU regulatory levels# |  | Analytical reference method# | When the criterion applies# | Frequency of testing | 
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  | m | M |  |  |  | 
+| 1.2. Ready to eat foods able to support the growth of L. monocytogenes, other than those intended for infants and for special medical purposes | Listeria monocytogenes | 5 | 0 | 100 cfu/g |  | EN/ISO 11290-2 or equivalent* | Product placed on the market during their shelf-life | As per Table 2 | 
+|  |  | 5 | 0 | Not detected in 25g |  | EN/ISO 11290-1 or equivalent* | Before the food has left the immediate control of the food business operator who has produced it | As per Table 2 | 
+| 1.3 Ready-to-eat foods unable to support the growth of L. monocytogenes, other than those intended for infants and for special medical purposes | Listeria monocytogenes | 5 | 0 | 100 cfu/g |  | EN/ISO 11290-2 or equivalent* | Products placed on the market during their shelf-life | As per Table 2 | 
+| 1.16. Cooked crustaceans and molluscan shellfish | Salmonella | 5 | 0 | Not detected in 25g |  | EN ISO 6579-1 or equivalent* | Products placed on the market during their shelf life | As per Table 2 | 
+| 1.17. Live bivalve molluscs and live echinoderms, tunicates and gastropods | Salmonella | 5 | 0 | Not detected in 25g |  | EN ISO 6579-1 or equivalent* | Products placed on the market during their shelf life | As per Table 2 | 
+| 1.25. Live bivalve molluscs and live echinoderms, tunicates and marine gastropods | E.coli | 5 | 1 | 230 MP/100g of flesh and intravalvular liquid | 700 MPN/100g of flesh and intravalvular liquid | EN/ISO 16649-3 or equivalent* | Products placed on the market during their shelf life | As per Table 2 | 
+| 1.26. Fishery products from fish species associated with a high amount of histadine | Histamine | 9 | 2 | 100mg/kg | 200mg/kg | EN ISO 19343 or equivalent* | Products placed on the market during their shelf life | As per Table 2 | 
+| 1.27. Fishery products, except those in food category 1.27a, which have undergone enzyme maturation treatment in brine, manufactured from fish species associated with a high amount of histidine | Histamine | 9 | 2 | 200mg/kg | 400mg/kg | EN ISO 19343 | Products placed on the market during their shelf life | As per Table 2 | 
+| 1.27a Fish sauce produced by fermentation of fishery products | Histamine | 1 | 0 | 400 mg/kg |  | EN ISO 19343 | Products placed on the market during their shelf life | As per Table 2 | 
+n = number of units comprising the samples c=number of samples units giving values between m and M.
+#Refer to regulation (EC) 2073-2005, Chapter 1, Food safety criteria for further explanation and interpretation of results
+*Refer to regulation (EC) 2073-2005 and the section that sets out the microbiological use of alternate analytical methods
+Table 7 Process hygiene criteria for the European Union
+| Food category# | Micro-organisms# | Sampling plan# |  | EU regulatory levels# |  | Analytical reference method# | When the criterion applies# | Action in case of unsatisfactory results# | Frequency of testing | 
+|---|---|---|---|---|---|---|---|---|---|
+|  |  | n | c | m | M |  |  |  |  | 
+| 2.4.1. Shelled and shucked products of cooked crustacea and cooked molluscan shellfish | E.coli | 5 | 2 | 1 MPN /g | 10 MPN/g | ISO TS 16649-3 or equivalent* | End of the manufacturing process | Improvements in production hygiene | As per Table 2 | 
+|  | Coagulase-positive staphylococci | 5 | 2 | 100 cfu/g | 1 000 cfu/g | EN/ISO 6888-1 or 2 or equivalent* | End of the manufacturing process | Improvements in production hygiene | As per Table 2 | 
+n = number of units comprising the sample. c = number of sample units giving values between m and M.
+#Refer to regulation (EC) 2073-2005, Chapter 2, Process Hygiene criteria for further explanation and interpretation of results.
+*Refer to regulation (EC) 2073-2005 and the section that sets out the microbiological use of alternate analytical methods.
+The information in this appendix is from Commission Regulation No. 853/2004 laying down the specific hygiene rules for food of animal origin; Commission Directive No 333/2007 laying down the sampling methods and the methods of analysis for the official control of the levels of lead, cadmium, mercury,3-MCPD and benzo(a)pyrene in foodstuffs; and Commission Regulation No 2073/2005 on microbiological criteria for foodstuff. Commission Regulation No. 2074/2005, 1664/2006, Regulation (EC) No 1881-2006 and 15/2011 are also referenced. Commission Regulations and directives are available from the European Union’s official website.
+Information on EU requirements for additives and flavourings is available from the EU Foods system application.
+Contact
+Dairy, Egg and Fish Export Program
+Residues and Food Branch
+Exports and Veterinary Services Division
+Department of Agriculture, Fisheries and Forestry
+GPO Box 858, Canberra ACT 2601
+Email: dairyeggsfish@aff.gov.au

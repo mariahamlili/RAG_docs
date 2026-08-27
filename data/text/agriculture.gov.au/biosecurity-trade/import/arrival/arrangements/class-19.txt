@@ -1,0 +1,57 @@
+Approved arrangement class 19 allows an accredited person to assess documentation and manage biosecurity risk by applying codes. Codes are entered at the time of lodging an import declaration in the Integrated Cargo System (ICS) or third-party software. Our Agriculture Import Management System (AIMS) then uses the codes to generate biosecurity notices.
+The approved arrangement class 19 is comprised of two subclasses:
+- Class 19.1 non-commodity for containerised cargo clearance
+Allows an accredited person to assess documentation associated with containerised sea freight against the non-commodity import conditions.
+- Class 19.2 entry processing for commodities
+Allows an accredited person to assess commodity import documentation associated with in scope Approved arrangement class 19.2 commodities.
+Benefits and cost savings
+The approved arrangement class 19 provides industry with the following benefits:
+- The ability to generate AIMS notices at the time of lodgement and outside of regular office hours.
+- Reduced costs, as import declarations lodged under approved arrangement class 19 are not subject to assessment fees (unless subject to verification activities). Fees and charges applicable to approved arrangement class 19 can be found in the department’s Charging guidelines.
+The approved arrangement also benefits us by reducing the volume of document assessments being performed by our biosecurity officers. This efficiency allows us to better utilise staff to strategically target ‘higher risk’ imported goods, and better manage biosecurity operations.
+Training and accreditation
+To become accredited under approved arrangement class 19, a licensed customs broker or self-reporting importer must complete specialist training. Once accredited they are referred to as an ‘accredited person’. Accredited persons must maintain their accreditation by completing annual mandatory development activities.
+For further details refer to our Training and accreditation for approved arrangements webpage.
+Biosecurity risk management assurance and monitoring compliance
+As part of the conditions to operate under the approved arrangement, accredited persons must be in possession of consignment specific documentation that meets the relevant policy and BICON requirements. If the approved arrangement class 19 requirements and conditions cannot be met, the consignment must be assessed by a biosecurity officer. We also conduct regular verification activities to ensure requirements and conditions are complied with.
+The process for assessing and monitoring compliance in an approved arrangement, and handling of cases of noncompliance, is outlined in the Approved arrangements general policies.
+For details on how to comply with class 19 conditions and to understand the associated compliance classifications and enforcement actions for non-compliance, refer to Compliance classifications for class 19 approved arrangements.
+Class 19.1 policy:
+Other policies relating to class 19.1:
+- Minimum documentary and import declaration requirements policy
+- Non-commodity information requirements policy
+Useful links:
+Class 19.2 approved arrangement policy:
+Class 19.2 approved commodities:
+Other policies relating to class 19.2:
+Useful links:
+BICON:
+If you are an accredited person under class 19.2, you must login to your BICON account to determine the appropriate biosecurity outcome and class 19.2 code to enter in the system for a particular import pathway.
+For help obtaining BICON user access, refer to the Account registration and maintenance section under the BICON system Help tab.
+Notice board
+On 28 May 2025, we updated the pre-export treatment and phytosanitary certification requirements for high-risk plant products and sea containers subject to khapra beetle measures.
+Three key changes were implemented. For more information, refer to the:
+If you have difficulty accessing these files, contact us for help.
+As outlined in industry advice notice 05-2025, Biosecurity Cargo Status Tracker (BCST) reporting is now available to all accredited persons who operate under approved arrangement class 19 via the Biosecurity Portal.
+The video below outlines the benefits of using the BCST reports.
+Introduction to the Biosecurity Cargo Status Tracker
+Accredited persons can also log in to their Learnhub account to access additional help cards and training material in relation to these reports.
+As outlined in industry advice notice 226-2024, the CBC activity for this period is available on the Learnhub platform.
+Accredited persons must ensure they complete the CBC activity and assessment by Monday 17 March 2025.
+Failure to complete the CBC activity and assessment will result in the cancellation of your accreditation.
+Launching 27 June 2024, the department’s ‘External verification for eCertificates’ will enable accredited persons to self-service and view eCertificates online when undertaking document assessment activities.
+Further details on the rollout are outlined in industry advice notice 136-2024.
+The department has implemented urgent actions to protect against khapra beetle on a range of plant products that are hosts of this pest, and as a hitchhiking pest in and on sea containers. These actions were implemented in phases.
+For further information and implementation dates refer to ‘Urgent actions to protect against khapra beetle’.
+Class 19.1 impacts
+If you are operating under an approved arrangement, you must report and manage khapra beetle risk (for non-commodity) by:
+- assessing documentation for target risk containers packed in a khapra beetle target risk country that will be unpacked in a rural khapra risk postcode in Australia
+- ensuring target risk containers are accompanied by appropriate certification and the AEI is reported to address khapra beetle risk
+- reporting if a container subject to khapra beetle measures does not meet requirements, through the khapra concern type (KPRA).
+Class 19.2 impacts
+If you are operating under approved arrangement class 19.2, you must report and manage khapra beetle risk (for commodity) by:
+- Assessing commodity documentation for high-risk plant products in scope of class 19.2 (i.e. rice and milling products) according to the appropriate commodity BICON case and the ‘Non-Commodity Cargo Clearance’ BICON case.
+For consignments that are considered target risk sea containers for khapra beetle and contain high risk plant products, the container khapra risk/container treatment certificate must be assessed before the commodity risk.
+Refer to the infographic Khapra beetle sea container measures: onshore assessment, for further guidance on this assessment.
+Contact us
+For further information, email class19@aff.gov.au.

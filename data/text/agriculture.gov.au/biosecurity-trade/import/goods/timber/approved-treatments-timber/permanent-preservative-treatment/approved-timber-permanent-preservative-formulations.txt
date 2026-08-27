@@ -1,0 +1,331 @@
+This page lists timber preservative formulations (by chemical class as a list of acceptable trade names) that the department has approved for use as biosecurity treatments as well as the minimum preservative retention requirement for each formulation. To be accepted by the department, preservative treatments must also be applied using an appropriate method and meet penetration zone requirements as outlined on the Timber permanent timber preservative treatments webpage.
+Please note that the department no longer assesses new formulations. For any preservative formulations not listed below, check to see if they meet the biosecurity requirements for compliance to the Australian Timber Preservation Standards.
+For acceptable preservatives the minimum retention of active ingredients required is given below as %mass/mass. Use the following equation to convert retention (%mass/ mass) into retention (kg/m³):
+| Retention (kg/m3) = | Retention (%mass/ mass) x Density of plywood (kg/m³) | 
+|  | 100 | 
+Preservatives for treating solid timber
+The department accepts the preservative formulations listed below for impregnation treatments of solid timber (lumber, timber packaging/dunnage, wooden articles, unbonded glulam components) and unbonded timber veneers of maximum 5mm thickness.
+Water borne timber preservatives
+[expand all]
+2.1.1 Copper chrome arsenic (CCA) timber impregnation preservatives
+These timber preservatives are mixtures of various compounds of copper, chromium and arsenic.
+Preservatives of this type must be formulated from either salts or oxides of bivalent copper, hexavalent chromium and pentavalent arsenic. In the formulated preservative and the solution used to treat the timber, the ratio of these active elements shall fall within the following limits
+- Copper: 23-25%
+- Chromium 38-45%
+- Arsenic 30-37%.
+The minimum concentration of CCA-type preservative in the zone required to be penetrated shall be 0.320% mass/mass (elemental copper + elemental chromium + elemental arsenic) based on the oven dried mass of the wood. This is deemed to be the minimum retention requirement.
+Calculation of preservative retentions relies on a number of assumptions. These are listed in the example below. Minimum retention for each CCA preservative may be calculated as follows:
+- Each elemental concentration of copper, chromium and arsenic is converted to the form in which it appears in the formulation, i.e.
+	
+  - %Cu to % Cu formulation e.g. % Cu to % CuSO4.5H2O
+  - %Cr to % Cr formulation e.g. % Cr to % K2Cr2O7
+  - %As to % As formulation e.g. % As to % As2O5.2H2O
+- Formulation concentrations are then added to provide a Total Formulation Value (TFV); i.e.
+	
+  - % CuSO4.5H2O + % K2Cr2O7 + % As2O5.2H2O = %TFV
+- The % TFV is then multiplied by the wood density/100. In the absence of more detailed information, 500 kg/m3 may be assumed as the wood density value for Pinus timbers and 1000 kg/m3 assumed as the value for hardwoods, therefore;
+	
+  - %TFV x wood density/100 = piece retention
+In general, piece retention is about 60% of charge retention and so Charge retention = piece retention x 1.6.
+The CCA timber impregnation preservative formulations that appear in Table 2.1.1 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.1.1: Timber impregnation formulations containing CCA as active ingredient |  | 
+|---|---|
+| Preservative formulation | Minimum active ingredient retention in the required Penetration Zone (%mass/mass) | 
+|---|---|
+| Ascu A | 0.32 | 
+| Bicurith C | 0.32 | 
+| Boliden K 33 | 0.32 | 
+| Celbronze PT | 0.32 | 
+| Celcure A | 0.32 | 
+| Celcure AN | 0.32 | 
+| Celcure A (oxide) | 0.32 | 
+| Celcure AO | 0.32 | 
+| Celcure A(P) | 0.32 | 
+| Celcure A Paste | 0.32 | 
+| Celcure C | 0.32 | 
+| Celcure C72 | 0.32 | 
+| Celcure K33 | 0.32 | 
+| Chemicca Impretect C | 0.32 | 
+| Chemicca Impretect C Oxide | 0.32 | 
+| Chemonite | 0.32 | 
+| Copas LC/A | 0.32 | 
+| Cryptogil C | 0.32 | 
+| Cryptogil CP | 0.32 | 
+| Cryptogil CO | 0.32 | 
+| Cryptogil COP | 0.32 | 
+| Cryptogil COP2 | 0.32 | 
+| Duralin K33 | 0.32 | 
+| Fujisolute | 0.32 | 
+| Fujisolute CCA type B | 0.32 | 
+| Greenwood | 0.32 | 
+| Impretect C | 0.32 | 
+| Injecta CCA-C | 0.32 | 
+| Injecta K33 | 0.32 | 
+| Injecta K33-C | 0.32 | 
+| Injecta Osmose K33-C | 0.32 | 
+| Kemira K33 type B | 0.32 | 
+| Kemira K33 type C | 0.32 | 
+| Kemwood CCA -C | 0.32 | 
+| Kemwood K33 type B | 0.32 | 
+| Kemwood K33 type C | 0.32 | 
+| Lahontuho K33 | 0.32 | 
+| Laporte CCA type 1 | 0.32 | 
+| Laporte CCA type 2 | 0.32 | 
+| Laporte CCA type C | 0.32 | 
+| Malenit CCA | 0.32 | 
+| Mekure T1 | 0.32 | 
+| Mekure T2 | 0.32 | 
+| Neo Malenit | 0.32 | 
+| Nissan CCA | 0.32 | 
+| Nissan CCA type C | 0.32 | 
+| Osmose CCA Oxide | 0.32 | 
+| Osmose Celcure AO | 0.32 | 
+| Osmosalts | 0.32 | 
+| Osmose K33 | 0.32 | 
+| Osmose K33 type C | 0.32 | 
+| Oxcel | 0.32 | 
+| Pentagreen | 0.32 | 
+| Permawood type B | 0.32 | 
+| Permawood type C | 0.32 | 
+| Permawood CCA | 0.32 | 
+| Permawood CF | 0.32 | 
+| Quantum CCA – 60% | 0.32 | 
+| Quantum CCA Oxide | 0.32 | 
+| Rentokil CCA type C | 0.32 | 
+| Rentokil K33 | 0.32 | 
+| Sarmix 3 | 0.32 | 
+| Sarmix Oxcel | 0.32 | 
+| Sarmix Oxcel C | 0.32 | 
+| Sarmix Oxcel C-680 | 0.32 | 
+| Supa Timber PM | 0.32 | 
+| Superwolmanzout- CO | 0.32 | 
+| Tanalith C | 0.32 | 
+| Tanalith CA | 0.32 | 
+| Tanalith CO | 0.32 | 
+| Tanalith CCA Oxide C | 0.32 | 
+| Tanalith CP | 0.32 | 
+| Tanalith K33 | 0.32 | 
+| Tanalith NCA | 0.32 | 
+| Tanalith Oxide CO | 0.32 | 
+| Tanalith Oxide C | 0.32 | 
+| Tanalith Oxide C 3310 | 0.32 | 
+| Tanalith U | 0.32 | 
+| Timpro CCA type 1 | 0.32 | 
+| Toyosol type 1 | 0.32 | 
+| Toyosol type 3 | 0.32 | 
+| Treatim CCA | 0.32 | 
+| Wolman CCA | 0.32 | 
+| Wolman CCA - B | 0.32 | 
+| Wolman CCA - C | 0.32 | 
+| Wolman CCA type O | 0.32 | 
+| Wolman CCA type S | 0.32 | 
+| Wolmanzout CO | 0.32 | 
+| Woodlast | 0.32 | 
+| Yoneda | 0.32 | 
+Note: Basilit C, Basilit CCA type A, Basilit UA, Basilit CCA type B and Basilit UA No. 132 are no longer manufactured
+2.1.2 Copper chromium fluorine (CCF) timber impregnation preservatives
+The minimum concentration of copper, chromium and fluorine in the zone required to be penetrated shall be 0.56% mass/mass (elemental copper + elemental chromium + elemental fluorine) based on the oven dried mass of the treated wood.
+Preservatives of this type shall be formulated from either salts or oxides of bivalent copper and hexavalent chromium. In the CCF formulated preservative and the solution used to treat the timber, the ratio of these active elements shall fall within the limits:
+- Copper: 30% minimum
+- Chromium 50% minimum
+- Fluorine 5% minimum.
+The CCF type preservatives that appear in Table 2.1.2 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.1.2: Timber impregnation preservative formulations containing CCF as active ingredient |  |  |  |  | 
+|---|---|---|---|---|
+| Preservative formulation | Copper | Chromium | Fluorine | Minimum TAE* retention in the required Penetration Zone (% mass/mass) | 
+|---|---|---|---|---|
+| Korasit CKF | 30% minimum | 50% minimum | 5% minimum | 0.56 | 
+*TAE or Total Active Elements is the sum of the copper, chromium and fluorine components of the formulation.
+2.1.3 Ammoniacal Copper Quaternary timber impregnation preservatives
+Ammoniacal copper quaternary timber preservatives are mixtures of compounds of the element copper and quaternary ammonium. The quaternary ammonium compound may be either didecyldimethyl ammonium chloride (DDAC) or benzalkonium chloride (BAC).
+In the DDAC formulated preservative or DDAC preservative solution used to treat the timber, the composition of the active ingredients must fall within the limits (see AS1604):
+- Copper 57 - 66%
+- DDAC 33 - 44%
+In the BAC formulated preservative or BAC preservative solution used to treat the timber, the composition of the active ingredients must fall within the limits:
+- Copper 45 – 66%
+- BAC 33 – 54%
+The minimum concentration of this type of preservative in the zone required to be penetrated shall be 0.350% mass/mass (elemental copper + DDAC or BAC) based on the oven-dried mass of the treated wood.
+The ammoniacal copper quaternary preservatives that appear in Table 2.1.3 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.1.3: Timber impregnation formulations containing ammoniacal copper quaternary compounds as active ingredients |  |  |  | 
+|---|---|---|---|
+| Preservative formulation | Copper | Quaternary Ammonium Compound | Minimum active ingredient retention in the required Penetration Zone (%mass/mass) | 
+|---|---|---|---|
+| Copper + DDAC Permawood ACQ 2100, Kemwood ACQ 2100, ACQ Type D, Korasit KS, Laporte ACQ 2100, Lignosan G | 57-66% | 33-44% | 0.350 | 
+| Copper + BAC Celcure AC-500, Celcure AC-800, ACQ97, Mitrex ACQ, Permawood ACQ 1900, Kemwood ACQ 1900, Permawood ACQ 2000, Kemwood ACQ 2000, Permawood ACQ 2200, Kemwood ACQ 2200, Osmose Nature Wood / Osmose Nature Wood NW 100 | 45-66% | 33-54% | 0.350 | 
+2.1.4 Boron and alkyl ammonium timber impregnation preservatives
+These timber preservatives are a mixture of boric acid and dialkyldimethylammonium chloride (DDAC) and are accepted for their DDAC content and not the borate component (which has not been shown to be equivalent to Hazard level 2 as per Australian Standard AS 1604).
+Treated timber must contain not less than 44% of the minimum retention as DDAC. The minimum concentration of this type of preservative in the zone required to be penetrated shall be 1.56% mass/mass (elemental boron + DDAC) based on the oven dried mass of the wood. This shall be deemed to be the minimum retention requirement.
+The boron and alkyl ammonium type preservatives that appear in Table 2.1.4 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.1.4: Timber impregnation formulations containing Boron + DDAC as active ingredients |  |  |  | 
+|---|---|---|---|
+| Preservative formulation | Boron | Alkyl Ammonium Compound | Minimum active ingredient retention in the required Penetration Zone (% mass/mass) | 
+|---|---|---|---|
+| Celbor P | 13.6% | 44% | 1.56 | 
+2.1.5 Copper azole timber impregnation preservatives
+Copper azole wood preservatives are a mixture of copper and triazole compounds. In the formulated preservative and the preservative used to treat the timber, the concentration of the triazole expressed as a percent of total active ingredients shall fall within the following limits:
+- Tebuconazole 4.18% - 3.42%
+- Cyproconazole 1.64% – 1.34%
+The minimum concentration of this type of preservative in the zone required to be penetrated, shall be:
+- 0.27% mass/mass (elemental copper + Tebuconazole), or
+- 0.38% mass/mass (elemental copper + Cyproconazole),
+based on the oven dried mass of the wood.
+The copper azole preservatives that appear in Table 2.1.5 are acceptable as biosecurity treatments for solid timber and unbonded veneers.
+| Table 2.1.5: Timber impregnation preservative formulations containing copper azole as active ingredient |  | 
+|---|---|
+| Preservative formulation | Minimum active ingredient retention in the required Penetration Zone (%mass/mass) | 
+|---|---|
+| Tanalith® E | 0.27 | 
+| Tanalith® CY | 0.38 | 
+2.1.6 Cu-HDO and boric acid preservative (Bis-(N-Cyclohexyldiazeniumdioxy)-copper) timber impregnation preservatives
+Cu-HDO wood preservatives are a mixture of copper compounds, HDO and boric acid. In the formulated preservative and the preservative used to treat the timber, the composition of the ingredients (must be expressed as a per cent of total active ingredients) shall fall within the following limits:
+- Copper 70-75%
+- HDO 19-24%
+- Boron 5-7%
+The minimum concentration of this type of preservative in the zone required to be penetrated must be 0.255% mass/mass (elemental Cu+HDO+B) based on the oven dried mass of the wood. This shall be deemed to be the minimum retention requirement.
+The Cu-HDO and boric acid preservatives that appear in Table 2.1.6 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.1.6: Timber impregnation formulations containing Cu-HDO as active ingredients |  | 
+|---|---|
+| Preservative formulation | Minimum Preservative (active ingredient) retention in the required Penetration Zone (%mass/mass) | 
+|---|---|
+| Wolmanit CX-8 | 2.05 | 
+| Wolmanit CX-10 | 1.64 | 
+| Adolit KDA | 1.64 | 
+2.1.7 Copper, Boric acid and Polymeric biocide timber impregnation preservatives
+These preservatives are a mixture of copper compounds, boric acid and polymeric biocides. These active ingredients combine synergistically to give both insecticidal and fungicidal efficacy.
+The Copper, Boric acid and Polymeric biocide preservatives that appear in Table 2.1.7 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.1.7: Timber impregnation  formulations containing Copper, Boric acid and Polymeric biocides as active ingredients |  |  |  |  | 
+|---|---|---|---|---|
+| Preservative | Copper | Boron | Polymeric biocide | Minimum Preservative (active ingredient) retention in the required Penetration Zone (% mass/mass) | 
+|---|---|---|---|---|
+| Copper + Boron + polymer betaine (Impralit KDS) | 41% | 33% | 26% | 1.2 | 
+Note: Copper chromium boron (CCB) chemical formulations are NOT accepted as biosecurity treatments.
+Other than water-borne timber preservatives
+[expand all]
+2.2.1 Permethrin timber impregnation preservatives
+This type of preservative may be used by itself or with a fungicide and is usually dissolved in an organic solvent such as white spirits.
+The minimum concentration of this type of preservative in the zone required to be penetrated must be 0.020% mass/mass (permethrin) based on the oven dried mass of the wood.
+The timber preservatives containing permethrin that appear in Table 2.2.1 are acceptable biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.2.1: Preservative formulations containing permethrin as active ingredient |  | 
+|---|---|
+| Agro Plus | Tanalith E2 | 
+| Arbezol Spezial | Tanalith T | 
+| Celpruf P | Vacsol Azure | 
+| Gorvivac 050 | Vacsol Green | 
+| Kemvac B41 | Vacsol N | 
+| Organotect | Vacsol N WR | 
+| Protim AQ | Vacsol NA WR | 
+| Protim Optimum | Vacsol NA wrl | 
+| Protim Timberlife H3 | Vacsol QP | 
+| Protim Trussguard H2 | Vacsol T | 
+| Protim 235WR | Xylamon DVIL 313 | 
+| Protim LCWR | Xylosan forte | 
+| Supa Timber PM |  | 
+2.2.2 Deltamethrin timber impregnation preservatives
+This type of preservative may be formulated by itself or with a fungicide and is usually dissolved in an organic solvent such as white spirits. The minimum concentration of this type of preservative in the zone required to be penetrated must be 0.0020% mass/mass (deltamethrin) based on the oven dried mass of the wood or a minimum retention of 0.03kg/m³. This is the minimum retention requirement.
+Note: Formulation names for preservatives containing the active ingredient deltamethrin are not listed.
+2.2.3 Cypermethrin timber impregnation preservatives
+The minimum preservative retention of this type of preservative in the zone required to be penetrated must be 0.030% mass/mass (cypermethrin) based on the oven dried mass of the wood.
+This is the minimum retention requirement.
+The timber preservatives containing cypermethrin that appear in Table 2.2.3 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.2.3: Timber impregnation formulations containing Cypermethrin as active ingredient |  | 
+|---|---|
+| Preservative Formulation | Minimum Preservative (active ingredient) retention in the Penetration Zone (%mass/mass) | 
+|---|---|
+| Celpruf Z | 0.03 | 
+| Basilit CIS | 0.03 | 
+2.2.4 Fenvalerate timber impregnation preservatives
+A preservative which in addition to achieving adequate penetration has a minimum retention of 0.18 kg/m³ fenvalerate*.
+*The minimum charge loading of commercial preservatives based on treated wood volume.
+2.2.5 TBTO (Tributyltin oxide) timber impregnation preservative
+A preservative which in addition to achieving adequate penetration has a minimum retention of 4.8kg/m³ tributyltin oxide*. (TBTO is a Fungicide only and is only acceptable when formulated with an acceptable insecticidal timber preservative).
+*The minimum retention of commercial preservatives based on treated wood volume.
+2.2.6 Sumithion (Fenitrothion) timber impregnation preservative
+A timber preservative which in addition to achieving adequate penetration has a minimum retention of 0.42 kg/m³ fenitrothion*. The following commercial formulation at a minimum charge retention indicated in brackets is an acceptable as biosecurity treatment:
+Koshiace B (2.0 kg/m³)*.
+*The minimum retention of commercial preservatives based on treated wood volume.
+2.2.7 Chlorfenapyr timber impregnation preservatives
+The timber preservatives containing Chlorfenapyr that appear in Table 2.2.7 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.2.7: Timber impregnation formulations containing Chlorfenapyr as active ingredient |  | 
+|---|---|
+| Preservative formulation | Minimum retention of active ingredient (%mass/mass) | 
+|---|---|
+| Meganium 2000 ST | 0.005 | 
+2.2.8 Bifenthrin timber impregnation preservatives
+The timber preservatives containing Bifenthrin that appear in Table 2.2.8 are acceptable as biosecurity treatments for solid timber and unbonded timber veneers.
+| Table 2.2.8: Timber impregnation formulations containing Bifenthrin as active ingredient |  | 
+|---|---|
+| Preservative formulation | Minimum retention of active ingredient (%mass/mass) | 
+|---|---|
+| Bistar (10% Bifenthrin) | 0.0047 | 
+Note: Niedo (Woodgard) is NOT accepted as a biosecurity treatment.
+Preservatives for glueline treatments of veneer based products.
+The department accepts these preservative formulations for glueline treatments of veneer based products (plywood and LVL) provided no veneer in the product is more than 2.5mm thick.
+[expand all]
+3.2.1 Phoxim® timber glueline preservatives
+Timber preservative formulations containing Phoxim® that appear in Table 3.2.1 are acceptable as biosecurity treatments for plywood and LVL.
+| Table 3.2.1: Timber glueline formulations containing Phoxim® as active ingredient |  |  |  |  | 
+|---|---|---|---|---|
+| Preservative Formulation | Maximum veneer thickness | Minimum retention of active ingredient (%mass/mass) Softwood ply | Minimum retention of active ingredient (%mass/mass) Mixed ply | Minimum retention of active ingredient (%mass/mass) Hardwood ply | 
+|---|---|---|---|---|
+| Basileum SI84 | 1.6mm | 0.25 | 0.20 | 0.15 | 
+| Basileum SI84EC | 1.6mm | 0.25 | 0.20 | 0.15 | 
+Treatment certificates must state veneer thickness.
+3.2.2 Chlorfenapyr timber glueline preservatives
+Timber preservative formulations containing Chlorfenapyr that appear in Table 3.2.2 are acceptable as biosecurity treatments for plywood and LVL.
+| Table 3.2.2 Timber glueline formulations containing Chlorfenapyr as active ingredient |  |  |  |  | 
+|---|---|---|---|---|
+| Preservative Formulation | Maximum veneer thickness | Minimum retention of active ingredient (%mass/mass) Softwood ply | Minimum retention of active ingredient (%mass/mass) Mixed ply | Minimum retention of active ingredient (%mass/mass) Hardwood ply | 
+|---|---|---|---|---|
+| Meganium 2000 | 1.8mm | - | - | 0.009 | 
+| Wolsit T-20 | 1.8mm | - | - | 0.009 | 
+| Tailileum 200 | 1.6mm | - | - | 0.014 | 
+| Meganium 2003 | 1.6mm | - | - | 0.005 | 
+Note: For Meganium 2000 and Wolsit T-20, efficacy tests were conducted on Keruing (Dipterocarpus spp.) and European beech (Fagus sylvaticus). Accordingly these two formulations are onlyaccepted as a glueline treatment for plywood manufactured from hardwood substrates. Tailileum 200 has not been tested for European beech and therefore it is not accepted for use with this species.
+Treatment certificates must state veneer thickness.
+3.2.3 Imidacloprid timber glueline preservatives
+Timber preservative formulations containing Imidacloprid that appear in Table 3.2.3 are acceptable as biosecurity treatments for plywood and LVL.
+| Table 3.2.3 Timber glueline formulations containing Imidacloprid as active ingredient |  |  |  |  | 
+|---|---|---|---|---|
+| Preservative Formulation | Maximum veneer thickness | Minimum retention of active ingredient (% mass/mass) Softwood ply | Minimum retention of active ingredient (% mass/mass) Mixed ply | Minimum retention of active ingredient (% mass/mass) Hardwood ply | 
+|---|---|---|---|---|
+| Protecta C-02 | 1.8mm | - | - | 0.02 | 
+| Supraleum 150 | 1.8mm | - | - | 0.02 | 
+| Supraleum 75/OPP | 1.6mm | - | - | 0.01 | 
+| Tailileum 400 | 1.6mm | - | 0.011 | 0.011 | 
+Note: Efficacy tests for Protecta C-02, Supraleum 150 and Supraleum 75/OPP were conducted on Keruing (Dipterocarpus spp.) and European Beech (Fagus sylvatica) plywood. Accordingly, these formulations of Imidacloprid are only accepted as a glueline treatment for plywood manufactured from hardwood substrates. Tailileum 400 was tested on Keruing/ Eucalyptus plywood and birch/ larch plywood.
+Treatment certificates must state veneer thickness.
+3.2.4 Bifenthrin timber glueline preservatives
+Timber preservative formulations containing Bifenthrin that appear in Table 3.2.4 are acceptable as biosecurity treatments for plywood and LVL.
+| Table 3.2.4 Timber glueline formulations containing Bifenthrin as active ingredient |  |  | 
+|---|---|---|
+| Preservative formulation | Maximum veneer thickness | Minimum retention of active ingredient (% mass/mass) | 
+|---|---|---|
+| Bistar (10% Bifenthrin) | 2.5mm | 0.013 | 
+| Protecta C-03 | 1.8mm | 0.013 | 
+| Basileum SI 2000 | 1.6mm | 0.011 | 
+| Osmose Determite Glue Line Insecticide | 2.5mm | 0.013 | 
+| Supraleum 2006 Bi 50 | 1.6mm | 0.007 | 
+Note: The formulation of Bifenthrin is accepted as a glueline treatment for plywood/LVL manufactured from both softwood (coniferous) and hardwood substrates. For Supraleum 2006 Bi 50, efficacy tests were conducted on Keruing (Dipterocarpus spp.).
+Treatment certificates must state the veneer thickness.
+3.2.5 Cypermethrin timber glueline preservatives
+Timber preservative formulations containing Cypermethrin that appear in Table 3.2.5 are acceptable as biosecurity treatments for plywood and LVL.
+| Table 3.2.5 Timber glueline formulations containing Cypermethrin as active ingredient |  |  |  |  | 
+|---|---|---|---|---|
+| Preservative formulation | Maximum veneer thickness | Minimum retention of active ingredient (% mass/mass) Softwood ply/LVL | Minimum retention of active ingredient (% mass/mass) Mixed ply/LVL | Minimum retention of active ingredient (% mass/mass) Hardwood ply/LVL | 
+|---|---|---|---|---|
+| Radaleum FHP - 60 (Theta-cypermethrin formulation) | 1.6mm | 0.033 | 0.028 | 0.024 | 
+| Radaleum FAP (cypermethrin tetramethrin formulation) | 1.6mm | 0.075 | - | - | 
+| Radaleum HP (cypermethrin formulation) | 1.6mm | 0.075 | - | - | 
+| Tailileum 300 | 1.6mm | - | - | 0.075 | 
+| Supraleum 2006 CY | 1.6mm | - | - | 0.075 | 
+| Supraleum 2006 A-CY | 1.6mm | - | - | 0.024 | 
+Note: Efficacy tests for Radaleum FAP and Radaleum HP were conducted on Radiata pine (Pinus radiata D. Don) plywood. Accordingly, the above Radaleum FAP and Radaleum HP formulations of Cypermethrin are only accepted as a glueline treatment for plywood/LVL manufactured from softwood (coniferous) substrates. Radaleum FHP – 60 has been tested on both softwood and hardwood plys.
+The efficacy tests for the above Tailileum 300, Cypermethrin and Alpha-cypermethrin formulations were conducted on keruing plywood. Therefore it is only accepted for use in hardwood substrates. Tailileum 300 formulations containing beta-cypermethrin are not accepted by the department.
+Treatment certificates must state the veneer thickness.
+3.2.6 Neonicotinoid timber glueline preservatives
+Formulations containing Neonicotinoids that appear in Table 3.2.6. are acceptable as biosecurity treatments for softwood plys and LVL.
+| Table 3.2.6 Timber glueline formulations containing Neonicotinoids as active ingredient |  | 
+|---|---|
+| Preservative formulation | Minimum retention of active ingredient (% mass/mass) in softwood ply and LVL | 
+|---|---|
+| Everwood DF | 0.0145 |

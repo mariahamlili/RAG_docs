@@ -1,0 +1,69 @@
+Pratique is permission for things to be unloaded from or loaded onto a vessel, or permission for any person to disembark from or embark a vessel. The pratique processes supports pre-arrival reporting to identify and ensure human health biosecurity risks can be identified and managed before the vessel is unloaded or disembarked.
+Once a vessel has pratique granted, pratique cannot be revoked.
+The department performs human health functions on behalf of the Department of Health, Disability and Ageing at Australia’s international seaports and airports.
+Pre-arrival reporting (PAR)
+Under Section 193 of the Biosecurity Act 2015 (the Act), the operator of a vessel must submit a Pre-Arrival Report (PAR) where:
+- the vessel intends to enter, or enters, Australian territory on a voyage that commenced outside of Australia
+- the vessel is exposed to another conveyance while outside Australian territory.
+The PAR, and any subsequent reported Human Health Updates, collects details of any ill travellers who have shown signs and symptoms of a Listed Human Disease (LHD) or if there has been a death on board. This informs the pratique status of the vessel.
+- Commercial vessels must provide a PAR in writing, via the Maritime and Aircraft Reporting System (MARS).
+- Non-commercial vessels must provide a PAR in writing, electronically via the department’s Non-Commercial Vessel PAR Web Portal.
+Post PAR submission
+Any changes in circumstances during the voyage in Australian waters while subject to biosecurity control must also be reported to the department as soon as practicable.
+Section 51A of the Biosecurity Regulation 2016 places responsibility on the vessel operator to provide updated information, where necessary, after the PAR has been submitted.
+For example, commercial vessels must report changes in human health as a Human Health Update in MARS, yacht operators must report human health changes to a biosecurity officer, update crew disembarkation details, or report the detection of insects or animals.
+Failure to provide a PAR in accordance with the Regulation contravenes subsection 193(4) of the Act.Where non-compliance is identified, biosecurity officers must complete a non-compliance report.
+The pratique process
+The type of vessel and the information provided in the PAR determines how pratique is granted once the vessel reaches the point of arrival (which, for biosecurity purposes, is when the vessel enters Australian territory, generally 12 nautical miles (NM) from the Australian coast). Pratique is granted either automatically (positive pratique) via MARS or by a biosecurity officer (negative pratique) .
+If a vessel arrives subject to negative pratique, travellers are not allowed to embark or disembark, and no thing is allowed to be loaded or unloaded unless permission is granted by a biosecurity officer.
+Commercial vessels
+Commercial vessels are not granted pratique at the time of submission of the PAR. The vessel is subject to the positive or negative pratique process until arrival, which, for biosecurity purposes, is when the vessel enters Australian territory, generally 12 nautical miles (NM) from the Australian territory coastline, at the first arrival port precinct.
+- Pratique is granted automatically via MARS on arrival where there are no human health issues (positive pratique process)
+- Where human health issues are reported, pratique is not granted until a biosecurity officer has assessed the biosecurity risk (negative pratique process).
+Once a vessel has arrived (within 12 NM), subsequent Human Health Updates do not change the pratique process.
+- If pratique has been granted via the positive pratique process and signs or symptoms of a LHD or death on board is subsequently reported, pratique cannot be revoked.
+- If pratique has not been granted and a subsequent Human Health Update reports no signs or symptoms of a LHD or death on board, a biosecurity officer will assess the biosecurity risk and once cleared will grant pratique manually via the negative pratique process.
+Cruise and non-commercial vessels
+Cruise and non-commercial vessels arrive subject to the negative pratique instrument, under the Biosecurity (Negative Pratique) Instrument 2016.
+A vessel being subject to negative pratique does not mean that ‘pratique is not granted’, but rather a biosecurity officer needs to grant pratique manually after assessment and clearance of biosecurity risk.
+Vessel operators are required to keep their Automatic Identification System (AIS) on to transmit Position Reports in accordance with the International Convention for the Safety of Life at Sea (SOLAS), 1974 Chapter 5, Regulation 19.2.4.
+Vessel operators must report any malfunction of the vessel’s AIS equipment to the Australian Maritime Safety Authority (AMSA) Joint Rescue Coordination Centre (JRCC) in accordance with Section 186 of the Navigation Act 2012.
+- Marine Order 63 (Navigation Act 2012) makes the provision of Position Reports mandatory for foreign vessels from the arrival at its first port in Australian territory until its departure from its final port in Australian territory, and
+- all regulated Australian vessels whilst in the Modernised Australian Ship Tracking and Reporting System (MASTREP) area.
+Vessel berthing conditions in Australian territory ports are provided on the BSD after meeting reporting requirements. Vessel pratique does not affect a vessel’s permission to berth in Australian territory.
+A vessel granted pratique will have permission to embark or disembark travellers (all passengers and crew), and to, discharge, load or unload waste or goods.
+A vessel subject to the negative pratique process by virtue of the Act does not have permission to embark or disembark travellers (all passengers and crew), or to, discharge or load waste or goods. Access to the vessel is restricted to personnel who are authorised under the Act or another Australian law until pratique has been granted by a biosecurity officer.
+The vessel master and/or shipping agent is required to notify the department of crew leaving the vessel permanently (disembarking) and whether they have biosecurity items to declare.
+- Crew disembarkation cannot proceed until pratique is granted. Refer to Disembarking crew.
+- The vessel master or agent must not allow crew to remove items from the vessel without permission from a biosecurity officer.
+There are no biosecurity restrictions on crew joining a vessel. The reporting requirement is not required for pilots of vessels. Pilots can embark and disembark consistent with the Navigation Act 2012.
+Vessel operators should be aware that the potential transfer of goods onto an onshore supply vessel outside the 12nm range could result in the onshore supply vessel being considered as an exposed conveyance and subject to biosecurity control. Vessel operators or shipping agents should refer to the Offshore installations and exposed conveyance webpage. Operators may email the Conveyance Maritime team for further advice.
+Once pratique has been granted for the vessel, the vessel and goods may continue to be subject to biosecurity control. The submission of additional documentation or inspection by a biosecurity officer may be required.
+The following documents provide further information and a visual guide of the pratique process across non-commercial and commercial vessels, including cruise vessels.
+Biosecurity Status Documents (BSDs) are the single source of information for biosecurity directions and advice to the master for each vessel’s voyage. BSDs are generated in MARS and version controlled to reflect any reported changes to directions or status occurring during a voyage.
+BSDs provide directions to the master and shipping agent regarding pratique status, human health requirements, and which international code of signals should be displayed (flags and/or signal lighting).
+Each BSD uses a traffic light system as a visual cue to alert the master and shipping agent about vessel status and any associated directions or advice issued by the department.
+As a result of the PAR or Human Health Update report, submitted by the master or shipping agent in MARS, BSDs are:
+- generated in MARS
+- emailed to the master, where the master provided an email address in the PAR submission
+- emailed to the nominated shipping agent
+- available in MARS for users that log into MARS directly.
+Multiple BSDs may be issued to a vessel to reflect any reported changes to directions or status occurring during a voyage.
+- BSDs are version controlled
+- Biosecurity directions specified in each BSD are legally binding
+- BSD conditions reflect the
+  - positive and negative pratique processes
+  - timing of the granting of pratique.
+For more detail on BSDs, refer to the: Quick reference guide Understanding the Biosecurity Status Document (PDF 56 KB)
+If you have difficulty accessing these files, contact us for help.
+Detailing the Department’s Pratique Framework
+The Pratique Framework sets out all the details of the department’s approach to identifying and managing human health risks relating to vessel arrivals to Australian territory.
+Pratique Framework – Vessels (PDF 164 KB)
+Pratique Framework – Vessels (DOCX 72 KB)
+Pratique diagram: Non-commercial and commercial vessels, including cruise vessel (PDF 183 KB)
+Pratique diagram: Non-commercial and commercial vessels, including cruise vessel (DOCX 122 KB)
+If you have difficulty accessing these files, visit web accessibility for assistance.
+Need help with vessel reporting or pratique?
+The department’s National Maritime Centre (NMC) provides national support.
+See Vessel Contacts for the key biosecurity offices, and on-call contact arrangements at each port location across Australia.
+Import Industry Advice Notices provide the most up to date information to industry stakeholders, while department webpages are regularly updated as changes occur. To subscribe select ‘Import Industry Advice Notices email notification system’.

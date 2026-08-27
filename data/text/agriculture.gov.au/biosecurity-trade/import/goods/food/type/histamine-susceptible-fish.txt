@@ -1,0 +1,70 @@
+Improving access to imported food safety requirements
+Imported food safety requirements are now included in the Biosecurity Import Conditions system (BICON).
+See more about the Inclusion of food safety requirements in BICON.
+All biosecurity requirements must be met before Imported Food Inspection Scheme requirements apply.
+Check our Biosecurity Import Conditions system (BICON) for biosecurity import conditions.
+We classify imported food that presents a potential medium or high risk to public health as risk food. All risk food is listed in the Imported Food Control Order 2019.
+Fish and fish products of a particular kind are classified as risk food
+Fish of the families listed are considered histamine susceptible fish. This includes all fish in the families:
+- Carangidae (for example, trevallies, jacks and pompanos)
+- Clupeidae (for example, herrings, sardines)
+- Coryphaenidae (for example, mahi-mahi)
+- Engraulidae (for example, anchovy)
+- Pomatomidae (for example, bluefish)
+- Scomberesocidae (for example, king gars and saury)
+- Scombridae (for example, tuna, mackerel and bonito).
+Fish products that contain more than 300 g per kg of all or any of the fish in the families listed are also risk foods.
+Fish and fish products classified as risk food may be whole, fillets or in portions. This includes fish and fish products that are:
+- raw (fresh, chilled or frozen)
+- processed (cooked, smoked, dried and pickled)
+- retorted and shelf stable.
+Exclusions
+Food from New Zealand.
+Declaring certificates
+When lodging a Full Import Declaration (FID), use the correct ICS document code and certificate number for the food.
+Community Protection (CP) question
+You will need to answer this CP question when lodging your full import declaration:
+IFIS: Are the goods or do the goods contain more than 300 g/kg (30%) of fish of the family Scombridae, Coryphaenidae, Pomatomidae, Carangidae, Clupeidae, Engraulidae or Scomberesociadae? For more information search ‘histamine susceptible fish’ at www.agriculture.gov.au.
+Inspection and testing
+We refer consignments of fish and fish products of the families listed for analytical testing. During inspection, we will also conduct a visual and label assessment. Additional testing may also apply for certain ready-to-eat finfish.
+Table 1 shows the test that will be applied and permitted results for each food type.
+Table 1, Food type, test applied and permitted result
+| Food type | Test applied | Permitted result | 
+|---|---|---|
+| Fish in the family:  The Australian fish names standard AS SSA 5300 may be used as a reference. | Histamine | Maximum level 200 mg/kg | 
+Food safety risks
+Food Standard Australia New Zealand (FSANZ) has given us advice about the risk of fish and fish products of the families listed are associated with histamine formation. These products present a potential medium or high risk to public health for histamine poisoning.
+Voluntary foreign government certification arrangements
+We have a voluntary certification arrangement in place with Canada and Thailand for the fish and fish products listed. Consignments of these foods from Canada and Thailand with a recognised government certificate have a reduced rate of inspection and testing.
+Certificate requirements
+| Type of information | To include | 
+|---|---|
+| National competent authority: | Canadian Food Inspection Agency | 
+| Recognised certificate title: | Certificate of Origin and Hygiene | 
+| ICS document code: | CI | 
+Certificate requirements
+| Type of information | To include | 
+|---|---|
+| National competent authority: | Ministry of Agriculture and Cooperatives – Department of Fisheries | 
+| Recognised certificate title: | Health Certificate for fishery and aquaculture products originating in Thailand | 
+| Additional requirement: | The certificate must identify that the food has been sourced from an establishment approved by the Department of Fisheries, Thailand. | 
+| ICS document code: | DOFHCTH | 
+Glossary
+Retorted
+Animal products are retorted if they are heated in a hermetically sealed container to a minimum core temperature of 100°C, obtaining an F0 value of at least 2.8.
+Shelf stable
+Goods are shelf-stable if the:
+- goods have been commercially manufactured
+- goods have been packaged by the manufacturer
+- goods are in that package
+- package has not been opened or broken
+- goods are able to be stored in the package at room or ambient temperature, and
+- goods do not require refrigeration or freezing before the package is opened.
+Version history
+| Date | Reference number | Amendment details | 
+|---|---|---|
+| 13/02/2023 | HIS 12/2016 | Amend the webpage to update the link to the list of fish processing establishments approved by the Department of Fisheries, Thailand. | 
+| 11/10/2019 | HIS 12/2016 | Update to the webpage to include a link to the Fisheries Research and Development Corporation’s fish names database. | 
+| 08/08/2017 | HIS 12/2016 | Update to the webpage to provide additional detail about the sampling of histamine susceptible fish and fish products. | 
+| 21/12/2016 | HIS 12/2016 | Updates the webpage to reflect amendments to the Imported Food Control Order 2001 to classify more species of fish and fish products as risk foods. | 
+| 01/05/2014 | SCM 05/2014 | Replaces Imported Food Notice 09/12 Tests applied to risk category foods |

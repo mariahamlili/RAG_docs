@@ -1,0 +1,48 @@
+Improving access to imported food safety requirements
+Imported food safety requirements are now included in the Biosecurity Import Conditions system (BICON).
+See more about the Inclusion of food safety requirements in BICON.
+All biosecurity requirements must be met before Imported Food Inspection Scheme requirements apply.
+Check our Biosecurity Import Conditions system (BICON) for biosecurity import conditions.
+We classify imported food that presents a potential medium or high risk to public health as risk food. All risk food is listed in the Imported Food Control Order 2019.
+Cheese that supports the growth of Listeria monocytogenes is classified as risk food
+This is:
+- cheese that does not meet the criteria for cheese that does not support the growth of Listeria monocytogenes.
+Soft and semi-soft style cheeses are generally considered to support the growth of Listeria monocytogenes.
+Exclusions
+- Raw milk cheese.
+- Food from New Zealand.
+Criteria for cheese that does not support the growth of Listeria monocytogenes
+Cheese that does not support the growth of Listeria monocytogenes is food that has one or more of these parameters:
+- the cheese has a pH less than 4.4 regardless of water activity
+- the cheese has a water activity less than 0.92 regardless of pH
+- the cheese has a pH less than 5.0 in combination with a water activity of less than 0.94
+- the cheese has a refrigerated shelf life no greater than 5 days (includes frozen cheese that has a refrigerated shelf life of no greater than 5 days once thawed)
+- the level of Listeria monocytogenes will not increase by greater than 0.5 log cfu/g over the stated shelf life of the cheese.
+Community Protection (CP) questions
+You may need to answer these CP questions when lodging your full import declaration:
+IFIS: Is the cheese made from unpasteurised milk? If yes complete the 'imported food inspection scheme-importer declaration for cheese made with unpasteurised milk'.
+IFIS: Is the cheese covered by an ‘Imported Food Inspection Scheme–importer declaration for cheese that does not support the growth of Listeria monocytogenes’?
+Inspection and testing
+We refer consignments of cheese for analytical testing based on whether it is a cheese that supports the growth of Listeria monocytogenes or not.
+- Cheese that supports the growth of Listeria monocytogenes is a risk food and referred for testing at the initial rate of 100% of consignments until compliance is demonstrated.
+- Cheese that does not support the growth of Listeria monocytogenes is a surveillance food and referred for testing at the rate of 5% of consignments.
+During inspection, we will also conduct a visual and label assessment.
+Table 1 shows the test that will be applied and permitted results for the food type.
+Table 1, Food type, test applied and permitted result
+| Food type | Test applied | Permitted result | 
+|---|---|---|
+| Cheese that supports the growth of Listeria monocytogenes (risk food) | Listeria monocytogenes | n=5, c=0, m=not detected in 25 g | 
+| Cheese that does not support the growth of Listeria monocytogenes (surveillance food) | Listeria monocytogenes Note: An IFIS Importer declaration can be lodged for this food to demonstrate it does not support the growth of Listeria monocytogenes. Cheese imported without the declaration will be referred as risk food. | n=5, c=0, m=100 cfu/g | 
+n = the number of samples to be analysed from a lot of food.
+c = the maximum number of sample units that can be greater than ‘m’.
+m = the acceptable microbiological level in a sample unit.
+Food safety risks
+Food Standards Australia New Zealand (FSANZ) has given us advice about the risk of cheese that supports the growth of Listeria monocytogenes. This food presents a medium or high risk to public health for Listeria monocytogenes.
+Version history
+| Date | Reference number | Amendment details | 
+|---|---|---|
+| 10/07/2018 | CHE 07-2018 | Amendments to introduce a voluntary IFIS Importer declaration. | 
+| 08/03/2017 | CHE 03-2017 | Amends guidance to industry on lodging entries. | 
+| 21/07/2016 | CHE 07-2016 | Clarified parameters for cheese in which the growth of Listeria monocytogenes will not occur. Provided guidance to industry on lodging entries for cheese in the Integrated Cargo System. | 
+| 09/05/2016 | CHE 05-2016 | Changes the description of the food from ‘Soft, semi-soft and fresh cheese’ to ‘Cheese in which growth of Listeria monocytogenes can occur’. Tests are no longer applied for E. coli and Salmonella. | 
+| 01/05/2014 | CHE 05-2014 | Replaces Imported Food Notice 09/12 Tests applied to risk category foods |

@@ -1,0 +1,39 @@
+Authors: Ahmed Hafi, Jenny Eather and Graeme Garner
+Overview
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/sheep-scrapie.png) 
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/sheep-meat-export-chart-small.png) 
+This ABARES report presents estimates of the economic impact of a hypothetical outbreak of scrapie in Australia's sheep and goat population under three disease spread scenarios:
+- eradicable epidemic—an outbreak occurs and is successfully eradicated
+- managed spread—eradication is unsuccessful and spread is slowed by control measures
+- uncontrolled spread—without control measures in place, the disease spreads uncontrolled.
+ABARES also estimated the trade impacts that may result following an outbreak of scrapie. Due to uncertainty around the extent of export market disruptions, three export ban scenarios by China, Japan and the Republic of Korea were modelled—as these countries have been sensitive to outbreaks of notifiable livestock diseases in the past.
+The ABARES report indicates that Australia benefits significantly from remaining free of scrapie, and that in the event of an outbreak, it would also likely benefit from measures to eradicate the disease or control its spread.
+Key Issues
+- Scrapie is a progressive neurodegenerative disease affecting sheep and goats. It belongs to the group of livestock diseases which includes mad cow disease (bovine spongiform encephalopathy or BSE) in cattle. Scrapie (unlike BSE) is not associated with any known human health risks. Australia is one of the few major sheep producing countries that is free of scrapie and only allows imports of live sheep or genetic material under strict conditions from selected countries.
+- Australia would benefit significantly from preventing the entry of scrapie, and from detecting it relatively early if it enters. If detected within 10 years of entry, efforts to eradicate the disease are likely to be both successful and cost effective. Eradication would likely be achieved an average of eight years after detection of the disease.
+- The modelled costs of controlling and eradicating scrapie—which comprised income losses from increased mortality, reduced productivity, movement restrictions and the costs of complying with government control programs—were modest.
+	
+  - If detected early enough to be eradicable, these costs were estimated at an average of $4.7 million (in 2016 dollars).
+  - With control measures in place to slow the spread, these costs are estimated to rise to between $29 million and $41 million, depending on the effectiveness of these measures and the genetic susceptibility of the Australian sheep flock.
+  - If scrapie was allowed to spread uncontrolled, these costs were estimated to be $83 million in present value terms.
+- Most of the economic impact from an eradicable outbreak came from trade losses. For example:
+	
+  - if the outbreak led to a three-month ban on sheep meat by China and Japan, and a three-month ban on beef by Korea, the estimated trade losses would be $70 million over 10 years, of which $36 million would be lost by the beef industry (Table 1)
+  - a three-month ban on beef to Korea is based on existing agreed certification with Korea requiring Australian exporters to include an attestation that Australia is free of scrapie on export certificates for a range of beef and sheep meat products
+  - if the export bans on Australian sheep meat and beef lasted for 12 months instead of three months, the trade impact would increase further to an estimated $323 million in present value terms over 10 years
+  - in the unlikely event that China and Japan both maintained export bans on Australian sheep meat for 15 years until Australia could regain its 'negligible-risk' status under internationally accepted animal health guidelines, the potential trade impact could rise to $2.2 billion over 50 years (Table 1).
+- If the disease was not detected in time to be eradicable, it would still be cost-effective for Australia to implement measures to slow the spread. ABARES estimated the cost of uncontrolled spread to be in excess of $406 million (in 2016 dollars), compared to the estimated $119 million to $150 million cost of slowing the spread.
+| Table 1 Estimated present value of trade impacts following a scrapie outbreak (2016 dollars) |  |  |  | 
+|---|---|---|---|
+| Scenario | Sheep meat market | Beef market | Total | 
+|---|---|---|---|
+|  | ($ million) | ($ million) | ($ million) | 
+| Three-month ban—sheep meat only a | 35 | 0 | 35 | 
+| Three-month ban—sheep meat and beef b | 34 | 36 | 70 | 
+| Year-long ban—sheep meat only c | 152 | 0 | 152 | 
+| Year-long ban—sheep meat and beef d | 158 | 165 | 323 | 
+| Extended ban—sheep meat only e | 2,234 | 0 | 2,234 | 
+a Exports to China and Japan only. b Sheep meat exports to China and Japan and beef to Republic of Korea. c Exports to China and Japan for one year. d Sheep meat exports to China and Japan and beef to Republic of Korea for one year.
+e Sheep meat exports to China and Japan average 15 years.
+Notes: Present value calculated using a discount rate of 7 per cent.
+Information on the likely impacts of a disease outbreak helps Australian policymakers assess the consequences of an incursion and ensures that with the knowledge of the likelihood of entry, the risk of scrapie to Australia is maintained at an acceptable level. The benefits of management measures estimated in this hypothetical study provide a benchmark against which biosecurity decision-makers can compare the costs of implementing response strategies should scrapie be detected in Australia in the future.

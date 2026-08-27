@@ -1,0 +1,73 @@
+Welcome to an easier way to do business
+About the Biosecurity Portal
+The department is improving the way we deliver our services to our industry clients. We have worked with industry to co-design our new digital service model and enable streamlined and simplified interactions with us online through the Biosecurity Portal (the Portal).
+The Portal gives import clients the ability to make and manage inspection booking requests, view direction information and lodge Approved Arrangement Class 14.4 inspection outcomes 24/7 via an online system.
+As the Portal develops, we’ll add more features that will help industry save time and money whilst modernising the biosecurity system for clients.
+Planned features include access by Offshore Treatment Providers and Approved Arrangements to a range of digital services. Further information will be made available in due course.
+Services available through the Biosecurity Portal
+The following services are currently available via the Portal:
+- Inspection Services
+  - Request, modify and cancel an import inspection
+  - View and print AIMS Directions
+- Approved Arrangement Class 14.4 outcomes
+- Approved Arrangement Management Product (AAMP) to enable Biosecurity Industry Participants to view and update their Approved Arrangement details.
+- External Verification for eCertificates (EVE) – view digital copies of certificates under an Approved Arrangement
+- Industry reporting – self-service reporting for approved arrangement (AA) class 19 biosecurity industry participants and accredited persons on cargo status, fees and AA Class 19.2 usage and uptake.
+- ProviderHub - to enable pre-border biosecurity treatment providers to register for AusTreat.
+Inspection services
+If you import cargo into Australia, you may need to book a time and place for the goods to be inspected. Inspections may need to happen on arrival, at the seaport or airport, or at a third-party site that has been approved by the department.
+The Portal allows import clients to book, view and manage their import inspections at any time.
+Through the Portal, clients also have access to Agriculture Import Management System (AIMS) direction information, in addition to the AIMS Direction being issued via email.
+Import clients, signed up to use the Portal via myID, will be able to view AIMS Direction information issued by the department if:
+- Approved Arrangements – if the AA number is listed against an active AIMS Direction.
+- Brokerage – the ABN of the brokerage is listed against the import declaration in the Integrated Cargo System (ICS).
+- Importer – the ABN of the importer is listed against the import declaration in the ICS.
+Who can use the Portal?
+The Biosecurity Portal currently supports all approved arrangements, brokers, importers, as well as freight forwarders, and clients who do not have an ABN.
+Who cannot use the Portal?
+Clients who require:
+- an inspection to be booked on an air waybill (without an active direction)
+- Cargo Compliance Verification (CCV) inspections
+- ad hoc amendments to recurring appointments
+- imported food virtual visual label inspections
+- plant export inspections
+- inspections occurring in Tasmania
+cannot use the Biosecurity Portal at this stage and should continue to use the existing email-based processes.
+Approved Arrangement Class 14.4 outcomes
+The Portal allows reporting of rural tailgate inspection outcomes for Approved Arrangement class 14.4 Biosecurity Industry Participants (BIPs).
+Lodging inspection results through the Portal will allow BIPs to easily search and select the relevant entry or container number, with in-built data validation to verify the data, reducing administrative and potential system errors. To find out more, see the Biosecurity Arrival of goods in Australia webpage.
+Approved Arrangement Management Product (AAMP)
+AAMP provides an easy online way for Biosecurity Industry Participants (BIPs) to view and update the details of their Approved Arrangements. It will minimise the need for BIPs to email us with requests to update their Approved Arrangement details, simplifying and modernising Approved Arrangement administration. To find out more, see Approved Arrangement Management Product (AAMP).
+External Verification for eCertificates (EVE)
+EVE enables accredited persons under Approved Arrangement Class 19.2 to self-service and view electronic government certificates (eCertificates) and relevant attachments online as part of the documentary assessment process for imported goods. It enables faster document assessment clearance times and a better user experience.
+Industry reporting
+Industry reporting provides approved arrangement class 19 biosecurity industry participants and accredited persons with visibility of their in-progress entries referred to the department. The report allows users to search for a specific entry to find details on:
+- Cargo status,
+- Records of service (fees), and
+- Approved arrangement class 19.2 usage and uptake.
+Help cards and instructional material can be accessed via Learnhub.
+ProviderHub
+ProviderHub is a new registration platform, which will deliver an online capability for the department and pre-border biosecurity treatment providers to manage information related to registration and ongoing participation in AusTreat.
+The delivery of the online registration solution is replacing manual processes where spreadsheets and emails are used to progress registration applications.
+Accessing the Biosecurity Portal
+For more information on how to sign up with either access method please refer to Portal Support.
+Once you have registered, you can access the Biosecurity Portal at:
+Privacy notice
+How we store and use your personal information in the Biosecurity Portal:
+Personal information and information that is commercial‑in‑confidence that is collected under or in accordance with the Biosecurity Act 2015 (Cth) (Biosecurity Act) is also 'protected information' under that Act.
+The Department of Agriculture, Fisheries and Forestry (department) collects your 'protected information' including personal information in relation to this Biosecurity Portal under the Biosecurity Act for the purposes of:
+- allowing you to create a user profile in the Biosecurity Portal, which in turn allows you to use its features, including the Client Self-Service functionality provided through the Biosecurity Portal;
+- managing requests for inspections submitted through the Biosecurity Portal;
+- sending communications to you, including on behalf of your organisation if applicable;
+- preparing and issuing documentation linked to inspections to you and any other person or organisation that has an interest in the inspection, including without limitation, issuing directions under the Biosecurity Act and/or the Imported Food Control Act 1992 (Cth) and legislation made under those Acts, as applicable; and
+- conducting identity authentication, auditing and security monitoring functions. The department may disclose this information to its contracted service providers, to enable provision of ICT support and other services.
+- allowing you, your organisation if applicable, and any other person or organisation listed in the department’s systems against the consignment, to use the Biosecurity Portal to search, access and print any documentation, including any directions, issued by the department in relation to that consignment, and related purposes.
+Protected information collected by the department will only be used or disclosed as authorised under the Biosecurity Act.
+The department may disclose your personal information to the Australian Border Force, the Department of Home Affairs and other Australian government agencies, persons or organisations.
+The department may disclose personal or protected information to overseas regulatory agencies (if applicable) including but not limited to Regional Plant Protection Organisations and National Plant Protection Organisations as referred to in the International Plant Protection Convention and other persons or organisations where necessary for the purposes of administrating AusTreat.
+In every case, it will only be disclosed if authorised by the Biosecurity Act with respect to protected information, and/or in accordance with the Privacy Act 1988 (Cth).
+Further privacy information and contacts
+You can learn more about accessing or correcting personal information or making a complaint. For more information, see our Privacy.
+Contact
+Call 1800 900 090
+Email: biosecurityportal@aff.gov.au

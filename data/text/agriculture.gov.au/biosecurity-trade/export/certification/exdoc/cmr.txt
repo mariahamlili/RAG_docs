@@ -1,0 +1,21 @@
+CMR for exports was implemented by the Australian Customs Service on 6 October 2004. Customs electronic documentation system ICS replaces customs EXIT system.
+CMR and SEW
+- EXDOC continues to provide the SEW service for obtaining a Customs EDN through EXDOC at the same time as obtaining an RFP.
+- EXDOC clients ABNs need to also be registered with ICS to use SEW.
+- To check if you are registered for ICS at Customs follow the links on the Customs website Cargo Management Reengineering – ABNs – View ABNs – Search for a Specific ABN.
+- To register for ICS go to the customs website - Cargo Management Reengineering - and follow the links to ICS registration.
+- To use SEW contact the EXDOC helpdesk to confirm that the ABN on your Exporter Registration is the same as what is registered with ICS.
+Do I need a digital certificate?
+- EXDOC has a digital certificate to communicate with ICS so clients wishing to use SEW do not need to obtain their own digital certificate.
+- However in the event that SEW is unavailable the department strongly advise clients to obtain a digital certificate to communicate directly with Customs.
+What should I do during an outage?
+- If EXDOC is unable to communicate with the ICS clients should consider having one of the following arrangements: 
+  - A digital certificate to communicate directly with the ICS via EDI or the Customs Interactive website
+  - Nominating an agent who has a digital certificate to communicate directly with the ICS.
+ 
+- If the ICS is unavailable clients will need to lodge entries manually with Customs. 
+  - This will need to be done in person at a Customs counter.
+  - If you are a remote client who does not have direct access to a Customs counter, the department strongly advises that you nominate an agent who is able to personally lodge documentation at a Customs counter or lodge documentation via fax and email as a registered communicator with the ICS on your behalf.
+If clients require further information on SEW and CMR for exports please contact the EXDOC helpdesk.
+If clients would like more information on ICS and CMR for exports implementation please contact the Australian Customs Service.
+Phone: 1800 022 267 or Email customs or visit the customs website (and follow links to Cargo Management Reengineering).

@@ -1,0 +1,28 @@
+Information on the latest global and Australian indicator prices for fertiliser-grade urea and import quantities. This dashboard also includes latest import information on other fertilisers.
+The latest in world market indicators, Australian market indicators, Australian horticulture prices and weekly price movements. These prices are updated by 4.30pm every Thursday.
+Data sets
+Find data sets from our key research areas.
+Modernising agricultural statistics
+As the Department of Agriculture, Fisheries and Forestry's research arm, ABARES is working with the Australian Bureau of Statistics (ABS) to modernise the agricultural statistics system. Modernisation will support the sustainability of the system and provide benefits. These include reducing survey burden for farmers and agricultural businesses, reducing data collection costs, improving the timeliness and the quality of statistics, and increasing the availability of regional data.
+See more on how we are modernising agricultural statistics
+Australian Agricultural Census 2020–21 visualisations
+The Australian Agricultural Census 2020–21 visualisations is based on the most recent agricultural census data collected by the Australian Bureau of Statistics (ABS) for 2020–21.
+The dashboards present the data for two sets of regions:
+- Australian Statistical Geography Standard Edition 3 regions for Statistical Area level 2 (SA2), state and national data
+- Local Government Area (LGA), state and national data.
+The visualisations are designed to showcase the Agricultural Census data in a simple and intuitive way – as maps and charts with a focus on national, state and regional summaries for:
+- Area
+- Production including the area planted or harvested, production and number of livestock or trees
+- Number of businesses
+- Gross value of productions.
+Farm Data Portal - Beta
+The ABARES Farm Data Portal is an interactive visual tool that displays the full suite of information collected in ABARES broadacre and dairy farm surveys, along with information and analysis from other ABARES farm data research.
+You can use the tool to see historical results from those surveys, forecasts of farm financial performance, modelled results from the ABARES farmpredict model, and agricultural productivity estimates.
+The Farm Data Portal is currently in public beta release.
+Databases
+The Farm Data Portal is an interactive tool containing data from ABARES surveys of broadacre and dairy farms, and outputs from those surveys all in the one location.
+![Photo of seed propogation](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/anrdl-data.png)
+Find and download data on a variety of natural resource subjects from our products library.
+Software downloads
+The Multi-Criteria Analysis Shell for Spatial Decision Support (MCAS-S) is a powerful tool to view and assess mapped information and explore trade-offs assisting with collaborative decision-making with stakeholders. MCAS-S version 4 has improved performance, makes data and projects easier to organise and projects easier to share. Download Multi-Criteria Analysis Shell for Spatial Decision Support Version 4 to analyse and compare complex spatial information.
+Start using MCAS-S by downloading ready to go map layers.

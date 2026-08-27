@@ -1,0 +1,28 @@
+We will allocate payments from a client according to a number of factors. There are a number of options to make payments to the department.
+Credit card and BPAY
+Payments made by credit card through our website or BPAY will be automatically allocated to the relevant invoice.
+Verified Electronic Funds Transfer
+Payments made using Verified Electronic Funds Transfer (VEFT) will be allocated against outstanding invoices in the following way:
+[expand all]
+By statement balance
+If you pay the total outstanding statement balance, the payment will be allocated to the outstanding invoices referenced on that statement.
+Exact invoice match
+Single invoice payments will be matched to individual invoices where the amount paid matches a particular invoice.
+Oldest to newest debt
+Payments that cannot be allocated using the above methods will be applied to the oldest outstanding invoice (including any penalty invoices outstanding) until there are no further outstanding debts.
+The department can apply an exemption from the oldest to newest debt policy in limited circumstances. In these cases, payments made to the department must be accompanied by a remittance advice provided within 5 days of the payment detailing the paid invoice number(s). The department will manually apply payment to the invoice identified by the remittance. If a remittance advice has not been received by the department within 5 days, payments will be automatically allocated in the order of oldest to newest debt invoices, with the exception of invoices that have been officially disputed. This exemption is at the department's discretion and may be removed if payment remittance is not provided in a timely manner.
+Cheque and direct deposits
+You can pay single or multiple invoices by cheque, and must include the payment slip found at the bottom of the last page on your tax invoice.
+If you are making multiple payment by cheque or direct deposit you must provide the payment slip or a remittance advice for the invoices that you want to pay. If a remittance or payment slip has not been received by the department within 5 days, payments will be allocated in the order of oldest to newest debt invoices.
+Credit on the account
+Where a credit arises on an account as a result of an invoice adjustment or an overpayment, the credit will be allocated to the future debts within an account, on an oldest to newest policy, unless:
+- the payment was made to the department in error
+- an invoice has been officially disputed
+- the credit relates to a replacement invoice, in which case the credit will be allocated to the replacement invoice
+- the account remains in credit balance
+About the policy
+This policy comes into effect on 4 February 2019, and is prepared in accordance to:
+- the Public Governance, Performance and Accountability Act 2013 (PGPA Act) and Public Governance, Performance and Accountability Rule 2014 (PGPA Rule)
+- section 596 of the Biosecurity Act 2015
+- section 404 of the Export Control Act 2020
+- section 37 of the Imported Food Act; and section 13 of the Imported Food Collection Act

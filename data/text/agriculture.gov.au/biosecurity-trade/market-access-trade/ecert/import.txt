@@ -1,0 +1,53 @@
+We work with overseas governments to implement eCertificate exchanges for imports. This includes phytosanitary and sanitary certificates for food and agricultural exports.
+Our goal is for import certification to be completely paperless. You can find out more about the benefits of eCertificates and how we develop new exchanges with trading partners.
+You can also find out about eCertificate for exports from Australia.
+If an eCertificate exchange has not been established, paper certification continues to be required.
+External Verification for eCertificates (EVE) arriving from the end of June 2024
+EVE enables approved arrangement class 19 accredited persons to view electronic government certificates (eCertificates) and relevant attachments online as part of document assessment for imported goods.
+Approved arrangement class 19 accredited persons will be contacted directly via email with details on how to access eCertificates online through EVE.
+This system improvement advances the department’s commitment to adopt paperless import clearance processes and compliance to international standards. It enables faster document assessment clearance times and a better user experience.
+EVE is part of the Simplified Targeting and Enhanced Processing Systems (STEPS) program. STEPS is an investment in the department’s imported cargo ICT systems and business processes to enhance Australia's biosecurity risk management by creating a faster, simpler and more integrated cargo clearance system.
+Read more about the STEPS program and EVE.
+Our eCertificate for import system
+We have an eCertificate import application that allows us to receive electronic certificates (eCertificates) directly from exporting government agencies.
+Importers and brokers must provide eCertificate details for relevant import declarations. We’ll assess the eCertificate via the Agricultural Import Management System (AIMS) entry, or the eCertificate import application.
+Importers and brokers will be provided with relevant eCertificate numbers from exporters, along with other trade documentation.
+If you have provided your eCertificate information into the import declaration correctly, you do not need to submit a paper certificate. The eCertificate will be used for import clearance purposes.
+Parallel eCertificate exchange
+In a parallel exchange the eCertificate and paper certificate are issued together. The eCertificate is used for clearance, but the paper certificate can be used if there are issues accessing the eCertificate.
+Paperless eCertificate exchange
+In a paperless exchange the eCertificate alone is used for import clearance.
+How to lodge an eCertificate for import clearance
+eCertificates may be required to support import clearance into Australia through a number of pathways. The process to provide eCertificate information may vary, please refer to the information below and the relevant Help Card.
+Approved arrangement class 19 accredited persons may also process entries which require government certificates. Refer to Approved commodities for the class 19.2 (AEPCOMM) approved arrangement for more information.
+As per condition 19 of the Requirements and conditions for approved arrangement class 19.2: AEPCOMM, the accredited person must:
+- enter the government certificate type (in the AQIS document type field) and certificate number (in the AQIS document number field) in the ICS or third party software (see FID and SCL lodgements).
+A non-compliance advice notice may be issued in accordance with the Compliance classifications for class 19 approved arrangements if the eCertificate is not entered.
+For more information on accessing eCertificates, see EVE.
+This applies to SAC and CRS entries lodged through the ICS or third-party software. SAC and CRS entries are received by the department in the Import Management System (IMS).
+The AQIS Document Type and AQIS Document number fields are not available for SAC and CRS entries. The process for providing eCertificate details will be as follows:
+- The certificate number must be provided with other import documentation.
+- The department will then manually search for the eCertificate in the eCertificate import application.
+Goods imported to Australia’s external territories may also require government certification. This includes Norfolk Island, Christmas Island and Cocos (Keeling) Islands.
+As imports to external territories are not lodged through the ICS, the process for providing eCertificate details will be as follows:
+- The certificate number must be provided with other import documentation.
+- The department will then manually search for the eCertificate in the eCertificate Import application.
+Plant products requiring phytosanitary certification may also be directed to PEQ for isolation (e.g. nursery stock, tissue cultures).
+The following process applies for goods directed to PEQ:
+- Follow the relevant lodgement processes as listed above for FID and SCL lodgements, and SAC and CRS entries.
+- An original paper certificate is not required to be attached to the goods, as the department will assess the eCertificate for import clearance.
+Goods directed for inspection may also require phytosanitary or sanitary certification (e.g. fresh produce, seafood).
+The following process applies for goods directed for inspection:
+- Follow the relevant lodgement processes as listed above for FID and SCL lodgements, and SAC and CRS entries.
+- An original paper certificate is not required to be attached to the goods, as the department will assess the eCertificate for import clearance.
+eCertificate import trading partners
+eCertificate import exchange table
+This table shows trading partners and certificate types we’ve established an eCertificate import exchange with. Help Cards are available for the below countries, including certificate examples and additional clearance information.
+| Trading partner | Government certificate type | Document Type | Status of exchange | 
+|---|---|---|---|
+| New Zealand | Phytosanitary | NZPHYTO | Paperless | 
+|  | Sanitary | NZSANITARY | Paperless | 
+| United States of America | Phytosanitary | USPHYTO | Paperless | 
+| Republic of Korea | Phytosanitary | KRPHYTO | Paperless | 
+| Sri Lanka | Phytosanitary | LKPHYTO | Paperless | 
+It is important that the AQIS Document Number is entered correctly. Each letter, number and character of the eCertificate number must align with the certificate number format as specified above. Note that some letters and numbers can look similar (e.g. letter O/o and number 0, and letter i/I, letter l/L and number 1).

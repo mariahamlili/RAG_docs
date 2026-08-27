@@ -1,0 +1,115 @@
+The Aircraft Disinsection Information (ADI) system is used to record aircraft disinsection treatments. Treatments must be recorded for all flights arriving in Australia and New Zealand.
+The Import Relationship and Access Manager (iRAM) is the secure gateway to ADI. All users must register through iRAM to manage their role and access permissions.
+Who needs to use ADI
+Aircraft operators and third-party treatment providers must use the ADI system if both apply:
+- hold an approved arrangement (AA) with us or a Compliance Agreement (CA) with MPI (New Zealand)
+- are using either residual or pre-embarkation disinsection for flights arriving in Australia.
+ADI users require a secure sign-up process via iRAM. We provide the final approval as the ADI administrator.
+Airline Administrator
+An Airline Administrator is established for each airline.
+They will:
+- endorse and manage their users
+- add and update aircraft records
+Airline User
+Airline Users:
+- create and update disinsection records
+- cannot manage user access
+Airline Users must be endorsed by an Airline Administrator.
+Quick tips for using iRAM and ADI
+- Use Google Chrome for best performance.
+- For mobile access, use landscape mode for full functionality.
+- If a treatment port is missing from the dropdown list, contact us at conveyance.aircraft@aff.gov.au
+Why it’s important
+The ADI helps aircraft operators meet biosecurity requirements and prevent the entry of pests and disease vectors.
+iRAM and ADI support compliance with:
+- Australia’s Biosecurity Act 2015 (approved arrangements with DAFF)
+- New Zealand’s Compliance Agreements (with MPI)
+How to use iRAM
+As an Airline Administrator, you are responsible for endorsing users within your airline to access the Aircraft Disinsection Information (ADI) system. Follow these steps:
+- Log into iRAM using your registered email and password.
+- Select the relevant ADI system ID to view pending access requests.
+- Locate the user’s email address. A warning icon indicates action is required.
+- Select the user and click View Current Authorisations.
+- On the authorisation page, click Awaiting Endorsement by Airline Administrator to enable the Edit button, click.
+- In the 'Set New Status’ field, select:
+  - Endorsed by Airline Administrator & Awaiting ADI Administrator Approval, or
+  - Declined by Airline Administrator.
+- Click Save to confirm the endorsement.
+This completes the airline-level approval. The request will then proceed to the ADI Administrator for final authorisation.
+Airline Administrators may endorse an existing user to become an Airline Administrator within the ADI system. To do so:
+- Log into iRAM using your credentials.
+- Select the relevant ADI system ID to view user access requests.
+- Locate the user and click View Current Authorisations.
+- Select Add New Current Authorisation to open the authorisation details.
+- In the Role dropdown, choose Airline Administrator of selected airline only.
+- Set the status to Endorsed by Airline Administrator & Awaiting approval by ADI Administrator.
+- Click Save to confirm the update.
+This completes the endorsement process. The request will proceed to our ADI Administrator for final approval.
+Users may request access to additional airlines within the ADI system by following these steps:
+- Log into iRAM using your credentials.
+- Select the relevant ADI system ID.
+- Click Add New Authorisation(s) in the top right corner.
+- From the ‘Airline Code(s)’ dropdown, select the airline you wish to add.
+- Click Save to submit your request.
+Your request will be forwarded to the Airline Administrator for endorsement. Access will be granted upon approval.
+Airline Administrators may decline access requests from users within the ADI system by following these steps:
+- Log into iRAM and select the relevant ADI system ID.
+- Locate the user’s email address. A warning icon indicates pending action.
+- Select the user and click View Current Authorisations.
+- On the authorisation page, click Awaiting Endorsement by Airline Administrator to enable editing.
+- In the ‘Set New Status’ field, select Declined by Airline Administrator.
+- Click Save to confirm the decision.
+This completes the process of declining access for the user.
+Airline Administrators may revoke access for users to the ADI system.
+Follow these steps:
+- Log into iRAM and select the relevant ADI system ID.
+- Locate the user and click View Current Authorisations.
+- On the authorisation page, select the status: Endorsed by Airline Administrator and Approved by ADI Administrator.
+- In the ‘Set New Status’ field, choose Declined by Airline Administrator.
+- Click Save to confirm the removal.
+This action revokes the user’s access to the airline within ADI.
+How to use ADI
+- Access the ADI portal and select the Login button (top right corner).
+- On the Sign In page, click Sign up now to begin registration.
+- Enter your business airline email address and select Send Code.
+- Retrieve the verification code from your email and enter it to proceed.
+- Once verified, create a password, enter your full name, and select your airline from the list (multiple airlines can be selected).
+- Ensure all required fields are completed, then click Create located at the bottom of the list.
+- Your request will be sent to the Airline Administrator for endorsement.
+- You will receive a confirmation email once your access has been approved.
+This completes your registration to the ADI.
+Airline Administrators and users can create a new aircraft record in ADI in conjunction with a disinsection treatment update.
+Creating an aircraft record without a treatment is not permitted.
+To add a new aircraft:
+- Log into the ADI system and select Check Airline(s).
+- Use the search function or select your airline from the list.
+- Once the airline is selected, click Add Aircraft.
+- Complete all mandatory fields (*):
+  - Aircraft Registration (please ensure the full registration is entered)
+  - Aircraft Type (include manufacturer and model)
+  - Disinsection Treatment Method
+- Based on the treatment method selected, additional fields may appear (e.g. Residual Cabin/Hold Expiry Date, Treatment Airport, Applicator).
+- Optional: Add comments if required.
+- Click Save Details to finalise the entry.
+The new aircraft will now appear in your airline’s record within ADI.
+Airline Administrators, Airline Users, ADI Administrators, and NZ MPI Administrators may update aircraft records in ADI to reflect new disinsection treatments.
+Follow these steps:
+- Log into the ADI system and select Check Airline(s).
+- Use the search function or select your airline. To search by aircraft registration, tick the Aircraft Search box.
+- Select the relevant aircraft from the list.
+- On the Update an Existing Aircraft page, complete all mandatory fields:
+  - Aircraft Type (full manufacturer and model)
+  - Disinsection Treatment Method
+- Based on the treatment method, additional fields may be required (e.g. spray date, time, applicator details, flight number).
+- Optional: Add comments if needed.
+- Click Save Details to finalise the update.
+The updated aircraft record will now reflect the new treatment information.
+Airline Administrators and users can access the disinsection history of aircraft affiliated with their airline.
+Follow these steps:
+- Log into the ADI system.
+- Select ‘Check Airline(s)’ to open the airline and aircraft selection page.
+- Use the search function or select from the list to identify your airline.
+- To search by aircraft registration, ensure the Aircraft Search box is ticked.
+- Once the airline is selected, choose the relevant aircraft.
+- On the aircraft record page, click View History.
+This will display the aircraft’s disinsection treatment history.

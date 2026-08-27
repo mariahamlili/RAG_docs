@@ -1,0 +1,70 @@
+Improving access to imported food safety requirements
+Imported food safety requirements are now included in the Biosecurity Import Conditions system (BICON).
+See more about the Inclusion of food safety requirements in BICON.
+All biosecurity requirements must be met before Imported Food Inspection Scheme requirements apply.
+Check our Biosecurity Import Conditions system (BICON) for biosecurity import conditions.
+We classify imported food that presents a potential medium or high risk to public health as risk food. All risk food is listed in the Imported Food Control Order 2019.
+Fresh beef and beef products are classified as risk food
+This includes fresh raw (chilled or frozen) beef and beef products:
+- carcasses
+- whole muscle meat and bone-in cuts
+- ground (minced beef) and trim for grinding
+- offal
+You can only import fresh raw beef and beef products that originate in a country:
+- with a satisfactory BSE risk status
+- covered by a recognised foreign government certificate.
+Beef offal is not permitted to be imported due to biosecurity restrictions. Refer to BICON to review the biosecurity import conditions.
+Certification arrangements
+Fresh raw (chilled or frozen) beef and beef products can only be imported from countries listed here.
+| Type of information | To include | 
+|---|---|
+| National competent authority: | Canadian Food Inspection Agency | 
+| Recognised certificate title: | Veterinary certificate for meat products and by products derived from cattle of all ages exported from Canada to Australia | 
+| ICS document code: | BSECERTCAN | 
+| Type of information | To include | 
+|---|---|
+| National competent authority: | Ministry of Agriculture, Forestry and Fisheries | 
+| Recognised certificate title: | Export quarantine certificate for Beef from Japan to Australia | 
+| ICS document code: | BSECERTJPR | 
+| Type of information | To include | 
+|---|---|
+| National competent authority: | United States Department of Agriculture | 
+| Recognised certificate title: | Certificate for the Export of Fresh (Chilled or Frozen) Bovine Meat and Bovine Meat Products to Australia | 
+| ICS document code: | BSECERTUSA | 
+Declaring certificates
+When lodging a Full Import Declaration (FID), you must declare your certificate in the Integrated Cargo System (ICS) by lodging the correct ICS document code and certificate number for the food.
+See lodging declarations and documentation.
+Community Protection (CP) question
+You will need to answer this CP question when lodging your full import declaration:
+IFIS: Are the goods raw minced/ground beef or raw beef intended for mincing/grinding (answer yes if the goods are raw beef patties or burgers)?
+Testing and inspection
+We refer consignments of fresh raw (chilled or frozen) beef and beef products for analytical testing at the rate of 5%. During inspection, we will also conduct a visual and label assessment.
+Table 1 shows the tests that will be applied and permitted results for each food type.
+Table 1, Food type, test applied and permitted results
+| Food type | Test applied | Permitted result | 
+|---|---|---|
+| Fresh raw (chilled or frozen) beef  | Escherichia coli | n=5, c=3, m=10, M=100 cfu/g | 
+|  | Meat antimicrobial screen | Refer to meat and edible offal | 
+| Fresh raw (chilled or frozen) beef  | Escherichia coli | n=5, c=3, m=100, M=1000 cfu/g | 
+|  | Salmonella spp. | n=5, c=0, m=not detected in 25 g | 
+|  | Shiga toxin-producing E. coli (STEC) Includes STEC O26, O45, O103, O111, O121, O145, O157 | n=15, c=0, m=not detected in 375 g | 
+|  | Meat antimicrobial screen | Refer to meat and edible offal | 
+n = the number of samples to be analysed from a lot of food.
+c = the maximum allowable number of defective sample units, that have counts between ‘m’ and ‘M’.
+m = the acceptable microbiological level in a sample unit.
+M = the level, which when exceeded (the level is greater than M), in one or more samples would cause the lot to be rejected.
+Food safety risks
+Food Standard Australia New Zealand has given us advice that fresh raw beef and beef products present a potential medium or high risk to public health for the pathogenic microorganisms Salmonella spp. and Shiga toxin-producing Escherichia coli (STEC). The risk increases for ground product. To make sure there are food safety controls in place to manage these hazards, imports must be:
+- covered by a recognised foreign government certificate
+- tested to verify these controls are effective.
+Beef
+Beef means the flesh, bone, offal or any other tissue of an animal in the subfamily bovinae.
+Beef products
+Beef products means food prepared from or containing beef, but does not include gelatine, collagen, rendered fats, tallow or di-calcium phosphate.
+Competent authority
+The government authority or official body authorised by the government that is responsible for the setting of regulatory food safety requirements and/or for the organisation of official controls including enforcement.
+Version history
+| Date | Amendment details | 
+|---|---|
+| 04/08/2025 | Include USA and Canada certificate requirements, and minor amendments to clarify scope. | 
+| 28/01/2022 | First version of this webpage. Information previously contained in beef and beef products webpage (Reference number BEF 11/2018). |

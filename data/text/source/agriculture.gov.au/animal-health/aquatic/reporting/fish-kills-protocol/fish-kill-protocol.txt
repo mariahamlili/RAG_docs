@@ -1,0 +1,916 @@
+National Investigation and Reporting Protocol for Fish Kills
+fish
+
+The National Investigation and Reporting Protocol for Fish Kills 
+promotes a consistent national approach in the response to major 
+fish kill incidents in marine, estuarine and freshwater environ­
+ments in Australia. The protocol was jointly developed by national, 
+state and territory governments, academic institutions, private 
+industry sectors and conservation/native fisheries agencies. Its 
+development was funded by the Australian Government budget 
+initiative Securing the Future — Protecting our Industries from 
+Biological, Chemical and Physical Risk.  
+The Primary Industries Standing Committee and Natural 
+Resource Management Standing Committee endorsed the 
+National Investigation and Reporting Protocol for Fish Kills  
+in December 2006.
+© Commonwealth of Australia 2007 
+ISBN 978-0-9751859-9-5 (paperback) 
+ISBN 978-0-9803843-0-7 (CD-ROM)
+Photographs used in this publication have been provided 
+courtesy of the Australian Government Department of 
+Agriculture, Fisheries and Forestry (AG-DAFF) and the 
+Great Barrier Reef Marine Park Authority (GBRMPA).
+This work is copyright. Apart from any use as permitted under the 
+Copyright Act 1968, no part may be reproduced by any process 
+without prior written permission from the Commonwealth. Requests 
+and inquiries concerning reproduction and rights should be 
+addressed to the Commonwealth Copyright Administration, 
+Attorney General’s Department, Robert Garran Office, National 
+Circuit, Barton ACT 2600 or posted at http://www.ag.gov.au/cca. 
+The Australian Government Department of Agriculture, Fisheries 
+and Forestry seeks to publish its work to the highest professional 
+standards. However, it cannot accept responsibility for any 
+consequences arising from the use of information herein. Readers 
+should rely on their own skills and judgement in applying any 
+information for analysis to particular issues or circumstances.
+For further information regarding the development of this 
+protocol, please see:
+Nowak B, Crane M and Jones B (2005). Aquatic Animal Health 
+Subprogram: Development of national investigation and reporting 
+protocols for fish kills in recreational and capture fisheries. 
+FRDC2005/620 Fisheries Research and Development 
+Corporation, Canberra.
+or contact
+Aquatic Animal Health 
+Office of the Chief Veterinary Officer 
+Australian Government Department  
+of Agriculture, Fisheries and Forestry 
+GPO Box 858 
+Canberra ACT 2601
+aah@daff.gov.au 
+Editing: Biotext Pty Ltd, Yarralumla, ACT. 
+Design: Design ONE, Hall, ACT.
+Cover photograph ©GBRMPA
+
+0
+Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+2
+	
+Objective of the fish kill investigation protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+2
+	
+Development of the protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+2
+	
+Stages in the response to a fish kill incident . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+3
+Pre-incident stage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+4
+	
+Interagency communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+4
+	
+Public awareness activities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+4
+	
+Developing fish kill investigation kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+4
+	
+Identifying relevant laboratories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+5
+	
+Training response officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+5	
+	
+Implementing changes from debriefs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+5
+Trigger stage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+6
+	
+Fish kill notification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+6
+	
+Determining the need to investigate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+6
+	
+Roles and responsibilities of agencies in an investigation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+7
+Investigation stage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+8
+	
+Investigation process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+8
+	
+Resources for response officers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+9
+	
+On-site survey . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	
+9
+	
+Reporting during the investigation stage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 10
+	
+Response actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 11
+	
+Communications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 11
+Stand-down stage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 12
+	
+Reporting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 12
+	
+Debriefing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 12
+	
+Communication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 12
+	
+Event closure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 12
+	
+Records management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 12
+Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	 13
+Contents
+©GBRMPA
+
+0
+Most fish kill incidents are not reported in 
+the media.
+Fish kill
+A fish kill is defined as a significant1 and 
+sudden death of non-mammalian aquatic 
+animals. This definition applies to mortality 
+events that occur in the wild,2 but does not 
+refer to events occurring in aquaculture, 
+although it is acknowledged that aqua­
+culture operations may well be impacted by, 
+or contribute to, fish kill events in the wild.
+1 	Significant is meant in the broadest terms 
+(ie any unusual occurrence in terms of 
+either numbers or types [size, species]  
+of aquatic animals involved). 
+2 	The protocol includes both commercial and 
+noncommercial wild aquatic animal species.
+Identifying the causes of significant wild fish kills 
+may be important to the public, environmental 
+groups, aquaculture, recreational and wild capture 
+fisheries and governments as they may indicate 
+significant environmental changes, disease 
+incidents or major pollution events (both accidental 
+and deliberate). However, the causes of fish kill 
+incidents often remain unknown, and investigations 
+to determine the cause are often complicated by 
+the number and range of agencies that may be 
+involved, even within individual jurisdictions. 
+These problems hinder appropriate management decisions 
+being made to prevent future fish kill incidents. 
+Identifying the cause of a fish kill incident as soon as possible 
+will minimise the impact of the incident, demonstrate Australia’s 
+surveillance and monitoring capability at the international 
+level, underpin export market access and strengthen our 
+national biosecurity initiatives.
+Objective of the fish kill  
+investigation protocol
+This protocol aims to streamline the investigation and 
+reporting of major fish kill incidents in marine, estuarine  
+and freshwater environments in Australia, and to promote  
+a consistent national approach in response to such incidents 
+across states and territories. A nationally consistent approach 
+will improve the management and prevention of such incidents, 
+and the sharing of relevant information (such as response or 
+diagnostic techniques) between jurisdictions. 
+The protocol sets out the recommended minimum requirements 
+for each stage of the management of a fish kill incident, 
+including preparedness, investigation and reporting activities. 
+Development of the protocol
+This fish kill investigation protocol was developed at a national 
+workshop funded by the Australian Government, through its 
+budget initiative Securing the Future — Protecting our Industries 
+from Biological, Chemical and Physical Risk. Workshop 
+participants represented universities, Australian and state 
+and territory government departments with responsibility  
+for fisheries or aquaculture, environmental protection 
+agencies and conservation/native fisheries organisations.
+Background
+Fish kill incidents, although not 
+regular events, are known to occur 
+in natural waterways across 
+Australia.
+©AG-DAFF
+
+0
+The protocol was reviewed by the National Aquatic Animal 
+Health Technical Working Group and endorsed by the Primary 
+Industries Standing Committee (and its supporting committees 
+— Aquatic Animal Health Committee and Primary Industries 
+Health Committee) and the Natural Resource Management 
+Standing Committee (and its supporting committees — Australian 
+Fisheries Management Forum, and Marine and Coastal 
+Committee). It contributes to the outcomes of Australia’s National 
+Strategic Plan for Aquatic Animal Health: AQUAPLAN 2005–
+2010, specifically Strategy 1: Enhanced integration and scope 
+of aquatic animal health surveillance in Australia, Objective 4.
+Stages in the response  
+to a fish kill incident
+The response to a fish kill incident should  
+follow a logical process, shown in Figure 1,  
+which illustrates the four main stages and  
+the typical steps in an investigation. 
+While these stages are described as separate 
+events, they should be viewed as part of a 
+continuous process. For example, due to the 
+potential urgency and evolving timeline of an 
+incident, the trigger stage may move immediately 
+into the investigation stage.
+The recommended actions for each of these 
+stages are set out in the protocol. The tasks 
+detailed are advisory in nature and are provided 
+as guiding principles. During any incident,  
+the decision to vary or add tasks will be at  
+the discretion of the affected jurisdiction(s).
+A number of agencies and personnel are involved 
+in any investigation. The key roles are: 
+• the lead agency — responsible for leading  
+the investigation and providing the incident 
+coordinator; the lead agency may vary 
+depending on the nature of the incident
+• response officers — deployed to the site of  
+the fish kill to conduct an on-site investigation
+• the incident coordinator — appointed by  
+the secretary, director general or other senior 
+manager as appropriate; a senior manager 
+who has authority to coordinate the agency’s 
+resources and represent the agency and the 
+area involved in the management of the 
+incident response; responsible for appointing 
+and leading the incident investigation team.
+Pre-incident stage
+Return to pre-incident stage
+Trigger stage
+Fish kill reported
+Investigation warranted
+Determine resources available for 
+a response according to location,
+and request assistance if needed
+On-site survey
+Take fish kill kit
+Check accuracy of incident log data and amend as necessary
+Collect data and samples as per protocol
+Follow-up actions from on-site survey
+Ensure appropriate transport, storage and analysis of samples, 
+including provision and use of sample submission forms
+Submit report from on-site survey to lead agency
+Debrief and follow-up
+Notify other interested parties
+Initiate follow-up with appropriate agencies 
+as appropriate
+Issue media release as/when appropriate
+Conduct debriefing activities
+Investigation not warranted
+Compile incident log and inform lead agency
+Check the basic information reported (incident log)
+Notify stakeholders, including other relevant agencies
+Determine whether investigation warranted (see Figure 2)
+Investigation stage
+Stand-down stage
+Figure 1	Checklist for responding to a fish kill incident
+
+The pre-incident stage encompasses a range  
+of ongoing tasks to develop and maintain an 
+appropriate level of preparedness to facilitate 
+best practice during an incident. During this 
+stage, the following activities are recommended:
+• interagency communication
+• public awareness activities
+• developing fish kill investigation kits
+• identifying relevant laboratories
+• training response officers
+• implementing changes from debriefs.
+Interagency communication
+Fish kill investigation is a complex process and 
+may involve many government agencies. The roles 
+and responsibilities of the different agencies — 
+based on their legislative responsibilities, expertise, 
+skills and resources — should be determined before 
+a fish kill incident occurs. 
+The agencies that may be directly involved during a 
+fish kill investigation include the state or territory 
+environment protection agency (or department of 
+environment and conservation) and the depart­ment 
+of primary industry or fisheries (or equivalent).  
+It is also important to inform the department  
+of health (or equivalent) so that any queries  
+from the community regarding human health  
+can be addressed.
+The lead agency is likely to vary with the nature of the 
+individual incident. However, during the pre-incident stage, 
+agencies should consider pre-determining the lead agency 
+based on certain circumstances (eg location of fish kill 
+incident in a state or national park). The agencies identified 
+above should also provide each other with details of relevant 
+officers to be contacted following a fish kill notification.
+Public awareness activities 
+Members of the public are often the first to notice incidents 
+in the wild involving animals. Many states have hotlines that 
+are useful and effective ways for the public to pass on such 
+information to government or community agencies. For fish, 
+several hotlines exist for reporting, for example, illegal fishing, 
+fish identifications and fish deaths (eg Fish Watch, Department 
+of Fisheries, Government of Western Australia). Where a fish 
+kill hotline does not exist, the affected jurisdiction (through 
+the lead agency) should consider establishing one. When a 
+hotline is established, the hotline number should be promoted 
+to the community on relevant websites, fish kill investigation 
+brochures and posters, and during any interactions of relevant 
+staff with the public. Hotlines should be operated 24 hours 
+a day. 
+Developing fish kill investigation kits
+A fish kill investigation kit contains equipment and resources 
+for gathering and recording information during the on-site 
+investigation of a fish kill incident by a response officer. The 
+recommended contents of the kit are listed in the Appendix.
+Pre-incident stage
+The pre-incident stage is any 
+time that there is not a report  
+of a fish kill incident. 
+©AG-DAFF
+
+©AG-DAFF
+0
+These kits should be sealed and under the control of nominated 
+officers to ensure that items are not used except during 
+incidents. It is also important to routinely check the contents 
+of the kits — for example, the expiry dates, safety information, 
+and registration details of any chemicals; the inclusion of 
+spare batteries for devices such as cameras and aerators; 
+and the inclusion of sufficient copies of the appropriate 
+forms. These routine checks could be carried out by the 
+nominated officer on a regular basis (eg annually or 
+quarterly, as appropriate).
+Identifying relevant laboratories
+While developing the fish kill investigation kits, agencies 
+should establish a relationship with the relevant aquatic 
+animal health and testing laboratories during the pre-
+incident stage. This will allow laboratories to provide 
+guidance (eg on sampling techniques) and equipment  
+(eg water bottles, sample kits) before an event.
+Training response officers
+Potential response officers should be trained 
+during the pre-incident stage in the use of the 
+fish kill investigation kits. All new staff must  
+be trained; existing staff should be given a 
+refresher course periodically and whenever the 
+kits are significantly updated. Training should be 
+coordinated by the relevant agencies and include 
+standardised sampling techniques and reporting 
+requirements.
+Implementing changes  
+from debriefs
+The pre-incident stage provides an opportunity  
+to implement changes that have been suggested 
+during debriefing from previous fish kill incidents.
+
+During the trigger stage, details of the incident 
+are recorded and an assessment made as to 
+whether the fish kill needs to be investigated  
+to determine its cause.
+Fish kill notification
+When a fish kill incident is reported (either 
+through a hotline or directly to an officer within  
+a government agency), the following information 
+should be recorded:
+• personal identification and return phone number
+• date and time of the notification
+• location and extent of the incident
+• date of observation of the incident
+• type of aquatic animal affected (eg fish, mollusc)
+• number of dead aquatic animals (and species, 
+if possible) and other wildlife affected
+• appearance of dead and any surviving  
+aquatic animals
+• flow conditions of the waterway
+• weather conditions (current and over the 
+previous 48 hours)
+• any signs of discharge (eg pollution) into  
+the waterway
+• what actions, if any, have been taken
+• who else has been notified.
+The agency receiving the report should assess the available 
+information and determine the appropriate type of response. 
+Determining the need to investigate
+The main reason to investigate a fish kill incident is to 
+determine its cause, as fish kills can indicate that there is an 
+emerging environmental or pollution problem, or an outbreak 
+of a new disease. Information from the investigation will 
+assist in maintaining appropriate levels of environmental 
+protection, natural resource protection, and aquatic animal 
+disease control. This, in turn, will help manage public safety, 
+public concern, and economic impacts relating to tourism 
+and other industries dependent on aquatic resources. 
+The decision to proceed to the investigation stage is at  
+the discretion of the affected jurisdiction(s), with such 
+decisions made on a case-by-case basis. This decision should 
+be undertaken by an appropriate person, which in most 
+cases will be an experienced incident coordinator. For this 
+reason, it is important to identify and collate the available 
+information and report directly to the incident coordinator 
+for further advice.
+Trigger stage
+The trigger stage is activated when 
+a fish kill incident is reported to 
+any state or territory agency. 
+©GBRMPA
+©AG-DAFF
+
+0
+A decision tree is a useful tool to help decide on the appropriate 
+response to an incident (see Figure 2). However, there may 
+be many factors to consider and it is recommended that 
+advice is sought from an experienced incident coordinator. 
+The criteria used to trigger a fish kill investigation in Figure 
+2 below (eg average body length of affected or dead fish 
+>100 mm, more than 20 fish dead) have been used in this 
+example for illustrative purposes only and are not intended 
+to provide specific guidance on when/whether an incident 
+requires further investigation. Agencies are encouraged to 
+develop their own guidelines in consultation with experienced 
+incident coordinators/personnel.
+Roles and responsibilities of agencies 
+in an investigation
+If the incident is to proceed to the investigation stage, the 
+agency receiving the initial report of the incident should 
+notify other relevant agencies and reach an agreement as to 
+who will act as the lead agency and who will provide support. 
+If some agreement has been reached during the pre-incident 
+stage, the lead agency should reaffirm its ability to act in this 
+role (or seek assistance if it is unable to act). The lead agency 
+is responsible for leading the investigation and providing the 
+incident coordinator. However, full cooperation, resource and 
+information sharing, and debriefing between agencies are 
+essential for a successful fish kill investigation.
+The incident coordinator should be appointed within the 
+lead agency by the secretary, director general or other senior 
+manager as appropriate within each jurisdiction. An incident 
+coordinator checklist (Form 6) is a useful tool to guide the 
+incident coordinator in their role and to help ensure that all 
+appropriate tasks are completed.
+If an investigation is to occur, regional directors within the 
+response agencies and the appropriate media units should 
+be notified. If no response/investigation is undertaken, other 
+agencies may still need to be notified of the fish kill incident.
+Average body length of affected
+or dead fish > 100 mm 
+Incident does not warrant
+formal investigation
+NO
+NO
+NO
+YES
+YES
+YES
+NO
+Affected or dead fish of a regulated species
+with a zero bag limit under fisheries legislation?   
+NO
+Affected or dead fish of a species with
+vulnerable or endangered status under
+nature conservation legislation?  
+More than 5 fish 
+affected or dead 
+More than 20 fish 
+affected or dead 
+A significant fish kill which should be formally investigated
+YES
+Figure 2	Example of a decision tree to 
+determine whether a fish kill 
+investigation is warranted
+©AG-DAFF
+
+Investigation process
+Following the decision to investigate a fish kill 
+incident, the incident coordinator should appoint 
+(as necessary) people to the five positions listed 
+in Table 1. 
+Collectively, these positions comprise the incident 
+investigation team.
+The recommended steps in an investigation include: 
+• collection of all information received to date 
+on the fish kill incident
+• deployment of response officers — since 
+evidence deteriorates rapidly, site inspection 
+should be undertaken as soon as possible
+• on-site survey at the fish kill location, including 
+the collection and storage of samples, evidence, 
+photos, etc
+• reporting on the on-site survey
+• analysis and interpretation of data and results 
+of sample analysis — this should be done in 
+consultation/conjunction with the testing 
+laboratory
+• follow-up investigation and initiation of 
+further actions dependent on the results of the 
+sample testing — for example, if it is determined 
+to be an environmental cause, actions may be 
+put in place to avert future incidents; similarly, 
+if the cause is determined to be an infectious 
+disease, actions may be undertaken to identify 
+the source of the disease and reduce the risk 
+of disease spread.
+During the investigation stage, the incident coordinator 
+should notify other relevant government agencies of actions 
+taken, and seek advice and support where necessary.
+Table 1 Roles and responsibilities of officers assigned  
+to a fish kill incident
+Position
+Role and responsibility
+Response officers
+Deployed to the site of the fish kill  
+to conduct an on-site investigation
+Communications 
+manager
+Responsible for coordinating 
+communications activities, 
+formulating and dissemi­nating 
+information to key stakeholders 
+affected by the investigation, and 
+releasing and capturing information 
+from television, radio, print and 
+internet media
+Laboratory liaison
+Responsible for collating information 
+from one or more laboratory
+Reporting officer
+Responsible for compiling reports  
+and drawing together information 
+from all sources, including field and 
+laboratory data
+Records manager
+Responsible for ensuring that accurate 
+records of meetings, investigations, 
+laboratory results etc are compiled 
+and stored appropriately (including 
+electronic and hard-copy files or 
+databases)
+Investigation stage
+The investigation stage begins  
+if the decision to investigate the 
+incident is made.
+©AG-DAFF
+
+0
+Resources for response officers
+Nominated response officers, before leaving for the site, 
+should ensure that they have the following resources:
+• fish kill investigation kit (the officers should check the 
+contents, especially the expiry dates and safety information 
+for any chemicals)
+• camera (unless already in the kit)
+• fish kill incident log (Form 1) — used to record details of 
+both the initial report and the on-site investigation to 
+ensure that the current situation is accurately reflected
+• communications log (Form 2) — used to record details  
+of all communication activities, by all members of the 
+investigation team, during an investigation
+•	 job safety analysis record (Form 3) — used to assess 
+potential risks and to ensure that officers have any 
+equipment required to minimise these risks; risk 
+assessment needs to be undertaken before the 
+investigation and reviewed on site
+• chain-of-custody record (Form 4) — this tracks the movement 
+of samples between parties; it should be signed each time 
+the samples change hands and should be sent with a copy 
+of the submission form and the samples to the aquatic 
+animal health laboratory
+• interview record (Form 5) — provides a template for 
+response officers to record witness accounts on site.
+The response officers should also contact the state or territory 
+aquatic animal disease diagnostic laboratory to seek advice 
+on the collection of samples (if this information is not already 
+included within the kit).
+On-site survey
+At the location of the fish kill, the response officers should 
+complete the relevant sections of the fish kill incident log 
+(Form 1). In addition to the information required on this 
+form, the officers should also interview any witnesses 
+(completing Form 5) and take photographs of the site.
+Sampling protocol
+Samples need to be taken from the aquatic animals 
+and the environment, and must be stored and 
+submitted to the appropriate laboratories for testing. 
+Aquatic animal samples should be taken first  
+as these will deteriorate rapidly, reducing the 
+suitability of samples for diagnostic testing. Whole 
+fish are preferable, but samples from major organs 
+may be taken (see Table 2 for suitable procedures) 
+and must be stored appropriately (see Table 3).
+Table 2 Procedures for animal sampling
+Sample
+Procedure
+Whole fish
+•	place in clean water
+•	take photographs
+•	describe external lesions
+Dissected 
+animals
+•	photograph internal lesions
+•	take samples, aseptically if 
+possible, from major organs 
+(ie gills, kidney, liver, spleen, 
+heart, skin/muscle, gut, 
+gonads [if sexually mature 
+animals are sampled], brain)
+•	take samples for toxicological 
+analysis
+©GBRMPA
+
+10
+Table 3 Sample storage methods
+Analysis
+Sample storage method
+Bacteriology, virology, 
+molecular diagnostics, 
+toxicology
+Fresh on ice
+Diagnostic polymerase 
+chain reaction (PCR) 
+assay
+70% ethanol or 
+RNAlater
+Histological 
+procedures
+<1 cm cube placed in 
+formalin (1:10 tissue 
+weight: formalin volume)
+Toxicant residue 
+analysis (toxicology)
+Frozen gill 
+Prompt evaluation of the site environment is also 
+fundamental to the successful investigation of fish 
+kills. Environmental parameters change rapidly and 
+any delay in obtaining data severely compromises 
+the likelihood of a successful investigation. 
+Water samples should be collected from at  
+least three points (at the kill site, upstream and 
+down­­stream) for laboratory testing of nutrients, 
+heavy metals, sulfides, phytoplankton, pesticides 
+and sediment.3
+It may also be necessary to collect samples from 
+upstream and/or downstream of any suspected 
+pollution sources. The sampling locations should 
+be recorded on the fish kill incident log (Form 1).
+Any samples taken should be recorded on the sample 
+submission form provided by the relevant laboratory.
+3	 For each of these substances, a different test is 
+required. The submitter should provide guidance to the 
+testing laboratory based on the on-site circum­­stances 
+(eg visible discharge into the waterway, excess algal 
+blooms). Additionally, if a pathological examination 
+excludes infectious causes of kill, the investigator is 
+directed to environmental or toxic causes of the kill. 
+It is important to have suitably stored water and 
+tissues to go back to in such cases. Background levels 
+of toxicants vary within and between species, ages 
+and geographical locations. Care is necessary to 
+identify an expected back­­ground level in water or 
+tissues and not ascribe such to a pollution event.
+Submission of samples
+The response officers should:
+• contact the diagnostic laboratories to inform them of 
+incoming samples (ensuring that appropriate records of 
+this contact are kept through the use of the communications 
+log [Form 2] and the chain-of-custody record [Form 4]) — 
+this will facilitate the collection of the samples on arrival 
+at, for example, the airport or docking bay
+• complete sample submission form(s)
+• reconfirm transport arrangements as needed (the use of 
+emergency transport procedure forms or dangerous goods 
+transportation forms may be required in some jurisdictions).
+Reporting during the investigation stage
+Once the response officers have completed all of the relevant 
+forms (fish kill incident log,4interview record, etc), these should 
+be provided to the incident investigation team. The reporting 
+officer can then use this information to produce an initial 
+investigation report for circulation to the relevant agencies.
+Following the collection of samples, the chain-of-custody 
+record (Form 4) should be submitted with the samples  
+to the diagnostic/analytical laboratory, along with any 
+sample submission forms, as required by the laboratory. 
+The response officers should then inform the incident 
+coordinator that the samples have been submitted to the 
+laboratory, and forward copies of the sample submission 
+form(s) to the incident coordinator and the records  
+manager for appropriate storage (eg registry).
+4	 The response officers should ensure that the details of the 
+initial notification are included on the fish kill incident log.
+©GBRMPA
+
+11
+The incident coordinator should contact other relevant 
+agencies as appropriate. Within agencies, reporting to 
+ministers and the senior management should occur in 
+accordance with regular reporting protocols and procedures.
+As new and significant results (or other relevant information) 
+are obtained, these data should be collated by the reporting 
+officer who should prepare regular situation reports/updates 
+for approval by the incident coordinator and subsequent 
+circulation to all relevant agencies. The confidentiality of 
+this information is at the discretion of the lead agency. 
+The reporting officer (in consultation with the records manager) 
+should ensure that all relevant information is appropriately 
+stored so that it can be drawn upon for the final diagnostic 
+report, which is to be completed during the stand-down stage.
+Response actions
+At the discretion of the incident coordinator (in consultation 
+with senior management within the lead agency and other 
+relevant agencies, as appropriate) actions may be imple­
+mented to prevent further deaths. Follow-up monitoring  
+and reporting may be put in place until the event is  
+resolved (ie upon return to the pre-incident stage).
+The response actions will need to be determined on a  
+case-by-case basis.
+Communications
+Communication is a vital element of any emergency response. 
+Timely, clearly articulated and well-delivered communications 
+substantially shape people’s willingness and capacity to help 
+resolve the emergency and prevent disruption to the response 
+strategy.
+Internal
+All members of the incident investigation team should complete 
+the communications log (Form 2) for all activities carried out 
+as part of an investigation, such as telephone contact with 
+diagnostic laboratory, email contact with relevant departments, 
+and so on.
+External
+Several organisations, media and members of the 
+public have legitimate interest in fish kill incidents, 
+any subsequent investigation and the outcomes 
+of these activities. 
+To avoid transfer of inaccurate information, minimise 
+potential confusion and demonstrate competent 
+management of the incident to the media and 
+the public, a set of media procedures should be 
+developed and adhered to. These procedures will 
+also ensure consistency of information provided 
+and minimise the likelihood of conflicting reports 
+from different agencies.
+The development and implementation of  
+these procedures should be overseen by the 
+communications manager, and should include the:
+• recognition of one person as the common 
+communications manager for
+–	 all media inquiries
+–	 issuing of all media releases
+–	 management of media interviews  
+with experts
+• development and circulation to the incident 
+investigation team of an up-to-date list of 
+contacts for all agencies involved (including 
+environment agency, fisheries agency, aquatic 
+animal health laboratories, boating and 
+fisheries patrol, local government, analytical 
+labor­at­ories and technical advisors)
+• development of talking points, as appropriate, 
+for senior staff and ministers.
+If appropriate, agencies could develop these 
+media procedures during the pre-incident stage.
+
+The stand-down stage occurs either when 
+the trigger stage identifies no need for further 
+investigation, or when the investigation stage  
+of the incident is complete and activities return  
+to the pre-incident stage. The stand-down stage 
+includes preparation of a final report, debriefing, 
+and collation and storage of relevant documents.
+Reporting 
+Following the investigation, a post-result analysis, 
+with conclusions, should be prepared by the 
+reporting officer for the final diagnostic report. 
+The analysis needs to be cleared by the incident 
+coordinator and/or senior management within 
+the lead agency and circulated to relevant agencies.
+Debriefing
+Debriefing facilitates the continual improvement 
+of emergency preparedness and response. It is 
+important to confirm what worked well and what 
+did not, to capture those lessons and incorporate 
+them into plans, procedures, arrangements, facilities 
+or training to improve the management of future 
+incidents. Debriefs also provide an opportunity for 
+those involved to achieve closure regarding the 
+incident.
+The incident debriefing should be conducted with 
+all agencies that were involved in the response to  
+a fish kill notification (ie those involved in both the 
+trigger and investigation stages), and should aim 
+to identify actions to improve the response (ie 
+investi­­gation, communication) to future fish kill 
+notifications.
+Communication
+Consideration should be given to issuing a final media 
+release to stakeholders noting that the incident is officially 
+closed. There should be consultation with, and agreement 
+from, relevant agencies before the release of this statement.
+Event closure
+There should be a formal recognition of the closure of the 
+event. This could accompany the circulation of the final 
+report and actions.
+Records management
+Copies of the following items should be provided to the 
+records manager for appropriate storage:
+• all communication logs from the incident investigation team
+• all communication with media outlets or other external groups
+• any agendas, minutes and action lists relating to meetings 
+about the incident investigation team or other groups as 
+appropriate
+• fish kill incident log, chain-of-custody record, interview 
+record and other forms, as appropriate.
+Where a fish kill database exists, relevant summary  
+data should be recorded in the database according  
+to jurisdictional operating procedures.
+Stand-down stage
+The stand-down stage occurs 
+when there will be no further 
+investigation of the incident.
+©AG-DAFF
+
+13
+Paperwork
+✔
+Contents checklist
+Checklist for each activity to be done
+Sampling protocol
+Waterproof notebook
+Contact person list
+Forms:
+•	fish kill incident log (Form 1)
+•	communications log (Form 2)
+•	job safety analysis record (Form 3)
+•	chain-of-custody record (Form 4)
+•	interview record (Form 5)
+Equipmenta
+✔
+Camera(s) (digital or note caution with expiry of film)
+Fish diagnostics — for sampling fresh animals (live moribund 
+animals taken quickly to laboratory if close/possible, otherwise 
+bagged, labelled and put on ice)
+Plastic bags
+Aluminium foil
+Esky
+Waterproof labels
+Pen/pencil
+Ice bricks (frozen)
+Sample containers
+Aerator
+Batteries, 12 volt (for aerator)
+Fish diagnostics — for tissue samples
+Formalin working solution and associated safety formsb
+Packing tape
+Containers
+Disposable gloves
+Collection 
+Telescopic scoop net with suitablec mesh size
+Aquatic animal identification manuals/photo sheets
+Bucket (at least 10-litre capacity) with lid
+Ruler/fish metre board
+Knife
+Dissection kit
+Appendix
+Basic fish kill investigation kits 
+— recommended contents 
+Water sampling
+Sampling beaker to go on pole
+Solvent-washed bottle for water (x6)
+Acid-washed bottle for water (x6)
+Lugol’s iodine and container (approx 1–5 mL  
+per 100 mL water sample for phytoplankton) (x6)
+Plastic bottles for nutrient sampling
+Sediment sampling
+Solvent-washed bottle for sediment (x6)
+Acid-washed bottle for sediment (x6)
+Cleaning equipment and disinfection
+eg Decon90® or Virkon® tablets (as appropriate)
+Environmental monitoring
+Thermometer
+Dissolved oxygen bottles — Winkler reagent
+pH strips
+Safety
+Safety glasses
+Apron (made from waterproof fabric/plastic)
+Sharps container
+Eye wash bottle
+Disposable latex gloves
+Thicker nitrile gloves
+Material Safety Data Sheet (MSDS)d
+Sunscreen
+Dust mask (of appropriate class)
+First aid kit
+Disposable overalls (waterproof or splashproof)
+Shipping documents
+✔
+Sample submission form (from relevant laboratory)
+Emergency goods transport form
+a 	The kit can be broken into two parts to make it easier to carry
+b 	Subject to suitability of formalin working solution
+c 	 Mesh size should be determined during kit development
+d 	It is an occupational health and safety requirement that the manufacturer 
+provides a hard copy of the data sheet for chemical or biological materials. 
+The MSDS alerts the user to any cause for concern (toxicity/mutagenicity/ 
+teratogenicity, etc) when handling the provided material.
+©GBRMPA
+
+©GBRMPA

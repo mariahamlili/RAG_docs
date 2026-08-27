@@ -1,0 +1,59 @@
+Overview
+ABARES Australian forest and wood products statistics (AFWPS) is a collection of data on key indicators of activity in the Australian forest and wood products sector.
+AFWPS has two components - a production and trade focussed report released in June, and a separate trade only edition focussed on newly released trade data from the ABS in November.
+As a whole, AFWPS is supported by summary tables in Excel format and a Power BI data visualisation that provides users with an interactive dashboard to interrogate the data.
+The current edition of AFWPS covers production and trade data to 2024–25.
+To access the previous edition of the AFWPS click the download links in the dropdown below.
+Time series charts are expressed in real terms (adjusted for inflation).
+![Infographic](https://www.agriculture.gov.au/sites/default/files/images/infographic-afwps-production-trade-to-2024-25.jpg) 
+A high resolution version of the Australian Forest and Wood Products Statistics: Production and trade to 2024–25 is available in the download section below.
+If you have difficulty accessing this file, contact us for help.
+2024–25 volume and value of logs harvested
+|  | Unit | 2024–25 | % change from 2023–24a | 
+|---|---|---|---|
+| Volume of logs harvested |  |  |  | 
+| Commercial plantation log harvest | million cubic metres | 20.4 | -2.7 | 
+| Hardwood log harvest | million cubic metres | 6.0 | -15.5 | 
+| Softwood log harvest | million cubic metres | 14.4 | 3.9 | 
+| Native forest log harvest b c | million cubic metres | 2.4 | 0.8 | 
+| Total volume of logs harvested | million cubic metres | 22.9 | -2.4 | 
+| Value of logs harvested |  |  |  | 
+| Commercial plantation logs harvest | $ million | 1,966 | -4.5 (-6.8) | 
+| Hardwood log harvest | $ million | 575 | -16.9 (-18.8) | 
+| Softwood log harvest | $ million | 1,391 | 1.7 (-0.7) | 
+| Native forest logs harvest b c | $ million | 277 | 3.2 (0.8) | 
+| Total value of logs harvested | $ billion | 2.24 | -3.6 (5.9) | 
+2024–25 plantation area
+|  | Unit | 2024–25 | % change from 2023–24 | 
+|---|---|---|---|
+| Plantation area |  |  |  | 
+| Hardwood plantations | '000 hectares | 670.9 | -0.4 | 
+| Softwood plantations | '000 hectares | 1,015.5 | 0.6 | 
+| Total plantation area d | '000 hectares | 1,709.8 | 0.2 | 
+a Values in brackets are in real terms (2024–25 dollars) to account for inflation.
+b Includes native cypress logs.
+c Previously published native forest log volume and value data for 2023–24 have been revised using an updated methodology to reflect substantial structural changes in the sector and availability of new data.
+d Total includes plantations where type in unknown.
+2024-25
+|  | Unit | 2024– 25 | % change from 2023–24 a | 
+|---|---|---|---|
+| Trade |  |  |  | 
+| Total value of exported wood products | $ billion | 2.89 | 6.6 (4.1) | 
+| Total value of imported wood products | $ billion | 6.83 | 4.9 (2.4 ) | 
+| Total merchandise trade | $ billion | 9.72 | 5.4 (2.9) | 
+a Values in brackets are in real terms (2024–25 dollars) to account for inflation.
+2024-25 dwelling commencements
+|  | Unit | 2024– 25 | % change from 2023–24 | 
+|---|---|---|---|
+| Dwelling commencements |  |  |  | 
+| House commencements | '000 | 110 | 9.9 | 
+| Other residential commencements | '000 | 69 | 15.6 | 
+| Total dwelling commencements | '000 | 179 | 11.9 | 
+Data visualisation
+Note: The reported trade data can be subject to ABS confidentiality restrictions, such as hardwood woodchips since October 2020. The confidentiality restrictions can have implications for country and national level reporting. For additional details see International Trade in Goods and Services, Australia.
+Source: ABARES
+This Power BI dashboard may not meet accessibility requirements. For information about the contents of these dashboards contact ABARES.
+Australian forest and wood products data
+If you have difficulty accessing these files, contact us for help.
+For historic and archived versions of the Australian Forest and Wood Product Statistics report, please use the ABARES Publications Library.
+In March 2022 ABARES updated the classifications used to report Agriculture, Fisheries and Forestry export statistics. These changes will improve the quality of information available to users of trade statistics. These changes may result in changes to historical time series for trade statistics due to the movement of trade items between categories, or the addition of new items. A detailed explanation of ABARES classification of Agriculture, Fisheries and Forestry statistics is available, along with a concordance to the previous definition. This classification is based on the Australian Harmonised Export Commodity Classification.

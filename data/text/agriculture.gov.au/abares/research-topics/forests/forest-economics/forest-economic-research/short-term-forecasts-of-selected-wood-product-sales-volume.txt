@@ -1,0 +1,10 @@
+Author: Linden Whittle
+Overview
+As part of a three year (2015-16 to 2017-18) joint project between Forest and Wood Products Australia (FWPA) and ABARES, ABARES developed quarterly sales volume forecasts for selected wood products from the FWPA Softwood Data series. This technical report documents the methods and assumption underlying ABARES forecasts.
+Key Issues
+- The FWPA Softwood Data Series (FWPA 2016) was established in 2002 by Australia's major softwood sawmilling companies and provides monthly sales volumes for 44 detailed product categories. ABARES was tasked to estimate quarterly forecasts for four specific wood products; untreated structural pine less than 120mm, untreated structural pine greater than 120mm, termite treated structural pine and landscape wood products. These forecasts will be made available for members of the FWPA data dashboard.
+- The econometric models estimated in the report are not based on formal structural economic models of the relevant wood product markets. Instead, they are simple, statistically robust, predictive models that are based on historical relationships and patterns observed over the sample period.
+- In interpreting or using ABARES forecasts it should be noted, that the FWPA Softwood Data series do not include all producers in the industry and the number of participating producers is changing over time. As such, the series are not representative of national production or sales and the effects of new entrants in the data series has the potential to affect the validity of the estimated models. The models estimated in this study, and approaches used to generate forecasts, will be periodically reviewed by ABARES in order to improve the accuracy of forecasts over time.
+Download the full report
+   Short-term forecasts of selected wood product sales volume: Method and assumptions - PDF 
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) [2.3MB, 83 pages]

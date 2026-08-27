@@ -1,0 +1,42 @@
+What is EXDOC?
+EXDOC is a software application developed by the department for the purpose of managing export documentation for primary produce.
+EXDOC replaced manually generated permits and certificates.
+What is Export Documentation?
+Export documentation includes
+- export permits as required by the Export Control Act
+- export certificates as required by importing country authorities.
+What information does EXDOC require?
+To obtain an export permit you will need to provide the information as required by the Export Control Act as well as any information that is required to satisfy importing country requirements. Information required may include but is not limited to details of the consignment, product, transport and product preparation.
+What commodities does EXDOC cover?
+- Edible Meat
+- Dairy
+- Seafood
+- Grains
+- Eggs
+- Horticulture
+- Skins & Hides
+- Wool
+- Inedible Meat Products
+Benefits
+The system has improved
+- the turn-a-round times for export documentation
+- the quality and integrity of data
+- product traceability
+- reporting capability
+A number of efficiencies were introduced
+- automated validations
+- work flow processes
+- ability to print certificates on site for some commodities
+- Single Electronic Window (SEW) with Australian Customs and Border Protection to apply for customs clearance.
+How do I get access to EXDOC?
+There are two types of users of EXDOC. The exporter is the party legally liable for the goods and is nominated on the export documentation. An EDI User is the party raising the documentation.
+Exporter - Must be registered on the EXDOC system as an exporter.
+EDI User - Must be registered as an EDI User and have an installed third party software package to interface with the EXDOC system.
+Third Party Software Package
+There are a number of software packages that have been registered by the department to interface with the EXDOC system.
+A third party software package may be purchased from one of the registered vendors. Each package is different with some providing whole of documentation solutions and some limited to the EXDOC interface.
+Things to check include the level of client support provided, maintenance agreements, cost and that it is fit for your purposes.
+List of registered software.
+Help or Support
+The department provides a support desk for EXDOC Industry Users to assist clients understand error messages and EXDOC business rules. The EXDOC Support Desk operates from 8.00am to 5.30pm EST, with out of hours support for urgent airfreight shipments.
+Contact Numbers 02 6272 4800 or 02 6272 4700.

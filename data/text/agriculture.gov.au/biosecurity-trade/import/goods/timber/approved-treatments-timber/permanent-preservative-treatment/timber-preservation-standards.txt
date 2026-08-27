@@ -1,0 +1,95 @@
+This webpage contains information reproduced from the Australian Standard AS 1604 series, produced with permission from SAI Global under licence agreement 0907-c133. Public users may view this document and may make one hard copy for personal use, but may not reproduce it for other parties in print or electronically.
+How the department applies Australian Standard AS 1604 to biosecurity treatment requirements
+The Australian Timber Preservation Standards AS or AS/NZS 1604 series (Australian Standard 1604) specify the industry standards for timber preservation required to protect timber used in Australia from local species of decay organisms and insect pests. Treatment specifications vary depending on the type of timber (hardwood, softwood), its durability, its exposure and its service requirements.
+The Australian Standard 1604 system for determining the level of treatment the timber requires (based on exposure, service conditions and biological hazard) consists of a number prefixed with the letter ‘H’, identifying the degree of hazard. The hazard class system is summarised in Table 1 below.
+The department bases requirements for biosecurity preservative treatments of imported timber on the Australian Standard1604, but limits biosecurity treatments to specifications which have been determined to appropriately protect Australia from biosecurity risks. Stringent requirements are required to protect against large voracious termites and other pests that are exotic to Australia.
+For biosecurity purposes, the department requires preservative formulations to comply with the specifications for Hazard Class 2 or above (i.e. H2-H6) preservatives in the appropriate part of Australian Standards AS 1604 and to meet the associated retention requirements specified for ‘above the tropic of Capricorn’ or ‘all regions’. Treatments only complying to the H1 standards are not acceptable for biosecurity purposes.
+The department also requires preservative treatments to be applied using appropriate methods and to meet penetration zone requirements as outlined in full on the Timber permanent preservative treatments requirements webpage.
+Note: the Australian Standards only stipulate the chemical class of formulations, not specific trade names of products.
+Summary of Australian Standard (AS or NZS) 1604 series applicable to biosecurity
+The Australian Standard (AS or AS/NZS) 1604 series details preservative treatment requirements for five different types of timber product in five parts. The four parts applicable to biosecurity treatments are:
+- AS 1604.1 Specification for preservative treatment – Sawn and round
+- AS/NZS 1604.3 Specification for preservative treatment – Plywood
+- AS/NZS 1604.4 Specification for preservative treatment – Laminated veneer lumber
+- AS/NZS 1604.5 Specification for preservative treatment – Glued laminated lumber
+The AS/NZS 1604 minimum preservative retention requirements for H2 and H3 preservatives which are acceptable as biosecurity treatments are summarised in the tables below.
+[expand all]
+Table 1: Hazard class selection guide
+| Table 1: Hazard class selection guide |  |  |  |  | 
+|---|---|---|---|---|
+| Hazard class | Exposure | Specific service conditions | Biological hazard | Examples of typical uses | 
+|---|---|---|---|---|
+| H1 | Inside, above ground | Completely protected from the weather and well ventilated, and protected from termites | Lyctid borers | Susceptible framing, flooring, furniture, interior joinery | 
+| H2 | Inside, above ground | Protected from wetting. Nil leaching | Borers and termites | Framing, flooring, and similar, used in dry situations | 
+| H3 | Outside, above ground | Subject to periodic moderate wetting and leaching | Moderate decay, borers and termites | Weatherboard, fascia, pergolas (above ground), window joinery, framing and decking | 
+| H4 | Outside, in-ground | Subject to severe wetting and leaching | Severe decay, borers and termites | Fence posts, garden wall less than 1 m high, greenhouses, pergolas (in ground) and landscaping timbers | 
+| H5 | Outside, in-ground contact with or in fresh water | Subject to extreme wetting and leaching and/or where the critical use requires a higher degree of protection | Very severe decay, borers and termites | Retaining walls, piling, house stumps, building poles, cooling tower fill | 
+| H6 | Marine waters | Subject to prolonged immersion in sea water | Marine wood borers and decay | Boat hulls, marine piles, jetty cross-bracing, landing steps, and similar | 
+Table 2 Impregnation treatments for sawn and round timber and glulam components
+| Table 2: Preservative retention requirements for Sawn and Round Timber (based on AS1604.1) and unbonded components of glulam Glued Laminated Timber (based on AS/NZS1604.5). |  |  |  | 
+|---|---|---|---|
+| Preservative type | Active ingredients | Hazard Class H2: Minimum preservative retention in the penetration zone (individual piece; % mass/mass based on oven dried mass of the test sample) | Hazard Class H3: Minimum preservative retention in the penetration zone (individual piece; % mass/mass based on oven dried mass of the test sample) | 
+|---|---|---|---|
+| waterborne | Benzalkonium chloride (BAC) | - | - | 
+|  | CCA (Cu+Cr+As)1 | 0.320 | 0.380 | 
+|  | ACQ (Cu+DDAC)2 | 0.350 | softwood 0.350 | 
+|  |  |  | hardwood 0.390 | 
+|  | Copper azole4 | - | 0.229 | 
+| oil | Creosote5 | - | 8.00 | 
+| light organic solvent preservatives (LOSP)3 | TBTN6* or TBTO6* | - | vertically exposed 0.080 | 
+|  |  |  | horizontally exposed 0.160 | 
+|  | Propiconazole + tebuconazole7* | - | 0.06 | 
+|  | Copper naphthenate8* | - | 0.100 | 
+|  | Permethrin# | 0.020 | 0.020 | 
+|  | Cypermethrin# | 0.030 | 0.030 | 
+|  | Deltamethrin# | 0.0020 | 0.0020 | 
+|  | Bifenthrin# | 0.0047 | 0.0047 | 
+1 Copper chromium arsenic (CCA) shall be mixtures of compounds of the elements of copper, chromium (hexavalent) and arsenic (pentavalent). In solution, the ratio of these elements shall fall within the limits 23-25% copper, 38-45% chromium and 30-37% arsenic.
+2 Based on ACQ compounds containing Cu 56-67% and DDAC (didecyl dimethyl ammonium chloride) 33-44%. Treated timber shall contain not less than 45% of the nominated minimum retention as Cu and 30% as DDAC.
+3 For Hazard Class H3, LOSP preservatives shall be formulated to include both fungicides (*) and insecticides (#). They may also be formulated to include water repellents.
+4 Based on copper azole compounds containing Cu 95.82 to 96.58% and Az (tebuconazole) 3.42 to 4.18%. Treated timber shall not contain less than 86% of the nominated minimum retention of total actives as Cu and 3.4% as tebuconazole.
+5 Creosote may be in the undiluted form or as the active component of pigment-emulsified creosote (PEC).
+6 Tri-n-butyltin oxide (TBTO) tri-n-butyltin naphthenate (TBTN), elemental tin.
+7 This preservative formulation shall contain the active ingredients propiconazole and tebuconazole in a 1:1 proportion. Treated timber shall contain not less than 45% of the nominated retention as propiconazole and 45% as tebuconazole.
+8 Elemental copper.
+Table 3 Impregnation treatments for plywood and LVL components
+| Table 3: Preservative retention requirements for impregnation treatments for unbonded veneers used to make plywood (based on AS/NZS1604.3) and laminated veneer lumber (LVL) (based on AS/NZS1604.4). |  |  |  | 
+|---|---|---|---|
+| Preservative type | Active ingredients | Hazard Class H2: Minimum preservative retention in the penetration zone for veneer, envelope and face veneer treatments (individual piece; % mass/mass based on oven dried mass of the test sample) | Hazard Class H3: Minimum preservative retention in the penetration zone for veneer, envelope and face veneer treatments (individual piece; % mass/mass based on oven dried mass of the test sample) | 
+|---|---|---|---|
+|  waterborne  | Benzalkonium chloride (BAC)1,2 | - | 2 | 
+|  | CCA (Cu+Cr+As)3 | 0.32 | 0.38 | 
+|  | ACQ (Cu+DDAC)4 | 0.35 | Softwood 0.350 | 
+|  |  |  | Hardwood 0.390 | 
+|  | copper azole5 | - | 0.229 | 
+| oil | creosote6 | - | 8 | 
+| light organic solvent preservatives (LOSP)  | TBTN7* or TBTO7* | - | vertically exposed 0.080 | 
+|  |  |  | horizontally exposed 0.160 | 
+|  | Propiconazole + tebuconazole8* | - | 0.06 | 
+|  | Copper naphthenate9* | - | 0.1 | 
+|  | Permethrin# | 0.02 | 0.02 | 
+|  | Cypermethrin# | 0.03 | 0.03 | 
+|  | Deltamethrin# | 0.002 | 0.002 | 
+|  | Bifenthrin# | 0.0042 | - | 
+1 The minimum retention of the individual BAC homologues shall be as specified as C8 (0.10%), C10 (0.10%), C12 (0.95%), C14 (0.25%), C16 (0.10%), C18 (0.10%).
+2 For Hazard Class H3, LOSP preservatives shall be formulated to include both fungicides (*) and insecticides (#). They may also be formulated to include water repellents.
+3 Copper chromium arsenic (CCA) shall be mixtures of compounds of the elements of copper, chromium (hexavalent) and arsenic (pentavalent). In solution, the ratio of these elements shall fall within the limits 23-25% copper, 38-45% chromium and 30-37% arsenic.
+4 Based on the ACQ compounds containing Cu 56-67% and DDAC (didecyl dimethyl ammonium chloride) 33-44%. Treated timber shall contain not less than 45% of the nominated minimum retention as Cu and 30% as DDAC.
+5 Based on copper azole compounds containing Cu 95.82 to 96.58% and Az (tebuconazole) 3.42 to 4.18%. Treated timber shall not contain less than 86% of the nominated minimum retention of total actives as Cu and 3.4% as tebuconazole.
+6 Creosote may be in the undiluted form or as the active component of pigment-emulsified creosote (PEC).
+7 Tri-n-butyltin oxide (TBTO) tri-n-butyltin naphthenate (TBTN), elemental tin.
+8 This preservative formulation shall contain the active ingredients propiconazole and tebuconazole in a 1:1 proportion. Treated timber shall contain not less than 45% of the nominated retention as propiconazole and 45% as tebuconazole.
+9 Elemental copper.
+Table 4 Glueline treatments for plywood and LVL
+| Table 4: Minimum preservative retention in the penetration zone for glueline treatments for plywood (based on AS/NZS1604.3) and LVL (based on AS/NZS1604.4) Hazard Class H21 |  |  | 
+|---|---|---|
+|  Treatment Type | Active Ingredients | Minimum preservative retention in the penetration zone for glueline treatments (individual piece, % mass/mass based on the oven dried mass of the test sample) | 
+|---|---|---|
+|   | arsenic2,3 | 0.13 | 
+|  | bifenthrin3 | 0.0083 | 
+| glueline with face veneer treatment | bifenthrin3 | 0.0042 | 
+1 All treatments, with the exception of arsenic (As2O3) are approved for use in softwoods only.
+2 Applied as arsenic in the form of As2O3, dissolved in formaldehyde-based adhesives
+3 For veneers not thicker than 2.5 mm. 
+Note: Tables 2, 3 and 4 below include the requirements for both Hazard Class H2 and Hazard Class H3 which both meet the department’s biosecurity treatment requirements of Hazard Class H2 or greater. Although the department does not require biosecurity treatments to exceed the H2 requirements, the H3 requirements have been included because additional preservative types are available for use for Hazard classes H3 to H6.
+For more detailed information and full preservation specifications, treatment providers should refer to the full standards which are available from SAI Global.

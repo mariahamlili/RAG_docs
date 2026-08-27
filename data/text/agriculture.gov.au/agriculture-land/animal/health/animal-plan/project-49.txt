@@ -1,0 +1,27 @@
+Overview
+Australia’s livestock traceability arrangements are vital to the ongoing health and success of our agricultural sector. The National Livestock Identification System (NLIS) plays an important role in capturing livestock movement information for lifetime traceability. This assists governments and industry to respond to animal disease outbreaks or food safety incidents.
+The NLIS Database Uplift is a whole-of-system project benefitting Australia’s red meat and livestock industries. The Australian Government awarded $22.5 million in grant funding to the project.
+The project is being delivered by Integrity Systems Company. It will provide:
+- a contemporary, fit-for-purpose national livestock traceability platform that helps to meet current and future biosecurity and market access requirements.
+- a modernised data capture, storage, and distribution platform for tracking livestock, including improved usability, functionality (including capacity), and reporting and analytics capabilities.
+- an adaptive platform that can accommodate additional data inputs from other systems to assist in demonstrating emerging credentials such as sustainability and animal welfare.
+Project Lead: Integrity Systems Company
+Project Contact: Animalplan@aff.gov.au
+Project Status: Active
+Project date: July 2023 to July 2026
+Objective alignment:
+- 7 – Improve the integrity of animal health systems.
+Activity alignment:
+- 7.2 – Implement mechanisms to streamline or automate animal and animal product traceability data across agreed industries and make this accessible to all supply chain participants.
+Project updates
+Work is underway to uplift the NLIS database and its supporting systems. This will help modernise Australia’s data capture, storage, and distribution system for tracking livestock and their movements.
+The project is being delivered by Integrity Systems Company in consultation with Australian government and industry stakeholders.
+Future Actions
+Prior to deployment, user testing will be conducted to ensure the database is intuitive and fit-for-purpose. Broader consultation with NLIS Database users at in-person industry events and online webinars will enable the uplifted user interface design and user experience to be socialised and tested beyond direct project stakeholders.
+November 2025
+The system architecture and design stage is complete. Its key focus was to utilise the insights and feedback gathered during the discovery and future state requirements stages to design the new platform. This involved simplifying workflow processes and designing a modern, user-friendly interface.
+The project team studied how current workflows can be minimised, merged or eliminated to save users time and effort, while not impacting the system’s functionality.
+The project is currently in the system build stage and the technical designs for the new platform are being built. Engagement with end-users will ensure timely feedback on platform features prior to deployment. A change management plan will be implemented to support a phased rollout of platform features.
+Extensive consultation is ongoing, including with industry stakeholders and state and territory representatives through project reference groups. Consultation will ensure the system continues to support biosecurity and traceability and will have features that benefit industry.
+See more
+See key activities and project stages:

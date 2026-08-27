@@ -1,0 +1,17 @@
+When registering for COLS, either as an API Vendor or Client, you will be asked to:
+- acknowledge a set of terms and conditions.
+- provide individual or company details including your name, phone number, email and postal address.
+- nominate your Primary, Secondary and Technical Lead contacts to liaise with the department.
+Register as a COLS API Vendor
+If you are a software vendor or developer that wants to develop the capability to integrate with the COLS services via the APIs, you need to register as a COLS API Vendor on the DAFF Developer Portal (The Portal).
+The portal will assist your organisation in obtaining a COLS API subscription key for the Vendor Test (VND) environment. You will be required to supply integration and functional testing documentation from the VND environment integration to receive accreditation.
+When testing has been completed and you are ready to request Production access via the DAFF Developer Portal, please email a completed copy of your test plan to: BSDSAdmin@aff.gov.au.
+If you would like to discuss further options about software integration and testing of interfaces with COLS, please contact the department:
+- Email: BSDSAdmin@aff.gov.au.
+When you are accredited, you will then be issued a subscription key via the Portal for use in Production.
+How to register as a COLS API Vendor or Client
+You can go to DAFF Developers Portal’s and follow the instructions on the ‘Getting Started’ page.
+Protecting your personal information
+COLS adheres to Commonwealth Government internet security and privacy standards. These include the Defence Signals Directorate guidelines and the Privacy Act 1988.
+The information you provide when registering as a COLS Vendor or Client will only be used for the purposes defined in the Privacy Act. Your personal details will not be transmitted to other agencies or used for commercial purposes. The department will only use or disclose your personal information for another purpose where it is permitted to do so in accordance with the Privacy Act.
+Access the department’s Privacy Policy to learn more about how your information will be used and protected.

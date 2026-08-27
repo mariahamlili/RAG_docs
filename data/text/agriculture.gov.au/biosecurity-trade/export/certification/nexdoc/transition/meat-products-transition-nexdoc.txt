@@ -1,0 +1,24 @@
+Meat and meat products are now available on NEXDOC.
+All relevant parties, including exporters, agents, manufacturers, freight forwarders and approved export permit declarants, must register in NEXDOC to ensure continued access to export documentation for meat.
+If you are already registered for other commodities, you must add the meat commodity to your existing account to continue accessing export documentation for meat.
+Further information is provided in the fact sheets and support materials listed below.
+How to register
+To use NEXDOC, you will need to register as a user via the online service portal, even if you are using a third party software to access the system. Further information is available in the support materials below.
+Step by step user guides are also available to assist you.
+Note: In the coming months, you will also need to create an Export Service account so it can link with your NEXDOC account. Further advice will be issued on this iteratively, but please take the time to understand the registration requirements for the Export Service.
+Frequently Asked Questions
+No. NEXDOC does not use AQA IDs. Each declarant must have an Online Services account, be linked to the correct organisation, and have Approved Export Permit Declarant (AEPD, formerly AQA in EXDOC) status activated for each establishment.
+If you are an active EXDOC AQA User and you will continue to authorise meat exports in NEXDOC, you must register as an AEPD.
+Yes. You must submit a separate AEPD application for each establishment where you will make declarations.
+Yes. Even if you already hold AEPI status for another commodity in NEXDOC, you must submit a separate AEPD application for meat. This is because AEPD permissions are linked to specific establishments and those listed must be in Management and Control.
+You will not be able to lodge or declare in NEXDOC until all relevant registration and validation are complete. Late registrations will be supported, but delays will likely occur.
+Yes. You must add meat to your existing Exporter and/or Client Group registrations. If you export beef, sheep, or goat meat, you must also ensure that your meat licence and shipping mark prefix are recorded in your NEXDOC exporter registrations.
+Use Google Chrome or Microsoft Edge. Internet Explorer is not supported.
+Yes. Certificates will be printed on plain A4 paper and include a QR code for security. Blue security paper will no longer be used.
+Yes, if you are registered as an exporter, you can lodge requests directly through the NEXDOC portal. However, please note that the portal does not include all the functionality available in third-party software. For example, features such as forwarding a Request for Export (REX) between users such as to print your certificate in your freight forwarders office are only available through integrated software solutions.
+You must register a Client Group in NEXDOC and ensure your business is also registered as an Exporter. Client Group enables you to connect with third-party software.
+Yes. The department is actively engaging with all identified software vendors to ensure their systems are ready for NEXDOC meat. We provide technical specifications, testing environments, and ongoing support to help vendors implement the required changes. However, it is important that exporters and agents also engage directly with their software provider early to confirm requirements and avoid delays.
+Support Materials
+For step by step user guides, visit: NEXDOC help - DAFF
+Need help?
+For more information or assistance for NEXDOC, please contact NEXDOC@aff.gov.au

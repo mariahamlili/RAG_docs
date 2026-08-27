@@ -1,0 +1,58 @@
+Next, we look at 3 calculators covering various sectors, levels of complexity and purposes to give you hands-on calculator experience. Some initiatives (such as the ACCU Scheme) specify requirements for estimating GHG emissions and carbon storage, which include using specific calculators. The results of these calculators may not suit your particular purposes: no calculator suits all uses and all initiatives.
+Watch this video
+In this video (1:57 minutes), Matt Woods and Professor Richard Eckard of the University of Melbourne discuss what a carbon calculator is and what it does.
+MATT WOODS: Hello. I'm Matt Woods, and I'm here with Professor Richard Eckard. Richard has been working for over twenty years on addressing the impacts of a changing climate on agriculture.
+Can you briefly describe what a carbon calculator is?
+PROFESSOR RICHARD ECKARD: So a carbon calculator is just -- in our case, we've got the greenhouse accounting framework calculator. So we've got one called the sheep and beef calculator, another one called the feedlot calculator; a dairy calculator.
+And it's a simple spreadsheet.
+It has all complex calculations behind the scenes that you can go and look at if you want to. There's nothing hidden there. But the data input page is one page where you just put in your animal numbers, how much fertiliser you've used, how much lime you used, and what energy you used, and what you bought onto the farm.
+WOODS: Right.
+ECKARD: And it breaks it down to a simple number at the end that says "this is how much methane is produced". "This is how much nitrous oxide is produced". "This is how much carbon dioxide you're losing".
+And "this is how much total emissions your farm produces and emissions per unit product it produces".
+At the end, those are the numbers that matter. And over time, that's what the supply chain will look at and say, what is your emissions intensity? How much methane are you producing?
+And those are the numbers that matter.
+WOODS: Terrific. Thank you very much Richard. I appreciate your time.
+MLA Quick Start Carbon Calculator
+We start by looking at a simple, straightforward calculator that requires basic data inputs and allows users to understand GHG emissions sources and carbon storage.
+The MLA (Meat and Livestock Australia) Quick Start Carbon Calculator is a quick, easy way for farmers to estimate their GHG emissions and carbon storage through on-farm tree growth. The calculator also estimates how much pasture growth and tree planting you will need to balance out emissions.
+The calculator needs minimal data to estimate on-farm emissions, although the better the data, the more accurate the result.
+The calculator gives farmers and land managers just starting their calculation journey a quick assessment of their GHG emissions and carbon storage. It also gives a taste of what the MLA’s more comprehensive calculator (the MLA Carbon Calculator) and other sector-specific calculators can provide.
+The calculator is based on the Greenhouse Accounting Framework tools developed by the University of Melbourne, which this topic examines later.
+Watch this video
+In this video (4:59 minutes), Matt Woods and Professor Richard Eckard of the University of Melbourne discuss the basics of the MLA Carbon Calculator and its main functions, providing information to help you decide whether this calculator suits you. Section 6 has an activity to use a simplified version of this calculator.
+MATT WOODS: Hello. I'm Matt Woods, and I'm here with Professor Richard Eckard.
+Richard's been working for over 20 years on addressing the impacts of a changing climate on agriculture.
+WOODS: If that farmer wanted to monitor and measure their emissions, how would they start?
+Where would they start to work out actually how much emissions they're producing?
+PROFESSOR RICHARD ECKARD: So, there is some thought out there that farmers might need to measure emissions. That’ll never happen. It is too complex; it is too complicated from a science point of view to get accurate profiles on methane from animals in a farm setting - so that’s impractical.
+However, the research we've done says that 20.7 times dry matter intake is a fairly reliable number. And we're starting to quantify all the mitigation strategies against that. So if you feed oils to your cows at seven percent, that 20.7 becomes 16. We know that. If you feed seaweed, it might become five.
+So we know how to adjust calculations to accommodate it. The biggest uncertainty in knowing what your number is on a livestock farm is knowing how many animals you've got. That's actually far bigger than the methane conversion that we use.
+WOODS: You'd think most farmers know their animal numbers, wouldn't you?
+ECKARD: It is surprising, we do case studies across farms right from the Northern Territory right down to Tasmania, and getting animal numbers right is the biggest struggle we have in doing an accurate carbon audit on farms. Even though they have a stock book - because there's no such thing as static number of animals on a farm. A dairy farm will milk different number of animals every day of the year.
+A beef system, a prime lamb system, lambs are being born, lambs are dying. So actually knowing exactly how many animals you've got on any one day, and locking that into a calculator is actually quite difficult.
+Even some of the best farmers, we have to go back to them two or three times to say "did you mean culling before or after the weaning rate you quoted?"
+Because it doesn't reconcile and you realise that; we had one case of a Queensland farmer that the numbers didn't add up when we said, you know, what was your weaning rate? What was your reproductive rate? How many animals are you producing? And it turns out that there were a thousand animals down the back of the farm that they lost for a couple of years. It gives you some perspective on some of the bigger properties in Australia where you can lose a thousand animals for a period of time. Not ultimately, but you can miss them in a muster that isn't perfect.
+WOODS: So farmers won't be required to actually measure their emissions, but it's useful for them to start maybe calculating their emissions and carbon calculators is something that you've got a real history in, and were a first mover in. How do they work and what are the sort of inputs that farmers might need to put into them?
+ECKARD: Correct. So at the moment, we've got fairly simple spreadsheet calculators. They are being coded up into online tools like Meat and Livestock Australia have a identical version of our sheep and beef calculator now online, and it will give you the same answer. We've made sure that the various calculators are not giving different answers.
+The biggest input is animal numbers.
+So if you're a sheep or beef producer somewhere in Australia, getting the animal numbers right into the calculator on a seasonal basis is probably the biggest input.
+If you know your animal numbers, you can pretty much complete the calculator in ten minutes. We've tried to keep it as simple as possible. So that if you know the data that needs to go in, you can put it in in about ten minutes. The other inputs you need to know is fertiliser used. So if you're a dairy farmer, you might be using nitrogen fertiliser, you need to know how much you put on. Most dairy farmers know that.
+And the other inputs is electricity and diesel consumption on the farm, and we just put that on an annual time step basis.
+So emphasising again, they're simple spreadsheets, they have a single page of data input, and, we try to keep it down to about ten minutes to get in and out if you've got all the data required.
+Greenhouse Accounting Framework sector-specific tools
+The second calculator is actually a group of more comprehensive tools. The Greenhouse Accounting Frameworks (GAF) for Australian Primary Industries tools are for various agriculture and land management sectors. These tools, in the form of Microsoft® Excel® spreadsheets, allow users to predict the sources and amounts of GHGs emitted from a farm and a product at the farm gate.
+There are industry-specific tools for dairy, sheep and beef, cropping, feedlot, sugar, cotton, horticulture, pork, buffalo, deer, goat, poultry and rice. The tools are designed to be easy to download and use, although you need to be familiar with Microsoft® Excel®.
+Each tool has:
+- a Data summary tab, which itemises and totals scope 1, 2 and 3 GHG emissions in CO2-e as well as carbon stored to estimate net farm emissions
+- data input tabs, in which the user inputs crop, vegetation, livestock or other data as relevant tabs for each of the emissions line items, showing the assumptions, formulas and values used for the item.
+The data summary tab shows GHG emissions and storage items at a glance and in chart form. The example in the Australian Dairy Carbon Calculator shows that methane emissions from enteric fermentation make up almost two-thirds of scope 1 emissions. Fertiliser on-farm and manure make up about one-quarter and pre-farm emissions one-tenth.
+The data input tab requires data that many farmers would have at hand for farm input benchmarking, or management or tax accounting purposes, or that is reasonably easy to collect. For example, the sheep and beef tool needs sheep class numbers, live weight by class and live weight gain by class, broken down by season.
+The tabs for each GHG emissions line item have detailed analyses useful to farmers, land managers and their advisers. The Primary Industries Climate Challenges Centre and the University of Melbourne developed these tools as part of their Farm Greenhouse Accounting Framework, which is designed to align with the Australian National Greenhouse Accounts, a series of comprehensive reports and databases that estimate and account for Australia’s GHG emissions from 1990 onwards.
+AIA Environmental Accounting Platform (EAP)
+The Environmental Accounting Platform (EAP) developed by Agricultural Innovation Australia (AIA) is a free, standardised tool for calculating GHG emissions across 17 commodities. Built with investment from 10 rural Research and Development Corporations, it enables producers and mixed farming businesses to calculate their emissions at a commodity and whole of enterprise level, establish operational baselines, and scenario-plan to support decisions aimed at reducing emissions.
+The EAP is supported by a Technical Advisory Panel comprising Australia’s leading experts in GHG accounting, emissions reduction, lifecycle assessment, and climate science. It is consistently updated to ensure alignment with the latest versions of the Greenhouse Accounting Framework (GAF) tools.
+Once published in mid-2026, AIA’s EAP will transition to alignment with the Guidelines.
+LOOC-C
+Unlike the MLA Quick Start Carbon Calculator and GAF tools, the CSIRO’s LOOC-C (Landscape Options and Opportunities for Carbon abatement Calculator) isn’t used to calculate a farm’s GHG emissions and carbon storage. Instead, it allows a quick assessment of emissions reductions or carbon storage that could be achieved by conducting some types of ACCU Scheme projects.
+LOOC-C lets you select a land area on a map and assess the suitability of the listed ACCU Scheme methods for the land. It provides indicative estimates of the number of ACCUs that could be generated for the selected area.
+LOOC-C can also help people who may not intend to run an ACCU Scheme project because it indicates the carbon storage potential of management activities at a selected location and the co-benefits of these activities.

@@ -1,0 +1,59 @@
+What is eCert?
+eCert allows importing and exporting government agencies to exchange government certificates electronically. It works via a secure and encrypted data exchange.
+We use eCert to exchange:
+- phytosanitary certificates for plant and plant-related products
+- sanitary certificates (also known as health and/or veterinary certificates) for animal and animal-related products.
+These electronic certificates (eCerts) contain the same information as a paper government certificate.
+Importing and exporting with eCert
+We can send and receive eCerts using our Australian National eCert Systems. This process varies between imports to Australia and exports from Australia.
+Find out more about importing and exporting goods with eCert.
+G’day, my name’s Jane and I’m here to guide you through the world of paperless trade with Australia’s eCert system. In this video, we’ll explore how eCert works, the benefits it brings, and its impact on global trade.
+One part of the export process is certification. Export documents need to be certified so that they can leave one country and enter another. eCert streamlines the certification process for exporters, making it easier and more secure to trade agricultural commodities globally.
+eCert adoption supports trade modernisation. With eCert, governments and traders can enjoy greater safety and security in data exchange, streamlined clearance processes, and increased confidence among trading partners through greater transparency of goods traded. Plus, eCert is environmentally friendly, reducing paper waste and carbon emissions, and may reduce trading costs.
+Traditional paper certificates need to be printed off and physically sent from Australia to the destination country. This can take between 6 to 15 days to process and be delivered to the arrival port. This can result in documents being lost or tampered with. Products may be held in customs until corrections or clarifications can be made and new physical certificates issued and sent.
+With eCert, the same certification process for government documents will now take between one minute to four hours. It is more secure, transparent, and supports greater traceability.
+With eCert, there’s no chance for documents to get lost or damaged, and no risk of tampering. Goods can be cleared faster, and importers and exporters have greater visibility of their good during transport. The electronic documents are sent directly between export and import authorities, without the need to print any paper documents. This gives everyone more confidence and may reduce the cost of trading goods.
+The Australian Government is committed to expanding eCert across all agricultural commodities, ensuring efficient and effective access to traded goods for all Australian businesses and consumers.
+To find out more about eCert and how it can benefit your business, visit the DAFF website.
+This video was produced with the support of the Australian Meat Industry Council, AMIC, and the Australian Government’s Agricultural Trade and Market Access Corporation, ATMAC Program.
+Cheers, and happy trading!
+My name’s John and I’m here to guide you through the world of paperless trade when importing Australian products using the eCert system.
+In this video we’ll explore how eCert works and the benefits it brings to importers like you.
+During the import process documents need to be certified so that products can leave Australia and enter your country. eCert streamlines the certification process making it easier and more secure to import Australian agricultural commodities. eCert offers you as an importer greater safety and security and data exchange, streamlined clearance processes, increased confidence in the authenticity of traded goods and an environmentally friendly alternative to traditional paper-based certification.
+Traditional paper certificates need to be printed off and physically sent from Australia. This can take between 6 to 15 days to process and be delivered to the arrival port. This can result in documents being lost or tampered with. Products may be held in customs until corrections or clarifications can be made and new physical certificates issued and sent.
+With eCert the process only takes between 1 minute and 4 hours and is secure. As the electronic documents are sent directly between Australian export authorities and your country’s import authorities, there is no need to print any paper documents.
+With full paperless trade there will be no more documents lost or damaged and no risk of tampering because it’s fully secure. There will no longer be any need to print documents at any stage of the process. This also gives the advantage that goods can be cleared faster and you have greater visibility of your imported goods during transport. If there are changes or corrections to be made these can be approved directly in the electronic system.
+This gives everyone more confidence and may reduce the cost of trading goods. The Australian Government is committed to expanding eCert across all agricultural commodities, ensuring efficient and effective access to high quality Australian products for importers like you.
+To find out more about eCert and how it can benefit your importing business visit the DAFF website.
+Benefits
+eCert is recognised globally as the future of government certification. eCert prepares us for increases in the volume and complexity of global trade.
+The benefits of eCert include:
+- fast and secure transfer of certificates
+- reduces fraudulent, illegible or lost certificates
+- certificates transmitted using a consistent, internationally recognised digital format
+- less reliance on paper in line with international standards
+- early assurance that goods meet food safety, animal and plant health requirements
+- certificates are easily traced
+- a streamlined, less costly export experience
+- pre-clearance of goods
+- time to manage resources and potential risks before goods arrive.
+Comparison between paper certificate process and eCert process
+The paper certificate process takes 6 to 15 days and 6 steps to complete. The eCert process can be completed in 1 minute to 4 hours.
+Developing an eCert exchange
+We work with overseas government agencies to implement new eCert connections. After negotiations and testing, new eCert exchanges can be used in the clearance processes.
+Several countries have implemented an eCert agreement with Australia. We continue to work with trading partners to expand the use of eCert for cross-border trade.
+The ultimate goal of eCert is paperless trade, where only the eCert is used for clearance processes. However, there may be an interim stage where the eCert and paper certificate are issued together. This is called a parallel eCert exchange.
+Any changes to the import or export processes, are communicated to affected industries and stakeholders.
+Consistent data
+Early adopters of eCert saw the need for standardised technical and business processes. The United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) developed Sanitary and Phytosanitary data standards and associated XML schemas.
+Many trading partners use these schemas to send eCert messages. The UN/CEFACT data standards are recognised by several international standard setting bodies. They include:
+- Codex Alimentarius Commission (CAC)
+- International Plant Protection Convention (IPPC)
+- World Organisation for Animal Health (WOAH)
+Phytosanitary certificates
+The International Plant Protection Convention (IPPC) have developed a global IPPC ePhyto Hub. This is used to exchange eCerts for phytosanitary certificates (also called ePhytos).
+Australia is connected to the IPPC ePhyto Hub using our national eCert systems. We also have bilateral, system to system phytosanitary eCert exchanges with government agencies.
+Sanitary certificates
+Australia has many sanitary eCert exchanges with trading partners. These are also known as health or veterinary certificates. We're continuing our work to implement more sanitary exchanges with trading partners who have an eCert system to transmit sanitary certificates.
+Contact us
+For more information email eCert administrator.

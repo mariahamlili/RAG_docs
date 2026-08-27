@@ -2,11 +2,9 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+.DS_Store
+**/.DS_Store
 config.yaml
 logs/
 single_*.jsonl
 config.httpx.yaml
-data/pdf/
-data/office/
-data/raw/
-data/text/

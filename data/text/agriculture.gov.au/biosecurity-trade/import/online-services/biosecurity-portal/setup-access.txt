@@ -1,0 +1,128 @@
+Set up your access to the Biosecurity Portal
+There are 2 registration options available:
+- Option 1: Approved Arrangements, Customs Brokers, Importers, Manned depots*.
+- Option 2: Freight Forwarders, clients without an ABN, and clients with a low volume of import inspection requests# and Biosecurity Industry Participants using the Approved Arrangement Management Product (AAMP).
+Each option supports access to different Portal features:
+| Feature | Approved arrangements operators | Registration Option 1 |  | Registration Option 2 | 
+|---|---|---|---|---|
+|  |  | Customs brokers & importers | Manned depots* | Other users# | 
+| Online request for inspection (RFI) submission | ✓ | ✓ | ✓ | ✓ | 
+| Auto pre-population of RFI details | ✓ | ✓ | ✓ |  | 
+| Viewing and printing of AIMS Direction information+ | ✓ | ✓ | ✓ |  | 
+| View / manage inspection requests that I have lodged | ✓ | ✓ | ✓ | ✓ | 
+| View / manage inspection requests lodged by any authorised user representing my organisation | ✓ | ✓ | ✓ |  | 
+| View / manage my upcoming inspection bookings | ✓ | ✓ | ✓ | ✓ (cancel only) | 
+| View / manage upcoming bookings lodged by any authorised user representing my organisation | ✓ | ✓ | ✓ |  | 
+| View my historical inspection bookings made via the Portal | ✓ | ✓ | ✓ | ✓ | 
+| View historical inspection bookings lodged by any authorised user representing my organisation | ✓ | ✓ | ✓ |  | 
+| Receive automatic email notifications. e.g. confirmation of inspection request and confirmed inspection booking details | ✓ | ✓ | ✓ | ✓ | 
+| Manage individual profile | ✓ | ✓ | ✓ | ✓ | 
+| Manage organisational profile | ✓ | ✓ | ✓ |  | 
+| Manage user access (who can represent my organisation) | ✓ | ✓ | ✓ |  | 
+| View and update my Approved Arrangement details | ✓ |  |  | ✓ | 
+| View digital government certificates (eCerts) | ✓ | ✓ |  |  | 
+* Only for one-offs e.g. requesting inspections requiring a different skill set (other than inspections that can be undertaken by onsite officer).
+# Includes freight forwarders, clients with a low volume of import inspection requests, clients without an ABN, and Biosecurity Industry Participants using the Approved Arrangement Management Product (AAMP).
++ Import clients will be able to view AIMS Direction information issued by the department if:
+- Approved Arrangements – if the AA number is listed against an active AIMS Direction.
+- Brokerage – the ABN of the brokerage is listed against the import declaration in the Integrated Cargo System (ICS).
+- Importer – the ABN of the importer is listed against the import declaration in the Integrated Cargo System (ICS).
+Option 1
+Approved Arrangements, customs brokers, importers, manned depots
+Access the Portal securely using your myID, that has been linked, via RAM, to the business you wish to do importing business for.
+Using myID, linked to your business’s Australian business number (ABN) in Relationship Authorisation Manager (RAM), provides single access to a range of government online services for business matters, instead of needing multiple usernames and passwords.
+Business owners
+To access government online services, like the Biosecurity Portal, on behalf of a business, you need to link your myID to the Australian business number (ABN) in Relationship Authorisation Manager (RAM).
+Only a business owner (the principal authority) of a business can link their business to and authorise access for others into the Biosecurity Portal via RAM.
+If you already have a myID go to Step 2.
+Download myID from the app store and follow the prompts.
+Step 2: Link myID to Relationship Access Manager (RAM)
+By linking the business to their myID via RAM, the principal authority of the business can set up authorisations for others to work on behalf of the business.
+To find out if a business is linked to RAM:
+- sign in to RAM and select the Manage Authorisations page
+- look for the business name under Entity name
+- if you don’t see your business, your ABN isn’t linked to your myID.
+To link a business:
+- sign in to RAM
+- Select Link my business – you’ll be redirected to the ATO to find your business or businesses.
+- Add your personal postal or residential address (as held by the ATO).
+- Select Continue.
+- Select the business or businesses you want to link.
+- Select Continue – if you can’t find your business, check and update your ABR details.
+- Enter an email address (this can be different to the one used to set up your digital identity).
+- Select Send email to receive a verification code.
+- Enter the verification code.
+- Select Verify and Continue.
+- View the summary of the selected business or businesses and select the checkbox to declare you understand and accept.
+- Select Submit.
+- A message will display confirming your business is successfully linked.
+- Select Continue.
+Step 3: Set up authorisations
+Principal authorities should complete this step only if you want to authorise employees or third parties to access the Portal on behalf of your business.
+- Sign in to RAM.
+- Select Manage authorisations
+- Select Business name
+- Select Add new user and complete:
+  - Representative type - Standard user or Basic user
+  - Representative details - Your staff member's name, and work email address (not business email)
+  - Authorisation details – Do you want the representative to be an authorisation administrator?
+  - Select Yes for nominating Administrator
+  - Select No for a normal user.
+  - Do you want the representative to be a Machine credential administrator? Select No
+  - Start date: Select today's date using calendar tool
+  - End date: Tick No end date
+  - Agency access - Initially this will be set to None for all agencies.
+  - Scroll down to DEPARTMENT OF AGRICULTURE, FISHERIES AND FORESTRY, and select Full.
+  - Summary - Review the above details.
+  - Tick I understand and accept this declaration if correct.
+  - Select Submit.
+  - Customise access - Do not select.
+Step 4: Notify your employee or third party
+Send this message to your employee or third party:
+You now have authorised access to the Biosecurity Portal.
+This means you will be able to sign into the Portal and act on behalf of the business.
+Use the Portal to manage online importing inspections for your business.
+Follow these instructions to complete your access registration.
+Employee or third-party access
+Employees or third parties representing a business can access the Biosecurity Portal to act on behalf the business.
+As an employee or third-party you will need a myID to access the Portal and an authorisation code. The authorisation code is generated from RAM when you sign-in using your myID.
+What you’ll need:
+- myID
+- Authorisation code generated by RAM.
+Step 1: Set up your myID for the first time
+If you already have a myID go to Step 2
+Download myID from the app store and follow the prompts.
+Step 2: Acquire the RAM access code
+Upon receiving an authorisation code via email accept or decline the request within 7 days by:
+- Signing into RAM with your myID
+- Inserting the RAM access code.
+You now have authenticated access into the Biosecurity Portal.
+Freight Forwarders, clients without an ABN, and clients with a low volume of import inspection requests, and Biosecurity Industry Participants using the Approved Arrangement Management Product (AAMP)
+Authentication using email and password only
+The Biosecurity Portal can be accessed without myID authentication, using an email and password only. This Option only provides access to a subset of Portal features.
+This simple way to register is primarily for freight forwarders, clients with a low volume of import inspection requests, or clients who do not have an ABN, or Biosecurity Industry Participants using the Approved Arrangement Management Product (AAMP).
+What you’ll need:
+- Valid email address.
+Step 1: Navigate to the Biosecurity Portal
+- Select Other user
+- Select Sign up, at bottom of screen.
+Step 2: Verify email address
+- Enter your preferred email address
+- Select Send verification code
+- Enter the verification code emailed to your preferred email address.
+Step 3: Create account
+- Complete all mandatory fields
+- Create a password with:
+  - 14-16 characters
+  - An uppercase letter
+  - A number
+  - A symbol
+- Select Create account.
+Step 4: Select my profile
+- Sign into the Biosecurity Portal.
+- Create a Profile. This must be completed to lodge a request for inspection.
+Access the Portal
+Once you have registered, you can use the Biosecurity Portal.
+Contact
+Call 1800 900 090 (9am - 5pm AEDT Monday to Friday)
+Email: biosecurityportal@aff.gov.au

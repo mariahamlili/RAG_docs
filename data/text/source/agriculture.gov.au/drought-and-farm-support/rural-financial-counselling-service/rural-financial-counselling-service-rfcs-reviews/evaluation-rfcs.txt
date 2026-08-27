@@ -1,0 +1,6385 @@
+The Rural Financial Counselling Service: an 
+Evaluation 
+ 
+A Report on an Internet Survey of Clients  
+of the Australian Government’s  
+Department of Agriculture, Fisheries and Forestry’s  
+Rural Financial Counselling Service 
+ 
+Scott Glyde 
+Associate Professor Ian Gray 
+Lauren Howard 
+Tony Dunn 
+ 
+This research project has been conducted under the Resilient Rural Human 
+Systems Programme of the E.H. Graham Centre for Agricultural Innovation 
+Charles Sturt University, Wagga Wagga, NSW 
+December 2009
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 1 
+Table of Contents 
+Table of Contents .................................................................................................................................... 1 
+List of Tables ............................................................................................................................................ 3 
+1. 
+Executive Summary ......................................................................................................................... 6 
+1.1 
+The Survey ............................................................................................................................... 6 
+1.2 
+The Respondents ..................................................................................................................... 6 
+1.3 
+Perceptions of the RFCS .......................................................................................................... 7 
+1.4 
+Management Changes and Attribution to the RFCS ............................................................... 7 
+1.5 
+Self‐Reliance ............................................................................................................................ 8 
+1.6 
+Referrals .................................................................................................................................. 8 
+1.7 
+Climate Risk and the Enterprise Action Plan ........................................................................... 9 
+1.8 
+Summary of Key Findings ........................................................................................................ 9 
+2. 
+Introduction: The Rural Financial Counselling Service .................................................................. 11 
+2.1 
+RFCS Program ........................................................................................................................ 11 
+2.1.1 
+Objectives ...................................................................................................................... 11 
+2.1.2 
+RFCS Program outcomes ............................................................................................... 11 
+3. 
+The Context and Purpose of this Analysis ..................................................................................... 12 
+4. 
+Research Design ............................................................................................................................ 13 
+4.1 
+The Questionnaire ................................................................................................................. 14 
+4.2 
+Sampling Procedures ............................................................................................................. 15 
+5. 
+Findings 1: The Sample Demography ............................................................................................ 16 
+5.1 
+The Sample ............................................................................................................................ 16 
+5.2 
+Location ................................................................................................................................. 17 
+5.3 
+Age ......................................................................................................................................... 18 
+5.4 
+Gender ................................................................................................................................... 19 
+5.5 
+Education ............................................................................................................................... 19 
+5.6 
+Occupation ............................................................................................................................ 20 
+5.7 
+Period farming ....................................................................................................................... 21 
+6. 
+Findings 2: The Farms .................................................................................................................... 23 
+6.1 
+Enterprise Type ..................................................................................................................... 23 
+6.2 
+Employees ............................................................................................................................. 24 
+6.3 
+Relative Scale ......................................................................................................................... 25 
+6.4 
+Tenure ................................................................................................................................... 26
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 2 
+7. 
+Findings 3: Financial Aspects and Implications ............................................................................. 27 
+7.1 
+Off‐farm Income .................................................................................................................... 27 
+7.2 
+Perceived Financial Status ..................................................................................................... 28 
+7.3 
+Reasons for Leaving ............................................................................................................... 28 
+8. 
+Findings 4: Relationship with RFCS ................................................................................................ 29 
+8.1 
+RFCS Client Status .................................................................................................................. 29 
+8.2 
+Reasons for Contacting RFCS ................................................................................................. 33 
+8.3 
+Quality of Service, Contact & Consultation ........................................................................... 33 
+8.4 
+Effects of the RFCS Assistance ............................................................................................... 39 
+8.5 
+Changes Attributed to RFCS assistance ................................................................................. 42 
+8.6 
+Referrals ................................................................................................................................ 46 
+8.7 
+Enterprise Action Plans and Climate Risk .............................................................................. 47 
+8.8 
+Self‐Reliance .......................................................................................................................... 49 
+9. 
+Conclusions .................................................................................................................................... 52 
+9.1 
+Awareness of the RFCS and Reasons for Contact.................................................................. 52 
+9.2 
+Satisfaction with Services ...................................................................................................... 52 
+9.3 
+Appropriateness of Referrals ................................................................................................ 52 
+9.4 
+Changes to Operations .......................................................................................................... 53 
+9.5 
+Enterprise Action Plans and Climate Risk .............................................................................. 53 
+9.6 
+Self‐Reliance .......................................................................................................................... 54 
+10. 
+Future Research Recommendation ........................................................................................... 54 
+11. 
+Acknowledgements ................................................................................................................... 54 
+12. 
+References ................................................................................................................................. 54 
+Appendices ............................................................................................................................................ 55 
+Appendix 1: The Questionnaire ......................................................................................................... 56 
+Appendix 2: Contact and Consultation: Mean Scores by state ......................................................... 87 
+Appendix 3: Effect of RFCS Assistance: Contact and Self‐Reliance ................................................... 93 
+Appendix 4: Effect of RFCS Assistance: Mean Scores by state .......................................................... 97
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 3 
+List of Tables 
+Table 1: On‐farm respondents by state .................................................................................................17 
+Table 2: Off‐farm respondents by state .................................................................................................18 
+Table 3: Age distribution of on‐farm respondents .................................................................................18 
+Table 4: Age distribution of off‐farm respondents ................................................................................19 
+Table 5: Highest level of education completed — on‐farm respondents ..............................................20 
+Table 6: Highest level of education completed — off‐farm respondents ..............................................20 
+Table 7: Role in farming — on‐farm respondents ..................................................................................21 
+Table 8: Former role in farming — off‐farm respondents .....................................................................21 
+Table 9: Years operating a farm — on‐farm respondents ......................................................................22 
+Table 10: Years operating a farm — off‐farm respondents ...................................................................22 
+Table 11: Enterprise type — on‐farm respondents ................................................................................23 
+Table 12: Enterprise type — off‐farm respondents ...............................................................................24 
+Table 13: Number of employees during 2008 — on‐farm respondents ................................................24 
+Table 14: Number of employees during last year of operation — off‐farm respondents .....................25 
+Table 15: Relative size of farm enterprise as described — on‐farm respondents .................................25 
+Table 16: Relative size of farm enterprise as described — off‐farm respondents .................................26 
+Table 17: Proportion of total household income generated off‐farm in previous financial year — 
+on‐farm respondents ...................................................................................................................27 
+Table 18: Proportion of total household income generated off‐farm in previous financial year — 
+off‐farm respondents ...................................................................................................................27 
+Table 19: Reported financial status of farm — on‐farm respondents ...................................................28 
+Table 20: Reported status of farm during last financial year of operation — off‐farm respondents ....28 
+Table 21: Client status by state ..............................................................................................................29 
+Table 22: Years as a client of RFCS — on‐farm respondents .................................................................30 
+Table 23: Years as a client of RFCS — off‐farm respondents .................................................................30 
+Table 24: Number of times had contact with a rural financial counsellor — on‐farm respondents .....30 
+Table 25: Number of times had contact with a rural financial counsellor — off‐farm respondents .....31 
+Table 26: How did you hear about the RFCS? — on‐farm respondents ................................................31 
+Table 27: How did you hear about the RFCS? by state — on‐farm respondents ..................................32 
+Table 28: How did you hear about the RFCS? — off‐farm respondents ................................................32 
+Table 29: Rating of the general quality of information provided to you by the RFCS — on‐farm 
+respondents .................................................................................................................................34 
+Table 30: Rating of the RFCS promptness in returning phone calls — on‐farm respondents ...............34
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 4 
+Table 31: Rating of the RFCS promptness in attending meetings — on‐farm respondents ..................35 
+Table 32: Rating of the commitment of the RFCS to follow up on any actions they undertook to 
+complete on your behalf — on‐farm respondents ......................................................................35 
+Table 33: Rating of the RFCS level of knowledge on the issues affecting your enterprise — on‐farm 
+respondents .................................................................................................................................36 
+Table 34: Rating of the RFCS ability to develop sound options to help improve your situation — 
+on‐farm respondents ...................................................................................................................36 
+Table 35: Rating of the RFCS ability to communicate effectively with you and your family — on‐
+farm respondents .........................................................................................................................37 
+Table 36: Rating of the RFCS ability to communicate effectively with others they have contacted 
+on your behalf — on‐farm respondents ......................................................................................37 
+Table 37: Rating of the RFCS ability to connect you to other services for advice and support — on‐
+farm respondents .........................................................................................................................38 
+Table 38: Are more aware of the financial position of your enterprise — on‐farm respondents .........39 
+Table 39: Are more aware of the importance of cash flow budgets in managing your business — 
+on‐farm respondents ...................................................................................................................39 
+Table 40: Are more aware of the importance of a farm management plan in managing your 
+enterprise — on‐farm respondents .............................................................................................40 
+Table 41: Have a strong sense of what you need to do to improve your financial position — on‐
+farm respondents .........................................................................................................................40 
+Table 42: Are confident in your own ability to manage the finances of your enterprise — on‐farm 
+respondents .................................................................................................................................40 
+Table 43: Are now able to prepare a cash flow budget without assistance — on‐farm respondents...41 
+Table 44: Are making or have made changes in the way you operate that will help improve your 
+long term financial position — on‐farm respondents .................................................................41 
+Table 45: Are now able to develop and revise a farm plan to help manage risks associated with 
+your enterprise — on‐farm respondents .....................................................................................41 
+Table 46: Generally feel more in control of your circumstances — on‐farm respondents ...................42 
+Table 47: Overall what degree of the changes made do you attribute to the help provided by a 
+rural financial counsellor? — on‐farm respondents ....................................................................43 
+Table 48: Degree of positive change attributed to help from a rural financial counsellor — on‐farm 
+respondents .................................................................................................................................43 
+Table 49: Degree of positive change attributed to help from a rural financial counsellor — on‐farm 
+respondents .................................................................................................................................44 
+Table 50: Anticipated future actions in crisis .........................................................................................45 
+Table 51: Referrals to other services — on‐farm respondents ..............................................................46 
+Table 52: Respondent rating of RFCS provision of information about climate risk ...............................48 
+Table 53: Perceived improvement in awareness of financial position and incidence of referral to 
+an accountant ..............................................................................................................................50
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 5 
+Table 54: Length of client engagement — by state ...............................................................................87 
+Table 55: Degree of changes attributed to RFCS assistance — by state ................................................87 
+Table 56: Degree of positive changes attributed to RFCS assistance — by state ..................................88 
+Table 57: General quality of information provided to you by the RFCS — by state ..............................88 
+Table 58: RFCS promptness in returning phone calls — by state ..........................................................89 
+Table 59: RFCS promptness in attending meetings — by state .............................................................89 
+Table 60: Commitment of the RFCS to follow up on any actions they undertook to complete on 
+your behalf — by state .................................................................................................................90 
+Table 61: RFCS level of knowledge on the issues affecting your enterprise — by state .......................90 
+Table 62: RFCS ability to develop sound options to help improve your situation — by state ...............91 
+Table 63: RFCS ability to communicate effectively with you and your family — by state .....................91 
+Table 64: RFCS ability to communicate effectively with others they have contacted on your behalf 
+— by state ....................................................................................................................................92 
+Table 65: RFCS ability to connect you to other services for advice and support — by state.................92 
+Table 66: Correlations between number of times of contact with a counsellor and client outcomes..93 
+Table 67: Correlation between frequency of contact and degree of self‐reliance ................................94 
+Table 68: Correlation between frequency of contact and degree of self‐reliance dichotomised .........95 
+Table 69: Correlation of Satisfaction variables against self‐reliance .....................................................96 
+Table 70: Effect of RFCS in making you more aware of your financial position — by state ..................97 
+Table 71: Effect of RFCS in making you more aware of the importance of cash flow budgets — by 
+state .............................................................................................................................................97 
+Table 72: Effect of RFCS in making you more aware of the importance of a farm management plan 
+for enterprise management — by state ......................................................................................98 
+Table 73: Effect of RFCS in providing a strong sense of what you need to do to improve your 
+financial position — by state ........................................................................................................98 
+Table 74: Effect of RFCS in making you confident in your own ability to manage the finances of 
+your enterprise — by state ..........................................................................................................99 
+Table 75: Effect of RFCS in assisting you to prepare a cash flow budget without assistance — by 
+state .............................................................................................................................................99 
+Table 76: Effect of RFCS in assisting you to change the way you operate that will help improve 
+your long term financial position — by state ............................................................................ 100 
+Table 77: Effect of RFCS in assisting you to develop and revise a farm plan to help manage risks 
+associated with your enterprise — by state ............................................................................. 100 
+Table 78: Effect of RFCS in assisting you to generally feel more in control of your circumstances — 
+by state ...................................................................................................................................... 101
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 6 
+1. 
+Executive Summary 
+The Rural Financial Counselling Service (RFCS) was established in 1986 to provide grants to state and 
+regional organisations to deliver free and impartial rural financial counselling to primary producers, 
+fishers and small rural businesses who are suffering financial hardship and who have no alternative 
+sources of impartial support. The program is funded by the Australian and state Governments. This 
+report presents the findings of an internet survey of RFCS clients. The survey aimed to evaluate their 
+satisfaction  with  the  services  received,  the  appropriateness  of  referrals  to  other  professional 
+services, the extent of improvement in clients' capabilities and change in management practices. 
+ 
+1.1 
+The Survey 
+The research instrument used in the survey was developed from questions initially provided by the 
+Department  of  Agriculture,  Fisheries  &  Forestry  (DAFF)  in  consultation  with  state  agriculture 
+departments, RFCS service providers and ABARE. It was further refined by Charles Sturt University 
+(CSU). The survey was set up on the QuestionPro system, a web survey facility provider commonly 
+used in social research, by the research team at CSU. 136 pre‐release tests were carried out on the 
+questionnaire on the survey site before sampling commenced. 
+The  sampling  was  carried  out  by  Executive  Officers  of  RFCS  organisations  in  each  state.  Each 
+Executive  Officer  was  asked  to  generate  a  report  which  selected  client  names  and  addresses 
+randomly  to  invite  these  clients  to  participate  in  the  survey  by  logging  on  to  a  website.  4771 
+invitations  were  sent  by  email  and  post  to  clients  across  Australia  during  August  2009.  Some 
+assistance  at  RFCS  offices  was  provided  by  service  providers  to  clients  by  making  a  computer 
+available for those who wanted to participate but did not have adequate access to the internet. 
+ 
+1.2 
+The Respondents 
+The survey attracted 510 usable responses. Of these, 467 were people currently working a farm or 
+other agricultural/horticultural enterprise (‘on‐farm’ respondents). The remaining 43 reported that 
+they  were  no  longer  working  a  farm  or  other  agricultural/horticultural  enterprise  (‘off‐farm’ 
+respondents). The two groups were analysed separately through the report, with stronger focus on 
+those remaining on‐farm as their status is clearer. 
+On‐farm  respondents  were  distributed  among  all  states;  none  were  located  in  either  of  the 
+territories and the largest proportions were in New South Wales and Victoria.  The sample tended to 
+cluster in the 40 to 64 years age range. The mean period of time operating a farm for people who are 
+still on‐farm was 26.7 years (excluding childhood). Of the on‐farm sample, 70.9 per cent were male 
+and 29.1 per cent female. Of the off‐farm sample 60.9 per cent were male and 39.1 per cent female. 
+Just over a quarter of on‐farm respondents had completed tertiary education, with a slightly higher 
+proportion of off‐farm respondents completing the same level. 
+More  than  two‐thirds  of  on‐farm  respondents  identified  their  farms  as  ‘sheep,  beef  or  grain’ 
+enterprises. The remainder were distributed across categories with the most frequently mentioned
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 7 
+being dairy enterprises. Those not on‐farm were a little more evenly distributed among categories 
+with the largest proportion having been in a small business other than farming. 
+Respondents tended to describe the size of their farm as ‘about average’, but many indicated smaller 
+than average. Almost one‐third of those on‐farm relied entirely on their farm enterprise for income. 
+Half  of  those  on‐farm  described  their  businesses  as  barely  viable,  while  half  of  those  off‐farm 
+described their financial status as unviable during its last year of operation. 
+‘Word of mouth’ was the most common way in which people heard about the RFCS, followed by 
+referrals from other service professionals. A majority of on‐farm respondents had been aware of the 
+RFCS before they needed to use its services. 
+59.8 per cent of on‐farm respondents indicated that they contacted the RFCS due to necessity arising 
+from hardship and 74.4 per cent reported 'necessity due to drought'. Of the 42 respondents who 
+included  an  ‘other’  response,  15,  or  about  one‐third,  indicated  that  they  were  seeking  assistance 
+with forms, applications etc. One‐eighth mentioned bushfires. The remainder of the responses were 
+spread  among  a  wide  range  of  reasons  including  succession  planning,  debt  and  depression.  As 
+advised  by  DAFF,  the  RFCS  cannot  complete  succession  planning  for  clients  and  they  must  refer 
+clients to appropriate professionals to deal with depression. 
+ 
+1.3 
+Perceptions of the RFCS 
+A  series  of  nine  questions  enabled  analysis  of  the  perceptions  of  the  RFCS  and  comparison  of 
+perceptions among states. These questions asked for assessments on general quality of information, 
+time taken before service received, promptness of service, commitment to follow‐up, knowledge, 
+options offered, communication and ability to connect clients to other services. 
+Quality of service, rated by the respondents using nine questions, is on average perceived to be ‘very 
+good’. There was very little measurable variation among the states. 
+Overall the rating of the RFCS to carry out general communication to and on behalf of the on‐farm 
+respondents  is  slightly  higher  than  its  rating  of  knowledge  of  specific  issues  affecting  the 
+respondents’ farm, or to develop options for the farm. This suggests that the RFCS is an effective 
+communicator,  without  necessarily  always  providing  all  information  seen  to  be  most  relevant  to 
+situation improvement. This is consistent with the RFCS role in referring clients to sources of specific 
+information. 
+ 
+1.4 
+Management Changes and Attribution to the RFCS 
+Responses indicated around half or a little under half of the changes made by clients were attributed 
+to RFCS support, again with little variation indicated among states, though the small sample obtained 
+in  Western  Australia  makes  comparisons  problematic.  83.4  per  cent  of  on‐farm  respondents 
+indicated that they had made positive changes as a result of use of the RFCS. 
+Forty per cent of the on‐farm sample attributed ‘almost all’ or ‘quite a lot’ of positive change to the 
+RFCS and only 2.6 per cent attributed none. This indicates that a significant role for rural financial
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 8 
+counsellors in people’s progress is common, and that having no effect at all is rare. Nevertheless, it is 
+also clear that, for many people, the RFCS has not been the main force for change and that many 
+clients had not made extensive and significant positive changes as a result of RFCS service. 
+In order to assess the degree of self‐reliance among clients, the questionnaire asked a hypothetical 
+question  asking  them  to  think  forward  to  a  future  negative  experience  affecting  their  enterprise. 
+While a small proportion said they would still rely heavily on RFCS, three‐quarters of respondents 
+indicated that, while being confident in their own capacity, they would seek help from RFCS. Only 6.3 
+per cent indicated that they would act totally independently. It appears that while a large majority 
+felt confident in their own knowledge, the RFCS remains significant in the minds of many. However, 
+the  question  has  limited  validity  as  an  indicator  of  change  in  level  of  self‐reliance  as  it  wasn’t 
+determined how self‐reliant clients were before obtaining the service of RFCS. 
+ 
+1.5 
+Self­Reliance 
+Other questions allow potentially more reliable assessment of self‐reliance. A series of questions was 
+used  to  assess  the  degree  of  change  as  a  result  of  use  of  the  service,  or  'client  outcomes',  as 
+perceived by respondents. These questions indicate, on average, a consistently positive view of the 
+effects of the RFCS, but there is some variation in scores among the questions asked. Overall there is 
+little variation among states. 
+The extent to which self‐assessed 'client outcomes' might be influenced by the number of contacts 
+the respondents made with the RFCS is revealed using data on frequency of contact and clients’ self‐
+assessment. Correlations between contact and outcomes are present and are positive, and could be 
+considered statistically significant among the on‐farm respondents, though they are generally low. 
+Frequency of contact is neither a strong predictor of indications of knowledge and capabilities, nor a 
+significant factor in client outcomes as measured by these variables. 
+A  qualitative  assessment  by  clients,  where  they  could  indicate  in  an  interview  situation  what  has 
+been the most important factors in their degree of dependence, would assist further exploration of 
+this issue. 
+Some  explanation  for  variation  in  levels  of  self‐reliance,  as  indicated  by  the  ‘client  outcomes’ 
+questions  which  measure  perceived  change,  is  offered  by  comparing  self‐reliance  improvement 
+indicators with responses to the questions on levels of satisfaction with the services offered. Some of 
+the satisfaction variables are more strongly related than others to outcomes, suggesting that ability 
+to connect clients with other services, development of sound options and the quality of information 
+provided  are  more  important  than  other  factors  considered,  such  as  communication  issues  like 
+promptness in returning phone calls and commitment to undertake follow‐up action. 
+ 
+1.6 
+Referrals 
+A little under half (45.9 per cent) of the on‐farm respondents had been referred to another service 
+for advice or assistance. Of those, three‐quarters rated the RFCS’s ability to connect them with other 
+services as either very good or excellent. Only 1.1 per cent (two respondents) rated it as poor.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 9 
+However, when looking at 'client outcomes' in light of the rates of referral, an association between 
+referral and outcomes is apparent. It is illustrated by the indicator of awareness of financial position 
+and the frequency of referral to accountants, financial advisors and farm business advisors. More of 
+those  who  were  positive  about  improvement  in  awareness  had  been  referred  to  these  types  of 
+service  providers  compared  to  those  who  had  not.  Those  who  were  neutral  or  worse  in  the 
+perception of improvement had rarely been referred to these types of service providers. A similar 
+result  appears  for  an  association  between  referral  to  an  agronomist  and  awareness  of  the 
+importance  of  farm  management  planning.  The  data  suggest  that  increasing  the  rate  of  referral 
+would increase self‐reliance, as indicated by the client outcomes questions about perceived change. 
+ 
+1.7 
+Climate Risk and the Enterprise Action Plan 
+The questionnaire asked respondents to assess how well the RFCS assisted in managing climate risks. 
+About half of the respondents indicated that they had discussed climate risk with their counsellor. 
+Almost half rated provision of information about climate risk as very good or excellent and only 3.0 
+per cent as poor. However, only 14.2 per cent of those who had discussed climate risk indicated that 
+they had completed an Enterprise Action Plan. This could be due to the timing of the survey, in that 
+the Enterprise Action Plan had not been fully implemented and completed with all clients. A majority 
+(71 per cent), but not all, of those who completed an Enterprise Action Plan reported that it had 
+helped them to prepare for climate and other risks. 
+About one‐third of respondents had heard of the Enterprise Action Plan. About half of those said that 
+they had undertaken one. A majority of them said that the plan had contributed to improving their 
+financial position, and three‐quarters said that it had increased their awareness of farm business and 
+operating ratios. Half said that the plan had helped them plan for climate risk. 
+ 
+1.8 
+Summary of Key Findings 
+• 
+The research found that the Rural Financial Counselling Service plays a role in adjustment 
+processes and the growth of resilience among farm people. 
+• 
+Assessments  of  the  quality  of  services  are  generally  positive  and  instances  of  poor  ‘client 
+outcomes’ are rare. 
+• 
+There is a high degree of client satisfaction with the RFCS. 
+• 
+RFCs are strong communicators: 
+o between the RFC and the farm family 
+o with clients having the least education levels likely to feel they gain more 
+o with many clients connected to other services. 
+• 
+RFCs appear able to establish a 'rapport' with clients. 
+• 
+Indicators of increasing self‐reliance attracted many neutral responses, around one‐third of
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 10 
+responses to several items. 
+• 
+Referrals play a role in developing self‐reliance but the frequency of referrals to each type of 
+service is low. 
+• 
+Frequency  of  contacts  with  the  RFCS  may  play  a  role  in  the  achievement  of  self‐reliance, 
+though the strength of such effects is indicated as relatively weak at this time. 
+• 
+There  would  be  value  in  establishing  a  before  and  after  service  evaluation  to  determine 
+impact of the RFCS on clients, including qualitative analysis of factors affecting self‐reliance. 
+• 
+Early findings on Enterprise Action Plan are positive. For example, of the 61 respondents who 
+had undertaken a plan: 
+o 38 per cent rated its helpfulness as either ‘very good’ or ‘excellent’ 
+o 36 per cent rated it as good 
+o almost  two‐thirds  said  that  the  plan  had  contributed  to  improving  their  financial 
+position 
+o three‐quarters (44 respondents) said that it had increased their awareness of farm 
+business and operating ratios 
+o half said that the Enterprise Action Plan had helped them plan for climate risk. 
+• 
+Slightly more than half of the respondents indicated that they had discussed climate risk with 
+a rural financial counsellor. Almost half of those rated provision of information about climate 
+risk as very good or excellent and only 3.0 per cent rated it as poor. 
+• 
+Evidence of a significant role for RFCS in the making of positive changes. 
+• 
+The survey evidence suggests that about 40 per cent of clients attribute half or more of the 
+changes they have made to RFCS input.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 11 
+2. 
+Introduction: The Rural Financial Counselling Service 
+The Rural Financial Counselling Service (RFCS) Program was initially established in 1986 in response 
+to drought, depressed commodity prices and increasing interest rates, and has continued because of 
+ongoing need. The program is funded by the Australian and state governments, who have collectively 
+committed funding to 30 June 2011. The program provides grants to state and regional organisations 
+to  provide  free  and  impartial  financial  counselling  to  primary  producers,  fishers  and  small  rural 
+businesses* who are suffering financial hardship and who have no alternative sources of impartial 
+support. 
+*'Small  rural  business'  for  the  purposes  of  the  RFCS  Program  is  defined  as  a  rural 
+business  that  employs  no  more  than  ten  full‐time‐equivalent  (38  hours  per  week) 
+employees and provides the majority of its services to primary producers and is directly 
+involved in primary production (e.g. fencing, harvesting, spraying or stock management 
+contracting). 
+At November 2009, there are 14 service providers in the program employing more than 110 rural 
+financial counsellors. 
+ 
+2.1 
+RFCS Program 
+2.1.1 Objectives 
+The objectives of the RFCS Program are to: 
+• 
+Provide clients with access to financial information, options, decision support and referrals to 
+other sources of industry, professional and government assistance 
+• 
+Empower clients to make their own decisions on how to most effectively manage change and 
+adjustment issues 
+• 
+Deliver effective, flexible and responsive services to those in need of assistance. 
+ 
+2.1.2 RFCS Program outcomes1 
+Medium and short‐term outcomes 
+Improving awareness and understanding 
+The target client group, and individuals and institutions operating within the RFCS referral network, 
+are aware of: 
+• 
+the RFCS Program and available services and resources that can be delivered through the 
+RFCS network 
+• 
+the benefits of early access to the service 
+• 
+the need for a proactive approach to manage change and adjustment. 
+                                                           
+1 This excerpt extracted with acknowledgement from the DAFF website http://www.daff.gov.au/agriculture‐
+food/drought/rfcs/rfcs_program_charter
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 12 
+Flexible and timely access 
+The  target  client  group  can  access  the  RFCS  Program  to  receive  financial  information,  options, 
+decision support and referrals in a flexible and timely manner. 
+Satisfying need 
+Service delivery arrangements are: 
+• 
+meeting the needs of clients 
+• 
+meeting the needs of government funding partners 
+• 
+providing  information,  analyses,  options  and  referrals  to  RFCS  clients  in  a  way  that  helps 
+them  understand  and  improve  their  financial  position  and  prepares  them  to  meet  the 
+potential challenges they may face, including the implications of climate change. 
+Longer term outcomes 
+Building capacity and empowerment 
+Clients accept the need to make changes to their businesses and achieve goals to improve financial 
+self‐reliance and long‐term sustainability (for some this may include considering exiting from farm or 
+small rural business ownership). 
+Clients  develop  the  skills  and  confidence  to  act  on  the  financial  information,  options,  decision 
+support and referrals provided by a rural financial counsellor. 
+Improved practices 
+Rural financial counselling service providers continue to demonstrate high standards of governance 
+and accountability. 
+Clients increase their adoption of sound and proactive approaches to farm or small rural business 
+management and regularly review their situation. 
+Self‐reliance 
+The focus of the RFCS Program is to help clients to: 
+• 
+effectively manage change and adjustment 
+• 
+be more profitable, competitive and sustainable. 
+The  concept  of  self‐reliance  in  the  RFCS  context  implies  that  clients  have  the  capability  to  form 
+judgements and make decisions about farm enterprise financial management. 
+ 
+3. 
+The Context and Purpose of this Analysis 
+Evaluation of client satisfaction and other aspects of the RFCS had occurred previously; most recently 
+as a component of the National Farmer Survey conducted by the Australian Bureau of Agricultural 
+and  Resource  Economics  (ABARE)  in  2006  (see  Boero  Rodrigues,  Watson  and  Mues,  2006). 
+Specifically this report revealed:
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 13 
+“In general, users of the RFCS are more likely to use income averaging, access to debt 
+and insurance as strategies to manage risk, have made major changes to their farm 
+management practices in the past two years, and their business plans are more likely 
+to contain information on natural resources management activities and a marketing 
+plan. 
+Some of these results, particularly the propensity of RFCS users to be involved in farm 
+planning,  or  to  change  production  and  financial  arrangements  may  have  been  the 
+result  of  RFCS  assistance.  However,  more  in  depth  analysis  considering  behaviour 
+before  and  after  RFCS  contact  is  required  to  test  the  exact  nature  of  these 
+relationships.“ (pp. 12‐13) 
+Generally, the ABARE investigation revealed that over 75 per cent of farmers were aware of the 
+existence of the RFCS and that approximately 12 per cent had used the RFCS in the past. 
+While the ABARE investigation sought to consider farmer awareness and use of a broader range of 
+programs including FarmBis, RFCS and Farm Help (under the banner of the Agriculture – Advancing 
+Australia [AAA] Programs), Exceptional Circumstances and Farm Management Deposits, this report 
+is the result of an independent investigation focusing entirely on the RFCS. 
+The study seeks specifically to evaluate: 
+• 
+client satisfaction with the overall service they received, including quality of information and 
+decision support, as well as gather feedback concerning confidentiality, courtesy and general 
+customer service 
+• 
+client  satisfaction  with  information  that  the  RFCS  provides,  including  appropriateness  of 
+options and level of skills and professionalism amongst counsellors 
+• 
+the appropriateness of referrals to professional service providers 
+• 
+the extent of improvement in client’s overall ability to take control of their financial situation 
+• 
+the  relationship  between  RFCS  contact  and  changed  farm  and/or  business  management 
+practices. 
+ 
+4. 
+Research Design 
+The research instrument used for this investigation was a questionnaire, refined and adapted for an 
+internet application by the research team at Charles Sturt University (CSU) from questions initially 
+provided by DAFF. 
+As advised by DAFF: 
+The  survey’s  objective  is  to  determine  whether  service  providers  are  delivering  a  flexible  and 
+responsive service, meeting the needs of clients and increasing the capacity of the target client group 
+to become more self‐reliant. 
+At  the  program  level,  the  Office  of  Rural  Financial  Counselling  is  required  to  measure  program 
+outcomes against the program’s objectives. In addition to gauging satisfaction levels for the program, 
+the survey design is intended to answer the following: 
+• 
+are clients making changes to their operations as a result of RFCS assistance?
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 14 
+• 
+is  there  a  relationship  between  the  amount  of  assistance  provided  and  the  outcomes 
+achieved? 
+• 
+are some groups of clients more or less receptive to change and adjustment? 
+• 
+is the program building self‐reliance, or will clients continue to rely on assistance from a rural 
+financial counsellor? 
+The client survey intended to provide quantitative information on whether the program outcomes 
+were  being  achieved.  The  performance  information  gained  through  the  survey  intended  to 
+complement the quantitative information entered by rural financial counsellors into the Australian 
+Rural Counselling (ARC) database, the client management and reporting tool used by rural financial 
+counsellors, service providers and the Australian and state Governments. 
+In addition, service providers are required to monitor and evaluate service delivery and performance 
+of rural financial counsellors as stated in their Deeds of Grant with the Australian Government: 
+“The Grantee must monitor delivery of the Services including service quality, timeliness 
+and number and coverage of clients and assess whether there is a continuing need for 
+the Services.” 
+ 
+4.1 
+The Questionnaire 
+The research instrument was an internet‐based questionnaire (see Appendix 1 for the complete list 
+of questions used for the study). 
+Input on drafts of the questionnaire was sought and received from state agriculture departments, 
+RFCS  service  providers  and  ABARE.  It  was  further  refined  by  CSU.  The  survey  was  set  up  on  the 
+QuestionPro system, an internet survey facilitation service commonly used for social research, by the 
+research team at CSU. 136 pre‐release tests were carried out on the questionnaire on the survey site 
+before sampling commenced. 
+No question was made compulsory. That is, there were no ‘compulsory fields’. CSU in conjunction 
+with the Office of Rural Financial Counselling decided not to have compulsory fields because much of 
+the data which was sought is potentially sensitive for respondents, even among the early questions 
+in the questionnaire. As far as possible the more sensitive questions are located towards the end of 
+the questionnaire, but this was not always practical. 
+Many questions resulted in a non‐response; the non‐response rate or proportion of ‘missing cases’ is 
+usually around four per cent but rises towards the end of the questionnaire. It is also higher among 
+those who had left or had not been involved in farming, perhaps because they felt the survey to be 
+less relevant to them. A further complicating factor is the presence in the sample of people who have 
+not  been  on‐farm  clients  of  the  RFCS  during  the  last  five  years.  It  was  not  possible  to  design  a 
+questionnaire to cover every possible activity which could be completed in conjunction with or since 
+farming and still obtain information on the activity relevant to farming. Some questions, where it was 
+anticipated  this  might  be  a  problem,  offered  non‐farming  response  options.  Questions  following 
+those questions (Questions 17 and 223 in Appendix 1) which ascertained whether or not respondents 
+were or had been clients had a higher non‐response rate because respondents indicated that they
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 15 
+had  not  been  clients  at  all  during  the  last  five  years.  At  that  point  they  were  thanked  for  their 
+participation as they finished. 
+ 
+4.2 
+Sampling Procedures 
+Sampling was arranged by DAFF. 
+As advised by DAFF: 
+The sampling was carried out by Executive Officers of Rural Financial Counselling Services in each 
+state.  Each  Executive  Officer  was  asked  to  generate  a  report  which  selects  client  names  and 
+addresses randomly to send either a letter or an email message inviting these clients to participate in 
+the survey by logging on to a website. 
+4771 invitations were sent to clients nationally during August 2009. The breakdown by state was: 
+NSW 
+ 
+ 
+ 
+ 
+ 1565 
+Queensland 
+ 
+ 
+ 
+   571 
+Tasmania 
+ 
+ 
+ 
+   200 
+Victoria  
+ 
+ 
+ 
+ 1689 
+South Australia  
+ 
+ 
+   629 
+Western Australia 
+ 
+ 
+   117 
+ 
+As  the  survey  was  internet‐based,  emails  were  sent  to  those  clients  who  had  provided  email 
+addresses  to  service  providers.  However,  it  was  assumed  a  large  number  of  clients  had  internet 
+access but may have not provided an email address. To enable their participation, letters providing 
+the survey web address were sent to the randomly selected clients inviting them to participate. 
+For those clients who indicated to service providers they wished to complete the survey and did not 
+have internet access, the Office of Rural Financial Counselling advised RFCS service providers they 
+could make a PC available to clients, providing no input from the service provider was made available 
+to the client while they participated in the survey.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 16 
+5. 
+Findings 1: The Sample Demography 
+The first set of aggregated findings describes the features and characteristics of the respondent data 
+sample. 
+ 
+5.1 
+The Sample 
+The survey attracted 510 usable responses. No negative or derogatory correspondence regarding any 
+aspect of the survey was received by the investigative team. Of the respondents, 467 were people 
+currently working a farm or other agricultural/horticultural enterprise. The remaining 43 reported 
+that they were no longer working a farm or other agricultural/horticultural enterprise. Henceforth, 
+the former group will be called ‘on‐farm’ and the latter ‘off‐farm’. These two groups will be analysed 
+separately  through  most  of  this  report.  Statistics  refer  to  the  on‐farm  subsample  where  not 
+otherwise indicated. 
+There are three reasons for separate analysis: 
+1. Some questions were put differently to each group 
+2. Those who had left their farm would have been relying more heavily on memory 
+3. A proportion of those who responded to the ‘off‐farm’ section of the questionnaire may not 
+have been on a farm at all. 
+Some comparisons will be made between these groups of respondents where appropriate. 
+Only  clients  of  the  RFCS  were  sampled.  All  would  be  either  current  or  past  primary  producers  as 
+involvement in primary production is a criterion for obtaining RFCS services. They may not have all 
+considered their main occupation to be farming, however, as they may have derived income from 
+off‐farm sources. It is also possible that some respondents became clients as they came to represent 
+the farm to the RFCS, without considering themselves to be a farmer (as in the case of a partner in a 
+business which involved primary production). 
+The survey was designed to separate responses from people who were still actively farming from 
+those who had left their farms or were otherwise not engaged in farming. The question: ‘Are you 
+currently working a farm or other agricultural/horticultural enterprise?’ was used to steer those who 
+answered in the negative to what is effectively a different questionnaire so that questions could be 
+put to them in the past tense and otherwise as appropriate. Of the 43 respondents who answered 
+this ‘past tense’ questionnaire, eight reported that their role in farming was not actually on a farm 
+but was in some other kind of business. This includes one person who self‐described as a winegrape 
+grower.  About  half  of  the  43  reported  that  farming  had  not  been  their  main  occupation.  This 
+suggests  that  the  off‐farm  questionnaire  picked  up  a  small  number  of  people  who  had  not 
+considered  themselves  to  be  farmers.  Only  11  per  cent,  or  49  respondents,  of  those  467  who 
+completed  the  on‐farm  questionnaire  said  that  farming  was  not  their  main  occupation,  but  this 
+question was preceded by one which identified them as currently working a farm. 
+Each table below reports percentages of respondents and indicates the effective sample size; that is 
+with non‐response or ‘missing cases’ excluded.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 17 
+5.2 
+Location 
+On‐farm  respondents  were  distributed  around  all  states,  but  none  were  located  in  either  of  the 
+territories.  The  RFCS  Program  operates  on  an  as  needed  basis  within  the  Northern  Territory  and 
+proportionally very few clients are located in the ACT. The largest proportion was in Victoria, with a 
+similar number in New South Wales (Table 1), corresponding to the distribution of clients described 
+above. 
+As provided by DAFF, according to the statistics of total RFCS clients in 2008–09, the highest numbers 
+of  RFCS  clients  are  located  in  NSW  (44  per  cent)  and  Victoria  (30  per  cent),  followed  by  South 
+Australia  (14  per  cent).  While  the  proportions  are  slightly  different,  this  compares  well  with  the 
+sample (Table 1 and Table 2.). 
+ 
+Table 1: On‐farm respondents by state 
+State 
+Per cent of respondents 
+Qld 
+5.8 
+NSW 
+35.0 
+Victoria 
+40.2 
+Tasmania 
+6.1 
+South Australia 
+12.4 
+Western Australia 
+0.5 
+Total 
+100.0 
+n 
+428 
+ 
+Those respondents not on farms have a similar distribution, with the majority being in Victoria. 
+It is important to note that this was asked as: 
+‘What state/territory is your farming enterprise mostly in?’ 
+and  consequently  may  not  have  been  answered  by  those  who had  not  considered  themselves  to 
+have had a farming enterprise.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 18 
+Table 2: Off‐farm respondents by state 
+State 
+Per cent of respondents 
+Qld 
+4.3 
+NSW 
+34.8 
+Victoria 
+47.8 
+Tasmania 
+4.3 
+South Australia 
+8.7 
+Western Australia 
+0.0 
+Total 
+100.02 
+n 
+23 
+ 
+5.3 
+Age 
+The on‐farm sample clustered in the 40 to 64 years age range and the off‐farm sample in the 45 to 59 
+years range (Table 3 and Table 4). 
+Table 3: Age distribution of on‐farm respondents 
+Years 
+Per cent of respondents 
+25–29 
+0.5 
+30–34 
+4.2 
+35–39 
+9.9 
+40–44 
+13.2 
+45–49 
+13.4 
+50–54 
+16.0 
+55–59 
+16.3 
+60–64 
+13.7 
+65–69 
+7.5 
+70–74 
+3.8 
+75–79 
+0.5 
+80+ 
+0.9 
+Total 
+100.0 
+n 
+424 
+ 
+                                                           
+2 Discrepancies in totals are due to rounding.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 19 
+Table 4: Age distribution of off‐farm respondents 
+Years 
+Per cent of respondents 
+25–29 
+0.0 
+30–34 
+0.0 
+35–39 
+8.3 
+40–44 
+4.2 
+45–49 
+20.8 
+50–54 
+20.8 
+55–59 
+29.2 
+60–64 
+8.3 
+65–69 
+4.2 
+70–74 
+0.0 
+75–79 
+4.2 
+80+ 
+0.0 
+Total 
+100.0 
+n 
+24 
+ 
+5.4 
+Gender 
+There was a slightly higher proportion of male respondents amongst the on‐farm sample compared 
+to off‐farm male respondents. Of the on‐farm sample, 70.9 per cent were male and 29.1 per cent 
+female (n = 423). Of the off‐farm sample 60.9 per cent were male and 39.1 per cent female (n = 23). 
+ 
+5.5 
+Education 
+Education  was  measured  by  asking  for  highest  level  of  completed  education.  There  were  similar 
+proportions  of  respondents  in  the  on‐farm  and  off‐farm  samples  who  had  completed  secondary 
+education.  Just  over  a  quarter  of  on‐farm  respondents  had  completed  tertiary  education,  with  a 
+slightly higher proportion of off‐farm respondents completing the same level (Table 5 and Table 6).
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 20 
+Table 5: Highest level of education completed — on‐farm respondents 
+ 
+Per cent of respondents 
+Primary 
+2.4 
+Secondary 
+50.5 
+Technical/trade 
+21.0 
+Tertiary 
+26.2 
+Total 
+100.0 
+n 
+424 
+ 
+Table 6: Highest level of education completed — off‐farm respondents 
+ 
+Per cent of respondents 
+Primary 
+0.0 
+Secondary 
+54.5 
+Technical/trade 
+13.6 
+Tertiary 
+31.8 
+Total 
+100.0 
+n 
+21 
+ 
+5.6 
+Occupation 
+The survey asked for the ‘role in farming’ of each on‐farm respondent and the former role for each 
+off‐farm respondent. These questions were asked to ascertain the self‐perceived relationship of each 
+respondent to the farm. Occupation was asked separately. Nearly two‐thirds of on‐farm respondents 
+described themselves as ‘farmer’ but a significant proportion self‐described as ‘farm family member’ 
+(Table 7). 
+Respondents were also able to describe their role themselves by way of an ‘other, please specify’ 
+question. The 19 who did so produced a wide range of responses. About half indicated that they 
+were farming partners, share farmers or were a farmer, family member and manager at the same 
+time, while the other half said they had non‐farm businesses.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 21 
+Table 7: Role in farming — on‐farm respondents 
+ 
+Per cent of respondents 
+Farmer 
+66.8 
+Farm manager 
+7.0 
+Farm family member 
+21.9 
+Other 
+4.3 
+Total 
+100.0 
+N 
+443 
+ 
+The  distribution  among  those  off‐farm  respondents  was  similar,  though  with  fewer  indicating 
+‘farmer’ and  a considerably higher proportion in the ‘other’  category when  compared to on‐farm 
+respondents (Table 8). Among the latter, all but one of those who described a role indicated an off‐
+farm occupation. 
+ 
+Table 8: Former role in farming — off‐farm respondents 
+ 
+Per cent of respondents 
+Farmer 
+40.5 
+Farm manager 
+2.7 
+Farm family member 
+18.9 
+Other 
+37.8 
+Total 
+100.0 
+N 
+37 
+ 
+When asked if farming was their ‘main occupation’, 88.9 per cent of on‐farm respondents said ‘yes’. 
+Among off‐farm respondents, only 51.4 per cent said that farming had been their main occupation. 
+Thirteen of the 18 who said that farming had not been their main occupation indicated a non‐farm 
+activity. 
+ 
+5.7 
+Period farming 
+The mean period of time operating a farm for people who are still on‐farm was 26.7 years (excluding 
+childhood). 
+While the relevant size of the sample for off‐farm respondents was very small, it is noticeable that 
+there are smaller proportions of that group among the longer periods operating a farm (Table 9 and 
+Table 10).
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 22 
+Table 9: Years operating a farm — on‐farm respondents 
+Years 
+Per cent of respondents 
+1–10 
+13.2 
+11–20 
+26.2 
+21–30 
+24.0 
+31–40 
+22.4 
+41–50 
+10.7 
+50+ 
+3.5 
+Total 
+100.0 
+n 
+317 
+ 
+Table 10: Years operating a farm — off‐farm respondents 
+Years 
+Per cent of respondents 
+1–10 
+27.8 
+11–20 
+27.8 
+21–30 
+27.8 
+31–40 
+5.6 
+41–50 
+5.6 
+50+ 
+5.6 
+Total 
+100.0 
+n 
+18
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 23 
+6. 
+Findings 2: The Farms 
+The second set of aggregated findings shifted the focus to the physical and human characteristics of 
+the farms. 
+ 
+6.1 
+Enterprise Type 
+As provided by DAFF, according to the statistics of total RFCS clients in 2008–09, the most common 
+enterprises amongst RFCS clients include Sheep, Beef or Grain (53 per cent), followed by Agriculture 
+and Fishing support services (15 per cent) and Fruit and/or Nut tree growing (12 per cent). 
+More than two‐thirds of on‐farm respondents in this research identified their farms as ‘sheep, beef 
+or  grain’  enterprises.  The  remainder  were  distributed  across  categories  with  the  most  frequently 
+mentioned  being  dairy  enterprises  (Table  11).  Those  not  on‐farm  were  a  little  more  evenly 
+distributed among categories (Table 12), with the largest proportion having been in a small business 
+other than farming. 
+The enterprise type is consistent with the high proportion of Victorian and NSW respondents, given 
+Victoria had the highest proportion of Fruit and/or Nut tree growers and NSW the highest proportion 
+of Sheep, Beef or Grain producers compared to other states. 
+ 
+Table 11: Enterprise type — on‐farm respondents 
+Enterprise type 
+Per cent of respondents 
+Sheep, beef or grain 
+64.8 
+Dairy 
+10.5 
+Fishing and/or aquaculture 
+0.5 
+Fruit and/or nut tree growing 
+4.7 
+Vegetable and/or mushroom 
+1.2 
+Other crop 
+4.9 
+Other livestock 
+0.9 
+Wine and/or beverage 
+7.5 
+Small business supporting any of 
+the above 
+5.1 
+Total 
+100.0 
+n 
+429
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 24 
+Table 12: Enterprise type — off‐farm respondents 
+Enterprise type 
+Per cent of respondents 
+Sheep, beef or grain 
+20.0 
+Dairy 
+8.0 
+Fishing and/or aquaculture 
+0.0 
+Fruit and/or nut tree growing 
+16.0 
+Vegetable and/or mushroom 
+0.0 
+Other crop 
+4.0 
+Other livestock 
+0.0 
+Wine and/or beverage 
+16.0 
+Small business supporting any of 
+the above 
+36.0 
+Total 
+100.0 
+n 
+25 
+ 
+6.2 
+Employees 
+A  majority  of  on‐farm  respondents  had  employees  during  the  calendar  year  of  2008,  with  most 
+reporting  between  one  and  five  (Table  13).  Those  respondents  off‐farm  revealed  a  similar 
+distribution (Table 14). 
+ 
+Table 13: Number of employees during 2008 — on‐farm respondents 
+ 
+Per cent of respondents 
+None 
+16.4 
+1– 5 
+70.9 
+6– 10 
+6.1 
+More than 10 
+6.6 
+Total 
+100.0 
+n 
+426
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 25 
+Table 14: Number of employees during last year of operation — off‐farm respondents 
+ 
+Per cent of respondents 
+None 
+20.0 
+1– 5 
+68.0 
+6– 10 
+4.0 
+More than 10 
+8.0 
+Total 
+100.0 
+n 
+25 
+ 
+6.3 
+Relative Scale 
+Respondents  were  asked  to  describe  the  size  of  their  farming  enterprise  compared  to  similar 
+businesses in their region. ‘About average’ was the most popular response for those who remain on‐
+farm (Table 15). 
+ 
+Table 15: Relative size of farm enterprise as described — on‐farm respondents 
+ 
+Per cent of respondents 
+Smaller than average 
+29.0 
+About average 
+57.1 
+Larger than average 
+13.9 
+Total 
+100.0 
+n 
+25 
+ 
+It is notable, bearing in mind the small number of respondents, that none of those off‐farm described 
+their operation as larger than average (Table 16).
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 26 
+Table 16: Relative size of farm enterprise as described — off‐farm respondents 
+ 
+Per cent of respondents 
+Smaller than average 
+56.5. 
+About average 
+43.5 
+Larger than average 
+0.0 
+Total 
+100.0 
+n 
+23 
+ 
+6.4 
+Tenure 
+Among those on‐farm, 86.3 per cent reported farm ownership; 16.1 per cent leased; 6.6 per cent 
+share  farmed  and  1.9  per  cent  leased  or  share  farmed  to  another  farmer.  All  of  those  off‐farm 
+respondents who indicated their former type of tenure revealed ‘ownership’.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 27 
+7. 
+Findings 3: Financial Aspects and Implications 
+Aspects of farm financial management are reported separately in this section. 
+ 
+7.1 
+Off­farm Income 
+Almost one‐third of those on‐farm relied entirely on their farm enterprise for income (Table 17). That 
+is, they generated no off‐farm income. 
+Table 17: Proportion of total household income generated off‐farm in previous financial year — on‐
+farm respondents 
+ 
+Per cent of respondents 
+None 
+32.1 
+1–25 per cent 
+30.9 
+26–50 per cent 
+15.0 
+51–75 per cent 
+10.5 
+more than 75 per cent 
+11.6 
+Total 
+100.0 
+n 
+421 
+ 
+As might be expected, this proportion was much lower for those who had left (Table 18). 
+ 
+Table 18: Proportion of total household income generated off‐farm in previous financial year — 
+off‐farm respondents 
+ 
+Per cent of respondents 
+None 
+15.0 
+1–25 per cent 
+35.0 
+26–50 per cent 
+5.0 
+51–75 per cent 
+10.1 
+more than 75 per cent 
+35.0 
+Total 
+100.0 
+n 
+20
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 28 
+7.2 
+Perceived Financial Status 
+Half  of  those  on‐farm  described  their  businesses  as  barely  viable,  while  half  of  those  off‐farm 
+described their financial status as unviable during its last year of operation (Table 19 and Table 20). 
+Apart from those who left having drawn the inevitable conclusion about viability, this suggests that 
+RFCS clients are predominantly seeing their farming operations as marginal, which may be expected 
+given the target market of the RFCS program. 
+Table 19: Reported financial status of farm — on‐farm respondents 
+ 
+Per cent of respondents 
+Viable 
+38.9 
+Barely viable 
+51.3 
+Unviable 
+5.3 
+Not sure 
+3.6 
+I no longer farm 
+1.0 
+Total 
+100.0 
+n 
+419 
+ 
+All  of  the  four  respondents  who  answered  ‘I  no  longer  farm’  were  aged  over  45  years.  Three 
+described themselves as farmers and three said that farming was their main occupation. This may 
+indicate a very small number of situations where people still consider themselves to be farmers but 
+have in effect retired. 
+Table 20: Reported status of farm during last financial year of operation — off‐farm respondents 
+ 
+Per cent of respondents 
+Viable 
+10.5 
+Barely viable 
+31.6 
+Unviable 
+47.4 
+Not sure 
+10.5 
+Total 
+100.0 
+n 
+19 
+ 
+7.3 
+Reasons for Leaving 
+Eleven  respondents  no  longer  on‐farm  confirmed  that  they  had  no  further  involvement  in 
+agriculture, fishing or a related business. They were asked why they left and offered the response 
+categories ‘wanted to’ and ‘could no longer continue’. Indeed, nine of those eleven answered ‘could 
+no longer continue’.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 29 
+8. 
+Findings 4: Relationship with RFCS 
+Several questions aimed to reveal the nature and impact of the client’s relationship with the RFCS. 
+ 
+8.1 
+RFCS Client Status 
+Of those on‐farm, 73.7 per cent said that they were clients of the RFCS at the time of the survey. Of 
+the 113 respondents who said that they were not clients, 88 indicated that they had been clients at 
+some time during the previous five years. Twenty‐three said that they had not been clients during 
+the last five years. Amongst the off‐farm group, only two respondents said that they had not been 
+clients during the last five years. 
+As advised by DAFF, some respondents may not have considered themselves to be clients as they 
+only made an inquiry and did not receive financial counselling as a full client of the RFCS. Only in 
+Tasmania did the proportion of current clients differ from the other States (Table 21). 
+ 
+Table 21: Client status by state 
+State 
+Per cent clients 
+Per cent not clients at 
+time of survey 
+Number of 
+respondents 
+Qld 
+76.0 
+24.0 
+25 
+NSW 
+76.6 
+23.4 
+145 
+Victoria 
+73.7 
+26.3 
+171 
+Tasmania 
+88.0 
+12.0 
+25 
+South Australia 
+62.3 
+37.7 
+53 
+Western Australia 
+50.0 
+50.0 
+2 
+ 
+About  half  of  the  on‐farm  and  half  of  the  off‐farm  client  or  former  client  respondents  had  been 
+clients for between one and three years (Table 22 and Table 23). As might be expected, a relatively 
+large proportion of those off‐farm had been clients for more than six years, but the proportion with 
+less than one year as a client was similar between the two groups.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 30 
+Table 22: Years as a client of RFCS — on‐farm respondents 
+Years 
+Per cent of respondents 
+Less than 1 
+28.1 
+1–3  
+47.9 
+4–6 
+10.3 
+More than 6 
+13.8 
+Total 
+100.0 
+n 
+399 
+ 
+Table 23: Years as a client of RFCS — off‐farm respondents 
+ 
+Per cent of respondents 
+Less than 1 
+23.8 
+1–3  
+47.6 
+4–6 
+9.5 
+More than 6 
+19.0 
+Total 
+100.0 
+n 
+21 
+ 
+When analysed as a scale with scores from one (1) (less than one year) to four (4) (more than six 
+years), little variation is indicated among the states in terms of length of time those on‐farm had 
+been clients (see Table 54 in Appendix 2). 
+Similarly, those off‐farm tended to have had more contact with a rural financial counsellor (Table 24 
+and Table 25) 
+ 
+Table 24: Number of times had contact with a rural financial counsellor — on‐farm respondents 
+ 
+Per cent of respondents 
+Once 
+8.4 
+2–5 times  
+54.7 
+6–10 times 
+20.5 
+More than 10 times 
+16.5 
+Total 
+100.0 
+n 
+395
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 31 
+Table 25: Number of times had contact with a rural financial counsellor — off‐farm respondents 
+ 
+Per cent of respondents 
+Once 
+4.8 
+2–5 times  
+38.1 
+6–10 times 
+23.8 
+More than 10 times 
+33.3 
+Total 
+100.0 
+n 
+21 
+ 
+Although numbers are small, there is some evidence  that those who indicated that  they still  had 
+some involvement in agriculture had had more contact with a rural financial counsellor than those 
+who had no continuing involvement. Of those 11 still involved, eight had had contact more than six 
+times, whereas among those 10 who had no involvement, four had had contact, prior to exit, more 
+than six times. This suggests that ‘staying on’ requires more counsellor input than ‘exit’, but evidence 
+from the counsellors themselves might help to clarify this proposition. It should be noted that clients 
+might be involved by way of having an interest in a farm which has not been entirely disposed of, but 
+may not necessarily be actively working on a farm. 
+ 
+‘Word of mouth’ was the most common way in which on‐farm respondents heard about the RFCS, 
+followed by referrals from other service professionals (Table 26). 
+ 
+Table 26: How did you hear about the RFCS? — on‐farm respondents 
+ 
+Per cent of respondents 
+RFCS/DAFF website 
+0.8 
+RFCS brochure 
+4.5 
+Word of mouth 
+37.4 
+Field day or other service promotion 
+10.6 
+Referred by Centrelink 
+10.4 
+Referred by another service professional 
+22.7 
+Media 
+13.1 
+Other 
+0.5 
+Total 
+100.0 
+n 
+396
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 32 
+Table 27: How did you hear about the RFCS? by state — on‐farm respondents 
+ 
+Per cent of respondents in 
+ 
+Qld 
+NSW 
+Vic 
+Tas 
+SA 
+WA 
+RFCS/DAFF website 
+4.5 
+0.7 
+0.0 
+0.0 
+2.0 
+0.0 
+RFCS brochure 
+13.6 
+4.5 
+3.8 
+4.2 
+4.0 
+0.0 
+Word of mouth 
+22.7 
+36.6 
+33.3 
+54.2 
+52.0 
+0.0 
+Field day or other 
+service promotion 
+13.6 
+9.7 
+11.3 
+4.2 
+14.0 
+0.0 
+Referred by 
+Centrelink 
+22.7 
+9.7 
+12.6 
+4.2 
+4.0 
+0.0 
+Referred by another 
+service professional 
+9.1 
+24.6 
+25.8 
+16.7 
+12.0 
+100.0 
+Media 
+13.6 
+13.4 
+12.6 
+16.7 
+12.0 
+0.0 
+Other 
+0.0 
+0.7 
+0.6 
+0.0 
+0.0 
+0.0 
+Total 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+n  
+22 
+134 
+159 
+24 
+50 
+2 
+ 
+‘Word of mouth’ was most common in Tasmania and least common in Queensland, and referrals 
+more common in New South Wales and Victoria (discounting Western Australia due to the very small 
+number of respondents from that state) (Table 27). 58.8 per cent of all on‐farm respondents (n = 
+396) had been aware of the RFCS before they needed to use its services. DAFF has advised that this 
+high level of awareness is consistent with previous survey findings. 
+‘Word of mouth’ was also the most common way in which off‐farm respondents heard about the 
+RFCS, followed by various media (Table 28). 
+Table 28: How did you hear about the RFCS? — off‐farm respondents 
+ 
+Per cent of respondents 
+RFCS/DAFF website 
+0.0 
+RFCS brochure 
+4.8 
+Word of mouth 
+33.3 
+Field day or other service promotion 
+14.3 
+Referred by Centrelink 
+4.8 
+Referred by another service professional 
+9.5 
+Media 
+28.6 
+Other 
+4.8 
+Total 
+100.0 
+n 
+21
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 33 
+Overall  47.6  per  cent  of  off‐farm  respondents  (n  =  22)  had  been  aware  of  the  RFCS  before  they 
+needed to use its services. 
+ 
+8.2 
+Reasons for Contacting RFCS 
+When  answering  the  question:  “why  did  you  contact  the  Rural  Financial  Counselling  Service?” 
+respondents were offered two responses and invited to add their own with an ‘other, please specify’ 
+option. They could choose as many responses as they wished. 
+The two options presented were: ‘Recognised a need for some assistance due to financial hardship’ 
+and ‘Necessity due to drought’, 59.8 per cent of on‐farm respondents indicated the former and 74.4 
+per cent the latter (n = 498). 
+Of  those  42  who  included  an  ‘other’  response,  15,  or  about  one‐third,  indicated  that  they  were 
+seeking assistance with forms, applications etc. One‐eighth mentioned bushfires. The remainder of 
+responses  were  spread  among  a  wide  range  of  reasons  including  succession  planning,  debt  and 
+depression. Rural financial counsellors are precluded from succession planning with clients and also 
+personal counselling however counsellors can make referrals to professional service providers should 
+clients seek assistance on these matters. Those who indicated that they were referred to personal 
+counsellors  for  depression  generally  rated  the  ability  of  the  personal  counsellors  as  ranging  from 
+‘good’  to  ‘excellent’.  One  respondent  was  referred  for  help  with  succession  planning,  used  the 
+service as a referral source once and rated the service as ‘very good’. One was referred to a financial 
+adviser by the RFC, used the service ‘a few times’ and rated it as very good. 
+ 
+8.3 
+Quality of Service, Contact & Consultation 
+A series of questions enabled an analysis of the perceptions of the RFCS and to compare perceptions 
+among States. These questions asked for assessments of RFCS service, including general quality of 
+information,  promptness  of  service,  commitment  to  follow‐up,  knowledge,  options  offered, 
+communication and ability to connect clients to other services. Respondents were asked to rate each 
+item  on  a  five  point  scale  from  poor  through  satisfactory,  good,  very  good  and  excellent.  The 
+distribution of responses across the survey is shown in Tables 29–37. 
+More than half of the on‐farm respondents rated the quality of information provided by the RFCS as 
+excellent (Table 29).
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 34 
+Table 29: Rating of the general quality of information provided to you by the RFCS — on‐farm 
+respondents 
+ 
+Per cent of respondents 
+Poor 
+0.5 
+Satisfactory 
+3.5 
+Good 
+10.9 
+Very good 
+29.6 
+Excellent 
+54.7 
+Not sure 
+0.8 
+Total 
+100.0 
+n 
+395 
+ 
+A  similar  response  was  revealed  from  on‐farm  respondents  in  terms  of  the  RFCS’  promptness  in 
+returning phone calls (Table 30) and attending meetings (Table 31). 
+ 
+Table 30: Rating of the RFCS promptness in returning phone calls — on‐farm respondents 
+ 
+Per cent of respondents 
+Poor 
+1.0 
+Satisfactory 
+3.9 
+Good 
+10.5 
+Very good 
+37.0 
+Excellent 
+47.3 
+Not sure 
+0.3 
+Total 
+100.0 
+n 
+389
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 35 
+Table 31: Rating of the RFCS promptness in attending meetings — on‐farm respondents 
+ 
+Per cent of respondents 
+Poor 
+0.5 
+Satisfactory 
+1.8 
+Good 
+10.1 
+Very good 
+29.4 
+Excellent 
+56.6 
+Not sure 
+1.6 
+Total 
+100.0 
+n 
+385 
+ 
+The RFCS was also found to be highly committed to following up on specific actions arising from 
+meetings, including those undertaken on behalf of the respondent (Table 32). 
+ 
+Table 32: Rating of the commitment of the RFCS to follow up on any actions they undertook to 
+complete on your behalf — on‐farm respondents 
+ 
+Per cent of respondents 
+Poor 
+1.0 
+Satisfactory 
+3.1 
+Good 
+9.1 
+Very good 
+29.1 
+Excellent 
+56.1 
+Not sure 
+1.6 
+Total 
+100.0 
+n 
+385 
+ 
+Meanwhile  RFCS  knowledge  on  issues  affecting  the  on‐farm  respondent’s  enterprises  revealed  a 
+similar rating to previous questions, although there were slightly more respondents who recorded a 
+‘poor’ rating compared to other criteria (Table 33).
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 36 
+Table 33: Rating of the RFCS level of knowledge on the issues affecting your enterprise — on‐farm 
+respondents 
+ 
+Per cent of respondents 
+Poor 
+2.1 
+Satisfactory 
+3.9 
+Good 
+7.7 
+Very good 
+32.5 
+Excellent 
+53.9 
+Not sure 
+0.0 
+Total 
+100.0 
+n 
+388 
+ 
+The ability of the RFCS to develop sound options to help improve the farm situation was also 
+considered. Compared to previous questions, this question revealed the lowest proportion, at 41 per 
+cent, of on‐farm respondents who rated the RFCS as ‘excellent’ (Table 34). 
+ 
+Table 34: Rating of the RFCS ability to develop sound options to help improve your situation — on‐
+farm respondents 
+ 
+ 
+Per cent of respondents 
+Poor 
+2.3 
+Satisfactory 
+5.7 
+Good 
+11.3 
+Very good 
+37.4 
+Excellent 
+41.2 
+Not sure 
+2.1 
+Total 
+100.0 
+n 
+389 
+ 
+The capacity of the RFCS to communicate effectively with the respondent and their family (Table 35) 
+reflected a similar finding to other communication related questions (Table 36 and Table 37) with 
+around 85 per cent of on‐farm respondents rating the service as ‘very good’ or better.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 37 
+Table 35: Rating of the RFCS ability to communicate effectively with you and your family — on‐
+farm respondents 
+ 
+Per cent of respondents 
+Poor 
+1.0 
+Satisfactory 
+3.4 
+Good 
+7.2 
+Very good 
+27.6 
+Excellent 
+60.6 
+Not sure 
+0.3 
+Total 
+100.0 
+n 
+388 
+ 
+Communication with others on their behalf and connecting on‐farm respondents with other advisory 
+services revealed similar rating levels, rating ‘excellent’ at 43 and 39 per cent respectively (Table 36 
+and Table 37). 
+ 
+Table 36: Rating of the RFCS ability to communicate effectively with others they have contacted on 
+your behalf — on‐farm respondents 
+ 
+Per cent of respondents 
+Poor 
+0.5 
+Satisfactory 
+2.3 
+Good 
+5.7 
+Very good 
+27.1 
+Excellent 
+42.8 
+Not applicable 
+17.5 
+Not sure 
+4.1 
+Total 
+100.0 
+n 
+388
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 38 
+Table 37: Rating of the RFCS ability to connect you to other services for advice and support — on‐
+farm respondents 
+ 
+Per cent of respondents 
+Poor 
+2.1 
+Satisfactory 
+3.1 
+Good 
+7.0 
+Very good 
+29.6 
+Excellent 
+38.7 
+Not applicable 
+16.6 
+Not sure 
+2.9 
+Total 
+100.0 
+n 
+385 
+ 
+The  mean  scores  on  each  attribute  assessed  for  each  State  for  on‐farm  clients  can  be  found  in 
+Appendix 2. (‘Not applicable’ and ‘not sure’ responses were excluded from this analysis.) 
+Mean scores are mostly around 4, meaning that on average ratings were generally ‘very good’. In a 
+few instances, scores dropped to just below 4 (between ‘good’ and ‘very good’ but much closer to 
+the latter), but in every case the lower confidence limit exceeded 3.5, or half way between ‘good’ 
+and ‘very good’. 
+The very small number of responses (2) from Western Australia makes findings for that state difficult 
+to compare and comparison among all States problematic. As DAFF has advised, the current RFCS WA 
+service provider has only been operational since 30 June 2008 and the relatively small number of 
+invitations sent out reflects the small client base. 
+Quality of service, rated by the respondents using the above nine items, is on average perceived to 
+be ‘very good’. As with other factors measured, there was very little measurable variation among the 
+States. About half of respondents had been referred to other agencies, and three‐quarters of them 
+indicated satisfaction with the service obtained. 
+Overall the rating of the RFCS to carry out general communication to and on behalf of the on‐farm 
+respondents  is  slightly  higher  than  its  rating  of  knowledge  of  specific  issues  affecting  the 
+respondent’s farm (Table 33), or to develop options for the farm (Table 34). This suggests that the 
+RFCS is an effective communicator, without necessarily always providing all information seen to be 
+most relevant to situation improvement. This is consistent with the RFCS role in referring clients to 
+sources of specific information. 
+The next section focuses on the effects of the RFCS assistance for creating on‐farm adjustment.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 39 
+8.4 
+Effects of the RFCS Assistance 
+Another series of interval‐scale questions/statements was used to assess the degree of change as a 
+result  of  use  of  the  service,  as  perceived  by  respondents.  Under  the  heading  ‘client  outcomes’, 
+respondents were asked to indicate the effects of assistance provided by RFCS on a Likert‐type scale 
+from 1 (strongly disagree with the statement) to 5 (strongly agree). 
+Results for each question are presented in sequence below (Tables 38–46) and comparisons among 
+states are available in Appendix 4 (Tables 70–78). 
+ 
+The questions/statements were put as: 
+As a result of the assistance provided by the RFCS program, you: 
+ 
+Table 38: Are more aware of the financial position of your enterprise — on‐farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+1.9 
+Disagree 
+5.1 
+Neutral 
+30.1 
+Agree 
+46.5 
+Strongly Agree 
+16.4 
+Total 
+100.0 
+n 
+385 
+ 
+Table 39: Are more aware of the importance of cash flow budgets in managing your business — on‐
+farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+2.1 
+Disagree 
+6.6 
+Neutral 
+34.6 
+Agree 
+42.8 
+Strongly Agree 
+13.8 
+Total 
+100.0 
+n 
+376
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 40 
+Table 40: Are more aware of the importance of a farm management plan in managing your 
+enterprise — on‐farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+1.9 
+Disagree 
+5.4 
+Neutral 
+38.2 
+Agree 
+44.4 
+Strongly Agree 
+10.0 
+Total 
+100.0 
+n 
+385 
+ 
+Table 41: Have a strong sense of what you need to do to improve your financial position — on‐farm 
+respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+2.4 
+Disagree 
+4.1 
+Neutral 
+30.6 
+Agree 
+47.7 
+Strongly Agree 
+15.2 
+Total 
+100.0 
+n 
+369 
+ 
+Table 42: Are confident in your own ability to manage the finances of your enterprise — on‐farm 
+respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+2.4 
+Disagree 
+3.2 
+Neutral 
+17.8 
+Agree 
+55.0 
+Strongly Agree 
+21.6 
+Total 
+100.0 
+n 
+371
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 41 
+Table 43: Are now able to prepare a cash flow budget without assistance — on‐farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+3.5 
+Disagree 
+7.9 
+Neutral 
+33.3 
+Agree 
+40.7 
+Strongly Agree 
+14.6 
+Total 
+100.0 
+n 
+369 
+ 
+Table 44: Are making or have made changes in the way you operate that will help improve your 
+long term financial position — on‐farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+2.4 
+Disagree 
+6.2 
+Neutral 
+30.1 
+Agree 
+44.2 
+Strongly Agree 
+17.1 
+Total 
+100.0 
+n 
+369 
+ 
+Table 45: Are now able to develop and revise a farm plan to help manage risks associated with 
+your enterprise — on‐farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+2.4 
+Disagree 
+7.8 
+Neutral 
+35.4 
+Agree 
+43.8 
+Strongly Agree 
+10.5 
+Total 
+100.0 
+n 
+370
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 42 
+Table 46: Generally feel more in control of your circumstances — on‐farm respondents 
+ 
+Per cent of respondents 
+Strongly disagree 
+2.5 
+Disagree 
+5.4 
+Neutral 
+33.5 
+Agree 
+45.8 
+Strongly Agree 
+12.8 
+Total 
+100.0 
+n 
+367 
+ 
+The  mean  scores  on  each  attribute  assessed  for  each  State  for  on‐farm  clients  can  be  found  in 
+Appendix 4 (Tables 70–78). The lower confidence limit does not fall below 3 (the neutral position on 
+the scale) across all variables across all states. This indicates, on average, a consistently positive or 
+neutral, rather than negative, view of the effects of the RFCS. Mean scores appear highest on the 
+‘Are confident in your own ability to manage the finances of your enterprise?’ question. 
+Overall there is little variation among states, though again comparison with Western Australia is not 
+possible. 
+While  this  result  is  positive,  it  is  also  worth  focusing  on  those  respondents  who  gave  neutral  or 
+negative answers and look for explanations for that neutrality or negativity. This is attempted in the 
+section on self‐reliance below. 
+ 
+8.5 
+Changes Attributed to RFCS assistance 
+The questionnaire asked: ‘Have you made any other changes [other than those indicated in the client 
+outcome questions] as a result of involvement with the Rural Financial Counselling Service?’ 32.4 per 
+cent of on‐farm respondents replied yes. 
+This  was  followed  by  ‘Overall,  what  degree  of  the  changes  made  do  you  attribute  to  the  help 
+provided by a rural financial counsellor?’ 
+The response options were: ‘Almost all’, ‘Quite a lot’, ‘About half’, ‘Some’ and ‘Almost none’. Mean 
+scores indicate that around half or a little under half would be the average proportion (Table 47), 
+again with little variation indicated by mean scores on this question among States (Table 55). 
+This suggests that ‘around half” or ‘some’ changes being made by clients could be attributed to RFCS 
+input. 38.4 per cent of clients attribute half or more of the changes they have made to RFCS input.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 43 
+Table 47: Overall what degree of the changes made do you attribute to the help provided by a rural 
+financial counsellor? — on‐farm respondents 
+ 
+Per cent of respondents 
+Almost all 
+4.4 
+Quite a lot 
+19.6 
+About half 
+14.4 
+Some 
+41.7 
+Almost none 
+19.9 
+Total 
+100.0 
+n 
+362 
+ 
+The extent of change attributable to RFCS was further explored with the question: ‘Have there been 
+any positive changes in your circumstances arising from your use of the services of a rural financial 
+counsellor?’  83.4  per  cent  of  on‐farm  respondents  replied  ‘yes’,  there  had  been  positive  changes 
+made as a result of use of RFCS. Again there is little variation among the states. 
+Further, respondents were also asked ‘What degree of the positive changes in your circumstances do 
+you attribute to the help provided by a rural financial counsellor?’; given an ‘almost all’ to ‘almost 
+none’ response scale. Forty per cent of the on‐farm sample said ‘almost all’ or ‘quite a lot’ and only 
+2.6 per cent said none (Table 48). This indicates that a significant role for rural financial counsellors in 
+people’s progress is common, and that having no effect at all is rare. Nevertheless, it is also clear that 
+for  many  people,  the  RFCS  has  not  been  the  main  force  for  change.  Follow  up  surveys  on 
+respondents would provide evidence on what the main forces for change have been. 
+ 
+Table 48: Degree of positive change attributed to help from a rural financial counsellor — on‐farm 
+respondents 
+ 
+Per cent of respondents 
+Almost all 
+8.4 
+Quite a lot 
+32.5 
+About half 
+12.7 
+Some 
+43.8 
+Almost none 
+2.6 
+Total 
+100.0 
+n 
+308 
+ 
+Mean responses fell around 3 on the scale with little variation among states (Table 56): that is, about 
+half, tending to a little less.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 44 
+Of  the  22  respondents  who  considered  their  farms  unviable,  all  attributed  at  least  some  of  their 
+positive changes to rural financial counselling, while nearly all of those reporting their status as viable 
+attributed at least some of their changes to rural financial counselling (Table 49). Again, this may be 
+reflective of the target market for the RFCS program. 
+ 
+Table 49: Degree of positive change attributed to help from a rural financial counsellor — on‐farm 
+respondents 
+ 
+Per cent of those reporting 
+viable farm status 
+Per cent of those reporting 
+unviable farm status 
+Almost all 
+5.3 
+0.0 
+Quite a lot 
+35.1 
+28.6 
+About half 
+14.5 
+7.1 
+Some 
+40.5 
+64.3 
+Almost none 
+4.6 
+0.0 
+Total 
+100.0 
+100.0 
+n 
+131 
+22 
+ 
+In order to assess the degree of self‐reliance among clients, the questionnaire asked: 
+‘The next time I am faced with an event that negatively impacts on my farming enterprise (drought, 
+flood, fires, price crashes etc), I will ... (Table 50). 
+While  a  small  proportion  (14.2  per  cent)  said  they  were  still  reliant  on  RFCS,  three‐quarters  of 
+respondents indicated that, while being confident in their own capacity, they would still seek help 
+from RFCS and only 6.3 per cent indicated that they felt totally independent. A small proportion (3.8 
+per cent) indicated that they would seek help other than from the RFCS. It appears that the RFCS 
+remains important to these clients, while around 85 per cent appear to exhibit some self‐reliance. 
+We know that the very large majority, having used the service, would return to it if they encounter 
+difficulty again. Many clients would apparently return to the service and so might not be considered 
+to have become totally self‐reliant, but we can also conclude that they would anticipate that the 
+service would be helpful and worthwhile using. There may be many possible explanations for this, 
+some of which could be subjective.3 
+ 
+ 
+                                                           
+3 There are limitations to this question and therefore the findings from it. While it has the capacity to detect self‐reliance so some degree, 
+and satisfaction with the service and willingness to use it again if it is needed, we cannot deduce the reasons for people indicating their 
+hypothetical intentions.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 45 
+Table 50: Anticipated future actions in crisis 
+ 
+Per cent of respondents 
+Rely heavily on the assistance of a rural financial counsellor 
+to help me 
+14.2 
+Have a good idea of how to deal with the situation, but 
+may still seek assistance from a rural financial counsellor 
+75.7 
+Manage by myself because I am now well prepared to deal 
+with these issues 
+6.3 
+Seek assistance from professional advisers because I can 
+now afford to do this 
+1.1 
+Seek assistance elsewhere because the rural financial 
+counsellor was of little help to me 
+2.7 
+Total 
+100.0 
+n 
+367 
+ 
+The extent to which the respondents’ self‐assessment of their knowledge and capabilities outlined in 
+Tables  38–46  above  might  be  influenced  by  the  number  of  contacts  they  had  with  the  RFCS  are 
+revealed by correlation coefficients, which indicate the degree of association between frequency of 
+contact  and  clients’  self‐assessment.  That  is,  they  show  how  closely  a  clients’  self‐assessment  is 
+related to how often they have been in touch with the RFCS. 
+It is possible to derive an indicator of assessment across all questions regarding outcomes by adding 
+responses.  This  forms  a  single  variable  in  the  form  of  an  ‘outcomes  scale’  with  strong  reliability 
+(Cronbach’s Alpha = .929). Scores on this item are a little more strongly related to the number of 
+times respondents had contact with rural financial counsellors and the result is statistically significant 
+(Pearson Correlation = .238, significant at .01 level). 
+Considering the relationship between single statement responses and contact, Table 66 in Appendix 
+3 shows that correlations between numbers of contacts and outcomes are present and positive, and 
+could  be  considered  statistically  significant  among  the  on‐farm  respondents.  However,  they  are 
+generally low (Pearson correlation coefficient around .2). This means that while frequency of contact 
+has an effect, it is probably not a strong effect. There may be other, stronger, factors operating which 
+the  survey  was  not  able  to  detect.  We  conclude  that  frequency  of  contact  is  neither  a  strong 
+predictor of indications of knowledge and capabilities, nor a significant factor in client outcomes as 
+measured by these variables. 
+It is possible to examine the characteristics and situations of those respondents who reported least 
+change in the outcomes questions. Seventeen respondents, or 4.7 per cent, scored 20 or less on the 
+outcome scale. That means that they probably disagreed or strongly disagreed with each question 
+asking them for their view of improvement made in their capability. This group of respondents does 
+not differ in terms of age or gender from the rest of the sample. It does, however, differ a little in 
+terms of education level. All respondents who reported that primary or lower was their highest level 
+of education attained scored more than 20 on the outcomes scale. This proportion drops to 97, 96 
+and 93 per cent for those with secondary, technical/trade and tertiary education respectively. There
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 46 
+is some evidence here that those with least education are more likely to feel they gain more from 
+RFCS services. 
+ 
+8.6 
+Referrals 
+A little under half (45.9 per cent) of the on‐farm respondents had been referred to another service 
+for advice or assistance. Of those, three‐quarters rated the RFC’s ability to connect them with other 
+services as either very good or excellent. Only 1.1 per cent (two respondents) rated it as poor. 
+Table 51: Referrals to other services — on‐farm respondents 
+Service 
+Per cent of 
+respondents referred 
+Per cent of 
+respondents who 
+used the service 
+Per cent of users 
+who rated the 
+service as good 
+or better 
+Accountant 
+7.3 
+6.6 
+77 
+Succession planning 
+8.6 
+6.4 
+86 
+Production agronomy 
+8.4 
+7.3 
+89 
+Financial advisor 
+9.9 
+8.1 
+76 
+Farm business advisor 
+6.2 
+5.6 
+81 
+Marketing help 
+2.9 
+0.9 
+60 
+People management 
+1.8 
+0.4 
+100 
+Natural resource 
+management 
+5.4 
+4.9 
+78 
+ 
+ 
+ 
+ 
+ 
+13.9 per cent of respondents mentioned an ‘other’ service, with 8.4 per cent mentioning Centrelink 
+(39 respondents). Among the remainder four respondents were referred to personal counselling and 
+four  to  ‘rural  finance’.  The  others  were  spread  among  a  wide  range  of  services  including  tertiary 
+education and banks.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 47 
+8.7 
+Enterprise Action Plans and Climate Risk 
+The  questionnaire  asked  a  number  of  questions  about  the  Enterprise  Action  Plan,  explaining  that 
+‘The  Enterprise  Action  Plan  is  used  by  the  Rural  Financial  Counselling  Service  to  provide  a  farm 
+business assessment and action plan. It aims to help clients to gain a fuller understanding of their 
+circumstances  by  reviewing  their  current  financial  situation  and  working  through  their  available 
+options.’ 
+DAFF’s factsheet on the Enterprise Action Plan provides the following: 
+What is the Enterprise Action Plan?4 
+The Enterprise Action Plan is a planning tool which may assist primary production 
+enterprises. It is available to Rural Financial Counselling Service clients and delivered 
+by skilled rural financial counsellors. 
+The Enterprise Action Plan provides a farm business assessment and action plan 
+which allows you to: 
+o 
+review your financial position 
+o 
+develop cash flow budgets and projections 
+o 
+analyse the financial and business performance of your farm enterprise 
+o 
+benchmark your farm enterprise against standard farm business financial 
+and operating ratios 
+o 
+develop strategies and options that are appropriate to your farm 
+enterprise’s business structure 
+o 
+plan to manage risk, including climate risk 
+o 
+identify where you might need to obtain professional advice and other 
+government assistance. 
+What is the purpose of the Enterprise Action Plan? 
+The Enterprise Action Plan assists Rural Financial Counselling Service clients to gain 
+an improved understanding of their circumstances by reviewing their current 
+financial situation and working through their available options. 
+What are the benefits of the Enterprise Action Plan? 
+The Enterprise Action Plan is a new focus for the Rural Financial Counselling Service. 
+It is a valuable tool which allows clients to plan, set short and long term strategies 
+and to set timelines for action to improve their financial circumstances. 
+The Enterprise Action Plan can lead to a greater understanding and awareness of 
+future options and can assist clients to plan for and manage drought and climate 
+change. Once your plan is done, the rural financial counsellor will follow up with you 
+to provide you with assistance to progress your plan. 
+It can also identify and facilitate referrals to other services and government 
+programs that might assist the farm enterprise. 
+ 
+                                                           
+4 Text in italicised section incorporated with acknowledgement:  http://www.daff.gov.au/agriculture‐
+food/drought/rfcs/counsellors/enterprise_action_plan_factsheet.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 48 
+The questionnaire asked respondents if they had heard of an Enterprise Action Plan. 34.5 per cent of 
+on‐farm  respondents  said  ‘yes’.  Of  those,  45.2  per  cent,  or  61  respondents,  said  that  they  had 
+undertaken an Enterprise Action Plan. 
+Among those 61 respondents who had undertaken a plan, 23 said that they rate its helpfulness as 
+either ‘very  good’ or ‘excellent’, while only one respondent rated it as ‘poor’. The most  common 
+response was good, at 22 respondents. A majority, 62.5 per cent or 35 respondents said that the plan 
+had contributed to improving their financial position, and three‐quarters (44 respondents) said that it 
+had increased their awareness of farm business and operating ratios. Half said that the Enterprise 
+Action Plan had helped them plan for climate risk. There is no evidence from this survey that having 
+an Enterprise Action Plan has affected levels of self‐reliance, however this may be worth following up 
+further given the Enterprise Action Plan was not fully implemented at the time of this survey. 
+The questionnaire also asked respondents to assess how well the RFCS assisted in managing climate 
+risks. In response to the question: ‘Did you discuss climate risk issues (concerning drought or other 
+problems  posed  by  climate  variability)  with  your  rural  financial  counsellor?’;  53.1  per  cent  of 
+respondents answered ‘Yes’. Almost half (45.6 per cent) rated provision of information about climate 
+risk as very good or excellent and only 3.0 per cent as poor (Table 52). 
+ 
+Table 52: Respondent rating of RFCS provision of information about climate risk 
+ 
+Frequency 
+Percent 
+Valid Percent 
+Cumulative 
+Percent 
+Valid 
+Poor 
+6 
+1.3 
+3.0 
+3.0 
+Satisfactory 
+33 
+7.1 
+16.8 
+19.8 
+Good 
+72 
+15.4 
+36.5 
+56.3 
+Very good 
+67 
+14.3 
+34.0 
+90.4 
+Excellent 
+19 
+4.1 
+9.6 
+100.0 
+Total 
+197 
+42.2 
+100.0 
+ 
+Missing 
+0 
+270 
+57.8 
+ 
+ 
+Total 
+467 
+100.0 
+ 
+ 
+ 
+However,  only  14.2  per  cent  of  those  who  had  discussed  climate  risk  indicated  that  they  had 
+completed an Enterprise Action Plan. As DAFF has advised, the Enterprise Action Plan was introduced 
+in January 2009 and it contains a climate risk section. Only a small percentage of clients would have 
+been  on  the  Climate  Change  Adjustment  Program,  which  also  has  an  action  plan  for  clients  to 
+complete, at the time of the survey. 
+Most (71 per cent or 25 respondents) of those who completed an Enterprise Action Plan reported 
+that  it  had  helped  them  to  prepare  for  climate  and  other  risk.  Only  a  small  proportion  (35 
+respondents of 207 who answered the question) reported that they had a written drought plan, and
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 49 
+29 of those 35 indicated that they had implemented the plan. As advised by DAFF, most of these 
+clients would have been in Exceptional Circumstances at the time. 
+ 
+8.8 
+Self­Reliance 
+As outlined in Section 1.1.2, an important focus of the RFCS Program is to help clients to become 
+more self‐reliant, to effectively manage change and adjustment and be more profitable, competitive 
+and sustainable. 
+Some  explanation  for  variation  in  levels  of  self‐reliance,  as  indicated  by  the  appropriate  ‘client 
+outcomes’ questions (Tables 38–46) may be offered by comparing them with frequency of contact 
+and  responses  to  the  questions  on  levels  of  satisfaction  with  the  services  offered.  It  would  be 
+reasonable to propose that people who had more contact and/or people who are satisfied with the 
+services offered would have also achieved greater self‐reliance. Comparisons among the satisfaction 
+items  are  facilitated  by  firstly  creating  a  variable  by  combining  (counting)  responses  to  the  four 
+questions indicating change (see Tables 38–40 and 46). The resulting score can then be correlated 
+with levels of satisfaction. Before looking at satisfaction, frequency of contact can be considered (see 
+Table  67  in  Appendix  3).  While  the  correlation  between  frequency  of  contact  and  degree  of  self‐
+reliance is weak at .24, it is statistically significant. It can be concluded that frequency of contact has 
+a modest positive effect on degree of self‐reliance, as measured by indicators described above. 
+Further  investigating  the  correlation,  dichotomising  the  self‐reliance  variable  provides  additional 
+scope (Table 68 in Appendix 3) for analysis. By separating those who scored above or equal to the 
+median on the variable from those who scored below the mean, we are able to compare the two 
+groups in terms of association with frequency of contact. That is, we can answer the question: is 
+having more contact associated with greater likelihood of scoring above average in terms of self‐
+reliance? 
+The proportion on or above the median self‐reliance score grows with number of contacts (Table 68). 
+In other words, there appears evidence that self‐reliance does increase with the number of contacts 
+made with the RFCS. 
+Consideration was also given to association between satisfaction with the service and self‐reliance. 
+This  strengthens  the  analysis  of  self‐reliance  by  pointing  towards  features  of  the  service  offered 
+which may lead most strongly toward self‐reliance among clients. This analysis is limited to the range 
+of items about which questions regarding level of satisfaction were asked. 
+When  correlated  with  the  self‐reliance  variable  (not  dichotomised  as  in  Table  68),  some  of  the 
+satisfaction  variables5  have  a  marginally  higher  correlation.  Most  are  reasonably  high,  all  are 
+significant  and  some  lower  (in  Appendix  3),  suggesting  that  ability  to  connect  clients  with  other 
+services, development of sound options and the quality of information provided are more important 
+than  other  factors  considered,  such  as  communication  issues  like  promptness  in  returning  phone 
+calls and commitment to undertake follow‐up action. Noteworthy is the observation that the highest 
+correlation occurs with referral to other services. 
+                                                           
+5 These variables were recoded as necessary to remove the ‘not applicable’ and ‘not sure’ responses.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 50 
+The data suggest that increasing the rate of referral would increase self‐reliance, as indicated by the 
+client  outcomes  questions  about  perceived  change.  However,  the  incidence  of  client  referrals  is 
+revealed to be quite low (Table 51). 
+The most appropriate of those client outcomes questions for application to this issue of referral is 
+that which seeks agreement/disagreement with: ‘Are [you] more aware of the financial position of 
+your enterprise?’. Apart from having great significance to a financial counselling organisation, it is 
+also  reasonable  to  propose  that  greater  awareness  of  financial  position  could  be  associated  with 
+referral to an accountant. Referrals to accountants are measured in the series of questions about 
+referrals. 
+Table 53: Perceived improvement in awareness of financial position and incidence of referral to an 
+accountant 
+Are more aware of the financial position of your enterprise * 
+Were you referred to an accountant? Cross tabulation 
+Were you referred to an accountant? 
+Not sure 
+Yes 
+No 
+Total 
+Are more 
+aware of the 
+financial 
+position of 
+your 
+enterprise 
+Strongly 
+disagree 
+Count 
+0 
+0 
+2 
+2 
+% within ‘Are more aware of the 
+financial position of your enterprise’
+.0% 
+.0% 
+100.0% 
+100.0% 
+% within ‘Were you referred to an 
+accountant?’ 
+.0% 
+.0% 
+1.5% 
+1.2% 
+Disagree 
+Count 
+0 
+0 
+5 
+5 
+% within ‘Are more aware of the 
+financial position of your enterprise’
+.0% 
+.0% 
+100.0% 
+100.0% 
+% within ‘Were you referred to an 
+accountant?’ 
+.0% 
+.0% 
+3.8% 
+2.9% 
+Neutral 
+Count 
+2 
+2 
+41 
+45 
+% within ‘Are more aware of the 
+financial position of your enterprise’
+4.4% 
+4.4% 
+91.1% 
+100.0% 
+% within ‘Were you referred to an 
+accountant?’ 
+33.3% 
+6.5% 
+30.8% 
+26.5% 
+Agree 
+Count 
+3 
+15 
+58 
+76 
+% within ‘Are more aware of the 
+financial position of your enterprise’
+3.9% 
+19.7% 
+76.3% 
+100.0% 
+% within ‘Were you referred to an 
+accountant?’ 
+50.0% 
+48.4% 
+43.6% 
+44.7% 
+Strongly 
+Agree 
+Count 
+1 
+14 
+27 
+42 
+% within ‘Are more aware of the 
+financial position of your enterprise’
+2.4% 
+33.3% 
+64.3% 
+100.0% 
+% within ‘Were you referred to an 
+accountant?’ 
+16.7% 
+45.2% 
+20.3% 
+24.7% 
+Total 
+Count 
+6 
+31 
+133 
+170 
+% within ‘Are more aware of the 
+financial position of your enterprise’
+3.5% 
+18.2% 
+78.2% 100.0% 
+% within ‘Were you referred to an 
+accountant?’ 
+100.0% 
+100.0% 
+100.0% 100.0%
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 51 
+Table 536 considers the respondent perceptions of improved awareness of financial position and the 
+incidence of referral to an accountant. It reveals that of the 52 who were neutral or worse in their 
+assessment  of  ‘are  more  aware  of  the  financial  position  of  your  enterprise?’  only  two  (neutral 
+responses) confirmed that they had been referred to an accountant. With respect to other types of 
+referral,  seven  of  those  52  had  been  referred  to  a  financial  advisor  and  five  to  a  farm  business 
+advisor.  Among  the  118  who  were  positive  about  improvement  in  their  awareness  of  financial 
+position, much higher proportions had been referred: 29 had been referred to an accountant, 36 to a 
+financial advisor and 23 to a farm business advisor. 
+A similar analysis can be applied to the client outcome question which refers to awareness of the 
+importance of farm management planning. It is reasonable to propose that referral to an agronomist 
+would be associated with greater awareness of farm planning. The data provide credence for such a 
+proposition, with three‐quarters of those having been referred to an agronomist agreeing or strongly 
+agreeing with the statement of such increased awareness, and just over half of those who had not 
+been  referred  agreeing  or  strongly  agreeing  with  that  statement.  About  twice  the  proportion  of 
+those who had not been referred were neutral when compared to those who had been referred. The 
+other outcome questions do not lend themselves to analysis of association with referrals. 
+A  qualitative  assessment  by  clients,  where  they  could  indicate  in  an  interview  situation  what  has 
+been  the  most  important  factors  influencing  their  degree  of  self‐reliance,  would  assist  further 
+exploration  of  this  issue.  Alternatively,  or  additionally,  clients  could  complete  pre‐service 
+questionnaires to this effect. 
+ 
+                                                           
+6 Only people who were referred to an agency outside RFCS are counted in this table.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 52 
+9. 
+Conclusions 
+The  research  found  that  the  Rural  Financial  Counselling  Service  plays  a  significant  part  in  the 
+adjustment process and the growth of resilience among farm people. Assessments of the quality of 
+services are generally positive and instances of poor ‘client outcomes’ are rare. While many current 
+clients  indicated  that  they  are  likely  to  call  on  the  RFCS  into  the  future,  it  can  be  claimed  to  be 
+fostering self‐reliance. 
+The  survey’s  objective  was  to  determine  whether  RFCS  providers  are  delivering  a  flexible  and 
+responsive service and meeting the needs of clients, and increasing the capacity of the target client 
+group  to  become  more  self‐reliant.  The  questions  posed  in  the  survey  enable  development  of  a 
+picture of the client base, though limited by being a sample of clients rather than a census. 
+ 
+9.1 
+Awareness of the RFCS and Reasons for Contact 
+Word  of  mouth  and  referral  by  another  professional  were  the  most  frequent  ways  in  which 
+respondents heard about the service. Three‐quarters of on‐farm respondents said that ‘necessity due 
+to drought’ was a reason for contacting RFCS, while 60 per cent said that they had ‘recognised a need 
+due to financial hardship’ and had sought RFCS support as a consequence. Of the 42 (nine per cent) 
+who gave an ‘other’ response to this question, 15 or 36 per cent referred to needing help 'completing 
+forms'. 
+ 
+9.2 
+Satisfaction with Services 
+The findings reveal strong satisfaction with the RFCS. This is most obvious in terms of relevance of 
+information (Table 29), communication (Table 35 and Table 36) and interpersonal relationships such 
+as promptness of returning phone calls, attending meetings and following up on actions (Table 30 
+and Table 31). In terms of providing information regarding options to improve a client situation, the 
+response was similarly positive, yet with a slightly lower number of ‘excellent’ responses (Table 34). 
+The  findings  suggest  that  the  RFCS  has  been  successful  in  developing  a  rapport  with  clients  that 
+contributes  to  generally  positive  financial  counselling  experiences.  However,  the  findings  are 
+constrained  by  the  questions  asked.  It  may  be  worth  undertaking  some  qualitative  research  to 
+confirm the most significant elements, to clients, of a satisfying experience of the service. 
+ 
+9.3 
+Appropriateness of Referrals 
+A little under half (45.9 percent) of on‐farm respondents reported being referred to another service 
+for  advice  or  assistance.  Not  all  respondents  who  were  referred  then  followed  through  with  the 
+referral, however, for those that did most rated the referral service as good or better. Re‐visiting the 
+accountant  analysis  (Table  53),  the  indications  are  that  referrals  improve  the  ability  of  clients  to 
+become more aware of their financial situation and their ability to be self‐reliant. While the analysis 
+of the accountant example could be logically associated with the question on improved awareness of 
+a  client’s  business  or  financial  position,  the  links  between  other  service  providers  and  enterprise
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 53 
+management  are  not  necessarily  so  obvious.  Nevertheless,  the  findings  here  suggest  that  more 
+referrals could have a positive impact on self‐reliance. 
+It is interesting that of the satisfaction criteria mentioned above, the capacity of the rural financial 
+counsellor to develop ‘sound options to help improve your situation’ scored the lowest number, at 
+41 per cent, of ‘excellent’ responses of all satisfaction elements. The extent to which clients rely on 
+professional advisers for this type of support, or expect RFCS to deliver it, would be worthy of further 
+investigation,  especially  as  financial  counsellors  are  expected  to  refer  clients  to  other  sources  for 
+specialist advice. 
+ 
+9.4 
+Changes to Operations 
+There  is  evidence  that  clients  are  making  changes  as  a  result  of  RFCS  assistance.  A  majority  of 
+respondents  answered  either  agree  or  strongly  agree  to  each  of  the  nine  questions  seeking 
+assessment of the degree of change in capability and knowledge made as a result of RFCS assistance. 
+When statistical significance is taken into consideration, it appears likely that the average level of 
+agreement with positive change statements does not fall below the neutral position on the scale, 
+with little measurable variation among the states. 
+The question of whether some groups of clients are more or less receptive to change and adjustment 
+was considered. While the survey cannot attribute action or inaction to level of receptivity to change, 
+the point that 83 per cent of respondents indicated that they had made positive change arising from 
+their use of RFCS services indicates that there are very few clients who might not be receptive to 
+change. Three‐quarters of respondents reported that they had contacted the service due to necessity 
+attributable to drought. In those circumstances, one might suppose, that clients feel a necessity to 
+make changes. 
+The survey evidence suggests that around half of all changes being made by clients are attributable 
+to  RFCS  input.  The  questionnaire  also attempted  to  measure  the  extent  of  positive  change  made 
+which clients attribute to the RFCS. Very few respondents attributed no positive change to the RFCS 
+and over 40 per cent said almost all of the changes made or quite a lot were attributable to the RFCS. 
+This suggests that the RFCS is having a significant impact. 
+ 
+9.5 
+Enterprise Action Plans and Climate Risk 
+While  not  universally  known,  the  early  indications  are  that  the  Enterprise  Action  Plans  are 
+acknowledged as useful by a large majority of those who used them. Around half of respondents had 
+discussed climate risk with a counsellor, and nearly all of them rated the information provided highly. 
+Relatively few had completed a Climate Change Adjustment Program action plan but most of those 
+who had done so rated it highly. 
+Additional research incorporating further qualitative techniques may be warranted to improve the 
+understanding  of  the  value  of  Enterprise  Action  Plans,  including  their  relevance  to  client 
+management of climate risk.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 54 
+9.6 
+Self­Reliance 
+While  period  of  contact  with  RFCS  appears  not  be  significant,  there  is  some  evidence  that  the 
+number of times contact is made is related, though weakly, to the outcomes achieved. Factors other 
+than frequency of contact are likely to be at work, but were not detectable in this survey. A more 
+qualitative approach would help to reveal the range of factors at play. 
+On the question of whether the program is enhancing self‐reliance as opposed to clients continuing 
+to rely on assistance from a rural financial counsellor, the research supports a positive answer. So too 
+does the response to the more hypothetical question: ‘The next time I am faced with an event that 
+negatively impacts on my farming enterprise (drought, flood, fires, price crashes etc), I will .... Given 
+that  three‐quarters  of  on‐farm  respondents  indicated  that  they  felt  they  had  to  find  help  due  to 
+drought but only one‐seventh indicated that they were still reliant on the service, it would seem that 
+the RFCS has at least broadened people’s options. The point that three‐quarters of respondents said 
+they would still use the RFCS if they needed to could be interpreted in two ways: many clients may 
+still  want  to  use  the  service  and  so  are  not  entirely  independent,  but  those  same  clients  would 
+apparently return to the service anticipating, on the basis of experience, that it could help them. 
+ 
+10. 
+Future Research Recommendation 
+As pointed out by Boero Rodrigues et al. (2006), more effective evaluation would be facilitated by 
+collecting data from clients when they first use the RFCS services. The limitations on interpretation of 
+this  survey  discussed  above  reinforce  this  point,  and  the  problems  of  meanings  attached  to  self‐
+reliance. Qualitative exploration of the notions of self‐reliance and sources of satisfaction with the 
+service may assist in this respect at the same time as they build a stronger explanatory model for 
+testing in a future survey. 
+ 
+11. 
+Acknowledgements 
+The research team would particularly like to thank all the RFCS clients who participated in the survey, 
+as  well  as  acknowledge  the  Office  of  Rural  Financial  Counselling  at  DAFF  and  the  RFCS  service 
+providers and other agencies who assisted with the design and execution of the research. 
+ 
+12. 
+References 
+Boero Rodrigues, V., Watson, M. and Mues, C. (2006). National Farmers Survey 2006, ABARE Report 
+to the Rural Policy and Innovation Division, Department of Agriculture, Fisheries and 
+Forestry, Canberra, October.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 55 
+Appendices
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 56 
+Appendix 1: The Questionnaire 
+ 
+RESILIENT RURAL HUMAN SYSTEMS: HOW FINANCIAL COUNSELLING AND OTHER 
+INFORMATION SERVICES SUPPORT PRIMARY INDUSTRIES 
+ 
+Hello  and  welcome  to  this  survey  being  conducted  by  the  Department  of  Agriculture, 
+Fisheries and Forestry (DAFF) and Charles Sturt University (CSU). 
+The  aim  of  the  survey  is  to  obtain  your  views  and  experiences  of  the  Rural  Financial 
+Counselling  Service  (RFCS).  We  are  particularly  keen  to  draw  on  your  knowledge  and 
+experience, either as a client or former client of the RFCS. We would like to know if you are 
+satisfied with this service provided to you under the RFCS Program and any outcomes you 
+achieved as a result of visiting a rural financial counsellor. 
+We would also like to know about your experience in farming or similar industries and where 
+you obtain information and advice. We appreciate your time and effort and thank you in 
+anticipation. We anticipate this survey will take you approximately 20 minutes to complete. 
+Your  participation  in  this  study  is  completely  voluntary,  however  if  you  decide  not  to 
+continue  with  the  survey,  you  can  withdraw  at  any  point.  Your  survey  responses  will  be 
+strictly confidential and survey reports will not identify you as the source of any information. 
+If you have questions at any time while you are completing the survey, you may contact 
+Lauren Forrest by email at the email address below. 
+Thank you very much for your time and support. Please start with the survey now by clicking 
+on the Continue button below. 
+Please note that once you have clicked continue at the bottom of a page, you will not be 
+able to go back and view or change your previous responses without disrupting the survey. 
+However, if for some reason you cannot complete the survey in one sitting, you can exit the 
+survey by clicking on Exit Survey and Continue Later. You will then be asked for your email 
+address. QuestionPro will send you the link to your partly completed survey so that you can 
+complete it.
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 57 
+BACKGROUND INFORMATION 
+To begin, would you please tell us about your farm? 
+1. Are you currently working a farm or other agricultural/horticultural enterprise? 
+a) Yes 
+b) No (Go to question 112) 
+ 
+2. Which category best describes your role in farming? (Please select only one response) 
+a) Farmer 
+b) Farm manager 
+c) Farm family member 
+d) Other (please specify) 
+ 
+3. Is farming your main occupation? 
+a) Yes (Go to question 5) 
+b) No (Go to question 4) 
+ 
+4. What is your main occupation? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Which of the following best describes your main enterprise type? 
+a) Sheep, beef and/or grain 
+b) Dairy farm 
+c) Fishing and/or aquaculture 
+d) Fruit and/or nut tree growing 
+e) Vegetable and/or mushroom 
+f) Other crop 
+g) Other livestock 
+h) Wine and/or beverage 
+i) Small business supporting any of the above 
+ 
+6. Including yourself, how many people did your farming enterprise/business employ 
+during the 2008 calendar year? 
+a) None 
+b) 1‐5 
+c) 6‐10 
+d) More than 10 
+ 
+7. How would you describe the scale/size of your farming enterprise compared to similar 
+businesses in your region? 
+a) Smaller than average 
+b) About average 
+c) Larger than average
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 58 
+8. Which state/territory is your farming enterprise mostly in? 
+a) Qld 
+b) NSW 
+c) Victoria 
+d) Tasmania 
+e) South Australia 
+f) Northern Territory 
+g) Western Australia 
+h) ACT 
+ 
+9. Approximately, how long have you been operating a farm? (Please write the number of 
+years in the space below, excluding your childhood) 
+ 
+ 
+ 
+ 
+ 
+ 
+10. Do you own, lease or share farm your land? (Please select as many responses as are 
+appropriate to your situation, such as if you own part of your property and lease another 
+part) 
+a) Owned by you/your family 
+b) Leased by you/your family 
+c) Share‐farmed by you/your family 
+d) Leased or shared‐farmed to another farmer 
+ 
+11. Approximately, what percentage of your total household income was generated off‐farm 
+in the last financial year? (Please select only one response) 
+a) None 
+b) 1–25 per cent 
+c) 26–50 per cent 
+d) 51–75 per cent 
+e) More than 75 per cent 
+ 
+12. How do you currently see your financial status in farming? Is your farm: 
+a) Viable 
+b) Barely viable 
+c) Unviable 
+d) Not sure 
+e) I no longer farm
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 59 
+13. What is your age? 
+a) Less than 20 
+b) 20–24 
+c) 25–29 
+d) 30–34 
+e) 35–39 
+f) 40–44 
+g) 45–49 
+h) 50–54 
+i) 54–59 
+j) 60–64 
+k) 65–69 
+l) 70–74 
+m) 75–70 
+n) 80–84 
+o) 85 or more 
+ 
+14. Are you male or female? 
+a) Male 
+b) Female 
+ 
+15. What is the highest level of education you have completed? (Please select only one 
+response) 
+a) No formal schooling 
+b) Primary 
+c) Secondary 
+d) Technical/Trade 
+e) Tertiary 
+ 
+WE WOULD LIKE TO ASK SOME QUESTIONS TO CLARIFY YOUR SITUATION WITH REGARD TO THE 
+RURAL FINANCIAL COUNSELLING SERVICE 
+ 
+16. Are you currently a client of the Rural Financial Counselling Service? 
+a) Yes (Go to question 18) 
+b) No (Go to question 17) 
+ 
+17. Were you a client of the Rural Financial Counselling Service at any time in the past five 
+years? 
+a) Yes (Go to question 18) 
+b) No (Go to thank you page) 
+ 
+18. Are you still involved in agriculture, fishing or an associated enterprise? 
+a) Yes (Go to question 20) 
+b) No (Go to question 19) 
+ 
+19. Did you leave your farming enterprise because: 
+a) You wanted to 
+b) You could no longer continue farming
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 60 
+20. How long have you been a client of the Rural Financial Counselling Service? 
+a) Less than one year 
+b) 1–3 years 
+c) 4–6 years 
+d) More than 6 years 
+ 
+21. Approximately how many times have you had contact with a rural financial counsellor 
+during this period? 
+a) 1 time 
+b) 2–5 times 
+c) 6–10 times 
+d) More than 10 times 
+ 
+WE WOULD LIKE TO ASK ABOUT HOW YOU FOUND THE RURAL FINANCIAL COUNSELLING SERVICE 
+22. How did you first hear about the Rural Financial Counselling Service? (Please select only 
+one response)  
+a) RFCS/DAFF website 
+b) RFCS brochure 
+c) Word‐of‐Mouth 
+d) Field day or other service promotion 
+e) Referred by Centrelink 
+f) Referred by another service or professional you received assistance from 
+g) Media 
+h) Other (please specify)  
+ 
+23. Why did you contact the Rural Financial Counselling Service? (Please select as many 
+responses as are appropriate) 
+a) Recognised a need for some assistance due to financial hardship 
+b) Necessity due to drought 
+c) Other (please specify) 
+ 
+24. Were you aware of the Rural Financial Counselling Service before you had a need to 
+access the program? 
+a) Yes 
+b) No 
+ 
+25. Was it relatively easy to get in touch with a Rural Financial Counselling Service? 
+a) Yes 
+b) No 
+ 
+26. For you most recent consultation, how long did you have to wait to receive service? 
+a) Less than 1 week 
+b) Between 1 and 2 weeks 
+c) Between 2 and 4 weeks 
+d) More than 4 weeks 
+e) Can't remember
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 61 
+CLIENT SATISFACTION WITH THE RURAL FINANCIAL COUNSELLING SERVICE 
+ 
+We would like to know whether clients and former clients are satisfied with the outcomes of the 
+Rural Financial Counselling Service Program and the way it was delivered. 
+ 
+How would you rate the RFCS in relation to: 
+ 
+ 
+Poor 
+Satisfactory Good
+Very 
+Good 
+Excellent Not Sure
+27. The general quality of information 
+provided to you by the RFCS 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+28. Promptness in returning phone calls
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+29. Promptness in attending meetings  
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+30. The commitment of the RFCS to 
+follow up on any actions they 
+undertook to complete on your 
+behalf 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+31. Their level of knowledge on the 
+issues affecting your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+32. Their ability to develop sound 
+options to help improve your 
+situation 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+33. Their ability to communicate 
+effectively with you and your family
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+ 
+How would you rate the RFCS in relation to: 
+ 
+ 
+Poor Satisfactory Good
+Very 
+Good 
+Excellent 
+Not 
+Applicable
+Not 
+Sure
+34. Their ability to communicate 
+effectively with others they 
+have contacted on your behalf 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+35. Their ability to connect you to 
+other services for advice and 
+support 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 62 
+The Enterprise Action Plan is used by the Rural Financial Counselling Service to provide a 
+farm business assessment and action plan. It aims to help clients to gain a fuller 
+understanding of their circumstances by reviewing their current financial situation and 
+working through their available options.  
+ 
+36. Have you heard of an Enterprise Action Plan? 
+a) Yes (Go to question 37) 
+b) No (Go to question 42) 
+ 
+37. Did you undertake an Enterprise Action Plan? 
+a) Yes (Go to question 38) 
+b) No (Go to question 42) 
+ 
+38. How would you rate the helpfulness of the Enterprise Action Plan in your situation? 
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very Good 
+e) Excellent 
+ 
+39. Has the Enterprise Action Plan contributed to improving your financial position? 
+a) Yes 
+b) No 
+ 
+40. Has the Enterprise Action Plan increased your awareness of farm business financial and 
+operating ratios? 
+a) Yes 
+b) No 
+ 
+41. Did the Enterprise Action Plan help you plan for climate risk? 
+a) Yes 
+b) No 
+ 
+We would also like to ask you about how the Rural Financial Counselling Service referred 
+you to other services for advice or help. 
+ 
+42. Were you referred to any other services? 
+a) Yes (Go to question 43) 
+b) No (Go to question 90) 
+ 
+43. Overall, how do you rate the Rural Financial Counselling Services ability to connect you 
+to other services and support? 
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very Good 
+e) Excellent
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 63 
+44. Were you referred to an accountant? 
+a) Yes (Go to question 45) 
+b) No (Go to question 49) 
+c) Not sure (Go to question 49) 
+ 
+45. Did you access the accountant? 
+a) Yes (Go to question 46) 
+b) No (Go to question 48) 
+ 
+46. How often did you use the accountant? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+47. How do you rate the help provided by the accountant?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 49) 
+ 
+48. Was the main reason why you didn’t go to the accountant because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with a referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+49. Were you referred to someone to help you with succession planning? 
+a) Yes (Go to question 50) 
+b) No (Go to question 54) 
+c) Not sure (Go to question 54) 
+ 
+50. Did you access this person? 
+a) Yes (Go to question 51) 
+b) No (Go to question 53) 
+ 
+51. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 64 
+52. How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 54) 
+ 
+53. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+54. Were you referred to someone to help you with production/agronomy? 
+a) Yes (Go to question 55) 
+b) No (Go to question 59) 
+c) Not sure (Go to question 59) 
+ 
+55. Did you access this person? 
+a) Yes (Go to question 56) 
+b) No (Go to question 58) 
+ 
+56. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+57. How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 59) 
+ 
+58. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 65 
+59. Were you referred to a financial adviser? 
+a) Yes (Go to question 60) 
+b) No (Go to question 64) 
+c) Not sure (Go to question 64) 
+ 
+60. Did you access this person? 
+a) Yes (Go to question 61) 
+b) No (Go to question 63) 
+ 
+61. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+62. How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 64) 
+ 
+63. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+64. Were you referred to a farm/business adviser? 
+a) Yes (Go to question 65) 
+b) No (Go to question 69) 
+c) Not sure (Go to question 69) 
+ 
+65. Did you access this person? 
+a) Yes (Go to question 66) 
+b) No (Go to question 68) 
+ 
+66. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 66 
+67. How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 69) 
+ 
+68. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+69. Were you referred to someone to help you with marketing? 
+a) Yes (Go to question 70) 
+b) No (Go to question 74) 
+c) Not sure (Go to question 74) 
+ 
+70. Did you access this person? 
+a) Yes (Go to question 71) 
+b) No (Go to question 73) 
+ 
+71. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+72. How do you rate the help provided by this person?  
+a) Poor  
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 74) 
+ 
+73. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 67 
+74. Were you referred to someone to help you with people management? 
+a) Yes (Go to question 75) 
+b) No (Go to question 79) 
+c) Not sure (Go to question 79) 
+ 
+75. Did you access this person? 
+a) Yes (Go to question 76) 
+b) No (Go to question 78) 
+ 
+76. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+77. How do you rate the help provided by this person?  
+a) Poor  
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 79) 
+ 
+78. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+79. Were you referred to someone to help you with natural resource management/the 
+environment? 
+a) Yes (Go to question 80) 
+b) No (Go to question 84) 
+c) Not sure (Go to question 84) 
+ 
+80. Did you access this person? 
+a) Yes (Go to question 81) 
+b) No (Go to question 83) 
+ 
+81. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 68 
+82. How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 84) 
+ 
+83. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+84. Were you referred to anyone else? 
+a) Yes (Go to question 85) 
+b) No (Go to question 90) 
+c) Not sure (Go to question 90) 
+ 
+85. Please specify the type of professional service that person provided. (Please type your 
+response in the space below) 
+ 
+ 
+ 
+ 
+ 
+ 
+86. Did you access this person? 
+a) Yes (Go to question 87) 
+b) No (Go to question 89) 
+ 
+87. How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+88. How do you rate the help provided by this person?   
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 90)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 69 
+89. Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+CLIMATE RISK MANAGEMENT 
+We would like to know how well the Rural Financial Counselling Service assisted you in managing 
+climate risks. Would you please answer the following questions. 
+ 
+90. Did you discuss climate risk issues (concerning drought or other problems posed by 
+climate variability) with your rural financial counsellor? 
+a) Yes (Go to question 91) 
+b) No (Go to question 92) 
+ 
+91. How would you rate the rural financial counsellor’s provision of information to you about 
+climate risk? 
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+Under the Australian Governments Climate Change Adjustment Program, clients complete 
+an action plan with their rural financial counsellor outlining the aims and steps required to 
+manage the impacts of climate change and improve the farms long term prospects. 
+ 
+92. Have you undertaken a Climate Change Adjustment Program with a rural financial 
+counsellor? 
+a) Yes (Go to question 93) 
+b) No (Go to question 94) 
+ 
+93. Did the Climate Change Adjustment Plan assist you to prepare for climate and other risk? 
+a) Yes 
+b) No 
+ 
+94. Do you have a written drought plan? 
+a) Yes (Go to question 95) 
+b) No (Go to question 96) 
+ 
+95. Have you implemented this written drought plan? 
+a) Yes 
+b) No
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 70 
+CLIENT OUTCOMES 
+The following questions require you to provide a ranking on the effects of assistance provided by 
+the Rural Financial Counselling Service (RFCS) on your business. 
+ 
+As a result of the assistance provided by the RFCS program, you: 
+ 
+ 
+Strongly 
+disagree 
+Disagree
+Neutral 
+Agree 
+Strongly 
+Agree 
+96. Are more aware of the financial position 
+of your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+97. Are more aware of the importance of 
+cash flow budgets in managing your 
+business 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+98. Are more aware of the importance of a 
+farm management plan in managing 
+your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+99. Have a strong sense of what you need to 
+do to improve your financial position 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+100. 
+Are confident in your own ability to 
+manage the finances of your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+101. 
+Are now able to prepare a cash flow 
+budget without assistance 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+102. 
+Are making, or have made, changes 
+in the way you operate that will help 
+improve your long term financial 
+position 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+103. 
+Are now able to develop and revise 
+a farm plan to help manage risks 
+associated with your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+104. 
+Generally feel more in control of 
+your circumstances 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+ 
+105. 
+Have you made any other changes as a result of involvement with the Rural Financial 
+Counselling Service? 
+a) Yes 
+b) No 
+ 
+106. 
+Overall, what degree of the changes made do you attribute to the help provided by a 
+rural financial counsellor? 
+a) Almost all 
+b) Quite a lot 
+c) About half 
+d) Some 
+e) Almost none
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 71 
+107. 
+Have there been any positive changes in your circumstances arising from your use of 
+the services of a rural financial counsellor? 
+a) Yes (Go to question 108) 
+b) No (Go to question 109) 
+ 
+108. 
+What degree of the positive changes in your circumstances do you attribute to the 
+help provided by a rural financial counsellor? 
+a) Almost all 
+b) Quite a lot 
+c) About half 
+d) Some 
+e) Almost none 
+ 
+109. 
+The next time I am faced with an event that negatively impacts on my farming 
+enterprise (drought, flood, fires, price crashes etc), I will: 
+a) Rely heavily on the assistance of a rural financial counsellor to help me 
+b) Have a good idea of how to deal with the situation, but may still seek assistance from 
+a rural financial counsellor 
+c) Manage by myself because I am now well prepared to deal with these issues 
+d) Seek assistance from professional advisers because I can now afford to do this 
+e) Seek assistance elsewhere because the rural financial counsellor was of little help to 
+me 
+ 
+110. 
+Has your involvement with the Rural Financial Counselling Service led you to seek 
+professional advice or assistance from others on aspects of your business beyond those 
+they referred you to? 
+a) Yes (Go to question 111) 
+b) No  
+ 
+111. 
+In which areas? (You can select more than one response) 
+a) Succession planning 
+b) Production management 
+c) Marketing 
+d) Natural resource management/the environment 
+e) Risk management 
+f) Other (please specify) 
+ 
+(Go to thank you page) 
+ 
+ 
+Survey ends for ‘On‐Farm’ respondents
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 72 
+‘Off‐Farm’ Sequence of Questions 
+ 
+112. 
+Which category best describes your role in farming before you left the farm? 
+a) Farmer 
+b) Farm manager 
+c) Farm family member 
+d) Other (please specify) 
+ 
+113. 
+Was farming your main occupation? 
+a) Yes (Go to question 115) 
+b) No  
+ 
+114. 
+What was your main occupation while you were on the farm? (Please type your 
+response in the space below) 
+ 
+ 
+ 
+ 
+ 
+ 
+115. 
+What is your main occupation now? (Please type your response in the space below) 
+ 
+ 
+ 
+ 
+ 
+ 
+116. 
+Thinking of the farm you have left, which of the following best describes your former 
+enterprise type? (Please select the most appropriate response) 
+a) Sheep, beef and/or grain 
+b) Dairy farm 
+c) Fishing and/or aquaculture 
+d) Fruit and/or nut tree growing 
+e) Vegetable and/or mushroom 
+f) Other crop 
+g) Other livestock 
+h) Wine and/or beverage 
+i) Small business supporting any of the above 
+ 
+117. 
+Including yourself, how many people did your farming enterprise/business employ 
+during its last calendar year of operation? 
+a) None 
+b) 1–5 
+c) 6–10 
+d) More than 10
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 73 
+118. 
+How would you describe the scale/size of your former enterprise compared to similar 
+businesses in your region? 
+a) Smaller than average 
+b) About average 
+c) Larger than average 
+ 
+119. 
+What state/territory was your farming enterprise mostly in? 
+a) Qld 
+b) NSW 
+c) Victoria 
+d) Tasmania 
+e) South Australia 
+f) Northern Territory 
+g) Western Australia 
+h) ACT 
+ 
+120. 
+Approximately, for how long did you operate a farm? (Please type the number of 
+years in the space below, excluding your childhood) 
+ 
+ 
+ 
+ 
+ 
+ 
+121. 
+Did you own, lease or share farm your land? (Please select as many responses as are 
+appropriate) 
+a) Owned by you/your family 
+b) Leased by you/your family 
+c) Share‐farmed by you/your family 
+d) Leased or shared‐farmed to another farmer 
+ 
+122. 
+For the last financial year you were operating the farm, approximately, what 
+percentage of your total household income was generated off‐farm? 
+a) None 
+b) 1–25 per cent 
+c) 26–50 per cent 
+d) 51–75 per cent 
+e) More than 75 per cent 
+ 
+123. 
+How did you see your financial status in farming during your last year of operation? 
+Was your farm: 
+a) Viable 
+b) Barely viable 
+c) Unviable 
+d) Not sure
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 74 
+124. 
+What is your age? 
+a) Less than 20 
+b) 20–24 
+c) 25–29 
+d) 30–34 
+e) 35–39 
+f) 40–44 
+g) 45–49 
+h) 50–54 
+i) 54–59 
+j) 60–64 
+k) 65–69 
+l) 70–74 
+m) 75–70 
+n) 80–84 
+o) 85 or more 
+ 
+125. 
+Are you male or female? 
+a) Male 
+b) Female 
+ 
+126. 
+What is the highest level of education you have completed? (Please select only one 
+response) 
+a) No formal schooling 
+b) Primary 
+c) Secondary 
+d) Technical/Trade 
+e) Tertiary 
+ 
+WE WOULD LIKE TO ASK SOME QUESTIONS TO CLARIFY YOUR SITUATION WITH REGARD 
+TO THE RURAL FINANCIAL COUNSELLING SERVICE 
+ 
+127. 
+Are you currently a client of the Rural Financial Counselling Service? 
+a) Yes (Go to question 129) 
+b) No (Go to question 130) 
+ 
+128. 
+Were you a client of the Rural Financial Counselling Service at any time in the past 
+five years? 
+a) Yes (Go to question 129) 
+b) No (Go to thank you page) 
+ 
+129. 
+Are you still involved in agriculture, fishing or an associated enterprise? 
+a) Yes (Go to question 131) 
+b) No (Go to question 130) 
+ 
+130. 
+Did you leave your enterprise because: 
+a) You wanted to 
+b) You could no longer continue farming
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 75 
+131. 
+How long have you been a client of the Rural Financial Counselling Service? 
+a) Less than one year 
+b) 1–3 years 
+c) 4–6 years 
+d) More than 6 years 
+ 
+132. 
+Approximately how many times have you had contact with a rural financial 
+counsellor during this period?  
+a) 1 time 
+b) 2–5 times 
+c) 6–10 times 
+d) More than 10 times 
+ 
+WE WOULD LIKE TO ASK ABOUT HOW YOU FOUND THE RURAL FINANCIAL COUNSELLING SERVICE 
+ 
+133. 
+How did you first hear about the Rural Financial Counselling Service? (Please select 
+only one response) 
+a) RFCS/DAFF website 
+b) RFCS brochure 
+c) Word‐of‐Mouth 
+d) Field day or other service promotion 
+e) Referred by Centrelink 
+f) Referred by another service or professional you received assistance from 
+g) Media 
+h) Other (please specify) 
+ 
+134. 
+Why did you contact the Rural Financial Counselling Service? (Please select as many 
+responses as are appropriate) 
+a) Recognised a need for some assistance due to financial hardship 
+b) Necessity due to drought 
+c) Other (please specify) 
+ 
+135. 
+Were you aware of the Rural Financial Counselling Service before you had a need to 
+access the program? 
+a) Yes 
+b) No 
+ 
+136. 
+Was it relatively easy to get in touch with a Rural Financial Counselling Service? 
+a) Yes 
+b) No 
+ 
+137. 
+For you most recent consultation, how long did you have to wait to receive service? 
+a) Less than 1 week 
+b) Between 1 and 2 weeks 
+c) Between 2 and 4 weeks 
+d) More than 4 weeks 
+e) Can't remember
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 76 
+CLIENT SATISFACTION WITH THE RURAL FINANCIAL COUNSELLING SERVICE 
+We would like to know whether clients and former clients are satisfied with the outcomes of the 
+Rural Financial Counselling Service Program and the way it was delivered.  
+ 
+How would you rate the RFCS in relation to: 
+ 
+ 
+Poor 
+Satisfactory Good
+Very 
+good 
+Excellent Not Sure
+138. 
+The general quality of 
+information provided to you by the 
+RFCS 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+139. 
+Promptness in returning phone 
+calls 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+140. 
+Promptness in attending 
+meetings 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+141. 
+The commitment of the RFCS to 
+follow up on any actions they 
+undertook to complete on your 
+behalf 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+142. 
+Their level of knowledge on the 
+issues affecting your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+143. 
+Their ability to develop sound 
+options to help improve your 
+situation 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+144. 
+Their ability to communicate 
+effectively with you and your family
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+ 
+How would you rate the RFCS in relation to: 
+ 
+ 
+Poor Satisfactory Good Very 
+Good
+Excellent 
+Not 
+Applicable
+Not Sure
+145. 
+Their ability to communicate 
+effectively with others they have 
+contacted on your behalf 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+146. 
+Their ability to connect you to 
+other services for advice and 
+support 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+❏
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 77 
+The Enterprise Action Plan is used by the Rural Financial Counselling Service to provide a 
+farm business assessment and action plan. It aims to help clients to gain a fuller 
+understanding of their circumstances by reviewing their current financial situation and 
+working through their available options. 
+ 
+147. 
+Have you heard of an Enterprise Action Plan? 
+a) Yes (Go to question 148) 
+b) No (Go to question 153) 
+ 
+148. 
+Did you undertake an Enterprise Action Plan? 
+a) Yes (Go to question 149) 
+b) No (Go to question 153) 
+ 
+149. 
+How would you rate the helpfulness of the Enterprise Action Plan in your situation? 
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very Good 
+e) Excellent 
+ 
+150. 
+Has the Enterprise Action Plan contributed to improving your financial position? 
+a) Yes 
+b) No 
+ 
+151. 
+Has the Enterprise Action Plan increased your awareness of farm business financial 
+and operating ratios? 
+a) Yes 
+b) No 
+ 
+152. 
+Did the Enterprise Action Plan help you plan for climate risk? 
+a) Yes 
+b) No 
+ 
+We would also like to ask you about how the Rural Financial Counselling Service referred 
+you to other services for advice or help. 
+ 
+153. 
+Were you referred to any other services? 
+a) Yes (Go to question 154) 
+b) No (Go to question 201) 
+ 
+154. 
+Overall, how do you rate the Rural Financial Counselling Services ability to connect 
+you to other services and support? 
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very Good 
+e) Excellent
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 78 
+155. 
+Were you referred to an accountant? 
+a) Yes (Go to question 156) 
+b) No (Go to question 160) 
+c) Not sure (Go to question 160) 
+ 
+156. 
+Did you access the accountant? 
+a) Yes (Go to question 157) 
+b) No (Go to question 159) 
+ 
+157. 
+How often did you use the accountant? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+158. 
+How do you rate the help provided by the accountant?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 160) 
+ 
+159. 
+Was the main reason why you didn’t go to the accountant because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with a referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+160. 
+Were you referred to someone to help you with succession planning? 
+a) Yes (Go to question 161) 
+b) No (Go to question 165) 
+c) Not sure (Go to question 165) 
+ 
+161. 
+Did you access this person? 
+a) Yes (Go to question 162) 
+b) No (Go to question 164) 
+ 
+162. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 79 
+163. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 165) 
+ 
+164. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+165. 
+Were you referred to someone to help you with production/agronomy? 
+a) Yes (Go to question 166) 
+b) No (Go to question 170) 
+c) Not sure (Go to question 170) 
+ 
+166. 
+Did you access this person? 
+a) Yes (Go to question 167) 
+b) No (Go to question 169) 
+ 
+167. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+168. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 170) 
+ 
+169. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 80 
+170. 
+Were you referred to a financial adviser? 
+a) Yes (Go to question 171) 
+b) No (Go to question 175) 
+c) Not sure (Go to question 175) 
+171. 
+Did you access this person? 
+a) Yes (Go to question 172) 
+b) No (Go to question 174) 
+ 
+172. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+173. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 175) 
+ 
+174. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+175. 
+Were you referred to a farm/business adviser? 
+a) Yes (Go to question 176) 
+b) No (Go to question 180) 
+c) Not sure (Go to question 180) 
+ 
+176. 
+Did you access this person? 
+a) Yes (Go to question 177) 
+b) No (Go to question 179) 
+ 
+177. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 81 
+178. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 180) 
+ 
+179. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+180. 
+Were you referred to someone to help you with marketing? 
+a) Yes (Go to question 181) 
+b) No (Go to question 185) 
+c) Not sure (Go to question 185) 
+ 
+181. 
+Did you access this person? 
+a) Yes (Go to question 182) 
+b) No (Go to question 184) 
+ 
+182. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+183. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 185) 
+ 
+184. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 82 
+185. 
+Were you referred to someone to help you with people management? 
+a) Yes (Go to question 186) 
+b) No (Go to question 190) 
+c) Not sure (Go to question 190) 
+ 
+186. 
+Did you access this person? 
+a) Yes (Go to question 187) 
+b) No (Go to question 189) 
+ 
+187. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+188. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 190) 
+ 
+189. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+190. 
+Were you referred to someone to help you with natural resource management/the 
+environment? 
+a) Yes (Go to question 191) 
+b) No (Go to question 195) 
+c) Not sure (Go to question 195) 
+ 
+191. 
+Did you access this person? 
+a) Yes (Go to question 192) 
+b) No (Go to question 194) 
+ 
+192. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 83 
+193. 
+How do you rate the help provided by this person?   
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 195) 
+ 
+194. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify) 
+ 
+195. 
+Were you referred to anyone else? 
+a) Yes (Go to question 196) 
+b) No (Go to question 201) 
+c) Not sure (Go to question 201) 
+ 
+196. 
+Please specify the type of professional service that person provided. (Please type 
+your response in the space below) 
+ 
+ 
+ 
+ 
+ 
+ 
+197. 
+Did you access this person? 
+a) Yes (Go to question 198) 
+b) No (Go to question 200) 
+ 
+198. 
+How often did you use this person? 
+a) Many times 
+b) A few times 
+c) Only once 
+ 
+199. 
+How do you rate the help provided by this person?  
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+(Go to question 201)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 84 
+200. 
+Was the main reason you didn’t go and see this person because you: 
+a) Couldn’t afford to 
+b) Didn’t consider the referral relevant 
+c) Had too far to travel 
+d) Had a previous bad experience with referral agency 
+e) Didn’t get around to it 
+f) Other reason (please specify)  
+ 
+ 
+CLIMATE RISK MANAGEMENT 
+We would like to know how well the Rural Financial Counselling Service assisted you in managing 
+climate risks. Would you please answer the following questions. 
+ 
+201. 
+Did you discuss climate risk issues (concerning drought or other problems posed by 
+climate variability) with your rural financial counsellor? 
+a) Yes (Go to question 202) 
+b) No (Go to question 203) 
+ 
+202. 
+How would you rate the rural financial counsellor’s provision of information to you 
+about climate risk? 
+a) Poor 
+b) Satisfactory 
+c) Good 
+d) Very good 
+e) Excellent 
+ 
+Under the Australian Governments Climate Change Adjustment Program, clients complete 
+an action plan with their rural financial counsellor outlining the aims and steps required to 
+manage the impacts of climate change and improve the farms long term prospects. 
+ 
+203. 
+Have you undertaken a Climate Change Adjustment Program with a rural financial 
+counsellor? 
+a) Yes (Go to question 204) 
+b) No (Go to question 205) 
+ 
+204. 
+Did the Climate Change Adjustment Plan assist you to prepare for climate and other 
+risk? 
+a) Yes 
+b) No 
+ 
+205. 
+Do you have a written drought plan? 
+a) Yes (Go to question 206) 
+b) No (Go to question 207) 
+ 
+206. 
+Have you implemented this written drought plan? 
+a) Yes 
+b) No
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 85 
+ 
+CLIENT OUTCOMES 
+The following questions require you to provide a ranking on the effects of assistance provided by 
+the Rural Financial Counselling Service (RFCS) on your business. 
+ 
+As a result of the assistance provided by the RFCS program, you: 
+ 
+ 
+Strongly 
+disagree 
+Disagree
+Neutral 
+Agree 
+Strongly 
+Agree 
+207. 
+Became more aware of the financial 
+position of your former enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+208. 
+Became more aware of the 
+importance of cash flow budgets in 
+managing your business 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+209. 
+Became more aware of the 
+importance of a farm management plan 
+in managing your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+210. 
+Developed a strong sense of what 
+you need to do to improve your 
+financial position 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+211. 
+Became confident in your own 
+ability to manage the finances of your 
+enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+212. 
+Became able to prepare a cash flow 
+budget without assistance 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+213. 
+Made changes in the way you 
+operate that will help improve your long 
+term financial position 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+214. 
+Became able to develop and revise a 
+farm plan to help manage risks 
+associated with your enterprise 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+215. 
+Generally feel more in control of 
+your circumstances 
+❏ 
+❏ 
+❏ 
+❏ 
+❏ 
+ 
+216. 
+Have you made any other changes as a result of involvement with the Rural Financial 
+Counselling Service? 
+a) Yes (Go to question 217) 
+b) No (Go to question 218) 
+ 
+217. 
+Overall, what degree of the changes made do you attribute to the help provided by a 
+rural financial counsellor? 
+a) Almost all 
+b) Quite a lot 
+c) About half 
+d) Some 
+e) Almost none
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 86 
+ 
+218. 
+Have there been any positive changes in your circumstances arising from your use of 
+the services of a rural financial counsellor? 
+a) Yes (Go to question 219) 
+b) No (Go to question 220) 
+ 
+219. 
+What degree of the positive changes in your circumstances do you attribute to the 
+help provided by a rural financial counsellor?  
+a) Almost all 
+b) Quite a lot 
+c) About half 
+d) Some 
+e) Almost none 
+ 
+220. 
+Has your involvement with the Rural Financial Counselling Service led you to seek 
+professional advice or assistance from others on aspects of your business beyond those 
+they referred you to? 
+a) Yes (Go to question 221) 
+c) No (Go to thank you page) 
+ 
+221. 
+In which areas? (Please select as many responses as are appropriate) 
+a) Succession planning 
+b) Production management 
+c) Marketing  
+d) Natural resource management/the environment 
+e) Risk management 
+f) Other (please specify) 
+ 
+(Go to thank you page)
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 87 
+Appendix 2: Contact and Consultation: Mean Scores by state 
+ 
+Table 54: Length of client engagement — by state 
+ 
+N 
+Mean 
+Std. 
+Deviation
+Std. 
+Error 
+95% Confidence Interval for 
+Mean 
+Lower Bound 
+Upper Bound 
+How long 
+have you 
+been a client 
+of the Rural 
+Financial 
+Counselling 
+Service 
+Qld 
+22 
+2.09 
+1.151 
+.245 
+1.58 
+2.60 
+NSW 
+136 
+2.38 
+1.089 
+.093 
+2.20 
+2.57 
+Victoria 
+160 
+1.93 
+.821 
+.065 
+1.80 
+2.05 
+Tasmania 
+23 
+2.09 
+.733 
+.153 
+1.77 
+2.40 
+South Australia 
+50 
+1.88 
+.799 
+.113 
+1.65 
+2.11 
+Western Australia 
+2 
+2.00 
+1.414 
+1.000 
+-10.71 
+14.71 
+Total 
+393 
+2.10 
+.956 
+.048 
+2.00 
+2.19 
+ 
+ 
+Table 55: Degree of changes attributed to RFCS assistance — by state 
+ 
+N 
+Mean 
+Std. 
+Deviation Std. Error
+95% Confidence Interval 
+for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Overall what 
+degree of the 
+changes 
+made do you 
+attribute to 
+the help 
+provided by a 
+rural financial 
+counsellor 
+Qld 
+21 
+3.62 
+1.024 
+.223 
+3.15 
+4.08 
+NSW 
+128 
+3.45 
+1.121 
+.099 
+3.25 
+3.64 
+Victoria 
+141 
+3.55 
+1.137 
+.096 
+3.36 
+3.74 
+Tasmania 
+19 
+3.26 
+.991 
+.227 
+2.79 
+3.74 
+South Australia 
+46 
+3.76 
+1.286 
+.190 
+3.38 
+4.14 
+Western Australia 
+2 
+3.50 
+2.121 
+1.500 
+-15.56 
+22.56 
+Total 
+357 
+3.53 
+1.140 
+.060 
+3.41 
+3.65
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 88 
+Table 56: Degree of positive changes attributed to RFCS assistance — by state 
+ 
+N 
+Mean 
+Std. 
+Deviation
+Std. 
+Error 
+95% Confidence Interval for 
+Mean 
+Lower Bound Upper Bound
+What degree 
+of the positive 
+changes in 
+your 
+circumstance
+s do you 
+attribute to 
+the help 
+provided by a 
+rural financial 
+counsellor 
+Qld 
+17 
+2.94 
+.966 
+.234 
+2.44 
+3.44 
+NSW 
+113 
+3.08 
+1.087 
+.102 
+2.88 
+3.28 
+Victoria 
+122 
+2.91 
+1.113 
+.101 
+2.71 
+3.11 
+Tasmania 
+17 
+2.65 
+1.222 
+.296 
+2.02 
+3.28 
+South Australia 
+35 
+3.17 
+1.098 
+.186 
+2.79 
+3.55 
+Western Australia 
+1 
+4.00 
+. 
+. 
+. 
+. 
+Total 
+305 
+2.99 
+1.100 
+.063 
+2.87 
+3.12 
+ 
+Table 57: General quality of information provided to you by the RFCS — by state 
+Quality assessed 
+N 
+Mean 
+Std. 
+Dev. 
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+The general 
+quality of 
+information 
+provided to you 
+by the RFCS. 
+Qld 
+21 
+4.1429 
+.79282 
+.17301 
+3.7820 
+4.5037 
+NSW 
+131 
+4.3511 
+.87639 
+.07657 
+4.1997 
+4.5026 
+Victoria 
+156 
+4.4487 
+.73874 
+.05915 
+4.3319 
+4.5656 
+Tasmania 
+23 
+4.4783 
+1.03877
+.21660 
+4.0291 
+4.9275 
+South Australia 
+49 
+4.1633 
+.87433 
+.12490 
+3.9121 
+4.4144 
+Western Australia 
+2 
+2.5000 
+2.12132
+1.50000
+-16.5593 
+21.5593 
+Total 
+382 
+4.3534 
+.84693 
+.04333 
+4.2682 
+4.4386
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 89 
+Table 58: RFCS promptness in returning phone calls — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Promptness in 
+returning phone 
+calls. 
+Qld 
+21 
+4.1905 
+.67964 
+.14831 
+3.8811 
+4.4998 
+NSW 
+131 
+4.2519 
+.94741 
+.08278 
+4.0881 
+4.4157 
+Victoria 
+156 
+4.2949 
+.76384 
+.06116 
+4.1741 
+4.4157 
+Tasmania 
+24 
+4.2917 
+.95458 
+.19485 
+3.8886 
+4.6948 
+South Australia 
+49 
+4.3469 
+.85516 
+.12217 
+4.1013 
+4.5926 
+Western Australia 
+2 
+2.5000 
+2.12132
+1.50000
+-16.5593 
+21.5593 
+Total 
+383 
+4.2715 
+.86187 
+.04404 
+4.1849 
+4.3581 
+ 
+Table 59: RFCS promptness in attending meetings — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Promptness in 
+attending 
+meetings. 
+Qld 
+19 
+4.1053 
+.87526 
+.20080 
+3.6834 
+4.5271 
+NSW 
+128 
+4.4844 
+.79352 
+.07014 
+4.3456 
+4.6232 
+Victoria 
+153 
+4.4641 
+.71659 
+.05793 
+4.3496 
+4.5785 
+Tasmania 
+23 
+4.3478 
+1.11227
+.23193 
+3.8668 
+4.8288 
+South Australia 
+49 
+4.3469 
+.75142 
+.10735 
+4.1311 
+4.5628 
+Western Australia 
+2 
+3.5000 
+.70711 
+.50000 
+-2.8531 
+9.8531 
+Total 
+374 
+4.4251 
+.78765 
+.04073 
+4.3450 
+4.5052
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 90 
+Table 60: Commitment of the RFCS to follow up on any actions they undertook to complete on 
+your behalf — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+The commitment 
+of the RFCS to 
+follow up on any 
+actions they 
+undertook to 
+complete on your 
+behalf. 
+Qld 
+20 
+4.1500 
+.87509 
+.19568 
+3.7404 
+4.5596 
+NSW 
+129 
+4.4186 
+.87230 
+.07680 
+4.2666 
+4.5706 
+Victoria 
+152 
+4.4868 
+.72775 
+.05903 
+4.3702 
+4.6035 
+Tasmania 
+24 
+4.3750 
+1.20911
+.24681 
+3.8644 
+4.8856 
+South Australia 
+47 
+4.2128 
+.80585 
+.11755 
+3.9762 
+4.4494 
+Western Australia 
+2 
+2.0000 
+1.41421
+1.00000
+-10.7062 
+14.7062 
+Total 
+374 
+4.3904 
+.85552 
+.04424 
+4.3034 
+4.4774 
+ 
+Table 61: RFCS level of knowledge on the issues affecting your enterprise — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Their level of 
+knowledge on 
+the issues 
+affecting your 
+enterprise. 
+Qld 
+21 
+4.3810 
+.80475 
+.17561 
+4.0146 
+4.7473 
+NSW 
+131 
+4.3969 
+.91718 
+.08013 
+4.2384 
+4.5555 
+Victoria 
+155 
+4.3484 
+.85731 
+.06886 
+4.2124 
+4.4844 
+Tasmania 
+24 
+4.1667 
+1.16718
+.23825 
+3.6738 
+4.6595 
+South Australia 
+50 
+4.2200 
+.88733 
+.12549 
+3.9678 
+4.4722 
+Western Australia 
+2 
+2.5000 
+2.12132
+1.50000
+-16.5593 
+21.5593 
+Total 
+383 
+4.3290 
+.91318 
+.04666 
+4.2372 
+4.4207
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 91 
+Table 62: RFCS ability to develop sound options to help improve your situation — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Their ability to 
+develop sound 
+options to help 
+improve your 
+situation. 
+Qld 
+21 
+3.9048 
+.88909 
+.19401 
+3.5001 
+4.3095 
+NSW 
+128 
+4.2188 
+.97154 
+.08587 
+4.0488 
+4.3887 
+Victoria 
+152 
+4.1447 
+.97252 
+.07888 
+3.9889 
+4.3006 
+Tasmania 
+23 
+4.1739 
+1.11405
+.23230 
+3.6922 
+4.6557 
+South Australia 
+49 
+3.9388 
+.94446 
+.13492 
+3.6675 
+4.2101 
+Western Australia 
+2 
+3.0000 
+1.41421
+1.00000
+-9.7062 
+15.7062 
+Total 
+375 
+4.1253 
+.97716 
+.05046 
+4.0261 
+4.2246 
+ 
+Table 63: RFCS ability to communicate effectively with you and your family — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Their ability to 
+communicate 
+effectively with 
+you and your 
+family. 
+Qld 
+21 
+4.4762 
+.60159 
+.13128 
+4.2024 
+4.7500 
+NSW 
+130 
+4.4231 
+.95532 
+.08379 
+4.2573 
+4.5889 
+Victoria 
+155 
+4.5097 
+.74178 
+.05958 
+4.3920 
+4.6274 
+Tasmania 
+24 
+4.5417 
+.77903 
+.15902 
+4.2127 
+4.8706 
+South Australia 
+50 
+4.2800 
+.80913 
+.11443 
+4.0500 
+4.5100 
+Western Australia 
+2 
+3.0000 
+2.82843
+2.00000
+-22.4124 
+28.4124 
+Total 
+382 
+4.4424 
+.84218 
+.04309 
+4.3577 
+4.5271
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 92 
+Table 64: RFCS ability to communicate effectively with others they have contacted on your behalf 
+— by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Their ability to 
+communicate 
+effectively with 
+others they have 
+contacted on 
+your behalf. 
+Qld 
+14 
+4.4286 
+.51355 
+.13725 
+4.1321 
+4.7251 
+NSW 
+112 
+4.3393 
+.88586 
+.08371 
+4.1734 
+4.5052 
+Victoria 
+121 
+4.4876 
+.68454 
+.06223 
+4.3644 
+4.6108 
+Tasmania 
+23 
+4.3913 
+.98807 
+.20603 
+3.9640 
+4.8186 
+South Australia 
+30 
+4.2667 
+.78492 
+.14331 
+3.9736 
+4.5598 
+Western Australia 
+0 
+. 
+. 
+. 
+. 
+. 
+Total 
+300 
+4.4000 
+.79295 
+.04578 
+4.3099 
+4.4901 
+ 
+Table 65: RFCS ability to connect you to other services for advice and support — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Their ability to 
+connect you to 
+other services for 
+advice and 
+support. 
+Qld 
+15 
+4.2000 
+.86189 
+.22254 
+3.7227 
+4.6773 
+NSW 
+105 
+4.2286 
+1.00247
+.09783 
+4.0346 
+4.4226 
+Victoria 
+126 
+4.3175 
+.86395 
+.07697 
+4.1651 
+4.4698 
+Tasmania 
+20 
+4.4500 
+.99868 
+.22331 
+3.9826 
+4.9174 
+South Australia 
+39 
+4.0769 
+.83932 
+.13440 
+3.8048 
+4.3490 
+Western Australia 
+2 
+2.5000 
+2.12132
+1.50000
+-16.5593 
+21.5593 
+Total 
+307 
+4.2476 
+.93443 
+.05333 
+4.1426 
+4.3525
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 93 
+Appendix 3: Effect of RFCS Assistance: Contact and Self­Reliance 
+Table 66: Correlations between number of times of contact with a counsellor and client outcomes 
+Outcome 
+Approximately how many times have 
+you had contact with a rural financial 
+counsellor during this period? 
+Are more aware of the financial 
+position of your enterprise 
+Pearson 
+Correlation 
+.213** 
+Sig. (2-tailed) 
+.000 
+N 
+364 
+Are more aware of the importance 
+of cash flow budgets in managing 
+your business 
+Pearson 
+Correlation 
+.220** 
+Sig. (2-tailed) 
+.000 
+N 
+363 
+Are more aware of the importance 
+of a farm management plan in 
+managing your enterprise 
+Pearson 
+Correlation 
+.221** 
+Sig. (2-tailed) 
+.000 
+N 
+361 
+Have a strong sense of what you 
+need to do to improve your 
+financial position 
+Pearson 
+Correlation 
+.218** 
+Sig. (2-tailed) 
+.000 
+N 
+361 
+Are confident in your own ability to 
+manage the finances of your 
+enterprise 
+Pearson 
+Correlation 
+.179** 
+Sig. (2-tailed) 
+.001 
+N 
+363 
+Are now able to prepare a cash 
+flow budget without assistance 
+Pearson 
+Correlation 
+.145** 
+Sig. (2-tailed) 
+.006 
+N 
+361 
+Are making or have made changes 
+in the way you operate that will 
+help improve your long term 
+financial position 
+Pearson 
+Correlation 
+.204** 
+Sig. (2-tailed) 
+.000 
+N 
+361 
+Are now able to develop and revise 
+a farm plan to help manage risks 
+associated with your enterprise 
+Pearson 
+Correlation 
+.153** 
+Sig. (2-tailed) 
+.003 
+N 
+362 
+Generally feel more in control of 
+your circumstances 
+Pearson 
+Correlation 
+.167** 
+Sig. (2-tailed) 
+.002 
+N 
+359
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 94 
+Table 67: Correlation between frequency of contact and degree of self‐reliance 
+Correlations 
+ 
+Approximately how many times 
+have you had contact with a rural 
+financial counsellor during this 
+period 
+Degree of self-
+reliance 
+Approximately how many 
+times have you had contact 
+with a rural financial 
+counsellor during this period 
+Pearson Correlation 
+1 
+.240** 
+Sig. (2-tailed) 
+ 
+.000 
+N 
+395 
+357 
+Degree of self-reliance 
+Pearson Correlation 
+.240** 
+1 
+Sig. (2-tailed) 
+.000 
+ 
+N 
+357 
+365 
+**. Correlation is significant at the 0.01 level (2-tailed).
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 95 
+ 
+Table 68: Correlation between frequency of contact and degree of self‐reliance dichotomised 
+Approximately how many times have you had contact with a rural financial counsellor during this period * 
+self-reliance dichotomised cross tabulation 
+ 
+self-reliance dichotomised 
+Total 
+below median
+equal or above 
+median 
+Approximately 
+how many 
+times have 
+you had 
+contact with a 
+rural financial 
+counsellor 
+during this 
+period? 
+1 time 
+Count 
+23 
+6 
+29 
+% within Approximately how 
+many times have you had 
+contact with a rural financial 
+counsellor during this period 
+79.3% 
+20.7% 
+100.0% 
+% within self-reliance 
+dichotomised 
+13.9% 
+3.1% 
+8.1% 
+2–5 times 
+Count 
+92 
+102 
+194 
+% within Approximately how 
+many times have you had 
+contact with a rural financial 
+counsellor during this period 
+47.4% 
+52.6% 
+100.0% 
+% within self-reliance 
+dichotomised 
+55.4% 
+53.4% 
+54.3% 
+6–10 times Count 
+30 
+43 
+73 
+% within Approximately how 
+many times have you had 
+contact with a rural financial 
+counsellor during this period 
+41.1% 
+58.9% 
+100.0% 
+% within self-reliance 
+dichotomised 
+18.1% 
+22.5% 
+20.4% 
+More than 
+10 times 
+Count 
+21 
+40 
+61 
+% within Approximately how 
+many times have you had 
+contact with a rural financial 
+counsellor during this period 
+34.4% 
+65.6% 
+100.0% 
+% within self-reliance 
+dichotomised 
+12.7% 
+20.9% 
+17.1% 
+Total 
+Count 
+166 
+191 
+357 
+% within Approximately how 
+many times have you had 
+contact with a rural financial 
+counsellor during this period 
+46.5% 
+53.5% 
+100.0% 
+% within self-reliance 
+dichotomised 
+100.0% 
+100.0% 
+100.0%
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 96 
+Table 69: Correlation of Satisfaction variables against self‐reliance 
+ 
+Correlations 
+Degree of self-reliance 
+Degree of self-reliance 
+Pearson Correlation 
+1 
+Sig. (2-tailed) 
+ 
+N 
+365 
+• 
+quality info recoded 
+Pearson Correlation 
+.403** 
+Sig. (2-tailed) 
+.000 
+N 
+360 
+• 
+promptness return calls 
+recoded 
+Pearson Correlation 
+.331** 
+Sig. (2-tailed) 
+.000 
+N 
+361 
+• 
+promptness attend meetings 
+recoded 
+Pearson Correlation 
+.244** 
+Sig. (2-tailed) 
+.000 
+N 
+352 
+• 
+commitment follow up recoded 
+Pearson Correlation 
+.303** 
+Sig. (2-tailed) 
+.000 
+N 
+354 
+• 
+knowledge recoded 
+Pearson Correlation 
+.379** 
+Sig. (2-tailed) 
+.000 
+N 
+361 
+• 
+sound options recoded 
+Pearson Correlation 
+.406** 
+Sig. (2-tailed) 
+.000 
+N 
+354 
+• 
+ability communicate recoded 
+Pearson Correlation 
+.373** 
+Sig. (2-tailed) 
+.000 
+N 
+361 
+• 
+ability to communicate with 
+others recoded 
+Pearson Correlation 
+.397** 
+Sig. (2-tailed) 
+.000 
+N 
+282 
+• 
+ability to connect other 
+services recoded 
+Pearson Correlation 
+.450** 
+Sig. (2-tailed) 
+.000 
+N 
+287
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 97 
+Appendix 4: Effect of RFCS Assistance: Mean Scores by state 
+Table 70: Effect of RFCS in making you more aware of your financial position — by state 
+Client outcome 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are more aware 
+of the financial 
+position of your 
+enterprise 
+Qld 
+22 
+3.68 
+.780 
+.166 
+3.34 
+4.03 
+NSW 
+131 
+3.69 
+.842 
+.074 
+3.54 
+3.83 
+Victoria 
+145 
+3.78 
+.862 
+.072 
+3.64 
+3.92 
+Tasmania 
+20 
+3.60 
+.821 
+.184 
+3.22 
+3.98 
+South Australia 
+47 
+3.64 
+.870 
+.127 
+3.38 
+3.89 
+Western Australia 
+2 
+3.00 
+2.828 
+2.000 
+-22.41 
+28.41 
+Total 
+367 
+3.71 
+.859 
+.045 
+3.62 
+3.80 
+ 
+Table 71: Effect of RFCS in making you more aware of the importance of cash flow budgets — by 
+state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are more aware 
+of the 
+importance of 
+cash flow 
+budgets in 
+managing your 
+business 
+Qld 
+22 
+3.64 
+.848 
+.181 
+3.26 
+4.01 
+NSW 
+130 
+3.65 
+.904 
+.079 
+3.50 
+3.81 
+Victoria 
+145 
+3.61 
+.851 
+.071 
+3.47 
+3.75 
+Tasmania 
+20 
+3.55 
+.826 
+.185 
+3.16 
+3.94 
+South Australia 
+47 
+3.40 
+.851 
+.124 
+3.15 
+3.65 
+Western Australia 
+2 
+3.00 
+2.828 
+2.000 
+-22.41 
+28.41 
+Total 
+366 
+3.60 
+.879 
+.046 
+3.51 
+3.69
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 98 
+Table 72: Effect of RFCS in making you more aware of the importance of a farm management plan 
+for enterprise management — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are more aware of 
+the importance of 
+a farm 
+management plan 
+in managing your 
+enterprise 
+Qld 
+22 
+3.68 
+.839 
+.179 
+3.31 
+4.05 
+NSW 
+129 
+3.62 
+.868 
+.076 
+3.47 
+3.77 
+Victoria 
+144 
+3.54 
+.765 
+.064 
+3.42 
+3.67 
+Tasmania 
+20 
+3.55 
+.826 
+.185 
+3.16 
+3.94 
+South Australia 
+47 
+3.40 
+.681 
+.099 
+3.20 
+3.60 
+Western Australia 
+2 
+3.00 
+2.828 
+2.000 
+-22.41 
+28.41 
+Total 
+364 
+3.56 
+.813 
+.043 
+3.47 
+3.64 
+ 
+Table 73: Effect of RFCS in providing a strong sense of what you need to do to improve your 
+financial position — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Have a strong 
+sense of what you 
+need to do to 
+improve your 
+financial position 
+Qld 
+22 
+3.68 
+.839 
+.179 
+3.31 
+4.05 
+NSW 
+130 
+3.68 
+.908 
+.080 
+3.52 
+3.83 
+Victoria 
+143 
+3.76 
+.787 
+.066 
+3.63 
+3.89 
+Tasmania 
+20 
+3.80 
+.696 
+.156 
+3.47 
+4.13 
+South Australia 
+47 
+3.55 
+.904 
+.132 
+3.29 
+3.82 
+Western Australia 
+2 
+3.00 
+2.828 
+2.000 
+-22.41 
+28.41 
+Total 
+364 
+3.70 
+.857 
+.045 
+3.61 
+3.79
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 99 
+Table 74: Effect of RFCS in making you confident in your own ability to manage the finances of your 
+enterprise — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are confident in 
+your own ability to 
+manage the 
+finances of your 
+enterprise 
+Qld 
+22 
+3.82 
+.588 
+.125 
+3.56 
+4.08 
+NSW 
+130 
+3.93 
+.855 
+.075 
+3.78 
+4.08 
+Victoria 
+145 
+3.95 
+.802 
+.067 
+3.82 
+4.08 
+Tasmania 
+20 
+4.05 
+.945 
+.211 
+3.61 
+4.49 
+South Australia 
+47 
+3.79 
+.907 
+.132 
+3.52 
+4.05 
+Western Australia 
+2 
+2.50 
+2.121 
+1.500 
+-16.56 
+21.56 
+Total 
+366 
+3.91 
+.843 
+.044 
+3.83 
+4.00 
+ 
+Table 75: Effect of RFCS in assisting you to prepare a cash flow budget without assistance — by 
+state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are now able to 
+prepare a cash 
+flow budget 
+without assistance 
+Qld 
+22 
+3.45 
+.858 
+.183 
+3.07 
+3.83 
+NSW 
+130 
+3.62 
+1.014 
+.089 
+3.45 
+3.80 
+Victoria 
+144 
+3.57 
+.898 
+.075 
+3.42 
+3.72 
+Tasmania 
+20 
+3.80 
+.894 
+.200 
+3.38 
+4.22 
+South Australia 
+46 
+3.35 
+.900 
+.133 
+3.08 
+3.62 
+Western Australia 
+2 
+2.00 
+1.414 
+1.000 
+-10.71 
+14.71 
+Total 
+364 
+3.56 
+.947 
+.050 
+3.46 
+3.66
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 
+100 
+Table 76: Effect of RFCS in assisting you to change the way you operate that will help improve your 
+long term financial position — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are making or 
+have made 
+changes in the 
+way you operate 
+that will help 
+improve your 
+long term 
+financial position 
+Qld 
+22 
+3.86 
+.468 
+.100 
+3.66 
+4.07 
+NSW 
+129 
+3.82 
+.870 
+.077 
+3.67 
+3.97 
+Victoria 
+144 
+3.63 
+.915 
+.076 
+3.47 
+3.78 
+Tasmania 
+20 
+3.55 
+1.050 
+.235 
+3.06 
+4.04 
+South Australia 
+47 
+3.49 
+.953 
+.139 
+3.21 
+3.77 
+Western Australia 
+2 
+2.50 
+2.121 
+1.500 
+-16.56 
+21.56 
+Total 
+364 
+3.68 
+.905 
+.047 
+3.59 
+3.77 
+ 
+Table 77: Effect of RFCS in assisting you to develop and revise a farm plan to help manage risks 
+associated with your enterprise — by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Are now able to 
+develop and 
+revise a farm 
+plan to help 
+manage risks 
+associated with 
+your enterprise 
+Qld 
+22 
+3.73 
+.550 
+.117 
+3.48 
+3.97 
+NSW 
+130 
+3.59 
+.887 
+.078 
+3.44 
+3.75 
+Victoria 
+144 
+3.51 
+.885 
+.074 
+3.36 
+3.65 
+Tasmania 
+20 
+3.70 
+.733 
+.164 
+3.36 
+4.04 
+South Australia 
+47 
+3.30 
+.858 
+.125 
+3.05 
+3.55 
+Western Australia 
+2 
+2.50 
+2.121 
+1.500 
+-16.56 
+21.56 
+Total 
+365 
+3.53 
+.869 
+.045 
+3.44 
+3.62
+
+Evaluation of the DAFF’s Rural Financial Counselling Service ‐ 2009 
+EH Graham Centre for Agricultural Innovation (Charles Sturt University and Department of I&I NSW)      Page 
+101 
+Table 78: Effect of RFCS in assisting you to generally feel more in control of your circumstances — 
+by state 
+ 
+N 
+Mean 
+Std. Dev
+Std. 
+Error 
+95% Confidence 
+Interval for Mean 
+Lower 
+Bound 
+Upper 
+Bound 
+Generally feel 
+more in control 
+of your 
+circumstances 
+Qld 
+22 
+3.68 
+.716 
+.153 
+3.36 
+4.00 
+NSW 
+129 
+3.70 
+.889 
+.078 
+3.54 
+3.85 
+Victoria 
+142 
+3.58 
+.836 
+.070 
+3.44 
+3.72 
+Tasmania 
+20 
+3.80 
+.894 
+.200 
+3.38 
+4.22 
+South Australia 
+47 
+3.49 
+.804 
+.117 
+3.25 
+3.73 
+Western Australia 
+2 
+2.50 
+2.121 
+1.500 
+-16.56 
+21.56 
+Total 
+362 
+3.62 
+.857 
+.045 
+3.53 
+3.71

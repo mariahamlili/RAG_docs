@@ -1,0 +1,47 @@
+Our search tool is a guide to biosecurity industry participants and the activities they can carry out for imported goods under their approved arrangement.
+Biosecurity industry participants that have agreed to have their details published on the department’s webpages appear in the search tool. If you want your details added, updated or removed from the tool, the nominated approved arrangement manager or site contact must contact aa.canberra@aff.gov.au
+How to use the approved arrangement search tool
+Search tool sorting defaults to alphanumeric order by arrangement ID. Use one or more search filters to refine the list information.
+Some filters can become inactive based on other filters used or may not produce search results. For example:
+- When selecting approved arrangement class 1.1, the ‘ACT’ state tile disappears due to ACT having no publicly listed class 1.1 sites.
+- When selecting an approved arrangement class or biosecurity activity, there may be no publicly listed biosecurity industry participants for that class/activity.
+- When selecting an approved arrangement class and biosecurity industry participant name, search results do not show all classes held by that biosecurity industry participant.
+Filter biosecurity industry participants by state
+Use the top blue filter tiles and select all states or select certain states. Selected tiles will change colour from blue to black.
+Filter biosecurity industry participants by arrangement details
+Use the ‘arrangement details search’ to filter by:
+- approved arrangement class
+- the biosecurity industry participant’s arrangement ID number
+- the biosecurity industry participant’s name
+- suburb.
+Within each filter list, select the relevant checkboxes. These search filters include free-text search functionality also.
+Filter biosecurity industry participants by biosecurity activity
+Use the ‘search by biosecurity activity’ to filter by:
+- Fumigation
+- Tailgate inspection
+- Rural tailgate inspection
+- Hot water treatment.
+Select the checkbox to the right of the relevant activity title.
+Reset filters
+Click the ‘reset filters’ button in the top right of the tool to reset all filters. This reset function does not remove any free text entered. To remove the free text, use the backspace or delete key on your keyboard or device. You can also remove the free text by refreshing the web page.
+| Filter reference guide |  | 
+|---|---|
+| Information being sourced | Applicable filters | 
+|---|---|
+| Biosecurity industry participants covered by a specific approved arrangement class | Use Approved arrangement class filter list and select the relevant class checkbox. Use free text search as needed. | 
+| Arrangement details (class, location, activity) for a specific biosecurity industry participant | Use Arrangement ID filter list or Biosecurity industry participant name filter list and select the relevant ID/name checkbox. Use free text search as needed. | 
+| Biosecurity industry participants operating in a specific state | Use State filter tiles and select the relevant state tile(s). | 
+| Biosecurity industry participant operating in a specific suburb | Use Suburb filter list and select the relevant suburb checkbox. Use free text search as needed. | 
+| Fumigation treatment sites | Select Fumigation activity checkbox. | 
+| Fumigation treatment providers | Use Approved arrangement class filter list and select Class 12.1 and Class 12.2 checkboxes. | 
+| Heat treatment sites | Use Approved arrangement class filter list and select Class 4.1 checkbox. | 
+| Heat treatment providers | Use Approved arrangement class filter list and select Class 12.3 checkbox. | 
+| Irradiation treatment sites | Use Approved arrangement class filter list and select Class 4.2 checkbox. | 
+| Wash cabinet or wash bay cleaning sites | Select Cleaning activity checkbox and Use Approved arrangement class filter list and select Class 2.1 and Class 4.3 checkboxes. | 
+| Hot water immersion treatment sites | Select Hot water treatment activity checkbox. | 
+| Cold storage treatment sites | Use Approved arrangement class filter list and select Class 2.5 checkbox | 
+| Sites where tailgate inspection is performed by the department | Select Tailgate activity checkbox. | 
+| Sites where rural tailgate inspection is performed by the department | Select Rural tailgate activity checkbox. | 
+| Sites where rural tailgate inspection is performed by industry | Use Approved arrangement class filter list and select Class 14.4 checkbox. | 
+| Biosecurity waste treatment/disposal sites | Use Approved arrangement class filter list and select Class 8.1, Class 8.2 and Class 8.3 checkboxes. | 
+| Biosecurity waste collection and transportation providers | Use Approved arrangement class filter list and select Class 10.2 and Class 10.6 checkboxes. |

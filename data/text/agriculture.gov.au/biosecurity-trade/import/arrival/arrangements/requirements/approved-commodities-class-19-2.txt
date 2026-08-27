@@ -1,0 +1,695 @@
+Approved arrangement class 19.2 allows accredited persons to assess commodity documentation and manage biosecurity risk for approved commodities.
+Commodity requirements
+To use approved arrangement class 19.2 an accredited person must ensure the commodity is:
+- covered by an in-scope commodity group
+- covered by an in-scope tariff
+- supported by a valid approved arrangement class 19.2 pathway in the Biosecurity Import Conditions system (BICON).
+Commodities that do not meet the above requirements are out of scope for this class.
+Full import declaration requirements
+To use approved arrangement class 19.2 an accredited person must ensure the full import declaration (FID) meets the following requirements:
+- all lines must be of the same cargo type (e.g. a full container load line cannot be processed together with a break bulk line)
+- all lines must be associated with a container (where applicable)
+- all lines belonging to one commodity group must have the same class 19.2 code applied (e.g. 2 lines of unfinished timber cannot have a REL code applied to 1 line, and a FUM code applied to the other)
+- the FID must be lodged in line mode.
+Approved arrangement class 19.2 commodity groups and tariffs
+The tables below list eligible commodity groups and tariffs. Each commodity group also lists the associated BICON case(s). Accredited persons must login to their BICON account to determine the correct biosecurity outcome and class 19.2 code.
+Accredited persons must also consider all requirements and conditions for approved arrangement class 19.2.
+BICON case: Unretorted meat
+This group includes unretorted meat that:
+- is sourced, manufactured and exported from New Zealand and/or Australia;
+- is of bovine (e.g. beef) animals only; and
+- meets all BICON document requirements.
+Class 19.2 operating conditions to consider for this group:
+- Condition 19 – in relation to entering government certificate details
+| In-scope tariffs for unretorted meat (New Zealand only) |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+| 0201 | 0201.10.00 | 
+|  | 0201.20.00 | 
+|  | 0201.30.00 | 
+| 0202 | 0202.10.00 | 
+|  | 0202.20.00 | 
+|  | 0202.30.00 | 
+| 1602 | 1602.50.00 | 
+BICON case: Imported sea-going vessels
+This group includes new or used sea-going vessels, imported as cargo, that are supported by a valid Approved arrangement class 19.2 pathway in BICON..
+Tariffs within this commodity group may also be subject to BMSB seasonal measures. Refer to the approved arrangement class 19.2 commodity group: ‘Brown marmorated stink bug (BMSB) target high risk goods’.
+Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to entering AEI numbers
+| In-scope tariffs for boats |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 8903 | 8903.11.00 | 
+|  | 8903.12.00 | 
+|  | 8903.19.00 | 
+|  | 8903.9 | 
+|  | 8903.21.00 | 
+|  | 8903.22.00 | 
+|  | 8903.23 | 
+|  | 8903.31 | 
+|  | 8903.32 | 
+|  | 8903.33 | 
+|  | 8903.99 | 
+|  | 8903.93.00 | 
+3.1 Starter cultures
+BICON case: Starter cultures and derivatives
+This subgroup includes approved starter cultures for human consumption, human therapeutic and/or human cosmetic use, that:
+- do not require an import permit
+- meet all BICON document requirements.
+| In-scope tariffs for starter cultures |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 2102 | 2102.10.00 | 
+|  | 2102.20.00 | 
+|  | 2102.30.00 | 
+3.2 Hops
+BICON case: Processed and dried hops for human consumption and processing
+This subgroup includes:
+- hops for processing
+- hops that have been processed into pellets or extract.
+| In-scope tariffs for hops |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1210 | 1210.20.00.18 | 
+BICON case: Brown marmorated stink bug (BMSB) hitchhiker pests
+This group includes BMSB target high risk goods that are:
+- subject to seasonal BMSB measures
+- with or without other biosecurity risks
+- with a valid offshore treatment certificate, or if the container is a fully enclosed 6 hard sided FCL/X, subject to treatment onshore.
+For goods under this commodity group you must:
+- refer to the relevant commodity group section on this webpage and the commodity BICON case to determine import conditions (if applicable)
+- refer to the BICON case Brown marmorated stink bug (BMSB) hitchhiker pests to determine if additional BMSB measures apply.
+For this commodity group we recommend you enter an approved arrangement site ID in the “AQIS premises ID” field of the ICS when a release from biosecurity control is expected (BMSBREL). This will allow the system to apply an inspection direction, in the event the consignment is subject to a random BMSB inspection.
+Approved arrangement class 19.2 operating conditions to consider for this group:
+Condition 18 – in relation to entering AEI numbers
+| In-scope tariffs for commodities listed as target high risk goods for BMSB |  |  |  |  | 
+|---|---|---|---|---|
+| Tariff chapters |  |  |  |  | 
+|---|---|---|---|---|
+| 44* | 70* | 76 | 82* | 87* | 
+| 45 | 72 | 78 | 83 | 88* | 
+| 57 | 73* | 79 | 84* | 89* | 
+| 68 | 74 | 80 | 85* |  | 
+| 69 | 75 | 81 | 86* |  | 
+* Goods classified under this chapter may also be in-scope across other class 19.2 commodity groups. Verification and compliance activities for these goods will be monitored under their respective commodity group.
+5.1 Cane and rattan articles; and Bamboo products
+BICON cases: Cane and rattan articles & Bamboo products
+This subgroup includes cane and rattan articles either
+- with a valid offshore treatment certificate
+- to be treated with Methyl Bromide onshore at the rate of 48g/24hrs/21C.
+This subgroup also includes bamboo products either:
+- listed on the BICON table of bamboo products
+- ‘Bamboo stem products NOT listed in the table of bamboo products’ as defined by BICON
+Tariffs within this commodity group may also be subject to BMSB seasonal measures. Refer to the approved arrangement class 19.2 commodity group: ‘Brown marmorated stink bug (BMSB) target high risk goods’.
+Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to entering AEI numbers
+| In-scope tariffs cane and rattan articles; and bamboo products |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 3406* | - | 
+| 3921* | - | 
+| 3924 | - | 
+| 4408* | - | 
+| 4414 | - | 
+| 4418 | 4418.91.00 | 
+| 4419* | - | 
+| 4420* | - | 
+| 4421* | - | 
+| 4601 | 4601.21.00 | 
+|  | 4601.22.00 | 
+|  | 4601.29.00 | 
+|  | 4601.92.00 | 
+|  | 4601.93.00 | 
+|  | 4601.94.00 | 
+|  | 4601.99.00 | 
+| 4602 | 4602.11.00 | 
+|  | 4602.12.00 | 
+|  | 4602.19.00 | 
+|  | 4602.90.00 | 
+| 64* | - | 
+| 6601* | - | 
+| 6602* | - | 
+| 6603* | - | 
+| 6911 | - | 
+| 7013 | - | 
+| 7117* | - | 
+| 7319 | - | 
+| 8201* | - | 
+| 8215 | - | 
+| 8302* | 8302.50* | 
+| 8414 | 8414.51 | 
+| 8509 | - | 
+| 8517 | 8517.79.00 | 
+| 8518* | - | 
+| 9022 | - | 
+| 9202* | - | 
+| 9401 | 9401.52.00 | 
+|  | 9401.53.00 | 
+|  | 9401.80.00 | 
+| 9403~ | - | 
+| 9503* | - | 
+| 9504~ | 9504.90.90.83 | 
+| 9506* | - | 
+| 9603^ | - | 
+| 9609* | - | 
+| 9615~ | - | 
+* * Monitoring activities for this tariff will occur under the commodity group ‘unfinished timber’.
+^ Monitoring activities for this tariff will occur under the commodity group ‘manufactured articles containing animal derived material’.
+~ Monitoring activities for this tariff will occur under the commodity group  ‘manufactured wooden articles and wooden products’.
+5.2: Dried willow articles
+BICON case: Dried willow articles
+This subgroup includes dried willow articles:
+- with no bark
+- with a valid offshore treatment certificate.
+Class 19.2 operating conditions to consider for this group:
+- Condition 17 – in relation to entering ACC (DWWA)
+- Condition 18 – in relation to entering AEI numbers
+| In-scope tariffs for dried willow articles |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 4601 | 4601.29.00.90 | 
+|  | 4601.94.00.91 | 
+|  | 4601.99.00.03 | 
+| 4602 | 4602.19.00.92 | 
+|  | 4602.90.00.12 | 
+5.3: Permitted plant fibres
+BICON case: Permitted plant fibres
+This subgroup includes products that:
+- contain permitted plant fibres that are highly processed/treated (as defined by BICON) and incapable of propagation
+- will not be used for animal feed, landscaping or growing purposes, or fertiliser
+- meet all BICON document requirements.
+Class 19.2 operating conditions to consider for group:
+- Condition 17 – in relation to entering ACC (PMTD)
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for permitted plant fibres |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 4601 | 4601.29.00.90 | 
+|  | 4601.94.00.91 | 
+|  | 4601.99.00.03 | 
+| 4602 | 4602.19.00.92 | 
+|  | 4602.90.00.12 | 
+BICON case: Dairy
+This group includes dairy products that are:
+- for human consumption
+- made in New Zealand from milk of New Zealand or Australian origin only.
+Class 19.2 operating conditions to consider for this group:
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details.
+| In-scope tariffs for dairy products for human consumptions from New Zealand |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0401 | - | 
+| 0402 | - | 
+| 0403 | - | 
+| 0404 | - | 
+| 0405 | - | 
+| 0406 | - | 
+| 1901 | 1901.10.00 | 
+BICON case: Fertilisers
+This group includes:
+- solid fertilisers containing mined and chemical (natural or synthetic) ingredients only
+- fertilisers classed as risk level 1, 2 or 3
+- fertilisers that are bagged or loose in an FCL/X container
+- fertilisers that are shipped as bulk loose in ships hold.
+Bulk inorganic fertiliser: If Approved arrangement class 19.2 is being used for the clearance of a consignment, evidence of the risk level rating for the consignment will be required. This evidence must be in the form of written confirmation received from the department’s Bulk Commodity National Co-ordination Centre.
+Containerised inorganic fertiliser: If Approved arrangement class 19.2 is being used for the clearance of a consignment, evidence of the risk level rating for the consignment may be required. Refer to BICON for import conditions.
+ 
+Class 19.2 operating conditions to consider for this group:
+- Condition 17 – in relation to entering ACC (FTR1; FTR2)
+| In-scope tariffs for fertiliser |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 2834 | - | 
+| 3102 | 3102.10.03 | 
+|  | 3102.10.04 | 
+|  | 3102.10.06 | 
+| 3103 | - | 
+| 3104 | - | 
+| 3105 | - | 
+BICON case: Fresh allium spp for human consumption
+This group includes fresh onions and shallots that are:
+- grown in New Zealand, the United States or the Netherlands
+- from a permitted district/county indicated in BICON.
+- for human consumption
+- of the scientific name Allium cepa or Allium cepa var. aggregatum or var. ascalonicum
+Class 19.2 operating conditions to consider for this group:
+- Condition 17 – in relation to entering ACC (FRPR)
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for fresh onions and shallots from New Zealand, United States, Netherlands. |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0703 | 0703.10.0033 | 
+9.1 Gas cylinders
+BICON case: Gas cylinders
+This subgroup includes used gas cylinders that are supported by a valid approved arrangement class 19.2 pathway in BICON.
+| In-scope tariffs for gas cylinders |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 7311 | - | 
+9.2 Metal waste and scrap
+BICON case: Metal waste and scrap
+This subgroup includes metal waste and scrap that is supported by a valid approved arrangement class 19.2 pathway in BICON. Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to entering AEI numbers
+- Condition 19 – in relation to entering eCertificates details
+- Condition 20 – in relation to entering government certificate details
+- Condition 17 – in relation to entering ACC (METT)
+| In-scope tariffs for metal waste and scrap |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 7204 | - | 
+| 7404 | - | 
+| 7503 | - | 
+| 7602 | - | 
+| 7802 | - | 
+| 7902 | - | 
+| 8002 | - | 
+| 81 | - | 
+BICON case: Coffee for processing or human consumption
+This group includes green and decaffeinated coffee beans that:
+- have not been digested through an animal
+- are not vacuum sealed trade samples
+- meet all BICON document requirements.
+Class 19.2 operating conditions to consider for this group:
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for green coffee beans |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0901 | 0901.1 | 
+BICON case: Highly refined organic chemicals and substances
+This group includes highly refined organic chemicals and substances that:
+- are not to be used for animal consumption, environmental purposes (including use as bioremediation product or fertiliser) or veterinary therapeutics.
+- meet all BICON document requirements.
+| In-scope tariffs for highly refined organic chemicals and substances |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1108 | – | 
+| 1109 | 1109.00.00 | 
+| 1301 | - | 
+| 1302 | 1302.13 | 
+|  | 1302.19 | 
+|  | 1302.31 | 
+|  | 1302.32.00 | 
+|  | 1302.39 | 
+| 2918 | - | 
+| 2922 | - | 
+| 3913 | - | 
+BICON case: Bee products
+This group includes honey and honeycomb entering through all first points of entry except Western Australia.
+| In-scope tariffs for honey |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0409 | 0409.00.00 | 
+BICON cases: Natural fibres (and their derivatives) of animal origin & Feathers
+This group includes manufactured articles containing:
+- wool/fibre from sheep, goats or camelids that are part of a retail ready and/or finished product (including garneted wool)
+- animal hair, fibre or bristles (other than from sheep, goats or camelids) that have been commercially manufactured and are fully finished products
+- feathers fully contained within manufactured articles.
+Approved arrangement class 19.2 operating conditions to consider for this group:
+- Condition 17 – in relation to entering ACC (ANIM)
+| In-scope tariffs for manufactured articles containing animal derived material |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 6201 | - | 
+| 6202 | - | 
+| 6309 | - | 
+| 9401 | - | 
+| 9403 | - | 
+| 9404 | - | 
+| 9603 | - | 
+BICON case: Timber and timber products
+This group includes goods either:
+- listed on the BICON table of wooden products
+- classified as manufactured wooden articles that do not require an import permit.
+Tariffs within this commodity group may also be subject to BMSB seasonal measures. Refer to the approved arrangement class 19.2 commodity group: ‘Brown marmorated stink bug (BMSB) target high risk goods’.
+Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to entering AEI numbers
+| In-scope tariffs for highly processed wooden articles and manufactured wooden articles |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 3406 | - | 
+| 3921 | - | 
+| 3924 | - | 
+| 3926 | 3926.1 | 
+| 4202 | - | 
+| 4408 | - | 
+| 4409* | - | 
+| 4411 | 4411.1 | 
+| 4412 | - | 
+| 4413 | - | 
+| 4414 | - | 
+| 4415 | - | 
+| 4416 | - | 
+| 4417 | - | 
+| 4418 | - | 
+| 4419 | - | 
+| 4420 | - | 
+| 4421 | - | 
+| 4504 | - | 
+| 4911 | - | 
+| 6303 | - | 
+| 64 | - | 
+| 6601 | - | 
+| 6602 | - | 
+| 6603 | - | 
+| 6911~ | - | 
+| 7009 | 7009.9 | 
+|  | 7009.92.00 | 
+| 7013~ | - | 
+| 7117 | - | 
+| 7319 | - | 
+| 7323 | - | 
+| 82 | - | 
+| 8302 | 8302.50.00 | 
+| 8414~ | 8414.51 | 
+| 8518 | - | 
+| 8522 | 8522.9 | 
+| 9017 | - | 
+| 9019 | - | 
+| 9021 | - | 
+| 9105 | 9105.99 | 
+| 92 | - | 
+| 9307 | - | 
+| 9401 | 9401.31 | 
+|  | 9401.39 | 
+|  | 9401.41 | 
+|  | 9401.49 | 
+|  | 9401.6 | 
+|  | 9401.7 | 
+|  | 9401.8 | 
+|  | 9401.91 | 
+|  | 9401.99.90 | 
+| 9403 | - | 
+| 9404 | 9404.10 | 
+|  | 9404.40 | 
+|  | 9404.90.00 | 
+| 9405 | 9405.11.00 | 
+|  | 9405.19.00 | 
+|  | 9405.21.00 | 
+|  | 9405.29.00 | 
+|  | 9405.41.00 | 
+|  | 9405.42.00 | 
+|  | 9405.50.90 | 
+|  | 9405.99 | 
+| 9503 | - | 
+| 9504 | 9504.90.90 (83) | 
+| 9506 | - | 
+| 9603^ | - | 
+| 9608 | 9608.10.00 | 
+|  | 9608.20.00 | 
+|  | 9608.30.10 | 
+|  | 9608.40.00 | 
+|  | 9608.50.00 | 
+|  | 9608.60.00 | 
+|  | 9608.91.00 | 
+|  | 9608.99.00 | 
+| 9609 | - | 
+| 9615 | - | 
+| 9701 | - | 
+** Monitoring activities for this tariff will occur under the commodity group ‘unfinished timber’.
+^ Monitoring activities for this tariff will occur under the commodity group ‘manufactured articles containing animal derived material’.
+~ Monitoring activities for this tariff will occur under the commodity group ‘cane and rattan articles; dried wickerwork, permitted plant fibres and bamboo products’.
+BICON cases: Processed grain and seed products for human consumption & Processed tuber and corm products for human consumption
+This group includes goods that:
+- are for human consumption only
+- are processed grain and seed products defined as ‘other’ in BICON
+- are processed potato products
+- are processed tuber and corm products other than processed potato products
+- meet all BICON document requirements.
+Tariffs within this commodity group may also be subject to khapra beetle conditions specified in the BICON case: Non-Commodity Cargo Clearance.
+Class 19.2 operating conditions to consider for this group:
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for milling products for human consumption |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1101 | 1101.00.00 | 
+| 1102 | - | 
+| 1105 | - | 
+| 1106 | - | 
+BICON cases: New or used vehicles, aircraft and parts & Machinery and equipment
+This group includes new and used:
+- passenger vehicles, and vehicle parts
+- whole aircraft and aircraft parts
+- machinery and parts
+- equipment and parts.
+Tariffs within this commodity group may also be subject to BMSB seasonal measures. Refer to the approved arrangement class 19.2 commodity group: ‘Brown marmorated stink bug (BMSB) target high risk goods’.
+Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to entering AEI numbers
+- Condition 21 – in relation to entering VIN numbers
+| In-scope tariffs for new and used vehicles, aircraft and parts; machinery and parts, and equipment |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 3926 | 3926.30.10 | 
+|  | 3926.30.10.97 | 
+|  | 3926.90 | 
+|  | 3926.90.10. | 
+| 7307 | - | 
+| 7311* | - | 
+| 7320 | - | 
+| 7326 | - | 
+| 84 | - | 
+| 8501 | - | 
+| 86 | - | 
+| 87 | - | 
+| 88 | - | 
+| 9026 | - | 
+| 9301 | - | 
+| 9401 | 9401.10.00 | 
+|  | 9401.20.00 | 
+|  | 9401.99.10 | 
+|  | 9401.99.20 | 
+| 9620 | 9620.00.20 | 
+* Monitoring activities for this tariff will occur under the commodity group Gas cylinders, metal waste and scrap.
+BICON case: Tyres
+This group includes new tyres only that:
+- are pneumatic tyres
+- meet all BICON document requirements.
+| In-scope tariffs for new tyres |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 4011 | - | 
+BICON case: Prefabricated office, accommodation units and caravans
+This group includes caravans and prefabricated buildings that are:
+- new or used
+- without solid timber or with solid timber that has been treated offshore, as per BICON requirements.
+Tariffs within this commodity group may also be subject to BMSB seasonal measures. Refer to the approved arrangement class 19.2 commodity group: ‘Brown marmorated stink bug (BMSB) target high risk goods’.
+Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to entering AEI numbers
+| In-scope tariffs for prefabricated buildings |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 8716 | 8716.10.00 | 
+| 9406 | 9406.10.00 | 
+|  | 9406.20.00 | 
+|  | 9406.90.00 | 
+19.1 Prepared cereals and muesli bars
+BICON case: Retail ready products containing a mix of grains, seeds, dried fruits and nuts for human consumption
+This subgroup includes:
+- consignments of commercially prepared and retail packaged food products, as defined in BICON
+- consignments containing plant material only.
+Class 19.2 operating conditions to consider for this group:
+- Condition 17– in relation to entering ACC (PREP)
+| In-scope tariffs for prepared cereals and muesli bars |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1904 | - | 
+19.2 Pasta
+BICON case: Noodles for human consumption.
+This subgroup includes commercially prepared and retailed packaged noodles that either:
+- contain plant based ingredients only
+- contain less than 10% egg and 10% dairy
+and:
+- meet all BICON document requirements.
+Class 19.2 operating conditions to consider for this group:
+- Condition 17 – in relation to entering ACC (PREP)
+| In-scope tariffs for pasta |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1902 | 1902.11.00.06 | 
+|  | 1902.19.00.34 | 
+|  | 1902.19.00.35 | 
+|  | 1902.19.00.40 | 
+|  | 1902.30.00.03 | 
+|  | 1902.30.00.04 | 
+|  | 1902.30.00.09 | 
+|  | 1902.40.00.10 | 
+20.1 Milled rice for human consumption
+BICON case: Rice for human consumption or processing
+This group includes milled rice for human consumption:
+- where the outer hull has been completely removed
+- that is packed in bags less than or equal to 25 kilograms
+- that is imported as FCL/X cargo only
+Tariffs within this commodity group may also be subject to khapra beetle conditions specified in the BICON case: Non-Commodity Cargo Clearance.
+Approved arrangement class 19.2 operating conditions to consider for this group:
+- Condition 19– in relation to entering eCertificate details
+- Condition 20– in relation to entering government certificate details
+| In-scope tariffs for milled rice for human consumption |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1006 | 1006.30 | 
+|  | 1006.40 | 
+20.2 Parboiled rice for human consumption
+BICON case: Rice for human consumption or processing
+This group includes parboiled rice for human consumption that is:
+- packed in bags less than or equal to 25 kilograms
+- imported as FCL/X cargo only
+- meet all BICON document requirements.
+Class 19.2 operating conditions to consider for this group:
+- Condition 17 – in relation to entering ACC (PARB)
+| In-scope tariffs for parboiled rice for human consumption |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 1006 | 1006.20 | 
+|  | 1006.30 | 
+|  | 1006.40 | 
+21.1 Fish and roe for human consumption (excluding salmonid fish)
+BICON case: Fish including fish caviar, fish roe, fish viscera and fish maw (excluding salmonid fish)
+This subgroup includes the following goods:
+- cartilaginous fish (sharks, skates, and rays), other than fish meal
+- roe (including caviar)
+- consumer ready finfish (as defined by BICON)
+- finfish from New Zealand.
+Approved arrangement class 19.2 operating conditions to consider for this group:
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for Fish including fish caviar, fish roe, fish viscera and fish maw (excluding salmonid fish) |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0302 | 0302.2 | 
+|  | 0302.3 | 
+|  | 0302.4 | 
+|  | 0302.5 | 
+|  | 0302.7 | 
+|  | 0302.8 | 
+|  | 0302.91.00 | 
+|  | 0302.92.00 | 
+|  | 0302.99.00 | 
+| 0303 | 0303.2 | 
+|  | 0303.3 | 
+|  | 0303.4 | 
+|  | 0303.5 | 
+|  | 0303.6 | 
+|  | 0303.8 | 
+|  | 0303.91.00 | 
+| 0304 | 0304.3 | 
+|  | 0304.4 | 
+|  | 0304.5 | 
+|  | 0304.6 | 
+|  | 0304.7 | 
+|  | 0304.8 | 
+|  | 0304.9 | 
+| 0305 | 0305.20 | 
+|  | 0305.3 | 
+|  | 0305.4 | 
+|  | 0305.5 | 
+|  | 0305.6 | 
+| 1604 | 1604.1 | 
+|  | 1604.2 | 
+21.2 Frozen molluscs for human consumption
+BICON case: Seafood (excluding finfish) for human consumption.
+This subgroup includes molluscs (excluding oysters and snails) that:
+- are for human consumption only
+- are frozen
+- meet all BICON document requirements.
+| In-scope tariffs for frozen molluscs for human consumption |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0307 | 0307.22.00 | 
+|  | 0307.32.00 | 
+|  | 0307.43.00 | 
+|  | 0307.52.00 | 
+|  | 0307.72.00 | 
+|  | 0307.83.00 | 
+|  | 0307.84.00 | 
+BICON case: Fresh Allium spp. for human consumption
+This group includes semi-processed onions and shallots that:
+- are peeled and washed
+- have been grown and processed in China
+- meet all BICON document requirements.
+Class 19.2 operating conditions to consider for this group:
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for semi-processed onions and shallots from China |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 0703 | 0703.10.0033 | 
+BICON case: Unaccompanied personal effects
+This group includes unaccompanied personal effects that:
+- meet the personal effects definition specified in BICON
+- are not being imported for diplomatic personnel
+- are lodged on a FID only
+- are more than 0.5 m³ in size if arriving by sea, or more than 100 kg if arriving by air
+- are less than 0.5m³ in size if arriving by sea, or less than 100kg if arriving by air and contain goods of biosecurity concern.
+| In-scope tariffs for personal effects |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 9999 | 9999.40.15 | 
+|  | 9999.60.24 | 
+BICON cases: Timber and timber products & Timber and timber products imported from New Zealand during Burnt Pine Longicorn (BPL) flight season
+This group includes unfinished timber products (excluding timber from the Myrtaceae family) that are either:
+- a pathogen risk species from New Zealand only, meeting all BICON document requirements
+- listed as other species.
+and are:
+- not classified as oversize timber
+- not imported under a Canadian Certification Program.
+Tariffs within this commodity group may also be subject to BMSB seasonal measures. Refer to the approved arrangement class 19.2 commodity group: ‘Brown marmorated stink bug (BMSB) target high risk goods’
+Class 19.2 operating conditions to consider for this group:
+- Condition 18 – in relation to adding AEI numbers
+- Condition 19 – in relation to entering eCertificate details
+- Condition 20 – in relation to entering government certificate details
+| In-scope tariffs for unfinished timber |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 4407 | - | 
+| 4409 | - | 
+| 4418* | - | 
+* Monitoring activities for this tariff will occur under the commodity group ‘manufactured wooden articles and wooden products’.
+BICON cases: Carpets, clothes, bags and rags
+This group includes:
+- used and empty bags
+- used cloth rags
+- used clothes
+| In-scope tariffs for Carpets, clothes, bags and rags |  | 
+|---|---|
+| Tariff | Tariff reference number | 
+|---|---|
+| 6305 | - | 
+| 6309 | - | 
+| 6310 | - | 
+| Version | Date | Amendments | 
+|---|---|---|
+| 6.5 | 8 December 2025 | New tariffs added to the commodity groups ‘Manufactured articles containing animal derived material’ and ‘Seafood for human consumption’. | 
+| 6.6 | 23 July 2026 | Updated terminology and reordered commodity groups. |

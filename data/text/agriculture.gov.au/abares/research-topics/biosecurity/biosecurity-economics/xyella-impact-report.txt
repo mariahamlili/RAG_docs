@@ -1,0 +1,39 @@
+Authors: Ahmed Hafi, Lucy Randall, Tony Arthur, Donkor Addai, Philip Tennant and Jay Gomboso
+Overview
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/xylella-map-small.png) 
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/xylella-xylem-small.png) 
+Xylella fastidiosa is a bacterium that affects many plant species around the world (Figure 1). In Brazil it infects an estimated 200 million citrus trees. In California, it causes over $100 million in yearly losses to the grape industry. And in Italy, around one million olive trees are estimated to be infected on the peninsula of Salento. In Australia, it has been listed as number one on the National Priority Plant Pest List. There is no cure for the disease—which blocks xylem cells (Figure 2), disrupts water flow and slowly kills affected vines in 1-5 years (Figure 3).
+Recent outbreaks of X. fastidiosa in Europe prompted Australia’s biosecurity authorities to introduce emergency measures in late 2015 to reduce the risk of an incursion. As part of the heightened preparedness, the department requested ABARES to assess the economic impacts of a potential X. fastidiosa outbreak on the wine grape and wine-making industries in Australia.
+Although this study focused on the Australian wine industry, the modelling framework could be adapted to other perennial crops susceptible to Xylella, including: horticultural crops (such as cherries, citrus, nuts, olives and summer fruit), native trees, amenity trees, forests and grasses.
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/xylella-grapes-california-small.png) 
+such as leaf scorch, and the plant progressively weakens and dies.
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/glassywinged-sharp-shooter-small.png) 
+important vector in the United States. California Ag Today
+Xylella is transmitted by sap-sucking insect vectors (Figure 4) that feed on the xylem sap of plants, and by grafting infected propagation material onto healthy rootstocks. The pathogen and its known vectors overseas are not present in Australia, but native sap sucking insects such as spittlebugs could possibly spread it, were it to enter.
+ABARES assessed a range of scenarios and the expected benefits to the wine industry of keeping Australia free of X. fastidiosa and its vectors. Three scenarios of progressively smaller habitat suitability were assessed:
+- Scenario 1 – all existing wine grape growing areas
+- Scenario 2 – Scenario 1 areas with an average minimum winter temperature above 1.7°C, and
+- Scenario 3 – Scenario 2 areas that were in close proximity to riparian vegetation.
+The three scenarios are based on overseas research, suggesting that minimum winter temperature and proximity to riparian vegetation are key factors influencing vineyard suitability. ABARES also assumes two different levels of wine grape prices—2014–15 prices and prices 25 per cent higher, which reflect recent trends in wine grape prices.
+Considering three different vineyard suitability scenarios at two different wine grape prices, ABARES estimated that if it enters and establishes in Australia, X. fastidiosa could cost Australian wine grape and wine-making industries between $2.2 billion and $7.9 billion in aggregate losses over 50 years, on a net present value (NPV) basis (Table 1).
+The wine-making industry will be more severely affected than the wine grape industry. For example, if all vineyards are suitable (Scenario 1), wine-making industry impacts account for 73 per cent of aggregate losses at lower wine grape prices and 62 per cent of aggregate losses when wine grape prices are assumed to be 25 per cent higher.
+ABARES also found that if X. fastidiosa is detected early and contained within a region, the aggregate impact on the wine industry would be a fraction of the impact of an uncontrolled spread. Containing the outbreak to either the Murray Darling–Swan Hill or Lower Murray regions, for example, could generate benefits (avoid losses) estimated between $2.0 billion and $2.6 billion, on a NPV basis.
+Overall, the report indicates that Australia benefits significantly from remaining free of X. fastidiosa, and that in the event of an outbreak, it would also likely benefit from early intervention measures to detect it and contain its spread.
+| Table 1 Economic impact of X. fastidiosa on Australian wine grape and wine-making industries— for varying vineyard suitability and wine grape prices |  |  |  |  |  |  | 
+|---|---|---|---|---|---|---|
+| SUITABILITY SCENARIOS and IMPACT | 1. All vineyards |  | 2. Vineyards with average minimum winter temperature above 1.7oC |  | 3. Vineyards with average minimum winter temperature above 1.7oC and close to riparian vegetation |  | 
+|---|---|---|---|---|---|---|
+|  | Highly |  | Partially & Highly |  | Partially & Highly |  | 
+| Economic Impact | Gross cost | Decline in production | Gross cost | Decline in production | Gross cost | Decline in production | 
+| Wine grape prices | ($bn) | % | ($bn) | % | ($bn) | % | 
+| 2014–15 prices |  |  |  |  |  |  | 
+| Wine grape industry | 2.1 | 58 | 1.8 | 54 | 0.7 | 19 | 
+| Wine-making industry | 5.8 | 58 | 5.2 | 54 | 2.1 | 19 | 
+| TOTAL | 7.9 |  | 7.0 |  | 2.8 |  | 
+| 25% higher prices |  |  |  |  |  |  | 
+| Wine grape industry | 2.9 | 26 | 2.6 | 21 | 0.9 | 8 | 
+| Wine-making industry | 4.7 | 26 | 3.7 | 21 | 1.3 | 8 | 
+| TOTAL | 7.6 |  | 6.3 |  | 2.2 |  | 
+Note: Total wine grape industry costs comprise the net present value of lost gross margins and replanting costs, over a 50-year time horizon. Wine grape growers with negative gross margins are excluded from the results. The production of wine is assumed to decline by the same percentage as wine grape production. All dollar values are specified in 2014–15 prices.
+Source: ABARES modelling
+This assessment of the impact X. fastidiosa could have on Australia highlights the importance of our biosecurity system in safeguarding Australia from this deadly plant pest risk. The broader impact of X. fastidiosa on other susceptible horticultural crops, native trees and grasses will be examined in a future ABARES study.

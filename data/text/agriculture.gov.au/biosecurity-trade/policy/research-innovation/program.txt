@@ -1,0 +1,38 @@
+About our program
+Our Biosecurity Innovation Program (BIP) funds innovative ideas to enhance our biosecurity system.
+The BIP invests in new technologies and approaches. It identifies and develops new products and services to manage biosecurity challenges and risks.
+Through the BIP we:
+- identify and develop innovative entrepreneurial ideas
+- fund projects that explore new concepts and ideas for managing biosecurity risk
+- collaborate with the business sector, universities and research entities.
+The Biosecurity Innovation Program is currently undertaking a comprehensive review and will not be funding any new projects this year. We look forward to the review outcomes shaping how we support biosecurity innovation in the future.
+Past projects
+The BIP invests in a wide range of innovative projects to support our national biosecurity system. Here are some examples of past projects funded under the program.
+We partnered with CSIRO to develop artificial intelligence (AI) and a mobile phone application (app) to identify the Brown Marmorated Stink Bug (BMSB). The BMSB is a National Priority Plant Pest.
+The app identified 45 different stink bug species. CSIRO identified each specimen and produced a library of high-resolution photos with pictures taken from multiple angles. CSIRO was then able to train Microsoft’s Custom Vision AI model to recognise the top and underside views of each stink bug species.
+Developments to the app included an AI model for the identification of exotic bees. The trial for the BMSB AI app has concluded and is no longer in use by the department.
+Watch a video of the BMSB app interview
+BMSB app interview
+Dr Michael Elias, Australian National Insect Collection:
+So stink bugs are quite a diverse group in Australia. There are about 600 different native species in Australia and potentially thousands of species we haven't discovered yet.
+Generally speaking, they're quite specialist, so they'll only eat one or two species of plants. And because they've evolved here, they'll only eat native species.
+There are a few which are more generalist, and they tend to be the bigger pests. But the biggest pests are the ones which come from overseas because they adapted to eat crops. Most of our crops come from somewhere else, so they are adapted to eat those crops, and they have no natural predators.
+Brown Marmorated Stink Bug is originally from East Asia, especially China, especially the weather regions of China. Because it's such a generalist species, it targets a very wide variety of crops, especially stone fruit, apples, pears, tree nuts--especially hazelnuts, it's a big, big pest on hazelnuts--and wine grapes, and there's several other smaller crops as well.
+The way they deal with most pests when they find them at the border is they go out and collect them. Because they're not trained entomologists, they send them back to an entomology lab. In the meantime, that cargo has to be held in quarantine at the expense of the importer. If the biosecurity officers had a tool, which they could use to identify them on the spot, you wouldn't need to spend that much time, which is a lot of money for various importers.
+Dr Alexander Schmidt-Lebuhn, CSIRO Scientist, Centre of Australian National Biodiversity Research:
+This is brown moderated stink bug, which is a major biosecurity threat for Australia. It's a very generalist, sap sucking insect that might cause damage to water culture and agriculture it establishes in Australia. There are about 600 known Australian native species of stink bugs, but there may be thousands of undescribed species.
+The critical thing about invasive species is that they don't have any natural enemies here, so they may be able to do a lot more damage than the native ones that are naturally control.
+The present project is funded by the Department of Agriculture, Water and the Environment, through the Biosecurity Innovation Programme. We are creating an image recognition model that will allows inspectors and biosecurity officers to distinguish the Brown Marmorated Stink Bug and other potential pest species from close related and similar native species. That will allow them to make decisions about cleaning cargo, for example, about eradication actions and will ultimately safeguard the Australian economy and agriculture.
+We have produced this AI model, but to really make it usable to people, we are putting it into a smartphone that the Department of Agriculture can then use at the border, at ports to identify specimens ‘in the field’, so to say.
+I myself am an optimist and actually the first model that we produced and that we put into this prototype app here was a wheat seed identification model because I'd come out of wheat seed identification project for the department.
+And when we showed this to partners at the Department of Agriculture, Water and the Environment, it turned out that, yes, the principle of this identification app was great. But the actual, really concrete problem at the moment was the stink bugs, so that is where we then turned our attention next. But ultimately an app like this can have all manner of identification models. We could have one in the future for moths, we could have one for wheat seeds again, we could have one for rust fungi potentially. Anything that lends itself to being visually recognised by the expert can also then be visually recognised by the artificial intelligence.
+We partnered with Rapiscan Australia to implement 3D X-Rays and automatic biosecurity algorithms. This helps with biosecurity screening at the border. The detection rate using 3D X-ray is 2-3 times greater than current screening technologies. Auto-detection capability can reduce the impost on biosecurity officers. It also makes more efficient and accurate assessments on the presence or absence of biosecurity risk materials.
+We are also working with airports and the New Zealand government to trial scanning passenger luggage before departure and assess risks whilst in transit. If successful, airports and air cargo operators will be able to conduct intensive screening of baggage, mail and cargo for biosecurity risks.
+We use a range of fumigants to treat biosecurity risk material. This includes Methyl Bromide, Sulfuryl Fluoride and Phosphine. We’ve partnered with RingIR Pty Ltd to develop a device that can detect and measure multiple harmful fumigants. This ensures a safe working environment for biosecurity officers, while effectively treating biosecurity risk.
+The device will also have the capacity to verify fumigant treatments. RingIR are developing functionality to remotely measure high end gas concentration levels during treatment processes. This will give extra assurance that treatments are being conducted effectively.
+We have partnered with University of Canberra’s National Environmental DNA (eDNA) Reference Centre to develop eDNA technology. We’re developing a rapid, easy and portable molecular detection tool for species of biosecurity and environmental concern.
+The eDNA technology will be validated and applied as appropriate for our initiatives and response activities such as the Khapra Surge Response. We are also expanding the technology to detect Varroa mite during the of surveillance of feral beehives in the Port of Newcastle.
+See more
+Contact us
+Your ideas are important, and we want to hear from you.
+Contact our Innovation Projects Team at biosecurity.innovation@aff.gov.au for more information.

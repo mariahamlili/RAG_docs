@@ -1,0 +1,168 @@
+We issue export documents required by Australian export laws and by your importing country authority.
+Export documents include export permits and certificates. These verify that your goods meet all requirements.
+You must have all required documents before you can export your goods.
+Check export requirements
+Before you request any export permits or certificates, check requirements for your goods:
+Non-prescribed goods are products that are not regulated by Australian export laws. You must still meet any importing country requirements for these goods.
+Lodge your application
+Most applications for export documents are lodged and processed electronically through our Export Documentation System (EXDOC).
+You may need to submit a manual application via email if:
+- your goods are not available in EXDOC (such as non-prescribed goods)
+- the importing country requires documents or details that EXDOC cannot generate.
+Please ensure you check the Manual of Importing Country Requirements (Micor) to determine whether you lodge your application electronically or manually.
+Additional documents
+As a part of your application, you may need to submit additional documents to us. This applies to both electronic and manual applications. Please check your export requirements and Micor to determine the requirement to submit additional documents.
+Additional documents for Plant and plant products can be submitted via the Plant Export Management System (PEMS) when the AO has recorded their inspection or calibration record in PEMS. As an exporter or their agent, you can use PEMS to generate Service Requests to request authorisation of a Request For Permit (RFP) or issuance of In-Transit (ITCT) certificate and/or Declaration and certificate as to condition (EX188), rather than using email.
+If you use PEMS you will not need to consider email titling requirements for those Service Requests as this will be automatically populated by the system, reducing errors, and expediting the process. Please check the PEMS page for further information.
+Email applications and queries
+As an exporter or their agent, you must:
+- provide correct information in your email subject title
+- use the correct email address for your commodity.
+- provide correct information in the email to support your application
+If you do not meet these requirements, it may delay us processing your request.
+Email: Food Exports
+PROCESS:
+Exporters must use email Subject titles that contain the following information:
+- Transport type (Air / Sea)
+- Request type (Authorisation / Amendment / Collection / Held / Manual / Query / Reprint /Overtime)
+- Date of departure
+- Request for Permit (RFP) number or manual certificate type (EX188B / M418, etc.)
+- Commodity (Dairy / Fish / Eggs / Meat / NPG)
+- Destination country
+- Exporter name
+- Location *(where the document is to be issued Melbourne/ Sydney/ Brisbane/ Perth/ Adelaide – must be in full)
+- If a shipment is being HELD include the word HELD at the beginning of the subject title.
+EXAMPLES:
+EMAIL TITLING EXAMPLES FOR CERT / AUTHORISATIONS / AMENDMENTS / CANCELLATIONS/ REPRINT/ HELD.
+- Subject: Air, Authorisation, 20/5/20, RFP 7119011, Fish, Korea, ABC Exports
+- Subject: Sea, Amendment, 20/5/20, RFP 7023114, Meat, China, ABA Foods
+- Subject: Sea, Cancellation, 20/5/20, RFP 7023114, Dairy, China, ABA Foods
+- Subject: Held, Air, 20/5/20, RFP 7023114, Meat, China, ABA Foods
+MANUAL CERTIFICATES*
+- Subject: Air, Manual, 27/1/17, EX188B, NPG, Sri Lanka, ABC Foods, Brisbane
+REPRINT/ REPLACE (a reprint can be required if the print file fails or there is an issue when printing the HC, no changes are being made to the RFP)
+- Subject: Reprint, Air, Meat, 20/5/20, RFP 7023114, Thailand, ABA Foods
+QUERIES
+- Subject: Query, Meat, Japan, ZZZ Meat Exports
+COLLECTIONS* / IMPORT PERMITS*
+- Subject: Import Permit, 27/1/2018, RFP 7119011, ABC Foods, Melbourne
+- Subject: Collection, 27/1/18, RFP 7119011, 7119012, ABC Forwarders, Adelaide
+Companies that submit Collection lists for multiple exporters will not be able to provide points 3, 4, 5 & 6, and in 7 they will need to record their name not the exporter name.
+Example:
+- Subject: Collection, 27/1/18, ABC Forwarders, Sydney
+MULTIPLE RFPs:
+Some information may not be required (or possible to supply) in the subject heading depending on the request.
+Companies that send a request for authorisation, review or amendment for more than 1 RFP may include the RFP numbers in the body of the email and add “Multiple RFPs” to the email subject title.
+Example:
+- Subject: Air, Authorisation, 27/1/17, Multiple RFP’s, Dairy, Korea, ACC Exports
+Email: Plant Exports NDH
+PEMS
+The use of PEMS is mandatory (from 1 February 2021) unless an exception applies. The exceptions are limited to situations where:
+- exceptional circumstances arise that affect a PEMS user’s ability to complete and submit a record through PEMS
+- a system outage, either planned or unplanned, renders PEMS unusable for a period of time
+- the type of record the AO must complete is not available in PEMS
+- we have approved, in writing, an individual exception with the client and/or AO that allows records to be made in an approved way other than PEMS, and evidence of this is held by us.
+If you are submitting a request for electronic certification/authorisation:
+Electronic certification (including certificate review)
+Subject format: *Authorisation /Certificate Review RFP <Insert Number> – *Horticulture / Grain; Date of Departure; *Air / Sea / Mail/ Bulk Sea Requesting an Amendment
+Example: Authorisation RFP 855552, Grain, 29 April 2018, Sea
+If you are submitting a request for authorisation without inspection records and the associated supporting documentation because the Authorised Officer (AO) has completed the records in PEMS, please note ‘Refer to PEMS for inspection documents’ in the body of your email/request’.
+Please do not include any attachments via email as all required information/supporting documentation should be uploaded in PEMS. After 1 February 2021, supporting documents will be rejected if provided by email, unless an exception exists.
+If you are submitting a request for an In-transit or onshore cold treatment calibration certificate:
+Calibration certificate
+Subject format: CALIBRATION CERTIFICATE; RFP number; Date of Departure; Sea
+Example: CALIBRATION CERTIFICATE; RFP 8892782, 2 May 2018, Sea
+Example: CALIBRATION CERTIFICATE; RFP 8892782, 2 May 2018, Sea
+If you are submitting a request for a Calibration certificate for In-transit cold treatment or onshore cold treatment without the Certificate of loading and calibration record because the Authorised Officer (AO) has completed the record in PEMS, please note ‘Refer to PEMS for the loading and calibration record for an in-transit cold treatment/onshore cold treatment’.
+Please do not include any attachments via email as all required information/supporting documentation should be uploaded in PEMS. After 1 February 2021, supporting documents will be rejected if provided by email, unless an exception exists.
+Note – the commodity inspection must be in PEMS for the Calibration certificate to be issued from PEMS
+When an external Authorised Officer has used PEMS to record their inspection and/or calibration record including the upload of relevant associated supporting documentation, you do not need to send a copy of the inspection and supporting documentation to Plant Exports NDH
+Once AOs have been given access to PEMS, they are required to submit all plant export inspection records and/or calibration records including the upload of relevant supporting documents (such as import permits and pre-inspection treatment certificates) to the department through PEMS, for all available export inspections (see What types of export inspections does PEMS support?).
+Clients (Exporters/EDI users/Freight Forwarders/AO’s) who have a consignment inspected by an AO who uses PEMS (to record their inspection and upload any/all supporting documentation)::
+- can view the inspection record and all associated supporting documentation in PEMS (once you have registered)
+and
+- will also be required to upload any post inspection documentation to PEMS
+If you are having difficulty understanding how to use PEMS please consult the AO user guide on the website or contact Authorised Officer Program via Plant export training or on the AO hotline on 1800 851 305.
+For further information on PEMS (including how to register/gain access), please refer to the PEMS page on the Department of Agriculture, Fisheries and Forestry web site.
+Email Titling Requirements
+Electronic certification (including certificate review)
+Subject format: *Authorisation /Certificate Review RFP <Insert Number> – *Horticulture / Grain; Date of Departure; *Air / Sea / Mail/ Bulk Sea Requesting an Amendment
+Example: Authorisation RFP 855552, Grain, 29 April 2018, Sea
+Attach: all relevant export documentation should be in PEMS to enable authorisation of the RFP. Only  attach  relevant export documentation to the email when you have an approved exception to submit manual documents.
+Manual Certification
+Subject format: MANUAL *<insert cert type + certificate number> - *Horticulture / Grain; Date of Departure; *Air / Sea / Mail
+Example:MANUAL – Phytosanitary certificate + 637281 – Horticulture – 9 May 2018 – Air
+Transfer certificate
+Subject format:TRANSFER CERTIFICATE; Date of Transfer
+Example: TRANSFER CERTIFICATE 6 May 2018
+Amendment
+Subject format:AMENDMENT *RFP / Manual Certificate <Insert number>.
+Example:AMENDMENT RFP 7782991
+Calibration certificate (onshore cold treatment and In-transit cold treatment where PEMS has not been used to record calibration information. If PEMS was used, please refer to above PEMS section)
+Subject format:CALIBRATION CERTIFICATE; RFP number; Date of Departure; Sea
+Example: CALIBRATION CERTIFICATE; RFP 8892782, 2 May 2018, Sea
+Request for Electronic Certificate to be posted
+Subject format: Printed Certificate; RFP <Insert Number>; Date of departure; Print Region: <Insert Regional office>
+Example: Printed Certificate; RFP 7883902, 29 April 2018, Melbourne
+Request to Book Overtime
+Subject format:CLIENT QUERY, OVERTIME REQUEST Authorisation /Certificate Review RFP <Insert Number> – Horticulture / Grain; <insert day, date, time> Client: <insert client name>
+Example: CLIENT QUERY, OVERTIME REQUEST Authorisation RFP2009402 Grain 28 April 2018 2pm PIN Exporters
+NOTE: PEMS support is limited outside of business hours so please ensure all users are familiar with PEMS prior to requesting overtime.
+For inspection documents PE100, PE101 and PE102
+Subject format:AO Name - AO Number - RFP number - Exporter - Date of Departure.
+Example:AO Inspection: John Smith - AO 1234 - RFP 6722555 - Top Exports – DOD 11.05.14
+For inspection document PE103
+Subject format:AO Inspection: AO Name - AO Number - IMO Number
+Example: AO Inspection: John Smith - AO 1234 - IMO 1234567
+For Inspection document PE104
+Subject format:AO Name - AO Number - Container number
+Example:AO Inspection: John Smith - AO 1234 - Container ABCD1234567
+Client Query
+Used for general enquiries only and should not be related to any specific consignments currently awaiting authorisation/certification.
+Subject format:Plant Export Query – <Insert relevant topic>
+Example: Plant Export Query – Exporting Mangoes to Indonesia
+Receive export documents
+Three options are available to receive export documents.
+- Remote Print – for certain certificates, we allow you to print your own export documentation without the need to collect from the department.
+- Mail – We can organise for your export documents to be mailed to you.
+- Office pick up -You can collect your documents from one of our offices.
+Further information on each of these options is available below
+EXDOC supports remote printing of certain certificates to exporter designated sites.
+Certificate details are transmitted electronically to the exporter’s software from EXDOC. Then their software must forward the print file to an appropriately configured printer.
+To use the EXDOC remote printing facility, you must be registered with EXDOC.
+Email us for information about remote print agreements:
+- food products and NPG — Food Exports
+- plant and plant products — EXDOC Plant Programs
+To receive certificates by mail, include the postal address when you lodge your documents:
+- food products and NPG — Food Exports
+- plant and plant products —Plant Exports NDH
+Documentation can be collected from some department offices.
+For efficient collection at the office, make sure:
+- all Request for Permit (RFP) applications are complete (RFP status COMP)
+- you have completed a collection list (see below) and emailed it to the Food Exports email address (using correct titling as per above)
+- you have received a reply from the Food Exports email address stating that your certificate(s) are ready for collection
+Download
+Collection list (PDF 193 KB)
+Collection list (DOCX 33 KB)
+If you have difficulty accessing these files, visit web accessibility for assistance.
+Locations
+Collection times will be during weekdays between 08:00 to 16:00 in the relevant time zone.
+- Adelaide — Sir Donald Bradman Drive, Export Park SA 5950
+- Brisbane — 42-44 Qantas Drive, Eagle Farm QLD 4009
+- Melbourne — 1-21 Dean Street, Moonee Ponds VIC 3039
+- Perth — 24 Fricker Road, Perth Airport, WA 6105
+- Sydney — 185 O’Riordan Street Mascot, NSW 2020
+In some circumstances, documentation can be collected from other department office locations.
+To check, email:
+- food products and NPG — Food Exports
+- plant and plant products — Plant Exports NDH
+Contact us
+For queries, requests, or lodgement of export documentation.
+Food products
+Includes dairy, eggs, fish, animal by-products, skins, hides, wool, meat, and non-prescribed goods.
+Email: Food Exports
+Phone: 1800 900 090
+Plants and plant products
+Includes prescribed horticulture, grain, fresh fruit and vegetables.
+Email: Plant Exports NDH
+Phone: 1800 900 090 or 1800 851 306

@@ -1,0 +1,26 @@
+| Disease / Expertise | Laboratory* | Email / contact link | Phone | 
+|---|---|---|---|
+| African swine fever | CSIRO-ACDP1 | Contact us - CSIRO | 1300 363 400 | 
+| Animal Influenza | CSIRO-ACDP5 | Contact us - CSIRO | 1300 363 400 | 
+| Anthrax | AgriBio1 | contact.us@agribiojv.com.au | +61 (3) 9032 7000 | 
+| Avian influenza (HPAI and LPAI) in poultry | CSIRO-ACDP3 | Contact us - CSIRO | 1300 363 400 | 
+| Bluetongue | CSIRO-ACDP3 | Contact us - CSIRO | 1300 363 400 | 
+| Bovine viral diarrhoea | EMAI2 | emai.office@dpi.nsw.gov.au | +61 (2) 4640 6333 | 
+| Brucellosis | CSIRO-ACDP1 | Contact us - CSIRO | 1300 363 400 | 
+| Classical swine fever | CSIRO-ACDP3 | Contact us - CSIRO | 1300 363 400 | 
+| Diagnostic test validation science in Asia-Pacific Region | CSIRO-ACDP4 | Contact us - CSIRO | 1300 363 400 | 
+| Epizootic haematopoietic necrosis | CSIRO-ACDP and University of Sydney3 | Contact us - CSIRO | 1300 363 400 | 
+| Hendra and Nipah virus infection | CSIRO-ACDP3 | Contact us - CSIRO | 1300 363 400 | 
+| Infection with abalone herpesvirus | CSIRO-ACDP3 | Contact us - CSIRO | 1300 363 400 | 
+| Johne’s disease | AgriBio and University of Melbourne1 | contact.us@agribiojv.com.au | +61 (3) 9032 7000 | 
+| Laboratory biological risk management | CSIRO-ACDP5 | Contact us - CSIRO | 1300 363 400 | 
+| Laboratory capacity building | CSIRO-ACDP4 | Contact us - CSIRO | 1300 363 400 | 
+| Leptospirosis | Queensland Health Forensic and Scientific Services2 | Contact us \| Forensic and Scientific Services \| Queensland Health | 1800 000 377 | 
+| New and emerging diseases | CSIRO-ACDP4 | Contact us - CSIRO | 1300 363 400 | 
+| Newcastle disease | CSIRO-ACDP1,5 | Contact us - CSIRO | 1300 363 400 | 
+| Rabies | CSIRO-ACDP1 | Contact us - CSIRO | 1300 363 400 | 
+| Ranavirus infection | CSIRO-ACDP and University of Sydney3 | Contact us - CSIRO | 1300 363 400 | 
+| Wildlife Health Risk Management | Wildlife Health Australia4 | Contact us – Wildlife Health Australia | 02 9960 6333 | 
+| Yellow head disease | CSIRO-ACDP3 | Contact us - CSIRO | 1300 363 400 | 
+| Zoonotic coronaviruses | CSIRO-ACDP5 | Contact us - CSIRO | 1300 363 400 | 
+* Laboratory status: 1 = National Reference Laboratory, 2 = WOAH Reference Laboratory, 3 = National and WOAH Reference Laboratory, 4 = WOAH-designated Collaborating Centre, 5 = FAO-designated Reference Centre

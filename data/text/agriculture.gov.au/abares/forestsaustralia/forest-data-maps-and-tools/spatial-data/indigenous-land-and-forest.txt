@@ -1,0 +1,92 @@
+Publication date: 28 October 2024
+The Australia's Indigenous land and forest estate (2024) is a continental spatial dataset that identifies and reports separately the individual attributes of Australia's Indigenous estate, namely the extent of land and forest over which Indigenous peoples and communities have ownership, management or co-management, and other special rights.
+Australia’s Indigenous land and forest estate (2024) presents information on the Indigenous land estate by the separate attributes of ownership, management or co-management, and other special rights, according to the new methodology described in the ABARES report Australia’s Indigenous land and forest estate: separate reporting of Indigenous ownership, management and other special rights (Jacobsen et al. 2020). The Indigenous land dataset is then combined (intersected) with forest cover information from the Forests of Australia (2023) dataset. The resulting output dataset provides information on the Indigenous estate for both land and forest.
+The Indigenous estate land attributes are as follows:
+- Indigenous owned: freehold land or forest that is owned by Indigenous communities, or land or forest for which ownership is vested through other mechanisms
+- Indigenous managed: land or forest that is managed by Indigenous communities
+- Indigenous co-managed: land or forest that has formal, legally binding agreements in place to include input from Indigenous people in the process of developing and implementing a management plan
+- Other special rights: land or forest subject to native title determinations, registered Indigenous Land Use Agreements, and legislated special cultural use provisions.
+The Australia's Indigenous land and forest estate (2024) dataset shows that a total of:
+- 154 million hectares of land in Australia (20%) is Indigenous owned
+  - of this, 24 million hectares is forest
+- 192 million hectares of land in Australia (25%) is under some form of Indigenous management, comprising 156 million hectares that is Indigenous managed and 36 million hectares that is Indigenous co-managed
+  - of this, 31 million hectares is forest, comprising 20.7 million hectares that is Indigenous managed and 10.6 million hectares that is Indigenous co-managed
+- 443 million hectares of land in Australia (58%) is subject to other special rights for Indigenous peoples and communities
+  - of this, 62 million hectares if forest.
+These areas of land are not mutually exclusive: there is substantial overlap between Indigenous owned land, Indigenous managed or co-managed land, and land subject to other special rights. Spatial intersection of these attributes confirms the total area of land in the Indigenous estate in Australia as at 2023 was 536 million hectares (70%), and the total area of forest in the Indigenous estate as 70 million hectares, as reported in Indicator 6.4a Area of forest to which Indigenous people have use and rights that protect their special values and are recognised through formal and informal management regimes of Australia’s State of the Forests Report.
+Data
+Australia's Indigenous land and forest estate (2024) – Esri grid (raster), layer files and metadata documents (zipped) [103 MB]
+Australia's Indigenous land and forest estate (2024) – GeoTIFF (raster), layer files and metadata documents (zipped) [62 MB]
+Australia's Indigenous land and forest estate (2024) – CSV, attribute data only [380 KB]
+Metadata PDF [0.2 MB]
+Attributes and lookup tables PDF [0.2 MB]
+Web services/Interactive map viewer
+Web services and interactive maps of the Australia's Indigenous land and forest estate (2024) dataset are hosted by the Digital Atlas of Australia:
+Graphics
+Australia's Indigenous land estate (2024) – graphic only – PNG [0.7 MB]
+Australia's Indigenous forest estate (2024) – graphic only – PNG [1.6 MB]
+Further reading
+Jacobsen R, Howell C, Read SM (2020). Australia's Indigenous land and forest estate: separate reporting of Indigenous ownership, management and other special rights. ABARES technical report, Canberra, December, DOI: doi.org/10.25814/bqr0-4m20. CC by 4.0
+Superseded datasets
+Publication date: 03 August 2022
+The Australia's Indigenous land and forest estate (2020) is a continental spatial dataset that identifies and reports separately the individual attributes of Australia's Indigenous estate, namely the extent of land and forest over which Indigenous peoples and communities have ownership, management or co-management, and other special rights.
+This dataset is the same as the previously published Australia's Indigenous forest estate (2020) (released 03 December 2020) but with an amended title that more accurately reflects the full extent of the dataset.
+Australia’s Indigenous land and forest estate (2020) presents information on the Indigenous land estate by the separate attributes of ownership, management or co-management, and other special rights, according to the new methodology described in the ABARES report Australia’s Indigenous land and forest estate: separate reporting of Indigenous ownership, management and other special rights Jacobsen et al. (2020) and using the sources of data that were used to assemble the Australia’s Indigenous forest estate (2018) spatial dataset The Indigenous land dataset is then combined (intersected) with forest cover information from the Forests of Australia (2018) dataset. The resulting output dataset provides information on the Indigenous estate for both land and forest.
+The Indigenous estate land attributes are as follows:
+- Indigenous owned: freehold land or forest that is owned by Indigenous communities, or land or forest for which ownership is vested through other mechanisms
+- Indigenous managed: land or forest that is managed by Indigenous communities
+- Indigenous co-managed: land or forest that has formal, legally binding agreements in place to include input from Indigenous people in the process of developing and implementing a management plan
+- Other special rights: land or forest subject to native title determinations, registered Indigenous Land Use Agreements, and legislated special cultural use provisions.
+The Australia's Indigenous land and forest estate (2020) dataset shows that a total of:
+- 134 million hectares of land in Australia (17%) is Indigenous owned
+  - of this, 22 million hectares is forest
+- 174 million hectares of land in Australia (22%) is under some form of Indigenous management, comprising 141 million hectares Indigenous managed and 33 million hectares Indigenous co-managed
+  - of this, 29 million hectares is forest, comprising 18 million hectares Indigenous managed and 10 million hectares Indigenous co-managed
+- 337 million hectares of land in Australia (44%) is subject to other special rights for Indigenous people
+  - of this, 51 million hectares if forest.
+These areas of land are not mutually exclusive: there is substantial overlap between Indigenous owned land, Indigenous managed or co-managed land, and land subject to other special rights. Intersection of the three new spatial attributes confirms the total area of land in the Indigenous estate in Australia as at 2016 was 438 million hectares (57%), and the total area of forest in the Indigenous estate as 70 million hectares, as reported in Australia’s State of the Forests Report 2018.
+Data
+Australia's Indigenous land and forest estate (2020) ZIP [44 MB] – Esri grid (raster), layer file and metadata documents
+Australia's Indigenous land and forest estate (2020) ZIP [74 MB] – GeoTIFF (raster), layer file and metadata documents
+Lineage details PDF [0.3 MB]
+Attributes and lookup tables PDF [0.2 MB]
+Metadata PDF [0.2 MB]
+Graphics
+Australia's Indigenous land estate (2020) – graphic only – PNG: [0.6 MB]
+Australia's Indigenous forest estate (2020) – graphic only – PNG: [0.6 MB]
+Interactive views
+Publication date: 03 December 2020
+Australia’s Indigenous forest estate (2020) is a continental spatial dataset that identifies and reports separately the individual attributes of Australia’s Indigenous estate, namely the extent of land and forest over which Indigenous peoples and communities have ownership, management or co-management, and other special rights.
+Australia’s National Forest Inventory has previously used the four derived category combinations of Dillon et al. (2015) for reporting the Indigenous estate in Australia’s State of the Forests Report 2013 and Australia’s State of the Forests Report 2018. These four categories combined in various ways the individual attributes of the Indigenous estate, with an area of land or forest being allocated to only one of the four categories. However, the categories did not allow separate reporting on Indigenous ownership, management or co-management, or other special rights.
+The methodology described in Australia’s Indigenous land and forest estate: separate reporting of Indigenous ownership, management and other special rights (Jacobsen et al. 2020) disentangles the four categories of Dillon et al. (2015), and allows separate reporting of each of Indigenous ownership of land or forest, Indigenous management or co‑management of land or forest, and land or forest over which Indigenous peoples and communities have other special rights. Separate spatial coverages were created for each of these attributes, and this new dataset can form the basis for subsequent reporting on the relationships between Indigenous peoples and land or forest.
+The methods and data in this data package use the same sources of data used for assembling the Australia’s Indigenous forest estate (2018) spatial dataset, but presents the information on the Indigenous land estate by the separate attributes ownership, management of co-management, and other special rights, according to the new methodology of Jacobsen et al. (2020). The Indigenous land dataset is also combined (intersected) with forest cover information from the Forests of Australia (2018) dataset. The resulting output dataset provides information on the Indigenous estate for both land and forest.
+The Indigenous estate land attributes are as follows (ABARES 2020; Jacobsen et al. 2020):
+- Indigenous owned: freehold land or forest that is owned by Indigenous communities, or land or forest for which ownership is vested through other mechanisms
+- Indigenous managed: land or forest that is managed by Indigenous communities
+- Indigenous co-managed: land or forest that has formal, legally binding agreements in place to include input from Indigenous people in the process of developing and implementing a management plan
+- Other special rights: land or forest subject to native title determinations, registered Indigenous Land Use Agreements, and legislated special cultural use provisions.
+Data
+Australia's Indigenous land and forest estate (2020) ZIP [61 MB] – Esri grid (raster), layer file and metadata documents
+Australia's Indigenous land and forest estate (2020) ZIP [74 MB] – GeoTIFF (raster), layer file and metadata documents
+Lineage details PDF [0.3 MB]
+Attributes and lookup tables PDF [0.2 MB]
+Metadata PDF [0.2 MB]
+Publication date: 16 February 2019
+Australia’s Indigenous forest estate (2018) is a continental spatial dataset of forest and non-forest land over which Indigenous peoples and communities have ownership, management, or rights of use, assembled for Australia's State of the Forests Report 2018. It was developed from multiple data sources, including national, state and territory datasets related to land in which there is an Indigenous interest. The Indigenous land dataset is then combined with forest cover information from the Forests of Australia (2018) dataset.
+The dataset was compiled by the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) for the National Forest Inventory (NFI), a collaborative partnership between the Australian and state and territory governments. The role of the NFI is to collate, integrate and communicate information on Australia's forests. The NFI applies a national classification to state and territory data to allow seamless integration of these datasets. Multiple independent sources of external data are used to fill data gaps and improve the quality of the final dataset.
+The NFI classifies Indigenous land into four categories:
+- Indigenous owned and managed: freehold land that is both owned and managed by Indigenous communities
+- Indigenous managed: land that is managed, but not owned, by Indigenous communities; and lands that are owned by Indigenous people but have formal shared management agreement with Australian and state and territory government agencies
+- Indigenous co-managed: land that is owned and managed by other parties, but has a formal, legally binding agreement in place that includes input from Indigenous people in the process of developing and implementing a management plan
+- Other Special rights: land subject to native title determination, registered Indigenous land use agreement, and legislated special cultural use provision.
+The Australia’s Indigenous forest estate (2018) dataset is produced to fulfil requirements of Australia's National Forest Policy Statement and the Regional Forests Agreement Act 2002 (Cwth), and is used by the Australian Government for domestic and international reporting.
+Data
+Australia's Indigenous forest estate (2018) ZIP [65 MB] – Esri grid (raster), layer file and metadata documents
+Lineage details PDF [581 KB]
+Attributes and lookup tables PDF [585 KB]
+Metadata PDF [585 MB]
+Graphic
+![](https://www.agriculture.gov.au/sites/default/files/abares/forestsaustralia/publishingimages/sofr/australias-state-of-the-forests-report-2018/forest%20spatial%20data/Australias_Indigenous_forest_estate_2018_thumbnail.png)
+Australia's Indigenous forest estate (2018) – graphic only – PNG: [0.8 MB] – PDF: [2.2 MB]
+Further reading
+Dillon R, Jeyasingham J, Eades S and Read S (2015). Development of the Australia's Indigenous forest estate (2013) dataset [2.3 MB]. ABARES Research report 15.6, Canberra.

@@ -1,0 +1,97 @@
+These tables provide a further breakdown of red meat exports in six formats: exports by state, exports by destination, by load port across Australia, comparison tables, meat exported via air freight and processed meat exports. All reports in Excel format.
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2112 mesp [27 KB] | 2112 fesp [27 KB] | 2112 cesp [28 KB] | 
+| 57 Destination Report | 2112 m57dest [37 KB] | 2112 f57dest [39 KB] | 2112 c57dest [40 KB] | 
+| Exports by Load Port | 2112 mlp [22 KB] | 2112 flp [21 KB] | 2112 clp [21 KB] | 
+| Comparison Table | - | 2112 fcom [29 KB] | 2112 ccom [37 KB] | 
+| Air Freight | 2112 mair [26 KB] | 2112 fair [26 KB] | 2112 cair [27 KB] | 
+| Processed Meat Exports | 2112 mf9 [23 KB] | 2108 ff9 [22 KB] | 2112 cf9 [22 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2111 mesp [21 KB] | 2111 fesp [21 KB] | 2111 cesp [22 KB] | 
+| 57 Destination Report | 2111 m57dest [30 KB] | 2111 f57dest [31 KB] | 2111 c57dest [32 KB] | 
+| Exports by Load Port | 2111 mlp [16 KB] | 2111 flp [16 KB] | 2111 clp [16 KB] | 
+| Comparison Table | - | 2111 fcom [29 KB] | 2111 ccom [30 KB] | 
+| Air Freight | 2111 mair [19 KB] | 2111 fair [19 KB] | 2111 cair [20 KB] | 
+| Processed Meat Exports | 2111 mf9 [18 KB] | 2111 ff9 [17 KB] | 2111 cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2110 mesp [21 KB] | 2110 fesp [21 KB] | 2110 cesp [22 KB] | 
+| 57 Destination Report | 2110 m57dest [30 KB] | 2110 f57dest [31 KB] | 2110 c57dest [32 KB] | 
+| Exports by Load Port | 2110 mlp [16 KB] | 2110 flp [16 KB] | 2110 clp [16 KB] | 
+| Comparison Table | - | 2110 fcom [29 KB] | 2110 ccom [30 KB] | 
+| Air Freight | 2110 mair [19 KB] | 2110 fair [19 KB] | 2110 cair [20 KB] | 
+| Processed Meat Exports | 2110 mf9 [18 KB] | 2110 ff9 [17 KB] | 2110 cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2109 mesp [21 KB] | 2109 fesp [21 KB] | 2109 cesp [22 KB] | 
+| 57 Destination Report | 2109 m57dest [30 KB] | 2109 f57dest [31 KB] | 2109 c57dest [32 KB] | 
+| Exports by Load Port | 2109 mlp [16 KB] | 2109 flp [16 KB] | 2109 clp [16 KB] | 
+| Comparison Table | - | 2109 fcom [29 KB] | 2109 ccom [30 KB] | 
+| Air Freight | 2109 mair [19 KB] | 2109 fair [19 KB] | 2109 cair [20 KB] | 
+| Processed Meat Exports | 2109 mf9 [18 KB] | 2109 ff9 [17 KB] | 2109 cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2108 mesp [21 KB] | 2108 fesp [21 KB] | 2108 cesp [22 KB] | 
+| 57 Destination Report | 2108 m57dest [30 KB] | 2108 f57dest [31 KB] | 2108 c57dest [32 KB] | 
+| Exports by Load Port | 2108 mlp [16 KB] | 2108 flp [16 KB] | 2108 clp [16 KB] | 
+| Comparison Table | - | 2108 fcom [29 KB] | 2108 ccom [30 KB] | 
+| Air Freight | 2108 mair [19 KB] | 2108 fair [19 KB] | 2108 cair [20 KB] | 
+| Processed Meat Exports | 2108 mf9 [18 KB] | 2108 ff9 [17 KB] | 2108 cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2107 mesp [20 KB] | 2107 fesp [21 KB] | 2107 cesp [20 KB] | 
+| 57 Destination Report | 2107 m57dest [32 KB] | 2107 f57dest [33 KB] | 2107 c57dest [30 KB] | 
+| Exports by Load Port | 2107 mlp [15 KB] | 2107 flp [17 KB] | 2107 clp [15 KB] | 
+| Comparison Table | - | 2107 fcom [29 KB] | 2107 ccom [28 KB] | 
+| Air Freight | 2107 mair [19 KB] | 2107 fair [21 KB] | 2107 cair [19 KB] | 
+| Processed Meat Exports | 2107_mf9 [18 KB] | 2107_ff9 [17 KB] | 2107_cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2106 mesp [21 KB] | 2106 fesp [22 KB] | 2106 cesp [21 KB] | 
+| 57 Destination Report | 2106 m57dest [30 KB] | 2106 f57dest [33 KB] | 2106 c57dest [32 KB] | 
+| Exports by Load Port | 2106 mlp [16 KB] | 2106 flp [16 KB] | 2106 clp [16 KB] | 
+| Comparison Table | - | 2106 fcom [30 KB] | 2106 ccom [30 KB] | 
+| Air Freight | 2106 mair [19 KB] | 2106 fair [20 KB] | 2106 cair [20 KB] | 
+| Processed Meat Exports | 2106_mf9 [18 KB] | 2106_ff9 [17 KB] | 2106_cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2105 mesp [20 KB] | 2105 fesp [21 KB] | 2105 cesp [20 KB] | 
+| 57 Destination Report | 2105 m57dest [32 KB] | 2105 f57dest [33 KB] | 2105 c57dest [30 KB] | 
+| Exports by Load Port | 2105 mlp [15 KB] | 2105 flp [17 KB] | 2105 clp [15 KB] | 
+| Comparison Table | - | 2105 fcom [29 KB] | 2105 ccom [28 KB] | 
+| Air Freight | 2105 mair [19 KB] | 2105 fair [21 KB] | 2105 cair [19 KB] | 
+| Processed Meat Exports | 2105_mf9 [18 KB] | 2105_ff9 [17 KB] | 2105_cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2104 mesp [21 KB] | 2104_fesp [22 KB] | 2104 cesp [21 KB] | 
+| 57 Destination Report | 2104 m57dest [30 KB] | 2104 f57dest [33 KB] | 2104 c57dest [31 KB] | 
+| Exports by Load Port | 2104 mlp [16 KB] | 2104 flp [16 KB] | 2104 clp [16 KB] | 
+| Comparison Table | - | 2104 fcom [30 KB] | 2104 ccom [30 KB] | 
+| Air Freight | 2104 mair [19 KB] | 2104 fair [20 KB] | - | 
+| Processed Meat Exports | 2104 mf9 [18 KB] | 2104 ff9 [17 KB] | 2104 cair [20 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2103 mesp [21 KB] | 2103_fesp [22 KB] | 2103 cesp [21 KB] | 
+| 57 Destination Report | 2103 m57dest [30 KB] | 2103 f57dest [33 KB] | 2103 c57dest [31 KB] | 
+| Exports by Load Port | 2103 mlp [16 KB] | 2103 flp [16 KB] | 2103 clp [16 KB] | 
+| Comparison Table | - | 2103 fcom [30 KB] | 2103 ccom [30 KB] | 
+| Air Freight | 2103 mair [19 KB] | 2103 fair [20 KB] | 2103 cair [20 KB] | 
+| Processed Meat Exports | 2103 mf9 [18 KB] | 2103 ff9 [17 KB] | 2103 cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2102 mesp [21 KB] | 2102 fesp [22 KB] | 2102 cesp [21 KB] | 
+| 57 Destination Report | 2102 m57dest [30 KB] | 2102 f57dest [33 KB] | 2102 c57dest [31 KB] | 
+| Exports by Load Port | 2102 mlp [16 KB] | 2102 flp [16 KB] | 2102 clp [16 KB] | 
+| Comparison Table | - | 2102 fcom [30 KB] | 2102 ccom [29 KB] | 
+| Air Freight | 2102 mair [19 KB] | 2102 fair [20 KB] | 2102 cair [19 KB] | 
+| Processed Meat Exports | 2102 mf9 [19 KB] | 2102 ff9 [17 KB] | 2102 cf9 [17 KB] | 
+| Title | Month | Fiscal YTD | Calendar YTD | 
+|---|---|---|---|
+| Exports by State of Production | 2101 mesp [21 KB] | 2101 fesp [22 KB] | 2101 cesp [22 KB] | 
+| 57 Destination Report | 2101 m57dest [30 KB] | 2101 f57dest [32 KB] | 2101 c57dest [34 KB] | 
+| Exports by Load Port | 2101 mlp [16 KB] | 2101 flp [16 KB] | 2101 clp [16 KB] | 
+| Comparison Table | - | 2101 fcom [30 KB] | 2101 ccom [31 KB] | 
+| Air Freight | 2101 mair [19 KB] | 2101 fair [20 KB] | 2101 cair [20 KB] | 
+| Processed Meat Exports | 2101 mf9 [18 KB] | 2101 ff9 [17 KB] | 2101 cf9 [17 KB] |

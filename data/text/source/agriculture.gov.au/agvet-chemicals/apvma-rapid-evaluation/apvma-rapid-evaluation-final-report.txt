@@ -1,0 +1,1701 @@
+Final report: Future structure and governance arrangements for the APVMA 
+1 
+Final report 
+Future structure and governance 
+arrangements for the Australian 
+Pesticides and Veterinary Medicines 
+Authority (APVMA) 
+Ken Matthews, AO 
+20 October 2023
+
+Final report: Future structure and governance arrangements for the APVMA 
+2 
+© Commonwealth of Australia 2023 
+Ownership of intellectual property rights 
+Unless otherwise noted, copyright (and any other intellectual property rights) in this publication is owned by the 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+ 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: Matthews K. 2023, Future structure and 
+governance arrangements for the Australian Pesticides and Veterinary Medicines Authority (APVMA), Department of 
+Agriculture, Fisheries and Forestry, Canberra, September. CC BY 4.0. 
+This publication is available at agriculture.gov.au/publications. 
+Department of Agriculture, Fisheries and Forestry 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+Disclaimer 
+The views and opinions expressed in this publication do not necessarily represent the views of the Australian Government 
+or the portfolio minister for the Department of Agriculture, Fisheries and Forestry. 
+The content of this publication does not constitute advice to any third party. Although due care and skill has been applied in 
+the preparation and compilation of the information and data in this publication, no reliance may be placed on it by any 
+other party. No representation expressed or implied is made as to the currency, accuracy, reliability, completeness or 
+fitness for purpose of the information contained in this publication. The reader should rely on its own inquiries to 
+independently confirm any information and comment on which they may intend to act. 
+The Commonwealth of Australia, its officers, employees, agents and the other parties involved in creating this report 
+disclaim, to the maximum extent permitted by law, responsibility to any other party for any liability, including liability for 
+negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying 
+upon any of the information or data in the publication. 
+Acknowledgements 
+The author thanks interview and survey participants for their input. Thanks also to Julie Gaglia and her team for their 
+support during the project and in preparing this report.
+
+Final report: Future structure and governance arrangements for the APVMA 
+3 
+Letter of transmittal 
+20 October 2023 
+Senator the Hon Murray Watt 
+Minister for Agriculture, Fisheries and Forestry 
+Parliament House, Canberra, ACT 2600 
+ 
+Dear Minister, 
+I am pleased to submit to you my report on the future structure and governance arrangements for 
+the Australian Pesticides and Veterinary Medicines Authority (APVMA). 
+You commissioned the report following some disturbing findings of a Strategic Review of the APVMA 
+by Clayton Utz in July 2023 and a prior investigation by Ms Mary Brennan of allegations raised during 
+Senate Estimates hearings in November 2022.  
+In brief, my report finds that change and reform to the APVMA is necessary. My report recommends 
+significant adjustments to the Authority’s governance arrangements. The changes are designed to lift 
+the Authority’s performance and restore a positive workplace culture. The changes will enable the 
+Authority to resume its previous position and high reputation among professional regulatory 
+authorities within the Australian Government. 
+My recommendations comprise two packages – an externally-initiated package of governance 
+reforms to be decided by the Government, complemented by a package of internally-driven 
+management improvements to be pursued by the new leadership of the Authority.  
+Consistent with your terms of reference for my review, I have also sought to nest the Authority-
+specific reforms to the APVMA within the context of the wider systemic reforms recommended in 
+the 2021 whole-of-regulatory-system review already before the government.  
+By considering the two reports together, the Government would have the opportunity to launch a 
+serious piece of overdue microeconomic reform in the agriculture sector, which will have enduring 
+benefits for many years into the future. Taking both reports together would also enable the 
+government to build public confidence in the rigour of Australia's arrangements for the regulation of 
+agricultural and veterinary chemicals at a time when community concerns about the presence of 
+chemicals in the environment and our food supply continue to increase.  
+In preparing my report, I have had the benefit of helpful support from the department. However, I 
+want to make clear that my recommendations have been independently formulated. I take full 
+responsibility for them.  
+I commend the report to you.  
+Yours sincerely,  
+ 
+Ken Matthews AO
+
+Final report: Future structure and governance arrangements for the APVMA 
+4 
+Contents 
+Letter of transmittal ..................................................................................................................... 3 
+Executive summary ...................................................................................................................... 6 
+Recommended Externally Initiated Management Reforms ............................................................ 7 
+Internally Managed Reforms ........................................................................................................... 8 
+Confidence Building Measures ........................................................................................................ 9 
+Costings ............................................................................................................................................ 9 
+Section 1: Background to the evaluation ...................................................................................... 10 
+What is the APVMA? ..................................................................................................................... 10 
+The need for a rapid evaluation .................................................................................................... 10 
+Scope of this report ....................................................................................................................... 11 
+Factors guiding the recommendations .......................................................................................... 11 
+Section 2: APVMA Performance – What are the issues of concern? ............................................... 13 
+Alleged shortfalls in leadership and management within the APVMA ......................................... 13 
+Performance impacts on the APVMA from the relocation to Armidale........................................ 14 
+Alleged shortfalls from APS standards and best practice .............................................................. 15 
+Alleged shortfalls from best practice as a government regulator ................................................. 16 
+Alleged deficiencies in stakeholder management by the APVMA ................................................ 17 
+In short… ........................................................................................................................................ 18 
+What is the view of staff and the union? ...................................................................................... 18 
+Where to from here? ..................................................................................................................... 19 
+Section 3: Future governance arrangements to deal with the issues of concern ............................ 20 
+Package 1 – externally imposed governance improvements ........................................................ 20 
+Package 2 – internally managed governance improvements........................................................ 30 
+Section 4: Other measures to restore or maintain public confidence in Australia’s regulatory 
+arrangements .............................................................................................................................. 33 
+Section 5: Costings ...................................................................................................................... 37 
+Section 6: Recommendations ....................................................................................................... 40 
+Attachment A .............................................................................................................................. 44 
+Terms of Reference: Rapid evaluation of the Australian Pesticides and Veterinary Medicines 
+Authority (APVMA) review findings and provision of advice on structure and governance ................ 44 
+Attachment B .............................................................................................................................. 45 
+Guidance on decision-making by the APVMR to be given statutory independence ..................... 45 
+Attachment C .............................................................................................................................. 46
+
+Final report: Future structure and governance arrangements for the APVMA 
+5 
+Guidance on the operational relationship between the APVMR and the departmental secretary
+ ............................................................................................................................................................... 46 
+ 
+Figures 
+Figure 1: A comparison of current and proposed arrangements of the APVMA .................................. 23
+
+Final report: Future structure and governance arrangements for the APVMA 
+6 
+Executive summary 
+The Australian Pesticides and Veterinary Medicines Authority (APVMA) is the Australian Government 
+regulator of agricultural and veterinary (agvet) chemicals. The APVMA has two offices, the main 
+office in Armidale NSW and a smaller satellite office in Canberra.  
+In Senate Estimates hearings on 8 November 2022, serious allegations were raised about the conduct 
+of certain APVMA senior staff. Investigations were conducted by Ms Mary Brennan and 
+subsequently, Clayton Utz. Clayton Utz found alleged examples of potential noncompliance with 
+Commonwealth procurement and financial rules, high staff turnover and workplace complaints, and 
+an apparent lack of balance across the full range of the APVMA’s regulatory responsibilities. It 
+identified a potential risk of industry capture of the regulator.  
+The Minister for Agriculture, Fisheries and Forestry then commissioned me to conduct an 
+independent, rapid evaluation of the Clayton Utz findings and to advise on future governance 
+arrangements for the APVMA. 
+In reviewing the performance and culture of the APVMA over the period under review (2019 - 2022), 
+there are at least five areas of concern: 
+1) 
+Alleged shortfalls in leadership and management within the APVMA  
+2) 
+Performance impacts on the APVMA from the relocation to Armidale 
+3) 
+Alleged shortfalls from Australian Public Service standards and best practice  
+4) 
+Alleged shortfalls by the APVMA from best practice as a government regulator 
+5) 
+Alleged deficiencies in stakeholder management by the APVMA. 
+My examination of these five areas of concern suggests that the Authority lost sight of its 
+fundamental identity as a professional regulator. Its operations became unbalanced among its 
+several functions. Its dealings with stakeholders became inequitable.  
+Its separation from the remainder of the APS increased – it began to act as though independence 
+required isolation. Its understanding and application of the APS values and Code of Conduct began to 
+fall away.  
+Its separation from the community of other Australian Government professional regulators 
+intensified. Consequently, its regulatory practices diverged from counterpart regulators over time.  
+The ethical and human values of its corporate culture began to degrade. Staff complaints and 
+dissatisfaction increased to high levels.  
+These concerns suggest a previously respected and highly motivated organisation which had lost its 
+way. In the words of a senior level close observer at the time, “the agency lacked leadership 
+knowledge of regulator and APS best practice. It had become an isolated island of paralysed decision 
+making, and had lost confidence as a regulator.”
+
+Final report: Future structure and governance arrangements for the APVMA 
+7 
+Many of the issues identified by Clayton Utz and the current review are now being addressed by the 
+new leadership team. This report seeks to identify a package of governance and structural changes to 
+support the APVMA’s current improvement efforts, and to ensure that the alleged past failures never 
+recur.  
+Notwithstanding the efforts of the Authority’s current leadership team, I have concluded that 
+significant reform of governance arrangements is required. The recommended reforms comprise two 
+packages: a package of externally initiated governance reforms; and a package of internally managed 
+governance improvements. 
+Recommended Externally Initiated Management Reforms 
+The CEO of the APVMA would be made a statutory office holder, appointed by the Governor General. 
+The Officeholder would be re-designated the Australian Pesticides and Veterinary Medicines 
+Regulator (‘the APVMR’).  
+There would be a phased transfer of the Authority from Armidale to Canberra to join the Agriculture 
+department. The discrete identity of the Authority would be preserved in legislation. Most current 
+staff would become members of the ‘Office of the APVMR’ and become departmental employees.  
+The independence of science-based regulatory decisions by the APVMR would be guaranteed in 
+legislation. Governance, management. and professional linkages from the Office of the APVMR into 
+the department and the wider Australian Public Service would be rebuilt, leveraging the benefits of 
+its new Canberra base.  
+The APVMR would be appointed by the Governor General on the advice of the Minister, based on 
+transparent selection criteria specific to the APVMR position, and following a selection process 
+endorsed by the Australian Public Service Commissioner.  
+The Board would be abolished and the Secretary of the Department of Agriculture, Fisheries and 
+Forestry would take its place as the accountable authority under the PGPA Act. The Secretary may 
+delegate to the APVMR the authority to spend money and undertake other PGPA Act functions. 
+The APVMR would be accountable to the Secretary under the PGPA Act, to the Secretary under the 
+Public Service Act, and to the Minister for all powers and functions under the consolidated new 
+APVMR legislation.  
+The Office of the APVMR would administer its own Special Account or equivalent. Funds from the 
+Special Account, and staff funded from the Special Account, would only be able to be used for the 
+purposes and legislated functions of the APVMR.  
+Legislation would require that budgetary and other resources be allocated across all functions of the 
+APVMR, sufficient to discharge responsibilities adequately in each area, including compliance and 
+enforcement and chemical review.  
+The four separate Acts currently governing the operations of the APVMA would be reviewed, revised 
+and consolidated.  
+The Authority’s name would be changed to the Australian Pesticides and Veterinary Medicines 
+Regulator (APVMR), reinforcing to staff and stakeholders its core role as a regulator.
+
+Final report: Future structure and governance arrangements for the APVMA 
+8 
+The reform package would enable the Authority to more readily tap into good APS practice in staff 
+management and leadership. It would enable the APVMR to access information, advice, and senior 
+executive counsel from the Secretary and other senior officers of the department. It would provide 
+the opportunity for the APVMR at their discretion, to source departmental services in support of its 
+operations.  
+For all these reasons, establishing the APVMR headquarters in Canberra is an essential prerequisite 
+of the governance, leadership, and management reforms which are now required of the Authority.  
+Ultimately however, the recommendation to return the Authority to Canberra was not based on a 
+choice between geographic locations, but rather on how best to achieve the necessary operational 
+and cultural reforms now required of the Authority.  
+These reforms would enable a robust re-connection between the Authority and the Australian Public 
+Service. They should reverse the sense of isolation, which in recent years has gradually taken root in 
+the Authority. They would also enable more ready access to professional, technical, experienced, and 
+senior leadership staff. 
+The Armidale office will reduce in size over time through natural attrition. Taking advantage of the 
+opportunities for remote work not previously available, it should be possible in 2023 to design a 
+prudent, graduated re-location process which reasonably sustains the Authority’s operations, and 
+minimises impacts on most staff and the Armidale community.  
+A modest appropriation-funded relocation package is recommended to facilitate the process and to 
+minimise impacts on operations.  
+The Agriculture portfolio continues to be the most appropriate portfolio home for the Authority, 
+because it covers a larger span of relevant regulated domain. It certainly covers the largest economic 
+and land use interests in the regulation of pesticides and veterinary chemicals, that is, the agriculture 
+sector. 
+Certain stakeholder groups will express concern that the independence of the APVMR may be 
+compromised by its linkages into the department. These concerns can be answered by legislative 
+guarantees of independence of decision-making, together with transparent administrative 
+arrangements within the department to ensure a discrete identity and operational autonomy in the 
+Regulator’s work. 
+Internally Managed Reforms 
+The recommended package of externally imposed governance improvements would be 
+complemented by a package of management improvement initiatives managed within the Authority 
+itself.  
+The recommended internally managed reforms include: measures to address culture, measures to 
+lift regulatory performance, and measures to ensure staff understanding of expectations.
+
+Final report: Future structure and governance arrangements for the APVMA 
+9 
+Confidence Building Measures 
+The terms of reference for my review also asked me to consider any other actions the Government 
+should take to ensure or restore confidence in Australia’s agvet chemical regulatory system. 
+Recommendations include:  
+• 
+Measures to further strengthen the quality and integrity of scientific decisions 
+• 
+Measures to improve the Authority’s regulatory performance indicators 
+• 
+Measures to enhance transparency. 
+Finally, public confidence can be maintained by positioning the recommended reforms to the APVMA 
+in the wider context of reforms already recommended to Australia's regulatory system as a whole. 
+The Report of the Independent Review of the Pesticides and Veterinary Medicines Regulatory System 
+in Australia, 2021 has made many additional, complementary recommendations aimed at improving 
+the performance of Australia's agvet chemical regulatory system as a whole and specifically building 
+public confidence and trust in Australian regulatory processes.  
+It is recommended that the Government consider the present report on the APVMA alongside the 
+wider, whole-of-regulatory-system report. Taken together, there is an opportunity to launch a long-
+overdue process of microeconomic reform to lift the performance of, and public confidence in, the 
+national agvet chemical regulatory system as a whole. 
+Costings 
+The agvet chemicals industry currently funds around 95% of the APVMA’s $43m annual budget 
+through fees, charges and levies.  
+This general approach is appropriate for the future APVMR and should continue. However, the 
+Government’s charging framework also provides for deviations from full cost recovery to achieve 
+other sound policy outcomes, if required. On this basis I recommend limited appropriation funding in 
+four areas: part funding of compliance and enforcement; surveillance and monitoring; funding for 
+government support activities; and a one-off investment in IT.
+
+Final report: Future structure and governance arrangements for the APVMA 
+10 
+Section 1: Background to the 
+evaluation 
+What is the APVMA? 
+The Australian Pesticides and Veterinary Medicines Authority (APVMA) is the Australian Government 
+regulator of agricultural and veterinary (agvet) chemicals. For an agvet chemical to be legally 
+manufactured, imported, supplied, sold or used in Australia, it must be authorised by the APVMA.  
+The APVMA’s authorisation process involves scientifically evaluating the safety and effectiveness of a 
+product in order to preserve the health and safety of people, animals and the environment, and 
+protect Australia's trade. 
+The APVMA has two offices, the main office in Armidale NSW and a smaller satellite office in 
+Canberra. As at 30 June 2023 the APVMA comprised 203 staff, of which 150 positions (144 actual 
+staff) were located in Armidale.  
+The APVMA is a cost recovered agency with a 2022-23 budget of $47.07 million. Ninety-five percent 
+of its budget comes from fees or levies on the industry that it regulates. 
+The need for a rapid evaluation 
+In Senate Estimates hearings on 8 November 2022, serious allegations were raised about the conduct 
+of certain APVMA senior staff.  
+The Minister for Agriculture, Fisheries and Forestry, as the responsible minister, immediately 
+commissioned an investigation into the allegations specifically, and the culture of the organisation 
+more generally. That investigation was conducted by Ms Mary Brennan. 
+Ms Brennan’s investigation identified further serious allegations concerning the APVMA’s culture and 
+operations. Ms Brennan’s interim report was received by the Minister on 8 February 2023. The 
+Minister referred a number of matters to the APSC and the NSW Police.  
+Given the gravity of the issues reported by Ms Brennan, the APVMA Board commissioned a more 
+detailed review by Clayton Utz to examine the APVMA’s allocation of regulatory priorities, its 
+capability to carry out the full scope of regulatory functions, and its operations. 
+Clayton Utz found alleged examples of potential noncompliance with Commonwealth procurement 
+and financial rules, high staff turnover and workplace complaints, and an apparent lack of balance 
+across the full range of the Authority’s regulatory responsibilities. It identified a potential risk of 
+industry capture of the regulator. The report focused on the period 2019 - 2022. 
+The Clayton Utz report was received in July 2023. As he released the report, the Minister said that he 
+had commissioned me to conduct an independent, rapid evaluation of the Clayton Utz findings and 
+deliver advice on the future structure and governance arrangements for the APVMA. The Minister 
+requested the report by 30 September 2023. The Minister subsequently agreed to my request for an 
+extension of time to 27 October.
+
+Final report: Future structure and governance arrangements for the APVMA 
+11 
+Scope of this report 
+Under the Terms of Reference (Attachment A), I was asked to consider the findings of the Clayton Utz 
+report and any other relevant information, including recommendations from the 2021 Independent 
+Review of the Pesticides and Veterinary Medicines Regulatory System in Australia and the regulator’s 
+cost recovery and funding information. (Note: I chaired the panel that produced the 2021 report.)  
+The Terms of Reference invite recommendations on: 
+• 
+the regulator’s future governance, operational structure (including physical location) and 
+legislative framework 
+• 
+any further urgent actions the Government should take to ensure confidence in Australia’s agvet 
+chemical regulatory system 
+• 
+the regulator’s funding framework, including options that uphold the existing polluter and 
+beneficiary pays principle.  
+I was asked to have regard for how the regulator can better balance regulatory outcomes that 
+maximise the national public health benefit rather than industry preferences, and how governance, 
+cultural and legislative recommendations will impact on the future of the regulator’s regulatory 
+arrangements. 
+Factors guiding the recommendations 
+In the course of my review I met with APVMA staff on three occasions to invite their input and to 
+hear their concerns. In those consultations, I made a number of commitments about the character of 
+my report. I said I was aiming to: 
+• 
+Maintain the Authority’s independence in regulatory decision-making 
+• 
+Maintain a discrete identity for the regulator 
+• 
+Assemble a meaningful reform package, i.e., a package sufficient to redress, and be seen to 
+redress, reported management, cultural, and operational issues of concern and re-build public 
+confidence and respect for the Authority 
+• 
+Recommend a sufficient budget for the necessary reforms and for the ongoing work of the 
+Authority. 
+• 
+Ensure staff and union views about the necessary change process were taken into account. 
+I put my view to staff that the APVMA was a fundamentally good and previously respected 
+organisation that in recent years had lost its way. I said I recognised that under its new management 
+many positive steps have been taken to improve the organisation. I said that I recognised the hidden 
+transitional costs of many public sector restructuring and reorganisation processes. I said that for all 
+these reasons, I thought it was important not to ‘bulldoze’ the current organisation, and instead, to 
+seek to build on the past strengths of the Authority, and the current first steps it is taking towards 
+reform. My recommended package later in this report seeks to do that. 
+My report seeks also to nest the recommended reforms to the APVMA within the wider set of whole-
+of-regulatory-system reforms recommended in the 2021 report currently before the government. 
+Taken together, the two reports provide an opportunity for the Government to launch a substantial
+
+Final report: Future structure and governance arrangements for the APVMA 
+12 
+and valuable microeconomic reform process to build a much-improved agvet chemical regulatory 
+system for the decades ahead.
+
+Final report: Future structure and governance arrangements for the APVMA 
+13 
+Section 2: APVMA Performance - What 
+are the issues of concern? 
+In reviewing the performance and culture of the APVMA over recent years, there are at least five 
+areas of concern. Many were alleged in the Brennan review, others in the Clayton Utz review and 
+evidence of others has been seen in my present evaluation. 
+The areas of concern are as follows: 
+1) 
+Alleged shortfalls in leadership and management within the APVMA.  
+2) 
+Performance impacts on the APVMA from the relocation to Armidale. 
+3) 
+Alleged shortfalls from Australian Public Service standards and best practice. 
+4) 
+Alleged shortfalls by the APVMA from best practice as a government regulator. 
+5) 
+Alleged deficiencies in stakeholder management by the APVMA. 
+Alleged shortfalls in leadership and management within the 
+APVMA 
+The Brennan and Clayton Utz reviews reported allegations of serious cases of misconduct, including, 
+but not only, by senior staff, and failure to take firm and rapid action in response to those 
+allegations. The reports noted a high number of workplace complaints, and staff dissatisfaction with 
+the way complaints had been handled within the Authority. Unsurprisingly, the APVMA saw a 
+sustained high level of staff turnover during this period. 
+Reported concerns included: 
+• 
+Possible procedural failings and lack of support for staff, in the way whistleblowers and 
+complainants were treated. 
+• 
+Perceptions that certain complaints continued unaddressed, or unresolved, for extended 
+periods. 
+• 
+Staff scepticism about the integrity of certain staff selection, promotion, and separation 
+processes. 
+• 
+Poor workplace culture and evidence of demoralisation, stress, disaffection, and alienation of 
+some staff. 
+• 
+Ethical concerns about allegedly favoured treatment of certain industry stakeholders. 
+Additionally, Clayton Utz identified shortcomings in the proper management of government 
+procurement processes. They gave particular attention to a long-running and costly, but still 
+unsuccessful, procurement program to raise the standard of ICT services within the Authority. 
+The reviews also questioned the effectiveness of the APVMA Board. Clayton Utz reported that the 
+role of the board was made difficult by alleged failures on the part of senior staff to escalate 
+significant issues involving key staffing matters, financial issues, ministerial issues and emerging risks
+
+Final report: Future structure and governance arrangements for the APVMA 
+14 
+to Board level. As a result, it became difficult for the Board to report, if necessary, to ministers as 
+required under section 19 of the Public Governance, Performance and Accountability Act 2013 (PGPA 
+Act) i.e., to notify the responsible Minister as soon as practicable after the accountable authority 
+becomes aware of any significant issue that has affected the entity.  
+For its part, the Acting Board Chair has confirmed to me that the Board did not have a clear 
+understanding of its responsibilities and legislatively prescribed role to provide effective oversight. 
+He also communicated the Board’s belief that deficient Board support processes had had the effect 
+of reducing Board members’ awareness of potentially significant events, trends and developments in 
+the Board’s areas of responsibility.  
+There were reports of resistance at senior staff level to the Board and other monitoring and review 
+processes and a pronounced lack of openness to externally-generated reform proposals. 
+Despite clear legislation, it appears there was a lack of understanding from the outset of the proper 
+respective roles of the CEO and the Board. This may have been a consequence of the lack of 
+experience in public sector governance matters of some senior leaders.  
+Comment: All of the above (the alleged misconduct, alleged procedural failings, alleged governance 
+shortcomings, and alleged resistance to review and reform) thus comprise the first set of issues that 
+can potentially be remedied by governance improvements. Recommended changes to governance 
+arrangements are made later in this report. 
+Performance impacts on the APVMA from the relocation to 
+Armidale 
+The enforced move to Armidale over the period April 2017 to June 2019, has had serious impacts on 
+the performance and culture of the APVMA in the years since.  
+Only 9% of staff employed at the date of transfer accepted the offer to relocate. Although a number 
+of key staff were able to continue to work from the satellite office in Canberra, there was a 
+disproportionate loss of the scarce but critical regulatory scientist staff cohort. Many administrative 
+staff with knowledge of basic APS governance and management practices were also lost. This meant 
+that standard government processes such as procurement and staff selection became less familiar 
+over time.  
+To add to this, Armidale has a small local public service sector with few job candidates having prior 
+experience in basic APS processes such as procurement, contract management and human resource 
+management. This made recruiting and retaining suitably experienced staff for these functions in 
+Armidale especially challenging, with many positions remaining unfilled, or filled with junior staff on 
+higher duties arrangements, perpetuating the inexperience problem. Deficiencies in induction 
+training or job handovers meant new staff may not have been fully aware of their obligations as an 
+APS employee at the APVMA.  
+Shortly after the announcement of the relocation, the then-CEO resigned. The new CEO’s period of 
+service was not long and a third CEO commenced. Consequently, there was senior executive and 
+leadership turnover at a critical time. The eventual SES team had had little significant regulatory or 
+regulatory policy experience. At the same time, below Executive level, the organisation had to deal
+
+Final report: Future structure and governance arrangements for the APVMA 
+15 
+urgently with significant gaps in its capability, capacity and corporate memory. With the focus of the 
+leadership team on re-locating the APVMA as quickly as possible, there was a reduction in oversight 
+and support for staff, which may have impacted on the Authority’s performance and on the well-
+being of staff. 
+Isolation of the Authority from the wider APS began to develop and isolation of the APVMA SES from 
+their SES departmental colleagues was reinforced. Senior staff rarely engaged with the SES from the 
+portfolio department and as a result there was less exposure to contemporary leadership, 
+management, and public administration best practices.  
+Isolation from the APS community of regulators was also heightened. APS conventions guiding a 
+professional regulator’s proper relationship with the industry it regulates became obscured.  
+Flexible working arrangements including work-from-home and remote working intensified during the 
+pandemic, meaning face-to-face workplace contact significantly reduced not long after the 
+Authority’s full transition to Armidale. A minimum requirement of 20% attendance in the office was 
+introduced and remained in place until the interim leadership changes of February 2023. In these 
+circumstances building and maintaining a positive and inclusive organisational culture became more 
+difficult.  
+Given the geographic separation, the difference in APS experience of the Canberra-based office 
+compared with the Armidale office, and the growing sense of organisational isolation, awareness on 
+the part of the Minister and the department of events, developments, and risks in the APVMA was 
+reduced. Certain emerging problems went unreported and unnoticed, and ultimately unmanaged.  
+Comment: The transfer to Armidale had serious impacts on the performance and culture of the 
+Authority - although it was by no means the only contributing factor. The impacts were highly visible 
+in the early stages of the transfer. However, negative impacts persisted, indeed grew perniciously, in 
+the years that followed. There is little doubt that the re-location reduced the effectiveness of the 
+Authority’s governance and management arrangements in place at the time.  
+There are lessons about how to design governance arrangements to capitalise on the Authority’s 
+location, and about how to structure any re-location process. These lessons need to be taken into 
+account in the governance improvements recommended later in this report. 
+Alleged shortfalls from APS standards and best practice 
+As noted above, the growing sense of isolation of the Authority from the wider APS gradually 
+reduced the Authority’s awareness of contemporary APS best practice, and standard whole of 
+government processes.  
+This was not only a result of the move to Armidale. The recruitment of staff with little or no APS 
+experience exacerbated the problem, while at the same time the APVMA’s former leadership may 
+have confused independence with isolation - the former being a critical and legitimate element of 
+APVMA operations, the latter being an operational risk factor. 
+Isolated from the APS, coupled with recruitment of staff with little or no public service experience, a 
+different culture gradually emerged, licensing different workplace behaviours and personal conduct. 
+Knowledge and direct experience of the APS values and code of conduct was less pervasive among
+
+Final report: Future structure and governance arrangements for the APVMA 
+16 
+the leadership group, new recruits and locally recruited staff. There was a consequential decline in 
+understanding of public service values, conventions, and best practice. In particular, there was 
+reduced understanding of how to apply public service values in the myriad of different situations 
+involving industry/regulator contacts, staff/staff interactions, and public administration processes.  
+The new culture led to a sustained high volume of staff complaints. Clayton Utz reported that the 
+high turnover of staff and poor culture directly affected the APVMA’s day to day operations. 
+For example, Clayton Utz reported a failure to follow the normal Government procurement rules and 
+evidence of weak procurement project management. It reported deficiencies in procurement 
+tracking systems and a lack of guidance for staff on procurement requirements. It saw evidence of 
+poor documentation of procurement decisions and a lack of written supporting justification. 
+Comment: The degradation of the APVMA’s workplace culture and gradual divergence of APVMA 
+practices from APS norms were costly to organisational performance and staff well-being. The right 
+governance arrangements can foster a positive and high-performing culture. The right governance 
+arrangements can also embed and promote public sector processes which have developed over many 
+years to minimise risk and protect the interests of the taxpayer. Recommendations to develop better 
+arrangements for the APVMA in the future are provided later in this report. 
+Alleged shortfalls from best practice as a government 
+regulator 
+The APVMA’s isolation from the APS and from professional colleagues in other regulatory agencies, 
+particularly at agency leadership level, may have led to the APVMA failing to maintain the proper and 
+transparent relationship between a regulator and the industry it regulates.  
+In its well-intentioned efforts to satisfy industry demands for timely registration of agvet chemical 
+products, the Authority may have lost sight of its fundamental identity – that is, a robust, 
+independent regulator of industry on behalf of the community at large.  
+For their part, industry stakeholders may also have lost sight of the fundamental identity of the 
+Authority – they became protective of the Authority and its practices, and increasingly regarded and 
+treated the Authority as a service provider accountable to them for its performance.  
+Isolation from other APS professional regulators especially at senior levels may also have contributed 
+to the decline in compliance and enforcement action, a core function of any regulatory agency. 
+Clayton Utz reported significant evidence that the APVMA favoured education and warnings over 
+compliance action and had a low-risk appetite for compliance and enforcement action. This was 
+associated with decisions by the Authority’s leadership to transfer resources from compliance and 
+enforcement to registration functions - the latter being an understandable priority for industry and 
+emphasised by then-Minister Joyce in his guidance to the Authority.  
+As a regulator, the APVMA has a range of legislated compliance and enforcement powers available 
+for its use. As the Authority tasked with regulating agvet chemicals entering the Australian market, it 
+is the public’s expectation that the APVMA uses these powers to take action that is appropriate and 
+proportionate to any instances of non-compliance. Failure to do so may jeopardise health, safety and
+
+Final report: Future structure and governance arrangements for the APVMA 
+17 
+trade, and risk the reputation of the Authority, the Australian agvet chemicals industries, and the 
+social licence of Australia’s agricultural sector. 
+Maintaining a proper balance among the statutory functions of a regulator, is an important general 
+principle throughout the community of APS regulators. In contrast, in the APVMA, the regulator 
+began to rely on a narrow set of performance indicators, including disproportionate attention to 
+agvet chemical product registrations, assessment, and approvals timeframes. These were the 
+performance indicators of most interest to industry stakeholders and the performance indicators 
+highlighted by former Ministers as the key measure of success or failure. 
+A core function of the Authority, the Chemical Review program – a process to determine whether a 
+previously registered agvet chemical is still safe to use based on more recent information – also 
+continued to languish. This was exacerbated by the gradual shift of resources to the agvet chemical 
+product registration process. The Chemical Review program was most recently run by eight staff; the 
+registration management team comprised 89 staff.  
+The alarming backlog of chemicals under review has been known for a long time, and was identified 
+as an issue in the 2021 independent review of the agvet chemicals regulatory system. The Clayton 
+Utz report reported the apparent slow progress with concern, noting that some chemicals had been 
+under review for more than 17 years without resolution. (The Minister for Agriculture has since given 
+a formal direction that these reviews are to be prioritised, better resourced and finalised as soon as 
+possible.)  
+Such examples were evidence to Clayton Utz of the risk of capture of the regulator by the industry. 
+Disproportionate concern about the interests and preferences of industry stakeholders is clearly not 
+consistent with good government regulatory practice. 
+Comment: Good governance arrangements can build guardrails to minimise the risk of industry 
+capture. Governance arrangements to require, or encourage, the right balance in the posture and 
+work of the APVMA are recommended later in this report. 
+Alleged deficiencies in stakeholder management by the 
+APVMA 
+In addition to the above, a lack of balance began to emerge in consultation arrangements with 
+stakeholders. In its treatment of stakeholders, the APVMA failed to respond to the steadily more 
+demanding expectations about safety, environment, and transparency of process from stakeholders 
+other than industry. 
+Access for industry was prioritised; access for public health and environmental groups continued to 
+languish or be absent. Authority-led forums, such as the Agvet Users Forum and Consultative Forum, 
+were established to provide an opportunity for industry and agvet chemical product users to engage 
+directly with the regulator. However, there were no equivalent consultation mechanisms for public 
+health and environmental groups. The proper even-handed and arms-length posture of a 
+professional industry regulator was not maintained.
+
+Final report: Future structure and governance arrangements for the APVMA 
+18 
+Clayton Utz reported disturbing staff allegations about favoured access and treatment of certain 
+industry stakeholders. Such allegations are not indicative of a sound regulatory posture and suggest a 
+lack of balance in the Authority’s engagement with some stakeholders to the exclusion of others. 
+In short… 
+Over the period under review, the organisation began to lose sight of its fundamental identity as a 
+professional regulator. Its operations became unbalanced among its several functions. Its dealings 
+with, and access for, stakeholders became inequitable.  
+Its separation from the remainder of the APS increased, particularly at Authority leadership level – it 
+began to act as though independence required isolation. Its knowledge, understanding, and 
+application, of the APS values and Code of Conduct began to fall away.  
+Its separation from the community of other Australian Government professional regulators 
+intensified. Consequently, its regulatory practices diverged from counterpart regulators over time.  
+The ethical and human values of its corporate culture began to degrade. Staff complaints and 
+dissatisfaction increased to high levels.  
+These concerns are indicative of a previously respected and highly motivated organisation which had 
+lost its way. In the words of a senior level close observer at the time, “the agency lacked leadership 
+knowledge of regulator and APS best practice. It had become an isolated island of paralysed decision 
+making, and had lost confidence as a regulator.” 
+What is the view of staff and the union? 
+Members of APVMA staff have put their views – both in a series of all-staff and staff/union meetings, 
+and in separate private submissions to me following the meetings. Most staff also completed an 
+informal survey as input to this review.  
+Based on the meetings and submissions, most staff vigorously reject allegations that the integrity of 
+their science based regulatory advice has been compromised. Some staff members concede that the 
+culture of the organisation had been toxic, although many say that this did not apply to their local 
+team, and that overall culture is now much improved. Many staff say that a return to Canberra would 
+be costly and distressing to them and disruptive to APVMA operations. A minority see merit in a 
+return to Canberra, both to improve organisational culture, enable them to perform their duties 
+more effectively, and to redress lack of APS experience and exposure. Most staff argue that the 
+Authority is already lacking sufficient staff and budget to do its job well, even now. Some staff say 
+that the organisation is suffering change and review fatigue. Many say that the new APVMA 
+leadership team is doing a good job in responding to identified problems. Many staff argue that if a 
+move is essential, it will be important to retain the APVMA's independent identity, avoid a sudden 
+Big Bang move, maximise the utilisation of remote working arrangements, retain a ‘branch office’ 
+presence in Armidale, treat affected staff fairly, and learn the lessons from the last enforced 
+relocation. 
+Based on the informal staff survey, a considerable majority of staff were concerned by the Clayton 
+Utz findings about their organisation, and most think that changes are therefore required to improve 
+governance, culture, and structure. Many staff acknowledge that, under the Authority’s new
+
+Final report: Future structure and governance arrangements for the APVMA 
+19 
+leadership, positive changes are already in train. Most staff see stronger connections with the wider 
+APS as a good thing, but many see such connections as already in place. The strongest message from 
+the staff survey was concern about a potential relocation to Canberra. Some 43% of staff would seek 
+a remote working arrangement in that event, and about one in five staff indicated they would seek 
+alternative employment. 
+Where to from here?  
+It is important to note that many of the issues identified by Clayton Utz and the current review are 
+now being addressed by the new leadership team and progress has been made to get the 
+organisation back on track. Certainly, some of the issues can be addressed by changes to internal 
+governance, management and leadership practices. However, other governance reforms will require 
+external decisions beyond the authority of internal agency leadership. 
+Those external governance reforms need to be seen in a whole-of-system context. The 2021 review 
+of the agricultural and veterinary chemicals regulatory system as a whole includes many systemic 
+reforms, which can improve the performance and culture of the APVMA, given its central role in the 
+overall regulatory system.  
+The remainder of this report seeks to identify a package of governance and structural changes to 
+support the APVMA’s current reform and improvement efforts, and to ensure that the alleged past 
+failures never recur.
+
+Final report: Future structure and governance arrangements for the APVMA 
+20 
+Section 3: Future governance 
+arrangements to deal with the issues of 
+concern 
+The issues of concern identified in Section 2 require significant reform of governance arrangements. 
+The recommended reforms comprise two packages: a package of externally imposed governance 
+reforms; and a package of internally managed governance improvements. 
+Package 1 – externally imposed governance improvements 
+The CEO of the APVMA would be made a statutory office holder, appointed by the Governor General. 
+The Officeholder would be re-designated the Australian Pesticides and Veterinary Medicines 
+Regulator (‘the APVMR’).  
+There would be a phased transfer of the Authority from Armidale to Canberra to join the Agriculture 
+department. The discrete identity of the Authority would be preserved in legislation. Most current 
+staff would become members of the ‘Office of the APVMR’ and become departmental employees.  
+The independence of science-based regulatory decisions by the APVMR would be guaranteed in 
+legislation. Governance, management and professional linkages from the Office of the APVMR into 
+the department and the wider Australian Public Service would be rebuilt, leveraging the benefits of 
+its new Canberra base.  
+These arrangements would be similar to the Office of the Gene Technology Regulator (OGTR) which 
+works within the Department of Health and Aged Care. A number of comparable overseas regulators 
+have similar governance arrangements within government departments.  
+More details of the recommended arrangement are in Feature Box 1, following. 
+Feature Box 1: Recommended future governance arrangements 
+Establish a new entity 
+• 
+The CEO will become a statutory officeholder, and be re-designated the Australian Pesticides and 
+Veterinary Medicines Regulator (the ’APVMR’).  
+• 
+An ‘Office of the APVMR’ will be created to support the APVMR office holder.  
+• 
+Most current staff of the APVMA will transfer to the Office of the APVMR.  
+• 
+All staff will continue to be employed under the Public Service Act. 
+Re-locate to Canberra 
+• 
+The Office of the APVMR will be located in Canberra and maintained as a discrete entity within the 
+Department of Agriculture Fisheries and Forestry, with its identity and operational independence 
+preserved.
+
+Final report: Future structure and governance arrangements for the APVMA 
+21 
+• 
+Transfer of positions from Armidale will be progressive and take full account of the needs and preferences 
+of staff, subject to operational requirements.  
+• 
+Interim or longer term remote working arrangements will be utilised where operational requirements 
+permit. However, within the framework of APS conditions of service, attendance at the office will be 
+encouraged at least to levels sufficient to build a more positive corporate culture.  
+• 
+All positions will be reviewed initially, and again upon vacancy, by the APVMR personally to identify their 
+optimum location. 
+Introduce a new appointment process 
+• 
+The APVMR will be appointed by the Governor General on the advice of the Minister, based on transparent 
+selection criteria specific to the APVMR position, and following a selection process endorsed by the 
+Australian Public Service Commissioner.  
+Guarantee independence in decision-making 
+• 
+Legislation will guarantee the independence of the APVMR in science and regulatory decision making. 
+Recommended areas to be reserved by statute for independent decision-making are listed at Attachment 
+B.  
+• 
+The APVMR will have the independent right to communicate directly with the Minister, as required. 
+• 
+The APVMR will have the independent right to lodge its own annual report with the Minister each year, for 
+tabling in the Parliament.  
+• 
+The APVMR will independently release its own performance reports. 
+Re-define accountability arrangements 
+• 
+The Board will be abolished and the Secretary of the Department of Agriculture, Fisheries and Forestry will 
+take its place as the accountable authority under the PGPA Act. The Secretary may delegate to the APVMR 
+the authority to spend money and undertake other PGPA Act functions. 
+• 
+The APVMR will be accountable to the Secretary under the PGPA Act, to the Secretary under the Public 
+Service Act, and to the Minister for all powers and functions under the consolidated new APVMR 
+legislation. 
+Re-define responsibilities 
+• 
+The APVMR office holder will be responsible for the performance and conduct of all staff of the Office of 
+the APVMR (including compliance with the APS values and code of conduct, and the maintenance of a 
+positive workplace culture). If required, the Secretary will provide support for the APVMR in these 
+functions.  
+• 
+The APVMR will be required to inform the Secretary of significant issues affecting or involving the APVMR, 
+to enable Ministers to be kept informed, as required under the PGPA Act.  
+• 
+The APVMR will be responsible for developing and providing balanced consultation access for all 
+stakeholder groups in addition to industry groups, while preserving the proper, arms-length posture of a 
+professional industry regulator.  
+• 
+The APVMR will be responsible under statute for ensuring balanced discharge of all functions under the 
+legislation, including sufficient attention in future to compliance and enforcement and chemical review. 
+• 
+The APVMR will be tasked with playing a constructive role in the implementation of any longer-term 
+systemic reforms flowing from the Government’s consideration of the Final Report of the Independent 
+Review of the Pesticides and Veterinary Medicines Regulatory System in Australia, 2021.
+
+Final report: Future structure and governance arrangements for the APVMA 
+22 
+• 
+The Minister’s expectations of the APVMR will be made transparent to all parties through the publication 
+of the Minister’s occasional Letter of Expectations. 
+Settle the relationship between the APVMR and the Department 
+• 
+The Secretary of the department will be responsible for making effective and enduring arrangements for 
+the APVMR to access information, advice, and senior executive counsel, on broader developments in 
+public administration, good APS practice, government policy, and legal requirements. 
+• 
+The APVMR will be empowered to enter into voluntary agreements with the Secretary or others, for the 
+provision or augmentation of Corporate services e.g., HR, IT, finance, property, legal services, travel 
+services, etc. For the avoidance of doubt, the APVMR will have discretion to retain all, any, or part of any 
+such services in-house. 
+• 
+It is currently envisaged that core compliance and enforcement functions will increasingly be sourced from 
+inside the Office of the APVMR. In-house capacity will need to be grown.  
+• 
+As members of the APS in the Department of Agriculture, Fisheries and Forestry, all staff members will 
+have the same access to information flows, employment opportunities, training, diversity networks, and 
+personal development opportunities as any other departmental officer.  
+• 
+The operational relationship between the APVMR and the Secretary, including their respective 
+responsibilities, will be made transparent to all parties through the publication of an agreed written 
+statement. An illustrative example is at Attachment C to this report. 
+Settle arrangements for Budgets 
+• 
+The Office of the APVMR will have, and administer, its own Special Account or equivalent. The APVMR will 
+be the officer responsible and accountable for the Account. Funds from the Special Account, and staff 
+funded from the Special Account, will only be able to be used for the purposes and legislated functions of 
+the APVMR.  
+• 
+Legislation will require that budgetary and other resources be allocated across all functions of the APVMR, 
+sufficient to discharge responsibilities adequately in each area, including compliance and enforcement and 
+chemical review.  
+Revise the legislation 
+• 
+The four separate Acts currently governing the operations of the APVMA will be reviewed, revised and 
+consolidated.  
+• 
+Recommended reforms accepted by the Government from this report will be given legislative effect where 
+required. Other reforms which may be adopted by the Government from the 2021 regulatory system 
+systemic review will also be taken up in the legislative consolidation process. 
+Basis for the recommendations 
+Establishing the APVMR as a statutory office holder within the department is a proportionate 
+response to the seriousness of the issues and allegations covered in the Clayton Utz report. It 
+provides governance arrangements to reduce the Authority’s organisational isolation while adding 
+operational and cultural support mechanisms. 
+This package retains the critical requirement for independence in science-based regulatory decisions, 
+while reducing the Authority’s previous organisational and geographic isolation from broader 
+developments in public administration, best regulatory practice, government policy, and changing 
+legal requirements.
+
+Final report: Future structure and governance arrangements for the APVMA 
+23 
+Changing the Authority’s name to the Australian Pesticides and Veterinary Medicines Regulator 
+(APVMR), reinforces to staff and stakeholders its core role as a regulator, while respecting the 
+Authority’s previous proud historical identity.  
+The package will enable the Authority to more readily tap into good APS practice in staff 
+management and leadership, and strategies for building a positive, ethical and people-centred 
+corporate culture. It enables the APVMR to access information, advice, and senior executive counsel 
+from the Secretary and other senior officers of the department. It provides the opportunity for the 
+APVMR at their discretion, to source departmental services in support of its operations.  
+For all these reasons, establishing the APVMR headquarters in Canberra is an essential prerequisite 
+of the governance, leadership, and management reforms which are now required of the Authority 
+and to ensure that it re-builds its culture as a safe and respectful workplace.  
+Employment in a larger department provides benefits for staff in career development opportunities, 
+peer engagement, support through diversity networks and professional diversity in roles. 
+The package also provides further opportunities to advance more comprehensive systemic reforms 
+foreshadowed in the 2021 report, Independent Review of the Pesticides and Veterinary Medicines 
+Regulatory System in Australia.  
+Establishing the APVMR as a statutory office holder conforms with the latest guidelines provided by 
+the Department of Finance on the appropriate structural model for different types of Australian 
+Government Bodies and is more aligned with the models adopted for other comparable regulators 
+(e.g., the OGTR, TGA and ACIS). 
+Figure 1: A comparison of current and proposed arrangements of the APVMA
+
+Final report: Future structure and governance arrangements for the APVMA 
+24 
+Why should the Authority return to Canberra? 
+In the course of this rapid evaluation, the issue of whether or not the Authority should return to 
+Canberra has attracted a great deal of attention. 
+It is important to recognise that some staff of the Authority have strong personal, family, career, and 
+financial interests in this decision. Similarly, the Armidale community has a keen interest in the 
+outcome. Strong representations have been made to keep the Authority in Armidale by the Mayor 
+on behalf of the community. Many staff members have expressed concern and disappointment at 
+the prospect of a reversal of a previous Government decision on which they thought they could rely.  
+An informal staff survey of September 2023, indicated that a significant proportion (43%) of staff 
+would seek a remote working arrangement if a return to Canberra were to be decided. Around 20% 
+indicated that they would seek alternative employment. (Around 90% of then-staff declined the 
+original move to Armidale.) 
+These staff and community interests are absolutely legitimate, and for at least these reasons, the 
+recommendation to return the agency to Canberra has not been made lightly. For these reasons also, 
+a relocation package to manage the impacts of the change is recommended. 
+Ultimately however, the recommendation to return the Authority to Canberra was not based on a 
+choice between geographic locations, but rather on how best to achieve the necessary operational 
+and cultural reforms now required of the Authority.  
+Those reforms require a robust re-connection between the Authority and the Australian Public 
+Service. They require reversal of the sense of isolation, which in recent years has gradually taken root 
+in the Authority. Aspects of performance and culture, such as unbalanced relationships with 
+stakeholders and tolerance of poor conduct, need to be quickly brought into line with APS norms and 
+standards.  
+The reforms also require closer linkages to counterpart regulators in Australia. They require 
+strengthening of professional networks. They would benefit from readier exposure to counterpart 
+organisations’ operational models and practices.  
+The reforms will require catching up, and staying up-to-date with changes in Public Service and public 
+administration best practice. They will require continuing awareness of the high standards of conduct 
+the public expects of public servants. The necessary work on the Authority’s workplace culture and 
+people management practices will be easier when there are alternative models in close proximity, to 
+consider and adopt if suitable. 
+Partly as a consequence of the APVMA’s isolation, basic public administration practices such as: 
+publicly defensible procurement; rigorous project management; and high integrity staff selection, 
+promotion, and separation practices have lapsed from best practice. Well-tested APS practices of 
+maintaining records of decisions, with reasons, need to be restored. Records need to be readily 
+searchable and retrievable. The reported failings in these areas need to be taken seriously and put 
+right.  
+To deliver on all these cultural and operational reform requirements, there would be advantage in a 
+location at the centre of the APS. Canberra is that location. But while location in Canberra will help, it
+
+Final report: Future structure and governance arrangements for the APVMA 
+25 
+will not by itself deliver the reforms which are necessary. It is commitment to reform, rather than 
+commitment to a location that will count most.  
+Other relevant factors favouring a return to Canberra, include more ready access to professional, 
+technical, experienced, and senior leadership staff, and the opportunity to source necessary 
+corporate and support services from outside the organisation, if the APVMR so chooses.  
+Delivering nationally consistent regulation will often benefit from location in the national capital. 
+Investigations and inspections of premises usually based in capital cities across Australia will be more 
+easily delivered than from Armidale. This will be particularly important if the compliance and 
+enforcement program is strengthened, as recommended.  
+Similarly, liaison with international counterparts and best practice sharing, can be facilitated by a 
+national capital location.  
+Finally, it should be noted that the then Government’s own benefit / cost study prior to the original 
+move to Armidale showed a negative national benefit in making the move. It should be noted also 
+that of the Authority’s 211 average staffing level (ASL), 49 are already based in Canberra and of the 
+160 Armidale-based positions, six are currently vacant. 
+How best to manage the relocation process  
+The process of returning the Authority to Canberra, needs to be managed prudently and 
+conservatively to minimise the risk of loss of staff and operational capability as occurred in 2017 - 
+2019. The process should not be rushed.  
+The overriding objective should be to minimise the impact of the transfer on the Authority’s overall 
+operational capability, while taking full account of the interests of staff. 
+The process should commence with the formal transfer of the CEO and key senior executive positions 
+to Canberra. There should be a publicly declared commencement date for the new office location.  
+For all other positions, there should be a position-by-position process to identify the optimum 
+geographic location: Canberra; Armidale; either; or other remote location. The APVMR personally 
+should be the decision-maker about each position.  
+Subject always to operational requirements, staff preferences should be taken fully into account, 
+including utilising reasonable, but cost-effective remote working arrangements. Where operational 
+requirements permit, notice periods for the transfer of a specific position could be negotiated with 
+the incumbent staff member. 
+The optimum location for all positions should be reviewed again on vacancy, with the default 
+position that the position will eventually return to Canberra. As previously, the decision maker for 
+each position should be the APVMR personally. 
+Compared to 2017, technologies and practices to enable remote working are now more readily 
+available. The Authority can continue to operate in two locations (Armidale and Canberra), for an 
+extended transition period, with the Canberra office being the headquarters. Work models to 
+continue certain operations from Armidale are now more feasible, even when the headquarters 
+move.
+
+Final report: Future structure and governance arrangements for the APVMA 
+26 
+However, it needs to be made clear that the ultimate outcome will be a Canberra base for the great 
+majority of staff, with remote working arrangements (including from Armidale) authorised only when 
+operationally justified.  
+The Armidale office will reduce in size over time through natural attrition. Taking advantage of the 
+opportunities for remote work not previously available, it should be possible in 2023 to design a 
+prudent, graduated re-location process which reasonably sustains the Authority’s operations, and 
+minimises impacts on most staff and the Armidale community.  
+To improve staff understanding and buy-in, it will be important that staff and unions are properly 
+consulted in the implementation of these changes. Australian Public Service Commission Circular 
+2022/08 dated 6 October 2022 describes the responsibility of government agencies to consult their 
+employees on change processes potentially affecting them. 
+The APVMR and the departmental executive should jointly develop a Transition and Relocation Plan 
+(in line with relevant procedures and policies) to guide the transfer of current APVMA staff to their 
+new placements within the Office of the APVMR, within the department. The plan should ensure that 
+staff have access to all necessary information and are welcomed and fully supported throughout the 
+process. Induction processes to introduce incoming staff to departmental services should be made 
+available.  
+While the impacts of relocation should be manageable, a modest appropriation-funded relocation 
+package is recommended to facilitate the process and to minimise impacts on operations. 
+Appropriation funding is appropriate in this case given that the costs of relocation derive from a 
+government policy directive and are not a direct consequence of the existence and operation of the 
+regulated industry itself.  
+The package should be available to:  
+• 
+assist retention of key staff  
+• 
+meet the costs of redundancies for affected staff who choose not to move  
+• 
+assist with staff re-location costs and specialist advice e.g., financial advice and counselling  
+• 
+meet make-good and fit-out property costs  
+• 
+assist in reducing the impact on public facing operations during the relocation period.  
+A similar package was made available by the then-Government in 2017. 
+This should reduce the level of any short-term disruption to the Authority’s work caused by the re-
+location. In the longer-term, a settled operational base in Canberra should reduce costs to industry 
+as a result of reduced travel and reduced operational and management overhead costs.  
+The ‘Location of Corporate Commonwealth Entities’ Order 
+The original move to Armidale from Canberra was triggered by a legal instrument issued by the 
+Minister for Finance under the PGPA Act - the Public Governance, Performance and Accountability 
+(Location of Corporate Commonwealth Entities) Order 2016 (the ‘GPO’).
+
+Final report: Future structure and governance arrangements for the APVMA 
+27 
+It is recommended that the Order be revoked as soon as practicable. Revocation is recommended 
+regardless of whether the recommendation to establish the APVMR in Canberra is accepted. 
+Revocation would enable the APVMR to recruit staff to any suitable location, attracting a broader 
+range of applicants. Revocation would also enable the executive team to manage its office and 
+staffing location to maximise operational performance. 
+Why retain the Authority in the Agriculture portfolio? 
+An important question when settling future governance arrangements for a Government agency is 
+the threshold decision about which portfolio is the most suitable home. 
+For the agvet chemical regulator, the Health portfolio is sometimes suggested, given the important 
+public health responsibilities of the Authority. However, the Health portfolio covers only part of the 
+regulated domain, that is, public health, but not the environment, natural resource management, 
+international trade, animal welfare, and the largest group of agvet chemical product users - 
+Australian farmers. 
+Similarly, the Environment portfolio covers an important part of the regulated domain, but not the 
+major part. 
+The Agriculture portfolio continues to be the most appropriate portfolio home for the Authority, 
+because it covers a larger span of relevant regulated domain. It certainly covers the largest economic 
+and land use interests in the regulation of pesticides and veterinary chemicals, that is, the agriculture 
+sector. 
+The Agriculture portfolio also has strong interests in international trade and market access, including 
+a network of representatives in key Australian agricultural export markets around the world. The 
+Agriculture portfolio also has well-established regulation capabilities in related areas, including 
+biosecurity, animal welfare aspects of trade, and plant and animal disease management.  
+For all these reasons, it is recommended that the APVMR continue to be located within the 
+Agriculture portfolio. 
+Within the Agriculture portfolio, why bring the Authority into the 
+department? 
+Many other Commonwealth regulators operate successfully, and with full public confidence, as part 
+of a mainstream government department, e.g., the Therapeutic Goods Administration (TGA) and the 
+Office of the Gene Technology Regulator (OGTR), both of which operate within the Department of 
+Health and Aged Care. The critical requirement is to have demonstrable independence in regulatory 
+decisions. 
+There is no reason that a statutory office holder such as the APVMR within a department would have 
+less independence in respect of science-based regulatory decisions than the APVMA has now. 
+In recent years, the APVMA has been isolated geographically and organisationally from the parent 
+APS. The benefits of this separation have been unclear at best, while there is little doubt the 
+separation contributed to the performance problems identified in the Clayton Utz review.
+
+Final report: Future structure and governance arrangements for the APVMA 
+28 
+By bringing the Authority into the department, APVMR executive staff will have more ready access to 
+senior advice and counsel on leadership, management, organisational, and people management 
+issues from senior and experienced colleagues. 
+Opportunities for recruitment and retention of staff will be improved by more ready access to the 
+wider pool of departmental and other APS employees. 
+Arrangements can and should be made for the discrete identity of the agvet chemical regulator to be 
+preserved, while still located within a departmental structure. (A minor, but important point here 
+would be to maintain a separate and identifiable APVMR email address for staff members of the 
+Office of the APVMR.) 
+Arrangements can and should be made to separate the policy advising part of the department from 
+the APVMR regulator, although sensible informal collaboration should be encouraged. The latter has 
+been missing until recently, to the disadvantage of both parties. 
+Certain stakeholder groups will express concern that the independence of the APVMR may be 
+compromised by its linkages into the department. These concerns can be answered by legislative 
+guarantees of independence of decision-making, together with transparent administrative 
+arrangements within the department to ensure a discrete identity and operational autonomy in the 
+Regulator’s work (see Attachment C).  
+There will be scope for efficiency gains if the APVMR chooses to outsource some of its corporate 
+services to the parent department. The chances of process failures in the future, such as those 
+reported by Clayton Utz to have occurred in procurement and IT management in the past, will 
+reduce.  
+Finally, it should be noted that the Authority’s status since 1993 as a Corporate Commonwealth 
+Entity may be inconsistent with current Department of Finance guidance on the appropriate form of 
+a statutory regulatory body. Creation of the recommended APVMR statutory officeholder, supported 
+by an Office of the APVMR within the Department of Agriculture, Fisheries and Forestry, would be 
+consistent with current guidance. 
+For all these reasons, it is recommended that the APVMR and its supporting Office be located within 
+the Department of Agriculture, Fisheries and Forestry. It is recommended also that the discrete 
+identity of the regulator be valued and preserved while putting in place arrangements to preserve 
+decision making independence, and reap full operational and cultural benefits from the regulator’s 
+placement within the department. 
+More detailed guidance on the recommended future relationship between the Secretary and the 
+APVMR is at Attachment C to this report. 
+Other governance arrangements considered 
+In formulating the recommendation above regarding the most appropriate governance 
+arrangements for the agvet chemical regulator, the following alternative models were considered.  
+Option 1: The status quo
+
+Final report: Future structure and governance arrangements for the APVMA 
+29 
+One option is to make no change to the APVMA’s governance arrangements or physical location. The 
+APVMA’s new leadership team has made many positive changes to the Authority and is already 
+driving it in the right direction.  
+Retaining the status quo would eliminate any risk of disrupting the new leadership’s improvements 
+and drive, and it would ease the concerns of staff and the Armidale community relating to a 
+relocation of the APVMA. It is likely some industry stakeholders would be in favour of this approach 
+and there would be no disruption to the APVMA’s operations.  
+However, this approach would be uncertain as it relies heavily on having the right people in the right 
+leadership roles at the right time for a sustained period to drive improvements to the APVMA’s 
+governance, operations and culture. It would also require close oversight from the Minister to ensure 
+the Board is rectifying the issues and allegations highlighted in the Clayton Utz report. 
+Additionally, there would be no evident Government response to the serious allegations and 
+deficiencies highlighted in the Clayton Utz report. Staff would see no reason to persist in improving 
+the behaviours, practices and culture of the organisation. The risk of similar, or even worse conduct 
+and performance problems emerging in the future, would continue unchecked.  
+Difficulties would continue in maintaining proper relationships between a regulator and the industry 
+it regulates. Challenges would remain in attracting and retaining staff and nurturing a positive 
+workplace culture embracing the APS values and APS code of conduct. Isolation from APS best 
+practice would continue. 
+Option 2: Re-location of the APVMA ‘as is’ to Canberra 
+A second option is to move the APVMA to Canberra with no change to its governance arrangements. 
+This could be achieved either promptly, or through a progressive re-location process. 
+A prompt transfer of the APVMA from Armidale to Canberra would address the challenges the 
+APVMA is facing recruiting suitably qualified staff to the Armidale location (though in the short term 
+there could be a greater number of vacancies to fill). It would immediately reduce the sense of 
+isolation from the APS that has contributed to the erosion of the APVMA’s culture and performance 
+since its relocation from Canberra.  
+However, this approach would be likely to result in a drop in the APVMA’s performance with an 
+abrupt disruption to the lives of staff as well as unexpected disruption to the community and 
+businesses of Armidale.  
+Rather than a prompt transfer of APVMA from Armidale to Canberra, a phased progressive approach 
+was therefore considered. In this approach the executive staff would move in the first instance, 
+vacancies would be advertised as Canberra based and over time, remaining staff would transfer to 
+Canberra as capability builds. This approach would be less disruptive to staff, the APVMA’s 
+performance and the community of Armidale.  
+It would also reduce the corrosive sense of isolation from the APS and from the community of 
+professional government regulators that has gradually come to characterise the Authority since its 
+move. Although it would be seen as a response of sorts to the serious problems highlighted in the
+
+Final report: Future structure and governance arrangements for the APVMA 
+30 
+Clayton Utz report, it would not be seen as a comprehensive response - and perhaps a missed 
+opportunity to find an enduring ‘fix’ to the problems. 
+Changing the Authority’s location without tackling the deeper problems of the Authority’s 
+governance and relationships with other arms of government would have no guarantee of success. 
+Option 3: Establish agvet chemical regulatory functions within a department  
+The APVMA could be abolished as an independent statutory authority and its functions re-
+established within the Department of Agriculture, Fisheries and Forestry. 
+This governance arrangement would establish the Secretary of the department as the accountable 
+authority for the purposes of the PGPA Act and as well the delegate for all the regulatory powers and 
+functions under the relevant agricultural and veterinary chemical legislation. The Secretary could 
+delegate, as appropriate, these functions to departmental staff. 
+This governance arrangement would be similar to that of the Therapeutic Goods Administration 
+which is a part of the Health Products Regulation Group within the Department of Health and Aged 
+Care. 
+In this approach the Secretary of the department would establish a group or division to carry out the 
+regulatory functions as delegated by the Secretary. Existing APVMA staff would be transferred to the 
+new division, augmented with existing departmental resources and services. 
+While this governance arrangement mirrors many of the benefits and reasons set out in my 
+recommended governance arrangement, it does not enshrine independence of science-based 
+regulatory decisions in the same manner. Although legislation could address this, it is likely there 
+would be a perception of the Secretary and their delegates being subject to political interference or 
+the opportunity for such interference in regulatory decisions.  
+In addition, the discrete identity of a regulator of pesticides and veterinary medicines would be 
+difficult to maintain. Public facing operations could become obscured in the wider departmental 
+public presence. There would be a cost to staff morale and staff identification with the agency.  
+It is for these reasons that I do not recommend this governance arrangement. 
+Package 2 – internally managed governance improvements. 
+The recommended package of externally initiated governance improvements (Feature Box 1) should 
+be complemented by a package of governance and management improvement initiatives managed 
+within the Authority itself. Already, the new management has initiated some commendable 
+improvements to the culture and operations of the Authority. It is recommended that the internal 
+reform package build on these initiatives, as well as broadening the range of management and 
+leadership improvements as described below. 
+In light of the Clayton Utz findings, the following management improvement measures are 
+recommended to be carried forward by the APVMR Executive Leadership Team. Some sequencing 
+and phasing will be necessary to avoid management congestion. Some initiatives will be able to be 
+progressed in conjunction with the department.
+
+Final report: Future structure and governance arrangements for the APVMA 
+31 
+Measures to address culture 
+• 
+Develop a Relocation Transition Plan in consultation with the department which ensures a 
+welcoming re-location and speedy and efficient access for staff to available departmental 
+services and resources. 
+• 
+Review, revise, and reissue internal grievance, complaint, and whistleblower processes. 
+• 
+Review, revise, and reissue staff/union consultation arrangements, including the Staff 
+Consultative Committee. 
+• 
+Issue guidance on the proper conduct of staff selection processes consistent with APSC guidance 
+and APS best practice. Require the Chair of all selection committees to vouch that the guidance 
+has been followed. 
+• 
+Review, revise, and reissue the full suite of HR (people) management guidance material – some 
+of which is now well out of date. 
+• 
+Commission an independent review of the treatment of women and diversity within the 
+Authority. 
+• 
+Review, revise, and reissue the agency’s Reconciliation Action Plan. 
+• 
+Develop a Training Plan, which defines mandated APVMR induction training, as well as targeted 
+training on people management, performance management, whole of government procurement 
+processes, and APS values and Code of Conduct. 
+• 
+Source targeted and tailored training in good regulatory practice for SES and executive staff in 
+particular, and relevant non-executive staff.  
+• 
+Mandate APSC leadership training for incoming SES officers within six months of their 
+appointment. 
+• 
+Continue staff surveys to provide feedback from staff on cultural and performance issues that 
+may require management attention. Reinforce confidentiality arrangements.  
+Measures to address performance 
+• 
+Abolish and redesign stakeholder consultative arrangements to ensure more balanced access for 
+stakeholder groups in addition to industry. 
+• 
+Develop and implement a new set of performance indicators, covering the full range of 
+functions of the Authority, and including indicators of staff satisfaction, and organisational 
+culture. 
+• 
+Develop and implement a new standard format and framework for regular reporting to 
+stakeholders and the Minister on performance. 
+• 
+Review, revise, and re-issue guidance on best practice staff performance management.  
+• 
+Review, revise, and re-issue the Authority’s risk map and risk management assurance 
+arrangements. 
+Measures to improve staff understanding of expectations
+
+Final report: Future structure and governance arrangements for the APVMA 
+32 
+• 
+Make available to all staff, the Minister’s Statement of Expectations. Encourage executive level 
+leaders of internal teams to develop subsidiary guidance for their staff. 
+• 
+Review, revise, and reissue the Authority’s vision and mission statements, taking account of the 
+lessons of the Clayton Utz and current review. 
+• 
+In consultation with the department, develop a document describing the respective roles of the 
+various players within Australia's national agvet chemical regulatory system, including the 
+APVMR, the Minister, the Secretary, the department, the states and territories, industry, other 
+regulators, etc. 
+• 
+Revise the Authority’s regular survey of stakeholders to provide more meaningful external 
+feedback, including from a wider range of interested stakeholders on a more balanced range of 
+performance parameters. 
+It would be essential to develop an Implementation Plan specifically for the reforms flowing from this 
+report, including regular reports to the Minister on progress. To encourage staff buy-in, it would be 
+desirable also to make the reports available to staff. Achievable timeframes for delivery of the 
+various reforms will need to be set.
+
+Final report: Future structure and governance arrangements for the APVMA 
+33 
+Section 4: Other measures to restore or 
+maintain public confidence in 
+Australia’s regulatory arrangements 
+The terms of reference for my review asked me to consider any other actions the Government 
+should take to ensure or restore confidence in Australia’s agvet chemical regulatory system.  
+It is of concern that the disturbing findings presented in the Clayton Utz report may have 
+compromised trust and public confidence in Australia’s agvet chemical regulatory system, and the 
+safety of Australian produce.  
+While neither Clayton Utz nor myself found evidence of deficient science decision making, the 
+maintenance of public confidence is a vital policy goal in its own right, and many of the governance 
+reforms to the APVMA proposed earlier in this report are designed at least in part, to sustain 
+community confidence in the regulator and the regulatory system.  
+However, there is more that can be done. Below are proposals to: 
+• 
+Further strengthen the quality and integrity of scientific decisions 
+• 
+Improve the agency’s regulatory performance indicators 
+• 
+Enhance transparency. 
+Further strengthen the quality and integrity of scientific decisions 
+If the regulator’s decisions are to be trusted by the public and our trading partners, they must be 
+transparent and be supported by quality evidence. Desirably, the methodologies for assessing the 
+evidence would be consistent - as far as practicable - with those employed across the Australian 
+Government in similar fields, such as human health, worker safety, environmental impacts, and food 
+standards. 
+The Clayton Utz report suggested a disconnect exists between the agvet chemical regulator’s 
+approach to science assurance and that of other APS science-based regulators. Any such disconnect 
+may be a symptom of the regulator’s isolation from the APS, including from other regulators with 
+similar roles.  
+For their part, many professional staff point to their ad hoc involvement in communities of regulatory 
+practice and similar activities. However, such involvement seems to have been incidental, rather than 
+integral, to the work of the Authority in recent years. It needs to be strengthened and made 
+mainstream.  
+Government and the community would expect that the regulator has formal arrangements for 
+validating, substantiating, confirming, testing, and auditing scientific decision-making processes 
+across the full range of its regulatory functions. Designed correctly, the arrangements should provide 
+assurance about the quality and integrity of the regulator’s scientific methods and practices, provide
+
+Final report: Future structure and governance arrangements for the APVMA 
+34 
+the means to benchmark Australian assessment methods against international methods, and 
+strengthen public confidence in decision-making processes. 
+The Authority previously had a Chief Regulatory Scientist with responsibility for ensuring the quality 
+of science decisions. This role was discontinued by previous management. To restore emphasis on 
+the quality of science decisions, I propose that the APVMR should as soon as practical establish a 
+Principal Scientist (PS) position that is functionally separate from the Authority’s roles in registration, 
+review of chemicals and compliance. The position should report directly to the APVMR, and lead the 
+Authority’s engagement with counterpart agencies across the Australian regulatory and government 
+sphere.  
+• 
+The PS should establish a quality assurance program that tests the quality of scientific decision 
+making across the full suite of regulatory functions. The findings of this program should form 
+part of the annual report and be incorporated in the regulator’s performance indicators. 
+• 
+The PS should convene an Expert Advisory Panel (EAP), (recommendation 10 of the 2021 
+independent review) to benchmark the APVMR’s science approach against current and 
+emerging international approaches. 
+Even in advance of the appointment of the PS, the Authority should seek to re-open engagement 
+with relevant departments such as the Department of Health, the Department of the Environment, 
+and Safe Work Australia to review and advise on APVMR risk assessment and mitigation methods, 
+tools and models. Of course, there will always be unique aspects of pesticides and veterinary 
+medicines that will require specific science methodologies. 
+Enhance the Authority’s regulatory performance indicators 
+In recent years the APVMA has used registration timeframes as its principal performance measure, 
+and given much less attention to its other regulatory functions when measuring its performance. 
+Industry and government both accepted this approach, which inevitably led to an overemphasis on 
+timely registrations, while other functions became under resourced.  
+I propose the Government, consistent with the Department of Finance’s Regulator Performance 
+Guidance (RMG 128), establish a new, broader framework against which the Regulator is to report its 
+performance. The measures should at least include indicators along the following lines: 
+• 
+Average time difference between actual and target timeframes (statutory or operational) for all 
+activities.  
+• 
+Indicators of compliance and enforcement activity to ensure human or environmental health, or 
+to address trade. 
+• 
+Indicators of progress in the chemical review program. 
+• 
+Indicators of resource commitment (including staff numbers) to the various statutory functions 
+– separated into operational/assessment resources and resources for support services. 
+• 
+Indicators of stakeholder engagement activities, across the full range of stakeholder groups. 
+• 
+The findings of science quality programs including all benchmarking processes.
+
+Final report: Future structure and governance arrangements for the APVMA 
+35 
+• 
+Indicators of staff commitment, satisfaction, and welfare including staff retention and vacancy 
+rates, and findings of the APS staff census and internal staff surveys. 
+The new set of performance indicators should be developed in close consultation with the policy 
+area of the department. The performance indicators should be complemented by new arrangements 
+for publication. I recommend that the APVMR statutory office holder should release the indicators on 
+each occasion, together with commentary on the it’s progress. Any release event should be designed 
+to engage a wide range of stakeholders, in addition to industry. 
+Increased public confidence through improved transparency measures 
+There is an opportunity to improve public confidence in regulatory decisions by improving public 
+access to the data and information relied upon by the Regulator in its work. Similarly, an opportunity 
+exists to improve transparency by requiring information on the volumes of agvet chemical (products) 
+supplied within Australia. These approaches are already being developed by comparable regulators 
+(such as in Canada, EU, and US). This will, of course, require careful balancing of intellectual property 
+rights and commercial in confidence information, with public interest objectives.  
+The Government should establish a scheme that requires the APVMR to publish information it relied 
+on to be satisfied about the health and safety of a chemical product. In delivering this improved 
+transparency, the scheme should ensure that the intellectual property of chemical product 
+proponents is not compromised. The Government should establish requirements on proponents of 
+chemical products to supply the regulator with details of all information (including trials) relating to 
+safety, efficacy, or trade impacts they hold for the chemical product. (For clarity this need not include 
+information solely related to marketing or promotion of the product.)  
+The Australian scheme’s design should broadly reflect the approaches now being developed in 
+comparable jurisdictions overseas. Comparable regulators recognise that it is only through 
+comprehensive access to all available information about a product’s risk that the most rigorous 
+regulatory decisions can be made. To minimise impacts, both measures should be applied at the time 
+of application only. 
+Cyclical Registration Model 
+The Government and the community expect that the APVMR would have mechanisms to enable 
+flexible and agile responses to new information about registered chemicals. The establishment of a 
+‘cyclical registration model’ would complement and modernise the APVMA/APVMR existing 
+mechanisms. A cyclical registration mechanism would ensure that agvet chemical products have a 
+more continuing contemporary assessment for their continued safe use, and that holders of 
+registration are addressing contemporary concerns where there is emerging science, or data about 
+health, efficacy or impacts on trade.  
+I recommend that work commence on designing a cyclical registration model for implementation by 
+the future APVMR and that provision for such a model be made in the legislative amendments to the 
+agvet chemical legislation following Government decisions on this review. 
+Positioning these reforms in a wider context 
+Finally, public confidence can be maintained by positioning the recommended reforms to the APVMA 
+in the wider context of reforms already recommended to Australia's regulatory system as a whole.
+
+Final report: Future structure and governance arrangements for the APVMA 
+36 
+The Report of the Independent Review of the Pesticides and Veterinary Medicines Regulatory System 
+in Australia, 2021 has made many additional, complementary recommendations aimed at improving 
+the performance of Australia's regulatory system as a whole and specifically building public 
+confidence and trust in Australia’s regulatory processes.  
+Governance reforms to the APVMA will certainly improve the performance of the Authority, but the 
+APVMA is only a part, albeit a central part, of the complete Australian regulatory system. The APVMA 
+sits and works alongside many other players that interact with pesticides or veterinary medicines all 
+along the chain from design through to manufacture, distribution, use and disposal. These include: 
+the states and territories; industry; the research community; non-government service providers; and 
+other relevant regulators.  
+Improving outcomes of the regulatory system as a whole will require reforms and change to practices 
+in all of these groups. It is recommended that the Government consider the present report alongside 
+the wider, whole-of-system report. Taken together, there is an opportunity to launch a long-overdue 
+process of microeconomic reform to lift the performance of, and public confidence in, the national 
+agvet chemical regulatory system as a whole.
+
+Final report: Future structure and governance arrangements for the APVMA 
+37 
+Section 5: Costings 
+The Australian Government Charging Framework is the whole of government policy that relates to 
+cost recovery. This framework states that where an industry creates the demand for government 
+activity then it should generally be charged for the cost of delivering that activity. In the case of the 
+APVMA, the existence of the agricultural and veterinary chemicals industry creates the need for 
+government regulatory oversight. Accordingly, the industry currently funds around 95% of the 
+APVMA’s $43m annual budget through fees, charges and levies.  
+This general approach is appropriate for the future APVMR and should continue. However, the 
+Government’s charging framework also provides for deviations from full cost recovery to achieve 
+other sound policy outcomes, if required. It is therefore for consideration whether any of the 
+APVMA’s performance and cultural issues of concern could be ameliorated by adjustments to cost 
+recovery arrangements.  
+The Clayton Utz Review and some stakeholders other than industry, have suggested that the current 
+cost recovery funding model may have unduly influenced the Authority’s relationship with 
+stakeholders – causing an unbalanced focus on industry interests and preferences. Clayton Utz 
+suggested that the steady rundown in resources dedicated to compliance and enforcement and 
+chemical reviews in recent years may be evidence of that.  
+Clayton Utz and others have expressed concern about the risk of ‘capture of the regulator’ by 
+industry. While this is vigorously contested by the Authority’s professional staff, the perception is 
+undoubtably corrosive to public confidence. Partly for this reason I am proposing certain limited 
+adjustments to past cost recovery arrangements. 
+Inadequate Resource Base 
+Over recent years, there has certainly been considerable (understandable) pressure on the APVMA 
+from industry to minimise the fees, charges, and levies imposed upon them. This may have 
+contributed to a succession of inadequate increases to the APVMA's resource base through the 
+regular CRIS (Cost Recovery Implementation Statement) process. The resulting resource base 
+gradually became insufficient to fully resource all the required regulatory activities. Creating a 
+resource-poor regulator has in turn required the regulator to choose which of its legislated 
+responsibilities to prioritise (rather than fully delivering on all its statutory responsibilities). 
+The solution to this is for the Authority to now bring forward an assertive, fully costed, new CRIS 
+proposal, which will adequately resource the APVMR’s full range of operations. I recommend 
+accordingly. 
+However, the question remains about whether there is a case for additional appropriation funding to 
+deliver Government policy objectives and requirements beyond direct regulatory activities. 
+Compliance and Enforcement 
+Although there are examples among other Commonwealth regulators of full appropriation funding 
+for compliance and enforcement and similar activities, I do not recommend that in this case.
+
+Final report: Future structure and governance arrangements for the APVMA 
+38 
+Rather, my recommendation is that the currently under-resourced compliance and enforcement, and 
+chemical reconsideration activities should receive part-funding (50%). Cost shifting from industry 
+charges to Government appropriation would need to be avoided. Joint funding in this way would 
+enable a speedy necessary catch up in both these areas and rebuild public confidence that the strong 
+community interest in robust compliance, enforcement and review, is being supported by direct 
+government funding into the future on behalf of the community beneficiaries. 
+The indicative annual cost to Government of a 50% share of compliance and enforcement and 
+chemical reconsideration would be $4.2m. 
+Surveillance and monitoring 
+Restoring public confidence could also be assisted by appropriation funding for surveillance and 
+monitoring. Community expectations are steadily becoming more demanding about the quality of 
+regulation of agricultural and veterinary chemicals in the food chain and the environment. However, 
+it is not well understood publicly that current arrangements for surveillance and monitoring of the 
+presence, and environmental and public health impacts, of those chemicals are not well developed.  
+There are real risks of public alarm triggered by unexpected chemical detections and consequential 
+public criticism of the longstanding unaddressed deficiencies in national surveillance capacity. The 
+APVMR will need to work with a range of other agencies to develop more satisfactory national 
+monitoring arrangements, including reforming the current Adverse Experience Reporting (AER) 
+arrangements. Accordingly, I recommend appropriation funding for the Department of Agriculture, 
+Fisheries and Forestry to commence the necessary work on developing an adequate national 
+monitoring and surveillance system into the future, together with specific appropriation funding for 
+the APVMR to contribute its part.  
+The indicative cost to Government of initial system design work would be $600,000. Additional 
+funding would be required in future years to build and maintain the system. 
+Funding for Government Support Activities 
+A further recommended area for appropriation funding comprises government support functions. 
+These are the functions less directly related to regulating the agricultural and veterinary chemicals 
+industry. Examples include input into government policy development, reporting, including through 
+annual reports, and appearing at Senate Estimates, hearings, and liaison with the states and 
+territories over general agvet chemical operational issues.  
+Importantly over the next few years, these sorts of demands on the APVMA will increase if a serious 
+reform transformation process is launched affecting the APVMA as a central player in the wider 
+agvet chemical regulatory system. If reforms are to be triggered by Government, it will be important 
+that they be resourced sufficiently to be developed and implemented without delay. 
+Similarly, some of the APVMA's international engagement is undertaken as part of being a 
+responsible Authority of the Australian Government – such as helping regulators in neighbouring 
+countries improve their regulatory practices. 
+The estimated cost to Government if government support activities were to be funded would be 
+around $3.1m p.a. in years 1 and 2, reducing to less than $2m as the reform program was bedded 
+down.
+
+Final report: Future structure and governance arrangements for the APVMA 
+39 
+IT Improvements 
+Finally, Clayton Utz was highly critical of the APVMA’s performance in procurement, project 
+management, and IT services. It was concerned about record keeping, document retrieval, finance 
+management, and the day to day operational difficulties and risks experienced by staff members 
+through inadequate internal IT, information management, and finance systems. The Authority 
+recently scored 0/8 for its cyber safety security rating.  
+The APVMA had been tackling the IT services issue without success for years. IT expenditure per staff 
+member per annum is around $60,000 - almost six times the Department of Finance indicative rate. 
+However, the standard of service continues to be well below typical APS levels. The new 
+management team has begun to introduce some discipline, but much remains to be done.  
+Underperforming IT systems are an enduring drag on the Authority’s performance which needs to be 
+finally resolved. I therefore recommend budget support for IT improvements (including dealing with 
+current cyber security risks). I suggest that this needs to be a closely supervised one-time 
+expenditure to urgently get the necessary IT, information management, and finance systems up to an 
+acceptable standard to meet staff operational needs.  
+The costs to Government cannot at this stage be estimated; the task needs to be scoped and a 
+request for tender issued.
+
+Final report: Future structure and governance arrangements for the APVMA 
+40 
+Section 6: Recommendations 
+Details of the governance recommendations are in Section 3, Feature Box 1: “Recommended future 
+governance arrangements”. Major elements are listed below.  
+A New Regulatory Entity 
+I recommend that: 
+1) 
+the CEO of the APVMA become a statutory office holder and be re-designated the Australian 
+Pesticides and Veterinary Medicines Regulator (the ‘APVMR’) 
+2) 
+an ‘Office of the APVMR’ be created to support the APVMR officeholder  
+3) 
+most current staff of the APVMA should transfer to the Office of the APVMR 
+4) 
+the Office of the APVMR be headquartered in Canberra and maintained with a discrete identity 
+within the Department of Agriculture, Fisheries and Forestry 
+5) 
+the independence of the APVMR in science-based regulatory decision-making be protected in 
+legislation 
+6) 
+the future relationship between the APVMR and the Secretary of the department be detailed 
+and made transparent through a publicly available exchange of letters between the Secretary 
+and the APVMR along the lines of Attachment C to this report  
+7) 
+the APVMA Board be abolished 
+A Program of Organisational Reform 
+I recommend that: 
+8) 
+the transfer of the Authority to Canberra be progressive and take full account of the needs and 
+preferences of staff, subject to cost-effective operational requirements 
+9) 
+the APVMR and the departmental executive should jointly develop a Transition and Relocation 
+Plan to ensure a successful and welcoming transfer of current APVMA staff to their new 
+placements within the Office of the APVMR, within the department 
+10) a modest appropriation-funded relocation package should be made available to facilitate the 
+relocation process and to minimise impacts on its operations 
+11) the Location of Corporate Commonwealth Entities Order 2016 (the ‘GPO') should be revoked 
+12) a package of internally managed governance, leadership and management reforms be 
+undertaken to lift the Authority’s performance in the areas of workplace culture, regulatory 
+performance, and staff understanding of the necessary reforms (details in Section 3, “Package 2 
+- Internally managed governance improvements”)  
+13) the APVMR be explicitly required to actively build positive linkages with the portfolio, other 
+regulators, and the wider Australian Public Service 
+14) a package of external governance reforms be implemented, including:
+
+Final report: Future structure and governance arrangements for the APVMA 
+41 
+a) 
+the governance changes accepted by Government from the present report, specified in 
+Section 3, Feature Box 1: “Recommended future governance arrangements” 
+b) 
+a revised Statement of Expectations from the Minister, including the Minister’s expectation 
+that the APVMR will actively seek to advance the endorsed reforms from the 2021 systemic 
+review 
+c) 
+a consolidation and streamlining of the four pieces of legislation currently governing the 
+work of the Authority 
+d) 
+a revised mission (purpose) statement, nested within the vision statement for the 
+Australian regulatory system as a whole 
+15) the APVMR consult with staff and unions about implementation of the reform and change 
+processes which may affect them, consistent with APSC Circular, 22/08, dated 6 October 2022 
+which describes consultation obligations 
+Broadening the Scope of Regulatory Activities 
+I recommend that: 
+16) the APVMR be made responsible under the revised legislation for ensuring balanced discharge 
+of all functions in the new Act, including sufficient attention to compliance and enforcement, 
+chemical review, stakeholder consultation, and contributing to an agvet chemicals surveillance 
+and monitoring system to be developed by the Department of Agriculture, Fisheries and 
+Forestry 
+17) the APVMR implement measures to further strengthen the quality and integrity of scientific 
+decision-making, including arrangements to provide assurance about the regulator’s scientific 
+methods and practices, and arrangements to improve coherence of APVMR methodologies with 
+the methodologies used by other Australian Government agencies 
+Changed Relationships with Stakeholders 
+I recommend: 
+18) the abolition and redesign of current APVMA stakeholder consultation machinery and 
+processes, to provide more balanced access for stakeholder groups in addition to industry 
+19) the development of more balanced performance indicators, including environmental, public 
+health, compliance, stakeholder engagement, and staff-related indicators, to complement 
+current indicators relating to product registration statutory timeframes  
+20) the development of guidance material and training for staff about the appropriate posture and 
+conduct of professional regulators in their dealings with stakeholders 
+21) implementing a scheme that publishes foundational health and safety data and ensures APVMR 
+access to all information on a product’s risks 
+22) work commence on designing a cyclical registration model for implementation by the future 
+APVMR 
+Clearer Relationships with Related Entities
+
+Final report: Future structure and governance arrangements for the APVMA 
+42 
+I recommend: 
+23) routine publication of future Statements of Expectations from the Minister 
+24) publication of a transparent statement of agreed working arrangements between the APVMR 
+and the Secretary, with emphasis on the independence of the APVMR’s decision making, and 
+autonomy in outsourcing services, or not  
+25) specification of the APVMR’s independent right to communicate directly with the Minister, 
+lodge its own annual report with the Minister each year, and independently release its own 
+performance reports  
+26) specification that the APVMR will be accountable to the Secretary under the PGPA Act, to the 
+Secretary under the Public Service Act, and to the Minister for all powers and functions under 
+the APVMR legislation 
+Transparent Arrangements for the Appointment of the APVMR 
+I recommend that: 
+27) the APVMR be appointed by the Governor General, based on transparent selection criteria, 
+specific to the APVMR position, following a selection process endorsed by the Australian Public 
+Service Commissioner  
+28) a substantive appointment be made as a matter of urgency, and that the appointee and future 
+appointees have relevant regulatory experience  
+Transitional and Continuing Funding Arrangements 
+I recommend that: 
+29) the APVMR continue to be largely funded through cost recovery arrangements, except for the 
+limited purposes identified in Section 5 of this report 
+30) The APVMR bring forward an assertive, fully costed, new CRIS proposal, sufficient to adequately 
+resource the APVMR’s full range of operations when complemented by the specific-purpose 
+appropriation funding below: 
+a) 
+appropriation funding to facilitate the relocation of the agency from Armidale 
+b) 
+supplementary (50%) appropriation funding to assist the restoration and maintenance of 
+capability in compliance and enforcement  
+c) 
+supplementary (50%) appropriation funding to assist catch-up, maintenance, and reform of 
+the chemical review program  
+d) 
+supplementary appropriation funding to meet the cost of government support activities, 
+including funding to progress the reform process now to be triggered by the Government 
+e) 
+supplementary appropriation funding to redress cyber security risks, and to finalise the IT 
+upgrade commenced at the time of relocation to Armidale, but never satisfactorily 
+completed 
+f) 
+appropriation funding to support the introduction of new arrangements to assure the 
+quality of science decision-making.
+
+Final report: Future structure and governance arrangements for the APVMA 
+43 
+31) appropriation funding to the Department of Agriculture, Fisheries and Forestry to sustain public 
+confidence in Australia’s overall regulatory system through the establishment of an integrated 
+data surveillance and monitoring system, with the APVMR to receive funding to support its 
+contribution to this system 
+32) the APVMR administer its own Special Account or equivalent arrangement, and that funds and 
+staff funded from the Account only be able to be used for the purposes and legislative functions 
+of the APVMR legislation  
+Next Steps 
+I recommend that: 
+33) following Government consideration of this report, the Department of Agriculture, Fisheries and 
+Forestry and the APVMR provide quarterly reports to the Minister on implementation progress 
+on each recommendation and the reform process overall.
+
+Final report: Future structure and governance arrangements for the APVMA 
+44 
+Attachment A 
+Terms of Reference: Rapid evaluation of the Australian 
+Pesticides and Veterinary Medicines Authority (APVMA) 
+review findings and provision of advice on structure and 
+governance 
+The APVMA Board, at the Minister for Agriculture’s request, commissioned the Clayton Utz review 
+into the operations of the APVMA. The Clayton Utz review identified significant deficiencies in the 
+APVMA’s governance, operational capability, and culture. 
+The Government has agreed to an evaluation of the Clayton Utz review findings to deliver advice on 
+future structure and governance arrangements for the APVMA.  
+The evaluation will: 
+1) 
+Consider: 
+a) 
+the findings of the Clayton Utz review into the APVMA 
+b) 
+any other relevant information, including recommendations from the Independent Review 
+of the pesticides and veterinary medicines regulatory system in Australia (the Matthews 
+review) and APVMA cost recovery and funding information.  
+2) 
+make recommendations on: 
+a) 
+any further urgent actions the Government should take to ensure confidence in Australia’s 
+chemical regulatory system 
+b) 
+the APVMA’s future governance, operational structure (including location) and legislative 
+framework 
+c) 
+the APVMA’s funding framework, including options that uphold the existing polluter and 
+beneficiary pays principle 
+3) 
+Have regard to: 
+a) 
+how the APVMA can better balance regulatory outcomes that maximise the national public 
+health benefit rather than industry preferences 
+b) 
+how governance, cultural and legislative recommendations will impact on the future of the 
+APVMA’s regulatory arrangements. 
+In undertaking the evaluation, input may be sought from across the Australian government where 
+required.  
+The evaluation will provide recommendations to the Minister for Agriculture, Fisheries and Forestry, 
+by no later than 30 September 2023. A single report will be provided, including a version de-
+identified for privacy purposes (if required), prior to publication. 
+The report will be prepared in accordance with the requirements of the Australian Government 
+Guide to Policy Impact Analysis.
+
+Final report: Future structure and governance arrangements for the APVMA 
+45 
+Attachment B 
+Guidance on decision-making by the APVMR to be given 
+statutory independence 
+Decisions by the APVMR to be guaranteed independence by legislation include decisions relating to 
+the approval, registration or permitting of active constituents, products and labels; decisions relating 
+to issuing licences, decisions on the suspension, cancellation of approvals, registrations, labels or 
+permits for active constituents or product; and the conditions that would apply to an approval, 
+registration, permit or licence. 
+Functions of the APVMA in the current legislation where independence in future legislation would 
+need to be preserved, are as follows: 
+• 
+to assess the suitability for supply in Australia of active constituents for proposed or existing 
+chemical products 
+• 
+to assess the suitability for supply in Australia proposed or existing chemical products, including 
+proposed or existing labels for containers for chemical products 
+• 
+to evaluate the effects of the use of chemical products in the States and participating Territories 
+• 
+to exchange information relating to chemical products and their use with overseas and 
+international bodies having functions similar to the APVMA’s functions 
+• 
+when requested by the Minister, or on its own initiative, to report to or advise the Minister on 
+any matter relating to chemical products or arising in the course of the performance of its 
+functions 
+• 
+to decide to investigate or enforce compliance with legislation.
+
+Final report: Future structure and governance arrangements for the APVMA 
+46 
+Attachment C 
+Guidance on the operational relationship between the 
+APVMR and the departmental secretary 
+The APVMR is an independent statutory office holder within the Agriculture, Fisheries and Forestry 
+department. The APVMR is supported by the Office of the APVMR, also within the department.  
+The Secretary is responsible for making enduring arrangements for the APVMR to access 
+information, advice and senior executive counsel on broader developments in good APS practice, 
+government policy, and legal requirements. 
+The Secretary will make arrangements to maintain the discrete identity of the Office of the APVMR. 
+The Secretary and the APVMR may enter into voluntary agreements to provide or augment property, 
+ICT, finance and other corporate services to the APVMR. 
+The Secretary of the department has no role in the science-based regulatory decision-making of the 
+APVMR. 
+The Secretary will ensure that there is appropriate organisational separation between the APVMR 
+and the policy area of the department. Appropriate collaboration will be encouraged without 
+compromise to the prerogatives of either group.  
+The APVMR is responsible for ensuring the conduct of staff of the Office of the APVMR conforms with 
+the APS values and Code of Conduct. If required, the Secretary will arrange support for the APVMR in 
+this role.  
+Within the department’s financial arrangements, the APVMR will be responsible for its own Special 
+Account. Funds and staff funded from the Special Account will not be available for purposes other 
+than the proper functions nominated in the APVMR Act. 
+The APVMR is responsible for timely reporting to the Minister and the Secretary significant events, 
+developments and risks.  
+Reports by the APVMR to the Minister will be made available to the Secretary.  
+The above arrangements will be detailed and made transparent through a publicly available 
+exchange of letters between the Secretary and the APVMR.

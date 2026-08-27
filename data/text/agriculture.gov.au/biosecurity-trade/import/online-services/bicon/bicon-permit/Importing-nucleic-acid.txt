@@ -1,0 +1,49 @@
+Frequently Asked Questions
+Nucleic acids are chemical compounds which can carry genetic information in living organisms and viruses. The two main classes of nucleic acids are deoxyribonucleic acid (DNA) and ribonucleic acid (RNA).
+DNA is the genetic material found in living organisms, from single-celled bacteria to multicellular plants and animals. DNA also comprises the nucleic acid component of some viruses. DNA encodes the information cells need to make proteins, and segments of DNA carrying genetic information are known as genes. DNA can also contain sequences that do not encode for proteins and instead carry out other functions, such as control of gene activity. These are often referred to as non-coding DNA. The complete set of genes and non-coding DNA sequences in a living organism is known as the genome.
+Cellular RNA is involved in the process of converting genetic information from genes into proteins. Non-coding RNAs play several roles in the cell, such as in gene regulation and RNA splicing. RNA is also the genetic material of some viruses.
+Nucleic acid can present a biosecurity risk, particularly when it codes for the entire genome or distinct parts of microorganisms and infectious agents (i.e., viruses, prions, plasmids, viroids and their derivatives).
+Some nucleic acids (e.g., some viral DNA and RNA) can be integrated into the genomes of other organisms when used in vivo in animals or in cell lines. RNA encoding certain viruses can replicate and produce infectious viral progeny inside a host cell. Parts of viral genomes also have the ability to recombine or reassort. Modern synthetic biology tools can also use nucleic acid to create wild-type or genetically modified organisms, particularly viruses.
+If the nucleic acid is coding for a microorganism or infectious agent that is exotic to Australia, a biosecurity risk may be presented depending on:
+- what the sample is coding for (e.g., oligonucleotides (short DNA/RNA sequences), single genes or whole genome); and
+- what the sample will be used for (i.e., diagnostics, in vivo in animals or microorganisms/infectious agents, synthesis of replication-competent microorganisms or infectious agents).
+Nucleic acids which can recombine or reassort to form novel and exotic infectious agents may present a biosecurity risk to Australia if the pathogen is not managed correctly (e.g., contained within an Approved Arrangement) and it is exposed to the environment.
+Not all nucleic acid is of biological origin. Recent advances in biotechnology have enabled viable nucleic acid to be produced chemically or synthetically. Chemical methods generally utilise a viable expression system (e.g., bacterial plasmid) during manufacture, but advances in technology now enable the printing of nucleic acid sequences.
+The sequences created synthetically are based on a ‘blueprint’- a known sequence from a living organism. The synthetic nucleic acid can perform the same function as biologically derived material, known as a homologous sequence. Whilst the nucleic acid is not technically biologically derived material, it presents the same biosecurity risk and must be regulated in the same manner.
+Synthetic nucleic acid coding for all or part (e.g., specific genes) of the genome of a microorganism or infectious agent may present the same biosecurity risk as biologically derived purified nucleic acid.
+The biosecurity risk with importing synthetic nucleic acid is associated with:
+- the risk of importing replication-competent infectious agents, and/or
+- ability to synthesise viable infectious agents or viral fragments.
+If the viable replication competent infectious agent, or recombinant is exotic to Australia and appropriate risk management is not in-place the infectious agent could be exposed to susceptible species in Australia leading to a significant outbreak. Appropriate risk management may include restricted end-use conditions or biosecurity containment in an Approved Arrangement facility.
+An import permit is required to properly assess the synthetic nucleic acid and apply appropriate risk mitigation based on what the goods code for and how they will be used in the laboratory.
+In most cases an import permit for nucleic acid is required.
+Nucleic acid is regulated under the Biosecurity Act 2015 and Biosecurity (Conditionally Non‑prohibited Goods) Determination 2021.
+An import permit is required for:
+- nucleic acid derived from, or synthetic nucleic acid homologous to sequences from, microorganisms and infectious agents.
+- genetic material derived from multicellular organisms (excluding plants and fungi).
+An import permit is not required for:
+- synthetic genetic material homologous to sequences from multicellular organisms other than sequences homologous to prions or parasites.
+- plant DNA or RNA (derived from healthy plants).
+Import conditions still apply, which can be viewed in the Biosecurity Import Conditions system (BICON).
+In August 2022, import conditions of the standard permit ‘Genetic material derived from or homologous to sequences from disease agents’ (located in the BICON case ‘Genetic material (nucleic acids and their derivatives) excluding plants and plant pathogens’) were updated.
+The conditions were amended to allow the import of nucleic acid sequences homologous to those from non-excluded microorganism and infectious agent species (i.e., synthetic nucleic acids).
+Prior to this, conditions only permitted nucleic acid derived directly from disease agents. These updates expanded the standard permit options for synthetic nucleic acid, while maintaining appropriate biosecurity risk management.
+For import conditions and to apply for an import permit go to BICON.
+There are a number of import pathways available to import nucleic acids, based on the type of product and end use. Some possible BICON cases include:
+- Genetic material (nucleic acids and their derivatives) excluding plants and plant pathogens: captures nucleic acid (including synthetic sequences) for multicellular organisms, disease agents and vectors for use in vitro and in vivo in laboratory organisms only.
+- Low risk genetic material (nucleic acids and their derivatives) relating to plants or plant research: captures nucleic acid (including synthetic nucleic acid) for in vitro and/or in vivo use in plants.
+- Plant DNA or RNA: captures DNA or RNA from healthy plants, that aren’t infected, or suspected to be infected by a plant pathogen. An import permit is not required for this pathway if conditions can be met.
+- Plant pathogens, plant-related microorganisms, fungi and genetic material for research: captures nucleic acids extracted from plant-related microorganisms including plant pathogens such as viruses, viroids, fungi, stramenopiles and bacteria.
+- Test kits: ‘Nucleic acid amplification (e.g., PCR) test kits’ standard permit allows individual components (e.g., nucleic acid up to 1000 nucleotides) specifically designed for use with kits eligible for import under the conditions.
+- Synthetic Material (not for fertiliser end use): permits the import of synthetic nucleic acid coding for multicellular organisms without a permit, but specifically excludes goods that:
+	
+  - are a disease agent or part of a disease agent; and
+  - code for a disease agent or part of a disease agent.
+Importers can find these cases in BICON by searching the above case titles or associated terms.
+Other standards or regulations may apply when importing and using nucleic acid, including synthetic products, in Australia:
+- International (e.g., International Air Transport Association) and domestic requirements concerning the safe handling, transport and labelling of biological material
+- AS/NZS 2243 Safety in Laboratories standards
+- Office of the Gene Technology Regulator (OGTR) requirements
+- The Security Sensitive Biological Agents (SSBA) regulatory scheme.
+- The Defence Trade Controls Act
+Nucleic acid imported in test kits or for use in testing for notifiable animal diseases may need to comply with state and territory restrictions. See Importing test kits for foot and mouth disease or other notifiable animal diseases for further information.

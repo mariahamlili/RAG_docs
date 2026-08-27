@@ -1,0 +1,93 @@
+Download
+| Document | Pages | File size | 
+|---|---|---|
+| Incorporation of GIS Mapping Software in the National Wildlife Surveillance Database PDF ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) | 5 | 39 KB | 
+If you have difficulty accessing this file, please visit web accessibility.
+Online version
+Wildlife Exotic Disease Preparedness Program: Development of a mapping component for the National Wildlife Health Surveillance Database –
+Interim Report 2003 – 2004
+Introduction
+The Australian Wildlife Health Network (AWHN) is a National initiative of the Commonwealth Government and is managed under the Wildlife Exotic Disease Preparedness Program (Australian Department of Agriculture, Fisheries and Forestry). Its mission is to promote and facilitate collaborative links in the investigation and management of wildlife health in support of human and animal health, biodiversity and trade.
+ 
+      
+ In 2002-2003 the AWHN received seed funding of $10K from the Wildlife Exotic Disease Preparedness Program to begin developing a mapping component for the National Wildlife Health Surveillance Database. This report presents progress to date in the first part of the work, which is to begin examining possible models for mapping.
+Background
+A strategic objective of the AWHN is to provide and operate a national database of wildlife health information, which includes historical disease incident reports. It also aims to provide and operate an interactive Website, which can be used for reporting and accessing Australian wildlife health information.
+ 
+      
+ The national database is undergoing its second iteration. The initial model has been built on an Access based platform, which is currently undergoing web-enablement to SQL server. Copies of the database will be held on servers at Creative Digital Technology (Warriewood, NSW), and a back-up copy at Taronga Zoo (Sydney, Australia). A mapping component to the database is highly desirable as it allows immediate pictorial representation of data, a useful tool in improving decision making and outcomes. It will also allow overlay of physical and climactic data, which may be important in predicting disease occurrence and emergence.
+ 
+      
+ Completion of the mapping component is dependent on delivery of the web-enabled database.
+Progress to date
+The project to date has focussed on three areas: 1) development of the project team and completion of the AWHN database; 2) identification and review of mapping models; 3) identification of key issues and a pathway forward.
+ 
+      
+ 
+      The project team and completion of the AWHN database
+ 
+      
+ A team has been built to examine web-enablement of the database and addition of a mapping component. The team consists of:
+1) Paul Prosee (Paul Prosee Programming): modified the Canadian Cooperative Wildlife Health Centre database into the Australian Registry of Wildlife Pathology database. Built and maintains various other wildlife health information management tools eg the New Zealand Wildlife Health Centre database (Massey University), the London Zoo Pathology database (Royal Zoological Society of London).
+ 
+      
+ 2) Mei Chua (Creative Digital Technology): building the AWHN web-site.
+ 
+      
+ 3) Ron Templemant (Canaidan Cooperative Wildlife Health Centre): built, web-enabled and maintains the Canadian Cooperative Wildlife Health Centre databases.
+ 
+      
+ 4) Karrie Rose (Australian Registry of Wildlife Pathology): manages the Australian registry of Wildlife Health database.
+ 
+      
+ 5) Rupert Woods (AWHN).
+The team is in regular communication with members of the National Information Management Technology Group (NIMTG) through Stuart McPherson (NSW Agriculture) and the National Animal Health Information System (NAHIS) through Rob Keogh and Simon Winter (Animal Health Australia - AHA). Development of the National database has been aligned with the requirements of the NIMTG and the NAHIS. The Project team have found that the standards currently used by AHA and the NAHIS are very limited, and have almost no relevance for wildlife work. Furthermore they severely limit the ability to interrogate the databases. For these reasons, standards and tables developed as part of development of the Australian Registry of Wildlife Health database have now been adopted by AHA and NIMTG for use as the National Standards in the new Surveillance, Quarantine, Control and Recovery component (SQCR) of the NIMTG database (Diagnosis, Taxonomic Tables, pathological coding – Topography, Morphology and Aetiology “TMA codes”).
+Identification and review of mapping models
+Five models have been considered for addition of a mapping component to the AWHN database: 1) the National Information Management Technology Group (NIMTG); 2) the National Arbovirus Monitoring Program (NAMP); 3) The Canadian Cooperative Wildlife Health Centre (CCWHC); 4) the New Zealand Wildlife Health Centre; 5) Zoological Information Management System (ZIMS).
+ 
+      
+ 
+      i. The National Information Management Technology Group (NIMTG)
+ 
+         
+The National Information Managers Technical Group (NIMTG) is a sub-committee of the Primary Industries Health Committee (PIHC). NIMTG has been working to resolve key issues previously raised by PIHC and PISC surrounding the need to implement a better information management application in support of bio-security, emergency incidents, routine surveillance and market access.
+ NIMTG has completed an extensive process to determine a preferred methodology to progress the above need across the animal, plant and pest incursion sectors. In developing this proposal NIMTG has considered:
+- the existing ANEMIS specifications
+- the requirements of the proposed Emergency Animal Disease (EAD) management systems MAGIC
+- input from workshops across Qld, NSW, Vic, SA and WA run by NIMTG appointed consultants (Tas attended Victoria, NT invited to WA)
+- The November 2003 report arising from the PISC working group, chaired by Peter Bailey, “Principles for Developing Capability - National Animal Health Information Management Capability”
+- recommendations of Exercise Minotaur
+The project group has been engaged with the development, and alignment of, the SQCR component (which manages and records regulatory based activities on properties and is especially focused on regulatory activity surrounding emergency incident management) and the Client and Resource Information System component (CRIS – which delivers spatial and mapping capacity and manages people and their association with land. While SQCR has the capacity to store textually details of people and land, CRIS brings the capacity for mapping, spatial analysis and other spatial tasks).
+ 
+      
+ The functional requirements specified by NIMTG have been completed and funding is now being sought through PISC for building of the database. The AWHN database is aligned with NIMTG and its requirements have been incorporated into both the SQCR and CRIS.
+ However, CRIS has yet to be developed and it is estimated that middleware to upload to SQCR (and therefore CRIS) will cost somewhere in the order of $120 – 140K: a figure currently outside of the AWHN capability. Furthermore, a time-line has not been set for roll-out of SQCR. The AWHN needs to deliver its database and mapping component within the next financial year.
+ 
+      
+ 
+      ii. National Arbovirus Monitoring Program (NAMP)
+ 
+         
+Software used by the National Arbovirus Monitoring Program (NAMP) has been examined and quotations sought for its incorporation into the AWHN database. The NAMP is managed by AusVet, a private epidemiological consulting company. The mapping component of the NAMP database fulfils all of the criteria required by the AWHN database for mapping (high level resolution, information available in close-to-real time, specific point locators and use of polygons), however implementation would cost in excess of an estimated $60K: a figure in excess of AWHN resources.
+ 
+      
+ The Canadian Cooperative Wildlife Health Centre (CCWHC) and The New Zealand Wildlife Health Centre (NZWHC)
+ Both the CCWHC and NZWHC do not have dedicated mapping capabilities. Data are exported into an Excel spreadsheet and then uploaded into an ARCView or similar mapping package. Screens are then posted to the website. The advantage is in cost and maintenance, the interrogator being responsible for both.
+ 
+      
+ 
+      iii. The Zoological Information Management System (ZIMS).
+ The ZIMS system is still in development stage. Though a wildlife component is planned, this is a low priority and it (as well as an associated mapping component) will not be realised in the near future. The project group maintains close links with the ZIMS project team through the Head of IT at the Zoologcial Parks Board of NSW (Jenny Vasselue) and ARAZPA (Australian Regional Association of Zoological Parks and Aquaria) through Kevin Johnson.
+ 
+      
+ 
+      Identification of key issues and a pathway forward
+ Development of a mapping component for the database will only be realised after web-enablement of the National database (scheduled for 2004- 2005). However, even at this stage some key issues are becoming apparent, chief of which is cost. Development of a mapping component for the database is a large, time-consuming and significant project. The project team so far have ensured alignment with NIMTG and the SQCR, as well as with the NAHIS. However, cost of middleware to allow upload and use of any mapping component associated with CRIS will be prohibitive. The NAMP mapping capability, though of lesser cost is also outside of the AWHN budget. A way forward may be to engage with the Australian
+ 
+      
+ Biosecurity CRC, which also requires a first alert and mapping component for a database on new and emerging diseases. The AWHN database could be used as the basis for providing this capability, the mapping component being funded by the CRC.
+Future work
+Several other mapping packages have yet to be examined, chief of which is WebEpi. However, until such time as this is examined, development of a mapping component will need to be staged.
+Stage 1. Development of a data export capability (into Excel or similar).
+ Stage 2. Linking to readily available mapping package (eg ARCView)
+ Stage 3. Incorporation of purpose built mapping package (subject to funding by the AB-CRC.

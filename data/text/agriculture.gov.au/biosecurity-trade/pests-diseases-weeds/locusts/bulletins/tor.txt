@@ -1,0 +1,101 @@
+[expand all]
+About the Locust Bulletin
+The Australian Plague Locust Commission (APLC) produces a monthly Locust Bulletin during times of locust activity (spring, summer and autumn) for Australian plague locust - Chortoicetes terminifera, spur-throated locust - Austracris guttulosa, and migratory locust - Locusta migratoria. The Bulletin reports the previous month's locust situation and weather events of potential significance to locust developments. The Bulletin also gives an outlook of likely developments in the following three months.
+The terms used in the Bulletin to describe the biology, ecology and behaviour have defined meanings to increase accuracy and usefulness. The forecasts are dependent on current locust population structure and distribution information, and weather and environmental conditions. Risk statements address both the probability and the potential consequences of an occurrence.
+The majority of information documented in the Bulletin comes from regular surveys by the APLC. Additional information comes from landholders and the public, state primary industries departments and biosecurity agencies.
+Locust population densities
+A characteristic of locusts is gregarious behaviour and the formation of high density population units known as Bands of nymphs and Swarms of adults. Where higher densities occur, a large proportion of the regional population is concentrated in small areas occupied by these units and lower densities occur elsewhere. Therefore the high densities cannot be extrapolated to the area of an entire habitat area or region. Typically a range of density classes is found within surveyed regions with higher densities where habitat conditions are favourable. Where specific terms are used for density classes, the word is capitalised (Scattered or Concentration), while more general regional density descriptions (such as low or high) apply to a range of specific density categories.
+The following terms are used to describe different density levels
+Density classes for nymphs and adults used in APLC
+| Nymph Density | Number per m2 | 
+|---|---|
+| Present (P) | 1 – 5 | 
+| Numerous (Num) | 6 – 30 | 
+| Sub-Band (SB) | 31 – 80 | 
+| Band (B) | 81 – 500 | 
+| Dense Band (DB) | > 500 | 
+| Adult Density Category | Number per m2 | Number per 250 m2 | 
+|---|---|---|
+| Isolated (Iso) | < 0.02 | < 5 | 
+| Scattered (Scat) | 0.024 – 0.1 | 5 – 25 | 
+| Numerous (Num) | 0.104 – 0.5 | 26 – 125 | 
+| Concentration (Conc) | 0.504 – 3 | 126 – 750 | 
+| Low Density Swarm (LDS) | 4 – 10 | 751 – 2,500 | 
+| Medium Density Swarm (MDS) | 11 – 50 | 2,501 – 12,500 | 
+| High Density Swarm (HDS) | > 50 | >12,500 | 
+General terms density classes in comparison with APLC definitions
+| General nymphal density | APLC report densities | 
+|---|---|
+| very low, occasional | Nil – Present | 
+| low | Present – Numerous | 
+| medium | Numerous – Sub-band | 
+| high | Bands | 
+| General adult density | APLC report densities | 
+|---|---|
+| very low, occasional | Nil – Isolated | 
+| low | Isolated – Scattered | 
+| medium | Scattered – Numerous | 
+| high | Concentration – Swarm | 
+Bands
+A Band is a cohesive mass of nymphs that persists and moves as a unit. The Australian plague locust bands have well defined fronts and nymphs "march" in the same general direction.
+Two parameters are used to define bands of locust nymphs:
+- The size of a band as indicated by the length of the band front.
+- The infestation level which is measured by the accumulated length of bands per square kilometre (km2) in a given area (most often a paddock).
+|  |  | Infestation Level (length totals of band front, km/km2) |  | 
+|---|---|---|---|
+| very small | <10 | Light | 0 – 0.5 | 
+| small | 10 – 100 | Medium | 0.6 – 2 | 
+| medium | 101 – 1000 | Heavy | >2 | 
+| large | 1001 – 5000 |  |  | 
+| very large | > 5000 |  |  | 
+Swarms
+Swarms are gregariously behaving groups of adult locusts flying together as a cohesive unit. Swarms are usually described by their densities and size.
+| Swarm Size (area of swarm, km2) |  | Note | 
+|---|---|---|
+| very small | <1 |  | 
+| small | 1 – 2 | minimum target size for aerial application (>MDS) | 
+| medium | 3 – 10 |  | 
+| large | 11 – 20 | minimum infestation area for control campaign | 
+| very large | >20 |  | 
+Other terms mentioned in the Locust Bulletin
+Other terms used in the Bulletin to refer to locust biology and behaviour, rainfall and forecast probabilities. These are defined below.
+| Weekly Rainfall Total (mm) |  | 
+|---|---|
+| Light | 0 – 25 | 
+| Moderate | 25 – 50 | 
+| Heavy | 50 – 100 | 
+| Very Heavy | >100 | 
+Forecast probabilities
+| Chance that event will occur (%) |  | 
+|---|---|
+| Unlikely, low probability | <30 | 
+| May, moderate probability | 30 – 70 | 
+| Likely, high probability | >70 | 
+Locust Biology and Behaviour
+| Term | Definition | 
+|---|---|
+| Adult | A fully winged, mature locust capable of breeding and migrating. | 
+| Day flight | Short distance (up to 50 km/day) daytime dispersal movement of gregariously behaving locusts, generally at low altitude (0 – 300 m), resulting in redistribution of a population. | 
+| Development | The progressive changes in shape, size and function from egg to adult. | 
+| Diapause egg | An over-wintering egg that suspends development for a period even under temporarily favourable conditions. | 
+| Early instar | First and second instar. | 
+| Egg bed | An area containing more than 10 egg pods per square metre. | 
+| Emigrants | Locusts leaving an area by migration. | 
+| Fledgling | Newly moulted, soft-bodied adult incapable of sustained flight. This stage lasts approximately 5 days between 5th instar nymph and mature adult stages. | 
+| Gravid | Females with mature eggs of 4-5 mm length. | 
+| Immigrants | Locusts flying into an area by migration. | 
+| Instar | Stage of nymphal development separated by a moult. Australian plague and migratory locusts have five nymphal instars while the spur-throated locusts have 6-8 instars. | 
+| Late instar | Fourth and fifth instars. | 
+| Laying | Females depositing eggs into the ground in egg pods containing up to 50 eggs for Australian plague and migratory locusts and 120 for spur-throated locusts. | 
+| Mid instar | Third instar locusts. | 
+| Migration | Nocturnal, wind-assisted flight of locusts usually at higher altitudes (up to 1200 m), resulting in population displacement up to several hundred kilometres overnight. | 
+| Nymph | Immature locust without wings (though wing buds may be visible) and is therefore unable to fly. This stage in the locust life cycle follows hatching, lasts approximately five weeks and is often referred to as the hopper stage. | 
+| Over-wintering eggs | Eggs in an arrested state of development (diapause or quiescence, or slow development). | 
+| Over-wintering nymphs | Nymphs resulting from an autumn egg laying may develop to third instar and persist through winter in that stage. Development resumes in spring. | 
+| Over-wintering adults | Locusts that become adult in late autumn but do not mature and develop eggs until early spring. | 
+| Quiescent egg | An egg in which development has been arrested by the onset of dry conditions and which will resume development when sufficient rain falls. | 
+| Target | An area of band or swarm density locusts at least one km2 in size suitable for aerial application. A total of at least 10 km2 of treatable targets must be present in an area for APLC to consider commencing aerial control. | 
+| Test drilling | Female locusts bore into the ground with their abdomens to test the soil but do not lay eggs. | 
+Forecasting districts referred to in the Locust Bulletin
+Map of forecast regions with main areas of potential locust habitat shown in green
+![map of bulletin forecasting districts](https://www.agriculture.gov.au/sites/default/files/images/forecast-district-crop-2021.png)

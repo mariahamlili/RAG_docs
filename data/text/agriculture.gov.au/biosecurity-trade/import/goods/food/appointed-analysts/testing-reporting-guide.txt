@@ -1,0 +1,374 @@
+As an appointed analyst, you test samples of imported food. This is part of our Imported Food Inspection Scheme.
+This guide sets out:
+- units of measurement to use when reporting results
+- minimum performance required of any testing methodology (limit of reporting)
+- how to report the results of analysis.
+Appointed analysts must have National Association of Testing Authorities (NATA) or International Accreditation New Zealand (IANZ) accreditation for the food/analyte combination you are testing.
+You must comply with the conditions for appointment as an analyst.
+Imports referred for testing
+All imports into Australia are lodged with the Department of Home Affairs’ Integrated Cargo System (ICS).
+Certain entries lodged with ICS will be identified as requiring inspection. The ICS will send the details to our Agriculture Import Management System (AIMS).
+We issue an Imported Food Inspection Report (IFIR) for the food we inspect and test.
+Importers choose a laboratory
+Importers choose a laboratory when their food imports are being tested. They submit a nomination form directly to a laboratory.
+When you receive a nomination form, complete the ‘Laboratory use only’ section and send it to our regional office near you.
+The importer can then book their inspection.
+Collecting samples
+Our officers collect a representative sample when they inspect the imported food. The sample may be a single unit per lot or multiple sub-samples per lot.
+We place samples in a tamper evident bag with a unique barcode. The barcode will be placed on the IFIR which must accompany the sample bag to the appointed analyst.
+AIMS contains information from the IFIR. The IFIR records:
+- what food is to be held or released
+- information to identify the sampled food
+- what tests will be applied.
+Receiving samples
+We will send you an electronic IFIR (eIFIR) when samples are ready for collection. You must arrange for a courier to collect the samples from the collection point.
+A copy of the IFIR will be attached to the food sample you receive.
+Contact the relevant regional office if the IFIR:
+- is not included with the sample
+- is incomplete or illegible
+- does not match the barcode on the food sample.
+Testing samples
+Complete the tests on the food sample listed on the IFIR.
+Where compositing is permitted in specific tests, take sub-samples of equal mass or volume from each of the original samples to form the composite sample for analysis.
+If the sample receives a failing result, follow the confirmatory testing requirements before reporting the result.
+| Adulteration of honey with C4 sugars |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| ADULTHNY | Adulteration with C4 sugars | Not required/ 1 result | % | Not applicable | 
+| Aflatoxin |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| AFLAT | Aflatoxin | Permitted/ 1 result | mg/kg | 0.004 | 
+| Arsenic (total) |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| ARSENICT | Arsenic (total) | Permitted/ 1 result | mg/kg | 1 | 
+| Cannabidiol |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/ No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| CANNA | Cannabidiol | Permitted/ 1 result | mg/kg | 0.5 | 
+| Carbon monoxide |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/ No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| CO | Carbon monoxide | Permitted/ 1 result | mg/kg | 0.2 | 
+| Cephalosporins |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| CEPHALO | Ceftiofur | Permitted/1 result | mg/kg | 0.1 | 
+| Domoic acid |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| DOMOIC | Domoic acid | Permitted/ 1 result | mg/kg | 2 | 
+| Fluoroquinolones Note: 1 result for each of the analytes listed below is required, with exception of Levofloxacin and Ofloxacin, which is to be reported as one result. |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| FLUORO | Ciprofloxacin | Permitted / 1 result for each of the chemicals listed | mg/kg | 0.002 | 
+|  | Enrofloxacin |  |  |  | 
+|  | Gatifloxacin |  |  |  | 
+|  | Moxifloxacin |  |  |  | 
+|  | Norfloxacin |  |  |  | 
+|  | Sarafloxacin |  |  |  | 
+|  | sum of Levofloxacin and Ofloxacin |  |  |  | 
+Note: 1 result for each of the analytes listed below is required, with exception of Levofloxacin and Ofloxacin, which is to be reported as one result.
+| Histamine |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| HISTA | Histamine | Permitted/ 1 result | mg/kg | 20 | 
+| Hydrocyanic acid |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| HCN | Hydrocyanic acid | Permitted/ 1 result | mg/kg | 5 | 
+| Inorganic arsenic Note: report ‘at 85% hydration’ in the ‘test methods’ field |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| INORG | Inorganic arsenic | Permitted/ 1 result | mg/kg at 85% hydration | 0.1 | 
+Note: report ‘at 85% hydration’ in the ‘test methods’ field
+| Iodine Note: report ‘dry weight’ in the ‘test methods’ field |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| IODINE | Iodine | Permitted/ 1 result | mg/kg dry weight | 0.1 | 
+Note: report ‘dry weight’ in the ‘test methods’ field
+| Lead |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| LEAD | Lead | Permitted/ 1 result | mg/kg | 0.1 | 
+| Malachite green |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analytes | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| MALAG | Malachite green | Permitted /1 result for each of the chemicals listed | mg/kg | 0.002 | 
+|  | Leuco–malachite green |  |  |  | 
+| Moisture content |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analytes | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| MOISTHNY | Moisture content | Not required/ 1 result | % | Not applicable | 
+| Nitrofurans  Note:  Soft shell crab with an initial nitrofuran semicarbazide (SEM) result at or above the LOR of 0.001mg/kg, requires a secondary test of the inner portions (meat only) to be analysed and reported. |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analytes | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| NITROFU | Furazolidone (AOZ) | Permitted / 1 result for each of the chemicals listed | mg/kg | 0.001 | 
+|  | Furaltadone (AMOZ) |  | mg/kg | 0.001 | 
+|  | Nitrofurantoine (AHD) |  | mg/kg | 0.001 | 
+|  | Nitrofurazone (SEM) |  | mg/kg | 0.001 | 
+Note: Soft shell crab with an initial nitrofuran semicarbazide (SEM) result at or above the LOR of 0.001mg/kg, requires a secondary test of the inner portions (meat only) to be analysed and reported.
+| Paralytic shellfish poison |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| PSP | Paralytic shellfish poison | Permitted/ 1 result | mg/kg | 0.8 | 
+| Quinolones |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analytes | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| QUINO | Flumequine | Permitted 1 result for each of the chemicals listed | mg/kg | 0.002 | 
+|  | Oxolinic acid |  |  |  | 
+| Reducing sugars content |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| SUGARHNY | Reducing sugars content | Not required/ 1 result | % | Not applicable | 
+| Total THC (tetrahydrocannabinol) |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| THC | Total THC | Permitted / 1 result | mg/kg | 0.5 | 
+| Virginiamycin |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| VIRGN | Virginiamycin | Permitted/ 1 result | mg/kg | 0.1 | 
+Compositing not permitted
+One result required for a liquid sample (at least 100ml)
+Five results required for powder samples (at least 100g per sample)
+Test code: ALLEGEND
+| Allergen - dairy milk |  |  |  | 
+|---|---|---|---|
+| Results to be reported | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|
+| Beta-lactoglobulin | Not permitted/1 result for liquid and 5 results for powder | ppm | 0.1 | 
+| Casein (expressed as skim milk powder) | Not permitted/1 result for liquid and 5 results for powder | ppm | 1.0 | 
+| Total milk (expressed as non-fat dried milk) | Not permitted/1 result for liquid and 5 results for powder | ppm | 2.5 | 
+Portion of the commodity prepared for testing must be as per Schedule 22 (Foods and classes of foods) of the Food Standards Code (see statements under each commodity in the schedule which describe the ‘Portion of the commodity to which the MRL applies’).
+Compositing permitted.
+Reporting requirements:
+Where all residues are below the LOR, report an analysis result as per the table.
+| Analysis to be reported | Units | Results of analysis | 
+|---|---|---|
+| All residues <LOR | mg/kg | < LOR | 
+| All-analytes | mg/kg | < LOR | 
+Where residues are detected equal to or greater than the LOR, report an analysis result as per the following table. Include the measurement uncertainty (MU) in mg/kg in the ‘Results of analysis’ field directly after the analysis result. Report to one significant figure.
+| Analysis to be reported | Units | Results of analysis | 
+|---|---|---|
+| Residues <LOR except | mg/kg | < LOR | 
+| <<analyte>> | mg/kg | <<result>> MU<<result>> | 
+| e.g. bifenthrin | mg/kg | 0.16 MU 0.02 | 
+Test code: FVRES
+| Analytes to be reported | FSC 1.4.2 Residue definition | Units | Limit of reporting | 
+|---|---|---|---|
+| 2-phenylphenol | sum of 2-phenylphenol and 2-phenylphenate | mg/kg | 0.05 | 
+| acephate |  | mg/kg | 0.05 | 
+| aldrin and dieldrin | sum of HHDN and HEOD | mg/kg | 0.05 | 
+| azinphos-methyl |  | mg/kg | 0.05 | 
+| azoxystrobin |  | mg/kg | 0.05 | 
+| benalaxyl |  | mg/kg | 0.05 | 
+| bifenthrin |  | mg/kg | 0.01 | 
+| bioresmethrin |  | mg/kg | 0.05 | 
+| bitertanol |  | mg/kg | 0.05 | 
+| boscalid |  | mg/kg | 0.05 | 
+| captan |  | mg/kg | 0.05 | 
+| carbaryl |  | mg/kg | 0.1 | 
+| carbendazim | sum of carbendazim and 2-aminobenzimidazole | mg/kg | 0.05 | 
+| chlorfenvinphos | sum of E and Z isomers | mg/kg | 0.05 | 
+| chlorothalonil |  | mg/kg | 0.05 | 
+| chlorpyrifos |  | mg/kg | 0.01 | 
+| chlorpyrifos-methyl |  | mg/kg | 0.05 | 
+| chlorthal-dimethyl |  | mg/kg | 0.05 | 
+| cyfluthrin | sum of isomers | mg/kg | 0.05 | 
+| cyhalothrin | sum of isomers | mg/kg | 0.01 | 
+| cypermethrin | sum of isomers | mg/kg | 0.05 | 
+| cyproconazole | sum of isomers | mg/kg | 0.05 | 
+| cyprodinil |  | mg/kg | 0.05 | 
+| DDT | sum of p,p DDT; o,p DDT; p,p DDE and p,p DDD | mg/kg | 0.05 | 
+| deltamethrin |  | mg/kg | 0.05 | 
+| diazinon |  | mg/kg | 0.05 | 
+| dichlorvos |  | mg/kg | 0.05 | 
+| dicloran |  | mg/kg | 0.05 | 
+| dicofol | sum of dicofol and 2,2,2-trichloro-1-(4-chlorophenyl)-1-(2-chlorophenyl)ethanol | mg/kg | 0.1 | 
+| difenoconazole |  | mg/kg | 0.05 | 
+| dimethoate | sum of dimethoate and omethoate | mg/kg | 0.02 | 
+| dimethomorph | sum of E and Z isomers | mg/kg | 0.05 | 
+| diphenylamine |  | mg/kg | 0.05 | 
+| disulfoton | sum of disulfoton and demeton-S and their sulfoxides and sulfones | mg/kg | 0.05 | 
+| diuron | sum of diuron and 3,4- dichloroaniline | mg/kg | 0.05 | 
+| endosulfan | sum of A- and B- endosulfan and endosulfan sulphate | mg/kg | 0.05 | 
+| endrin |  | mg/kg | 0.05 | 
+| ethoprofos |  | mg/kg | 0.05 | 
+| fenamiphos | sum of fenamiphos, its sulfoxide and sulfone | mg/kg | 0.05 | 
+| fenarimol |  | mg/kg | 0.05 | 
+| fenhexamid |  | mg/kg | 0.02 | 
+| fenitrothion |  | mg/kg | 0.01 | 
+| fenoxycarb |  | mg/kg | 0.05 | 
+| fenpyroximate |  | mg/kg | 0.05 | 
+| fenthion | sum of fenthion, its oxygen analogue, and their sulfoxides and sulfones | mg/kg | 0.05 | 
+| fenvalerate | sum of isomers | mg/kg | 0.05 | 
+| fipronil | sum of fipronil, the sulphenyl metabolite, the sulphonyl metabolite and the trifluoromethyl metabolite | mg/kg | 0.05 | 
+| fludioxonil |  | mg/kg | 0.02 | 
+| flusilazole |  | mg/kg | 0.05 | 
+| HCB (hexachlorobenzene) |  | mg/kg | 0.05 | 
+| HCH (BHC) | sum of isomers of 1,2,3,4,5,6-hexachlorocyclohexane other than lindane (gamma-HCH) | mg/kg | 0.05 | 
+| heptachlor | sum of heptachlor and heptachlor expoxide | mg/kg | 0.01 | 
+| hexaconazole |  | mg/kg | 0.05 | 
+| hexythiazox |  | mg/kg | 0.05 | 
+| imazalil |  | mg/kg | 0.05 | 
+| indoxacarb | sum of indoxacarb and its R-isomer | mg/kg | 0.05 | 
+| iprodione |  | mg/kg | 0.05 | 
+| kresoxsim-methyl |  | mg/kg | 0.05 | 
+| lindane |  | mg/kg | 0.05 | 
+| linuron | sum of linuron and 3,4- dichloroaniline | mg/kg | 0.05 | 
+| malathion (maldison) |  | mg/kg | 0.05 | 
+| metalaxyl |  | mg/kg | 0.05 | 
+| methamidophos |  | mg/kg | 0.05 | 
+| methidathion |  | mg/kg | 0.01 | 
+| methomyl |  | mg/kg | 0.02 | 
+| mevinphos |  | mg/kg | 0.05 | 
+| monocrotophos |  | mg/kg | 0.05 | 
+| myclobutanil |  | mg/kg | 0.05 | 
+| oxyfluorfen |  | mg/kg | 0.05 | 
+| paclobutrazol |  | mg/kg | 0.01 | 
+| parathion-ethyl |  | mg/kg | 0.05 | 
+| parathion-methyl |  | mg/kg | 0.05 | 
+| penconazole |  | mg/kg | 0.05 | 
+| pendimethalin |  | mg/kg | 0.05 | 
+| permethrin | sum of isomers | mg/kg | 0.05 | 
+| phenothrin | sum of (+)cis- and (+)trans-isomers | mg/kg | 0.05 | 
+| phorate | sum of phorate, its oxygen analogue, and their sulfoxides and sulfones | mg/kg | 0.05 | 
+| phosmet | sum of phosmet and its oxygen analogue | mg/kg | 0.05 | 
+| piperonyl-butoxide |  | mg/kg | 0.05 | 
+| pirimicarb | sum of pirimicarb, demethyl-pirimicarb, demethylformamido-pirimicarb | mg/kg | 0.05 | 
+| pirimiphos-methyl |  | mg/kg | 0.05 | 
+| procymidone |  | mg/kg | 0.02 | 
+| profenofos |  | mg/kg | 0.05 | 
+| propargite |  | mg/kg | 0.05 | 
+| propiconazole |  | mg/kg | 0.05 | 
+| prothiofos |  | mg/kg | 0.05 | 
+| pymetrozine |  | mg/kg | 0.02 | 
+| pyraclostrobin |  | mg/kg | 0.05 | 
+| pyrethrins | sum of pyrethrins i and ii, cinerinsi i and ii and jasmolins i and ii | mg/kg | 0.1 | 
+| pyrimethanil |  | mg/kg | 0.05 | 
+| pyriproxyfen |  | mg/kg | 0.05 | 
+| quintozene |  | mg/kg | 0.05 | 
+| spinosad | sum of spinosyn A and spinosyn D | mg/kg | 0.02 | 
+| spirotetramat | sum of spirotetramat and cis-3-(2,5-dimethylphenyl)-4-hydroxy-8-methoxy-1-azaspiro[4.5]dec-3-en-2-one | mg/kg | 0.02 | 
+| tau-fluvalinate | sum of isomers | mg/kg | 0.05 | 
+| tebuconazole |  | mg/kg | 0.05 | 
+| tebufenozide |  | mg/kg | 0.05 | 
+| tebufenpyrad |  | mg/kg | 0.05 | 
+| terbufos | sum of terbufos, its oxygen analogue, and their sulfoxides and sulfones | mg/kg | 0.05 | 
+| tetradifon |  | mg/kg | 0.05 | 
+| thiabendazole |  | mg/kg | 0.02 | 
+| thiacloprid |  | mg/kg | 0.05 | 
+| thiamethoxam |  | mg/kg | 0.02 | 
+| triadimefon | sum of triadimefon and triadimenol | mg/kg | 0.05 | 
+| triadimenol |  | mg/kg | 0.05 | 
+| trichlorfon |  | mg/kg | 0.05 | 
+| trifloxystrobin | sum of trifloxystrobin and its acid metabolite ((E,E)-methoxyimino-[2-[1-(3-trifluoromethylphenyl)-ethylideneaminooxymethyl]phenyl] acetic acid) | mg/kg | 0.05 | 
+| vinclozolin |  | mg/kg | 0.05 | 
+| Bacillus cereus – tofu |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| BCERE | Bacillus cereus | Not permitted/ 5 results | cfu/g | Enumerate result for each sample. Report to at least 100 E.g.: <100, 1300, <100, 3000, <100 | 
+| Coagulase–positive staphylococci – seafood |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| STAPH | Staphylococci | Not permitted/ 5 results | cfu/g | Enumerate result for each sample. Report to at least 100 E.g.: <100, 1300, <100, 3000, <100 | 
+| Cronobacter- powdered infant formula |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| CRON | Cronobacter | If not composited/ 10 results | /10g | Detected ‘D’ or Not Detected ‘ND’ in each of the 10 samples. E.g.: ND, ND, ND, D, ND, ND, D, ND, ND, D | 
+|  |  | If composited/ 1 result | /100g | Detected ‘D’ or Not Detected ‘ND’ in the composite sample. E.g.: ND | 
+| Escherichia coli (E. coli) – bivalve molluscs, marinara mix |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| ECOLI | E. coli | Not permitted/ 5 results | MPN/g | Enumerate result for each sample. Report to at least 2.3 E.g.: <2.3, 45, <2.3, 45, <2.3 | 
+| Escherichia coli (E. coli) – dried berries and dried pomegranate arils |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| ECOLI | E. coli | Not permitted/ 5 results | cfu/g | Enumerate result for each sample. Report to at least 100 E.g.: <100, <100, 1500, 120, 500 | 
+| Escherichia coli (E. coli) – vegetables, beef and beef products |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| ECOLI | E. coli | Not permitted/ 5 results | cfu/g | Enumerate result for each sample. Report to at least 10 E.g.: <10, <10, 10, 120, <10 | 
+| Listeria monocytogenes – food in which growth can occur* (risk cheese, bivalve molluscs, cooked crustaceans, fungi, some meat products and some ready to eat finfish) |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| LIST | Listeria monocytogenes | If not composited/ 5 results | /25g | Detected ‘D’ or Not Detected ‘ND’ in each of the 5 samples. E.g.: ND, ND, ND, D, ND | 
+|  |  | If composited/ 1 result | /125g | Detected ‘D’ or Not Detected ‘ND’ in the composite sample. E.g.: ND | 
+* According to the criteria for each food
+| Listeria monocytogenes – food in which growth will not occur* (surveillance cheese, some meat products, cooked crustaceans, some ready-to-eat heat treated bivalve molluscs and some ready to eat finfish) |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| LISTQ | Listeria monocytogenes | Not permitted/ 5 results | cfu/g | Enumerate result for each sample. Report to at least 100. E.g.: <100, 100, <100, <100, 200 | 
+* According to the criteria for each food
+| Salmonella – cheese, crustaceans, dried herbs, marinara mix, meat products, pepper, spices, sesame seeds, dried milk and products containing sesame |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| SALM | Salmonella | If not composited/ 5 results | /25g | Detected ‘D’ or Not Detected ‘ND’ in each of the 5 samples. E.g.: ND, ND, ND, D, ND | 
+|  |  | If composited/ 1 result | /125g | Detected ‘D’ or Not Detected ‘ND’ in the composite sample. E.g.: ND | 
+| Salmonella – coconut, powdered infant formula, follow-on formula |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| SALM | Salmonella | If not composited/ 10 results | /25g | Detected ‘D’ or Not Detected ‘ND’ in each of the 10 samples. E.g.: ND, ND, ND, D, ND, ND, D, ND, ND, D | 
+|  |  | If composited/ 1 result | /250g | Detected ‘D’ or Not Detected ‘ND’ in the composite sample. E.g.: ND | 
+| Shiga toxin – producing Escherichia coli (E. coli) (STEC) – fresh (chilled or frozen) beef and beef products |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analyte | Composite/No. of results | Units | Limit of reporting (For each analyte: Detected ‘D’ or Not Detected ‘ND’ for example) | 
+|---|---|---|---|---|
+| STEC | O26 | Composited / 1 result for each analyte | /375g | ND | 
+|  | O45 |  |  | ND | 
+|  | O103 |  |  | ND | 
+|  | O111 |  |  | ND | 
+|  | O121 |  |  | ND | 
+|  | O145 |  |  | ND | 
+|  | O157 |  |  | ND | 
+| Vibrio cholerae – crustaceans |  |  |  |  | 
+|---|---|---|---|---|
+| Test Code | Analytes | Composite/No. of results | Units | Limit of reporting | 
+|---|---|---|---|---|
+| VCHOL | Vibrio cholerae | If not composited/ 5 results | /25g | Detected ‘D’ or Not Detected ‘ND’ in each of the 5 samples. E.g.: ND, ND, ND, D, ND | 
+|  |  | If composited/ 1 result | /125g | Detected ‘D’ or Not Detected ‘ND’ in the composite sample. E.g.: ND | 
+Report the results
+Refer to the details in the IFIR.
+Use eResults to report the results to the AIMS system. This information will appear in the AIMS Test and Results Details screen.
+Upload attachments as formatted XML.
+We will use the results to determine if the food is a ‘pass’ or ‘fail’.
+Inputting data into eResults
+Test Code / Analytes: use the test code or the analyte name in its entirety when reporting to e-Results. Do not use any other abbreviation or code.
+Composite / No. of results: this indicates where compositing is permitted and the number of results that must be entered into e-Results for each analyte.
+Units: enter results using the units specified for each test. You may need to convert the results to the units specified.
+Limit of reporting (LOR): for chemical testing, report any result less than the LOR as ‘<’ the specified figure.
+For microbiological results, the LOR is not necessarily the same as the food standard for the test.
+If we identify results not being reported correctly, we may request you to resubmit the results. We will note the non-compliance and consider it during your appointment review.

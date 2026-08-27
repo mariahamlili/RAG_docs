@@ -1,0 +1,1159 @@
+ANIMALPLAN 
+2 0 2 2 t o 2 0 2 7
+Australia’s National Action Plan for Production Animal Health
+@ Agriculture Victoria
+
+Foreword
+Australia is a world leader and trusted source of animal products. In 2021–22, the gross value of production of Australia’s 
+livestock and livestock products (including meat, live animals, wool, and dairy) was estimated by Australian Bureau of 
+Agricultural and Resource Economics and Sciences (ABARES) to be $35.2 billion. Exports of livestock and livestock products 
+were valued at $27.1 billion in the same year.
+Australia’s agriculture is highly export-oriented and our animal agriculture sectors are no exception. Our meat and live 
+animals have been the fastest growing export segment (33% in value terms) since 2001–02. 
+The production animal sector is made up of many industries, businesses, and individual producers, but until now has lacked 
+a national plan. Producers are already innovative and respond swiftly and effectively to changes in supply chains, the climate 
+and weather, and markets. Maintaining the supply of animal products to consumers, our vital agriculture industries, and 
+environment. 
+I am optimistic that with the backing of our stakeholders, Animalplan 2022 to 2027 will bring the sector together as it strives 
+to achieve its potential in systems of production and sustainability. 
+Animalplan 2022 to 2027 is an ambitious national plan to strengthen animal health practices and position Australia’s livestock 
+industries to meet emerging trends and requirements in a globally competitive market. Indirectly, it will help to sustain the 
+communities that both support and rely on animal industries.
+Extensive consultation with our industries resulted in agreement of 7 national objectives. They cover:
+1.	 preparedness and response
+2.	 diagnostics and surveillance
+3.	 industry biosecurity
+4.	 antimicrobial resistance
+5.	 sustainability
+6.	 integrity systems
+7.	 aspects of animal welfare.
+Each objective has several priority activities linked to it. Essential to the future success of Animalplan will be continued 
+collaboration and cooperation with our partners to effectively implement the 21 activities that make up Animalplan.
+I sincerely thank the industries and state and territory representatives who contributed to its development. I support and 
+look forward to the benefits this ambitious plan is expected to bring.
+@ The Department of Primary Industries and Regions South Australia (PIRSA)
+Senator the Hon Murray Watt
+Minister for Agriculture, Fisheries and Forestry
+
+Contents
+1. Foreword 
+2
+2. Introduction 
+5
+3. Scope 
+6
+Objective 1 — Improve Australia’s preparedness and ability to respond to emergency 
+animal diseases	
+8
+Objective 2 — Improve Australia’s surveillance and diagnostic capacity 
+for animal pests and diseases	
+11
+Objective 3 — Improve the adoption and implementation of biosecurity practices 
+throughout the terrestrial animal industry supply chain	
+12
+Objective 4 ­— Manage the risk of antimicrobial resistance	
+15
+Objective 5 — Improve animal welfare outcomes relevant to emergency scenarios	
+15
+Objective 6 — Implement industry sustainability frameworks and plans	
+16
+Objective 7 — Improve the integrity of animal health systems	
+17
+4. Appendix A: Organisations consulted for Animalplan 2022 to 2027 
+18
+5. Appendix B: List of production animals 
+19
+6. Appendix C: Alignment of Animalplan with existing industry strategic plans 
+20
+Other related strategies, plans and frameworks 
+22
+Biosecurity Strategies 
+24
+7. Abbreviations 
+25
+8. References 
+27
+
+© Commonwealth of Australia 2022
+Ownership of intellectual property rights 
+Unless otherwise noted, copyright (and any other intellectual property rights) in this publication is owned by the Commonwealth of Australia (referred to as 
+the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos 
+and the Commonwealth Coat of Arms.
+Inquiries about the licence and any use of this document should be emailed to copyright@agriculture.gov.au.
+Cataloguing data  
+This publication (and any material sourced from it) should be attributed as: DAFF 2022, Animalplan 2022 to 2027: Australia’s National Action Plan for 
+Production Agricultural Animal Health, Australian Government Department of Agriculture, Fisheries and Forestry, Canberra, November. CC BY 4.0.
+ISBN 978-1-76003-444-3
+This publication is available at www.agriculture.gov.au/animal/health/animal-plan
+Department of Agriculture, Fisheries and Forestry 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au
+The Australian Government acting through the Department of Agriculture, Fisheries and Forestry has exercised due care and skill in preparing and 
+compiling the information and data in this publication. Notwithstanding, the Department of Agriculture, Fisheries and Forestry, its employees and advisers 
+disclaim all liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using 
+or relying on any of the information or data in this publication to the maximum extent permitted by law.
+
+Introduction
+Animalplan 2022 to 2027 is Australia’s first national action plan to strengthen our production animal health system. It follows 
+on from the success of AQUAPLAN, the national plan for aquatic animal industries. Animalplan consolidates agreed animal 
+health activities across Australia’s production animal industries and has been developed through collaboration between 
+governments, industry organisations, animal health experts and other stakeholders. A list of organisations consulted during 
+the development of Animalplan is in Appendix A. A list of production animal species is at Appendix B.
+Australia has a favourable animal health status free from the burden of many significant animal diseases. This has been 
+underpinned by an established and well-developed national animal health system supported by robust public–private 
+partnerships. However, continuous improvement jointly between production industries and government agencies is required 
+to ensure this system remains fit for purpose through 2030 and beyond and supports trade and market access outcomes.
+Animalplan will strengthen Australia’s arrangements for managing animal health in agriculture by increasing productivity and 
+reducing production losses incurred as a result of agricultural pests and diseases. This will contribute to biosecurity system 
+transformation outlined in CSIRO’s Australia’s Biosecurity Future report and also assist in achieving the National Farmers’ 
+Federation’s (NFF) vision for Australian agriculture to exceed $100 billion in farm-gate output by 2030 (NFF 2019).
+Animalplan was endorsed by the Animal Health Australia (AHA) Industry Forum, the National Biosecurity Committee, the 
+Agriculture Senior Officials’ Committee and the Agriculture Ministers’ Forum, and will contribute to:
+1.	 improving Australia’s preparedness and ability to respond to emergency animal diseases (EADs)
+2.	 improving Australia’s surveillance and diagnostic capacity for animal pests and diseases
+3.	 improving the adoption and implementation of biosecurity practices throughout the terrestrial animal industry 
+supply chain
+4.	 managing the risk of antimicrobial resistance
+5.	 improving animal welfare outcomes relevant to emergency scenarios
+6.	 implementing industry sustainability frameworks and plans
+7.	 improving the integrity of animal health systems.
+Implementation of Animalplan activities will be a shared responsibility between government and non-government 
+organisations. For progress on existing activities or to submit new project proposals for 
+consideration, please visit the Animalplan web page.
+
+Scope
+For the purposes of Animalplan, Australia’s national animal health system is defined 
+as the organisations, businesses, services, policies and regulations that maintain 
+and improve animal health outcomes for Australia’s animal production industries. 
+These include animals that are raised or harvested for meat, fibre, milk, eggs or other 
+products and are listed in Appendix B.
+Activities were prioritised and included in Animalplan if:
+	•
+the activity addresses a gap or opportunity in the national animal health system
+	•
+the activity strengthens national collaboration between industries 
+and governments.
+Animalplan does not cover Australia’s commitments to international animal health and 
+welfare activities, including those to manage biosecurity risks offshore. International 
+commitments are covered separately through ongoing projects and programs 
+administered by government departments such as the Department of Agriculture, 
+Fisheries and Forestry (DAFF) and the Department of Foreign Affairs and Trade.
+@ The Department of Primary Industries and Regions South Australia (PIRSA)
+
+1. Related strategies and plans
+Many government and industry organisations have already developed animal health strategic plans for a single industry, 
+region or jurisdiction. Similarly, national strategies and plans also exist or are under development covering a range of areas, 
+including the National Biosecurity Strategy and issue-specific strategies for surveillance, diagnostics, and antimicrobial 
+resistance. Animalplan does not duplicate or supersede these plans. Rather, it references and links these in a single strategic 
+action plan for terrestrial agricultural animal health.
+Appendix C outlines the specific areas of alignment between Animalplan and these existing strategies, plans and frameworks.
+2. Implementation, governance and 
+funding for Animalplan activities
+The Animalplan Steering Committee, with representation from government and industry, will further prioritise, champion 
+and oversee the implementation of Animalplan activities, and provide updates to AHA Members’ Forum and National 
+Biosecurity Committee.
+Animalplan is a framework of agreed national priorities and is expected to attract funding and in-kind contributions. 
+A diverse representation of industry and government members on the steering committee will facilitate open discussions 
+about funding opportunities for priority activities.
+Activity leads have agreed to champion and drive their individual activities, including to secure funding where necessary, in 
+collaboration with other industry and government organisations.
+@ Agriculture Victoria
+
+8
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+3. Objectives
+Animalplan 2022 to 2027 has 7 objectives:
+Improve Australia’s preparedness and ability to respond to emergency animal diseases (EADs).
+Improve Australia’s surveillance and diagnostic capacity for animal pests and diseases.
+Improve the adoption and implementation of biosecurity practices throughout the terrestrial animal 
+industry supply chain.
+Manage the risk of antimicrobial resistance.
+Improve animal welfare outcomes relevant to emergency scenarios.
+Implement industry sustainability frameworks and plans.
+Improve the integrity of animal health systems.
+Objective 1 — Improve Australia’s preparedness and ability to respond to 
+emergency animal diseases
+Australia’s existing EAD preparedness and response arrangements are effective and include robust governance frameworks 
+for EAD decision-making processes, a comprehensive national contingency planning framework through Australia’s 
+AUSVETPLAN manuals and the Emergency Animal Disease Response Agreement (EADRA), and biosecurity communication 
+networks. These arrangements are delivered through strategic partnerships between government agencies, industry 
+organisations and AHA to help protect Australia’s coveted animal health status.
+Biosecurity risk pathways are changing, with changing movements of people, animals and animal products. This affects 
+the distribution of pathogens. Examples of disease detection and spread between 2018 and 2022 in the Asia–Pacific region 
+include African swine fever, African horse sickness, lumpy skin disease and foot-and-mouth disease (FMD). With increasing 
+cross-border and international trade, Australia’s national animal health system will be subject to increased EAD risks. The 
+ongoing collaboration of government agencies, production animal industries and organisations such as AHA is important 
+to minimise these risks. Table 1 outlines the agreed list of activities that will strengthen Australia’s capacity to prepare and 
+respond to EADs.
+@ The Department of Primary Industries and Regions South Australia (PIRSA)
+
+9
+ Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Table 1 Activities to improve Australia’s preparedness and ability to respond to emergency animal 
+diseases
+Activity
+Desired outcome by 2027
+Lead
+1.1. Continue to implement 
+recommendations from emergency 
+responses including EAD incursions, 
+COVID-19, previous EAD simulation 
+exercises and recent natural disasters
+Recommendations from emergency 
+responses are actioned to reduce 
+emergency scenario risks to production 
+animal industries
+AHA (to facilitate engagement 
+across governments and 
+industries); government agencies 
+and peak industry organisations 
+(to lead implementation of 
+recommendations)
+1.2. Continue to undertake simulation 
+exercises for a variety of EAD scenarios, 
+including identifying and addressing 
+trade ramifications
+Simulation exercises are completed 
+to reduce industry risks in a variety of 
+emergency scenarios
+AHA, in collaboration with 
+jurisdictions and peak industry 
+organisations
+1.3. Operationalise AUSVETPLAN manuals 
+and documents across industry supply 
+chains and structures
+Agreed AUSVETPLAN manuals and 
+documents are applied to reduce 
+vulnerabilities in industry supply chains 
+and structure
+AHA, in collaboration with 
+jurisdictions and peak industry 
+organisations
+1.4. Undertake projects, including 
+commissioning and undertaking 
+research, to further develop economic 
+analyses and epidemiological modelling 
+tools supporting rapid decision making in 
+EAD responses for priority diseases
+Existing and/or new decision support 
+tools provide timely and appropriate 
+information to effectively support EAD 
+responses
+DAFF, government agencies
+1.5. Implement innovative technologies 
+and training to meet national EAD 
+education and training needs
+Innovative technologies and training 
+methods are adopted and implemented 
+to improve EAD education and training 
+needs for animal health professionals 
+and supply chain participants
+AHA to lead, with contributions from 
+jurisdictions, Australian Veterinary 
+Association (AVA), Australian Centre 
+for Disease Preparedness (ACDP) 
+and Veterinary Schools Australia and 
+New Zealand (VSANZ)
+1.6. Investigate existing systems or trial 
+new systems for national EAD data 
+management in multi-jurisdictional 
+responses
+EAD data, including surveillance and 
+traceability data, is captured, analysed, 
+managed and shared across jurisdictions 
+and utilised for decision making 
+purposes
+DAFF
+1.7.  Implement activities identified in the 
+National Lumpy Skin Disease (LSD) Action 
+Plan
+Governments, industries and other 
+relevant stakeholders undertake 
+coordinated and effective actions to 
+mitigate the risks of LSD
+As identified in the National LSD 
+Action Plan
+Activity 1.1 will build on existing work conducted by organisations such as AHA and its membership, to implement 
+recommendations from previous emergency response scenarios and exercises and assist all production animal industries in 
+their emergency preparedness activities.
+During the Animalplan consultation process, stakeholders acknowledged the importance of fostering stronger partnerships 
+between industry and government to help reduce risks to animal health and industry supply chains and structures during 
+different EAD response scenarios, and maintain business continuity as much as possible. Activities 1.2 and 1.3 respectively 
+involve undertaking further simulation exercises for a variety of emergency scenarios, and operationalising agreed 
+AUSVETPLAN manuals to reduce vulnerabilities across industry supply chains and structures.
+Improving access to epidemiological and economic decision support tools will improve our ability to manage EADs. Activity 
+1.4 will involve undertaking projects, including commissioning research where needed, to assist in improving existing 
+or developing new epidemiological modelling and economic analysis tools for EAD response options for agreed priority 
+diseases. This will help minimise industry and animal losses during these events by providing informed disease control or 
+management strategies in different EAD scenarios.
+The COVID-19 pandemic has accelerated the adoption and implementation of innovative technologies to fill existing business 
+needs. From 2022 to 2027, similar innovative technologies can be used to deliver EAD training in a more efficient and 
+effective manner remotely. Activity 1.5 focuses on reviewing, implementing and scaling up these technologies to educate and 
+train government and industry participants in a more cost-effective manner.
+In 2020 COVID-19 also demonstrated the importance of extracting, collating, sharing and managing data at a national 
+level. Activity 1.6 will investigate existing systems or trial new systems for national EAD data management to facilitate 
+multi-jurisdictional EAD responses and improve the flow of animal health data during emergency responses.
+Following the emergence of lumpy skin disease in Indonesia in 2022, Australian governments, industry groups and other 
+stakeholders have developed a National LSD Action Plan to set out agreed national priorities for actions to strengthen 
+Australia’s preparedness for a potential LSD incursion. Activity 1.7 focusses on implementation of the actions under the 
+National LSD Action Plan to protect Australia’s cattle and other livestock industries from the growing threat from this disease.
+
+10
+@ Carl Davies
+
+11
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Objective 2 — Improve Australia’s surveillance and diagnostic capacity for 
+animal pests and diseases
+Australia has a favourable animal health status, which underpins the ‘clean and green’ image of our animal industries and 
+supports our competitive advantage in international markets. However, demands are likely to increase from trading partners 
+and the World Organisation for Animal Health (WOAH) to support disease freedom claims. Improvements to Australia’s 
+surveillance and diagnostic capacity are required to ensure that Australia’s national animal health system can detect and 
+report animal diseases efficiently and effectively.
+The delivery of activities in the National Animal Health Surveillance Business Plan (NAHSBP) and National Animal Health 
+Diagnostic Business Plan (NAHDBP) are captured under this objective (Activity 2.1). Additional agreed activities that build on 
+these plans have been outlined in Table 2.
+Novel technologies, such as point-of-care (POC) testing, and genomics, will likely become a core element of Australia’s animal 
+health diagnostic capability. Activity 2.2 will identify and analyse novel diagnostic technologies and their role in surveillance 
+and diagnostics.
+Export certification supports consumer and trading partners’ confidence in our national animal health system. Activity 2.3 will 
+involve reviewing market access requirements on an ongoing basis to ensure Australia’s animal health surveillance programs 
+meet trading partners’ expectations.
+Table 2 Activities to improve Australia’s surveillance and diagnostic capacity and capability for animal 
+pests and diseases
+Activity
+Desired outcome by 2027
+Lead
+2.1. Implement actions under National 
+Animal Health Surveillance Business 
+Plan (NAHSBP) and National Animal 
+Health Diagnostic Business Plan 
+(NAHDBP)
+National surveillance and diagnostic 
+capability and capacity for animal 
+diseases adequately manage 
+biosecurity risks and support early 
+detection
+As identified in the NAHSBP and 
+NAHDBP
+2.2. Develop and implement novel 
+technologies, such as POC animal 
+testing and genomics, to address gaps 
+in diagnostic capacity
+A number of novel technologies are 
+adopted and implemented that improve 
+Australia’s surveillance and diagnostic 
+capacity
+Australia has a well-developed policy 
+and legislation on the use of POC 
+diagnostic tests in notifiable diseases
+SCAHLS/Peak industry 
+organisations/Rural RDCs
+2.3. Conduct an audit of current and 
+future export and import market access 
+requirements for animals and animal 
+products to guide national surveillance 
+planning
+Surveillance requirements are 
+identified, understood, and 
+implemented to improve market access 
+and support Australia’s disease status 
+claims
+DAFF
+
+12
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Objective 3 — Improve the adoption and implementation of biosecurity 
+practices throughout the terrestrial animal industry supply chain
+Global agriculture supply chains are becoming increasingly complex (DAWE, 2021a). It is common for an agricultural 
+commodity to be produced and processed across multiple establishments in different jurisdictions before it reaches its end 
+user. For this reason, biosecurity risks must be managed across entire supply chains to minimise the risks of animal diseases 
+spreading across borders and between countries.
+Effective management of animal health and biosecurity by producers will lead to improved farm productivity, product quality, 
+domestic and international trade opportunities and ultimately profitability. Improved biosecurity practices can:
+	•
+result in better animal health, welfare and performance
+	•
+reduce disease transmission and amplification within and between farms
+	•
+increase the likelihood of early disease detection and control
+	•
+be integrated into existing farm quality systems, such as FeedSafe, Australian Pork Industry Quality Assurance Program, 
+National Feedlot Accreditation Scheme and Livestock Production Assurance Program
+	•
+facilitate movement of animals and animal products within and between jurisdictions
+	•
+reduce the development and spread of antimicrobial resistant (AMR) bacteria
+	•
+help supply chain establishments to meet international trade requirements (for example, through health accreditation).
+Table 3 outlines agreed activities that focus on improving the adoption and implementation of on-farm and supply chain 
+biosecurity practices, to reduce disease risks across the value chain and assist in improving the productivity and profitability 
+of agribusinesses.
+@ Australian Pork Limited
+
+13
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Many industries and state and territory governments have developed systems to improve biosecurity practice uptake. 
+If use of these systems can be leveraged to help demonstrate an increase in producer profit margins, then producer 
+adoption and implementation rates may improve, supporting biosecurity practices nationwide. Many producers are already 
+accredited with quality assurance systems. Activity 3.1 will involve investigating the benefits and implementing a national 
+dashboard platform for biosecurity information systems using pre-existing government and industry systems such as South 
+Australia’s One Biosecurity program. Similarly, Activity 3.2 will focus on sharing knowledge between terrestrial animal 
+industries and jurisdictions to update quality assurance programs, on-farm biosecurity, biosecurity extension programs and 
+regulatory activities.
+Education and awareness campaigns are critical to improving adoption and uptake of better biosecurity practices by supply 
+chain participants. Activity 3.3 will focus on conducting more joint and collaborative industry-government communication 
+activities to improve biosecurity ‘culture’ and ‘community of practice’ at a national level.
+Encouraging novel small scale production animal industries to undertake biosecurity ‘best practice’ will help improve their 
+productivity. Activity 3.4 will involve continuing the development of guidelines to reduce biosecurity risks associated with 
+novel animal industry production systems.
+Table 3 Activities to improve the adoption and implementation of biosecurity practices throughout the 
+terrestrial animal industry supply chain
+Activity
+Desired outcome by 2027
+Lead
+3.1. Investigate the benefits and 
+consider developing a national 
+dashboard platform for government 
+and industry biosecurity information 
+systems, such as South Australia’s One 
+Biosecurity program
+A national ‘one-stop-shop’ dashboard 
+platform is investigated and scoped, 
+which will collate biosecurity data 
+across existing biosecurity information 
+systems and help deliver targeted 
+biosecurity interventions across 
+producer supply chains
+Peak Industry Organisations in 
+collaboration with jurisdictions and 
+AHA
+3.2. Share knowledge across  
+animal industries and jurisdictions 
+to strengthen quality assurance 
+programs, on-farm biosecurity systems, 
+biosecurity extension programs and 
+regulatory activities
+Strengths and weaknesses from 
+existing systems across terrestrial 
+animal industries are assessed and 
+actioned, to improve validation of 
+biosecurity, quality assurance and 
+traceability processes, and support 
+maintenance of market access through 
+compartmentalisation/zoning
+AHA/Peak Industry Organisations
+3.3. Conduct more industry-
+government education and awareness 
+communication activities to promote 
+a biosecurity ‘culture’ and ‘community 
+of practice’ across animal industries, 
+including smallholders
+Producers and enterprises in the supply 
+chain increase their understanding of 
+the value of biosecurity, and increase 
+adoption of farm and supply chain 
+biosecurity practices
+Peak Industry Organisations/AHA/
+DAFF
+3.4. Continue developing biosecurity 
+guidelines for the supply chains of novel 
+small-scale industries
+Biosecurity guidelines are updated 
+or developed for novel small-scale 
+production animal industries and 
+communicated effectively
+AHA, in collaboration with 
+AgriFutures and novel industries
+
+14
+@ Australian Pork Limited
+
+15
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Objective 4 ­— Manage the risk of antimicrobial resistance
+Antimicrobial resistance is a significant global health priority driven largely by the inappropriate use of antimicrobials 
+(including antibiotics) in human and animal health settings. Australia’s National AMR Strategy – 2020 and Beyond has a strong 
+focus on the use of antimicrobials (including antibacterials and antifungals) in agriculture and the consequent transfer of 
+resistance between animals, humans and the environment (Department of Health 2020).
+The One Health Master Action Plan (OHMAP) has been developed to address the strategy’s 7 key objectives, which focus on 
+governance; infection prevention and control; communication and engagement; antimicrobial stewardship; AMR surveillance; 
+research; and global partnerships (Department of Health 2021).
+Australia’s Animal Sector Antimicrobial Resistance Action Plan 2022 to 2027 is being developed under the OHMAP. 
+Implementation of the plan will require commitment and action from all jurisdictions and close collaboration with industry 
+and external animal health organisations, including AHA and the AVA. The Animal Industries Antimicrobial Stewardship RD&E 
+Strategy has also been developed to facilitate collaboration between terrestrial production animal industries to reduce the 
+prevalence of AMR (AIAS 2020).
+The progress of both the OHMAP and the Australia’s Animal Sector Antimicrobial Resistance Action Plan 2022 to 2027 have 
+been acknowledged in Activity 4.1 and will help ensure that Australia remains a world leader on mitigating AMR risks.
+Table 4 Activity to manage the risk of  antimicrobial resistance
+Activity
+Desired outcome by 2027
+Lead
+4.1. Implement AMR activities as 
+identified in the One Health AMR 
+Master Action Plan and Australia’s 
+Animal Sector Antimicrobial Resistance 
+Action Plan 2022 to 2027 (under 
+development)
+Governments, industries and other 
+relevant stakeholders undertake 
+coordinated and effective actions to 
+mitigate the risks of AMR
+As identified in the OHMAP 
+and Australia’s Animal Sector 
+Antimicrobial Resistance 
+Action Plan 2022 to 2027 
+(under development)
+Objective 5 — Improve animal welfare outcomes relevant to emergency scenarios
+States and territories set and enforce animal welfare standards through administration of their legislation for animal 
+welfare and the prevention of animal cruelty. The Australian Animal Welfare Standards and Guidelines (DAWE 2021b) 
+aim to harmonise farm animal welfare legislation in Australia, ensuring it results in improved animal welfare outcomes 
+and is practical for industry. The standards are designed to be implemented into state and territory law as minimum legal 
+standards. They are accompanied by voluntary guidelines that set out recommended practice for the care and husbandry of 
+animals. 
+The development of the Standards and Guidelines for farm animal welfare is overseen by the Animal Welfare Task Group. It is 
+made up of representatives from each of the state, territory and Australian government departments responsible for animal 
+welfare and resolves animal welfare policy and regulatory matters which have national and inter-jurisdictional scope. It delivers 
+on animal welfare priorities of national interest referred to it by the Agriculture Senior Officials’ Committee.
+The 2017 National Animal Welfare RD&E Strategy has been pivotal in identifying knowledge deficits, encouraging collaboration 
+and promoting the implementation of innovative animal welfare solutions.
+Animalplan activities will focus on improving animal welfare outcomes related to emergency scenarios, such as an emergency 
+animal disease incursion or a climate disaster.
+Activity 5.1 will involve addressing animal welfare risks in emergency situations to improve relevant policy and crisis 
+response documents.
+Table 5 Activity to improve animal welfare outcomes relevant to emergency scenarios
+Activity
+Desired outcome by 2027
+Lead
+5.1. Address terrestrial production 
+animal welfare risks in emergency 
+scenarios and incorporate findings 
+in relevant policy and crisis response 
+documents
+Emergency response plans for 
+terrestrial production animal supply 
+chains manage animal welfare risks
+AHA, in collaboration with 
+jurisdictions and peak industry 
+organisations
+
+16
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Objective 6 — Implement industry sustainability frameworks and plans
+Sustainability focuses on safeguarding the long-term viability of production animal industries and is core to an 
+industry’s social license to operate. Consumer attitudes and values are evolving and play a key role in shaping the 
+value of sustainability across animal production industries. Globally, consumers want confidence that animal production is 
+conducted in a manner that is both ethically responsible and transparent.
+Many industries have already commenced the development of their own sustainability frameworks and plans to help 
+demonstrate socially responsible farming practices and maintain consumer confidence in Australian animal production 
+industries. For example, the Beef Sustainability Framework (TABSF 2020) sets out the key indicators of performance in 
+sustainability for the beef industry including on farms and in saleyards, feedlots, transport, processing, and live export. 
+Other animal industries including dairy, eggs, pork and sheep producers are also implementing sustainability initiatives (see 
+Appendix C).
+Activity 6.1 will assist in implementing and updating industry-specific sustainability frameworks and plans.
+Table 6 Activity to Implement industry sustainability frameworks and plans
+Activity
+Desired outcome by 2027
+Lead
+6.1. Share knowledge (such as the 
+development of benchmarks) between 
+industries to implement industry 
+sustainability frameworks and plans
+Industry organisations and producers 
+share ideas, adopt and implement 
+sustainability frameworks and plans 
+that improve animal health and welfare 
+outcomes
+Peak industry organisations
+@ Australian Chicken Meat Federation
+
+17
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Objective 7 — Improve the integrity of animal health systems
+Traceability plays an important part in demonstrating the integrity of animal health systems. It safeguards and allows 
+responsiveness to emergencies including emergency animal disease incidents. Key mechanisms include our world-class 
+National Livestock Identification System (NLIS). Australia has a strong, well-respected reputation with agricultural traceability 
+domestically and internationally, especially those frameworks for food safety, provenance and biosecurity. Demonstrating our 
+disease-free status and strong biosecurity systems through traceability is fundamental to our export trade.
+Working with industry and jurisdictions, the department supports the development of a national approach to continuously 
+improve traceability in agricultural supply chains. To do this, an inaugural National Traceability Summit was held in April 2022 
+to galvanise further action on agricultural traceability. It also led to the formation of the Australian Agricultural Traceability 
+Alliance – stakeholders who have an interest in national agricultural traceability – to accelerate Australia’s journey in 
+exceeding $100 billion of farmgate output by 2030 and beyond.
+To translate policy into practice across the entire agricultural supply chain, the Alliance is supporting the development of 
+Australia’s first National Agricultural Traceability Strategy, which will help us achieve our vision and mission in this space. 
+This work builds on the 2019 National Traceability Framework (The Traceability Working Group 2019) developed with 
+industry and jurisdictions as endorsed by Agriculture Ministers. Further activities supporting the integrity of animal health 
+systems are ongoing including through the National Biosecurity Committee under Agriculture Ministers, including on 
+livestock traceability, horse traceability, and proposed improvements to national property identification systems bringing 
+harmonisation nationally and between animal and horticulture and grain systems. Traceability is a shared responsibility 
+between all governments and industry. The Australian Government is committed to national harmonization and continuous 
+improvement, as demonstrated by the 2022–23 Budget announcement of $46.7 million to support enhancements to 
+Australia’s national livestock traceability system.
+Activity 7.1 will involve developing a cost-effective national traceability register and/or system for agreed industries that do 
+not have one. Activity 7.2 will implement existing or new mechanisms to streamline or automate traceability data across 
+agreed industries for animals and animal products. Activity 7.3 will harness traceability systems to provide feedback to 
+farmers on animal health.
+Table 7 Activities to improve the integrity of animal health systems
+Activity
+Desired outcome by 2027
+Lead
+7.1. Develop cost-effective national 
+traceability registers or systems for 
+agreed animal industries that do not 
+have one
+Cost-effective national traceability 
+registers or systems are developed for 
+agreed animal industries
+Peak industry bodies/AHA/
+SAFEMEAT
+7.2. Implement mechanisms to 
+streamline or automate animal and 
+animal product traceability data 
+across agreed industries and make 
+this accessible to all supply chain 
+participants
+Existing or new mechanisms are 
+implemented with high adoption rates 
+from supply chain participants to 
+improve collation of traceability data 
+across information systems
+Integrity Systems Company (ISC), 
+in collaboration with peak industry 
+organisations
+7.3. Use traceability systems to provide 
+feedback to supply chain participants 
+on animal health outcomes
+Existing or strengthened traceability 
+systems provide improved feedback 
+to supply chain participants on animal 
+health outcomes occurring at relevant 
+points of supply chains
+AHA/ISC
+
+18
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Appendix A: Organisations consulted for 
+Animalplan 2022 to 2027
+	•
+AgriFutures Australia
+	•
+Animal Health Australia
+	•
+Animal Industries Antimicrobial Stewardship RD&E Strategy
+	•
+Animal Medicines Australia
+	•
+Australian Alpaca Association
+	•
+ACT Environment, Planning and Sustainable Development Directorate
+	•
+Australian Centre for Disease Preparedness
+	•
+Australian Centre for International Agricultural Research
+	•
+Australian Chicken Meat Federation
+	•
+Australian Duck Meat Association
+	•
+Australian Eggs
+	•
+Australian Government Department of Agriculture, Fisheries and Forestry
+	•
+Australian Horse Industry Council
+	•
+Australian Lot Feeders’ Association
+	•
+Australian Meat Industry Council
+	•
+Australian Pork Limited
+	•
+Australian Veterinary Association
+	•
+Australian Wool Innovation
+	•
+Cattle Council of Australia
+	•
+CSIRO
+	•
+Dairy Australia
+	•
+Feed Ingredients and Additives Association of Australia
+	•
+Goat Industry Council of Australia
+	•
+Integrity Systems Company
+	•
+LiveCorp
+	•
+Meat and Livestock Australia
+	•
+National Farmers’ Federation
+	•
+NSW Department of Primary Industries
+	•
+NT Department of Primary Industry and Resources
+	•
+Queensland Department of Agriculture and Fisheries
+	•
+RSPCA Australia
+	•
+SAFEMEAT
+	•
+Sheep Producers Australia
+	•
+SA Department of Primary Industries and Regions
+	•
+Stock Feed Manufacturers’ Council of Australia
+	•
+Tasmanian Department of Primary Industries, Parks, Water and Environment
+	•
+The Animal Welfare Collaborative
+	•
+Veterinary Schools of Australia and New Zealand
+	•
+Victorian Department of Jobs, Precincts and Regions
+	•
+WA Department of Primary Industries and Regional Development
+	•
+Wildlife Health Australia
+	•
+WoolProducers Australia
+
+19
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Appendix B: List of production animals
+For the purpose of Animalplan 2022 to 2027, production animals are:
+	•
+alpacas and llamas
+	•
+buffalo
+	•
+camels
+	•
+cattle – dairy and beef
+	•
+deer
+	•
+emus, ostriches
+	•
+game birds (pheasants, partridges, guinea fowl, quails, geese and pigeons)
+	•
+goats
+	•
+horses
+	•
+kangaroos
+	•
+pigs
+	•
+poultry (chickens, ducks and turkeys)
+	•
+rabbits
+	•
+sheep.
+@ The Department of Primary Industries and Regions South Australia (PIRSA)
+
+20
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Appendix C: Alignment of Animalplan 
+with existing industry strategic plans
+Table C1 Alignment of Animalplan objectives with existing strategic plans
+Existing industry strategic plan
+Animalplan objective alignment
+Summary
+2030 Roadmap—Australian 
+Agriculture’s Plan for a $100 
+Billion Industry
+1, 2, 3, 4, 5, 6, 7
+The National Farmers’ Federation (NFF) has set 
+a target for the agricultural industry to exceed 
+$100 billion in farm gate output by 2030. One 
+of the 5 pillars in the roadmap to achieving this 
+goal is growing sustainably.
+Animal Health Australia Strategic 
+Plan 2020–25
+1, 2, 3, 5, 6, 7
+This plan outlines AHA’s role, vision, mission, 
+delivery method, and operating environment. 
+It also describes AHA’s strategic priorities of 
+enhancing EAD preparedness, supporting 
+market access, on-farm and supply chain 
+biosecurity, animal health and product 
+integrity, reducing risks of disease across the 
+value chain and improving producer outcomes.
+Australian Alpaca Association 
+Strategic Plan 2019–2024
+1, 3, 5, 6, 7
+This plan sets out 3 strategic priorities namely 
+to develop customer driven markets, to develop 
+a strong peak body and to ensure that the 
+Australian alpaca association is engaging and 
+consulting with its members, communicating 
+opportunities and encouraging participation.
+Australian Eggs Strategic Plan 
+2021–2026
+3, 6, 7
+The Australian Eggs Limited (AEL) Strategic 
+Plan  2021–2026 outlines AEL’s strategic 
+Vision, Values and Approach to drive 
+improvement in the egg industry and enhance 
+its sustainability for the benefit of egg farmers 
+and the community. The plan sets out 4 key 
+strategies of marketing, growth, innovation and 
+engagement. 
+Australian Pork Limited Strategic 
+Plan 2020–2025
+1, 2, 3, 5, 6, 7
+This plan sets out key priorities to guide 
+Australian Pork Limited’s investment over 
+the period 2020–2025, with a strong focus 
+on market and product differentiation, better 
+management of market volatility, driving 
+consumer demand, social licence and enabling 
+viable productive farms.
+Australian Wool Innovation (AWI) 
+Strategic Plan 2022–2025
+2, 3, 6
+This plan outlines AWI’s strategic Vision, Goals 
+and Priorities to enhance the profitability, 
+international competitiveness and sustainability 
+of the Australian wool industry. It sets out 5 key 
+priorities of growing value and international 
+demand, wool harvesting, collaboration, 
+consultation and engagement, sustainability, 
+and strengthening the supply chain.
+
+21
+ Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Existing industry strategic plan
+Animalplan objective alignment
+Summary
+Dairy Australia Strategic Plan 
+2020–2025
+3, 5, 6, 7
+This plan outlines 7 strategic priorities to guide 
+investment over 2020–2025 and contribute to 
+delivering a more profitable and sustainable 
+Australian dairy industry by 2025.
+Meat Industry Strategic Plan 
+(MISP) 2020–2030
+1, 2, 3, 4, 5, 6, 7
+The MISP frames the overarching strategic 
+priorities for Australia’s red meat and livestock 
+industry, comprising the production, processing 
+and live export components of Australia’s beef, 
+sheep meat and goatmeat supply chains. It 
+incorporates the strategic outlooks of Cattle 
+Council of Australia, Australian Lot Feeders’ 
+Association, Sheepmeat Council of Australia, 
+Goat Industry Council of Australia, Australian 
+Meat Industry Council, Australian Livestock 
+Exporters’ Council, with input from Meat & 
+Livestock Australia, Australian Meat Processors 
+Corporation and LiveCorp.
+Meat & Livestock Australia (MLA) 
+Strategic Plan 2025
+1, 2, 3, 4, 5, 6, 7
+This plan outlines MLA’s plan to foster the 
+long-term prosperity of the Australian red 
+meat and livestock industry by collaborating 
+with stakeholders to invest in research, 
+development and marketing initiatives 
+that contribute to producer profitability, 
+sustainability and global competitiveness. This 
+strategic plan has a strong focus on improving 
+adoption and extension of R&D solutions and 
+improving integrity systems.
+Sheepmeat Industry Strategic 
+Plan 2015–2020
+1, 2, 3, 5, 6, 7
+This plan outlines the priority areas for 
+sheepmeat industry investment from 2015–
+2020, which are aligned with the corresponding 
+‘priorities of the MISP 2020.
+Wool 2030 Strategy
+1, 3, 5, 6, 7
+This strategy has 5 pillars with a strong focus 
+on animal health and wellbeing, including 
+protection from disease and predation (Pillar 1).
+
+22
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Other related strategies, plans and frameworks
+	•
+AgriFutures Australia Strategic R&D plan 2022–2027
+	–
+The 16 priorities across 5 focus areas aim to ensure producers in levied industries are empowered to adopt the latest 
+science, technology and tools which will help ensure a strong, vibrant and collaborative agricultural sector.
+	•
+AQUAPLAN 2022–2027
+	–
+AQUAPLAN 2022–2027 is Australia’s fourth national strategic plan for aquatic animal health and a sister plan 
+to Animalplan.
+	•
+Australia’s National Antimicrobial Resistance Strategy – 2020 and Beyond
+	–
+This strategy sets a 20-year vision to protect the health of humans, animals and the environment through minimising 
+the development and spread of AMR while continuing to have effective antimicrobials available.
+	•
+Animal Industries Antimicrobial Stewardship RD&E Strategy (AIAS)
+	–
+This strategy is a collaborative mechanism for animal industries to identify common research, development and 
+extension (RD&E) priorities for the effective monitoring of antimicrobial use (AMU) and surveillance of AMR to inform 
+stewardship actions that meet Australia’s animal health and market access needs, without impacting food safety or 
+human health. The AIAS will also benefit the implementation of Australia’s National AMR Strategy and the Australian 
+Animal Sector National Antimicrobial Resistance Plan.
+	•
+Australian Animal Welfare Standards and Guidelines
+	–
+These include details of current standards and guidelines and those undergoing development. The welfare standards 
+and guidelines for livestock aim to harmonise and streamline livestock welfare legislation in Australia.
+	•
+Australian Beef Sustainability Framework
+	–
+This framework has been developed to meet the changing expectations of customers and stakeholders by defining 
+what sustainable beef production means in Australian production systems. The framework supports the strategy 
+outlined in the Meat Industry Strategic Plan 2020.
+	•
+Australian Dairy Sustainability Framework
+	–
+This framework’s 4 commitments are: enhancing farmer livelihoods, improving the wellbeing of people, providing 
+best care for all our animals, and reducing environmental impact.
+	•
+Australian Egg Industry Sustainability Framework
+	–
+This sustainability framework is a process for defining what is socially, environmentally and economically responsible 
+in the context of egg farming and providing a basis for continuous improvement.
+	•
+Australian Pork Limited Sustainability Framework 2021–2030
+	–
+This framework provides direction for the Australian Pork Industry by focussing on 4 key pillars of People, Pigs, 
+Planet and Prosperity. It incorporates social, environmental and economic factors to achieve a strong Australian pork 
+industry that will provide top quality, sustainable protein into the future.
+	•
+Australian Sheep Sustainability Framework
+	–
+The Australian Sheep Sustainability Framework will report on the key priorities of responsible sheep meat and wool 
+production to build trust and confidence in the industry. Sheep Producers Australia and WoolProducers Australia 
+jointly own the framework.
+	•
+Integrity System 2025 and beyond strategy
+	–
+This strategy outlines the investment commitment by the red meat industry into its integrity system to ensure 
+that it remains recognised and trusted globally as delivering a quality red meat product that is produced to 
+rigorous standards.
+	•
+Joint Interagency Taskforce: Exotic Animal Disease Preparedness Report 2022
+	–
+The taskforce considered the current level of national preparedness and made 14 recommendations for action that 
+would build on existing planning and capacity and increase the preparedness of the national system for the speed 
+and scale of response likely to be needed should Australia face an incursion of an EAD.
+	•
+National Animal Health Diagnostics Business Plan 2021–2026
+	–
+This plan represents the commitment of Australian governments universities, private laboratories and the livestock 
+industry to maintaining and improving a national diagnostic capability and capacity for terrestrial animals through 
+coordination and collaboration at various levels.
+
+23
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+	•
+National Animal Health Surveillance Business Plan 2016–2020
+	–
+This plan represents the commitment of Australian governments and industry to maintain and further improve our 
+surveillance systems. The plan summarises existing surveillance programs and outlines additional priority activities.
+	–
+The National Animal Health Surveillance Plan 2022–2027 is being finalised.
+	•
+National Agricultural Innovation Priorities
+	–
+The priorities aim to focus efforts and investments across the agricultural innovation system and inspire a step-
+change in Australian agriculture’s innovation capacity and culture.
+	•
+National Animal Biosecurity RD&E Strategy 2017–2022
+	–
+The vision for this strategy is to contribute to world-leading, cross-sectoral biosecurity RD&E through collaboration 
+and efficient use of resources, further improving Australia’s high animal health status, productivity and ongoing 
+market access.
+	•
+National Lumpy Skin Disease (LSD) Action Plan 2022
+	–
+The National LSD Action Plan sets out agreed national priorities for actions to strengthen Australia’s preparedness 
+for a potential LSD incursion. These actions are critically important to protect Australia’s cattle and other livestock 
+industries from the growing threat from this disease.
+	•
+National Primary Industries Animal Welfare Research, Development and Extension Strategy
+	–
+The strategy encourages greater co-investment and collaboration on a national basis to improve the efficient use of 
+RD&E resources in the field of livestock animal welfare.
+	•
+One Health Master Action Plan for Australia’s National Antimicrobial Resistance Strategy – 2020 and beyond (OHMAP)
+	–
+This action plan provides national focus areas for each of the One Health sectors to implement the strategy over the 
+next 5 years. It also provides guidance for stakeholders to develop their own action plans to combat AMR and ensure 
+that effective antimicrobials continue to be available in the future.
+	•
+Priorities for Australia’s biosecurity system: an independent review of the capacity of the national biosecurity system and 
+its underpinning intergovernmental agreement 2017
+	–
+A review of the implementation and effectiveness of the Intergovernmental Agreement on Biosecurity (IGAB) and 
+recommendations for amendment. IGAB has created a framework for governments to coordinate and identify priority 
+areas of reform and action to build a stronger and more effective national biosecurity system.
+	•
+Wool Industry: National RD&E Strategy 2011–2030
+	–
+This strategy covers several main areas, including wool industry resilience and growth.
+
+24
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Biosecurity Strategies
+	•
+Australian Capital Territory Biosecurity Strategy 2016–2026
+	–
+This strategy identifies the pre-border, border, and post-border elements of the biosecurity continuum at both the 
+national and jurisdictional level and outlines actions for addressing biosecurity risks.
+	•
+Commonwealth Biosecurity Strategy 2030 
+	–
+This is a strategic roadmap for protecting Australia’s environment, economy and way of life. 
+	•
+New South Wales Biosecurity Strategy 2013–2021
+	–
+This strategy is based on the principle of shared responsibility and its broad objectives are to prevent pest, disease, 
+and weed incursions into New South Wales, quickly containing and eradicating any incursions and minimising 
+their impact.
+	–
+The New South Wales Biosecurity and Food Safety Strategy 2022–2030 is being finalised.
+	•
+Northern Territory Biosecurity Strategy 2016–2026
+	–
+This strategy commits governments, industry, and the community to share the responsibility to protect agricultural 
+resources and other assets from pest and disease threats, and chemical contamination.
+	•
+Queensland Biosecurity Strategy 2018–2023
+	–
+The key goals of this strategy include preventing exotic pests and diseases from entering Queensland, and to prepare 
+for, and deal effectively with, incursions.
+	•
+South Australian Biosecurity Policy 2020–2023
+	–
+This policy outlines how to collaborate to protect and improve the state’s economy, environment, amenity and public 
+health by preventing and reducing pest and disease impacts, maintaining food safety and ensuring responsible 
+agricultural chemical use.
+	•
+Tasmanian Biosecurity Strategy 2013–2017
+	–
+This strategy sets the overall direction for Tasmania’s biosecurity system. It outlines pre-border, border, and post-
+border activities designed to work together to mitigate risk.
+	–
+The Tasmanian Biosecurity Strategy 2022–2027 is being finalised.
+	•
+Western Australian Biosecurity Strategy 2016–2025
+	–
+Western Australia’s Biosecurity Strategy aims to take a collaborative approach to minimise risks to the state from 
+terrestrial and aquatic pests and diseases.
+@ Australian Alpaca Association
+
+25
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+Abbreviations
+Term
+Definition
+ACDP
+Australian Centre for Disease Preparedness
+AHA
+Animal Health Australia
+AIAS
+Animal Industries Antimicrobial Stewardship Research Development and Extension Strategy
+AMR
+antimicrobial resistance
+APL
+Australian Pork Limited
+AVA
+Australian Veterinary Association
+CSIRO
+Commonwealth Scientific and Industrial Research Organisation
+DAFF
+Australian Government Department of Agriculture, Fisheries and Forestry
+DCCEEW
+Australian Government Department of Climate Change, Energy, the Environment and Water
+EAD
+emergency animal disease
+EADRA
+Emergency Animal Disease Response Agreement
+FMD
+foot-and-mouth-disease
+IGAB
+Intergovernmental Agreement on Biosecurity
+ISC
+Integrity Systems Company
+LSD
+lumpy skin disease
+MISP
+Meat Industry Strategic Plan
+MLA
+Meat & Livestock Australia
+NAHDBP
+National Animal Health Diagnostics Business Plan
+NAHSBP
+National Animal Health Surveillance Business Plan
+NFF
+National Farmers’ Federation
+NLIS
+National Livestock Identification System
+OHMAP
+One Health Master Action Plan
+PIRSA
+South Australian Department of Primary Industries and Regions
+POC
+point of care
+POCTA
+Prevention of Cruelty to Animals legislation
+RDC
+Research and Development Corporation
+RD&E
+research, development and extension
+SCAHLS
+Subcommittee for Animal Health Laboratory Standards
+VSANZ
+Veterinary Schools Australia and New Zealand
+WHO
+World Health Organization
+WOAH
+World Organisation for Animal Health
+
+26
+@ Australian Pork Limited
+
+27
+Animalplan 2022 to 2027: Australia’s National Action Plan for Production Animal Health
+References
+ABARES 2022, Agricultural commodities: September quarter 2022 - Statistical tables - data tables, Australian Bureau of 
+Agricultural and Resource Economics and Sciences, Canberra, accessed 10 September 2022.
+AIAS 2020, Animal Industries Antimicrobial Stewardship RD&E Strategy, Animal Industries Antimicrobial Stewardship 
+Strategy, Canberra, website accessed 6 January 2021.
+DAWE 2019, Intergovernmental Agreement on Biosecurity review – agriculture ministers’ response, Canberra, accessed 
+6 January 2021.
+DAWE 2021a, Delivering Ag2030, Australian Government Department of Agriculture, Water and the Environment, Canberra, 
+accessed 10 September 2022.
+	
+2021b, Australian Animal Welfare Standards and Guidelines, Australian Government Department of Agriculture, 
+Water and the Environment, Canberra, accessed 2 March 2021.
+Department of Health 2020, Australia’s National Antimicrobial Resistance Strategy – 2020 and beyond, Australian 
+Government Department of Health, Canberra, accessed 1 February 2021.
+Department of Health 2021, One Health Master Action Plan for Australia’s National Antimicrobial Resistance Strategy – 2020 
+and beyond, Australian Government Department of Health, Canberra accessed 7 April 2021.
+NFF 2019, 2030 Roadmap – Australian Agriculture’s Plan for a $100 Billion Industry, National Farmers Federation, Canberra, 
+accessed 18 December 2020.
+ABSF 2020, The Australian Beef Sustainability Framework, Australian Beef Sustainability Framework, Canberra, accessed 1 
+February 2021.
+The Traceability Working Group 2019, National Traceability Framework: enhancing Australia’s world-class agricultural 
+traceability systems, Canberra, 17 March 2019, accessed 6 January 2021.
+
+ABIO216.0821
+@ HyoRyung Lee

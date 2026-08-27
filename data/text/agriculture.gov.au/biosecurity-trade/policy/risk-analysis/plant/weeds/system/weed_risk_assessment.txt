@@ -1,0 +1,29 @@
+The WRA system is a question-based assessment of the weed potential of plants proposed for import.
+Assessment involves answering up to 49 questions on specific characteristics of a plant. The answers generate a numerical score relating to the weed potential of that plant. The score is used to determine an outcome: accept the species for importation; reject the species for importation; or reject pending further evaluation of the species’ weed potential.
+How to answer the questions
+A weed risk assessment can only be completed after the history/biogeography, undesirable traits and biology/ecology of a plant have been analysed.
+Most questions in the system require a ‘yes’, ‘no’, ‘unknown’ or numerical response. The WRA system requires responses to a minimum number of questions but allows for knowledge gaps. This increases the system’s predictive power for rare, endangered, recently discovered and little known species.
+How to interpret the questions
+Guidelines have been developed to ensure consistency in the application of WRAs. The guidelines help to clarify what the questions are asking and what information is required to answer them.
+The guidelines are found in Form A – Interpreting the questions in the WRA system ![PDF Icon](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) PDF [50 KB]
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/msword.gif) Word [87 KB]
+How a score is generated
+Answers to questions in the WRA system are linked to a score. Most questions result in the addition or subtraction of a point depending on the answer (for example yes=1, no=-1 and unknown=0). Several questions, however, do not fit the typical scoring system and scores are generated using a weighting system where the answer to one question may alter the score for another.
+Scores are tallied once all the information is entered into the system and the questions are answered. The total score for a species relates to an import policy recommendation. The threshold values for policy recommendations are:
+- a score of less than 1 = the plant will be accepted for importation
+- a score of greater than 6 = the plant will be rejected for importation
+- a score between 1 and 6 = the plant will be rejected for importation pending further evaluation.
+Threshold scores for policy recommendations were developed during testing and calibration of the system. During the development of the WRA system, 370 species, ranging from environmental and agricultural weeds to benign and beneficial plants, were used to test it. The system was judged on its ability to correctly reject weeds, accept non-weeds and generate a low proportion of species requiring further evaluation.
+The system has some capacity to suggest the type of ecosystems likely to be affected by the plant assessed. On completion of an assessment, the system indicates if the plant is more likely to be a weed of agriculture or the general environment. A species may be assessed as likely to become a weed in both categories.
+Do I need a computer?
+The WRA system was developed to allow an assessment to be made with or without a computer.
+Form B - Weed Risk Assessment question sheet ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) PDF [76 KB]
+![W](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/msword.gif) Word [87 KB] (this version can be printed)
+Form C - Weed Risk Assessment scoring sheet ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) PDF [59 KB]
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/msword.gif) Word [103 KB] (details how to manually calculate the final score)
+The electronic version of the WRA system is designed to run on Microsoft Excel version 5.x. It may be run on either a Windows or Macintosh computer. If you would like a copy of the WRA Excel spreadsheet and instructions, contact Plant Division.
+Acknowledgments
+The WRA system was developed by Dr Paul Pheloung during his employment in the Western Australian Department of Agriculture.
+A wide range of contributors helped finalise the system. During the calibration phase, scientists from 13 Australian and New Zealand organisations provided input, including assessments using the system and comments on the system.
+Following endorsement by the Australian Weeds Committee, comments were sought from stakeholders of the DAFF and the DSEWPaC - the two Commonwealth agencies interested in the regulation of imported plants. Comments from both groups were used to clarify the questions and increase the effectiveness of the system.
+The contribution of Dr Paul Pheloung and all other contributors is greatly acknowledged.

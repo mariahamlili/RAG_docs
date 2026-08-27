@@ -1,0 +1,103 @@
+This page explains how we conduct an import risk analysis for a plant commodity/country.
+Following the prioritisation of an import request, we undertake an import risk analysis to determine if the good is safe to import. That is, we assess whether any biosecurity risks associated with the good can be managed to achieve Australia’s appropriate level of protection (ALOP).
+If the risk cannot be managed effectively, we will not permit trade. If it can, we will require import conditions that importers must meet to import the good.
+We generally conduct a standard import risk analysis. In certain cases, we may conduct a ‘Biosecurity Import Risk Analysis (BIRA)’, including if:
+- it is deemed appropriate by the Director of Biosecurity (the Secretary of the department) or the Minister for Agriculture, or
+- relevant risk management measures
+  - have not been established, or
+  - exist for a similar good and pest or disease combination, but the likelihood and/or consequences of entry, establishment or spread of pests or diseases could differ significantly from those previously assessed.
+We conduct our risk analyses according to the standards and principles set out in:
+- the World Trade Organization (WTO) Agreement on the Application of Sanitary and Phytosanitary Measures (SPS agreement)
+- the International Standards for Phytosanitary Measures (ISPMs) developed by the International Plant Protection Convention (IPPC).
+Our plant import risk analysis process includes 5 steps as follows. We follow this same process for both standard import risk analyses and BIRAs.
+Step 1 Identify and categorise potential pests
+We identify quarantine pests that could be present on the plant or plant product being imported. A pest must meet all the following criteria to be considered a quarantine pest.
+The pest:
+- is present in the exporting country
+- is absent in Australia or under official control
+- has potential to be on the pathway
+- has potential for establishment and spread
+- has potential to cause economic consequences.
+Step 2 Assess the likelihood of a pest entering, establishing and spreading in Australia
+To assess the overall likelihood, we look at the likelihood of a pest’s:
+- entry
+- establishment
+- spread.
+To assess the likelihood of entry, we consider 2 components:
+- likelihood of importation – the likelihood that a pest will arrive in Australia in a viable state when a given commodity is imported
+- likelihood of distribution – the likelihood that the pest will be distributed in a viable state, because of the processing, sale or disposal of the commodity, and then transfer to a susceptible host.
+We use reliable biological information about the pest’s current occurrences and compare it with conditions in Australia to assess the likelihood of its establishment and spread.
+The information we use to assess the likelihood of establishment includes:
+- lifecycle
+- host range
+- epidemiology (the patterns, causes, and control of diseases)
+- survival
+- vectors
+- environmental condition.
+The information we use to assess the likelihood of spread includes:
+- environment for natural spread
+- natural barriers
+- commodity movement
+- intended use of the commodity
+- vectors
+- natural enemies.
+We estimate each likelihood using 6 qualitative likelihood descriptors:
+High – moderate – low – very low – extremely low – negligible.
+Determining the overall likelihood
+We use a matrix of rules to combine these likelihoods to determine the overall likelihood of entry, establishment and spread.
+A pest’s overall likelihood of entry, establishment and spread will either be:
+High – moderate – low – very low – extremely low - negligible
+Step 3 Assess the consequences if a pest enters and spreads in Australia
+We determine the overall consequence by combining the impact scores of a range of possible consequences.
+For these we use a 2-step process. First, we evaluate the direct and indirect impacts on:
+- plant life or health
+- the environment
+- eradication and control costs
+- non-commercial values
+- domestic and international trade.
+For each of these criteria, we estimate the scale of impact at each of these geographic levels:
+- national
+- regional
+- district
+- local.
+We assign impact scores for each of the direct and indirect impacts and geographic levels.
+Then we combine these impact scores using specific decision rules to determine the overall consequence for each pest (please see the below document ‘Detailed method for a plant import risk analysis’ for more information).
+A pest’s overall consequence rating will either be:
+Extreme – high – moderate – low – very low – negligible.
+Step 4 Estimate the overall unrestricted risk a pest poses to Australia
+We determine the unrestricted risk of a pest by combining the overall likelihood of a pest entering, establishing and spreading in Australia and the overall consequence.
+The unrestricted risk is the level of risk that would be present if there were no risk management measures in place.
+The final unrestricted risk rating will either be:
+Extreme – high – moderate – low – very low – negligible.
+Appropriate level of protection
+Australia’s appropriate level of protection is set to ‘very low’. This means that any pest risks higher than very low will require risk management measures before the plant commodity can be imported.
+Step 5 Determine measures required to reduce the overall risk of a pest
+Risk management options are available to reduce the biosecurity risk of a quarantine pest.
+Risk reduction measures
+The following measures are examples of ways to reduce the risk of quarantine pests.
+Inspection
+Visual inspection may be conducted in the exporting country and once the consignment enters Australia.
+Treatment
+Irradiation, fumigation, heat or cold are ways to treat goods.
+Systems approach
+Application of management activities at different points along the supply chain. For example, pest control during production, and pest-proof packaging after harvest.
+Area freedom
+Goods may be sourced from areas known to be free from pests.
+If the risk reduction measure is effective, then the appropriate level of protection may be low enough to satisfy Australia’s ALOP.
+Import pathway for plants and plant products
+There are biosecurity requirements that all commercially imported plants and plant products must meet to enter Australia. View the below infographic ‘Import pathway for plants and plant products’ to learn what these may include.
+Download more information
+Graphic of the plant import risk analysis method
+- Graphic of the plant import risk analyses (PDF 1.1 MB)
+- Graphic of the plant import risk analyses (DOCX 122 KB)
+Standard import risk analysis steps
+Detailed method for a plant import risk analysis
+- Detailed method for a plant import risk analysis (PDF 395 KB)
+- Detailed method for a plant import risk analysis (DOCX 295 KB)
+Import pathway for plants and plant products
+- Import pathway for plants and plant products (PDF 5.6 MB)
+- Import pathway for plants and plant products (DOCX 111 KB)
+Guide on how to provide feedback on a draft plant import risk analysis report
+- Guide on how to provide feedback on a draft plant import risk analysis report (PDF 258 KB)
+- Guide on how to provide feedback on a draft plant import risk analysis report (DOCX 235 KB)
+If you have difficulty accessing these files, visit web accessibility for assistance.

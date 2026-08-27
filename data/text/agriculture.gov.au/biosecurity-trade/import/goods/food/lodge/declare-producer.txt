@@ -1,0 +1,85 @@
+You must declare the producer when you lodge a Full Import Declaration (FID).
+We inspect and test food imports under our Imported Food Inspection Scheme.
+Work out who the producer is
+The producer is the name of the manufacturer, processor, packer or establishment where the goods were grown, caught, manufactured or processed.
+The producer is generally where the product undergoes final processing or packaging. The producer’s contact name and address will be on the final bulk or retail packaging.
+The producer may be the same as the exporter or supplier. It can’t be the warehouse or freight forwarder.
+If your overseas supplier doesn’t provide producer details, you can declare the supplier as the producer in the Integrated Cargo System (ICS).
+[expand all]
+Raw or unprocessed food
+The producer is the name of the business where the goods are packed into the final bulk or retail packaging.
+Example
+Raw seafood is packed into the final bulk or retail packaging at Business A. The name and contact details for Business A should be declared as the producer. The name and contact details for Business A may appear on the final bulk or retail packaging.
+Processed food
+The producer is the business where the goods were both:
+- processed into the finished product
+- packed into the final bulk or retail packaging.
+Example
+You source ingredients from one or more sources. You send ingredients to Business A for processing into finished products. Declare Business A as the producer. The name and contact details for Business A may appear on the final bulk or retail packaging.
+Gift hampers
+Gift hampers can contain multiple foods from multiple producers. The producer is the name of the business where the goods are packed into the final bulk or retail packaging.
+Add, amend or delete a producer code
+Declare your producer in your FID using the Department of Home Affairs' Integrated Cargo System (ICS).
+Before you create a new producer, check they aren’t already in the system. Search for a producer using the Wildcard and Like Match in ICS.
+To do this you can either enter:
+- the first word of the producer name and use a * at the end of the word
+- part of the producer name and click the Like Match tick box.
+Add a new producer
+Licensed customs brokers can add producer codes in ICS. You need to be granted access in the ICS to be able to create producers. To request this access, email ifpproducers@aff.gov.au and include your name, brokerage name and ABN in the email request.
+Anyone else must complete the Application to add, amend or delete a producer in the Integrated Cargo System.
+When adding a new producer into the ICS, you must first search to make sure that the producer doesn’t already exist. Once you have searched and no producer is found, a Create button will appear.
+When creating a new producer you must include the name, locality and country code.
+- Name (up to 250 characters) — include the full name of the producer. Use abbreviations such as Pty Ltd or P/L for Proprietary Limited.
+- Locality (up to 40 characters) — include the physical address (for example, 20 Export Park, San Jose, California) instead of a broad locality (California). Use abbreviations such as ‘St’ for Street or ‘Bldg’ for Building. Don’t include a Post Office box.
+- Country Code — include the country where the producer is based. Search to select the correct country code.
+Download
+| Document | Pages | File size | 
+|---|---|---|
+| Application to add a new producer to the ICS PDF ![PDF Icon](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) | 4 | 308 KB | 
+If you have difficulty accessing these files, visit web accessibility for assistance.
+Amend an existing producer
+We make amendments to producers in the ICS.
+Complete the Application to add, amend or delete a producer in the Integrated Cargo System.
+Download
+| Document | Pages | File size | 
+|---|---|---|
+| Application to add a new producer to the ICS PDF ![PDF Icon](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) | 4 | 308 KB | 
+If you have difficulty accessing these files, visit web accessibility for assistance.
+You can still select the producer in a FID right after you submit the form. We will process the amendment as soon as possible.
+Delete an existing producer
+Complete the Application to add, amend or delete a producer in the Integrated Cargo System.
+Download
+| Document | Pages | File size | 
+|---|---|---|
+| Application to add a new producer to the ICS PDF ![PDF Icon](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) | 4 | 308 KB | 
+If you have difficulty accessing these files, visit web accessibility for assistance.
+We will process this form to remove the producer from ICS.
+Generic producer codes
+There are generic producer codes available for food within tariff chapters 2–22 that:
+- may be exempt from inspection and testing, or
+- are returning Australian goods.
+This food may still be referred to us. Provide us with evidence (e.g. a declaration) of the end use, and we will consider whether to release the goods without inspecting or testing them.
+Use the generic producer code for your type of goods.
+Food exempt from inspection and testing
+Certain food is exempt from inspection and testing. You still need to include a generic producer code in ICS.
+See Section 7 of the Imported Food Control Act 1992 for definitions.
+| Type of imported good | Generic producer code | Generic producer name | 
+|---|---|---|
+| Food imported for ship’s stores only | 00224506 | Ship's stores only | 
+| Food imported for aircraft’s stores only | 0004997P | Aircraft's stores only | 
+| Food imported for private consumption only | 0005531X | Private consumption | 
+| Food imported for a trade sample only | 0007593X | Trade sample <20KG/20L not for consumption | 
+| Food imported for an end use other than human consumption | 00213492 | Not for human consumption | 
+Returned Australian goods
+Food that has been produced in Australia, exported overseas and then returned to Australia.
+| Type of imported good | Generic producer code | Generic producer name | 
+|---|---|---|
+| Food exported from Australia that is being returned | 0004957T | Returned Australian goods only | 
+Declaring the incorrect producer
+If you declare an incorrect producer, it could hold up your goods.
+A FID with the wrong producer may be incorrectly referred to us. We will need to assess the goods before we can release them. For risk food, our import system won’t apply the correct rate of inspection. Your imported goods may be inspected and tested unnecessarily.
+Producer on the label is different to the producer in a FID
+Our inspection officers will check that the producer on the label matches the FID. If they don’t match, the officer will take these actions:
+- For risk food—stop the inspection and advise the importer or agent that the producer must be changed in the FID. The FID must be amended before we reinspect the goods.
+- For holding order food—conduct a visual and label inspection. They will advise the importer or agent that the producer needs to be declared correctly in future FIDs.
+- For surveillance food—complete the inspection and advise the importer or agent that the producer needs to be declared correctly in future FIDs.

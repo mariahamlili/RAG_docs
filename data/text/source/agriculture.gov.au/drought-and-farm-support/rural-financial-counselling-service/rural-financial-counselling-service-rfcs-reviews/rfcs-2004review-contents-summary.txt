@@ -1,0 +1,553 @@
+AGRICULTURE ADVANCING AUSTRALIA 
+RURAL FINANCIAL COUNSELLING SERVICE PROGRAM
+Review Committee 2004 
+led by the National Rural Advisory Council
+Report on the Review of the 
+Rural Financial Counselling 
+Service Program
+
+© Commonwealth of Australia 2006
+This work is copyright. The Copyright Act 1968 permits fair dealing for study, research, 
+news reporting, criticism or review. Selected passages, tables or diagrams may be 
+reproduced for such purposes, provided acknowledgement of the source is included. 
+Major extracts or the entire document may not be reproduced by any process without 
+the written permission of:
+The Executive Manager 
+Rural Policy and Innovation Division 
+Department of Agriculture, Fisheries and Forestry 
+GPO Box 858, Canberra, ACT 2601
+Editing and design by Clarus Design Pty Limited
+
+3
+Review of the AAA Rural Financial Counselling Service Program — 2004
+AAA RURAL FINANCIAL COUNSELLING SERVICE 
+REVIEW COMMITTEE
+Senator the Hon Richard Colbeck 
+Parliamentary Secretary to the Minister for Agriculture, Fisheries and Forestry 
+Parliament House 
+CANBERRA ACT 2600
+Dear Senator Colbeck
+The Review Committee has pleasure in presenting you with the final report of the Rural 
+Financial Counselling Service Program Review.
+We believe the report’s findings and recommendations provide a basis for making 
+some important changes and a way forward for delivering the important work of 
+providing information and decision-making support to primary producers, (including 
+fishers), and small rural business enterprises facing continuing adjustment pressures 
+throughout Australia.
+The Review Committee has undertaken extensive consultations having met with 148 
+stakeholders in face-to-face meetings held in all states and the Northern Territory and 
+received some 86 written submissions.
+Key findings by the Review Committee are that adjustment should be a primary focus for 
+rural financial counsellors and any future program, and there is a continuing need for a 
+Rural Financial Counselling Service.
+The Review Committee considers the current devolved approach to the delivery of the 
+Rural Financial Counselling Service Program brings a number of unreasonable risks to the 
+members, counsellors and clients of the 68 rural community management committees.
+Further, the increased need for improved governance and accountability to meet 
+regulatory requirements and the burden on rural communities to raise matching funding 
+has led us to recommend the need to change from the current model.
+The common whole-of-state management committee model we recommend to you 
+separates the more onerous governance and management responsibilities, provides the 
+opportunity for more skilled and professional counsellors with greater flexibility in the 
+placement of resources, retains local community advisory input, and makes possible real 
+reform, which will be more readily accepted by the rural community.
+
+4
+Review of the AAA Rural Financial Counselling Service Program — 2004
+The Review Committee believes that state, territory and local governments should play a 
+more active and direct role, including funding for the services.
+It is recognised that significant start up time may be needed to reach agreement and then 
+develop and implement a new approach, which may require an extension of the current 
+funding agreements. It is our view this should not be longer than six months from the 
+current funding arrangements which end on 30 June 2005.
+Along with any extension, we would urge you to consider our recommendation to have 
+existing counsellors undergo a process of recognition of current competencies to identify 
+current skills and any gaps, regardless of which model you ultimately decide upon.
+The Review Committee appreciates the opportunity provided to undertake this 
+important Review.
+Yours sincerely
+	
+Wayne Cornish	
+Bill Anscombe
+	
+Rudi Cinc	
+Bruce Brown
+John Woods
+
+5
+Review of the AAA Rural Financial Counselling Service Program — 2004
+Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Executive summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+1	
+Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+1.1 
+The Rural Financial Counselling Service Program review . . . . . . . . . . . . . . . . . . 18
+1.2 
+The consultation process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+CONTEXT/BACKGROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+2	
+The Australian Government and agricultural adjustment . . . . . . . . . . . . . . 20
+2.1 
+The rationale for government intervention in adjustment . . . . . . . . . . . . . . . . 20
+2.2 
+The drivers of adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+2.3 
+The barriers to adjustment and negative impact 
+of delayed adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+3	
+The Rural Financial Counselling Service 1986–2004 . . . . . . . . . . . . . . . . . . . . . 42
+3.1 
+RFCS program rationale from 1986 and the changing 
+context to 2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+3.2 
+Relationship to other programs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+3.3 
+Distribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+3.4 
+Client numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+3.5 
+Delivery and funding model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+3.6 
+Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+3.7 
+Previous reviews of RFCS and previous reform measures . . . . . . . . . . . . . . . . 55
+ADDRESSING THE TERMS OF REFERENCE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+4	
+What is the nature, distribution and magnitude of need for rural 
+financial counselling? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+4.1 
+Services sought by clients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
+4.2 
+Clarifying the program’s role in adjustment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+4.3 
+Focusing on the target client group . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+4.4 
+The boundaries between social and financial counselling . . . . . . . . . . . . . . . 67
+4.5 
+Other providers of social and financial counselling and information . . . . . . 69
+Contents
+
+
+Review of the AAA Rural Financial Counselling Service Program — 2004
+5	
+How well has the current service met need? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+5.1  Awareness of the program . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+5.2 
+Anecdotal evidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+5.3 
+The availability and adequacy of current data and evaluation tools . . . . . . 73
+5.4 
+Measuring the program’s contribution to adjustment . . . . . . . . . . . . . . . . . . . 80
+5.5 
+Responding to changing need . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+6	
+Anticipated need over the next three years . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+6.1 
+Short and long-term pressures on the sector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+6.2 
+The target group – non-viable and marginally viable farm 
+enterprises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+7	
+Approaches to support improved governance . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+7.1 
+Understanding the risks to the client, to the management 
+committee, to the counsellor and to government . . . . . . . . . . . . . . . . . . . . . . . . . 90
+7.2 
+The sources of risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+7.3 
+The barriers to good governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
+7.4 
+Summarising the lessons of good governance . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+8	
+Suggestions for future guidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+8.1 
+Recommended structure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+8.2 
+Goal statement and objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
+8.3 
+Establishing need: criteria for allocation of resources . . . . . . . . . . . . . . . . . . . 143
+8.4 
+Establishing management capacity: requirements for 
+governance and reporting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+APPENDIXES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
+Appendix 1: Terms of reference for the review . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+Appendix 2: Information paper . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+Appendix 3: List of written submissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+Appendix 4: List of public face-to-face consultations by state . . . . . . . . . . . . . . . . . 169
+Appendix 5: Map of socio-economic disadvantage by region . . . . . . . . . . . . . . . . 174
+Appendix 6: Accountants and auditors, providers of financial information . . . . 176
+Appendix 7: Centrelink outlets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Appendix 8: Location of current RFCS projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+
+
+Review of the AAA Rural Financial Counselling Service Program — 2004
+Appendix 9: Funding agreement for RFCS Services, 
+November 2002–June 2004 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+Appendix 10: Funding agreement variation, July 2004–June 2005 . . . . . . . . . . . . 217
+Appendix 11: Summary of the qualifications, experience and 
+average salaries of rural financial counsellors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+Appendix 12: The 2000 evaluation of the Rural Communities 
+Program (RCP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+Appendix 13: Location of QDPIF farm financial counsellors . . . . . . . . . . . . . . . . . . 222
+Appendix 14: Map of other financial counselling providers 
+(government and not-for-profit) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+Appendix 15: Survey by Solutions Research and Marketing 2002 . . . . . . . . . . . . . 224
+Appendix 16: Trends in Farm Help income support . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Appendix 17: BRS maps (4) of the distribution of current Exceptional 
+Circumstance grant recipients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+Appendix 18: BRS maps (4) of regions affected by water access issues . . . . . . . . 232
+Appendix 19: BRS map of the median age of farmers/farm 
+managers by region, 2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+Appendix 20: BRS map of change in the median age of farmers/farm 
+managers by region, 1996–2001 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 237
+Appendix 21: Outline of the 2004 corporate governance and 
+risk management workshops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Appendix 22: Summary of the pros and cons of the five model 
+options for the RFCS program discussed in the review report . . . . . . . . . . . . . . . . 240
+Acronyms and abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 253
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255
+List of figures
+Figure 1.  Proportion (%) of workforce employed in agriculture (Bureau of Rural 
+Sciences 2001). Farm sector downturn will have the most serious effect on regions 
+where 50% or more of the local population relies on agriculture for employment . . . . . . .  23
+Figure 2.  Index of real prices of farm commodities (milk, wheat, wool 
+and beef), 1980–81 to 2001–02: 1980–81 = 100. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Figure 3.  Cash incomes (2001–02 dollars) of the top and bottom income terciles of farms 
+in the broadacre industries (ranked by sheep equivalents), 1977–78 to 1999–2000 . . . . . .  26
+
+
+Review of the AAA Rural Financial Counselling Service Program — 2004
+Figure 4.  Rates of return of the largest and smallest terciles of farms in the 
+broadacre industries (ranked by sheep equivalents), 1977–78 to 1999–2000 . . . . . . . . . . . .  27
+Figure 5.  Average size (ha) of Australian commercial farms, 1960–61 to 2000–01 . . . . . . . .  27
+Figure 6.  Australian wheat farming annual productivity growth and real wheat 
+price movements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28
+Figure 7.  Australian wool growing annual productivity growth and real wool 
+price movements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28
+Figure 8.  Farmer expectations (by industry sector) of the impact on farm viability of 
+the regulation of native vegetation and tree clearing. Source: SMR (2002) . . . . . . . . . . . . . . .  32
+Figure 9.  Farmer expectation (by state) of the impact on farm viability of the 
+regulation of native vegetation and tree clearing. Source: SMR (2002) . . . . . . . . . . . . . . . . . . .  33
+Figure 10.  Expected impact (by industry type) of water reform on farm 
+viability. Source: SMR (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  35
+Figure 11.  Expected impact (by state) of water reform on farm viability. 
+Source: SMR (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  35
+Figure 12.  Percentages of farmers in different rural industries stating an 
+intention to remain in agriculture, work in other industries or to semi or fully 
+retire. Source: SMR (2002) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38
+Figure 13.  Death rates due to mental and behavioural disorders in 2001. 
+Source: Australian Bureau of Statistics (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  40
+Figure 14.  Suicide death rates (age standardised) in 2000. 
+Source: Australian Bureau of Statistics (2001) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  40
+Figure 15.  Numbers of suicide deaths in different age groups of farmers and 
+farm managers, 1992–95. Source: HealthWIZ National Social Health Statistical 
+Data Library, Department of Health and Ageing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  41
+Figure 16  Potential for early intervention, before ‘crisis’ point and assets 
+and equity have been eroded. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  86
+List of tables
+Table 1.  Number of years clients have used the RCFS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Table 2.  Type of assistance provided by RFCS counsellors in 2003–04, as 
+recorded in the ARC database . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Table 3.  Main causes of client difficulty recorded in the ARC database . . . . . . . . . . . . . . 76
+Table 4.  Viability prospects of RFCS clients as recorded in the ARC database . . . . . . . . 76
+Table 5.  Status of property sales by RFCS clients as recorded in the ARC database . . . 77
+Table 6.  Classification of businesses serviced by rural financial counsellors . . . . . . . . . .77
+
+
+Review of the AAA Rural Financial Counselling Service Program — 2004
+Acknowledgments
+A review of this kind needs assistance and cooperation of a wide range of individuals and 
+organisations if it is to be conducted effectively and have adequate input for consideration 
+and deliberation. The review committee wishes to thank all those who made written 
+submissions to the review or attended and participated in face-to-face consultations in 
+all states and the Northern Territory. With the tight timelines for the review many people 
+travelled long distances at short notice to make themselves available and to put their 
+views forward.
+The views, information and recommendations provided to the committee were extremely 
+valuable, allowing it to make informed findings and recommendations.
+The committee also wishes to acknowledge the support it received from the Secretariat 
+provided by the Department of Agriculture, Fisheries and Forestry.
+
+10
+Review of the AAA Rural Financial Counselling Service Program — 2004
+EXECUTIVE SUMMARY
+This report examines the efficiency, timeliness and suitability of the current 
+administration, community management structures and delivery mechanism for the 
+Rural Financial Counselling Service (RFCS) Program and suggests program guidelines and 
+delivery mechanisms for 2005–08.
+The first rural financial counselling services were established in 1986 during volatile and 
+uncertain times with the deregulation of the finance industry and high interest rates. 
+Rural financial counsellors met an identified gap in services offered to rural communities 
+and farm families, providing a circuit breaker through free and independent assistance to 
+primary producers, helping re-establish business confidence and trust through their direct 
+assistance to primary producers, allowing them to make informed decisions.
+In the current 2004–05 funding round, there are 68 community-based services, 
+employing more than 80 full-time equivalent rural financial counsellors across Australia. 
+The majority of current services have operated in the same location for up to 18 years. 
+The RFCS program is funded under the Agriculture Advancing Australia (AAA) package, 
+an integrated suite of programs designed to secure the profitability, sustainability and 
+competitiveness of the farm sector through changes to producers’ skills, attitudes and 
+practices and by providing risk management tools, information and improved market 
+opportunities. The primary objectives of the RFCS are:
+to provide free rural financial counselling services to assist primary producers, small 
+rural businesses and fishing enterprises in rural areas, who are experiencing financial 
+hardship and have no alternative sources of help with decision-making
+to identify enterprise and industry issues where change and adjustment are required
+to contribute to the goal of a more competitive, sustainable and profitable rural 
+Australia.
+The RFCS program was evaluated under the 2000 Evaluation of the Rural Communities 
+Program (RCP), which found there was a need for RFCS to place greater focus on 
+‘agricultural and social adjustment’ rather than attempting to meet development or 
+welfare objectives. Among other findings was the need for the RFCS to operate within 
+a comprehensive performance monitoring and evaluation framework. Stakeholder 
+consultations for the 2002–03 Review of the AAA package also suggested enhancing 
+consistency in governance across the services and ensuring greater accountability and 
+
+
+
+
+11
+Review of the AAA Rural Financial Counselling Service Program — 2004
+certainty that services were operating within program guidelines. These consultations 
+suggested the RFCS needed to improve adjustment outcomes for farm families in long-
+term financial difficulty. Better targeting of need was raised in the 2000 Evaluation of the 
+RCP and in stakeholder consultations for the AAA Review.
+In May 2003, ACUMEN Alliance Consulting commenced a national performance review 
+and audit of a third of the RFCS. The overall findings of the audit were that a significant 
+number of services were undertaking activities which were considered contrary to the 
+funding agreements between the Australian government and RFCS. Among the key 
+findings of the audit was that the level of corporate governance was below that required 
+by the funding agreements.
+In the May 2004 Commonwealth Budget, the Australian government announced a 
+continuation of the AAA package until 30 June 2008 including, a further $23.3 million 
+for the RFCS program. At the same time it announced the RFCS program would be 
+reviewed. A review committee was established under the auspices of the National Rural 
+Advisory Council (NRAC) – an independent committee comprising primary producers and 
+agribusiness professionals.
+The review committee is of the view that due to continuing adjustment pressures in the 
+farm sector, there will be a long-term need for information and decision-making support 
+by farm and fishing enterprises considering their future in the industry, and by small 
+rural businesses dependent on these industries. There is also a need to identify at risk 
+enterprises earlier, before assets are eroded. The review committee considers that farm 
+families will seek support for decisions about their future options and that there is a role 
+for rural financial counselling services in assisting primary producers adjust to changing 
+circumstances through information delivery and referral to other support mechanisms.
+Within the context of current and anticipated need for the RFCS in the future, the review 
+committee considers that services have tended to become ‘institutionalised’ with the 
+majority of the services remaining in the same location for up to 18 years. However, the 
+intent of the program, from its inception, was to focus on critical need. Throughout the 
+review, the committee found numerous examples of the requirement for additional rural 
+financial counselling services to be located in areas to deal with sudden and specific 
+workloads. However, the review committee also considered evidence of the long-term 
+fixed nature of services. During the assessment of the 2002–04 application round, the RFC 
+Advisory Panel recommended some amalgamations between neighbouring services due 
+to overlapping, low client numbers and where organisations faced difficulty in obtaining 
+sufficient community funding to support the service.
+
+12
+Review of the AAA Rural Financial Counselling Service Program — 2004
+The review committee notes that, in the past, some services have worked together co-
+operatively to overcome increased client demand, with counsellors in areas of low client 
+activity temporarily assisting services experiencing high demand for services. However, in 
+other locations, services have struggled to cope with sudden increases in workload and 
+the lack of available additional assistance. The review committee therefore recommends 
+any new funding model should ensure greater mobility of resources to respond to 
+critical need.
+In its face-to-face consultations, the review committee was told of situations in which 
+counsellors were asked or expected to perform roles that were of a purely social 
+counselling nature. Given the core business of the RFCS is financial and the current 
+qualifications of the RFCS staff are almost exclusively in the area of finances and not in 
+psychology, sociology, social work or other human service areas, there is a potential for 
+counsellors and management committees to exceed their professional competence and 
+leave themselves, or their management committees, exposed to legal risk.
+In determining the need for the RFCS, the review committee is of the view that, in many 
+cases, client expectations of the counsellors in regard to the provision of emotional 
+support, succession planning and assistance with family communication are contradictory 
+to the activities counsellors are permitted to undertake under their funding agreements. 
+The full suite of client expectations cannot be met by any one person and there is a 
+need for the referral role of rural financial counsellors to be re-focused and emphasised. 
+In considering any future service delivery model, the review committee recommends 
+a minimum entry-level knowledge of social counselling and a staff development and 
+training focus upon social counselling, particularly on the limits of counsellors’ capacity to 
+undertake a more complex social counselling role.
+In the course of the review, the review committee examined the current funding 
+mechanisms including the requirement for communities to raise matching funding. Many 
+services have expressed difficulties in 2004–05 obtaining community cash contributions, 
+largely due to the ongoing impacts of drought on community financial health. Rising costs 
+of petrol, insurance and accommodation, are also impacting on the community’s ability 
+to match government funds. In recognising the commitment of volunteer management 
+committees in the past to the requirement of matching funding, the review committee 
+considered the impost placed upon management committees to raise these funds, 
+particularly during difficult times such as drought. The review committee recommends 
+investigations should be made into alternative funding measures for any future RFCS 
+program model. The review committee notes that the Australian government committed 
+funding in the May 2004 Budget of $23.3 million for the RFCS program until 30 June 2008.
+
+13
+Review of the AAA Rural Financial Counselling Service Program — 2004
+In considering the role of RFCS volunteer management committees in service delivery, the 
+review committee drew on recent research, the relevant legislative and regulatory framework 
+these management committees operate within, stakeholder submissions and current 
+difficulties raised by volunteer management committees. The review committee notes 
+the increasing emphasis on governance across all organisations in society, accompanied 
+by increasing complexity in the wider regulatory and accountability environment within 
+which counselling and financial advice services operate, and the potential risks for volunteer 
+management committees under the current program model. The review committee 
+considers continuation of a program of this nature through the mechanisms of volunteer 
+governance is now an unreasonable expectation and should be discontinued.
+However, in making its determination, the review committee recommends a strong role 
+in any future program model for local advisory groups in providing locally grounded 
+information and supporting a locally based counsellor. The review committee also notes 
+the important contribution volunteer management committees have made to the RFCS 
+program since its inception.
+As part of the review committee’s terms of reference, it considered the risks to the client, 
+management committee, counsellor and government under the current program model. 
+Of primary concern are the implications of the 2001 Financial services Reform Act (FSRA) 
+for rural financial counselling, whereby the RFCS will need to be licensed or obtain an 
+exemption from the Act because its activities are not covered by the Act, or seek relief 
+from licensing. The review committee considers that under present RFCS program 
+arrangements, in which governance is devolved to 68 separate volunteer management 
+committees, it will not be possible to seek exemption from the FSRA for the RFCS as a 
+whole. The review committee further considers that the current governance arrangements 
+for the program do not provide sufficient consistency of delivery, supervision or skill 
+standards to meet the requirements of the FSRA, whether for licensing, exemption or relief 
+from licensing requirements. Any new delivery model for the RFCS should ensure that 
+these conditions are met.
+A key issue for consideration by the review committee was whether RFCS management 
+committees are aware of the risks associated with professional indemnity and their 
+organisation becoming the subject of litigation. The 2003 ACUMEN Alliance audits found 
+that most services did not have business plans or risk assessments in place and identified 
+corporate governance and risk management as areas of concern. During the review 
+committee’s consultations, it was apparent there was growing dissatisfaction amongst 
+some RFCS management committees and state RFCS associations with the current model, 
+due to the legal and financial risk imposed on volunteers. Often management committees
+
+14
+Review of the AAA Rural Financial Counselling Service Program — 2004
+were struggling with fewer members and increasing workloads and responsibilities. 
+Corporate governance of services was a major concern of all volunteers on management 
+committees.
+In considering the current risks to services, as well as the comments made by stakeholders, 
+both written and at the face-to-face consultations, the review committee concludes:
+the level of liability risk placed on volunteer members of management committees 
+under the current arrangements, is no longer acceptable
+the present governance arrangements with responsibility devolved to 68 individual 
+employers is not appropriate for a program with such inherent risks of legal liability
+as corporate governance and risk management requirements are likely to increase 
+in future years, rather than diminish, alternative management arrangements for the 
+delivery of rural financial counselling are considered imperative.
+Under the terms of reference the review committee was asked to provide advice on future 
+guidelines and proposed application processes to meet the assessed nature and level of 
+need for provision of RFCS.
+First and foremost, the review committee finds that there is a continuing need for a Rural 
+Financial Counselling Service.
+The review committee considered a number of alternative models. In considering its 
+recommendations on guidelines for rural financial counselling services, the review 
+committee took into account the features that were perceived as strengths of the current 
+model, as well as ways to avoid its risks and inefficiencies.
+In its assessment, the review committee finds that the level of local ownership is high 
+for the current RFCS program and many submissions and presentations to the review 
+committee emphasised its importance.
+Although many submissions described the overwhelming pressure of fundraising, service 
+management and reporting, most agreed that local ownership brought strong acceptance 
+of the service by clients, good networking, and awareness of local needs and issues, and 
+taking responsibility for the program helped build community capacity. It was also argued 
+that loss of local ownership would see the loss of the local funding component. However, 
+a number of stakeholders argued that the requirement for local funding is outdated and 
+should be discontinued: ‘communities can no longer be expected to contribute to this 
+type of service’. Many saw it as ironic that those communities most in need of crisis and 
+adjustment counselling were those least able to find matching funding.
+
+
+
+
+15
+Review of the AAA Rural Financial Counselling Service Program — 2004
+The review committee considers the current devolved approach to service delivery under 
+the current model brings a number of unreasonable risks to management committees, 
+counsellors and clients and recommends the current RFCS program model should change.
+Among the models considered by the review committee was an outsourced not-for-profit 
+provider. A strong case can be made for adopting a ‘prospectus’ approach to the delivery 
+of counselling services, with funding being awarded to the service provider offering the 
+best resourcing and governance outcomes within a State. Not-for-profit organisations 
+interviewed during the consultation process were highly regarded in the community, 
+however, some stakeholders were concerned these organisations might be too closely 
+associated with the welfare sector and this would deter primary producers, fishers and 
+small business operators.
+However, the review committee considers this model offers the best risk management 
+from the point of view of Australian and state governments and the local community. 
+Several existing providers have already managed risk successfully and have won FSRA 
+exemption from the Australian Securities and Investments Commission (ASIC) in 
+recognition of their strong governance protocols, required skill levels and ongoing training 
+for staff. This model presents the best alternative for timely implementation, as agencies 
+likely to be selected for delivery have already established governance structures and will 
+be likely to be able to employ a significant proportion of the new counselling workforce 
+from the ranks of existing RFCS counsellors. The review committee recommends all 
+existing RFCS counsellors undergo a Recognition of Current Competencies process and 
+develop a formal learning plan for any skills gaps or development.
+The outsourcing of the program to a single national government agency was considered 
+the most effective way to provide joined up decision-support across a wide range of 
+locations. A contender for provision of this model would be Centrelink, which has the 
+capacity to ‘white brand’ its delivery and to deliver a high level of government and staff 
+development protocols.
+While Centrelink is managed at a state and national level, its outreach delivery has 
+included the use of local advice mechanisms and it has already worked closely with rural 
+communities and agricultural industries to deliver outreach services from community 
+centres and from industry offices. The review committee recommends this model for 
+serious consideration and, while noting recent research which pointed to a shift in primary 
+producers’ attitudes to Centrelink, also notes that during consultations some stakeholders 
+suggested the model would be unlikely to win support at the local level. The review
+
+16
+Review of the AAA Rural Financial Counselling Service Program — 2004
+committee recommends that this model, as well as the not-for-profit model, should 
+incorporate a condition of funding that local reference groups are established in locations 
+where counsellors are deployed.
+The model most favoured by the review committee and that would be most accepted by 
+the client group, is a model incorporating a common state-level management committee 
+with an executive officer. This model is also the most common to be proposed by 
+stakeholders in the Review’s consultations. In this model:
+governance responsibility is separated from local support for counselling services, but 
+both elements remain important
+a common management committee, assisted by a paid executive officer, manages a 
+large number of counselling services – there would be greater availability of skilled 
+candidates for the management committee than at the regional level and less 
+potential for local conflict of interest
+client confidentiality would be maintained through the use of an executive officer 
+operating at the state level
+while there is still potential for divergence of practice between states, there 
+would be sufficient scale within a state to provide for resource mobility and make 
+reform possible.
+In the state level management committee model, local reference groups would be 
+retained in an advisory role only and would not be required to raise funds or to take on 
+governance roles that could attract financial or legal risk, but would provide information 
+on current conditions and on the level of need for service provision. However, the review 
+committee acknowledges the model may be unlikely to attract community cash or in-kind 
+resourcing, and local community funding would need to be made up by the Australian 
+and state Governments.
+Local government should be encouraged to provide a base from which local reference 
+groups would operate, having both infrastructure coverage in local regions where 
+counsellors are placed and jurisdictional powers under local government legislation in 
+each state and territory to establish local advisory groups.
+The review committee considers that cost savings in this model may be gained through 
+the devolution of existing administrative structures of services. The review committee 
+recommends further investigations into outsourcing funding beyond Australian 
+and state governments. Support could be sought from the private sector or in-kind 
+contributions from communities that are successful in their applications for rural financial 
+counselling services.
+
+
+
+
+
+17
+Review of the AAA Rural Financial Counselling Service Program — 2004
+The review committee also notes the start-up time for this model will be significant due 
+to the need to reach agreement between the Australian and state governments regarding 
+the level of funding to be borne by each under the new arrangements and the process 
+required to implement the proposed framework and structure of this model.
+While delivery by an outsourced not-for-profit organisation, followed by Centrelink on a 
+‘white branded’ outreach basis may be the best models, it would not likely be acceptable 
+at this stage to the client group or rural communities. The review committee recommends 
+delivery under the state level management committee model, supported by local 
+reference groups.

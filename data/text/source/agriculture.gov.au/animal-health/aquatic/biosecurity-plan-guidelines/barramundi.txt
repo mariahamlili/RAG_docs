@@ -1,0 +1,3174 @@
+National biosecurity 
+plan guidelines 
+ for Australian Barramundi Farms
+
+© Commonwealth of Australia 2019
+Ownership of intellectual property rights
+Unless otherwise noted, copyright (and any other intellectual property rights, if any) in this publication is owned 
+by the Commonwealth of Australia (referred to as the Commonwealth).
+Creative Commons licence
+All material in this publication is licensed under a Creative Commons Attribution 3.0 Australia Licence, save for 
+content supplied by third parties, logos and the Commonwealth Coat of Arms.
+Creative Commons Attribution 3.0 Australia Licence is a standard form licence agreement that allows you to 
+copy, distribute, transmit and adapt this publication provided you attribute the work. A summary of the licence 
+terms is available from creativecommons.org/licenses/by/3.0/au/deed.en. The full licence terms are available 
+from creativecommons.org/licenses/by/3.0/au/legalcode.
+Email inquiries about the licence and any use of this document to copyright@agriculture.gov.au.
+Cataloguing data
+Attribute this publication (and any material sourced from it, unless specified otherwise) as: Landos, M., 
+Calogeras, C., Hayward, S., Ruscoe, J. 2019. National Biosecurity Plan Guidelines for Australian Barramundi 
+Farms. Department of Agriculture, Canberra June 2019. CC BY 3.0.
+ISBN 978-1-76003-210-4 
+This publication is available at www.agriculture.gov.au/animal/aquatic/guidelines-and-resources.
+The Department of Agriculture
+Postal address GPO Box 858 Canberra ACT 2601
+Telephone 1800 900 090
+Web agriculture.gov.au
+The Australian Government, acting through the Department of Agriculture, has exercised due care and skill 
+in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, its employees and advisers disclaim all liability, including liability for negligence and for any loss, 
+damage, injury, expense or cost incurred by any person as a result of accessing, using or relying upon any of the 
+information or data in this publication to the maximum extent permitted by law.
+About this publication
+The National Biosecurity Guidelines for Australian Barramundi Farms were developed as part of Activity 1.1 of 
+AQUAPLAN 2014-2019, Australia’s National Strategic Plan for Aquatic Animal Health, under Fisheries Research 
+and Development Corporation (FRDC) project 2016-147. The Department of Agriculture funded the project 
+through the FRDC. In-kind contributions were provided by the Australian Barramundi Farmers Association and 
+Future Fisheries Veterinary Service. The Sub-Committee on Aquatic Animal Health endorsed the document in 
+October 2018 and the Animal Health Committee in March 2019.  
+Writing group members
+Matt Landos – Future Fisheries Veterinary Service
+Chris Calogeras – Australian Barramundi Farmers Association
+Jo-Anne Ruscoe – Australian Barramundi Farmers Association
+Scott Hayward – Sealord King Reef Seafoods Pty Ltd
+The authors gratefully acknowledge comments from other persons during the development of the National 
+Biosecurity Plan Guidelines for Australian Barramundi Farms. In particular, the authors acknowledge the 
+contributions of the industry and government participants who attended the barramundi workshop. 
+Cover image source: Northern Territory Department of Primary Industries and Regions.
+
+Version 1.0, 2019 
+Contents 
+1 
+Introduction ................................................................................................................................. 1 
+2 
+How to use these Guidelines ....................................................................................................... 2 
+3 
+Reportable diseases of finfish and other barramundi diseases .................................................. 3 
+4 
+Resources for disease identification and management .............................................................. 5 
+5 
+Major routes of disease transmission ......................................................................................... 5 
+6 
+Where biosecurity measures can be applied .............................................................................. 6 
+7 
+Biosecurity plan structure ........................................................................................................... 7 
+7.1 
+Enterprise location .............................................................................................................. 7 
+7.2 
+Production details ............................................................................................................... 8 
+8 
+Detailed infrastructure maps ...................................................................................................... 9 
+8.1 
+Site biosecurity zoning....................................................................................................... 10 
+9 
+Biosecurity risk analysis ............................................................................................................. 12 
+9.1 
+Identify hazards ................................................................................................................. 12 
+9.2 
+Risk assessment of hazards ............................................................................................... 13 
+Likelihood ................................................................................................................................... 13 
+Consequences ............................................................................................................................ 14 
+Risk estimation .......................................................................................................................... 14 
+9.3 
+Document the risk-analysis process .................................................................................. 15 
+9.4 
+Mitigation measures to reduce disease transmission ....................................................... 16 
+Management of hatcheries ....................................................................................................... 17 
+Management of grow-out systems ........................................................................................... 19 
+10 
+Emergency procedures .......................................................................................................... 26 
+11 
+Legislative or jurisdictional regulatory requirements ........................................................... 27 
+12 
+Document control and revision record ................................................................................. 27 
+13 
+Audit record ........................................................................................................................... 28 
+14 
+Training .................................................................................................................................. 28 
+15 
+Supporting documents .......................................................................................................... 28 
+Appendices ........................................................................................................................................ 30 
+References ......................................................................................................................................... 51
+
+1 
+ 
+1 
+INTRODUCTION 
+As the Australian barramundi industry continues to expand, there needs to be a growing emphasis on 
+ensuring that nationally consistent biosecurity measures are implemented across all enterprises. In 
+2014, the aquatic animal industries and the Commonwealth and state and territory governments 
+endorsed Australia’s third National Strategic Plan for Aquatic Animal Health; AQUAPLAN 2014–2019. 
+AQUAPLAN outlines priorities for enhancing Australia’s management of aquatic animal health.  
+These guidelines have been developed to assist Australian barramundi farms with the tools and 
+templates to create fully auditable biosecurity plans, from basic through to comprehensive in scope. 
+They are part of the Fisheries Research and Development Corporation (FRDC) Project 2016-147: 
+Development of sector-specific biosecurity plan templates and guidance documents for the Australian 
+farmed barramundi industry. They form a component of Activity 1.1 of AQUAPLAN, and also 
+contribute to the strategic goal of the Australian Barramundi Farmers Association (ABFA) to achieve 
+‘effective management of biosecurity risk’. 
+The guidelines have been formulated using: 
+• 
+a set of generic guidelines and a template for an Aquaculture farm biosecurity plan developed by 
+the Sub-Committee on Aquatic Animal Health (SCAAH, 2016) 
+• 
+a set of sector-specific biosecurity plan guidelines for the Australian land-based abalone and 
+oyster hatchery industries (Spark et al. 2018a,b) 
+• 
+input from a government–industry workshop held 6 September 2017 
+• 
+consultation between the Future Fisheries Veterinary Service and industry on-farm and via 
+phone and email. 
+Recent catastrophic disease outbreaks in the prawn industry (with white spot syndrome virus) and 
+the oyster industry (with Pacific oyster mortality syndrome) have reinforced the need for the 
+barramundi industry to develop these guidelines. Recently conducted risk assessment by the ABFA 
+showed the presence of significant disease risks that are presently not within the Australian 
+barramundi industry. History also suggests it is likely that new and serious diseases may emerge 
+globally, which could substantially affect the Australian farmed barramundi industry.  
+Implementation of effective biosecurity is integral to any successful production system, delivering a 
+range of benefits including: 
+• 
+improved animal health and performance, through the prevention of disease outbreaks 
+• 
+reduced disease transmission and amplification within and between farms and regions 
+• 
+early disease detection, allowing faster response to reduce impact 
+• 
+support of claims of freedom from disease, which can alter market access and trade 
+• 
+support of aspects of industry best-practice certification programs. 
+Preventing disease protects your business and also has wider benefits for the industry and 
+communities that would potentially be devastated by a significant disease outbreak. Ownership and 
+‘buy-in’ by your staff are critical for successful implementation and operation of farm biosecurity 
+measures. 
+Staff must understand that by preventing disease introduction, or minimising 
+disease spread, their jobs and ultimately the industry will be protected.
+
+2 
+ 
+2 
+HOW TO USE THESE GUIDELINES 
+These guidelines have been developed to assist barramundi enterprises to:  
+• 
+develop a farm biosecurity plan (for those with no current plan in place); or  
+• 
+strengthen an existing farm biosecurity plan.  
+When creating a farm biosecurity plan, do not duplicate existing documents, systems or records. 
+Simply refer to them in your plan, where appropriate.  
+These guidelines identify the major routes of disease transmission that should be incorporated into 
+your farm biosecurity plan, including disease entry, and spread within and from your farm. The 
+guidelines help assess:  
+• 
+risks associated with each potential route of disease transmission  
+• 
+on-farm measures to minimise the risk of disease transmission  
+• 
+supporting documentation needs, such as standard operating procedures (SOPs), for a 
+comprehensive plan.  
+Risks common to barramundi enterprises have been identified in these guidelines. You should 
+consider any additional risks specific to your hatchery or grow-out enterprise, and associated risk-
+management measures that may be required.  
+Each enterprise will have a different spectrum of biosecurity challenges and operating environments 
+due to the variation between factors, such as:  
+• 
+operation size  
+• 
+location and layout of the farm 
+• 
+type of grow-out operation, for example recirculation system, ponds, raceways or sea cages 
+• 
+disease status of the region, state or territory  
+• 
+proximity to other wild fish populations, aquaculture sites or seafood enterprises (for example 
+processors)  
+• 
+number and types of species farmed  
+• 
+available resources.  
+An individual farm biosecurity plan needs to be developed to ensure that your plan is practical for 
+your operation, and is as simple and as low-cost as possible to achieve desired biosecurity outcomes. 
+The individual farm should use this nationally endorsed plan as a guideline and template when 
+developing their own farm plan. An effective farm plan does not necessarily mean that all of the 
+items on the national plan have to be included. Your plan may require additional or customised 
+actions. 
+Some of the required document templates are included as appendices to this plan. A guideline 
+document on how to write an SOP is shown in Appendix 2. 
+In Section 9.4, the guidelines are in sections relevant to the type of barramundi farm. Only the 
+guidelines relevant to your farm type need to be considered in this section of the document. In the 
+remainder of the document, all guidelines are relevant to all types of farms, so should be considered. 
+When you have navigated through these guidelines and assessed your individual site risks, you can 
+create your farm biosecurity plan.
+
+3 
+ 
+A self-audit checklist has also been included (in Appendix 8) for you to assess your completed plan. 
+This checklist may be used to highlight any remaining gaps. 
+Symbols used in these guidelines  
+ 
+Pen and paper icon indicates supporting details and other information to include 
+in your farm biosecurity plan. 
+R 
+R-numbered statements are risk-management measures to implement and 
+document.  
+These measures are auditable. 
+ 
+Open file icon indicates templates provided to help you develop your individual 
+farm biosecurity plan. 
+3 
+REPORTABLE DISEASES OF FINFISH AND OTHER BARRAMUNDI 
+DISEASES 
+Table 1 National List of Reportable Diseases of Aquatic Animals – Finfish 
+Disease 
+Organism 
+type 
+Exotic to 
+Australia 
+Susceptibility of 
+barramundi 
+Enteric septicaemia of catfish (Edwardsiella 
+ictaluri) 
+Bacteria 
+No 
+Confirmed 
+Grouper iridoviral disease  
+Virus 
+Yes 
+Confirmed 
+Infection with Aphanomyces invadans (epizootic 
+ulcerative syndrome ) 
+Fungus 
+No 
+Confirmed 
+Infectious spleen and kidney necrosis virus-like 
+viruses 
+Virus 
+Yes 
+Confirmed 
+Red sea bream iridoviral disease  
+Virus 
+Yes 
+Confirmed 
+Viral encephalopathy and retinopathy  
+Virus 
+No 
+Confirmed (with new 
+exotic strain risks) 
+Aeromonas salmonicida – atypical strain 
+Bacteria 
+No 
+Possible 
+Bacterial kidney disease (Renibacterium 
+salmoninarum)  
+Bacteria 
+Yes 
+Possible 
+Enteric redmouth disease (Yersinia ruckeri – 
+Hagerman strain) 
+Bacteria 
+Yes 
+Possible 
+Epizootic haematopoietic necrosis virus 
+Virus 
+No 
+Possible 
+European catfish virus  
+Virus 
+Yes 
+Possible 
+Furunculosis (Aeromonas salmonicida subsp. 
+salmonicida) 
+Bacteria 
+Yes 
+Possible 
+Infectious haematopoietic necrosis  
+Virus 
+Yes 
+Possible 
+Infectious pancreatic necrosis  
+Virus 
+Yes 
+Possible 
+Spring viraemia of carp  
+Virus 
+Yes 
+Possible
+
+4 
+ 
+Disease 
+Organism 
+type 
+Exotic to 
+Australia 
+Susceptibility of 
+barramundi 
+Viral haemorrhagic septicaemia  
+Virus 
+Yes 
+Possible 
+Data sources: www.fao.org/fishery/culturedspecies/Lates_calcarifer/en#tcN800C5; www.oie.int/standard-setting/aquatic-
+manual/access-online; http://www.www.agriculture.gov.au/animal/aquatic/reporting/reportable-
+diseases.gov.au/animal/aquatic/reporting/reportable-diseases 
+Table 2. Additional disease risks associated with imported barramundi (identified in FRDC Project 2015-040: 
+ABFA IPA: An assessment of the risk of exotic disease introduction and spread among Australian barramundi 
+farms from the importation of barramundi 
+Disease 
+Organism type 
+Exotic to Australia 
+Susceptibility of barramundi 
+Pot belly disease 
+Bacteria 
+Yes 
+Confirmed 
+Scale drop syndrome 
+Likely viral 
+Yes 
+Confirmed 
+Streptococcosis 
+Bacteria 
+No 
+Confirmed (with new exotic 
+strain risks) 
+Vibriosis 
+Bacteria 
+No 
+Confirmed (with new exotic 
+strain risks) 
+Table 3. Endemic disease risks 
+Disease 
+Organism 
+type 
+Exotic to 
+Australia 
+Susceptibility of 
+barramundi 
+Chilodonellosis 
+Ectoparasite 
+No 
+Confirmed 
+Trichodinosis 
+Ectoparasite 
+No 
+Confirmed 
+Turbellarian infestation 
+Endoparasite 
+No 
+Confirmed  
+Ichthyobodosis 
+Ectoparasite 
+No 
+Confirmed 
+Amylodiniosis 
+Ectoparasite 
+No 
+Confirmed 
+Diplectanid gill fluke infestation 
+Ectoparasite 
+No 
+Confirmed 
+Coccidiosis 
+Endoparasite 
+No 
+Confirmed 
+Cammalanid spp. infestation 
+Endoparasite 
+No 
+Confirmed 
+Cryptosporidiosis 
+Endoparasite 
+No 
+Confirmed 
+Henneguya spp. infestation 
+Endoparasite 
+No 
+Confirmed 
+Brooklynellosis 
+Ectoparasite 
+No 
+Confirmed 
+Cryptocaryonosis 
+Ectoparasite 
+No 
+Confirmed 
+Turbellaria spp. infestation 
+Ectoparasite 
+No 
+Confirmed 
+Leech infestation 
+Ectoparasite 
+No 
+Confirmed 
+Myxosporean infestation 
+Endoparasite 
+No 
+Confirmed 
+Blood fluke infestation 
+Endoparasite 
+No 
+Confirmed 
+Trypanosomiasis 
+Endoparasite 
+No 
+Confirmed 
+Streptococcosis 
+Bacteria 
+No 
+Confirmed 
+Aeromonas spp. infection 
+Bacteria 
+No 
+Confirmed 
+Flavobacterial infection (bacterial gill disease, 
+saddleback, fin rot) 
+Bacteria 
+No 
+Confirmed 
+Epitheliocystis 
+Bacteria 
+No 
+Confirmed 
+Edwardsiellosis 
+Bacteria 
+No 
+Confirmed 
+Vibriosis 
+Bacteria 
+No 
+Confirmed 
+Tenacibaculosis 
+Bacteria 
+No 
+Confirmed 
+EUS (red spot) 
+Fungus 
+No 
+Confirmed 
+Branchiomycosis 
+Fungus 
+No 
+Confirmed
+
+5 
+ 
+4 
+RESOURCES FOR DISEASE IDENTIFICATION AND MANAGEMENT 
+The Commonwealth Department of Agriculture maintains the National List of Reportable Diseases of 
+Aquatic Animals at www.agriculture.gov.au/animal/aquatic/reporting/reportable-diseases.  
+Most of these diseases are listed by the World Organisation for Animal Health (OIE), according to the 
+definitions laid out in the Aquatic Animal Health Code (www.oie.int/international-standard-
+setting/aquatic-code). The Australian Government reports quarterly to the OIE on the disease status 
+of Australia with reference to Diseases listed by the OIE in the Aquatic code. 
+Diagnostic methods are described for the OIE international list at www.oie.int/international-
+standard-setting/aquatic-manual. 
+To aid identification of important diseases, the Commonwealth Government has developed a field 
+guide, available at www.agriculture.gov.au/animal/aquatic/guidelines-and-
+resources/aquatic_animal_diseases_significant_to_australia_identification_field_guide. This is 
+available as a PDF download, or as a free app available from the App Store (Apple devices), Google 
+Play (Android devices) and Microsoft Store (Windows devices). The app should be downloaded onto 
+staff phones and farm computers. 
+If any of these diseases are detected or suspected on a barramundi enterprise, it is compulsory to 
+report the disease or suspicion to the appropriate government authority. Individual state or territory 
+legislation may require reporting of locally relevant diseases, which are additional to the National List 
+of Reportable Diseases of Aquatic Animals. 
+Advice on generic (and some specific) disease responses can be found in the AQUAVETPLAN manuals 
+available at www.agriculture.gov.au/animal/aquatic/aquavetplan and 
+www.agriculture.gov.au/animal/aquatic/aquavetplan/viral-encephalopathy-retinopathy.  
+Biosecurity plans should be developed with the aim of excluding these types of disease threats, with 
+the knowledge that emergence of new diseases is also likely to occur. 
+5 
+MAJOR ROUTES OF DISEASE TRANSMISSION 
+Figure 1 outlines the biosecurity risk levels of a farm and the major ways that disease can be 
+transmitted onto (entry-level), within (internal), and from (exit-level) barramundi farms: 
+• 
+entry-level transmitters – stock (for example, fingerlings, broodstock, wild barramundi, other 
+farm stock), intake water, feed, people (for example, staff and visitors), equipment and vehicles, 
+and other animals (for example, vermin, wild birds, other animals entering via the intake water 
+or returning escapees) 
+• 
+internal transmitters – stock, water, people, equipment, vehicles, and other animals 
+• 
+exit-level transmitters – stock (including dead stock, discarded product, escaped barramundi), 
+discharge water, people, equipment, vehicles, and other animals and wastes. 
+When high levels of infection come into close contact with susceptible hosts, it is likely that the 
+disease will become established and spread.
+
+6 
+ 
+ 
+Figure 1. Pathogen transmission pathways and different levels of biosecurity. Adapted from Ellard (2015).  
+6 
+WHERE BIOSECURITY MEASURES CAN BE APPLIED 
+The following industry-level biosecurity plan can be used as a basis for developing your individual 
+farm biosecurity plan for existing farms, and for new farms in the design phase. 
+Every farm is different and disease risks need to be managed accordingly, so it is important that you 
+develop a specific, documented and auditable biosecurity plan for your farm. The plan should be
+
+7 
+ 
+reviewed annually and updated as farm circumstances and disease risks change. This may involve 
+infrastructure changes to reach a higher standard of biosecurity (for example, filtration systems, 
+settlement ponds, recirculating aquaculture system [RAS] capacity, disinfection systems, materials 
+and surface designs). 
+This document will help you: 
+1. identify and assess biosecurity risks to your farm  
+2. develop procedures to manage biosecurity risks 
+3. manage and reassess these risks on an ongoing basis. 
+7 
+BIOSECURITY PLAN STRUCTURE 
+The plan for your farm needs to be structured so staff, external auditors and government staff can 
+read and understand the plan.  
+This chapter outlines the information that should be considered in your biosecurity plan. 
+7.1 
+Enterprise location 
+A map should be used to identify the major farm areas including, for example, production ponds and 
+sheds, feed shed, processing shed, roads, adjacent waterway names, water sources and any nearby 
+town. For sea-cage sites, the coordinates of the lease areas and locations of cage infrastructure on 
+the lease should be included. Nearby towns, cities, ports and water bodies should also be included 
+(see Figure 2).
+
+8 
+ 
+ 
+Figure 2. An example of a farm locality map 
+ 
+7.2 
+Production details 
+Outline the scale and scope of your enterprise, including: 
+• 
+proximity to other farms and/or local waterbodies (especially inlet and outlet channels) 
+• 
+type of effluent release, for example to land-based irrigation or release to a waterway 
+• 
+proximity to other high biosecurity-risk areas (for example location of site office relative to grow-
+out ponds, grow-out ponds relative to the hatchery, or public-access areas relative to staff areas) 
+• 
+location of hatcheries in relation to grow-out farm 
+• 
+type of enterprise (for example hatchery or grow-out enterprise, or both) 
+• 
+volume of inlet channel, individual grow-out ponds, settlement pond and discharge channel 
+• 
+time it takes to fill and drain a pond 
+• 
+pumping capacity 
+• 
+estimate maximum farm biomass 
+• 
+broodfish origin (number, source location, date introduced to farm) and housing (for example 
+tanks on RAS or within pond) 
+• 
+annual production outputs (for example 100 tonnes of 0.6–0.8 kg plate-sized barramundi, or 
+2,100,000 fingerlings at 25 mm body length) 
+• 
+staff list and responsibilities (for example feed manager, health manager and health technician), 
+phone and email contacts; include veterinary advisers, government aquatic animal health 
+contacts, laboratory details and ABFA executive officer.
+
+9 
+ 
+Table 4. Example of contact details for internal and external farm contacts 
+Name 
+Position 
+Phone 
+Email 
+ 
+General manager 
+ 
+ 
+ 
+Farm veterinarian 
+ 
+ 
+ 
+Jurisdictional aquatic 
+biosecurity officer 
+ 
+ 
+ 
+State or territory 
+laboratory contact 
+ 
+ 
+ 
+ABFA executive officer 
+contact 
+ 
+ 
+ 
+Farm biosecurity 
+officer 
+ 
+ 
+ 
+Aquaculture 
+equipment supplier 
+ 
+ 
+ 
+Aquaculture feed 
+supplier 
+ 
+ 
+8 
+DETAILED INFRASTRUCTURE MAPS  
+Provide fine-scale detail of each functional area of the farm (for example hatchery, 
+nursery and grow-out) in terms of:  
+• 
+water source (including all inlet, outlet and isolation points), water treatments, water quality and 
+flow diagrams to and from production units  
+• 
+quarantine facilities  
+• 
+vehicle movement patterns (entry and exit) and restrictions (gates; specify if kept locked) 
+• 
+flow of stock, from entry to farm through to harvest and processing 
+• 
+location of biosecurity signage 
+• 
+allowed staff movements between areas of the farm (zoning), including movement of on-farm 
+domestic pets 
+• 
+fencing restricting access and potential points of unauthorised access or entry 
+• 
+biosecurity barriers (visitor entry point, visitor office, boot-change station, foot baths, hand-wash 
+stations, gates [specify if kept locked] and restricted areas) 
+• 
+feed unloading and storage 
+• 
+machinery storage 
+• 
+marinas and boat ramps 
+• 
+neighbouring farms 
+• 
+escape-prevention measures (for example screens on pond outlets) 
+• 
+vehicle spray station, net wash-down, disinfection bays
+
+10 
+ 
+• 
+emergency muster point 
+• 
+dead stock disposal location and type (for example burial, silage or freezer). 
+It is suggested that you use a separate map for each layer of detail. 
+A biosecurity sign example is shown in Appendix 1. 
+ 
+Auditable risk-management measures (the numbered ‘R’-statements) that you may have 
+implemented on your farm, and which you should add to your plan, include: 
+R.1 – The farm has boundary markers at all four corners of the lease, with navigation lighting. 
+R.2 – The production area of the farm is behind a lockable gate, with separate isolated visitor parking 
+sign-posted with company contact details. 
+R.3 – The hatchery has secure perimeter fencing with security cameras (optional) at entry and exit 
+points. 
+8.1 Site biosecurity zoning 
+Overlay biosecurity zones on a map of the facility. These zones will need to be described in 
+detail within your plan and supported with SOPs. 
+The biosecurity zones will represent areas that are both physically and functionally separate, so you 
+should be able to define the location and type of biosecurity measure(s) separating the areas. 
+Separate zones should have infrastructure and/or sanitary protocols to prevent transfer of disease 
+from one area to the other with movement of water, people, stock and equipment. These areas can 
+be assigned the classifications listed in Table 5.
+
+11 
+ 
+Table 5. A summary of farm biosecurity zones classifications 
+Biosecurity zone 
+Access requirements 
+High (most biosecure) 
+Highly restricted. 
+Authorised personnel only. Entry must not occur after 
+visiting other areas of the farm.  
+For example: 
+• 
+fully enclosed broodstock room on RAS with 
+sanitised water source 
+• 
+hatching room 
+• 
+algae room 
+• 
+larval rearing room. 
+Moderate (moderately biosecure) 
+Limited access. 
+Authorised personnel only. Can move from the highest 
+security zone into this area, but not back again. 
+Accompanied visitor access only after biosecurity entry 
+assessment and approval. 
+For example: 
+• 
+nursery. 
+Low (low-level biosecurity) 
+No restricted access for staff. 
+Visitor access only after biosecurity entry assessment 
+and approval. 
+For example: 
+• 
+grow-out ponds 
+• 
+raceways 
+• 
+sea-cages. 
+ 
+Figure 3. Summary of farm biosecurity movements permitted and not permitted between biosecurity zones  
+Consider drafting auditable risk-management measures such as these examples: 
+R.4 – The farm is divided into biosecurity zones, each with specific requirements for access, traffic 
+direction, entry and exit procedures and equipment. 
+R.5 – Clear signage shows the biosecurity zone at the entry and exit points.  
+R.6 – Staff have training in the interpretation of the farm biosecurity zones.
+
+12 
+ 
+9 
+BIOSECURITY RISK ANALYSIS 
+This process helps identify the areas of the farm which need the greatest biosecurity investment to 
+achieve maximum protection from occurrences and effects of disease. 
+ 
+Figure 4. Four steps of conducting biosecurity risk analysis 
+9.1 
+Identify hazards 
+The identifiable hazards for a barramundi farm will vary with location and will be a combination of 
+both endemic disease agents and the exotic agents outlined in Section 2. Your farm veterinarian may 
+be able to assist you with identifying your farm’s hazards. 
+Table 6 below lists some pathogens which may be applicable to a freshwater site and an estuarine or 
+marine site (note lists below are not exhaustive and farms should add locally relevant diseases): 
+Table 6. Potential freshwater, estuarine and marine infectious disease hazards 
+Freshwater disease  
+Pathogen type 
+Estuarine or marine disease 
+Pathogen type 
+Chilodonellosis 
+Ectoparasite 
+Brooklynellosis 
+Ectoparasite 
+Ichythyobodosis 
+Ectoparasite 
+Cryptocaryonosis 
+Ectoparasite 
+Tetrahymenosis 
+Ectoparasite 
+Amylodiniosis 
+Ectoparasite 
+Diplectanid gill fluke 
+infestation 
+Ectoparasite 
+Turbellaria spp. infestation 
+Ectoparasite 
+Coccidiosis 
+Endoparasite 
+Leech infestation 
+Ectoparasite 
+Camallanid spp. infestation 
+Endoparasite 
+Myxosporean infestation 
+Endoparasite 
+Cryptosporidiosis 
+Endoparasite 
+Blood fluke infestation 
+Endoparasite 
+Henneguya sp. infestation 
+Endoparasite 
+Trypanosomiasis 
+Endoparasite 
+Streptococcosis 
+Bacteria 
+Streptococcosis 
+Bacteria 
+Aeromonas spp. Infection 
+Bacteria 
+Vibriosis 
+Bacteria 
+Flavobacterial infection 
+(bacterial gill disease, 
+saddleback, fin rot) 
+Bacteria 
+Tenacibaculosis 
+Bacteria 
+Epitheliocystis 
+Bacteria 
+Epitheliocystis 
+Bacteria 
+Pot belly disease 
+Bacteria 
+Pot belly disease 
+Bacteria 
+Edwardsiellosis 
+Bacteria 
+Edwardsiellosis 
+Bacteria 
+EUS (red spot) 
+Fungus 
+Photobacteriosis 
+Bacteria 
+Branchiomycosis 
+Fungus 
+EUS (red spot) 
+Fungus 
+Infection with exotic viruses 
+(ISKNV, ECV, IHNV, SVC, VHS, 
+RSBIV, GI virus*) 
+Virus 
+Viral encephalopathy and 
+retinopathy (nodavirus) 
+Virus 
+Unidentified pathogen 
+Any of the above 
+Infection with exotic viruses 
+(ISKNV, ECV, IHNV, SVC, 
+VHS, RSBIV, GI virus) 
+Virus 
+ 
+ 
+Unidentified pathogen 
+Any of above 
+* Refer to Table 1 for full names of these diseases.
+
+13 
+ 
+The process of identifying which of the above hazards apply to your enterprise triggers the next 
+phase of the risk analysis: ‘risk assessment’. Identified hazards are those which have caused adverse 
+impacts on fish health and production in the past. Diseases which are recognised as threats to fish 
+health and production, but have not occurred on the farm, should also be assessed during the risk-
+analysis phase. 
+9.2 
+Risk assessment of hazards 
+To assign a level of risk to a hazard, you need to determine two factors – the likelihood of the hazard 
+occurring on your farm and the consequences of it occurring on your farm. Your farm veterinarian 
+may be able to assist with this section.  
+Likelihood 
+The likelihood of a disease occurring can be estimated by considering the transmission pathways 
+necessary for entry of a disease, and for exposure of your fish to the disease. For example, the 
+likelihood of entry and exposure might be ‘certain’ for a pathogen that occurs in untreated intake 
+water such as Cryptocaryon sp. or Chilodonella spp.  
+Similarly, pathways involving infected live fish have the highest likelihood of entry and exposure 
+because they may carry large quantities of viable pathogen.  
+The likelihood rating will vary, depending on: 
+• 
+the properties of the disease  
+• 
+the occurrence of the disease outside the farm or in nearby farms 
+• 
+possible pathways for the disease onto the farm.  
+Likelihood ratings and descriptors are shown in Table 7. 
+Table 7. Assessment of disease likelihood 
+Rating 
+Description 
+1 Remote 
+Disease never heard of in this situation, but not impossible (less 
+than once in 20 years) 
+2 Unlikely 
+Disease may occur in this situation, but only in exceptional 
+circumstances (more than once in 20 years) 
+3 Possible 
+Clear evidence to suggest the disease is possible in this situation 
+(more than once in 3 years) 
+4 Likely 
+Disease is likely, but not certain, to occur in this situation (more 
+than once in 2 years [> 50%]) 
+5 Certain 
+Disease is certain to occur in this situation (every year)
+
+14 
+ 
+Consequences 
+The consequences of a disease occurring can be estimated by considering the impacts of a disease on 
+the productivity of your farm. The consequences could include multiple aspects of production (for 
+example, increased mortality; reduced growth, food conversion, product quality or market access; 
+and increased treatment costs).  
+Consequence ratings and descriptors are shown in Table 8. 
+Table 8. Assessment of disease consequences 
+Rating 
+Description 
+1 Insignificant 
+Impact not detectable or minimal 
+2 Minor 
+Impact on farm productivity limited to some production units or 
+short-term only 
+3 Moderate 
+Widespread impact on farm productivity due to increased 
+mortality or decreased performance 
+4 Major 
+Considerable impact on farm production resulting in serious 
+supply constraints and financial impact 
+5 Catastrophic 
+Complete depopulation of the farm and possibly barriers to 
+resumption of production 
+Risk estimation  
+The risk of a disease occurring is estimated as a product of likelihood and consequence (multiplying 
+the likelihood rating by the consequence rating), resulting in risk ratings of 1–25. Risks are highest 
+when both likelihood and consequence are high. However, the risk may be low even if the 
+consequence is ‘catastrophic’, as the likelihood may be ‘remote’ for that particular circumstance; 
+similarly, even if the likelihood is ‘certain’, the consequence may be ‘insignificant’. Risk ratings can be 
+determined by applying estimates of likelihood (in which 1 is remote and 5 is certain) and 
+consequence (in which 1 is insignificant and 5 is catastrophic) to the risk matrix shown in Table 9.
+
+15 
+ 
+Table 9. Risk-estimation matrix (colour code detailed in Table 10) 
+ 
+ 
+The management responses needed are arrived at from the risk estimation in Table 9 and then the 
+risk assessment shown in Table 10.  
+Table 10. Risk levels and management responses 
+Risk level 
+ 
+Explanation and management response 
+1–2 Negligible 
+Acceptable level of risk. No immediate action required. 
+3–5 Low 
+Acceptable level of risk. Ongoing monitoring may be required. 
+6–10 Medium 
+Unacceptable level of risk. Active management is required to reduce the 
+level of risk. 
+12–15 High 
+Unacceptable level of risk. Intervention is required to mitigate the level of 
+risk. 
+16–25 Extreme 
+Unacceptable level of risk. Urgent intervention is required to mitigate the 
+level of risk. 
+9.3 
+Document the risk-analysis process 
+It is important to record the entire process of risk analysis, so the farm manager or an auditor can 
+identify which hazards have been considered, what risks have been apportioned and which 
+management measures have been selected.
+
+16 
+ 
+When a management measure is selected, such as pre-purchase fingerling health examinations, an 
+SOP should be written to detail the exact functioning of the measure. In the example in Table 11, it 
+might include details of how many fish are to be examined and which diagnostic techniques are to be 
+applied. The farm biosecurity plan then only needs to refer to the relevant SOP. The farm could 
+create its own coding system for each SOP, for example SOP-1 and SOP-2. It is a good idea to have a 
+checklist accompanying each SOP with a date stamp and signature box, to document use of the SOP, 
+enable traceability and assign responsibility to a specific staff member. 
+Table 11. Example of risk-analysis recording 
+Hazard 
+Likelihood 
+Consequence 
+Unmodified 
+risk rating 
+Management response and 
+control measures 
+Modified risk 
+rating 
+Entry and 
+spread of 
+‘disease X’ 
+onto and 
+within the 
+farm. 
+Possible. 
+The disease is 
+endemic and 
+has occurred 
+in source 
+hatcheries 
+previously. 
+Moderate. 
+Destruction of 
+affected stock 
+would be 
+required due 
+to effects on 
+productivity. 
+9 (medium). Mitigation measures are 
+required to reduce risk. 
+Likelihood reduced by sourcing 
+stock only from hatcheries with 
+a health-accreditation scheme. 
+Consequences reduced by 
+ensuring all new stock are kept 
+separate from other stock 
+during the susceptible juvenile 
+phase. 
+Control measures 
+reduce likelihood to 
+‘unlikely’ and 
+consequence to 
+‘minor’. 
+Measures reduce 
+risk rating to 4 (low).  
+Modified risk is 
+acceptable.  
+9.4 
+Mitigation measures to reduce disease transmission 
+This section outlines the common risk-management measures, such as infrastructure, signage and 
+training, which can be used to reduce the risk of disease transmission through the pathways outlined 
+in Section 5. 
+Diseases which score a ‘medium’, ‘high’ or ‘extreme’ risk rating should be prioritised for 
+management action to mitigate (reduce) the risk. Risks which were identified as ‘low’ can remain the 
+subject of monitoring and annual review within the plan.  
+The management measures which can be applied to mitigate risks are those which will be followed 
+daily as part of routine farm operations. This section is broken up into management measures 
+according to the type of enterprise, which can be: 
+• 
+hatchery 
+• 
+grow-out: 
+– indoor RAS  
+– outdoor ponds or raceways 
+– sea cages. 
+You only need to consider the measures outlined below which are relevant to the type of enterprise 
+you are operating. Note that there may be differences between state and territory legislation and 
+restrictions on operating aquaculture enterprises. For example, in New South Wales, imported 
+equipment that is second-hand is not permitted.  
+It should be remembered that for many, if not all, infectious diseases, a range of stressors can 
+precipitate or exacerbate disease. Many of these stressors are well understood and can be part of 
+control strategies on farms. Examples include dissolved oxygen levels, ammonia levels, nutritional 
+factors, mechanical failure and sudden changes of environmental conditions.
+
+17 
+ 
+Management of hatcheries 
+This section is intended to cover all forms of land-based, indoor hatchery culture.  
+Table 12. Risk-management measures for hatcheries (to implement and document) 
+Risk activity 
+Risk-management measures 
+New 
+broodstock 
+entry 
+R.7 Ensure health status is equal to, or higher, than the existing broodstock population, 
+through: targeted testing for relevant pathogens (for example nodavirus); selection from 
+populations that have not had disease outbreaks; and appropriate import or 
+translocation permits in place for stock movement. 
+R.8 Broodstock are kept in a quarantine system on arrival, which is isolated from other 
+onsite fish populations and has biosecurity barriers at entry and exit to mitigate risks 
+associated with aerosol, water, staff and equipment. Tank identity is to be recorded.  
+R.9 Broodstock are provided with prophylactic treatments for control of ectoparasite and 
+endoparasite risks under guidance of the farm veterinarian. 
+R.10 Any sick or freshly dead broodstock are investigated, with full field and laboratory 
+diagnostic testing to attempt to identify cause of disease, with guidance of farm 
+veterinarian and government authority. Immediate reporting takes place to appropriate 
+government authority when required. 
+R.11 Broodstock deaths are recorded and dead stock removed daily and disposed of by a 
+method approved by the relevant authority, which ensures no risk of release of 
+pathogens from the dead stock into waterways, or access for scavenger birds or animals 
+(for example pigs, foxes or water rats) that could spread a disease. 
+R.12 Staff receive annual training in identification of signs of disease and the steps 
+involved in reporting, recording and investigating disease events. 
+R.13 Water quality (dissolved oxygen [DO], temperature, pH, salinity, total ammonia 
+nitrogen [TAN], nitrite and nitrate) is monitored to maintain a low-stress environment. 
+Tank hygiene is maintained daily with vacuuming and siphoning as required. Water-
+quality values are reported in a tank diary or other appropriate recording system. 
+R.14 Fish are visually examined daily. Unusual observations including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, or skin 
+or fin lesions are reported in a tank diary or other recording system and, when 
+appropriate, trigger investigation as detailed in R.10. 
+R.15 Cats and dogs are excluded from all high and moderate biosecurity zones at all 
+times. Vermin are controlled as necessary. 
+R.16 All doors remain closed within the facility at all times to avoid aerosol movement 
+R.17 All effluent from quarantine room is disinfected before discharge, and there is no 
+open drainage through other areas of hatchery before disinfection. 
+R.18 Eggs are disinfected with a permitted or approved sanitiser. 
+Broodstock 
+feed entry 
+R.19 Only sanitised feeds (extruded pellets or irradiated raw feed products [fish or 
+squid]) are fed to broodstock. When untreated live or frozen raw feed products must be 
+used for broodstock, feed is sourced from certified target-pathogen-free suppliers, or 
+diagnostic screening is performed before feed entry onto farm. Details of batch, run and 
+date of manufacture for all feeds are to be recorded. 
+Entry of algae, 
+rotifers and 
+Artemia spp. 
+R.20 Source algae from a biosecure supplier (for example Australian National Algae 
+Supply Service) or a supplier of irradiated algae. When possible, source algae from 
+specific-pathogen-free (SPF) suppliers.  
+R.21 Live feed cultures (algae, rotifers and Artemia spp.) are housed in separate and 
+biosecure rooms with dedicated equipment and prevention of aerosol or water 
+transmission to other hatchery zones. When possible, live feed culture is performed 
+through batch culture with sanitisation methods in place. 
+R.22 All effluent from the live feed rooms is disinfected before discharge, and there is no 
+open drainage through other areas of hatchery before disinfection.
+
+18 
+ 
+Risk activity 
+Risk-management measures 
+Staff entry 
+R.23 Only designated staff may enter the hatchery and quarantine areas. 
+R.24 Staff must come directly to the hatchery. Staff must never enter the hatchery via 
+grow-out areas, other farms, seafood processors or after recreational or commercial 
+fishing activities. All staff are required to wear freshly laundered clothes daily and change 
+into work footwear before hatchery entry. 
+R.25 All staff must pass through the footbath and hand sanitation station on entry and 
+exit. 
+R.26 Staff must follow the work flow for the hatchery, and only move in the direction of 
+highest to lowest biosecurity. This means only moving from a higher biosecurity zone (for 
+example, broodstock, incubation, hatching and algae areas) to a lower biosecurity zone 
+or more contaminated area (for example, rotifer, Artemia and larval-rearing areas), and 
+never the reverse. If this one-way direction of movement is not possible, then the 
+decontamination procedure must be followed. 
+Visitor entry 
+R.27 All visitors, contractors and researchers complete the visitor log and biosecurity 
+questionnaire and sign a declaration before being considered for access. Visitors who are 
+assessed as high risk are not allowed entry. 
+R.28 Access to hatchery and quarantine zones is avoided when possible. 
+R.29 Visitors granted access are required to undergo a hatchery biosecurity induction, at 
+which entry requirements are explained. 
+R.30 Visitors are to follow routine disinfection entry protocol, including changing into 
+hatchery-supplied boots, using the footbath and sanitising hands. Visitors must follow 
+the work flow for the hatchery, and only move in the direction of highest to lowest 
+biosecurity. This means only moving from a higher biosecurity zone (for example, 
+broodstock, incubation, hatching and algae areas) to a lower biosecurity zone or more 
+contaminated area (for example, rotifer, Artemia and larval-rearing areas), and never the 
+reverse. If this one-way direction of movement is not possible, then the decontamination 
+procedure must be followed. 
+R.31 Visitors are accompanied by a staff member at all times. Contractors can be 
+inducted and may then be able to work unaccompanied. 
+R.32 Contractor maintenance work should be scheduled in between hatchery runs, when 
+possible, to allow an additional disinfection step of the system to take place. When 
+contractor access is required during runs, sanitary entry protocols should be followed. 
+R.33 Visitor vehicles must be parked in a dedicated parking area, preferably remote from 
+hatchery entry. 
+Equipment 
+R.34 Where zones separate areas of the hatchery, dedicated equipment should be 
+labelled and maintained for exclusive use in each zone, so there is no requirement to 
+move any equipment between the hatchery zones. 
+R.35 Equipment that has been in contact with fish or culture water external to the 
+hatchery should not be brought into the hatchery. If there is no alternative, a thorough 
+cleaning and disinfection protocol must be followed before entry. 
+R.36 Equipment is always decontaminated after use and between runs. 
+R.37 Maintain compound microscope, dissection equipment and materials for 
+preservation of tissues for histopathology and molecular testing. Make SOPs for 
+equipment and procedures available for staff use. 
+R.38 Hatchery has dedicated delivery and loading area, separate to the production area. 
+Water intake 
+and flows 
+R.39 If using a surface water source, use microfiltration and then completely disinfect. 
+Options include ultraviolet (UV) and ozone (or alternative disinfection method). Efficacy 
+of disinfection should be checked and logged. Options include bacterial total plate 
+counts, oxidation–reduction potential (ORP) meter readings, or other suitable methods. 
+R.40 Filtration and sanitation infrastructure are regularly serviced on a maintenance 
+schedule to ensure consistency of performance.
+
+19 
+ 
+Risk activity 
+Risk-management measures 
+R.41 Water intake and holding facilities should be isolated from effluent flows and their 
+potential aerosols. 
+R.42 Effluent water should preferably be piped away to wastewater effluent to avoid 
+contamination of walkways through the hatchery. 
+R.43 If more than one run is being performed in the hatchery at the same time, it is 
+preferable to rear each run in separate rooms, with separate water supplies and separate 
+equipment and staff. 
+R.44 All culture areas are always dried out and sanitised in between each production run. 
+R.45 Consider running all effluent to a holding pond to permit batch decontamination 
+before release to the environment. 
+Larval and 
+fingerling 
+culture 
+R.46 Observe stock daily. Record any abnormal observations, including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, skin 
+and fin lesions. Report abnormal observations in a tank diary or other recording system 
+and, when appropriate, trigger investigation as detailed in R.10 above. 
+R.47 Remove, quantify and record stock deaths daily. Dispose of dead stock and 
+biological waste through a method approved by the relevant authority. The method 
+should ensure no risk of release of pathogens from the dead stock into waterways, or 
+access for scavenger birds or animals (for example, cats and mice) that could spread a 
+disease.  
+R.48 Stocking numbers and survival are quantified with each hatchery run, with 
+broodstock origin and tank details and movements recorded, including all pack-out 
+destinations with their contact details. 
+R.49 Water quality (DO, temperature, pH, salinity, TAN, nitrite and nitrate) is monitored 
+to maintain a low-stress environment. Tank hygiene is maintained daily with vacuuming 
+and siphoning as required. Report water-quality values in a tank diary or other 
+appropriate recording system. 
+R.50 All discharge pipes have screens installed to prevent larvae and fingerlings from 
+escaping. 
+R.51 Remove, quantify and record stock deaths daily. Disinfect equipment between 
+tanks. 
+Management of grow-out systems  
+Indoor recirculating aquaculture systems  
+Indoor RASs provide complete exclusion from interactions with birds and other wildlife. Such grow-
+out systems should also be completely controlled for aerosol movements. 
+Table 13. Risk-management measures for indoor recirculating aquaculture systems (to implement and 
+document) 
+Risk activity 
+Risk-management measures  
+New 
+fingerling 
+entry 
+R.52 Ideally, purchase from an SPF-certified supplier. When SPF supplies are unavailable, 
+ensure health status is equal to, or higher than, the existing grow-out fish population 
+through veterinary health certification of seedstock population including: assessment of 
+survival in hatchery run; signs of disease in population; review of feed intake; general 
+diagnostic screening (histology and microscopic examination of fresh gill biopsy and skin 
+mucus); and other specific screening methods to exclude diseases and pathogens such as 
+streptococcosis, edwardsiellosis and megalocytiviruses. Ensure appropriate import or 
+translocation permits are in place for stock movement.  
+R.53 Ideally, hold new fingerlings in an isolated quarantine system for a minimum of four 
+weeks to observe for any signs of disease emergence. Count stock and record destination 
+tank in stock records.
+
+20 
+ 
+Risk activity 
+Risk-management measures  
+R.54 Take a subsample of 10–20 fingerlings and archive in 10% formalin; label with date 
+and hatchery source. Retain an equivalent number either frozen or in 70% ethanol or 
+‘RNAlater’ (Thermo Fisher Scientific) suitable for molecular diagnostics should the need 
+arise. 
+R.55 Fish are visually examined daily. Unusual observations including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, skin and 
+fin lesions are reported in a tank diary or other recording system. When appropriate, 
+trigger an investigation, for example, if any sick or freshly dead fingerlings are found that 
+are beyond the number anticipated from cannibalism (for example, > 0.1% of 
+population/day, for two consecutive days). This event must be investigated with full field 
+and laboratory diagnostic testing to attempt to identify the cause of disease with guidance 
+of the farm veterinarian. Immediate reporting should take place to the appropriate 
+government authority. 
+R.56 Remove dead fingerlings and record deaths daily. Dispose of by a method approved 
+by the relevant authority, which ensures no risk of release of pathogens from the dead 
+stock into waterways or farmed fish, and allows no access for scavenger birds or animals 
+(for example, pigs, foxes or water rats) that could spread a disease. 
+R.57 Staff receive annual training in identification of signs of disease and the steps involved 
+in reporting, recording and investigating disease events. 
+R.58 Water quality (DO, temperature, pH, salinity, TAN, nitrite, nitrate, alkalinity and 
+carbon dioxide) is monitored to maintain a low-stress environment. Tank hygiene is 
+maintained daily with vacuuming and siphoning as required. Report water-quality values in 
+a tank diary or other appropriate recording system.  
+R.59 Manage stocking densities to avoid excess stress and deterioration of water quality 
+within the tank. 
+R.60 All doors remain closed within the facility at all times to avoid aerosol movement. 
+Fish grow-
+out 
+R.61 Record all stock-management activities such as treatments, grading and harvest, so 
+stock can be traced back to their origin or source. 
+R.62 Fish are visually examined daily. Unusual observations including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, skin and 
+fin lesions are reported in a tank diary or other recording system. When appropriate, 
+trigger an investigation, for example, if any sick or freshly dead fish are found that are 
+beyond the number anticipated from cannibalism. This event must be investigated with full 
+field and laboratory diagnostic testing to attempt to identify the cause of disease with 
+guidance of the farm veterinarian. Immediate reporting should take place to the 
+appropriate government authority. 
+R.63 Water quality (DO, temperature, pH, salinity, TAN, nitrite, nitrate, alkalinity and 
+carbon dioxide) is monitored to maintain a low-stress environment. Tank hygiene is 
+maintained daily with vacuuming and siphoning as required. Report water-quality values in 
+a tank diary or other appropriate recording system.  
+R.64 Remove and record dead stock daily. Dispose of by a method approved by the 
+relevant authority, which ensures no risk of release of pathogens from the dead stock into 
+waterways or farmed fish, and allows no access for scavenger birds or animals (for 
+example, pigs, foxes or water rats) that could spread a disease. 
+R.65 All discharge pipes have screens installed to prevent fish from escaping. 
+Fish feed 
+entry 
+R.66 Only sanitised feed (for example, extruded pellets) should be fed to fish. Batch, run, 
+date of manufacture, pellet size details are to be recorded so it is clear which fish received 
+which feed. 
+Staff entry 
+R.67 New staff must receive biosecurity induction and sign a biosecurity declaration. All 
+staff must read and know the location of SOPs for operating within the biosecurity plan of 
+the farm.
+
+21 
+ 
+Risk activity 
+Risk-management measures  
+R.68 Staff must come directly to the grow-out area. Staff must never come via other farms, 
+seafood processors, or recreational or commercial fishing activities. All staff are required to 
+wear freshly laundered clothes daily and change into work footwear before entry. 
+R.69 All staff must pass through the footbath and hand sanitation station on entry and exit. 
+R.70 Staff must follow the decontamination protocols when moving between the highest 
+biosecurity zones (for example, quarantine) and lower biosecurity zones (for example, 
+grow-out).  
+Visitor entry 
+R.71 All visitors, contractors and researchers must complete the visitor log and biosecurity 
+questionnaire and sign a declaration before being considered for access. Visitors who are 
+assessed as high risk will not be allowed entry. 
+R.72 Visitors granted access will be required to undergo a biosecurity induction, when 
+entry requirements are explained. 
+R.73 Visitors are to follow the routine disinfection entry protocol, including changing into 
+farm-supplied boots and using the footbath and hand-sanitiser equipment. 
+R.74 Visitors must be accompanied by a staff member at all times. Contractors can be 
+inducted and may then be able to work unaccompanied. 
+R.75 Contractors must follow the same biosecure entry protocols, but can work without 
+staff oversight after biosecurity induction. Contractor maintenance work should be 
+scheduled in between hatchery runs, to allow an additional disinfection step of the system 
+to take place. 
+R.76 Visitor vehicles are to be parked in a dedicated parking area, preferably remote to the 
+loading area. 
+Equipment 
+R.77 Where zones separate areas of the grow-out (for example, grow-out nursery area 
+tanks and grow-out tanks), dedicated equipment should be labelled and maintained for use 
+exclusively in each zone, so there is no requirement to move any equipment between 
+zones. 
+R.78 Equipment that has been in contact with fish or culture water external to the farm 
+(including contractor equipment or plant) should not be brought into the farm. If no 
+alternative exists, then a thorough cleaning and disinfection protocol must be followed 
+before entry. 
+R.79 Decontamination of equipment must take place after use and always between tanks. 
+R.80 The farm has dedicated delivery, loading and pack-out areas, separate to the 
+production area, which can be disinfected (for example, a concrete slab) to avoid fish 
+transporters entering the production air space or shed. 
+R.81 A compound microscope, slides, cover slips, dissection equipment, tissue 
+preservatives and pots, and laboratory specimen submission forms are to be kept 
+available. 
+Water intake 
+and flows 
+R.82 If using surface water, then microfiltration, ozonation and/or UV (or alternative 
+disinfection method) are to be used to achieve complete disinfection of source water. 
+Monitoring is to be used to demonstrate that the disinfection process is working (for 
+example, weekly bacterial total plate counts and ORP meter readings). 
+R.83 Filtration and sanitation infrastructure is to be regularly serviced on a maintenance 
+schedule, to ensure consistency of performance.  
+R.84 Water intake and holding facilities should be isolated from effluent flows and their 
+potential aerosols. 
+R.85 Effluent water should preferably be piped away to wastewater to avoid 
+contamination of walkways through the farm. Either irrigate effluent water onto a paddock 
+or run it into an evaporation pond which is fenced and netted to exclude vermin and bird 
+entry, or run it to the sewer (where permitted).  
+R.86 Record any changes to tank flows or infrastructure breakdowns.
+
+22 
+ 
+Outdoor ponds and raceways 
+This section is intended to cover all forms of land-based outdoor grow-out. Not all facilities will 
+discharge effluent flows to the environment, but both types are included below. These measures 
+cover freshwater, estuarine and marine water sources. 
+Table 14. Risk-management measures for outdoor ponds and raceways (to implement and document) 
+Risk activity 
+Risk-management measures  
+New 
+fingerling 
+entry 
+R.87 Ideally, purchase from an SPF-certified supplier. When SPF supplies are unavailable, 
+ensure health status is equal to, or higher than, the existing grow-out fish population 
+through veterinary health certification of seedstock population, including: assessment of 
+survival in hatchery run; signs of disease in population; review of feed intake; general 
+diagnostic screening (histology and microscopic examination of fresh gill biopsy and skin 
+mucus); and other specific screening to exclude diseases and pathogens such as 
+streptococcosis, edwardsiellosis and megalocytiviruses. Ensure appropriate import and 
+translocation permits are in place for stock movement. 
+R.88 Keep fingerlings in an isolated tank quarantine system on arrival (mandatory). The 
+quarantine tank must be isolated from other fish populations on site and with biosecurity 
+barriers on entry and exit for all aerosol, water, staff and equipment. Fingerlings should be 
+kept in this system for a minimum of four weeks to observe for any signs of disease 
+emergence. Count stock and record destination tank in stock records. Use of an all-in, all-
+out system is ideal. This allows shutdown, disinfection and dry-out in between batches. 
+R.89 When a quarantine system is unavailable, stock fingerlings into a fish-free pond which 
+has been cleaned using a thorough clean-out protocol, including draining, drying, removal 
+of excess organic matter, and liming when required. Keep new fingerling batches separate. 
+Stocking into enclosed cages, ponds and areas avoids bird predation and associated 
+biosecurity risks.  
+R.90 Take a subsample of 10–20 fingerlings and archive in 10% formalin, label with date 
+and hatchery source. Also retain a similar number of fish either frozen, in 70% ethanol or in 
+‘RNAlater’ (Thermo Fisher Scientific) so they are suitable for molecular test analysis if 
+required. 
+R.91 While fingerlings are in quarantine or within the fingerling pond, examine them at 
+least weekly with microscopy for ectoparasites, and provide treatments to control 
+ectoparasite risks under guidance of the farm veterinarian. 
+R.92 Fish are visually examined daily. Unusual observations including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, skin and 
+fin lesions are reported in a tank or pond diary or other recording system. When 
+appropriate, trigger an investigation, for example, any sick or freshly dead fingerlings in 
+numbers that are beyond those anticipated from cannibalism. This event must be 
+investigated with full field and laboratory diagnostic testing to attempt to identify the 
+cause of disease with guidance of the farm veterinarian. Immediate reporting is to take 
+place to the appropriate government authority, as required. 
+R.93 Remove dead stock and record fingerling deaths daily. Dispose of by a method 
+approved by the relevant authority, which ensures no risk of release of pathogens from the 
+dead stock into waterways or farmed fish, and ensures no access for scavenger birds or 
+animals (for example, pigs, foxes, water rats) that could spread a disease. 
+R.94 Staff are to receive annual training in identification of signs of disease and the steps 
+involved in reporting, recording and investigating disease events. 
+R.95 Water quality (DO, temperature, pH, salinity, TAN and algal blooms) are monitored to 
+maintain a low-stress environment. Pond, raceway and cage hygiene is maintained with 
+cleaning, as required. Report water-quality values in a diary or other appropriate recording 
+system.  
+R.96 Cage hygiene is maintained with cleaning of mesh to ensure good water flow to fish.
+
+23 
+ 
+Risk activity 
+Risk-management measures  
+R.97 Manage stocking densities to avoid excess stress and deterioration of water quality 
+within the tank, cage or pond. 
+R.98 Vermin are controlled as necessary. 
+R.99 All effluent from quarantine tanks should be either contained within a separate 
+biosecure location and disinfected if a significant disease event occurs, or it can be 
+disinfected before discharge from the tank quarantine area.  
+Fish grow-
+out 
+R.100 Record all stock-management activities, such as treatments, grading and harvest, so 
+stock can be traced back to their origin or source. 
+R.101 Fish are visually examined daily. Unusual observations including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, skin and 
+fin lesions are reported in a pond or raceway diary or other recording system. When 
+appropriate, trigger an investigation, for example, of any sick or freshly dead fish in 
+numbers that are beyond those anticipated from cannibalism. These events must be 
+investigated with full field and laboratory diagnostic testing to attempt to identify the 
+cause of the disease, with guidance of the farm veterinarian. Immediate reporting is to 
+take place to the appropriate government authority as required. 
+R.102 Water quality (DO, temperature, pH, salinity, TAN and algal blooms) is monitored to 
+maintain a low-stress environment. Pond, raceway and cage hygiene is maintained with 
+cleaning as required. Report water-quality values in a diary or other appropriate recording 
+system. 
+R.103 Perform routine microscopic surveillance for ectoparasite infestations. 
+R.104 Remove dead stock and record deaths daily. Dispose of by a method approved by 
+the relevant authority, which ensures no risk of release of pathogens from the dead stock 
+into waterway or to farmed fish, and allows no access for scavenger birds or animals (for 
+example, pigs, foxes or water rats) that could spread a disease. 
+R.105 All discharge pipes have screens installed to prevent fish escaping. 
+R.106 Ensure pond or raceway discharge can be sealed off if a major disease outbreak 
+occurs, to prevent the risk of untreated water discharge. 
+Fish feed 
+entry 
+R.107 Only sanitised feed (for example, extruded pellets) should be fed to fish. Batch, run, 
+date of manufacture and pellet size details are to be recorded so it is clear which fish 
+received which feed. 
+Staff entry 
+R.108 New staff must receive biosecurity induction and sign a biosecurity declaration. Staff 
+must have read and know the location of SOPs for operating within the biosecurity plan of 
+the farm. 
+R.109 Staff must come directly to grow-out. Staff must never come via other farms, 
+seafood processors or recreational and commercial fishing activities. All staff are required 
+to wear freshly laundered clothes daily and change into work footwear before entry. 
+R.110 Staff must follow the decontamination protocols when moving between highest 
+biosecurity zones (for example, quarantine area) to lower biosecurity zones (for example, 
+grow-out area). 
+Visitor entry 
+R.111 All visitors, contractors and researchers must complete the visitor log and 
+biosecurity questionnaire and sign a declaration before being considered for access. 
+Visitors who are assessed as high risk will not be allowed entry. 
+R.112 Access to quarantine zones is to be avoided when possible. 
+R.113 Visitors granted access will be required to undergo a biosecurity induction, when 
+entry requirements are explained. 
+R.114 Visitors are to follow the routine disinfection entry protocol, including changing into 
+farm-supplied boots, and using the footbath and hand-sanitising equipment. 
+R.115 Visitors must be accompanied by a staff member at all times. 
+R.116 Contractors must follow the same biosecure entry protocols. 
+R.117 Visitor vehicles are to be parked in a dedicated parking area, preferably remote from 
+the loading area.
+
+24 
+ 
+Risk activity 
+Risk-management measures  
+Equipment 
+R.118 Where zones separate areas of the grow-out (for example, quarantine and grow-out 
+tanks), dedicated equipment should be labelled and maintained for use exclusively in each 
+zone, so there is no requirement to move any equipment between zones. 
+R.119 Equipment which has been in contact with fish or culture water external to the farm 
+(including contractor equipment or plant), should not be brought into the farm. If no 
+alternative exists, then a thorough cleaning and disinfection protocol must be followed 
+before entry. 
+R.120 Decontamination of equipment is to be performed after each use and is always 
+performed between production runs. Records of decontamination are to be kept. 
+R.121 A compound microscope, slides, cover slips, dissection equipment, tissue 
+preservatives and pots, and laboratory specimen submission forms are to be kept 
+available. 
+R.122 The farm is to have dedicated delivery, loading and pack-out areas, separate to the 
+production area, which can be disinfected (for example, a concrete slab), to avoid fish 
+transporters entering the production air space or shed. 
+Water intake 
+and flows 
+R.123 Avoid water intake if signs of fish disease appear in the source waterway. 
+R.124 Ideally, recirculate all waste effluent water through a constructed wetland to limit 
+exposure to open natural waterways.  
+R.125 Where constructed wetland reuse is not available, effluent should be passed into a 
+settlement pond before discharge. This settlement pond should have the capacity to be 
+closed off in an emergency disease event to halt all farm discharge, unless high rainfall 
+forces discharge.  
+R.126 Record any changes to tank, pond or raceway flows, and infrastructure breakdowns. 
+Culture of 
+fish species 
+other than 
+barramundi 
+R.127 Different fish species should be cultured in separate ponds, not more than one 
+species in the same pond. There could be common parasitic, bacterial or viral diseases to 
+both species, or unique diseases. A risk assessment is needed. An exception may be when 
+additional fish species (for example, cleaner wrasse) are being used for parasite control on 
+barramundi. 
+Sea cages  
+This section is intended to cover all forms of sea cage grow-out culture. 
+Table 15. Risk-management measures for sea cages (to implement and document) 
+Risk activity 
+Risk-management measures 
+New 
+fingerling 
+entry 
+R.128 Ideally, purchase from an SPF-certified supplier. When SPF stock are unavailable, 
+ensure health status is equal to, or higher than, the existing grow-out fish population 
+through veterinary health certification of the new fingerling population. This will include 
+assessment of survival in the hatchery run; signs of disease; review of feed intake; general 
+diagnostic screening (histology and microscopic examination of fresh gill biopsy and skin 
+mucus); and other specific screening to exclude diseases and pathogens such as 
+streptococcosis, edwardsiellosis, photobacteriosis and megalocytiviruses. Ensure 
+appropriate import or translocation permits are in place for stock movement. 
+R.129 When possible, stock fingerlings onto a lease which does not have other intakes co-
+habiting in close proximity. Count stock and record destination cage identity in stock 
+records.  
+R.130 Stock fingerlings into a new net, or a net which has been dried and disinfected. 
+R.131 Divers should undertake basic decontamination measures between newly stocked 
+cages and other farm populations, including disinfection of wetsuits, gloves and dead 
+stock-collection bags. The deck of the dive boat should be decontaminated when moving 
+between cages. 
+R.132 Collect and accurately record numbers of dead stock and their appearance, at least 
+twice per week. Dead stock should be transported in a leak-proof vessel to avoid any
+
+25 
+ 
+Risk activity 
+Risk-management measures 
+spillage of fluids from the dead fish in transit between cages. Dispose of them by a method 
+approved by the relevant authority which ensures no risk of release of pathogens from the 
+dead stock into waterways, and allows no access for scavenger birds or animals (for 
+example, pigs, foxes and water rats) that could spread a disease. 
+R.133 Take a subsample of each new intake of 10–20 fingerlings and archive them in 10% 
+formalin, labelled with the date and hatchery source. Also, retain similar numbers of fish 
+either frozen or in 70% ethanol or in ‘RNAlater’ (Thermo Fisher Scientific) so they are 
+available for molecular testing at a later date if required. 
+R.134 Examine fingerlings at least weekly by microscopy for ectoparasites, and provide 
+treatments to control ectoparasite risks under guidance of the farm veterinarian. 
+R.135 Cage-side fish are to be visually examined daily. Unusual observations including 
+colour change, inappetence, aberrant swimming, pop-eye, bloating, immobility, excess 
+buoyancy, skin and fin lesions are to be reported in a tank or pond diary or other recording 
+system. When appropriate, trigger an investigation, for example of any sick or freshly dead 
+fingerlings in numbers beyond those anticipated from cannibalism. These events must be 
+investigated with full field and laboratory diagnostic testing to attempt to identify the 
+cause of the disease with guidance of the farm veterinarian. Immediate reporting is to take 
+place to the appropriate government authority as required. 
+R.136 Staff receive annual training in identification of signs of disease and the steps 
+involved in reporting, recording and investigating disease events. 
+R.137 Water quality (DO, temperature, pH, salinity and algal blooms) is monitored to 
+maintain a low-stress environment. Cage netting is maintained with routine cleaning. 
+Report water-quality values in a diary or other appropriate recording system. 
+R.138 Manage stocking densities to avoid excess stress and deterioration of water quality 
+within the cage. 
+R.139 Site leases are to be ~ 5 km apart and without direct hydrological current 
+connectivity. 
+R.140 Manage lease benthos to avoid excessive eutrophication.  
+Fish grow-
+out 
+R.141 Record all stock-management activities such as treatments, grading and harvest, so 
+stock can be traced back to their origin or source. 
+R.142 Fish are to be visually examined daily. Unusual observations including colour change, 
+inappetence, aberrant swimming, pop-eye, bloating, immobility, excess buoyancy, skin and 
+fin lesions are to be reported in a pond or raceway diary or other recording system. When 
+appropriate, trigger an investigation, for example of any sick or freshly dead fish in 
+numbers beyond those anticipated from cannibalism. These events must be investigated 
+with full field and laboratory diagnostic testing to attempt to identify the cause of the 
+disease with guidance of the farm veterinarian. Immediate reporting is to take place to the 
+appropriate government authority. 
+R.143 Water quality (DO, temperature, pH, salinity and algal blooms) is monitored to 
+maintain a low-stress environment. Cage netting is maintained with routine cleaning. 
+Report water-quality values in a diary or other appropriate recording system. 
+R.144 Perform routine microscopic surveillance for ectoparasite infestations. 
+R.145 Record daily feed intake and observations on feeding vigour. 
+R.146 Remove and record dead stock daily. Dispose of dead stock by a method approved 
+by the relevant authority that ensures no risk of release of pathogens from the dead stock 
+into waterways, and allows no access for scavenger birds or animals (for example, pigs, 
+foxes and water rats) that could spread a disease. 
+R.147 Divers are to inspect nets at least twice weekly and close holes to minimise stock 
+escaping. 
+R.148 Manage lease benthos to avoid excessive eutrophication.  
+Fish feed 
+entry 
+R.149 Only sanitised feed (for example, extruded pellets) should be fed to fish. Batch, run, 
+date of manufacture and pellet size details are to be recorded so it is clear which fish 
+received which feed. 
+Staff entry 
+R.150 New staff must receive biosecurity induction and sign a biosecurity declaration. Staff 
+must read and know the location of SOPs for operating within the biosecurity plan of the 
+farm.
+
+26 
+ 
+Risk activity 
+Risk-management measures 
+R.151 Staff must come direct to grow-out. Staff must never come via other farms, seafood 
+processors, or recreational, commercial fishing and diving activities. All staff are required 
+to wear freshly laundered clothes daily and change into work footwear before entry to 
+farms or farm vessels.  
+R.152 Only designated and authorised staff may enter quarantine areas. 
+R.153 All staff must pass through the footbath and hand sanitation station on entry and 
+exit. 
+R.154 Staff must follow the decontamination protocols when moving between highest 
+biosecurity zones (for example, quarantine area) to lower biosecurity zones (for example, 
+grow-out area). 
+Visitor entry 
+R.155 All visitors, contractors and researchers must complete the visitor log and 
+biosecurity questionnaire and sign a biosecurity declaration before being considered for 
+access. Visitors who are assessed as high risk will not be allowed entry. 
+R.156 Access to quarantine zones is to be avoided when possible. 
+R.157 Visitors granted access will be required to undergo a biosecurity induction, when 
+entry requirements are explained. 
+R.158 Visitors are to follow routine disinfection entry protocol, including changing into 
+farm-supplied boots and using the footbath and hand-sanitising equipment. 
+R.159 Visitors must be accompanied by a staff member at all times. 
+R.160 Contractors must follow the same biosecure entry protocols. 
+Equipment 
+R.161 Where there is spatial separation of areas of the grow-out (for example, separate 
+leases), equipment should be decontaminated between leases.  
+R.162 Movements such as cage tows, work-boat movements from areas of known disease 
+status, or other aquaculture finfish enterprises, to areas of disease-free status should be 
+avoided. If boats or new cages must be moved, then a thorough disinfection protocol 
+should be put in place, including slipping the boat, removal of all ropes and replacement 
+with new ropes, and disinfection of the vessel.  
+R.163 Equipment which has been in contact with fish or culture water external to the farm 
+(including contractor equipment or plant), should not be brought into the farm. If no 
+alternative exists, then a thorough cleaning and disinfection protocol must be followed 
+before entry. 
+R.164 A compound microscope, slides, cover slips, dissection equipment, tissue 
+preservatives and pots, and laboratory specimen submission forms are to be kept 
+available. 
+R.165 The farm is to have dedicated delivery, loading and pack-out areas, separate from 
+the production area, which can be disinfected (for example, a concrete slab), to avoid fish 
+transporters entering the production air space or shed. 
+R.166 The farm should have equipment and contingency plans to manage high-mortality 
+events, such as large airlifts, and prearranged high-volume disposal sites. 
+Harvest 
+effluents 
+R.167 Harvest boats and well boats should not spill blood-water or holding water as they 
+sail past leases on the way to the marina or processing plant. 
+10 EMERGENCY PROCEDURES 
+Farms need to develop emergency procedures and additional biosecurity measures, beyond those 
+identified in Section 9, to respond to a suspected emergency animal disease (EAD) or serious 
+endemic disease occurring on the farm or in adjacent waterways. 
+R.168 – The farm has an emergency response plan. 
+ 
+An emergency response plan template is shown in Appendix 8.
+
+27 
+ 
+An emergency response plan (aligned with AQUAVETPLAN) should provide clear guidelines on: 
+• 
+events that trigger an EAD alert (for example, unusual or increased stock deaths or suspicious 
+clinical signs) 
+• 
+a list of key emergency contacts (industry and government) 
+• 
+notification pathways within the business 
+• 
+notification requirements for the responsible jurisdictional authority 
+• 
+emergency biosecurity measures, which might include an entire shutdown of farm access or 
+cessation of effluent release 
+• 
+selection, collection, storage and laboratory submission of samples 
+• 
+disposal and quarantine protocols 
+• 
+physical location of or web links to key documents such as AQUAVETPLAN 
+(www.agriculture.gov.au/animal/aquatic/aquavetplan), state response plans and site disease 
+response plans 
+• 
+farm response to events such as power failure, severe weather events (including cyclones) and 
+water treatment failure. 
+11 LEGISLATIVE OR JURISDICTIONAL REGULATORY REQUIREMENTS 
+Farm practices must comply with: 
+• 
+relevant agency and jurisdictional legislation (local, state or territory and Commonwealth) 
+• 
+farm licence or permit conditions. 
+R.7, R.51, R.86, R.128 – Risk-management measures that relate to ensuring appropriate import or 
+translocation permits are in place before stock movement. 
+R.10, R.54, R.91, R.135 – Risk-management measures that relate to reporting of unusual or 
+suspicions signs of disease. 
+R.169 – Only species on the farm licence are kept at the farm. 
+R.170 – All veterinary medicines used on fish comply with relevant state and Commonwealth 
+(Australian Pesticides and Veterinary Medicines Authority [APVMA]) legislation and have farm 
+veterinarian oversight and prescriptions when required. 
+12 DOCUMENT CONTROL AND REVISION RECORD 
+To demonstrate that your farm biosecurity plan is being maintained, it is necessary to review it. This 
+should occur at least once annually. This provides an opportunity to update the plan with newly 
+emerged risks, changes in farm management, changes to contact lists, audit recommendations and 
+infrastructure upgrades. Use of a ‘document control’ footer table (such as the one shown in Table 16) 
+on documents provides document control and an auditable revision record. 
+Table 16. Footer to use on biosecurity plan documents to maintain version control 
+Document control 
+Version 
+[for example ‘2.0’] 
+Approved by 
+[Name, position] 
+Status 
+[for example ‘Draft’] 
+Approved 
+[Date]
+
+28 
+ 
+Document control 
+Contact 
+[Name, position, 
+phone] 
+Next review due 
+[Date should not 
+exceed 12 months] 
+R.171 – Farm biosecurity plan is regularly reviewed with detail available on the document control 
+information and revision record 
+13 AUDIT RECORD 
+The farm biosecurity plan should be audited through both internal and external processes. It is 
+advisable for this to take place at least once annually. A record of all audits should be made, including 
+any deficits or recommendations made by the auditor, and the farm responses to these. 
+R.172 – Regular auditing of the farm biosecurity plan is to take place at least once annually. 
+14 TRAINING 
+All staff need to understand the purpose and operation of the farm’s biosecurity plan to prevent 
+disease entry and spread. All staff need to be trained to recognise signs of disease, to be alert to the 
+signs of emerging disease, and to be prepared to respond to disease detection.  
+To achieve this outcome, training exercises which detail general and specific staff roles should be 
+undertaken. These training and refresher exercises should take place at least annually for each staff 
+member.  
+One staff member should take on the role of biosecurity manager for the farm. 
+R.173 – The farm appoints a biosecurity manager who creates, maintains and reviews the farm 
+biosecurity plan, and associated documents and activities, including staff training. 
+R.174 – The farm biosecurity plan and all associated documents are readily accessible to staff at all 
+times. 
+R.175 – All staff are provided with a biosecurity induction to the farm biosecurity plan, including the 
+emergency response plan and SOPs. All staff are provided with ongoing biosecurity training relevant 
+to their role. The training is to be documented in a training log. 
+15 SUPPORTING DOCUMENTS 
+The farm biosecurity plan should include a list of the supporting documents, such as SOPs, checklists 
+and record-keeping templates. These documents outline the biosecurity practices of the farm and 
+maintain a record demonstrating their use by staff.  
+Examples of SOPs include: 
+• 
+biosecurity induction and training for new staff 
+• 
+visitor biosecurity questionnaire 
+• 
+contractor biosecurity induction 
+• 
+collection and disposal of dead stock 
+• 
+disinfection protocols for equipment and staff
+
+29 
+ 
+• 
+water quality testing 
+• 
+packing samples to send to laboratory 
+• 
+farm biosecurity zones 
+• 
+emergency response plan. 
+Examples of record-keeping templates include: 
+• 
+pre-employment biosecurity declaration 
+• 
+visitor biosecurity declaration 
+• 
+visitor log 
+• 
+farm entry conditions for visitors 
+• 
+staff training record 
+• 
+mortality and water quality records. 
+R.176 – Supporting documents to the farm biosecurity plan are clearly identifiable and readily 
+available. 
+ 
+ 
+Source:  Australian Barramundi Farmers Association
+
+30 
+ 
+APPENDICES 
+Appendix 1 
+Biosecurity sign 
+Corflute signs are available for purchase at www.farmbiosecurity.com.au/toolkit/buy-a-gate-sign 
+ 
+Figure A1. Example of a biosecurity sign
+
+31 
+ 
+Appendix 2 
+How to write a standard operating procedure 
+Table A1 shows a sample template that can be used to create a farm SOP. Highlighted in red are 
+some examples of information from an SOP. These should be stand-alone documents which allow 
+staff to perform SOP tasks proficiently by following the methods outlined in the document.  
+Table A1. Example of standard operating procedure template for a farm  
+[Insert SOP category title] FLUKE SAMPLING TECHNIQUES 
+[Insert SOP Title] Quantifying and categorising skin fluke (Benedenia seriolae) and gill fluke (Zeuxapta seriolae) 
+LOCATION DETAILS 
+[Insert farm name] 
+[Insert farm location]  
+STANDARD OPERATING PROCEDURE DETAILS 
+Task/activity (specify particular equipment and substances) 
+[Insert equipment details] 
+- Equipment: Dissecting microscope, 2 x hand counters, fine pointed forceps, 
+sharps container 
+- Consumables: Petri dishes, scalpel blade, 70% ethanol spray bottle, tissues, 
+disposable gloves, paper towel, disposable pipettes, pen, paper 
+Date prepared:  
+[Insert date] 
+ 
+ 
+ 
+PREPARED BY  
+Name  
+[Insert name]  
+Position  
+[Insert role] 
+Signature  
+[Insert signature]  
+STANDARD OPERATING PROCEDURE DETAILS
+
+32 
+ 
+Table A1. Example of standard operating procedure template for a farm (continued) 
+CAUTION 
+[List any cautions during procedure] 
+▪ 
+If samples have been stored in ethanol solution (70% v/v), treat as potentially flammable and avoid direct contact, 
+ingestion and inhalation. 
+Preparation – work area check: 
+[List any preparation steps required before commencing the task] 
+▪ 
+Ensure there is ready access to a sharps-disposal container. 
+▪ 
+Familiarise yourself with the location of the first-aid kit and fire extinguisher.  
+▪ 
+Familiarise yourself with set-up, maintenance and general use of a dissecting microscope. 
+Definitions: 
+[List any definitions required to understand the procedure steps] 
+▪ 
+Sample container: ethanol or seawater solution containing biological material obtained from fluke sampling at the sea 
+cage.  
+Personal attire and safety equipment: 
+[List any definitions required to be used during the procedure] 
+▪ 
+Standard personal protective equipment (PPE) – including a lab coat and gloves.  
+1. Preparation: 
+[List every step for preparation of equipment for the procedure] 
+1.1. Turn on and set up the dissecting microscope for viewing of parasitology specimens. 
+[describe every step] 
+1.4. Place paper towel on the bench with two disposable pipettes, a spare empty sample container, 70% ethanol (v/v) spray bottle 
+and fine pointed forceps. 
+2. Procedure: 
+[List every step required to be performed to complete the procedure proficiently purely by following these steps, including figures 
+and tables when required] 
+2.1 Open the labelled ‘test’ sample container, taking care not to disturb the contents. 
+[describe every step] 
+2.11 If wanting to store the sample, replace seawater with ethanol (70% v/v) or 10% neutral buffered formalin. 
+ 
+Table 1. Categorising adult and juvenile gill flukes (Z. seriolae) and skin flukes (B. seriolae).  
+ 
+Example of a data sheet used for recording adult (GF-A) and juvenile (GF-J) gill flukes (Z. seriolae), and adult (SF-A) and 
+juvenile (SF-J) skin flukes (B. seriolae). 
+On completion of work:  
+[List every step required to be performed following completion of the task] 
+▪ 
+Turn off dissecting microscope and pack away all equipment. 
+▪ 
+Clean and wipe the bench area with disinfectant. 
+Be aware of: 
+[List all cautions, warnings and potential issues that the staff performing the task should be aware of]  
+▪ 
+Ethanol evaporation creating fumes – ensure the room has adequate ventilation. 
+In case of an accident: 
+[List all steps to be performed and persons to contact if an accident, incident or ‘near miss’ occurs] 
+▪ 
+Inform supervisor or site first-aid officer. 
+Note: Review this standard operating procedure: 
+ 
+a) after any accident, incident or ‘near miss’ 
+b) when training new staff 
+c) if adopted by a new work group 
+d) if equipment, substances or processes change 
+e) within 5 years of date of issue. 
+Figure 1. Direction of 
+sample analysis (red 
+line) and lined scoring 
+of petri dish base 
+(black line).  
+Figure 2. Safe scalpel 
+blade disposal.
+
+33 
+ 
+Each SOP should contain the information shown in Table A2. 
+Table A2. Information to include in standard operating procedure 
+SOP section 
+Explanation 
+Title 
+Should be clear and unambiguous (for example, ‘Emergency procedures for high 
+mortality’). 
+Objective 
+Should be clear and unambiguous (for example, ‘Describe procedures to be 
+followed in the event of high unexplained mortality on the farm’). 
+Responsibilities 
+Describe who the SOP applies to and the roles they must perform. For example: 
+• 
+All staff: understand this procedure, be able to follow initial response actions, 
+report to biosecurity manager. 
+• 
+Biosecurity manager: coordinate initial response, report to farm manager, 
+liaise with farm veterinarian. 
+• 
+Farm manager: decide response actions, report incident to government 
+authorities. 
+Procedure 
+Clearly describe the steps that should be taken, as appropriate. For example: 
+1. Cease all farm activity, including feeding, cleaning and stock movement. 
+2. Check water-quality parameters, such as flow, DO and temperature. 
+3. Secure the area to prevent access by unnecessary personnel and to prevent 
+movement of equipment or stock. 
+4. Assess the extent of the situation, for example, how many tanks are affected, 
+the proportion of sick or dead animals, and any obvious signs of disease. 
+Precautions 
+Clearly describe any activities that must be avoided, for example: 
+• Staff must not visit other production areas of the farm. 
+• Equipment and animals must not leave the affected area. 
+Review date and 
+further information 
+SOP should include the date it came into effect, author contact information, 
+approving manager, date for review (within 12 months), any supporting 
+information, and cross-references to the relevant components of the farm 
+biosecurity plan.
+
+34 
+ 
+Appendix 3 
+Training record template 
+Table A3. Training record template example 
+Employee name 
+Employee position 
+Minimum training requirements: 
+Site biosecurity plan: 
+ 
+Emergency response plan: 
+ 
+Job-specific SOPs: 
+ 
+Other: 
+Date 
+Subject/topic/document 
+Trainer 
+I understand the training 
+delivered and have read 
+and understand the 
+associated documents 
+(Signature of employee) 
+Due date of 
+refresher 
+training
+
+35 
+ 
+Appendix 4 
+Pre-employment biosecurity declaration 
+I, …………………………………………………………………………. hereby agree to abide by the [INSERT FARM 
+NAME] biosecurity plan and will follow SOPs provided. 
+I understand the following applies at all times, and I will: 
+• 
+attend work in clean, laundered clothes 
+• 
+only enter the areas of the farm which I am approved to access 
+• 
+follow the one-directional flow of work from the low-risk (cleanest) areas of the farm to the 
+highest-risk areas 
+• 
+immediately report any biosecurity breaches to management 
+• 
+immediately report any suspicion of disease emergence to management. 
+I understand that I must not: 
+• 
+visit other aquaculture sites or seafood processes for 24 hours before entry to the farm, unless I 
+have had a full head-to-toe shower and have changed into clean, laundered clothes and 
+sanitised footwear 
+• 
+wear, or take boots which are worn in a specific production area outside the production area for 
+which they are designated  
+• 
+move any equipment which is designated to stay within a zone of the farm, outside of that zone. 
+Signature: ………………………………………………………………..  Date: ………………………………………..
+
+36 
+ 
+Appendix 5 
+Visitor biosecurity declaration 
+1. Are you entering production areas of the farm?  
+Yes □ (go to question 2)  
+ 
+No □ (go to signature section) 
+2. Have you been in contact with any aquaculture enterprises or the aquatic environment in the 
+previous 24 hours (including recreational fishing, seafood processors and water sports or 
+activities)? 
+Yes □ (go to question 3) 
+ 
+No □ (go to question 4) 
+3. Have you had a head-to-toe shower and changed into clean clothes and shoes? 
+Yes □ (go to signature section) 
+No □ (postpone non-essential visits, or manager to 
+ 
+ 
+ 
+ 
+ 
+assess risk before farm entry being permitted) 
+4. Are you bringing any equipment, fish feed, dive gear or fishing gear onto the farm? 
+Yes □ (go to question 5) 
+ 
+No □ (go to signature section) 
+5. Have equipment and other items been sanitised to eliminate fish pathogens? 
+Yes □ (go to signature section) 
+No □ (stop equipment entry onto farm, or manager 
+ 
+ 
+ 
+ 
+ 
+ 
+to assess risk before farm entry) 
+I, ………………………………………………………………………… agree to abide by the entry conditions for visitors  
+Signature:………………………………………………………………………………………..  Date: ……………………………………..
+
+37 
+ 
+Appendix 6 
+Visitor log template 
+Table A4. Visitor log template example 
+Date 
+Name 
+Company 
+Contact 
+number 
+Visitor 
+biosecurity 
+declaration 
+completed 
+Responsible 
+staff 
+member 
+Time 
+in 
+Time 
+out
+
+38 
+ 
+Appendix 7 
+Farm entry conditions for visitors 
+Entry to this farm is subject to the following conditions: 
+Entering Visitors MUST NOT have been in contact with any other aquaculture, seafood 
+processors, ornamental fish or the aquatic environment on the same day of entry. 
+Visitors MUST complete a visitor biosecurity declaration. 
+Visitors MUST complete the visitor’s log. 
+Visitors MUST wear farm boots provided. 
+Visitors MUST clean and sanitise hands and boots at wash stations before entering 
+production areas of the farm.
+
+39 
+ 
+Appendix 8 
+Self-audit checklist 
+Table A5. Self-audit checklist example 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+14 
+R.1 
+Does the farm have boundary markers at all four corners of the 
+lease with navigation lighting? (Only applicable to sea-cage 
+sites.) 
+ 
+ 
+ 
+ 
+14 
+22 
+25 
+27 
+R.2 
+R.33 
+R.76 
+R.117 
+ 
+Is the production area of the farm behind a lockable gate, with 
+separate isolated visitor parking sign-posted with company 
+contact details? 
+ 
+ 
+ 
+ 
+14 
+R.3 
+Is the hatchery securely perimeter-fenced with security 
+cameras (optional) on entry and exit points? 
+ 
+ 
+ 
+ 
+15 
+15 
+25 
+25 
+27 
+30 
+R.4  
+R.5  
+R.68, R.69 
+R.78 
+R.109 
+R.152 
+Does the farm have clear signage denoting biosecurity zones at 
+the entry and exit points, complete with specific disinfection 
+requirements in relation to access, traffic direction, entry and 
+exit procedures, clothing and equipment? 
+ 
+ 
+ 
+ 
+15 
+24 
+25 
+27 
+27 
+27 
+30 
+R.6 
+R.67 
+R.70 
+R.108 
+R.109 
+R.110 
+R.154 
+Do staff understand the requirements and SOPs around the 
+farm biosecurity zones after receiving their biosecurity 
+induction?
+
+40 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+21 
+23 
+R.7 
+R.52 
+Have new stock (broodstock, larvae, fingerlings, on-grown fish) 
+been selected from disease-free populations and screened to  
+ 
+ 
+ 
+ 
+26 
+28 
+R.87, R.91 
+R.128 
+ensure health status is equal to, or higher than, the existing 
+stock populations? 
+ 
+ 
+ 
+ 
+27 
+30 
+R.112 
+R.156 
+Is access to quarantine restricted to essential staff only? 
+ 
+ 
+ 
+ 
+21 
+21 
+26 
+R.7, R.8 
+R.9 
+R.88 
+Are new broodstock, fry and fingerlings kept in a quarantine 
+system on arrival, provided with prophylactic treatments for 
+control of ectoparasite and endoparasite risks under guidance 
+of the farm veterinarian, with tank records and translocation 
+approvals to document movement and minimise disease 
+introduction? 
+ 
+ 
+ 
+ 
+26 
+R.89 
+Have new fingerlings been stocked into a fish-free pond that 
+has been cleaned and decontaminated from biosecurity risks?  
+ 
+ 
+ 
+ 
+21 
+23 
+R.10 
+R.46 
+Are records of investigations and required reporting of sick or 
+freshly dead fish available? 
+ 
+ 
+ 
+ 
+21 
+21 
+23 
+24 
+24 
+24 
+26 
+27 
+27 
+28 
+29 
+29 
+29 
+R.11 
+R.14 
+R.47 
+R.55 
+R.56, R.57 
+R.62, R.65 
+R.92, R.93 
+R.101 
+R.103, R.104 
+R.132, R.134 
+R.135 
+R.142, R.144 
+R.145, R.146 
+Are there records to demonstrate stock observations, feed 
+intake, mortality counts and appropriate procedures for 
+sanitary disposal of dead fish?
+
+41 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+21 
+23 
+24 
+R.12 
+R.55, R.46 
+R.56, R.57 
+Are staff able to identify signs of disease and the steps involved 
+in reporting, recording and investigating disease events? 
+ 
+ 
+ 
+ 
+24 
+R.62 
+ 
+ 
+ 
+ 
+ 
+21 
+23 
+24 
+26 
+29 
+29 
+R.13  
+R.49 
+R.58, R.63 
+R.95, R.102 
+R.137 
+R.143 
+Is water quality monitored, recorded and kept within optimal 
+ranges?  
+ 
+ 
+ 
+ 
+21 
+24 
+27 
+R.15, R.16 
+R.60 
+R.98 
+Are pets, vermin and aerosols excluded from quarantine, 
+broodstock and hatchery high-biosecurity zones, by keeping 
+doors closed (where applicable), or by other means?  
+ 
+ 
+ 
+ 
+21 
+27 
+R.17, R.22 
+R.99 
+Is the risk of discharge of pathogens in effluent from the 
+quarantine and live feeds area controlled with a sanitary 
+measure?  
+ 
+ 
+ 
+ 
+21 
+R.18 
+Are eggs disinfected with a permitted sanitiser? 
+ 
+ 
+ 
+ 
+21 
+24 
+27 
+29 
+R.19 
+R.66 
+R.107 
+R.149 
+Are all feeds sanitised (extruded or irradiated) with records of 
+batch run, date of manufacture and date of feed out recorded? 
+ 
+ 
+ 
+ 
+21 
+R.20 
+Have algae been sourced from a biosecure supplier? 
+ 
+ 
+ 
+ 
+21 
+R.21 
+Are live feed cultures (algae, rotifers and Artemia) housed in 
+separate, biosecure rooms with dedicated equipment and 
+prevention of aerosol and water transmission to other 
+hatchery zones?  
+ 
+ 
+ 
+ 
+22 
+22 
+R.23, R.24 
+R.25 
+Do staff take appropriate measures to ensure their entry to the 
+production areas does not risk the entry of pathogens (on 
+boots, hands or clothes)?
+
+42 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+22 
+29 
+R.24, R.26 
+R.150 
+Are staff aware of workflow sanitary requirements to avoid 
+spreading pathogens into or around the high and moderate 
+biosecurity zones?  
+ 
+ 
+ 
+ 
+ 
+22 
+25 
+27 
+27 
+30 
+R.27 
+R.71 
+R.111 
+R.116 
+R.155 
+Is there a visitor and contractor log, biosecurity questionnaire 
+and declaration which has to be completed by all visitors 
+before assessing permission for entry? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+22 
+25 
+27 
+30 
+R.28, R.29 
+R.30 
+R.72 
+R.113 
+R.157 
+Are documented procedures in place to manage risks posed by 
+visitor entry to production areas of farm?  
+ 
+ 
+ 
+ 
+22 
+25 
+28 
+31 
+R.30 
+R.73 
+R.114 
+R.158 
+Are prominent signage and appropriate disinfection measures 
+available at entry for staff and visitors?  
+ 
+ 
+ 
+ 
+22 
+25 
+27 
+30 
+R.31 
+R.74 
+R.115 
+R.159 
+Are visitors accompanied by a staff member at all times?
+
+43 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+22 
+25 
+30 
+30 
+32 
+32 
+33 
+R.32 
+R.75 
+R.154 
+R.160 
+R.174 
+R.175 
+R.176 
+Are protocols in place for staff and contractors to ensure they 
+follow biosecurity measures to minimise the introduction or 
+spread of pathogens around production areas?  
+ 
+ 
+ 
+ 
+22 
+25 
+28 
+30 
+30 
+R.34, R.35 
+R.77 
+R.118 
+R.161 
+R.163 
+Is dedicated equipment and routine sanitation protocols 
+available for each production biosecurity zone, so disease-
+transfer risks associated with movement between and within 
+zones are minimised?  
+ 
+ 
+ 
+ 
+22 
+25 
+28 
+28 
+R.36, R.41 
+R.79 
+R.119 
+R.120 
+Is decontamination and dry-out of equipment and tanks always 
+performed between batches of fish through the production 
+unit? 
+ 
+ 
+ 
+ 
+22 
+25 
+28 
+30 
+R.37 
+R.81 
+R.121 
+R.164 
+Is a farm laboratory maintained with a compound microscope, 
+dissection equipment, materials for preservation of tissues for 
+histopathology and molecular testing, with guiding SOPs to 
+support diagnostic investigations? 
+ 
+ 
+ 
+ 
+22 
+25 
+R.38 
+R.80 
+Does the hatchery have a dedicated delivery and loading area, 
+separate from the production area? 
+ 
+ 
+ 
+ 
+22 
+R.39 
+Is water intake to the production unit appropriately sanitised 
+to minimise entry of pathogens?  
+ 
+ 
+ 
+ 
+22 
+25 
+R.39, R.40, 
+R.82, R.83 
+Is there documentation of the service, maintenance and 
+efficacy of water decontamination measures to ensure 
+efficacy? 
+ 
+ 
+ 
+ 
+23 
+25 
+R.41 
+R.84 
+Are water intake and holding facilities isolated from effluent 
+flows and their potential aerosols?
+
+44 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+23 
+25 
+R.42 
+R.85 
+Is hatchery effluent contained within pipes until effectively 
+disinfected to avoid transmission of pathogens via splash or 
+aerosol?  
+ 
+ 
+ 
+ 
+23 
+R.43 
+Are concurrent hatchery runs operated in separate rooms with 
+separate water supplies, equipment and staff?  
+ 
+ 
+ 
+ 
+23 
+R.45 
+Is all hatchery effluent run to a holding pond to permit batch 
+decontamination before release to the environment? 
+ 
+ 
+ 
+ 
+25 
+28 
+R.86 
+R.126 
+Are water flow rate changes and infrastructure breakdowns 
+recorded? 
+ 
+ 
+ 
+ 
+23 
+R.48 
+R.51 
+Are there records to confirm stocking numbers and survival in 
+each production unit, including broodstock origin, hatchery 
+origin, and movements to other locations with their contact 
+details?  
+ 
+ 
+ 
+ 
+23 
+24 
+27 
+R.50  
+R.65 
+R.105 
+Do all discharge pipes and other production unit outlets have 
+screens installed to prevent fish escaping? 
+ 
+ 
+ 
+ 
+24 
+26 
+R.53  
+R.88 
+Have larvae, broodstock and fingerlings been held in a 
+quarantine system for a minimum of four weeks to observe for 
+any signs of disease emergence and to count stock; and are 
+destination tanks, cages or ponds recorded in stock records?  
+ 
+ 
+ 
+ 
+24 
+26 
+29 
+R.54 
+R.90 
+R.133 
+Has the farm collected and archived samples of new fish 
+intakes in a range of fixatives, to enable subsequent 
+diagnostics to explore the entry of potential diseases with fish 
+intakes? 
+ 
+ 
+ 
+ 
+24 
+26 
+29 
+32 
+R.57 
+R.94 
+R.136 
+R.175 
+Are training records available to demonstrate that staff have 
+received annual training in identification of signs of disease 
+and the steps involved in reporting, recording and investigating 
+disease events? 
+ 
+ 
+ 
+ 
+24 
+27 
+29 
+R.59 
+R.97 
+R.138 
+Has stock been managed to avoid stress and deterioration of 
+water quality within the tank from excessive stocking 
+densities?
+
+45 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+24 
+27 
+28 
+29 
+R.61  
+R.100 
+R.126 
+R.141 
+Do farm records document all stock-management activities 
+such as treatments, grading and harvest, so that stock can be 
+traced back to their origin or source? 
+ 
+ 
+ 
+ 
+25 
+30 
+R.68 
+R.151 
+Have staff come direct to work (not via commercial, 
+recreational fishing or seafood processing) in freshly laundered 
+clothes? 
+ 
+ 
+ 
+ 
+26 
+R.96 
+Is cage hygiene maintained with cleaning of mesh to ensure 
+good water flow to fish? 
+ 
+ 
+ 
+ 
+28 
+30 
+R.122 
+R.164 
+Does the production area have dedicated delivery, loading and 
+pack-out areas, separate to the production areas, which can be 
+disinfected (for example, a concrete slab), to avoid fish 
+transporters entering the production air space or shed? 
+ 
+ 
+ 
+ 
+28 
+R.123 
+Does the farm have a contingency to shut off water intake if 
+signs of fish disease appear in the source waterway?  
+ 
+ 
+ 
+ 
+27 
+28 
+R.106 
+R.124 
+R.125 
+Can pond or raceway production water effluent be contained 
+and decontaminated before discharge to a waterway?  
+ 
+ 
+ 
+ 
+28 
+R.127 
+Are individual fish species cultured in separate ponds (not > 1 
+species in the same pond)?  
+ 
+ 
+ 
+ 
+28 
+28 
+R.129 
+R.130 
+Are fingerlings stocked into a new or decontaminated net, on a 
+lease which does not contain other stock, or stock in close 
+proximity? 
+ 
+ 
+ 
+ 
+28 
+R.131 
+Are appropriate measures taken by dive teams to reduce risk 
+of transfer of diseases between cages and leases by their 
+movement? 
+ 
+ 
+ 
+ 
+29 
+R.139 
+Are site ocean leases ~ 5 km apart and without direct 
+hydrological current connectivity?
+
+46 
+ 
+ 
+ 
+Page 
+ref. 
+Associated 
+requirement 
+Audit questions 
+Yes 
+No 
+N/A 
+Corrective action/comments 
+29 
+29 
+R.140 
+R.148 
+Is appropriate monitoring undertaken to ensure lease benthos 
+condition is maintained? 
+ 
+ 
+ 
+ 
+29 
+R.147 
+Can records demonstrate the inspection of nets by divers and 
+repairs to prevent fish escape? 
+ 
+ 
+ 
+ 
+30 
+R.162 
+Are appropriate biosecurity measures documented for boats 
+and cages to demonstrate control of disease-transfer risks 
+between leases of differing disease status? 
+ 
+ 
+ 
+ 
+30 
+R.166 
+Does the farm have equipment and contingency plans to 
+manage high-mortality events, such as large airlifts, and 
+prearranged high-volume disposal sites? 
+ 
+ 
+ 
+ 
+30 
+R.168 
+Does the farm have an emergency response plan? 
+ 
+ 
+ 
+ 
+31 
+R.169 
+Are the only species at the farm the species that are listed on 
+the farm licence? 
+ 
+ 
+ 
+ 
+31 
+R.170 
+Does the farm have records to demonstrate all veterinary 
+medicines used on fish comply with relevant state and  
+ 
+ 
+ 
+ 
+ 
+ 
+Commonwealth (APVMA) legislation, and that they have farm 
+veterinarian oversight and prescriptions when required? 
+ 
+ 
+ 
+ 
+32 
+R.171, R.172 
+Can the farm demonstrate that its biosecurity plan is regularly 
+reviewed and audited, with detail available on the document 
+control information and revision record? 
+ 
+ 
+ 
+ 
+32 
+R.173 
+Who has the farm appointed as the biosecurity manager, to 
+create, maintain and review the farm biosecurity plan, 
+associated documents and activities, including staff training?
+
+47 
+ 
+Appendix 9 
+Emergency response plan template 
+The emergency response plan template document needs to outline the actions and responsibilities 
+to be undertaken in the event that an emergency fish disease is suspected in the farm. The text and 
+tables below provide an outline that farms can use to draft their own emergency response plan. It is 
+expected that individual farm response plans will provide sufficient detail to guide reasonable 
+control efforts, before the receipt of laboratory results, in the face of a disease outbreak at the 
+specific farm site. Sample text has been included in green font. 
+A. Define the trigger to execute the emergency response plan 
+Licence conditions commonly use terminology such as ‘unusually high, unexplained mortality’ to 
+define triggers for an emergency response. Triggers needs to be defined for the individual farm 
+areas, as triggers may differ according to fish size. Examples of triggers include increased daily 
+mortality rate, abnormal stock behaviour, certain clinical signs such as ‘pop-eye’ (exophthalmos) or 
+reddening at the fin bases and in eyes.  
+B. Important contacts  
+Table A6. Template example for important farm contacts 
+Position 
+Name 
+Contact details 
+Farm manager 
+ 
+Mobile:  
+Phone:  
+Email:  
+Nursery manager 
+ 
+ 
+Biosecurity manager 
+ 
+ 
+Logistics manager 
+ 
+ 
+Farm veterinarian 
+ 
+ 
+State government aquatic 
+animal health officer 
+ 
+ 
+Emergency disease watch 
+hotline 
+ 
+1800 675 888 
+State government laboratory 
+ 
+ 
+Industry contact 
+ 
+ 
+C. Responsibilities for notification and subsequent actions 
+Table A7. Template example for contact responsibilities 
+Action 
+Person responsible 
+Signature 
+Date 
+1. Contact farm manager 
+All staff should have capacity 
+to elevate their concerns 
+about a major disease 
+outbreak 
+_______ 
+__/__/__ 
+2. Contact farm veterinarian 
+ 
+ 
+__/__/__ 
+3. Contact relevant 
+Government authority 
+ 
+ 
+__/__/__ 
+4. Contact neighbouring 
+farms, or farms which 
+have received stock from 
+ 
+ 
+__/__/__
+
+48 
+ 
+Action 
+Person responsible 
+Signature 
+Date 
+the farm suspected to be 
+affected  
+5. Contact ABFA 
+ 
+ 
+__/__/__ 
+6. Document and follow 
+instructions as directed 
+by Government authority 
+ 
+ 
+__/__/__ 
+7. Halt all movement of live 
+fish from the farm until 
+disease status known and 
+approval granted 
+ 
+ 
+__/__/__ 
+8. Stop water movement 
+out of the affected pond, 
+raceway or tank 
+ 
+ 
+__/__/__ 
+9. If extreme risk identified, 
+stop water movement out 
+of the farm 
+ 
+ 
+__/__/__ 
+10. Collect typically affected 
+sick fish and immediately 
+submit for laboratory 
+diagnostics 
+ 
+ 
+__/__/__ 
+11. Isolate any suspected 
+disease stock from other 
+stock on farm 
+ 
+ 
+__/__/__ 
+12. Cease all non-essential 
+visitor and contractor 
+movements onto the 
+farm 
+ 
+ 
+__/__/__ 
+13. Advise farm staff not to 
+move any equipment 
+from the area suspected 
+of disease to other farm 
+areas 
+ 
+ 
+__/__/__ 
+14. Restrict all non-essential 
+staff movement into the 
+area suspected of disease 
+ 
+ 
+__/__/__ 
+15. Compile a list of all 
+movements of stock, 
+staff, equipment, feed, 
+visitors and machinery in 
+the previous 2 weeks 
+ 
+ 
+__/__/__ 
+D. Sample collection, packaging and dispatch  
+Samples are to be collected by trained farm staff, as advised by the relevant authority, using the 
+sampling SOP.  
+Document which staff members have been trained in sample collection and packaging.  
+1. Sample collection  
+The following guidelines are to be followed when submitting fresh samples:
+
+49 
+ 
+• 
+Contact the farm veterinarian and laboratory to discuss samples with a fish pathologist and 
+notify them of proposed shipment. 
+• 
+Use www.agriculture.gov.au/animal/health/laboratories/procedures/anzsdp or contact the state 
+laboratory and speak to a pathologist for advice on sampling priorities.  
+• 
+Do not sample animals that are already dead unless specifically requested to do so.  
+• 
+Preferably, submit stock that are typically sick but still alive.  
+• 
+When live samples cannot be readily moved to the laboratory, some samples should be 
+preserved in 10% neutral buffered formalin, and some freshly killed sick fish and/or healthy fish 
+for comparison, sent on ice to the laboratory. Do not freeze the formalin-preserved samples or 
+the fresh samples sent in individual plastic bags on ice. Collect and freeze separate samples if 
+requested to do so by the fish pathologist (i.e. for molecular investigation and toxicological 
+testing) or the farm veterinarian. 
+• 
+Submit sick and healthy stock separately, in separate, labelled pots. 
+2. Sample labelling  
+• 
+Legible and permanent labelling of samples is required. 
+• 
+A keylist of samples should be sent to identify each sample in the package being sent to the 
+laboratory. Keep all documentation separate from samples and ice, as ice and condensation will 
+damage documentation or make ink unreadable. Place in separate zip-lock bag. 
+• 
+Include the following information on a specimen advice form:  
+– site address 
+– contact details 
+– date 
+– history of the event: when, where, which stock were affected, or previous case number 
+(if previous submissions have been sent to the laboratory). 
+3. Packaging samples  
+• 
+Pack samples carefully to avoid breakage, leakage and contamination. Multiple layers of sealed 
+packaging must be used. 
+• 
+Pack samples in an appropriate container (for example, a disposable poly box or foam cool box) 
+together with sufficient paper or absorbent material to soak up any leakage. Secure the lid with 
+tape and pack into a cardboard box.  
+• 
+Use the IATA 650 packing instruction (available at 
+https://www.iata.org/whatwedo/cargo/dgr/Documents/packing-instruction-650-DGR56-en.pdf) 
+4. Sample submission  
+Samples must be submitted as soon as possible after collection (particularly any fresh material on 
+ice). Decomposed samples are of limited diagnostic value. Ring the laboratory to notify them that a 
+shipment of samples is being sent and provide courier details, if possible, to allow tracking. 
+Submission details should include:  
+• 
+name of government laboratory  
+• 
+address that samples are to be submitted to  
+• 
+contact number of laboratory liaison person or case manager  
+• 
+name and contact number of courier; transport may be arranged directly through the relevant 
+authority or laboratory (ensure these arrangements are clear in this plan).
+
+50 
+ 
+E. Stock destruction, disposal and quarantine protocols  
+AQUAVETPLAN has manuals which provide guidance on destruction of stock in a disease event, and 
+disposal methods, available at www.agriculture.gov.au/animal/aquatic/aquavetplan.  
+For example, ‘If this emergency plan is triggered, dead stock will be rapidly collected using double-
+lined fish bins (or equivalent). They will be transported to the approved onsite burial site, and 
+leakage will be prevented while dead stock are in transit. No dead stock will be returned to the 
+environment and access by scavengers will be avoided’.  
+Disposal options need to be considered in this plan, taking into account the volume of stock (based 
+on farm size) for which disposal may be required. See AQUAVETPLAN – Operational procedures 
+manual – Disposal (available at www.agriculture.gov.au/SiteCollectionDocuments/animal-
+plant/aquatic/aquavetplan/disposal-manual.pdf) for further information.  
+Insert details of quarantine protocols, including isolation and disinfection, or refer to a site-specific 
+SOP relating to quarantine.  
+F. Key response plans  
+If viral encephalopathy and retinopathy (nodavirus) is identified, the farm will refer to: 
+• 
+the requirements of AQUAVETPLAN – Disease Strategy Manual – Viral encephalopathy and 
+retinopathy (available at www.agriculture.gov.au/animal/aquatic/aquavetplan/viral-
+encephalopathy-retinopathy) (include the electronic and/or physical location on site)  
+• 
+any state-specific emergency response documents (including their electronic and/or physical 
+location in site)  
+• 
+any directions from the relevant authority.  
+Insert details of any other response plans or documents for other fish diseases if applicable.
+
+51 
+ 
+REFERENCES 
+SCAAH 2016, Aquaculture Farm Biosecurity Plan: generic guidelines and template, Sub-Committee 
+on Aquatic Animal Health, Department of Agriculture, Canberra. 
+Hernandez-Jover, M, Shamsi, S & Hayes, L 2017, An assessment of the risk of exotic disease 
+introduction and spread among Australian barramundi farms from the importation of barramundi 
+products, Charles Sturt University, Wagga Wagga, and Fisheries Research and Development 
+Corporation, Canberra. 
+Spark, E, Roberts, S, Deveney, M, Bradley, T, Dang, C, Wronski, E and Savva, N 2018a, PIRSA Fisheries 
+and Aquaculture. National biosecurity plan guidelines for the land-based abalone industry. 
+Department of Agriculture and Water Resources, Canberra.  
+Spark, E, Roberts, S, Deveney, M, Bradley, T, Dang, C, Wronski, E and Zippel, B 2018b, PIRSA Fisheries 
+and Aquaculture. National biosecurity plan guidelines for Australian oyster hatcheries. Department 
+of Agriculture and Water Resources, Canberra. 
+Ellard K 2015, Disease control recommendations to support aquatic animal health? Proceedings of 
+the Third OIE Global Conference on Aquatic Animal Health, Session 4, pp. 137-143.

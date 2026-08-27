@@ -1,0 +1,10 @@
+Publication details
+Department of Agriculture, Fisheries and Forestry, March 2023
+If your organisation wants to develop software that will integrate with COLS APIs, please visit the DAFF Developers Portal API Catalogue for more information.
+You can access the COLS Software Developers Guide which provides the technical interface specifications for this system.
+Download
+COLS Software Developers Guide (PDF 943 KB)
+COLS Software Developers Guide (DOCX 583 KB)
+If you have difficulty accessing these files, visit web accessibility for assistance.
+If you would like to discuss further options about software integration and testing of interfaces with COLS, please contact the department:
+- Email: BSDSAdmin@aff.gov.au.

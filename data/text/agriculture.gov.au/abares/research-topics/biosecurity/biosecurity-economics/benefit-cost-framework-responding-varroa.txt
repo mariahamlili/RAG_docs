@@ -1,0 +1,22 @@
+Authors: Ahmed Hafi, Nicola Millist, Kristopher Morey, Peter Caley and Benjamin Buetre
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/biosecurity-varroa-dead-bees.png) 
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/biosecurity-varroa-mites.png) 
+Australia remains the only continent free of Varroa destructor (‘Varroa’), a devastating mite pest of European honey bees (Figure 1). Varroa represents a serious potential biosecurity threat to Australia, as honey bee colonies infested with the mite will collapse unless treatments are applied in time. An incursion of Varroa in Australia could seriously affect introduced European honey bee populations that currently provide free pollination services to a large number of Australian crops (Figure 2).
+In this report, A benefit-cost framework for responding to an incursion of Varroa destructor, ABARES presents a benefit-cost analysis framework to assess the economic feasibility of different biosecurity control measures in the event of a hypothetical incursion of Varroa in Australia. Factors considered in the modelling include the spread of Varroa from each of the ports in Sydney, Melbourne and Cairns, whether the spread is unhindered or contained, and the development of a managed pollination industry that increases supply of pollination services in response to increasing demand.
+The estimated value of losses to producers and consumers of pollination-dependent crops from an unhindered Varroa spread ranged from $0.63 billion to $1.31 billion over 30 years depending on the port of entry (Table 1). These losses fell to $0.36 billion to $0.93 billion over 30 years if the spread of Varroa was slowed though containment. Producer losses could include production losses in the absence of pollination services provided by managed and feral honey bee populations, or increased payments for pollination services required to maintain production. Consumer losses are driven by higher prices for the products of affected crops and a reduction in the quantities consumed. Incursions from Sydney and Melbourne resulted in higher estimated losses because of the reduced time taken for Varroa to spread and affect the bulk of Australia’s horticultural production located in the temperate regions of New South Wales and Victoria.
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/biosecurity-varroa-graph.png) 
+| Table 1 Present value of economic losses over 30 years, by port of entry and spread scenario (values in 2012 dollars) |  |  |  | 
+|---|---|---|---|
+| Port of entry and spread scenario | Economic losses |  |  | 
+|---|---|---|---|
+|  | Producer ($m) | Consumer ($m) | Total ($m) | 
+| Sydney |  |  |  | 
+| Unhindered | 647 | 604 | 1,251 | 
+| Contained | 427 | 398 | 825 | 
+| Melbourne |  |  |  | 
+| Unhindered | 679 | 634 | 1,313 | 
+| Contained | 483 | 450 | 933 | 
+| Cairns |  |  |  | 
+| Unhindered | 324 | 303 | 627 | 
+| Contained | 184 | 171 | 355 | 
+If a Varroa incursion was detected early and destroyed while still near the port of entry, then the economic losses of $0.63 to $1.31 billion for the unhindered spread scenario would represent a measure of the expected benefits of successful eradication. To determine if an eradication or containment response strategy is economically feasible, the expected benefits could be compared to the expected costs of implementing the strategies. The benefits estimated in this hypothetical study for eradication and containment provide a benchmark against which biosecurity decision-makers can compare the costs of implementing response strategies following an outbreak of Varroa in Australia.

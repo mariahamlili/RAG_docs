@@ -1,0 +1,52 @@
+From 8 July 2026, all Unaccompanied Personal Effects (UPE) entries lodged with the department, including those without a registered customs broker, must be submitted via the Cargo Online Lodgement System (COLS).
+Biosecurity Industry Participants (BIPs) and COLS users will notice a system update, with a new consignment import option available: ‘Unaccompanied Personal Effects (UPE)’.
+Ship or Aircraft Stores and Carnet continue to be lodged under ‘Transhipment of Ship or Aircraft Stores’ and ‘Temporary importation- Carnet’.
+Lodging online
+Customs brokers, commercial importers and Privateers (private individuals bringing personal effects into Australia) can use COLS to:
+- lodge documents for imported cargo online in PDF, JPG, TIF and Word formats (total size up to 20 megabytes) in support of:
+  - full import declarations (food, quarantine & dual consignments)
+  - other declarations, where directed by the department
+- check the status of your lodgement
+- request a reassessment. Fees apply for reassessment if additional documents are lodged or the assessment outcome is the same.
+- request a directions reissue
+- make an enquiry
+- make payments and check payment status
+  - non-account clients can pay using broker systems before lodging documents or use the COLS payment screen
+- receive consistent, priority- based processing
+- retain electronic records
+When submitting your lodgement, please provide your current contact details. We may contact you by phone, in the instance the assessment does not align with your expected outcome.
+View user guides and how-to videos at COLS support. If additional support is required, call 1800 900 090 or use the inquiries form.
+How industry can now utilise their third-party software to access COLS services
+Cargo Online Lodgement System now provides third-party cargo logistics software providers an opportunity to integrate with COLS services. Six Application Programming Interface (API) interfaces including submit new lodgement, lodgement status check, re-assessment request, payment status check, making a payment and making enquires, have been developed to enable smooth integration to COLS.
+COLS has also delivered capability to enable the lodgement and storage of documentation for import declarations processed through Automatic Entry Processing (AEP). Clients with these arrangements are accredited to assess import documentation and receive automatic directions. Visit our Automatic-Entry-Processing webpage for further information regarding AEP scheme.
+To successfully integrate with COLS, you can access the COLS Software Developers Guide which provides the technical interface specifications for this system.
+To get access to these API’s, which will allow the third-party software providers to develop and test the integration to COLS, please visit the COLS API page on the DAFF Developers Portal.
+How industry can assist in preventing Document Assessment delays
+The department has seen a significant increase in the number of industry members lodging documents for assessment within 1 day of vessel arrival.
+- 61% of new lodgements were made in COLS in 1 business day or less from the estimated time of arrival. Of those late lodgements 61% were sea freight.
+We receive an average of 1500 – 2000 entries per day, and significantly higher numbers during peak periods. The late lodgement means that departmental officers are unable to conduct and turn around this high volume of assessments in such a short timeframe.
+This is further exacerbated by documents being submitted with errors that require officers to spend more time to assess the entry, and sometimes multiple times.
+These factors lead to an inability to meet service standards and result in delays for everyone.
+To avoid delays to the clearance of goods all industry members who submit documentation for import clearance via the Cargo Online Lodgement System (COLS) or other departmental approved systems should:
+- Ensure documents are lodged well in advance of arrival of the goods into Australia (between 5-7 days prior to a vessel’s arrival for sea freight and 24 hours for airfreight) as this will allow assessment to occur and any identified concerns to be addressed prior to the discharge of goods.
+- Ensure documents and other information is complete and accurate when lodged, and in line with the department's minimum documentary requirements and import conditions.
+- Only provide required documents for assessment.
+- Ensure any specific additional information is included in the ‘additional information’ field in COLS, or attached appropriately if using other departmental approved systems.
+- Regardless of the expected assessment outcome, nominate a valid Approved Arrangement (AA) inspection location, preferably with the AA registration number and name. This includes consignments referred for CCV inspections which are permitted at non-AA sites; however, the location is still required to be nominated at time of initial assessment.
+Please do not repeatedly call or email the department checking on the status of a lodgement for document assessment as this diverts staff that are assessing documentation and subsequently contributes to increasing delays.
+Document assessment outside business hours
+Requests to have documents assessment outside business hours must be made before lodging import documents using this form:
+Download
+Note: Save the form to your desktop or device. Open and complete the form using the latest version of Adobe Acrobat Reader. Do not work on the form in your web browser.
+Download the Adobe Acrobat Reader mobile app for your smartphone or tablet.
+If you have difficulty accessing this file, visit web accessibility for assistance.
+If you are having difficulties completing this form, please see our 'Requesting assessment outside business hours - Request form trouble shooting' guide in the first instance:
+Requesting assessment outside business hours - Request form trouble shooting (PDF 994 KB)
+Requesting assessment outside business hours - Request form trouble shooting (DOCX 1.3 MB)
+If you have difficulty accessing this file, visit web accessibility for assistance.
+Onshore Treatment results outside business hours
+Requests to have documents assessment outside business hours must be made before lodging import documents using this form:
+Download
+Note: Save the form to your desktop or device. Open and complete the form using the latest version of Adobe Acrobat Reader. Do not work on the form in your web browser.
+Download the Adobe Acrobat Reader mobile app for your smartphone or tablet.
+If you have difficulty accessing these files, visit web accessibility for assistance.

@@ -1,0 +1,23 @@
+This page contains important information for developers of 3rd party software who wish to utilise NEXDOC digital services within their own software offerings.
+Software Development Packages
+This table provides details of the software development packages for the NEXDOC system. The referenced packages contain the NEXDOC software development guide and all associated material needed to integrate 3rd party software with the NEXDOC system. Developers of 3rd party software should download and unzip the version which is appropriate for their scenario. Superseded versions are for historical reference only and should not be used for integrating with NEXDOC.
+If you are a newcomer to NEXDOC and your software is not yet integrated, we highly recommend that you contact us so that we can assist you. See the Getting Assistance section for information on how to contact us.
+| Version | Publication Date | Vendor Date | Live Date | Version Type | Status | Comments | Package | 
+|---|---|---|---|---|---|---|---|
+| 4.0 | 01/05/2024 | 03/05/2024 | TBA | Major | Proposed | Updates for Fish Commodity | {{NEXDOC 3rd Party Software Information Pack v4.0.zip 3.5 MB}} | 
+| 3.0 | 05/09/2023 | 13/09/2023 | 04/12/2024 | Major | Current | Updates for Egg Commodity | {{NEXDOC 3rd Party Software Information Pack v3.0.zip 4.2 MB}} | 
+| 2.0 | 17/09/2020 | 17/09/2020 | 31/05/2021 | Major | Superseded | Initial NEXDOC release. Dairy Commodity | {{NEXDOC 3rd Party Software Information Pack v2.0.zip 4.7 MB}} | 
+Definitions
+Publication Date: The date of the release of the referred version of the development package to the developer community.
+Vendor Date: The date of the release of the NEXDOC system containing the features and functions as documented within the referred version, to the vendor test environment.
+Live Date: The date of the release of the NEXDOC system containing the features and functions as documented within the referred version, to the live environment.
+Major Version:   Contains major new features, non-backward compatible or breaking changes.
+Minor Version:  Adds or changes functionality and/or fixes whilst retaining full backward compatibility.
+Proposed Status: Pertaining to a version of the system which is under current or future development & testing.
+Current Status: Pertaining to the current version of the system.
+Superseded Status: Pertaining to a previous version of the system.
+Developer of 3rd party software can get support from the NEXDOC technical team via the Export Systems Help Centre:
+DAFF Export Systems Vendor Help Portal - Service project (agriculture.gov.au)
+This user guide explains how to register and use this system:
+Assistance for exporters using NEXDOC directly or via 3rd party software is available here:
+(Please include standard page footer including Last Updated date)

@@ -1,0 +1,43 @@
+Less than Container Load (LCL) and Freight All Kinds (FAK) containers with target high risk goods that are shipped from target risk countries between 1 September and 30 April (inclusive) are managed at the container level for BMSB risk prior to deconsolidation.
+Once the container risk has been managed for BMSB, the individual consignments within these containers will be processed at the Full Import Declaration (FID) level for all other biosecurity intervention (if applicable).
+LCL / FAK containers that are subject to BMSB measures will be identified by a Seasonal Pest Referral (SPREF) on the house bill of lading. When the cargo report is lodged, they will be referred for a Seasonal Pest hold (SP HOLD), and the cargo reporter will receive a message that a Master Consolidator (MC) declaration is required to be submitted.
+Containers identified with a SPHOLD are required to have a MC declaration submitted declaring the BMSB risk status of the container.
+The department recommends lodging the MC declaration prior to the vessel’s arrival in the first port of Australia.
+LCL/FAK containers are managed for BMSB risk at the container level. This includes LCL consignments shipped from a target risk country, between 1 September and 30 April (inclusive), then hubbed in a non-target risk country and shipped to Australia in a FAK container.
+Below are some common examples of where target high risk goods being managed at the LCL/FAK level will require mandatory treatment under the seasonal measures. These examples can also be followed by using the LCL import scenarios flowchart (below).
+Example 1
+Target high risk goods manufactured in a target risk country and then transported from a target risk country to Australia will be subject to the seasonal measures. Mandatory treatment will be required. No deconsolidation will be permitted prior to treatment, if treatment is required on arrival.
+Example 2
+Target high risk goods manufactured in a target risk country, then transported from a target risk country to a non-target risk country, to be deconsolidated and reconsolidated (hubbed) and shipped as an LCL/FAK container from the non-target risk country to Australia, will be subject to the seasonal measures. Mandatory treatment is required for these goods. No deconsolidation will be permitted prior to treatment, if treatment is required on arrival.
+Example 3
+Target high risk goods manufactured in a target risk country, then transported from a target risk country to a non-target risk country for the target high risk goods to enter domestic consumption or storage in that country. These goods may be stored for any length of time in the non-target risk country. If shipped during the BMSB risk season as LCL/FAK directly from the non-target risk country to Australia mandatory treatment will not apply, but the goods may be subject to random onshore inspections.
+Example 4
+Where target high risk goods do not meet Australian Border Force (ABF) concessional requirements and are required to be reported under a Full Import Declaration (FID) under target high risk tariffs (e.g., motor vehicles, motorbikes, E-bikes/scooters); these goods will be subject to the seasonal measures. Mandatory treatment is required for these goods. No deconsolidation will be permitted prior to treatment, if treatment is required on arrival. Only household goods and personal effects imported as Unaccompanied Personal Effects (UPEs) approved by ABF to be reported under concessional tariff 99, will be exempt from BMSB seasonal measures.
+To minimise impacts on clearance time, industry is encouraged to have their target high risk goods treated offshore and at the container level, where possible. MC declarations must be lodged accurately and against relevant reporting timelines to assist with identifying and assessing these containers.
+How to determine if your goods are subject to BMSB measures
+What happens when the cargo type is changed from LCL to FCX/FCL in the Sea Cargo Report (SCR)
+Once a cargo type is declared as an LCL in the Integrated Cargo System (ICS), a Seasonal Pest Hold (SPHOLD) will be systematically applied. This hold will remain on the container even after an amendment has been made to the cargo type. If you originally declared your container as an LCL and then amend the cargo type to a Full Container Load (FCL / FCX), please contact BMSBprocessing@aff.gov.au with evidence of the correct container type (i.e., BOL), to have the amendment assessed and the SPHOLD lifted.
+MCs intending to provide declarations about LCL/FAK containers to the department must register their company as a MC and identify individual users via a unique email address on the MC registration form.
+A MC ID will be generated under the Australian Business Number (ABN) of a company and recorded at a branch level. The department will provide a unique MC ID for each branch upon receipt of a registration form.
+Each user who intends to submit MC declarations is required to register as a user under the MC ID for their company. Each individual submitting declarations is required to have their own User ID and login. Sharing of User IDs will be recorded as a non-compliance for the MC and may result in increased intervention of LCL / FAK containers.
+Once registered, the department will provide users with an email containing their MC ID, a temporary password, and a link to the online portal to activate their login and set up an authenticator account. Users must use their own unique login to lodge a MC declaration.
+The MC registration form is to be used to register any additional branches / users, to remove users no longer working within the company, and to update any branch / user information including contact emails.
+Note: All users will need to download authenticator onto a portable device (i.e., phone, tablet etc.) to enable use of the MC lodgement portal. Instructions on this can be found in the next section.
+Note: If your authenticator code is no longer accepted in the portal due to phone replacement or similar, please email HPP@aff.gov.au for an account reset; this will allow you to set up your authenticator account again via QR code.
+MC registration forms are to be sent to HPP@aff.gov.au.
+New registration applications may take up to 5 business days to process.
+The MC Declaration Form can be accessed via the online portal.
+MCs must first be registered with the department and have received a MC ID to be able lodge a declaration. LCL/FAK MC declarations cannot be lodged without a MC ID.
+Where goods are shipped as an LCL/FAK container and are identified as requiring BMSB intervention at the container level, if an MC declaration has not been lodged, those containers will be held at the wharf until the MC provides a declaration about the BMSB risk status of the container. A hold message preventing the movement and deconsolidation of the container will advise the cargo reporter to contact the relevant MC to submit a MC declaration for the LCL/FAK container.
+Once a MC declaration has been submitted, the container will either be made exempt from BMSB measures or a biosecurity direction will be issued advising of additional intervention required, which may include further document assessment, inspection or onshore treatment.
+Note: The MC must ensure that biosecurity directions are carried out or arranged to be carried out within the designated direction timeframe. Failure to ensure the direction is carried out will result in non-compliance.
+If there is no contact or declaration made by the relevant MC for the container after 35 business days, the container will be directed for export.
+How to Lodge a Master Consolidator’s declaration form
+Detailed instructions on how to login and lodge a Master Consolidator Declaration Form and troubleshooting information is available below.
+Download
+Master Consolidator User Guide (PDF 2.84 MB)
+Master Consolidator User Guide (DOCX 3.51 MB)
+Multi Factor Authentication Setup PDF 737 KB
+Multi Factor Authentication Setup (DOCX 1.15 MB)
+If you have difficulty accessing this file, visit web accessibility for assistance.
+MC declarations will be monitored throughout the season for non-compliance, including monitoring of withdrawals. Where continued non-compliance is found, the department may direct all future LCL/FAK containers for that MC ID for full document assessment of all import declarations, onshore treatment or export.

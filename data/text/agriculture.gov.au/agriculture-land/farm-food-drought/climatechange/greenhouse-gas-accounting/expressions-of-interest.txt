@@ -1,0 +1,17 @@
+The Improving Consistency of On-farm Emissions Estimates grant program (the program) was announced as part of the 2024−25 Budget to assist the agriculture sector to reduce its emissions and further contribute to the whole-of-economy transition to net zero.
+A grant of $6.4 million (GST exclusive) has been awarded to Agricultural Innovation Australia (AIA), in partnership with the Zero Net Emissions from Agriculture Cooperative Research Centre, under the program. The grant period runs until June 2028.
+The grant aims to make it easier for providers of greenhouse gas (GHG) calculators and accounting tools to align with the voluntary GHG emissions estimates and reporting guidelines (Guidelines) being developed by DCCEEW.
+Under the grant, AIA is providing all interested users with free access to an API and open source code for its calculator engine that currently aligns with the Greenhouse Accounting Framework Tools. The free API and open source code will be updated to align with the Guidelines once they are released in mid-2026.
+For clarity, there is no requirement for accounting tool and calculator providers to use AIA’s free API or open source code to align their calculator with the Guidelines.
+Visit AIA’s website to find out more about the API integration and visit GitHub to access the open source code.
+AIA also provides free access to its Environmental Accounting Platform, which allows producers and their advisers to estimate their on-farm GHG emissions calculator.
+The grant process
+AIA was selected at the end of a two-stage application process: a call for expressions of interest (EOIs) (Stage 1) in December 2024, followed by a targeted competitive grant opportunity (Stage 2).
+The Stage 1 EOI guidelines are provided below. They explain the program objectives, eligibility criteria, and the submission and assessment process.
+Further information on the Stage 2 grant opportunity was restricted to those invited to apply, following assessment of EOIs at Stage 1.
+Expressions of interest (Stage 1)
+In December 2024, the department sought EOIs for proposals to improve the consistency of GHG emissions estimates across calculators. The EOI process closed on 23 December 2024.
+Following assessment, successful EOI respondents were invited to apply for the Stage 2 grant opportunity.
+The Stage 1 EOI guidelines explained the program objectives, eligibility criteria, and the submission and assessment process.
+Enquiries
+For questions about the Improving Consistency of On-farm Emissions Estimates program, email GHGaccounting@aff.gov.au.

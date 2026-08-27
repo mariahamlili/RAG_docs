@@ -1,0 +1,164 @@
+Guide to using the glossary
+This glossary contains common terms, acronyms and definitions that relate to approved arrangements. It is subject to review on a regular basis.
+Definitions that are not contained within this glossary can be found in the Biosecurity Act 2015 (the Act) or in the most recent edition of the Macquarie Dictionary. Where a definition in this glossary conflicts with a definition stated in the Act, the definition used in the Act takes precedence.
+Glossary
+| Term or acronym | Definition | 
+|---|---|
+| Accredited person | A person (typically an employee of a biosecurity industry participant) who has successfully completed: accreditation training for the relevant approved arrangement class as specified on the department’s website. | 
+| Advisory finding | A notification, issued at pre-approval audits, advising the biosecurity industry participant that they have not complied with an approved arrangement requirement. | 
+| Agricultural Import Management System (AIMS) | IT system used to:  | 
+| Aircraft | Any machine or craft that can derive support in the atmosphere from the reactions of the air, other than the reactions of the air against the earth’s surface. Note: A reference to an aircraft does not include a reference to an aircraft brought or imported into Australian territory from outside Australian territory on board another conveyance until the aircraft is released from biosecurity control (see subsection 16(3)). | 
+| Airlock | A separate, fully enclosable space with two doors designed to limit pressure fluctuations during entry and exit. A shower airlock is an airlock that incorporates full body shower capability, which can be used as part of entry and exit procedures. | 
+| All weather road | A sealed or unsealed road which enables vehicle access into an approved arrangement site at any time regardless of weather conditions. | 
+| Alteration | Any changes made to a document after the original and/or first signature has been obtained. | 
+| Animal | Any living organism characterised by the capacity for voluntary motion, sensation, and the ingestion of food such as plants and other animals, and which has a non-cellulose cell wall. Animal includes a dead animal and any part of an animal but does not include a human or a part of a human, whether the human is dead or alive. | 
+| Animal health record | File or record of examinations, procedures and laboratory tests performed whilst an animal is under quarantine. | 
+| Announced audit | An audit where the biosecurity industry participant is given advance notice of the audit date and time. | 
+| Anteroom | A separate, fully enclosable space used during access and egress that has specific containment functions. | 
+| Applicant | A legal entity (usually a business) that has applied to enter into an approved arrangement. | 
+| Approved arrangement | Refer to the Biosecurity Act 2015. | 
+| Approved arrangement class | The grouping of approved arrangements based on the type of activities taking place in the arrangement and the associated biosecurity risks. | 
+| Approved arrangement contact person | Person at an approved arrangement site that the department can contact to discuss issues or day to day needs when the approved arrangement manager is unavailable. | 
+| Approved arrangement manager | Person who will be responsible for the approved arrangement. | 
+| Approved arrangement number |  | 
+| Approved arrangement conditions | Documents that detail the legally binding outcomes and conditions to be achieved by the biosecurity industry participant under the terms of the approved arrangement. | 
+| Approved arrangement site | A site where a biosecurity industry participant undertakes biosecurity activities covered by an approved arrangement. For biosecurity industry participants that undertake mobile biosecurity activities, the biosecurity industry participants approved arrangement site is the location from which the mobile activities are based. | 
+| Approved arrangement site boundary | The perimeter of a single (unbroken) approved arrangement site area within which the biosecurity industry participant for that site manages and controls the:  | 
+| Approved arrangement site ID | The reference number assigned to each approved arrangement site, generated from the Quarantine Premises Register (QPR). | 
+| Approved disinfectant | An antimicrobial chemical approved by the department for specific biosecurity operations. | 
+| Approved person – specific to biosecurity waste approved arrangements | Appropriately trained person employed by the biosecurity industry participant to undertake biosecurity activities in accordance with the conditions of the approved arrangement. | 
+| AQIS premises ID | Code used by the automatic entry processing (AEP) scheme to identify the location where an activity is to occur. These codes are added by accredited persons to the AQIS premises ID field in the Integrated Cargo System (ICS) when using the AEP scheme. May also be referred to as a location code. | 
+| AQIS processing types | Codes used by the automatic entry processing (AEP) scheme to identify to the department what documents an accredited person has accepted and what activities should be performed. The AQIS processing types determine what directions will be added to the import declaration by the AEP Scheme. | 
+| Associates | Refer to the fit and proper test for approved arrangement applicants on the department's website. | 
+| Audit rate | The number of audits performed within a specified number of days. | 
+| Audit team | A team assigned to an audit. An audit team consists of a lead auditor with the assistance of auditors, trainees, observers and/or subject matter experts. | 
+| Auditor | A departmental officer who is approved to conduct audits on behalf of the department. | 
+| BICON | Refer to the Biosecurity Import Conditions system. | 
+| Biosecurity direction | A direction given under the Biosecurity Act 2015. | 
+| Biosecurity activities | A person may apply to the relevant Director for approval of a proposed arrangement that provides for the person to carry out specified activities (biosecurity activities) to manage biosecurity risks associated with specified goods, premises or other things. Note 1: proposed arrangement may provide for a person to carry out biosecurity activities at a particular place. Note 2: Section 434 sets out requirements for applications. | 
+| Biosecurity area | The designated area within an approved arrangement site where goods that are subject to biosecurity control are stored, handled and/or treated. This also includes the collection and temporary storage of biosecurity waste and dunnage. | 
+| Biosecurity containment level 1 (BC1) | The whole space approved by the department in accordance with approved arrangement class 5.1 conditions. A biosecurity containment level 1 AA site excludes lifts, stairs and corridors but may include lockable biosecurity storage areas outside or separate to the biosecurity area where biosecurity activities are undertaken. | 
+| Biosecurity containment level 2 (BC 2) | The whole space approved by the department in accordance with approved arrangement class 5.2 conditions. A biosecurity containment level 2 AA site excludes lifts, stairs and corridors, but may include lockable biosecurity storage areas outside or separate to the biosecurity area where biosecurity activities are undertaken. The AA site must be physically separate from offices used by containment AA site personnel. | 
+| Biosecurity containment level 3 (BC 3) | The whole space approved by the department in accordance with approved arrangement class 5.3 conditions. A biosecurity containment level 3 AA site may incorporate access and supporting rooms and interconnecting corridors or common space areas after entering through an airlock. It may comprise several like rooms such as three interconnecting microbiological laboratories but does not include combinations of different types of facilities such as animal, plant or insectary facilities within a physical containment barrier. These facilities must be physically separate from offices used by containment AA site personnel. Body showers, toilet cubicles and drinking water appliances may be included. | 
+| Biosecurity containment level 4 (BC 4) | The whole space approved by the department in accordance with approved arrangement class 5.4 criteria. A biosecurity containment level 4 AA site may incorporate access and supporting rooms and interconnecting corridors or common space areas after entering through an airlock. It may comprise several like rooms such as three interconnecting microbiological laboratories but does not include combinations of different types of facilities such as animal, plant or insectary facilities within a physical containment barrier. These facilities must be physically separate from offices used by containment AA site personnel and must include a body shower and inner and outer change room. Toilet cubicles and drinking water appliances may be included. The AA site must be housed in a separate building or must form an isolated part of a building. | 
+| Biosecurity import conditions system (BICON) | IT system that holds the department’s conditions for the import of goods, including permit conditions and treatments. | 
+| Biosecurity industry participant | A person who is the holder of the approval of an approved arrangement (including a person to whom an approved arrangement has been transferred in the circumstances prescribed by regulations made for the purposes of section 411)  | 
+| Biosecurity officer | Refer to the Biosecurity Act 2015, section 545. | 
+| Biosecurity risk | Refer to the Biosecurity Act 2015, section 9. | 
+| Biosecurity risk material | Goods which have the potential to introduce into Australia an exotic pest or disease. This includes goods and packaging that are, or are contaminated by, material of biosecurity risk. Examples of biosecurity risks include, but not limited to:  | 
+| Biosecurity waste | Waste subject to biosecurity control. Note: Under the Biosecurity Act 2015 is a type of goods. | 
+| Biosecurity waste container | A bin, receptable, container (e.g., lidded plastic tub) which biosecurity waste is placed and secured in. | 
+| Biosecurity wastewater | Liquid portion of the residue associated with any biosecurity operation. | 
+| Bond register | List of consignee details produced by a high-volume specialist operator. | 
+| Break bulk cargo | Non-containerised cargo that must be loaded individually or cannot fit into a container. Typical break bulk cargo includes machinery, vehicles and timber. | 
+| Broker | Refer to Customs Broker. | 
+| Business name | A name or title under which a person or entity conducts business. Business names must be registered in Australia unless business is carried out under person’s own name. | 
+| Caucus | A meeting of the audit team to discuss and compile audit findings prior to the exit meeting. Caucus does not include the biosecurity industry participant and is conducted away from the biosecurity industry participant, e.g. meeting room. | 
+| Co-located approved arrangement sites | Multiple approved arrangement sites operating within a single physical site and sharing a common Australian Business Number (ABN) and an approved arrangement manager. | 
+| Commodity | Referred to as goods in the Biosecurity Act 2015. | 
+| Company name | Can be used to trade under without the need to register a business name. Company registration creates a legal entity and allows access to privileges, such as a corporate tax rate or limited liability. A company may decide to register a business name if it wants to trade or carry on a business under a name other than the company name. | 
+| Company stamp | Stamp used by an incorporated business entity to make an impression on a document that certifies that document as being correct and assigns the document with an identifier or direct link to that business entity. | 
+| Contamination | Biosecurity risks present in or on goods, packaging, storage place, conveyance or container, not constituting an infestation Examples of contamination may include but are not limited to extraneous soil, plant material (e.g., seeds) and residues/debris from packaging material. | 
+| Corrective action request (CAR) | A notification to a business industry participant advising that they have not complied with an approved arrangement condition. | 
+| Critical noncompliance |  | 
+| Customs Broker | A person who holds a broker's licence granted in accordance with Part 11 of the Customs Act 1901 (the Act). Under the Act an owner of goods may authorise an agent (either an employee of the owner or a Customs Broker) to act on their behalf for the importation of goods into Australia. | 
+| Declaration | Notice submitted to the department providing information about human health, about the status of goods, or the intention to import goods. It can also be a document that certifies that specified actions have been taken before goods arrive in Australia. | 
+| Deconsolidation | Process of unpacking a container for the purposes of inspection. | 
+| Department | The Commonwealth Department of Agriculture, Fisheries and Forestry. | 
+| Department of Agriculture, Fisheries and Forestry Veterinary Officer | A veterinarian employed by the department. | 
+| Detection | The finding of goods, vectors or receptacles of biosecurity interest. | 
+| Direction | See biosecurity direction | 
+| Directly supervise | The supervision of the physical handling of biosecurity risk material by an accredited person. This requires the presence of the accredited person in the area where the material is being handled to be able to:  | 
+| Disease |  | 
+| Disinfect | Destruction of microorganisms using an approved disinfectant applied in an approved manner and at an approved rate. | 
+| Dunnage | Materials (generally wooden/bamboo items) used to support or stabilise a consignment during transport which is not attached to or forming part of the consignment. Examples of dunnage may include but are not limited to used tyres, drums, gluts and skids. | 
+| FCL/X | Term used to indicate that a requirement covers both full container load and FCX containers. | 
+| FCX | Sea cargo container with contents from multiple suppliers but consigned to one entity in Australia. For biosecurity purposes this is the same as full container load. | 
+| First point of entry (FPOE) | Refer to the Biosecurity Act 2015, section 18. | 
+| Fit and proper persons test | Refer to the fit and proper test for approved arrangement applicants on the department’s website. | 
+| Fixed enclosure | Chamber or un-sheeted shipping container used for fumigations. | 
+| Flooding | Includes:  | 
+| Full container load (FCL) | Sea cargo container with contents from a single supplier and consigned to one entity in Australia. For biosecurity purposes this is the same as FCX. | 
+| Fumigation area | Designated area where goods may be fumigated. | 
+| Fumigation certificate | Documentation certifying that a fumigation treatment has been conducted in accordance with departmental requirements. | 
+| Gas impervious material | Substance that is gas impermeable, including plastic wrapping or laminated plastic films, lacquers or painted surfaces, aluminium foil, tarred or waxed paper. | 
+| Goods | Refer to the Biosecurity Act 2015, section 19. | 
+| Goods subject to biosecurity control |  | 
+| High volume specialist operator (HVSO) | Household goods and personal effects forwarder which has been granted a depot licence by the Department of Home Affairs. | 
+| Household goods and personal effects forwarder (HGF) | Entity involved in facilitating the international movement of household goods and unaccompanied personal effects. Many Household Goods and Personal Effects Forwarders are also high-volume specialist operators. | 
+| Household goods and unaccompanied personal effects | Personal (non-commercial) items transported into Australia by a returning resident or a new resident of Australia via sea or air freight. The items must be personal property owned by the person whilst overseas. | 
+| Import permit | An official document issued by the department to an importer of goods that authorises the importation of goods in accordance with the Biosecurity Act 2015 and specified permit conditions. | 
+| Imported pig meat | Uncooked or cooked pig meat derived from pig meat that was originally imported as uncooked. | 
+| Imported pig meat waste | Any imported pig meat product or by-product cooked or uncooked, that is no longer destined for human consumption. Imported pig meat waste also includes materials (including liquids and disposable items) that have come into contact with, or which have been otherwise contaminated by cooked or uncooked imported pig meat. Accordingly, imported pig meat waste includes the following:  | 
+| Incursion | Post border infestation or infection by a viable exotic pest or disease. | 
+| Infestation or infection | Presence in or on goods, packaging, storage place, conveyance or container of a living pest of animals and plants or animal and plant products. | 
+| Inspection | Physical examination of goods, documentation or vessels. | 
+| Inspection area | A biosecurity area designated for use by biosecurity officers for the performance of inspections of goods that are subject to biosecurity control. | 
+| Integrated Cargo System (ICS) | IT system managed by the Department of Home Affairs used to electronically report and record imports and exports coming into and leaving Australia. The application allows for the collection of duty and GST and is used to monitor the movement of goods, capture statistics and for intelligence purposes. | 
+| Key personnel | Approved arrangement managers and approved arrangement site contacts. | 
+| Interception | Detection of goods or vessels of biosecurity concern at the border. | 
+| Knock-down spray | Commercial off-the-shelf household aerosol insecticide spray. | 
+| Land incorporating minimal development | Any plot which contains a low ratio of developed to undeveloped land. These areas may or may not have improvements, e.g. sewers etc. | 
+| Lead auditor | Auditor who is responsible for managing an audit and an audit team to ensure the scope and the objectives of the audit are achieved. The Lead Auditor can also be the sole auditor where no audit team is utilised to conduct the audit. | 
+| Legal entity | An individual person or a group of persons, a registered partnership, and Australian registered company or a government body who can be held to be legally accountable for the activities covered by an approved arrangement, including debts incurred. | 
+| Less than container load (LCL) | Sea cargo container with contents from multiple suppliers and consigned to multiple entities in Australia. | 
+| Livestock | Domestic animals as defined in the Australian Meat and Livestock Industry Act 1997. For example, cattle, horses, calves, sheep, lamb or goats raised for home use or for profit. | 
+| Location code | Refer to AQIS premises ID. | 
+| Major noncompliance | A deliberate or inadvertent action or contravention of departmental conditions that  | 
+| Major spillage | A spillage of goods subject to biosecurity control outside the confines of an approved arrangement site, which can be accessed by the public and which cannot be readily cleaned up within fifteen minutes. | 
+| Metropolitan area | Suburban area around a port. The limits of the metropolitan area for any port are determined by assessment by the department. Areas not classified as metropolitan are referred to as a non-metropolitan area or a rural area. | 
+| Minor noncompliance | A deliberate or inadvertent action or contravention of departmental conditions that results in a situation that may compromise the integrity of systems, processes or approved arrangement sites that are designed to manage or contain goods that are subject to biosecurity control. | 
+| Nominated veterinarian | A veterinarian who is employed by a nominated veterinary hospital and has a written agreement with a biosecurity industry participant to provide veterinary services to the approved arrangement site when required. The nominated veterinarian must be approved by the department and be registered under the relevant law of a state or territory as a veterinarian, veterinary practitioner or veterinary surgeon. | 
+| Nominated veterinary hospital (NVH) | Veterinary hospital nominated by a biosecurity industry participant and approved by the department which has agreed to provide emergency treatment to sick or injured animals under biosecurity control. | 
+| Non-commodity | Any article transported to Australia in conjunction with a commodity being imported, such as wooden packing. | 
+| Non-rated corrective action request (NR CAR) | A corrective action request without a noncompliance classification. Issued when the department has incorrectly provided a biosecurity industry participant with approval or incorrect advice which results in the biosecurity industry participant being non-compliant with departmental conditions. | 
+| Nurseries | A place where plants are propagated and grown to usable size. This includes retail nurseries which sell to the public, wholesale nurseries which sell only to other nurseries and to commercial landscape gardeners and private nurseries which supply the needs of institutions or private estates. This also includes sites on which young trees, shrubs, vines etc. are propagated for the purpose of transplanting or a plantation of young trees or greenhouse operations undertaken for the cultivation and/or exhibition of plants under controlled conditions. | 
+| Packing declaration | Document produced by an overseas packer and/or supplier that describes how goods in a container were packed and the type of packing material used in the container. | 
+| Permanent structure | A construction on an approved arrangement site that:  Note 2: Permanent structures are used as reference points from which the location of biosecurity areas can be measured on an approved arrangement site map. | 
+| Personal effects (PE) | Non-commercial goods imported by private individuals, often with the assistance of a household goods and personal effects forwarder or similar. Personal effects include household goods and unaccompanied baggage. | 
+| Pest | Species, strain or biotype of a plant or animal, or a disease agent, that has the potential to cause, either directly or indirectly, harm to:  | 
+| Physical containment level 1 - 4 | Australian standards for the containment of microbiological products. The classification of a microbiological laboratory dictates not only the physical infrastructure but also the work practices and equipment required. | 
+| Physical handling | Physical interaction with biosecurity risk material including:  | 
+| Plant | Includes a dead plant and any part of a plant. | 
+| Post-arrival quarantine | Refer to post-entry quarantine. | 
+| Post-entry quarantine (PEQ) | The quarantine of a consignment after arrival into Australia. For example, live plants or live animals may remain under quarantine for an extended period after entry before release. May also be referred to as post-arrival quarantine. | 
+| Pre-approval audit | An audit that is conducted before:  | 
+| Premises | Includes the following:  | 
+| Primary container | Container that is in direct contact with biosecurity risk material. This could include but is not limited to bin liners, holding tanks, unlined biosecurity bins and ventilated animal enclosures. | 
+| Probation audit | An audit conducted after:  | 
+| Process management system (PMS) | Refer to standard operating procedures. | 
+| Processing | Any type of activity undertaken on a good that changes:  | 
+| Prone to flooding | An approved arrangement site is regarded as being prone to flooding or storm surges if the floor of the AA site would be inundated by a 100-year average recurrence interval flood or storm surge event. This equates to a 1 in 100-year flood level, (one flood in 100 years ratio) or an annual exceedance probability of 1%. | 
+| Quarantine | The act of isolating something for a defined period (for testing or inspecting for the appearance of disease) | 
+| Quarantine Premises Register (QPR) | IT system used to record approved arrangement types, biosecurity industry participant’s details, audit results and what biosecurity directions have been activated for a site. | 
+| Receival area | Portion of the approved arrangement site where goods that are subject to biosecurity control are received and unpacked from a container on arrival. May also be referred to as an unpack area. | 
+| Receptacle | Non-commodity containers that are used to carry goods. Receptacles may include air cans, bins, transport containers, unit loading devices, parcels, letters, sea containers, pallets and vessels. | 
+| Release from biosecurity control |  | 
+| Relevant associates | Refer to the fit and proper test for approved arrangement applicants on the department’s website. | 
+| Rural area | Area considered to be high risk and likely to be better suited to the establishment of exotic pests and diseases than a metropolitan area. This is due to several factors, including proximity to host plant and animal material or natural environments that are generally less prevalent in built up urban areas. | 
+| Rural tailgate inspection | Type of inspection performed on containers destined to be unpacked in a rural area. The inspection is performed in a metropolitan area and involves the inspection of:  Note: internal inspection is not performed on hard frozen reefers, ISO tankers, containers carrying dangerous goods or diplomatic goods. | 
+| Salmonid hatcheries | A place where the eggs of fish belonging to the Salmonidae family (including salmon, trout and whitefish) are hatched. | 
+| Scheduled audit | An announced or unannounced audit scheduled at the low audit rate to monitor ongoing compliance of an approved arrangement site. | 
+| Seal | Small device that can be fixed to a lock, door, gate or other fixture. The device is usually numbered and must be destroyed to remove it. May refer to either a biosecurity seal or a customs seal. | 
+| Seals intact | Consignment that has been permitted to move from one place to another under seal. | 
+| Secondary container | Container that provides additional protection for the primary container. | 
+| Self-reporting importer | An importer who has satisfied the reporting requirements of the Department of Home Affairs for the importation of goods and lodgement of import declarations, on their own behalf, operating as an accredited person under a broker class approved arrangement. A person who is registered with and has successfully completed specified training approved by the department. | 
+| Sheeted enclosure | Any gas-tight enclosure used for fumigations that is not a fixed enclosure. | 
+| Significant site areas | An area within an approved arrangement site that:  Note 2: At some approved arrangement sites, the approved arrangement site boundary may coincide with the boundary of a permanent structure. Note 3: The location and function of significant site areas are required to be shown on approved arrangement site maps. | 
+| Standard operating manual (SOM) | Refer to standard operating procedures. | 
+| Standard operating procedures (SOP) | Written document or instruction detailing relevant steps and activities of a process or procedure. A standard operating procedures document provides employees with a reference to business practices, activities or tasks. | 
+| Storm surge | Coastal flooding which occurs when sea water rises above normal tidal height. | 
+| Storm water | Urban rainfall and run-off captured by an urban storm water drainage system. | 
+| Susceptible host | Plant, human, animal or the environment that can be infected by or act as a vector for an exotic pest or disease. | 
+| Tailgate inspection | Inspection performed by biosecurity officers to visually identify and address a range of biosecurity risks associated with containerised cargo. It involves the inspection of external container surfaces and inspection of internal surfaces and goods through opened container doors. If the visual assessment identifies the presence of infestations or contamination, or if the tailgate inspection does not resolve commodity, packing or documentation issues, the container will require further intervention. | 
+| Temperature controlled environment | The temperature within a fumigation enclosure that has been controlled, either through a source of heating or placement within a larger climate-controlled environment. | 
+| Trading name | A name used by an entity or person to trade under, without it being registered as a business name. Note: Trading names were collected prior to 28 May 2012 by the Australian Taxation Office (ATO). They will be displayed on the Australian Business Register (ABR) until 31 October 2018. Trading names are no longer maintained on the ABR’s Australian Business Number (ABN) lookup service. Trading names are still be maintained with the ATO for taxation purposes. However, any updates will not be displayed on the ABR's ABN lookup service. | 
+| Treatment area | Area used for the treatment of animals, vessels, plants, persons or other goods to established standards. | 
+| Treatment certificate | Certificate that specifies the treatment applied to goods within a specific consignment. | 
+| Unacceptable packaging | Packaging material of biosecurity concern. Examples of unacceptable packing include, but are not limited to, the following:   | 
+| Unannounced audit | An audit where the biosecurity industry participant is given no notice of the audit date or time. | 
+| Unpack area | Refer to receival area. | 
+| Vacant land | Any plot which contains no buildings or usable structures. These areas may or may not have improvements, e.g. sewers or power lines. | 
+| Vessel |  | 
+| Veterinary treatment | The administration or application of drugs, medicines or chemicals to an animal for the prevention or cure of disease. | 
+| Wash bay | An area of an approved arrangement site used for the cleaning of goods (e.g., machinery, vehicles, equipment, containers) contaminated with biosecurity risk material. Wash bays must conform to the approved arrangement specific class conditions. |

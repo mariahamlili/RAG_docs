@@ -1,0 +1,202 @@
+Announcements
+- Addition of following 3 new commodities onto CBIS under inspection intervention:
+  - Fresh whole garlic (offshore treated), from all countries
+  - Bulgur wheat products (parboiled, retail ready, bagged), from all countries
+  - Fresh/chilled ready-to-eat pomegranate arils, from India
+- Continue to review existing pathways and reward good compliance with reduced intervention rates
+We manage the Compliance-Based Intervention Scheme (CBIS). The CBIS applies to selected plant and animal products imported into Australia.
+About the CBIS
+The CBIS uses a risk-based intervention approach to manage imports.
+Importers can qualify for reduced intervention at the Australian border. To do this you must consistently meet our biosecurity requirements.
+The CBIS enables smoother clearance of goods and reduces regulatory cost. This allows us to focus our efforts and finite resources on areas of higher biosecurity risk.
+We continue to enhance and expand CBIS to include more imported products.
+Eligibility
+Importers and brokers must:
+- import eligible products under an eligible tariff code
+- lodge the entry in line mode
+- lodge the entry using the correct AQIS Commodity Code (ACC), if required
+- answer any biosecurity profile questions accurately
+- continue to meet the biosecurity import requirements for the products
+- demonstrate repeated compliance.
+Note: Some products may not be eligible if they have qualified for other programs.
+How it works
+The Agriculture Import Management System (AIMS) governs how the CBIS operates.
+AIMS can:
+- recognise the eligibility criteria (tariff code, profile question response)
+- target the appropriate intervention measure (such as inspection, treatment, testing or document assessment)
+- automatically generate the CBIS direction
+- recognise direction results entered by biosecurity officers
+- switch entities into and out of different CBIS modes (see system rules)
+- randomly select lines for intervention that qualify for the reduced risk-based intervention rate
+- automatically increase or decrease intervention levels.
+What triggers a rule change?
+We manage risk-based intervention rates for importers who show compliance. You must pass a specified number of consecutive interventions. Only then will you be eligible for reduced intervention rates.
+Increased intervention levels will occur when both:
+- non-compliance is detected during inspection, treatment, testing or documentation assessment
+- a failure result is recorded against the CBIS automated direction line.
+Reduced risk-based intervention rates will return when:
+- your compliance has improved
+- you have re-qualified for the risk-based intervention rates with continuous compliance results.
+How CBIS operates on inspections
+![A flow-chart demonstrating the CBIS inspection process – please refer to comprehensive description in body of text for more information.](https://www.agriculture.gov.au/sites/default/files/images/csp1-diagram-cbis-resized.png) 
+‘Census number’ refers to the number of intervention passes required to move to the reduced rate. ‘Monitoring fraction’ is the term that describes the reduced risk-based intervention rate. The monitoring fraction applies when an importer passes the census number.
+Each line in a consignment may need intervention. The chance of a line requiring intervention is equal to the monitoring fraction. Monitoring fractions apply a ‘probability of intervention’. If the fraction is 20%, then every CBIS line in a consignment has a 20% chance of requiring intervention.
+When there is non-compliance, an importer will return to an intervention rate of 100%. The importer will need to re-establish their compliance to regain the reduced intervention rate.
+We customise the census number and monitoring fraction. This is based on the biosecurity risks associated with each import pathway. We review these rates regularly. This ensures we identify changes in risk, facilitate safe trade and meet Australia’s appropriate level of protection (ALOP).
+Exclusions
+Mandatory intervention may still be required for all consignments that are:
+- lodged in container mode and are not recognised by the CBIS - AIMS rules
+- lodged without an ACC (where required)
+- processed via the Automatic Entry Processing (AEP) scheme
+- restricted due to other system rules or biosecurity concerns
+- out of scope for this arrangement
+- do not meet the import conditions on entry
+- have imported food impediments
+Clearance status
+Brokers and importers must lodge a cargo report with details about the consignment through the Integrated Cargo System, (ICS).
+Some products may display a CONDCLEAR status and are still subject to biosecurity control.
+You must wait for AIMS directions to be issued before moving, unpacking or releasing goods. A consignment with an ICS CONDCLEAR status will remain subject to biosecurity control until managed. When the status changes to CLEAR the consignment can be released.
+AQIS commodity codes
+Some products need a 4-digit AQIS Commodity Code (ACC) to qualify for the CBIS.
+Brokers and Importers must enter this code in the ICS. Consignments without this code may not be eligible for the CBIS.
+You can find the ACCs in our Biosecurity Import Conditions database (BICON). They are also in this table.
+| Product | ACC | 
+|---|---|
+| Returning Australian prawns, processed in a specific department approved facility in Thailand, for human consumption (specific permit-based import pathway) | AUST | 
+Eligible plant products
+These plant products have been added to CBIS.
+Products not listed in the tables below are not eligible for CBIS.
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Allspice of the genus Pimenta (dried, neither crushed nor ground) | 0904.21.00.03 | Inspection | 
+| Apples (dried) | 0813.30.00.31 | Inspection | 
+| Apricots (dried) | 0813.10.00.29 | Inspection | 
+| Capsicum and chilli of the genus Capsicum (dried, neither crushed nor ground) | 0904.21.00.03 | Inspection | 
+| Capsicum and chilli of the genus Capsicum, allspice and paprika (dried, crushed or ground, not in retail ready packaging up to 500g per package or >500g) | 0904.22.00.05 0904.22.00.04 | Inspection | 
+| Citrus peel (dried, excluding fresh, frozen and preserved) | 0814.00.00 | Inspection | 
+| Coconut (desiccated) | 0801.11.00.34 | Inspection | 
+| Coconut products (dried, excluding desiccated) ** | 0801.12.00.40 0801.19.00.42 | Inspection | 
+| Dates (dried), including permitted Ziziphus species | 0804.10.00.10 | Inspection | 
+| Garlic (dried, crushed or ground, not in retail ready packaging up to 500g per package or >500g) | 0712.90.90.78 | Inspection | 
+| Ginger (dried, crushed or ground, not in retail ready packaging up to 500g per package or >500g) | 0910.12.00.12 | Inspection | 
+| Grapes (dried), includes sultanas and currants | 0806.20.00.29 0806.20.00.30 0806.20.00.31 | Inspection | 
+| Tea bags and capsules | 0902 | Documentation | 
+| Onions (dried, dehydrated, freeze dried, including granules, crushed or ground, not in retail ready packaging >500g) *excludes cooked, fried, roasted. | 0712.20.00.68 | Inspection | 
+| Pepper of the genus Piper (dried, neither crushed or ground) | 0904.11.00.34 | Inspection | 
+| Permitted species of mushrooms and truffles (dried) | 0712.31.00.70 0712.32.00.71 0712.33.00.72 0712.34.00.73 0712.39.00.90 | Inspection | 
+| Powdered plant products (<=500 grams in retail ready packaging) | 0904.22.00.05 0904.22.00.04 0910.12.00.12 0910.30.00.03 | Documentation | 
+| Prunes (dried) | 0813.20.00.30 | Inspection | 
+| Saffron | 0910.20.00.02 | Inspection | 
+| Turmeric (dried, crushed or ground, not in retail ready packaging up to 500g per package or >500g) | 0910.30.00.03 | Inspection | 
+| Vanilla (dried, crushed or ground, not in retail ready packaging up to 500g per package or >500g) | 0905.20.00 | Inspection | 
+| Vanilla beans (dried, boiled or cured) | 0905.10.00 | Inspection | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Agaricus mushrooms (fresh/ chilled, from New Zealand only) | 0709.51.00.60 | Inspection | 
+| Asparagus (fresh, from Mexico) | 0709.20.00 | Inspection | 
+| Avocado (fresh, from New Zealand only) **see supplier code Table** | 0804.40.00.21 | Inspection | 
+| Capsicum and peppers of the genus Capsicum annuum (fresh, from New Zealand) | 0709.60.00.27 | Inspection | 
+| Cherries of the species Prunus avium (fresh, from New Zealand) | 0809.29.00.22 | Inspection | 
+| Cherries of the species Prunus avium (fresh, from the USA) | 0809.29.00.22 | Inspection | 
+| Dates (fresh, from the USA) | 0804.10.00.10 | Inspection | 
+| Durian (chilled and segmented, from Malaysia and Thailand only) | 0810.60.00.52 | Inspection | 
+| Garlic (fresh, whole, offshore treated) | 0703.20.00.42 | Inspection | 
+| Immature coconuts (fresh) | 0801.12.00.40 0801.19.00.42 | Inspection | 
+| Immature corn (fresh) | 0709.99.00.39 | Inspection | 
+| Lemons and limes (fresh, from the USA only) | 0805.50.00.50 | Inspection | 
+| Mandarins (fresh, from Israel only) | 0805.21.00.27 | Inspection | 
+| Mandarins (fresh, from USA only) | 0805.21.00.27 | Inspection | 
+| Mature coconuts – husk removed and prayer nuts (fresh) | 0801.12.00.40 0801.19.00.42 | Inspection | 
+| Mushrooms and truffles (fresh/chilled) - permitted species only | 0709.59.00.90 0709.52.00.20 0709.53.00.30 0709.54.00.40 0709.55.00.50 0709.56.00.60 | Inspection | 
+| Oranges (fresh, from the USA only) | 0805.10.00.23 | Inspection | 
+| Permitted stone fruits (fresh, from New Zealand) - apricots | 0809.10.00.05 | Inspection | 
+| Permitted stone fruits (fresh, from New Zealand) - peaches including nectarines | 0809.30.00.07 | Inspection | 
+| Permitted stone fruits (fresh, from New Zealand) - plums or prunes, pluots or plumcots | 0809.40.00.08 | Inspection | 
+| Permitted stone fruits (fresh, from the USA) - apricots | 0809.10.00.05 | Inspection | 
+| Permitted stone fruits (fresh, from the USA) - peaches including nectarines | 0809.30.00.07 | Inspection | 
+| Permitted stone fruits (fresh, from the USA) - plums or approved interspecific stone fruit hybrids | 0809.40.00.08 | Inspection | 
+| Peas of the species Pisum sativum (fresh, from China only) | 0708.10.00.18 | Inspection | 
+| Persimmons (fresh, from New Zealand only) | 0810.70.00.57 | Inspection | 
+| Pomegranates (fresh, from the USA) | 0810.90.00.59 | Inspection | 
+| Pomegranate arils (fresh, ready to eat, from India only) | 0810.90.00.59 | Inspection | 
+| Semi-processed garlic (fresh, from China and the Republic of Korea) | 0703.20.00.42 | Inspection | 
+| Semi-processed pineapples (fresh, from Thailand) | 0804.30.00 | Inspection | 
+| Table grapes (fresh, from the USA) | 0806.10.00.28 | Inspection | 
+| Loose tomatoes grown under the NZ Code of Practice (fresh, from New Zealand only) | 0702.00.00.03 | Inspection | 
+** New Zealand avocado supplier codes**
+Supplier codes
+| Supplier name | Supplier code | 
+|---|---|
+| AVOCO | CEN6373737K | 
+| AVOGREY ORCHARDS | CGK3793773C | 
+| DARLING GROUP HOLDINGS LTD | CFL9977366K | 
+| FRESHMAX (a division of VF DIRECT LTD) | CGK7767336J | 
+| FRESH SOLUTIONS GROUP NEW ZEALAND LIMITED | CGE3376977W | 
+| JP EXPORTS LTD | CEG9944399P | 
+| JUST AVOCADOS LTD | CEW6736664L | 
+| KIWICADO EXPORTS LTD | CFA9966976N | 
+| NZ AVOCADO COLLECTIVE | CHE4973644Y | 
+| OVAVO LIMITED | CHH7667696K | 
+| POLE TO POLE EXPORTS LTD | CFX4697343L | 
+| PRIMOR PRODUCE LTD | CFY9636634T | 
+| SEEKA LIMITED | 68682106833 | 
+| SOUTHERN PAPRIKA LIMITED | CEK4367696W | 
+| SOUTHERN PRODUCE LTD | CEA7666944J | 
+| THE NUTRITIOUS KIWIFRUIT COMPANY | CER9376699N | 
+| VALIC NZ LTD | CFW3936449K | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Frozen fruit and vegetable products (permitted on BICON) | 0710 0714 0811 0814 | Documentation | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Almonds (raw, shell removed) | 0802.12.00.08 | Inspection | 
+| Brazil nuts (raw, shell removed) | 0801.22.00.37 | Inspection | 
+| Cashews (raw, in shell and shelled) | 0801.31.00.38 0801.32.00.39 | Inspection | 
+| Hazelnuts (raw, shell removed) | 0802.22.00.10 | Inspection | 
+| Macadamias (raw, shell removed) | 0802.62.00.25 | Inspection | 
+| Permitted processed nuts (blanched, boiled, fried, pasteurised, or roasted) *includes nut pastes, creams and butters | 0801.21 0801.22 0801.31 0801.32 0802 0811.90 0812.90 0813.50 2007.99 2008.19 | Documentation | 
+| Pistachios (raw, shell removed) | 0802.52.00.23 | Inspection | 
+| Walnuts (raw, shell removed) | 0802.32.00.12 | Inspection | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Bulgur wheat (parboiled, retail ready packaged or bagged) | 1904.30.00.50 | Inspection | 
+| Malted grains | 1107.10.00.26 1107.20.00.27 | Inspection | 
+| Sesame seed (hulled) | 1207.40.00.11 | Inspection | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Mushroom spawn and cultures for propagation | 0602.90.00 | Inspection | 
+| Peat or sphagnum peat with or without approved additives (from countries free from foot and mouth disease (FMD), excluding Hungary and Slovakia). [Defined as the material that accumulates in the lower levels of a peat bog]. | 2703.00.00.07 | Inspection | 
+Eligible animal products
+These animal-based products have been added to CBIS.
+Products not listed in the tables below are not eligible for CBIS.
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Bagged aquatic feed that requires testing for animal (other than aquatic) derived material (specific permit-based import pathway) | 2309.9000.27 | Testing | 
+| Cnidarians, echinoderms, tunicates and poriferans that are fresh or have undergone minimal processing | 0307.9, 0308, 1604.19, 1604.20, 1605.54, 1605.6 | Inspection | 
+| Dried prawns for human consumption | 1605.21, 1605.29, and 0306.95 | Inspection | 
+| Par-cooked breaded, battered or crumbed (BBC) prawn products for human consumption | 0306.16, 0306.17, 0306.35, 0306.36, 0306.95, 1604.2000.70, 1605.21, 1605.29, 1902.20 | Inspection | 
+| Returning Australian prawns, processed in a specific department approved facility, for human consumption (specific permit-based import pathway) | 0306.167.00.34 ACC:AUST | Inspection and testing | 
+| Trawl or purse seine caught cephalopods for animal consumption | 0307.43, 0511.91 | Inspection | 
+| Uncooked highly processed (HP) prawn products for human consumption | 0306.16, 0306.17, 0306.35, 0306.36, 0306.95, 1604.2000.70, 1605.21, 1605.29, 1902.20 | Inspection | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Retail-ready cosmetics that contain animal-derived ingredients, where the animal-derived content is less than 20% by mass | 3303, 3304, 3306.10, 3307.10, 3307.20, 3307.30 | Documentation | 
+| Soaps | 3401, 3402 | Documentation | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Feathers (loose feathers or manufactured articles made with feathers) that have been treated prior to export by one of the departments approved treatments | 6701, 0505.10 | Inspection | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Tanned hides and skins, restricted to uses other than animal consumption, environmental purposes, growing purposes or veterinary therapeutic use | 4104, 4105, 4106, 4302 | Inspection | 
+| Untanned hides and skins from New Zealand, restricted to uses other than animal consumption, environmental purposes, growing purposes or veterinary therapeutic use | 4101, 4102, 4103, and 4301 | Inspection | 
+| Import Pathway | Eligible tariff codes | Intervention measure | 
+|---|---|---|
+| Australian registered (AUST R) human therapeutics and medicines | 3002.12, 3002.15, 3002.41.00.01 | Documentation | 
+| Human derived materials (excluding antibodies, cell lines and human milk) for therapeutic use only | 3002.12, 3002.15 | Documentation | 
+| Human therapeutics and medicines for use in clinical trials (including accountability and disposal) | 3002.12, 3002.15 | Documentation | 
+| Purified antibodies raised against inorganic material or antigens from multicellular organisms | 3002.12, 3002.15 | Documentation | 
+| Test kits not testing for disease agents | 3002.12, 3002.15, 3822.13, 3822.19 | Documentation | 
+Contact us
+For more information email CBIS@aff.gov.au.
+You can also contact Imports on 1800 900 090 or email imports@aff.gov.au.
+See all import conditions on our Biosecurity Import Conditions database (BICON).

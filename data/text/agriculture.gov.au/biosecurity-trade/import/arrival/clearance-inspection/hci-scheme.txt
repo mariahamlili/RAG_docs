@@ -1,0 +1,71 @@
+- The Highly Compliant Importer scheme is a key activity under the National Biosecurity Strategy Action Plan to enhance a shared biosecurity culture.
+- The department is committed to driving positive biosecurity behaviours and incentivising compliance through promotion and expansion of the HCI scheme.
+The Highly Compliant Importer (HCI) scheme applies varying rates of inspection based on an importer’s compliance history. It aims to reward importers who consistently comply with Australia’s biosecurity import requirements and pass inspection. HCI aligns with the Biosecurity Compliance Statement where, for certain commodities, we may reduce border control referrals when strong compliance history is demonstrated.
+Video
+Watch our one minute video for an introduction on the HCI.
+Australia’s biosecurity system protects our environment, our agriculture and our way of life.
+It’s a shared responsibility and industry plays a critical role.
+The Highly Compliant Importer Scheme recognises importers who consistently meet Australia’s biosecurity requirements and have a strong compliance history.
+Highly Compliant Importers benefit from fewer inspections, faster clearance, and lower costs when importing eligible goods.
+We’re working with industry to expand the Highly Compliant Importer scheme, by identifying additional low-risk commodities that could be included.
+This partnership helps protect Australia, while supporting efficient and predictable trade.
+To learn more about the Highly Compliant Importer Scheme visit our website today.
+[Text on screen: agriculture.gov.au/hci]
+Benefits and cost savings
+HCI provides importers with the following benefits:
+- no application process
+- reduced inspections and associated fees
+- faster clearance times
+- it can be used in conjunction with approved arrangement class 19.2.
+Eligible commodities
+The following table lists eligible commodities under HCI. Further commodities will be added to the scheme in future system releases.
+| Eligible commodities | Tariff | In scope for Approved arrangement class 19.2? | 
+|---|---|---|
+| Green coffee beans (for processing) | 0901.1 | Yes | 
+| New tyres | 401110, 401120, 401130, 401140, 401170, 401180, 401190 | Yes | 
+| Whole aircraft | 8801, 8802, 8806 | Yes | 
+| Machinery and machinery parts | 7307, 7326, 8409, 8412, 8413, 8414, 8423, 8427, 8428, 8429, 8430, 8432, 8433, 8437, 8467, 8479, 8483, 8501, 870410 | Yes | 
+HCI exclusions
+Instances where eligible commodities will be excluded from HCI include when:
+- higher system rules and profiles have been applied to the entry (e.g. supplier importer profiles (SIP) and Cargo Compliance Verification (CCV))
+- an Automatic Entry Processing (AEP) error has occurred on the entry
+- an approved arrangement class 19.1 verification is due
+- approved arrangement class 19.1 concerns, other than rural, are declared.
+HCI directions
+Once an importer has qualified for HCI, directions will automatically be applied in the Agriculture Import Management System (AIMS). The following table details HCI specific directions.
+| Direction type | When the direction is applied | 
+|---|---|
+| Documentation – HCI documentation | When eligible commodities require a documentation assessment under HCI. | 
+| Inspection – HCI inspection | When eligible commodities require inspection under HCI. | 
+| Inspection – HCI Inspection – Secure Seals Intact | When eligible goods require a secure seals intact inspection under HCI. | 
+| Final directives – Finalised and released | When eligible commodities have been released from biosecurity control. The direction comments will state the goods have been released under HCI. | 
+Compliance model
+Compliance rates for each commodity are established by the biosecurity risk of the commodity. HCI provides for reduced inspections below the standard rate established by the biosecurity risk. The following table details qualification numbers and how compliance will be monitored under the scheme.
+| Commodity group | Review level | Inspection rate | Criteria to progress to next level | 
+|---|---|---|---|
+| Green coffee beans (for processing) | Census | 100% | 10 consecutive compliant inspections | 
+|  | Monitoring | 25% | Ongoing | 
+| New tyres; Aircraft and aircraft parts | Census | 100% | 5 consecutive compliant inspections | 
+|  | Monitoring | 75% | 10 consecutive compliant inspections | 
+|  | Reduced | 50% | Ongoing | 
+| Machinery and parts of machinery | Census | 100% | 25 consecutive compliant inspections | 
+|  | Monitoring | 75% | 15 consecutive compliant inspections | 
+|  | Reduced | 50% | Ongoing | 
+If an eligible commodity fails a HCI inspection, the importer will be subject to either:
+- an increased inspection rate; or
+- remain on a 100% inspection rate.
+Note: an inspection failure is not recorded as 'non-compliance' under the HCI or approved arrangement class 19.
+Contact us
+For further information, email Class19@aff.gov.au.
+HCI general information
+HCI enables intervention rates below the standard intervention rate established by the biosecurity risk of the commodity in those situations where an importer demonstrates consistent compliance with import conditions. This reduces the biosecurity risk posed by imports of that commodity by that importer. It is applied by the q-ruler in AIMS to eligible commodities. The q-ruler applies a hierarchy of system rules to consignments based on biosecurity risk level. A consignment will process through each hierarchy until there is a 'match' and in some instances, a direction will be issued. If goods are eligible for HCI, the q-ruler will group together all lines on an entry that are from the same commodity group and apply one outcome for those lines (i.e. inspection or a release from biosecurity control).
+HCI targets import pathways where onshore inspection is required. Depending on the importer’s compliance history, goods will either:
+- remain on 100% inspection; or
+- receive reduced intervention.
+There is no application process to qualify for HCI. The AIMS q-ruler monitors an importer’s compliance history count against eligible commodity groups and places eligible importers onto the scheme once they meet the qualification number. Please refer to the compliance model section for more information on the qualification number.
+HCI is not limited to lodgements under approved arrangement class 19. HCI applies in relation to documents submitted by brokers that are not approved arrangement class 19.2 accredited.
+Once the AIMS q-ruler processes lines in scope of approved arrangement class 19.2, it will then check if the goods are eligible for HCI and the goods will be directed for inspection or released.
+The AEPCOMM code 'INS' will always be the BICON onshore outcome for goods eligible under HCI. The AIMS q-ruler will then determine if the goods are due for an inspection.
+HCI is not an approved arrangement.
+Goods can still be eligible for HCI if the entry is subject to an approved arrangement class 19.2 verification. Once the verification has been performed, assessment officers will determine if an HCI inspection is due or not due and either direct the goods for inspection or release the goods.
+HCI works in a similar way to the Compliance-Based Intervention Scheme. However, HCI monitors compliance by instance, or at entry level or commodity group level, rather than assigning a different outcome per commodity line. It will group together all lines on an entry that are from the same commodity group and one direction will be given. HCI also has the flexibility to work in conjunction with approved arrangement class 19, or it can work on its own.

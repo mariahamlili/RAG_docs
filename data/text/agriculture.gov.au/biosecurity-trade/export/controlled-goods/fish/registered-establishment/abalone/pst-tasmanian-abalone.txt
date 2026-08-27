@@ -1,0 +1,40 @@
+Trigger for sampling abalone
+When Tasmania’s Shellfish Market Access Program (ShellMAP) monitoring detects the presence of biotoxins and/or potentially toxic phytoplankton in waters and/or shellfish meat samples that contain paralytic shellfish toxins (PST) levels which result in closure of shellfish harvest areas (i.e. above 0.8 mg/kg), the Department of Agriculture, Water and the Environment (the department) requires abalone sampling information from potentially affected abalone catch zones.
+The department published an Industry Advice Notice (2020-02) , to notify State Shellfish Control Agencies that a new method for PST analysis is now permitted. The Boundy method of analysis is permitted for analysis in bivalve molluscan shellfish sourced from export approved harvest areas. This method must be used in accordance with Chapter 10 of the Australian Shellfish Quality Assurance Operations Manual 2019 (domestic standard). The Lawrence method also remains an accepted method for analysis of PST.
+Sampling Information
+- A minimum of 5 abalone must be sampled from each abalone catch zone potentially affected. Samples must be taken by an independent sampler (i.e. an individual who has no investment and is not a stakeholder within the industry) or a sampler who is approved by the department.
+- Each individual abalone will have separate samples taken from the foot and the viscera (i.e. 5 foot and 5 viscera samples from each abalone catch zone potentially affected).
+- Foot and viscera samples from each site to be homogenised (separately), reserving a minimum of half of each individual foot and viscera homogenate.
+- The homogenates from the foot (n=5) and the viscera (n=5) may be pooled (composited) to create one sample for the foot and one sample for the viscera representative of the catch zone. Alternatively, each sample may be tested separately.
+- Determine if retest or confirmatory testing is required
+	
+  - For samples analysed using the Lawrence method:
+		
+    - For pooled samples that return a positive HPLC screen result at or above (≥) 0.4 mg/kg, back-testing of each individual abalone foot/viscera homogenate (n=5) from the implicated site must be undertaken. These tests will be conducted via HPLC screen result.
+    - For individually screen tested samples that return positive results of ≥ 0.4 mg/kg (foot or viscera), samples must have confirmatory analysis undertaken.
+  - For samples analysed using the Boundy method:
+		
+    - For pooled samples that return a positive result at or above (≥) 0.16mg/kg, samples must be individually retested from the affected catch zones, using the Boundy method. Where the retested samples return a positive result above 0.8mg/kg, the abalone from the affected catch zone will not be eligible for export.
+- For samples analysed using the Lawrence method:
+		
+- Where confirmatory tests have been undertaken, these results will be used to determine the export eligibility of abalone from the harvest zone(s) in question.
+Export eligibility of harvest zones based on sampling
+Once test results have been obtained from each abalone catch zone potentially affected, the export eligibility of each will be determined based on the PST levels found.
+- For live export to be permitted from a harvest zone, the PST levels in both the foot and viscera of all abalone tested must be below 0.8 mg/kg. Scientific advice may be sought before a final export eligibility decision is made.
+- Where PST levels are above 0.8 mg/kg in the viscera but are below 0.8 mg/kg in the foot, only product that has had the viscera removed and rumbled/scrubbed or pressure washed meat (and may be in final form as canned, chilled or frozen) may be exported. However, scientific advice may be sought before a final export eligibility decision is made.
+- Where test results show PST levels at or above 0.8 mg/kg in both foot and viscera, or where it is evident that the PST levels are increasing, export restrictions will be implemented or remain in place until further testing is undertaken and analysed.
+- When further sampling rounds are undertaken for the purpose of lifting export sourcing restrictions for abalone, the test results will be analysed on a case-by-case and scientific advice may be sought.
+- Abalone catch zones in nearby areas that are not covered by TSQAP monitoring must undergo the same testing regime as has been identified above to be eligible to export.
+Obtaining export certification
+Export registered abalone processing establishments must ensure procedures are included within their approved arrangement that identify the source of all abalone (i.e. block zones). An establishment must be able to present evidence at audit that they have complied with the sourcing restrictions.
+Canning - validation that canning reduces PST levels
+The department recognises that the canning process where viscera and pigment are removed through rumbling, high pressure washing or scrubbing prior to canning, may sufficiently reduce the PST levels below the regulatory limit (0.8 mg/kg).
+However, there is insufficient data that identifies the extent of reduction of PST levels in abalone that occurs during this processing.
+Until results are presented that support the reduction in PST levels (i.e. pre and post processing analysis of abalone samples), the department will require end product testing of canned abalone product where sourcing restrictions are currently in place.
+![Flow chart showing Abalone PST Management for Export Eligibility](https://www.agriculture.gov.au/sites/default/files/style%20library/images/daff/__data/assets/image/0011/2279306/abalone.gif) 
+Download
+| Document | Pages | File size | 
+|---|---|---|
+| 2021 policy - PST in Tasmanian abalone: Export eligibility PDF ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) | 3 | 360 KB | 
+| 2021 policy - PST in Tasmanian abalone: Export eligibility DOCX ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/msword.gif) | 3 | 237 KB | 
+If you have difficulty accessing these files, please visit web accessibility.

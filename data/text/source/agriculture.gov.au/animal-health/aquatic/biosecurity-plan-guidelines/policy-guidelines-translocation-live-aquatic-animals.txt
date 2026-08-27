@@ -1,0 +1,1626 @@
+National policy guidelines for 
+the translocation of live 
+aquatic animals
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+ii 
+© Commonwealth of Australia 2020 
+Ownership of intellectual property rights 
+Unless otherwise noted, copyright (and any other intellectual property rights, if any) in this publication is owned by 
+the Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except 
+content supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Inquiries about the licence and any use of this document should be emailed to copyright@agriculture.gov.au. 
+ 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: Department of Agriculture, Water and the 
+Environment 2020, National policy guidelines for the translocation of live aquatic animals, Canberra, March 2020. 
+CC BY 4.0. 
+ISBN 978-1-76003-263-0 
+This publication is available at agriculture.gov.au/animal/aquatic/guidelines-and-resources. 
+Department of Agriculture, Water and the Environment 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+Preparation of this document 
+The Sub-Committee on Aquatic Animal Health (SCAAH) revised the National policy guidelines for translocation of live 
+aquatic organisms 1999 to address new legislation, policies and international standards. SCAAH was nominated to 
+lead the revision, and it convened a multi-sectoral working group to revise the policy. The working group included 
+representatives from SCAAH, the National Aquaculture Council, the Aquaculture Committee, the Marine Pest Sectoral 
+Committee and the Invasive Plants and Animals Committee Freshwater Fish Expert Group. The working group revised 
+the guidelines and sought comment from participating groups. The revised guidelines were endorsed by SCAAH, the 
+Australian Fisheries Management Forum, the Animal Health Committee, the Marine Pest Sectoral Committee, the 
+Environment and Invasives Committee, and the National Biosecurity Committee. 
+The Australian Government acting through the Department of Agriculture, Water and the Environment has exercised 
+due care and skill in preparing and compiling the information and data in this publication. Notwithstanding, the 
+Department of Agriculture, Water and the Environment, its employees and advisers disclaim all liability, including 
+liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of 
+accessing, using or relying on any of the information or data in this publication to the maximum extent permitted by 
+law.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+iii 
+Contents 
+Introduction ....................................................................................................................................................... 5 
+1.1 
+Purpose .......................................................................................................................................................... 5 
+1.2 
+Definition ....................................................................................................................................................... 5 
+1.3 
+Scope ............................................................................................................................................................... 6 
+1.4 
+Risk management ...................................................................................................................................... 7 
+1.5 
+Risk analysis ................................................................................................................................................. 8 
+2 
+Policy framework ................................................................................................................................. 10 
+2.1 
+Rationale ..................................................................................................................................................... 10 
+2.2 
+Objective ..................................................................................................................................................... 10 
+2.3 
+Policy guideline principles .................................................................................................................. 10 
+2.4 
+Policy outcomes ....................................................................................................................................... 12 
+2.5 
+Gaps in existing jurisdiction policies .............................................................................................. 12 
+2.6 
+Step-by-step approach—basic process ......................................................................................... 12 
+3 
+Context ..................................................................................................................................................... 14 
+3.1 
+Translocation scenarios ....................................................................................................................... 14 
+4 
+Risk analysis ........................................................................................................................................... 19 
+4.1 
+Hazard identification ............................................................................................................................. 19 
+4.2 
+Risk assessment ....................................................................................................................................... 19 
+4.3 
+Example risk analyses ........................................................................................................................... 30 
+Appendix A: Risk assessment likelihood tables ................................................................................. 31 
+Appendix B: Risk assessment consequence table ............................................................................. 32 
+Appendix C: Australian translocation policies and legislation .................................................... 33 
+Appendix D: Gaps identified in existing translocation policies ................................................... 37 
+References ....................................................................................................................................................... 39 
+ 
+Tables 
+Table A1 Example likelihood levels for risk assessment ................................................................................ 31 
+Table A2 Likelihood ranges and qualitative likelihood categories ............................................................ 31 
+Table B1 Example consequence levels for risk assessment .......................................................................... 32
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+iv 
+Figures 
+Figure 1 Translocation assessment process flow chart .................................................................................. 13 
+Figure 2 Risk assessment for translocation of aquatic animals, staged approach ............................... 20 
+Figure 3 Risk estimation matrix, likelihood and consequences of establishment and spread ....... 28 
+ 
+.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+5 
+Introduction 
+This document is based on the revised National policy guidelines for translocation of live aquatic 
+organisms 1999, updated to address new legislation, policies and international standards. 
+1.1 
+Purpose 
+This document should be used to guide any translocation activity of live aquatic animals. This 
+could be done by: 
+ 
+Government biosecurity 
+ 
+Government fisheries 
+ 
+Aquaculture industry 
+ 
+Conservationists (Government or eNGO) 
+ 
+Farmers 
+These agents use translocations for fish stock enhancement (in ornamental fish trade), 
+aquaculture (including open water ranching) and conservation (for re-introduction or 
+enhancement of depleted stocks). Translocations for other purposes (for example—attempted 
+biological control or fish rescue) may also be proposed. 
+The guidelines aim to provide information in translocation best practice and support 
+development of consistent policies to: 
+ 
+reduce potential for introduction or spread of aquatic animal pests and diseases 
+ 
+improve Australia’s biosecurity 
+ 
+protect industry productivity 
+ 
+maintain ecological sustainability. 
+They also provide a guide to preparing risk assessments for proposals or applications for 
+translocating live aquatic animals. 
+1.2 
+Definition 
+Translocation is the deliberate movement of live aquatic animals (including at all stages of the 
+life cycle and any derived, viable genetic material): 
+ 
+beyond their accepted distribution 
+ 
+to areas that contain genetically distinct populations 
+ 
+to areas with different disease status.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+6 
+1.3 
+Scope 
+These guidelines explain how to use a risk-analysis approach to assess possible impacts of 
+proposed domestic translocation of live aquatic animals between regions within Australia. 
+Risk analysis comprises: 
+1) hazard identification 
+2) risk assessment 
+3) risk management 
+4) risk communication. 
+Risk analyses should examine the likelihood of translocated live aquatic animals or other 
+associated organisms establishing in and/or spreading outside the designated translocation 
+area, and the potential impacts on the environment, the economy, population disease status and 
+population genetics. Any proposed translocation activities must also comply with relevant 
+federal and state legislation. 
+Under the World Trade Organization (WTO) Agreement on the Application of Sanitary and 
+Phytosanitary Measures, countries or jurisdictions determine the appropriate level of protection 
+(ALOP) to protect human, animal and plant life or health within their territory. Risks identified 
+as higher than the ALOP can often be managed, including for translocation activities. 
+Live aquatic animals are viable aquatic animals (that is, they can spread disease or reproduce 
+when mature). The term ‘aquatic’ is used to include all aqueous environments including 
+hypersaline, marine, estuarine and freshwater environments. 
+Out of scope 
+These guidelines exclude animals from classes Mammalia, Aves, Amphibia and Reptilia. These 
+classes are covered by different policies. 
+These guidelines do not directly address risks associated with importation of live aquatic 
+animals (or animal products) into Australia from overseas. These are covered in national import 
+policies and procedures. However, residual risks may be associated with the importation of 
+aquatic animals/animal products. People planning translocation activities should consider these 
+risks case by case in domestic translocation risk assessments. 
+The guidelines do not cover miscellaneous translocations (such as biofouling and ballast water) 
+not associated with a deliberate translocation activity. Miscellaneous translocations include 
+accidental movements not associated with a deliberate translocation or malicious 
+translocations. 
+See DAWE (2015) for translocation guidelines for bait and berley.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+7 
+1.4 
+Risk management 
+Translocation of live aquatic animals within and between Australian jurisdictions is increasing, 
+and state and territory governments have developed policies to manage the associated risks. 
+However, these policy documents have been focused on risk-management measures, and many 
+do not include the associated risk analysis. 
+These guidelines are to assist people and organisations responsible for translocation of live 
+aquatic animals by identifying potential risks associated with translocation activities and 
+providing guidance on the risk analysis process for live aquatic animal movement. This will 
+ensure consistent application of translocation policies across jurisdictions. 
+National context 
+Live aquatic animals are translocated for socio-economic and environmental benefit; such as for 
+commercial and recreational fishery enhancement, to move aquaculture stocks (for example, 
+between hatchery and grow-out facilities) or to restock endangered species for conservation 
+purposes. They may also be translocated for other purposes, such as pest control or removal 
+from compromised water bodies (fish rescue). 
+Translocation risks introducing diseases and pests, altering genetic structure of existing 
+populations and changing the receiving environment. 
+Translocation activities may also affect species or areas of national environmental significance 
+(for example—listed threatened species or ecological communities, listed migratory species and 
+wetlands of national importance, including RAMSAR) identified under the Environment 
+Protection and Biodiversity Conservation Act 1999 (EPBC Act). The EPBC Act should be 
+considered in any translocation proposal. 
+People or organisations may propose translocation of aquatic species listed as threatened under 
+the EPBC Act for conservation, and as mitigation or compensation to offset impacts on a species 
+or its habitat resulting from actions referred (sent to the Australian Government Minister for the 
+Environment for assessment) under the EPBC Act. The Department of Agriculture, Water and 
+the Environment (DAWE 2020a) provides information on considering translocation proposals 
+resulting from EPBC Act referral. 
+Aquatic animal translocation must be controlled because the spread of diseases and pests in 
+open aquatic environments is difficult to manage and often irreversible. Translocation of species 
+that may interbreed with local populations can alter genetic make-up, particularly within 
+isolated populations that may have limited genetic exchange with other populations. Genetic 
+status and differences between populations may not be understood and, even if they are, 
+potential impacts of translocation on population genetics can be difficult to predict. 
+The Intergovernmental Agreement on Biosecurity (IGAB) (COAG 2012) sets national priorities 
+for biosecurity. These include the development of a national management framework to ensure 
+that nationally significant pests and diseases established in Australia are contained, suppressed 
+or otherwise managed. The Australian and state and territory governments have given in-
+principle support to the management of translocation of animals to meet this priority. Under 
+IGAB, national approaches have been agreed between parties to work together to prevent,
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+8 
+prepare for, detect and mitigate biosecurity risks, and respond to, manage and/or recover from 
+biosecurity incidents should they occur. 
+To facilitate interstate trade and support the operation of effective, efficient biosecurity controls, 
+jurisdictions have agreed to limit the application of interstate biosecurity measures to the level 
+necessary to mitigate risks to the economy, environment and community. These measures will 
+be the least trade restrictive possible and based on a scientific analysis of the risk of entry, 
+establishment and spread of a pest or disease, and applied only to the extent necessary to 
+achieve Australia’s ALOP. 
+State and territory governments will accept alternative interstate biosecurity measures where 
+they achieve equivalent biosecurity risk reductions. IGAB provides for the development and 
+maintenance of regional disease and pest status subject to provision of scientific evidence to 
+define and support it. 
+International context 
+Australia is a member of the World Trade Organization (WTO) and is bound by the Agreement 
+on the Application of Sanitary and Phytosanitary Measures (SPS agreement) (WTO 1995). The 
+WTO recognises the World Organisation for Animal Health (OIE) as the international standard–
+setting organisation for aquatic animal sanitary measures (OIE 2020a). OIE objectives include 
+ensuring transparency in global animal disease and zoonosis, and publishing health standards 
+for trade in animals and animal products. Australia is a member of the OIE and has established 
+and maintained animal disease reporting and surveillance programs that demonstrate its 
+disease status. To meet our international obligations, domestic translocation measures within 
+Australia should be consistent with measures we apply at the border. 
+A coordinated national approach to managing disease and pest risks through translocation 
+management will ensure Australia can meet its national biosecurity requirements and support 
+international trading negotiations and declarations of disease freedom. 
+1.5 
+Risk analysis 
+Risk analysis is the main method used to assess the hazards and risks (positive and negative) 
+associated with a proposed translocation activity, and to identify management measures to 
+minimise potential adverse impacts. 
+Risk analysis provides a scientific basis for policy recommendations, decisions and legislative 
+amendments. Risk analysis estimates the overall level of risk from proposed translocations—
+including environmental impacts, spread of diseases or pests, and genetic impacts. Risk analysis 
+helps those undertaking translocation activities to rank or determine risks requiring 
+management and allocate resources. 
+Risk analysis is defined in IGAB (COAG 2010) as: 
+Assessment of the level of biosecurity risk associated with the entry, emergence, 
+establishment, and spread of pests and diseases and the identification of options to 
+limit the level of biosecurity risk. Includes risk assessment, risk management and 
+risk communication.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+9 
+Risk analysis is widely used in commercial and industrial fields and in quarantine and 
+translocation applications. Terminology varies. Terminology used in this document is consistent 
+with the Aquatic Animal Health Code (OIE 2020a). 
+A risk analysis has five steps: 
+1) Scope or context establishment 
+a) reason for considering translocation 
+b) outcome sought 
+2) Hazard identification 
+a) what can go wrong 
+3) Risk assessment 
+a) how likely it is to go wrong 
+b) consequences of it going wrong—what is acceptable and what is unacceptable 
+4) Risk management 
+a) how we can reduce unacceptable risks to an acceptable level 
+5) Monitor and regularly review effectiveness of all steps in the process and communicate with 
+relevant stakeholders 
+The code provides information on risk analysis for translocation of aquatic animals for 
+international trade.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+10 
+2 Policy framework 
+2.1 
+Rationale 
+These guidelines recognise the sovereignty of each jurisdiction and acknowledges that the risks 
+of translocation and adverse consequences related to aquatic diseases, pests, environmental 
+change and altered population genetics may vary between regions. The processes described 
+here should form the basis for each jurisdiction’s translocation analysis. Jurisdictions across 
+Australia should adopt these policy guidelines to minimise risk in translocations. This will 
+prevent adverse impacts on receiving habitats, and fauna and flora. 
+2.2 
+Objective 
+These guidelines provide a national framework for risk analyses on proposals for live aquatic 
+animal translocations. 
+State and territory governments are responsible for managing translocations within and 
+between borders. Each government determines its own policies, guidelines and legislation to 
+manage risks. These guidelines aim to facilitate assessment of proposals and development of 
+responsible, science-based and nationally consistent translocation polices. Individual 
+jurisdictions may implement more rigorous processes, statutory requirements or criteria. 
+State and territory governments should use legislation, compliance activities, penalties, 
+eradication/control and education programs to minimise accidental and malicious 
+translocations. 
+Improved national translocation risk management will contribute to and complement state and 
+territory measures. 
+See Appendix C: Australian translocation policies and legislation. 
+2.3 
+Policy guideline principles 
+2.3.1 
+Principles 
+These policy principles are guided by the IGAB (COAG 2012). The IGAB form the core of these 
+guidelines and should guide any translocation proposal assessment. The IGAB sets national 
+priorities for biosecurity and the OIE (2020b) provides standards for safe international trade of 
+aquatic animals. 
+People or organisations planning translocation activities should conduct a risk analysis. This 
+should consider likelihood of pests establishing a viable population, disease status at source and 
+destination, and potential to introduce diseases and affect biodiversity. The risk analysis should 
+assess the likelihood and consequences of translocation hazards, and the mechanism for risk 
+management and minimisation. They should assess habitat preservation, economic impacts, 
+threatened species status, disease status and possible genetic effects for aquatic animals being 
+released into the wild. See Section 2.6 Step-by-step approach—basic process.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+11 
+Anyone addressing translocation risk management should ensure they apply these policy 
+principles, and consider the circumstances of the jurisdiction, scope of the proposed policy, 
+expected costs and stakeholder impacts. 
+ 
+Use an accepted risk-analysis methodology informed by scientific analysis of environmental, 
+disease and genetic risks. 
+ 
+Consider the accepted disease or pest status of the zone or compartment of origin and 
+destination to determine risk of introduction. 
+ 
+Consider the current and future suitability of destination environment, including potential 
+environmental variation as a result of changing climates and future developments. 
+ 
+Consider whether translocation is likely to affect species or areas of national environmental 
+significance or others identified under the EPBC Act. If so, check whether ministerial 
+approval is necessary (DAWE 2020). 
+ 
+Mitigate any unacceptable risks identified by the risk analysis. 
+ 
+Use only the least restrictive measures to mitigate risks. Consider circumstances of the 
+risks, pathways, impact on stakeholders, feasibility and cost before choosing policy 
+instruments. 
+ 
+Assess impact of any proposed policy on stakeholders and disruption to existing trade or 
+environmental values. If regulation is to be imposed, check jurisdiction requirements on 
+whether a regulation impact statement is necessary. 
+ 
+Ensure that benefits of risk-management measures outweigh costs. 
+ 
+Consider unintended consequences of the policy—for example, changes in trade to manage 
+high risk pathways. 
+ 
+Ensure measures are consistent with Australian agreements and international obligations. 
+ 
+Develop a stakeholder communication strategy to facilitate policy implementation. 
+ 
+Review policy guidelines to ensure they continue to satisfy policy principles and are not 
+affected by changes in distribution of diseases or pests. 
+Despite clear potential economic, social or conservation benefits, translocation of an aquatic 
+species or non-local stocks may risk impacting the disease and pest status of the receiving 
+ecosystem. 
+For translocations into catchments or maritime regions that fall under more than one 
+jurisdiction—for example, the Murray–Darling Basin or the Lake Eyre catchment—approval 
+from all affected jurisdictions and national environmental agencies is necessary. 
+2.3.2 
+Policy guidelines 
+The Aquatic Animal Health Code (OIE 2020a) provides guidance on importing animals from 
+areas with defined disease status. It contains disease-specific chapters with articles relevant to 
+translocation of live aquatic animals, including on importation from disease-free or infected 
+areas. The code was developed to minimise risk of spread of disease internationally. However, it 
+may also be applicable to domestic translocations. It provides standards on control of aquatic 
+animal health risks associated with transport of aquatic animals, aquatic animal health measures
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+12 
+applicable before and at departure, aquatic animal health measures applicable during transit 
+and aquatic animal health measures applicable on arrival. 
+The code includes standards and surveillance requirements on country declaration of freedom 
+from a disease. Jurisdictions seeking to declare a zone or compartment as being free from a 
+specific disease should consult these. Users of these guidelines should adhere to these standards 
+to ensure that movement of animals within Australia is consistent with measures that apply at 
+the border. Jurisdictions can use the code as a basis to recognise disease-free populations for 
+purposes of translocation. This may benefit international trade where certification to 
+international standards is required. 
+2.4 
+Policy outcomes 
+These guidelines aim to achieve these key policy outcomes: 
+ 
+Translocation policies are developed consistent with these guidelines and use consistent 
+terminology, risk-analysis methodology and policy approaches. 
+ 
+Translocation policies are supported by appropriate legislation or policy. 
+ 
+Translocation policies are supported with adequate public awareness and enforcement 
+activities, and lead to acceptable compliance. 
+ 
+Translocation policies use a nationally accepted, explicit and transparent risk-analysis 
+process that 
+ 
+is scientifically based 
+ 
+is appropriate to the circumstances 
+ 
+considers the likelihood of escape/entry and subsequent survival and establishment of 
+translocated species and consequences. 
+ 
+Translocation policies incorporate regular analysis and improvement of risk-management 
+strategies, including 
+ 
+adequacy of risk analysis, decision-making and enforcement 
+ 
+education of all public and private individuals involved about the risks of unintentional 
+introductions. 
+2.5 
+Gaps in existing jurisdiction policies 
+See Appendix D: Gaps identified in existing translocation policies. 
+2.6 
+Step-by-step approach—basic process 
+Figure 1 shows the translocation assessment process, and can be used as a checklist.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+13 
+Figure 1 Translocation assessment process flow chart
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+14 
+3 Context 
+3.1 
+Translocation scenarios 
+Consequences of translocating aquatic animals will be different depending on: 
+ 
+the receiving environments and production systems 
+ 
+any measures implemented to manage risks. 
+Biosecurity measures applicable to parts of production systems or receiving waters can be 
+described as ‘entry level’, ‘internal’ and ‘exit level’. A risk analysis must consider where the risk 
+is, whether it requires mitigation measures and whether these can be applied to the production 
+system or receiving waters. For entry-level biosecurity, the risk analysis must include processes 
+to demonstrate health status of the source stock, and management of water, fouling and fomites 
+as pathways for the introduction of diseases or pests into the production system or receiving 
+waters. 
+Internal biosecurity measures are those used to restrict potential spread of disease within a 
+facility or area. They include internal quarantine measures and separation of sectors within a 
+facility or area. Exit-level biosecurity measures apply to stock and by-products (including 
+discharge of water or other wastes) as they leave the system, used to minimise risk of spread of 
+diseases or pests from the production system or receiving waters. These include onsite 
+processing or limiting areas of distribution of products (for example, waste pond sludge used for 
+fertiliser) to areas with the same disease or pest status. 
+See Department of Agriculture, Water and the Environment (DAWE 2015a) for information on 
+production systems and industry practices relevant to disease control. 
+See the Marine Pests website (DAWE 2020b) for information on marine pests and an interactive 
+map showing distribution of known established marine pests in Australia. 
+3.1.1 
+Open systems 
+Open systems include stocking programs and ranching. 
+In open systems there is no control over animal movement or water flow. Translocation of 
+aquatic animals into open water permits uncontrolled interaction of translocated animals with 
+the environment. Translocation of animals into open systems in Australia is done for 
+recreational fishery enhancement, for conservation purposes (reintroduction or stock 
+enhancement of rare species) or ranching (release of stock, usually in a defined area, for later 
+harvest—for example, scallops and abalone). 
+A proportion of translocated animals are likely to survive in the new environment and not be 
+retrieved through harvest, despite that being the reason for the translocation. Unintended 
+translocation of pest animals or diseases together with translocation of intended species into 
+favourable environments can result in establishment of those species. This is a particular risk for 
+open systems given limited management entry options. Unintended translocations may reduce 
+positive impacts of the translocation or result in environmental damage or reduced amenity.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+15 
+Floods, marine migration between catchments or further translocation may result in species 
+being spread to unstocked systems. Eradication of pest species or disease from open systems is 
+extremely difficult and costly to achieve and can have severe immediate environmental 
+consequences. It is rarely successful. 
+Risk analysis for open systems must adequately consider biosecurity and input risk 
+management, because options for control after release are limited. The risk analysis should 
+include the likelihood of translocated animals spreading beyond the intended area, and the 
+genetic status of native species being translocated compared with local populations. However, 
+this information is not always available. Entry-level biosecurity is the primary risk mitigation 
+tool. This includes sourcing stock from disease- or pest-free populations or testing cohorts using 
+accepted standards. 
+Environmental managers have translocated animals between open systems for conservation 
+purposes to establish additional sustaining populations. For example, eastern freshwater cod 
+(Maccullochella ikei) listed under the EPBC Act as endangered were translocated from the 
+Clarence River to the Richmond River, and Murray hardyhead (Craterocephalus fluviatilis) listed 
+as endangered were transferred from South Australia to Victoria. However, for a conservation 
+translocation proposal, environmental managers should consider whether the translocation will 
+have a significant adverse impact on a protected species or area listed under national 
+environmental legislation. 
+3.1.2 
+Semi-open systems 
+Semi-open systems include sea cages and contained shellfish grow-out facilities (such as land 
+based abalone facilities). 
+In semi-open systems there is control over movement of animals and structures but not 
+movement of the water. In semi-open systems animals are contained within or attached to a 
+structure, and most introduced stock can be retrieved. However, the risk of animals escaping is 
+inherently high due to a range of factors including net damage, predation, reproduction and 
+extreme weather. 
+Animals in semi-open systems are likely to interact with the external environment. This 
+increases the chance of diseases being transmitted between farmed and wild animals. Wild or 
+escaped fish may be attracted to the cages. Farmed shellfish may spawn, allowing larvae to settle 
+in the surrounding environment. Examples of animals farmed in semi-open systems include 
+Atlantic salmon, tuna, yellowtail kingfish, barramundi and shellfish (such as oysters and 
+mussels). 
+As with open systems, planned translocations to semi-open systems must include an assessment 
+of the likely impacts of escapes and entry-level biosecurity to limit introduction of disease and 
+pests. Possible genetic impacts should also be considered. Internal biosecurity is also important 
+in limiting the spread of disease within and between production systems. However, due to the 
+lack of water movement control, this primarily relies on distance between production systems 
+and management of fomites to limit spread.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+16 
+3.1.3 
+Semi-closed systems 
+Semi-closed systems include ponds and raceways. 
+In semi-closed systems there is strong control over animal movements and some control over 
+water flow. Semi-closed systems may need to exchange water regularly; depending on the 
+system, water exchange can be continuous-flow or periodic topping-up. 
+Semi-closed systems are connected to the environment via intake and discharge water. Volumes 
+and treatments vary and affect risk of entry of animals and disease transmission. Diseases, pests 
+and genetically distinct material/animals may enter the environment from the systems via 
+water (or sometimes movement of animals). However, they can also be contained and 
+eradicated within a system. In a system where water quality is maintained by continuous water 
+flow, shutting off water for any period may have severe consequences—including loss of all 
+stock. 
+Animals farmed in semi-closed systems may include land-based abalone, barramundi, prawn 
+and freshwater crayfish. Freshwater fish fingerlings for stocking in open systems are often 
+produced in these systems. Entry-level, internal and exit-level biosecurity measures can all be 
+applied to semi-closed systems. Typically, entry-level biosecurity can be applied through health 
+accreditation of stock entering facilities or treatment of intake water to deactivate pathogens. 
+Internal measures include separate equipment for each area within the facility, and adequate 
+biosecurity measures to prevent spread of disease or contamination of different areas within a 
+facility. Exit-level biosecurity (such as the use of filters, disinfection, screens or settlement 
+ponds) may also be applied to water outflows to restrict escape of pests, pathogens or 
+genetically distinct materials/animals with water. Exit-level biosecurity contingencies should 
+also be considered when semi-closed systems become compromised (such as drying during 
+drought conditions) and resident animals require translocation for rescue. 
+3.1.4 
+Closed systems 
+Closed systems include recirculation and aquariums. 
+In closed systems there is near complete control over water and animals. Water is usually 
+sourced from a secure supply and can be treated prior to and/or after use in the system. Except 
+in case of catastrophic damage to the system, animals or pathogens are unlikely to be introduced 
+or to escape, when appropriate input biosecurity measures are implemented. Examples of closed 
+systems include hatcheries for fish, soft-shell crab facilities and intensive indoor tank systems 
+for freshwater fish production. 
+Some jurisdictions (including New South Wales) require zero discharge to waterways from 
+closed and semi-closed freshwater native fish production facilities. 
+3.1.5 
+Live seafood trade 
+Live seafood trade includes transport and restaurant tanks. 
+The live seafood trade includes those animals transported to restaurants for holding live before 
+sale and consumption. A source of risk is escape of animals and pathogens. Animals are usually 
+held in closed aquarium systems with limited or no water exchange, and most are consumed on
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+17 
+site. However, live seafood may be held before distribution (for example, by wholesalers) at 
+premises with water flow or exchange. 
+Despite the apparent dead-end pathway of human consumption, waste disposal (effluent and 
+raw animal waste) should be considered in risk analysis. 
+The WA Government has a translocation policy for aquatic animals used for the restaurant trade, 
+and the SA Government has controls on restaurant abalone. The policies do not cover 
+unregulated movement of animals for human consumption that can be transported and stored 
+for limited times without water (for example oysters, yabbies, mud crabs). The Queensland 
+Government has a policy for transhipment of oysters. See Appendix C: Australian translocation 
+policies and legislation. 
+3.1.6 
+Aquarium trade 
+Aquarium trade includes marine and freshwater aquariums, and research and education 
+pathways. 
+Aquarium animals are normally held in closed systems. This pathway is largely unregulated at 
+the retail level, but some jurisdictions require licensing of retail aquarium fish outlets and have 
+controls over movement of ornamental fish from other jurisdictions. Aquarium animals may also 
+be used for education or research. This use may be short term, resulting in recurring need for 
+stock disposal. 
+Release of aquarium animals into the wild has resulted in establishment of pest populations and 
+transfer of diseases to native fish. Jurisdictions may have lists of declared noxious or prohibited 
+species, and sale, possession or release of these species is regulated. Aquarium hobbyists and 
+retailers should be educated on the impacts of fish release and encouraged to dispose of 
+unwanted fish appropriately. For consumers, this may be returning unwanted fish to the 
+retailer. 
+Fish may be transported for research from non-local populations or exposed to populations of 
+other fish held in the same facility. Without adequate biosecurity measures, they may be 
+exposed to or introduce pathogens. They may then be released into original or new areas and 
+carry pathogens exotic to that area. Researchers should be educated on risks and appropriate 
+practices to reduce this risk. In general, research stock should be destroyed and disposed of in a 
+biosecure manner by the researchers. 
+3.1.7 
+Inadvertent translocation 
+Any translocation risks species other than those intended for translocation being transferred 
+within transport water or containers. For example, the pest species Gambusia and banded 
+grunters (Amniataba percoides) have been unintentionally introduced into many parts of 
+Queensland in shipments of native fish fingerlings translocated for recreational fishery 
+enhancement. Similarly, freshwater snails and their eggs are often carried on aquarium plants. 
+Epibionts and commensals may be translocated with their hosts, and this could have unexpected 
+consequences for similar native host species.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+18 
+Any risk analysis should consider: 
+ 
+source of animals to be translocated 
+ 
+whether pest species or diseases are present in the area 
+ 
+effectiveness of measures taken to reduce the risk of contamination of shipments.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+19 
+4 Risk analysis 
+Risk analysis should be performed as part of aquatic animal translocations to identify, assess, 
+manage, monitor and communicate risks associated with the activity.  
+The risk analysis should consider all components of a translocation and aim to ensure that 
+identified risks are managed to an appropriate level. 
+4.1 
+Hazard identification 
+Pests, diseases or genetic considerations that may present risks in translocation should be 
+identified before implementation of any risk mitigation measures. The desired outcome of a 
+translocation should be considered when identifying potential risks. For example, establishment 
+of a population in the receiving environment may be a risk in aquaculture-related translocations 
+but a desired outcome in conservation-related translocations. 
+Stocking open systems and semi-open systems presents a higher risk than stocking closed and 
+semi-closed systems, where animal and water movement can be managed. 
+Translocation scenarios may be subject to government regulations including legislation and 
+permitting conditions. See Appendix C: Australian translocation policies and legislation. 
+Relevant regulations should be identified and considered in any translocation risk analysis. 
+Those planning translocation activities should identify and categorise biological, chemical or 
+physical agents in aquatic animals or products that have the potential to cause adverse effects to 
+aquatic animal health, public health or the environment. They should consider whether: 
+ 
+translocation could introduce or spread diseases or pests 
+ 
+genetically distinct material could be exchanged between source and destination 
+populations (intra-species and inter-species) 
+ 
+diseases or pests are under official control (listed as reportable or noxious). 
+If hazards are not identified then no further risk analysis is necessary. If information is 
+insufficient, further analysis is required before assessment and application process can progress. 
+4.2 
+Risk assessment 
+A staged approach is necessary for translocation risk assessment (Figure 2). Individual 
+translocations are different and may require some or all stages of the risk assessment process. 
+For example, a translocation into a secure closed facility will have very low likelihood of species 
+entry into the surrounding environment. Therefore, these facilities should meet the appropriate 
+level of protection (ALOP) without any further management measures. 
+Some jurisdictions have developed protocols for translocation in specific situations. If the 
+translocation conforms to the protocols established, a full risk assessment is usually not 
+required. See Appendix C: Australian translocation policies and legislation.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+20 
+Figure 2 Risk assessment for translocation of aquatic animals, staged approach 
+ 
+Note: ‘Animal’ refers to intended and unintended translocated animals and potential disease-causing agents. 
+Risk assessment involves three steps: 
+1) entry assessment 
+2) exposure assessment 
+3) consequence assessment.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+21 
+4.2.1 
+Entry assessment 
+Step 1 determines the likelihood of entry or release of translocated animals into an unintended 
+environment. Entry of animals intended for translocation into open systems is certain. The 
+likelihood of entry of species translocated into other types of systems depends on the adequacy 
+of system containment measures. The likelihood of entry of pests and diseases unintentionally 
+translocated presented by entry of intentionally translocated animals depends on several factors 
+including: 
+ 
+capacity of receiving system to contain the animals 
+ 
+number of animals for translocation 
+ 
+number of translocations over time 
+ 
+nature of the animal, including prevalence of pathogens 
+ 
+nature of the source environment 
+ 
+transport and processing practices. 
+A high number of animals intentionally translocated and released may lead to a high risk of 
+diseases or pests entering the receiving environment. Similarly, an increasing number of 
+introductions over time increases the likelihood of accompanying diseases or pests being 
+introduced with released stock. The species, strain or traits of animals influence the likelihood 
+that diseases or pests associated with those animals will be released with translocated stock. 
+Current management practices—including accreditation of source populations, surveillance and 
+vaccination—substantially influence the likelihood of translocation and entry of particular 
+animals. Increased incidence or prevalence of translocated diseases or pests at the source 
+increases the likelihood of entry into the receiving environment. The effect of transport and 
+handling on mortality rates and quality of unintended translocated animals also influences 
+likelihood of entry. 
+The live animal food trade presents special risks because unregulated movement of live animals 
+outside of the trade may result in entry of small numbers of animals into the environment. These 
+animals could spread diseases and pests. Increased shedding of pathogens from subclinically 
+infected and stressed animals in these systems is likely. 
+People or organisations planning translocation activities should gather this information for 
+entry assessment: 
+ 
+species for translocation 
+ 
+source of animals 
+ 
+quantity and frequency of intended translocations 
+ 
+availability of testing or identification for recognised diseases or pests 
+ 
+disease and pest status of source sites 
+ 
+transport. 
+The type of receiving system should also be considered.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+22 
+System factors for consideration in translocation 
+For open systems (for example, stocking) and semi-open systems (for example, net pens), 
+consider whether: 
+ 
+the translocation receiving environment needs special consideration—for example, if it is 
+protected by the EPBC Act, has a pristine nature, is a high-value conservation area, if 
+endangered species are present or if it has value to the local economy due to recreational 
+fisheries or its ecosystem 
+ 
+endemic populations of the species concerned are present and, if so, the status of those 
+populations (population size, disease status and genetic information; compare status of 
+existing and translocation source stock case by case) 
+ 
+stocked animals are likely or intended to breed in the new environment—for example, 
+suitability of conditions (temperature tolerances, requirement for saline water to 
+reproduce) for breeding 
+ 
+diseases or pests are known to be present in the source area, particularly within the source 
+production area 
+ 
+the consignment is certified free of diseases and pests—consider capacity of supplier to 
+ensure freedom from diseases or pests in consignments and the assessment methods used. 
+For semi-closed systems, consider whether: 
+ 
+licence conditions are flexible enough to permit special conditions for containment if 
+required 
+ 
+the translocation receiving environment needs special consideration—for example, if it is 
+protected by the EPBC Act, it has a pristine nature, it is a high-value conservation area, 
+endangered species are present or it has value to the local economy 
+ 
+safeguards for water disposal are sufficient to minimise risk and impact of translocation of 
+animals or diseases into the natural environment (if applicable) 
+ 
+native populations in the area are known to be the same genetically as the stocked animals 
+ 
+diseases or pests are known to be present in the source area, particularly within the source 
+production area, that will not be eliminated by quarantine procedures before introduction 
+into the system—for example, subclinical infection, or larval or cryptic life stages 
+ 
+translocated animals will reproduce or persist in the environment—for example, whether 
+they could breed or last long enough to breed in the new environment (and this may be an 
+intended consequence) 
+ 
+the consignment is certified free of diseases and pests—consider capacity of the supplier to 
+ensure freedom from diseases or pests in consignments, the assessment methods used, and 
+the disease/pest status of the source of stock. 
+For closed systems, consider same factors for semi-closed systems and whether: 
+ 
+the system is built to minimise risk of entry of live animals into the environment even in 
+case of catastrophic events—for example, water rising above known flood levels. 
+For live seafood, consider whether:
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+23 
+ 
+diseases or pests are known to exist in the source area, particularly within the source 
+production area 
+ 
+translocated animals will reproduce or persist in the receiving environment 
+ 
+translocated animals are likely to be onsold or whether pathogens they carry could enter 
+the environment as waste—for example, via a waterfront restaurant or traditional belief-
+based live release practices. 
+4.2.2 
+Exposure assessment 
+Step 2 determines the likelihood that translocated animals (including associated diseases or 
+pests) can establish in the receiving environment and spread into other environments. For 
+deliberate translocations, the environment is likely to have been chosen because it can support 
+the animal. Self-sustaining populations are likely to establish if the environment is conducive to 
+successful spawning and larval survival. The likelihood of spread beyond the environment of 
+entry will decrease as control over movement of animals and water into the receiving system 
+increases. 
+People or organisations planning translocation activities should assess the species’ likelihood of 
+establishment and spread. Many pest species can thrive in diverse environments. If pest species 
+are present in the source environment, measures must be implemented to ensure those pests do 
+not travel with the target species. These measures must also accommodate for the genetics of 
+translocated and wild animals. Identity, presence, demography and behaviour of wild animals 
+and potential vectors or disease hosts may influence the exposure likelihood of organisms in the 
+receiving environment to harmful impacts. 
+Negative impacts associated with translocation activities will reduce as control over movement 
+of animals and water in the receiving system is increased. For example, introductions into closed 
+system aquaculture operations are usually less likely to spread to the external environment than 
+introductions into less controlled systems. Escapees from cages may depend on feed provided to 
+fish in cages. Most studies have demonstrated that movement of escaped fish from cage sites is 
+minimal, and therefore wider effects may also be minimal (Brett Herbert [DAWE] 2018, 
+pers. comm.). The likelihood of long-term establishment or spread may be lower for short-term 
+translocation (for example, for Atlantic salmon to grow in seasonally cold environments for the 
+winter or for prawns in hot environments in summer) if likelihood of survival outside of the 
+season is negligible. 
+For exposure assessment, consider: 
+ 
+the type of system (for example, open or closed) the stock will be translocated to 
+ 
+receiving environment biological characteristics, environmental characteristics and 
+qualities, and site suitability for translocated animals 
+ 
+whether susceptible local species will be in contact with the translocated animals (including 
+through contact with the same water as in a net-pen situation) 
+ 
+whether the local environment can support development of sustained populations of the 
+animal (some populations may only persist seasonally) 
+ 
+whether the animal is likely to spread to other systems
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+24 
+ 
+whether exposure likelihood includes propagule pressure from the translocated animals 
+(from breeding). 
+See Appendix A: Risk assessment likelihood tables for qualitative and quantitative descriptions 
+for each level of likelihood. 
+4.2.3 
+Consequence assessment 
+Step 3 estimates the potential for and magnitude of adverse biological, environmental or 
+economic impacts resulting from the assumed establishment and spread of a hazard 
+(translocated animal). This section outlines several potential consequences of translocations. 
+The World Organisation for Animal Health (OIE) recommends considering possible public health 
+consequences. This is a particular risk where parasite or disease reservoirs or carriers could be 
+translocated inadvertently with other species, or where other species such as toxic algae (or 
+even translocated animals with sequestered toxins) could be considered for translocation. 
+Anyone planning translocation activities should consider the consequences of unintended 
+translocations occurring alongside translocations of target species (for example, Gambusia and 
+banded grunter). In many areas invasive species may already be established, and stocking of 
+predacious species of high recreational fishing value may make use of this resource. However, 
+some species of invasive fish (particularly Gambusia, tilapia and banded grunter) are not 
+palatable to many predacious fish. For example, banded grunters thrive in barramundi ponds. 
+In cases where farmed or stocked fish are inbred, of limited parentage or from different genetic 
+stocks, the possible effects of genetic dilution of depleted natural stocks should be considered. 
+Potential consequences of translocation 
+Environmental impact of released animals 
+Non-native species once released may have unforeseen, deleterious impacts on the local 
+environment, biota or amenity (usefulness for humans) of the affected area. However, in some 
+cases establishment of a non-native species may be beneficial (for example, for recreational 
+stocking or biological control programs). In these cases introduction must be planned and 
+authorised. Potential impacts of non-native species include predation by existing fauna, 
+competition for food and/or habitat, destruction or change of habitat, and reduced amenity. 
+Predation on existing fauna 
+Predation by introduced species can decrease abundance and diversity of native species. Non-
+native animals may establish and form large populations because of abundant food and lack of 
+natural predators or diseases in their new environment. Native plants and animals may not 
+adapt to or withstand the pressure of a new predator or larger numbers of a predator. 
+For example, trout introduced into alpine systems in southern Australia and Tasmania eat, and 
+in some places have destroyed, native galaxias fish. In such cases, the value of recreation and 
+tourism must be balanced against that of the environment. Another example is the mosquitofish 
+(Gambusia). These small live-bearing fish were widely introduced throughout Australia to 
+control mosquitoes. However, they can form dense populations that eat eggs and larvae of native 
+fish species, breed throughout the year, are highly aggressive and tolerate poor water quality. 
+Presence of Gambusia has been linked to disappearance of other small species of native fish. 
+They are present in many areas where native fish fingerlings are produced for stocking purposes
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+25 
+in semi-closed systems, and they may be inadvertently transferred with desirable species when 
+used for stocking in recreational fishery enhancement. 
+Competition for food and/or habitat 
+Translocated species may compete with native species for food or habitat. An example (and a 
+valuable industry) is Pacific oysters (Crassostrea gigas). In some conditions, these can overgrow 
+and smother rocky reef habitat and native oysters such as Sydney rock oysters (Saccostrea 
+glomerata). 
+Destruction or change of habitat 
+Translocated animals can modify habits, leading to ecological change. They modify habitats by 
+digging, burrowing or disturbing sediments; by shading, smothering or overgrowth; or by 
+altering chemistry or structures. For example, carp have altered large areas of aquatic animal 
+habitat through muddying fresh water and preventing aquatic plant growth. In North America, 
+zebra mussels have changed habitat by decreasing phytoplankton biomass, clarifying the water 
+and favouring growth of cyanobacteria. 
+Where habitat preservation is a high priority, the translocation approval process should be more 
+conservative in considering impacts than for already degraded areas. 
+Reduced amenity 
+Entry and establishment of translocated animals, diseases or pests can result in reduced amenity 
+for general users (for example, beach users). Excessive population growth of marine animals 
+such as salps or jellyfish can cover beaches in masses of jelly, prevent fishers from effectively 
+using nets and reduce amenity for other recreational users such as participants in water sports. 
+Changes in the ecology of an area also can reduce fish populations for recreational fishers. 
+Colonisation of infrastructure by exotic species (leading to blockage of pipes and damage of 
+navigation structures) can increase maintenance costs dramatically. These are most likely to be 
+caused by inadvertent translocation of accompanying animals, and must be considered as a risk 
+to be assessed. 
+Transfer of pathogens 
+Epizootics 
+An epizootic (epidemic in non-human animal populations) is an increase in the incidence of a 
+disease within a nominated population that significantly exceeds what would normally be 
+expected. Pathogens may be carried by translocated animals, in transport containers of water or 
+with associated species inadvertently moved with the target organism during a translocation. 
+The risk can be twofold—either to the translocated animals or to other susceptible species in the 
+receiving area. 
+Testing for diseases that are potentially endemic in an area should be done before a 
+translocation activity. Diseases may include viral encephalopathy and retinopathy (VER, caused 
+by nervous necrosis virus) or epizootic haematopoietic necrosis virus (EHNV). 
+For example, in 2002 when golden perch (Macquaria ambigua) were translocated to northern 
+Queensland for aquaculture purposes. The golden perch were exposed to Tetrahymena corlissi, 
+and they did not have resistance to the parasite. Native fish in the area did not appear to be 
+susceptible. The resultant epizootic and high mortalities led to failure of farming trials. Another 
+example of a disease affecting native fish is epizootic ulcerative syndrome (caused by
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+26 
+Aphanomyces invadans). The syndrome was spread worldwide with translocated fish, resulting 
+in ongoing impacts and losses in wild and cultured fish populations. It is now considered 
+endemic across much of mainland Australia. 
+Reservoirs 
+Translocated species may act as subclinical carriers or reservoirs for infectious diseases. Some 
+ornamental fish act as subclinical carriers of megalocytiviruses; several species of native fish are 
+highly susceptible to these. Parasites such as the tapeworm (Bothriocephalus achielognathi) may 
+be carried by fish and establish in the environment. 
+Those planning translocation activities should use available information to consider the 
+potential for subclinical carriage of disease. This information may be limited or non-existent. 
+Diagnostic tools to detect subclinical infection are not always available or reliable, and the 
+degree of confidence that a population is free of infection may need to be considered in some 
+circumstances. 
+Disease status for trade 
+Movement of fish within and between jurisdictions is often governed by translocation policies 
+requiring freedom from disease or robust surveillance conditions to prevent disease spread into 
+new areas, or to minimise exposure of native or stocked fish populations. One example is 
+policies on viral encephalopathy and retinopathy. This disease primarily affects young fish but 
+can affect fish of all ages. Policies on inter-jurisdictional trade in barramundi, and within 
+jurisdiction movement of fish such as barramundi or Australian bass for stocking purposes, may 
+require stock testing to confirm freedom from nervous necrosis virus before their movement. 
+Aquatic animals intended for export may also need certification of freedom from disease, 
+depending on importing country requirements. 
+Genetic impacts 
+Translocations to areas that have genetically distinct populations of the same species or closely 
+related species that could hybridise present the highest risks. Interbreeding with translocated 
+animals could result in changed population genetics, including the loss of genetically unique 
+populations. 
+Most jurisdictions have policies in place to manage genetic risks of translocation for recreational 
+fishery stock enhancement. These usually require that any seed stock produced for stocking in 
+an area be derived from broodstock sourced from the same area. 
+The Office of the Gene Technology Regulator is responsible for regulation of production, 
+introduction and import of genetically modified fish. It is illegal to create, import or possess 
+genetically modified fish without appropriate authorisation under the Gene Technology Act 2000 
+and from the Department of Agriculture, Water and the Environment. 
+Different strains of pathogen being transferred from one region to another also present a genetic 
+risk. Tasmania has commercial abalone fishing biosecurity protocols (DIPIPWE 2020) to reduce 
+the risk of translocation of different strains of abalone viral ganglioneuritis (AVG) virus from one 
+area to another through movements of abalone for farming or processing purposes to reduce 
+risk of epizootics.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+27 
+For consequence assessment, consider: 
+ 
+consequences of translocated species or associated pest or disease establishing and/or 
+spreading 
+ 
+presence of endangered or rare species in the receiving or surrounding environment, and 
+likely consequences and magnitude of establishment and/or spread of translocated animals 
+ 
+likely consequences and magnitude of translocated animal interbreeding on genetic 
+integrity of the local population if present 
+ 
+whether establishment and spread of animals would reduce amenity 
+ 
+potential for and likely magnitude of flow-on effects (for example, invasive species altering 
+the environment and recreational fish species declining as an indirect result of 
+translocation) 
+ 
+likelihood of entry of disease or pest to cause negative effects in the receiving area (see 
+Transfer of pathogens). 
+Ideally, the intended consequences will be the only realised consequences of translocation. 
+These may be to harvest the target species after a suitable grow-out period, to enhance 
+recreational or commercial fisheries, or to replenish depleted stocks of an endangered species. 
+In many cases the translocated animals will be harvested, reducing their ongoing impacts on the 
+environment. However, the translocation may involve unintended consequences on native 
+species or the environment. Therefore, the risk and effects of this must be assessed before 
+undertaking any translocation activities.  
+See Appendix B: Risk assessment consequence table for example factors to consider to 
+determine consequence level. 
+4.2.4 
+Unrestricted risk assessment 
+Unrestricted risk assessments are used to estimate the risk of a translocation activity should no 
+risk-management measures be applied. Risk estimation can include quantitative and qualitative 
+data, depending on the types of information available. Data inputs are used to determine 
+methods used to assess the risk. Those planning translocation activities should use sensitivity 
+analysis when possible to rank each input and identify its contribution to the total risk output. 
+Ideally, they should make methodology and workings available for review. 
+The National policy guidelines for translocation of domestic bait and berley (DAWE 2015b) 
+propose methods to estimate the risk for each hazard. The guidelines advise combining the 
+likelihood of the hazard entering the environment and establishing and/or spreading with the 
+consequences associated with occurrence or expression of a particular hazard including 
+biodiversity and habitat impacts, economic consequences and biological (and social) impacts. 
+For a risk score, the likelihood of hazard entry and exposure should be compared with the 
+hazard consequence. The risk score is then used to determine whether risk-management 
+measures are needed. 
+Figure 3 shows the combination of the likelihood of establishment and spread with the 
+consequences of establishment and spread. Risk estimation can be used to determine the 
+appropriate level of protection (ALOP). The ALOP is user-determined and will differ between
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+28 
+jurisdictions for each identified hazard. It may also differ depending on the receiving system for 
+translocated animals. For example, the ALOP may be set at a different level for relocation of 
+threatened species into a pristine environment from relocating animals to stock an 
+impoundment within a highly modified catchment. 
+Figure 3 Risk estimation matrix, likelihood and consequences of establishment and spread 
+ 
+Note: Appropriate level of protection (ALOP) depends on the user. For example, if ALOP is achieved when risk is reduced to 
+a very low level, any diseases that fall above very low risk will require additional risk management. 
+Source: DAWE 2015b 
+The unrestricted risk assessment method is most useful if it is based on comprehensive and 
+accurate information. The assessment process should be well documented and include 
+references to sources such as scientific literature and expert opinion. The assessment of 
+likelihood against consequence will provide an estimate of risks associated with aspects of the 
+translocation. Risk management measures must be written into the policy when necessary. 
+Anyone undertaking translocation activities should be clear that they conducted risk analysis, 
+even where risk is minimal (for example, when stocking locally sourced fish into a reservoir). 
+4.2.5 
+Risk management measures 
+Risk management measures are not necessary for all translocations. When the unrestricted risk 
+assessment does not meet the ALOP, those planning translocation activities should develop all 
+possible risk-management measures for consideration. This is also known as risk-management 
+options analysis. 
+Measures could include: 
+ 
+testing and/or certification of source stock as free from pests or pathogens 
+ 
+implementing licence conditions for aquaculture operations, live fish suppliers or holding 
+facilities stipulating requirements that reduce likelihood of escape or establishment of 
+translocated species; many live fish suppliers/holding facilities/aquarium production are 
+not licensed
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+29 
+ 
+treating stock for known diseases or pests (for example, egg disinfection, parasite treatment 
+and grading to remove pest fish) 
+ 
+translocating animals during lower-risk life stages (for example, fertilised eggs) 
+ 
+containing stock at destination to prevent exposure to or entry of disease 
+ 
+reducing genetic risks by using reproductively sterile stocks (for example, triploid Pacific 
+oysters) when available and reliably sterile. 
+4.2.6 
+Restricted risk assessment 
+Restricted risk assessments are used to estimate the risk of an activity that incorporates one or 
+more risk-management measures. A restricted risk assessment should be conducted if the 
+results of the unrestricted risk assessment show that a translocation activity does not meet the 
+ALOP. In the restricted risk assessment, risk-mitigation measures are developed and tested. 
+Restricted risk assessments can be estimated using the same methods as for unrestricted risk 
+assessments—for example, by combining the likelihood and consequence of a hazard and 
+considering implementation of risk-management measures. 
+Performing multiple restricted risk assessment estimates can identify the most appropriate 
+combination of risk-management measures to bring a translocation activity within the ALOP. 
+Restricted risk assessment should also include a sensitivity analysis step. 
+4.2.7 
+Policy development and implementation 
+Translocation policies may be developed, revised or implemented to manage identified risks. 
+Policy makers should consider the species and environments involved, diseases or pests likely to 
+be translocated, industry activities unique to each jurisdiction, and resources available. They 
+should prioritise addressing any large gaps clearly identifiable within jurisdictions for high or 
+extreme risks associated with translocations identified in the risk analysis. Translocation 
+policies and other management instruments should take into account the approach that is best 
+practice approach and least disruptive to industry. 
+Possible instruments for implementation include: 
+ 
+international, national, state and territory legislation (see Appendix C: Australian 
+translocation policies and legislation) 
+ 
+policy documents 
+ 
+licence conditions for stock suppliers and recipients (for example, aquaculture operations) 
+ 
+voluntary guidelines—for example, codes of practice developed by hatcheries and industry 
+associations 
+ 
+educational materials—for example, the Invasive Plants and Animals Committee 
+Freshwater Fish Expert Group (IPAC FFEG) is developing educational material on risks 
+associated with ornamental fish; some of this material would apply to translocations 
+ 
+compliance processes—for example, fisheries inspectors, liaison with stocking clubs and 
+associations. 
+Any policy decisions based on these options should include stakeholder communication.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+30 
+4.2.8 
+Monitoring, review and risk communication 
+Ongoing monitoring of translocation risks and effectiveness of current policies, and modification 
+of existing policies when deficiencies are identified, is necessary to ensure that translocation 
+policies continue to fulfil their intended purposes. 
+Implementing agencies should use monitoring programs to assess and improve the accuracy of 
+predictions generated by risk assessments and the effectiveness of translocation management 
+strategies. These programs would include analysis of the benefits of translocation and any 
+effects translocated species (or inadvertently translocated species) have had on the 
+environment or economy of the receiving area. Monitoring ensures that policy objectives 
+continue to be achieved in a changing environment. Awareness campaigns to ensure non-
+regulated pathway risk management should be adjusted to maintain effectiveness for target 
+audiences. Social media communications and effective public education should be updated 
+regularly to maintain awareness and engagement. 
+New diseases in aquatic animals emerge regularly. These are often linked to increases in 
+numbers of susceptible hosts and changes in ecosystems. Aquatic animal farming also 
+contributes to emergence of clinical disease, due to lack of predation of sick individuals, higher 
+stocking densities and stress associated with farmed populations. Those planning translocation 
+activities should be vigilant in assessing potential effects of newly discovered diseases on the 
+effectiveness of translocation policies to ensure that those policies remain effective in reducing 
+risks. 
+Aquatic animals and diseases can behave very differently in new environments. For example, a 
+virus that causes significant mortalities in Pacific oysters was translocated from Asia to Europe, 
+Australia and New Zealand. However, clinical disease caused by this virus has not been reported 
+in any of the receiving environments. 
+It is essential to review translocation policies as new information becomes available to maintain 
+effectiveness in achieving desired goals. 
+4.3 
+Example risk analyses 
+These risk analyses (particularly for diseases) have been completed and can be used as guides: 
+ 
+risk analysis for translocation of abalone and prawns (Jones & Stephens 2006) 
+ 
+risks associated with aquaculture activities (Business Queensland 2011) 
+ 
+National policy guidelines for translocation of domestic bait and berley (DAWE 2015b) 
+ 
+generic import risk-analysis report for prawns and prawn products (DAWE 2016) 
+ 
+Other diseases or problem species have also emerged in Australia and overseas. These 
+include abalone viral ganglioneuritis (AVG), acute hepatopancreatic necrosis disease 
+(AHPND) and white spot disease in prawns. Anyone planning translocation activities should 
+consider the latest information from the state authorities and research institutions.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+31 
+Appendix A: Risk assessment likelihood 
+tables 
+Table A1 Example likelihood levels for risk assessment 
+Likelihood 
+Description 
+Certain 
+The event would definitely occur 
+High 
+The event would be very likely to occur 
+Moderate 
+The event is equally likely to occur or not occur 
+Low 
+The event would be unlikely to occur 
+Very low 
+The event would be very unlikely to occur 
+Extremely low 
+The event would be extremely unlikely to occur 
+Negligible 
+The event would almost certainly not occur 
+Zero 
+The event would not occur 
+Source: DAWE 2008 
+Table A2 Likelihood ranges and qualitative likelihood categories 
+Likelihood 
+Minimum 
+Maximum 
+Certain 
+1 
+— 
+High 
+>0.7 
+→1 
+Moderate 
+>0.3 
+→0.7 
+Low 
+>0.05 
+→0.3 
+Very low 
+>0.001 
+→0.05 
+Extremely low 
+>10–6 
+→0.001 
+Negligible 
+>0 
+→10–6 
+Zero 
+0 
+—
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+32 
+Appendix B: Risk assessment 
+consequence table 
+Table B1 Example consequence levels for risk assessment 
+Consequence 
+Rating 
+Description 
+Negligible 
+0 
+Establishment of the disease or pest would have no significant biological 
+consequences, may be transient and would require no management. 
+Disease or pest would not affect economic performance at any level. 
+Effects on the environment would be negligible. 
+Very Low 
+1 
+Establishment of the disease or pest would have very low biological 
+consequence and be amenable to control or eradication. 
+May harm economic performance at an enterprise level for a short period but 
+be of limited significance at an industry level. 
+Effects on environment would be very minor or temporary. 
+Low 
+2 
+Establishment of the disease or pest would have low biological consequence 
+and be amenable to control or eradication 
+May harm economic performance at an enterprise level but be of limited 
+significance at an industry level. 
+Effects on environment would be minor or temporary. 
+Moderate 
+3 
+Establishment of the disease or pest would have moderate biological 
+consequence and may be amenable to control or eradication at a significant 
+cost. 
+May harm economic performance at an industry level. 
+May affect the environment but not seriously and may be reversible. 
+High 
+4 
+Establishment of the disease or pest would have serious biological 
+consequences (high mortality or morbidity). Effects that would be felt for a 
+prolonged period and would be difficult to control or eradicate. 
+Will significantly harm economic performance at an industry level or regional 
+level and may cause serious harm to the environment. 
+Catastrophic 
+5 
+Establishment of the disease or pest would significantly harm economic 
+performance at a national level. 
+May cause long-term or irreversible harm to the environment. 
+Source: Northern Australia Biosecurity Initiative-Marine Pest and Disease Risk Assessment (Diggles, BK 2017)
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+33 
+Appendix C: Australian translocation policies and legislation 
+Table C1 Policies and legislation covering translocation in Australia 
+Jurisdiction 
+Policy/legislation 
+What it covers 
+International 
+ICES Code of Practice on the Introductions 
+and Transfers of Marine Organisms 2005 
+Primarily translocation of aquaculture species in the North Atlantic, but principles apply to other areas and 
+species. The document lacks the appendixes that have the useful information in them. 
+International 
+World Organisation for Animal Health 
+(OIE) Aquatic Animal Health Code 
+Guidance for importation of animals from areas with defined disease status. Each disease-specific chapter has 
+articles relevant to translocation of live aquatic animals. These are articles X.X. 7 and X.X.8. 
+OIE has also developed standards on control of aquatic animal health risks associated with transport of aquatic 
+animals (Chapter 5.5), aquatic animal health measures applicable before and at departure (Chapter 5.6), aquatic 
+animal health measures applicable during transit (Chapter 5.7) and aquatic animal health measures applicable on 
+arrival (Chapter 5.9). 
+Australia 
+Environment Protection and Biodiversity 
+Conservation Act 1999 
+– 
+Australia 
+EPBC Act Policy Statement—Translocation 
+of Listed Threatened Species—Assessment 
+under Chapter 4 of the EPBC Act 
+Focuses on removal and relocation (or proposed removal and relocation) of EPBC-listed threatened species from 
+development sites, rather than the introduction of species to areas outside their natural range. Uses the term 
+‘translocation’ to mean moving/relocating individuals generally. 
+Australia 
+EPBC Act list of threatened fauna 
+Matters of national environmental significance under the EPBC Act. 
+Australia 
+EPBC Migratory species lists 
+Matters of national environmental significance under the EPBC Act. 
+Australia 
+Australian Wetlands Database 
+Matters of national environmental significance under the EPBC Act. 
+Australia 
+Recovery plans 
+EPBC Act requirement to not act inconsistently with a recovery plan. 
+Australia 
+Key threatening processes under the EPBC 
+Act 
+EPBC Act listed key threatening processes include ‘Novel biota and their impact on biodiversity’, which can 
+include disease. 
+Australia 
+Intergovernmental Agreement on 
+Biosecurity (IGAB) 
+Overarching national policy to improve the national biosecurity system. See schedule 5 National management 
+framework for established pests and diseases. 
+Australia 
+National policy guidelines for translocation 
+of domestic bait and berley 
+National framework for creation of bait translocation policies in Australian states and territories to address 
+identified disease risks. Provides information on bait and berley products, nature of disease risks, principles for 
+policy development, possible instruments for managing identified risks and a staged approach for policy 
+development.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+34 
+Jurisdiction 
+Policy/legislation 
+What it covers 
+Australia 
+Species Profile and Threats Database 
+Holds profiles for individual EPBC-listed threatened species. These recognise the translocation of other species 
+into the range of the threatened species in question as a potential threat—for example, translocation of Murray 
+cod into eastern cod habitats. 
+New South 
+Wales 
+Protocol for health certification of 
+barramundi fingerlings for aquaculture, 
+prior to entry into NSW 
+– 
+New South 
+Wales 
+Land Based Sustainable Aquaculture 
+Strategy 
+Information on translocation issues and mitigation measures. 
+New South 
+Wales 
+NSW Hatchery Quality Assurance Scheme 
+manual 
+Covers translocation and health management. 
+New South 
+Wales 
+Memorandum of understanding with 
+Queensland Government 
+Addresses translocation disease issues for cross-border translocation of native freshwater finfish from hatcheries 
+(excluding barramundi). 
+New South 
+Wales 
+Freshwater Fish Stocking Management 
+Strategy 
+Comprehensively guides/governs introductions of recreational fish species in NSW policies covering harvest 
+stocking and conservation stocking. Covers individual species and areas and provides considerations for stocking 
+in various areas. 
+New South 
+Wales 
+Fisheries Management Act 1994 
+Under section 216 unauthorised release of fish is illegal. 
+New South 
+Wales 
+Biosecurity Act 2015 
+Specifies the general biosecurity duty to reduce biosecurity risk when dealing with biosecurity matter or carrier. 
+Provides for mandatory measures to eliminate, prevent or minimise biosecurity risk. Schedule 2, Prohibited 
+Matter list, includes aquatic disease and pests prohibited for any ‘dealing’. 
+Victoria 
+Fisheries Act 1995 
+A person must not stock fish in Victoria unless authorised to do so under this Act. 
+Victoria 
+Guidelines for assessing translocation of 
+live aquatic organisms 
+Covers translocation and provides helpful links. Specific risk-assessed translocation protocols have been 
+developed to cover the most common types of translocation, including inland public waters, abalone, blue 
+mussels, recirculating aquaculture, eels and open aquaculture systems on private land. Approval can be sought 
+for protocols developed by users (for example, by public zoos and aquariums) to cover their common 
+translocations. 
+Queensland 
+Aquaculture policies and guidelines 
+Separate translocation protocols for live aquatic organisms, penaeid prawns, barramundi, bivalves, oysters, trans-
+shipment of oysters, marine crustaceans, freshwater crayfish and prawns, eels, freshwater fish other than 
+barramundi and eels. 
+Queensland 
+Biosecurity Act 2014 
+General biosecurity obligation to satisfy biosecurity requirements and reduce risk. Translocation policies on the 
+Queensland Government website are enforceable under the Sustainable Planning Act 2009.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+35 
+Jurisdiction 
+Policy/legislation 
+What it covers 
+South Australia 
+Livestock Act 1997 
+Importing live aquatic animals into South Australia. Covers disease risks, movement restrictions for aquaculture 
+licence holders regarding high-risk species including restrictions on the importation of Pacific oysters and 
+restrictions on entry of abalone for non-aquaculture (such as restaurants and fish processors). 
+South Australia 
+Policy for the Release of Aquatic Resources 
+Translocation (release) of live aquatic organisms into state waters for conservation stocking, stock enhancement 
+and harvest stocking. 
+South Australia 
+Fisheries Management Act 2007 
+Unauthorised release into natural waters of exotic or aquaculture fish not permitted unless authorised by the 
+responsible minister. 
+Under section 78 a person must not, except as authorised by a permit issued by the minister, release or permit to 
+escape into any waters exotic fish, aquaculture fish or fish that have been kept apart from their natural habitat. 
+Western 
+Australia 
+Translocation guidelines and application 
+forms 
+Covers translocation and provides helpful links. 
+Western 
+Australia 
+Policy on Restocking and Stock 
+Enhancement in Western Australia 
+Policy for managing translocations of live fish into and within Western Australia. Fish covered include an aquatic 
+organism of any species but not aquatic mammals, aquatic reptiles, aquatic birds, amphibians or pearl oyster, 
+Pinctada maxima. 
+Western 
+Australia 
+Translocation guidelines and application 
+forms. 
+Translocation approval process for commercial and non-commercial aquaculture, non-commercial farm dams, 
+and restaurants. 
+Western 
+Australia 
+Fisheries management papers 
+Policy documents covering translocation of barramundi (No. 159), trout (No. 250), silver perch (No. 145), coral 
+and live rock (No. 245). 
+Western 
+Australia 
+Aquatic Resources Management Act 2016 
+Part 6 covers declared organisms and the importation, trading or deliberate release into aquatic environments. 
+Western 
+Australia 
+Fish Resources Management 
+Regulations 1995 
+Covers movement of cultured and noxious species. 
+Western 
+Australia 
+Fish Resources Management Act 1994 
+Covers movement of cultured and noxious species. 
+Tasmania 
+Living Marine Resources Management Act 
+1995 (LMRMA) 
+Translocation of fish species is largely covered in Division 4: Release and importation of fish and Division 5: 
+Noxious fish. These sections state that a person may not import or release fish into Tasmania unless authorised to 
+do so. 
+The Act uses ‘fish’ to include all marine animals, including invertebrates and plants. 
+Tasmania 
+Inland Fisheries Act 1995 (IFA) 
+The licensing of fish dealers is a default mechanism for Director of Inland Fisheries authorisation. Inland fisheries 
+maintains two lists of fish species: a noxious fish list and a permitted fish list. 
+Tasmania 
+Animal Health Act 1995 
+Enforcement of requirements within the LMRMA and the IFA. The AHA bans the importation of live animals and 
+animal products unless they are specifically permitted.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+36 
+Jurisdiction 
+Policy/legislation 
+What it covers 
+Northern 
+Territory 
+NT zoning strategy for the NT 
+Available from NT Government on request. 
+Describes logic and methodology of zoning strategy approach. Main species cultured have a zoning strategy. 
+Northern 
+Territory 
+Individual species–specific zoning and 
+translocation policies 
+Available from NT Government on request. 
+Individual policies for each of the main species cultured for quarantine and health certification, disease control 
+zoning and laboratory testing. 
+Northern 
+Territory 
+Translocation guidelines and application 
+forms 
+Available from NT Government on request. 
+Covers translocation and provides direction to further resources. 
+Northern 
+Territory 
+Fisheries Act 1988 
+Unauthorised translocation and release of fish or aquatic life is illegal. 
+Northern 
+Territory 
+Fisheries Regulations 1992 
+Unauthorised translocation and release of fish or aquatic life is illegal. 
+Australian 
+Capital 
+Territory 
+Fisheries ACT 2000 
+Cross-border movement of live fish and open release of fish require permits under the legislation. 
+Australian 
+Capital 
+Territory 
+Nature Conservation Act 2014 
+Controls translocation of threatened species in accordance with Conservator of Flora and Fauna guidelines.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+37 
+Appendix D: Gaps identified in existing 
+translocation policies 
+The Sub-Committee on Aquatic Animal Health (SCAAH) working group and reviewers of these 
+guidelines identified gaps in existing translocation policies. These gaps are general and do not 
+necessarily exist in all states and territories. For example: 
+ 
+‘Live rock’ and ‘live sand’ are translocated around Australia, and some jurisdictions do not 
+have regulations or policies on this. These items can harbour (and are sold as harbouring) a 
+variety of marine or freshwater animals and plants. This may present a pathway for 
+introduction of invasive species. The WA Government has a policy on translocation of live 
+rock, coral and associated organisms; other jurisdictions could use this as a model. See 
+Appendix C: Australian translocation policies and legislation. 
+ 
+Driftwood and plants may provide refuge for other species. Plants can harbour insects, 
+sponges, fish eggs and snails. Plants are covered by noxious species legislation in many 
+jurisdictions but some declared noxious species are sold and distributed by nurseries.  The 
+difficulty of differentiating between closely related species can complicate identification. 
+The WA Government policy for live rock may address some of these considerations. 
+ 
+Ornamental fish translocation may lead to introduction and spread of many exotic diseases. 
+Quarantine requirements (as listed in BICON) manage risks of imported ornamental fish 
+introducing disease and/or becoming pests. Translocation of potentially noxious species 
+and native Australian fish into other areas can lead to establishment of non-native 
+populations. This occurred when eel-tailed catfish (Tandanus tandanus) and Murray cod 
+(Maccullochella peelii) were translocated from the eastern states as ornamental fish into 
+Western Australia. 
+Management of noxious species is possible, but management of non-declared species is 
+more problematic. The WA, Tasmanian and NT governments have measures in place to 
+manage ornamental fish while permitting trade. The Invasive Plants and Animals 
+Committee Freshwater Fish Expert Group (FFEG) is developing a public education strategy 
+on the impacts of releasing fish into the environment. 
+ 
+Management of unregulated pathways will rely on cooperation of retailers and education of 
+the public. Strategies may include encouraging retailers to accept return of animals or other 
+material they have sold, and to distribute or display educational material on how release of 
+unwanted animals leads to environmental damage and animal cruelty. The FFEG education 
+strategy and others will be the main vehicles to mitigate risks presented by translocation of 
+ornamental fish. 
+ 
+Translocation management is overly complicated in some jurisdictions. It can involve 
+separate policies for different species and different terminologies covered by multiple Acts. 
+In some cases policies are inconsistent. Most jurisdictions have or are reviewing their 
+policies to simplify them and remove inconsistencies. Separate species-specific policies are 
+still necessary for some species due to industry and program requirements.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+38 
+ 
+Bait translocation is covered by the Nation policy guidelines for translocation of bait and 
+berley (DAWE 2015b). 
+New or revised policies may be developed to address these gaps. Examples provided may assist.
+
+National policy guidelines for the translocation of live aquatic animals 
+Department of Agriculture, Water and the Environment 
+39 
+References 
+Business Queensland 2020, Moving live aquatic animals, Brisbane, February 2020. 
+COAG 2012, An Agreement between the Commonwealth of Australia, state and territory 
+governments to strengthen the national biosecurity system. Council of Australian Governments, 
+Canberra, accessed February 2020. 
+DAWE 2008, Final generic import risk analysis report for chicken meat, Department of 
+Agriculture, Water and the Environment, Canberra. 
+—— 2015a, AQUAVETPLAN enterprise manual, Department of Agriculture, Water and the 
+Environment, Canberra. 
+—— 2015b, National policy guidelines for translocation of bait and berley, Department of 
+Agriculture, Water and the Environment Canberra. 
+—— 2016, Final generic import risk analysis (IRA) report for prawns and prawn products, 
+Department of Agriculture, Water and the Environment, Canberra, accessed February 2020. 
+—— 2020a, Do you need to obtain approval under the EPBC Act? Department of Agriculture, 
+Water and the Environment, Canberra, accessed February 2020. 
+—— 2020b, Marine Pests, Department of Agriculture, Water and the Environment, Canberra, 
+accessed February 2020. 
+Diggles, BK 2017, Northern Australia Biosecurity Initiative—Marine Pest and Disease Risk 
+Assessment, DigsFish Services Report DF17-02. 
+DIPIPWE 2020, Commercial abalone fishing biosecurity measures, Department of Primary 
+Industries, Parks, Water and Environment, Hobart, accessed February 2020. 
+Jones, B & Stephens, F 2006, Aquatic Animal Health Subprogram: development of a national 
+translocation policy using abalone and prawns as templates for other aquatic species, Fisheries 
+Research and Development Corporation Project No. 2004/080, Department of Fisheries, 
+Western Australia. 
+OIE 2020a, Aquatic Animal Health Code, World Organisation for Animal Health, Paris, accessed 
+February 2020. 
+—— 2020b, International standards, World Organisation for Animal Health, Paris, accessed 
+February 2020. 
+WTO 1995, Agreement on the Application of Sanitary and Phytosanitary Measures, World Trade 
+Organization, Geneva, accessed February 2020.

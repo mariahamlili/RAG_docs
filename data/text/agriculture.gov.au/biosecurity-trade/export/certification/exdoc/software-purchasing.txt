@@ -1,0 +1,41 @@
+Some points to consider when choosing your software package and provider:
+- Do you require a stand alone or a networked system, (one PC or many PCs)?
+- If you require a networked version, can your provider integrate their system with your existing system?
+- If you intend to print health certificates in your office rather than a Department of Agriculture, Fisheries and Forestry office you will need to ensure that you have a printer that meets the required specifications:
+  - Must be a laser printer
+  - Capable of reading HP LaserJet 5 standard or above printer language
+  - Must be capable of printing PCL5 or above
+  - Must be a duplex printer for double-sided certificates)
+  - Must have a minimum of 128 MB installed memory.
+  - Must support printing of at least 600 dpi.
+- How are you supplied upgrades to your software package?
+  - Costs involved: are they free?
+  - How are they delivered: disk or downloaded from the internet?
+Checklist - What do I need in order to use EXDOC?
+These requirements may vary depending on which software package your company has chosen. You may need to discuss individual requirements with the software provider.
+You will need:
+- A computer
+- Access to an analogue phone line, it is advisory to use a dedicated phone line
+- Connection to Internet e-mail address
+- Software package from a registered software supplier
+- Modem
+- A printer that meets the specifications detailed above
+- Department of Agriculture, Fisheries and Forestry security paper for printing export certification, (applicable to EDI users only). Currently there is no charge for security paper. Security paper can be obtained for each commodity through the following contacts:
+ Grain
+ EXDOC Plant Programs
+ Horticulture
+ EXDOC Plant Programs
+ Dairy
+ Dairy Review Unit
+ Fish
+ Department Fish Inspector or department regional office
+ Wool, skins and hides
+ Department regional office
+ Meat
+Department regional office
+If you have any queries regarding any of the above requirements please contact the EXDOC helpdesk.
+Registered software disclaimer
+Commonwealth of Australia as represented by the Department of Agriculture, Fisheries and Forestry registers software products (Software Product) in respect to EXDOC on the basis that the relevant software developer or vendor (Software Provider) has applied for registration and provided the department with a declaration certifying that the Software complies with the relevant EXDOC specification. The department does not conduct any verification as a routine part of the registration process; however, the department reserves the right to suspend or terminate registration of any Software Product if the department believes the Software Product may not comply with all relevant specifications or poses a threat of any to the EXDOC system or users or for any other reason that the department thinks fit.
+You should thoroughly investigate and test any Software Product you are considering using and only acquire and implement it if you are fully and completely and independently satisfied that the Software Product is fully fit for the purposes you intend to use it for.
+To extent permitted by law, the department makes no representation and provides no warranty or endorsement of any kind in relation to any Software Product or Software Vendor, or EXDOC, without limitation including that the software is of merchantable quality, is suitable or fit for any purpose, complies with any relevant specifications, provides any functionality, will not be subject to interruption or error, will operate as may be described, or at all, and that in no event will the department have any liability of any kind (whether direct, indirect) and no matter how occurring or arising (and including as a result of any negligence on our part) arising out of or in any way connected with any Software Product or its interaction (or inability to interact with) EXDOC.
+Your selection and use of any Software Product and your use of EXDOC is at your sole risk.

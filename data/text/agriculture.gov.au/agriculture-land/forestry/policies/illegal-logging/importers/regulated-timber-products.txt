@@ -1,0 +1,88 @@
+It is a crime to import illegally logged timber into Australia under our illegal logging laws. Certain wood, pulp and paper products are listed in section 5 of the Illegal Logging Prohibition Rules 2024 (Rules) and are considered ‘regulated’. When importing these products, you must conduct due diligence unless they are exempt.
+However, the ban on importing illegally logged timber applies to all timber products, whether regulated or not. If you suspect that any wood, pulp, or paper product, including unregulated or exempt products, may contain illegally logged timber, you should consider not importing the product. If you do import a product which is, is made from, or contains illegally logged timber, you may commit an offence and be liable to a civil penalty.
+Regulated timber products are defined in the rules by their international Harmonized System (HS) tariff codes. This includes:
+- Chapter 44 – for wood and articles of wood
+- Chapter 47 – for pulp of wood
+- Chapter 48 – for paper and paperboard
+- Chapter 94 – for furniture
+The HS uses specific codes to classify traded products to identify chapters, headings and subheadings. Please ensure you understand the list of regulated timber under section 5 of the Rules. This list is provided in table format and Column 1 is where you will find what is regulated at either the heading or subheading level.
+See more about regulated timber products in the FAQs.
+The following products are exempt from the due diligence requirements:
+- Products imported into Australia where the combined customs value of the regulated timber products in the consignment is $1000 or less.
+- Products:
+  - which are recycled material
+  - which are entirely made from recycled material
+  - where all timber, and products derived from timber, included in the regulated product are recycled material.
+If a product contains both recycled and non-recycled timber, due diligence is still required for the non-recycled parts.
+Timber or a timber product, is considered recycled material if:
+- it was once a different product or part of another product
+- it is no longer the previous product, or has been removed from the previous product
+- at the time, the other product was no longer used for its intended purpose.
+Material is not considered recycled if it is the by-product of a manufacturing process. For example, sawdust or off-cuts from sawn timber used to make particle board or medium density fibreboard.
+Due diligence is not required for the packaging material used to support, protect or carry a product that is being imported.
+However, if the packaging materials are the main product being imported, and are covered by a regulated tariff code, you must conduct due diligence.
+Materials that are not considered timber include:
+- bark
+- cork
+- osier
+- vegetable parchment
+- rice
+- bamboo
+- sugarcane
+- rattan.
+They are not regulated under the illegal logging laws.
+Under the illegal logging laws, due diligence applies to the regulated timber product being imported.
+A regulated timber product is generally identified by its tariff classification and product characteristics, not by internal inventory systems including Stock Keeping Units (SKUs). SKUs are not referenced in legislation and do not determine the level at which you must apply due diligence.
+What this means in practice
+Importers do not need to assess every SKU separately where products share the same timber characteristics. Instead, you can:
+- group product types with the same timber inputs and supply chain
+- map multiple SKUs to a single grouping
+- apply one due diligence process to that grouping
+Your written due diligence system should clearly set out any SKU grouping processes that form part of your due diligence process.
+Repeat due diligence exception
+Where businesses use SKUs, the repeat due diligence exception should be considered at the level of the regulated timber product (or product grouping)—not at the individual SKU level. This means SKUs can only rely on the exception where they represent the same timber product in all material respects.
+Examples
+Below are several examples to assist importers understand how due diligence applies at the timber product level, where multiple SKUs are used.
+Example 1 — Nordic Oak Chair (SKUs can be grouped)
+| SKU | Product Type/Trade name | Supplier | Species (common + scientific) | Harvest origin (country/area) | Manufacture country | Due diligence grouping | 
+|---|---|---|---|---|---|---|
+| CHR‑001‑BLK | Nordic Oak Chair | Nordic Living Co. (Supplier A) | Oak (Quercus robur) | Poland – Podlaskie | Vietnam | Group A | 
+| CHR-001-SGN | Nordic Oak Chair | Nordic Living Co. (Supplier A) | Oak (Quercus robur) | Poland – Podlaskie | Vietnam | Group A | 
+| CHR‑001‑WHT | Nordic Oak Chair | Nordic Living Co. (Supplier A) | Oak (Quercus robur) | Poland – Podlaskie | Vietnam | Group A | 
+Why these can be grouped
+The SKUs differ only by finish/colour, while the product type, trade name, supplier, species, harvest origin, and manufacture country are the same (i.e., same timber product type and inputs).
+Example 2 — A4 Colour Copy Paper (SKUs can be grouped)
+| SKU | Product Type/Trade name | Supplier | Species (common + scientific) | Harvest origin (country/area) | Manufacture country | Due diligence grouping | 
+|---|---|---|---|---|---|---|
+| PAP‑A4‑80G‑WHT‑500 | A4 Colour Copy Paper – 80gsm | PaperCo Mills (Supplier B) | Eucalyptus (Eucalyptus globulus) + Pine (Pinus radiata) | Australia – Tasmania | Australia | Group A | 
+| PAP‑A4‑80G‑BLU‑500 | A4 Colour Copy Paper – 80gsm | PaperCo Mills (Supplier B) | Eucalyptus (Eucalyptus globulus) + Pine (Pinus radiata) | Australia – Tasmania | Australia | Group A | 
+| PAP‑A4‑80G‑GRN‑500 | A4 Colour Copy Paper – 80gsm | PaperCo Mills (Supplier B) | Eucalyptus (Eucalyptus globulus) + Pine (Pinus radiata) | Australia – Tasmania | Australia | Group A | 
+| PAP‑A4‑80G‑PNK‑500 | A4 Colour Copy Paper – 80gsm | PaperCo Mills (Supplier B) | Eucalyptus (Eucalyptus globulus) + Pine (Pinus radiata) | Australia – Tasmania | Australia | Group A | 
+Why these can be grouped
+Dye/colour does not (by itself) change the timber product profile.
+Example 3 — Coloured Kraft Board Sheets (SKUs can be grouped)
+| SKU | Product Type/Trade name | Supplier | Species (common + scientific) | Harvest origin (country/area) | Manufacture country | Due diligence grouping | 
+|---|---|---|---|---|---|---|
+| BRD‑KFT‑300G‑RED‑A1 | Coloured Kraft Board Sheets – 300gsm | BoardWorks Ltd (Supplier C) | Pine (Pinus sylvestris) | Sweden – Västerbotten | Sweden | Group A | 
+| BRD‑KFT‑300G‑YEL‑A1 | Coloured Kraft Board Sheets – 300gsm | BoardWorks Ltd (Supplier C) | Pine (Pinus sylvestris) | Sweden – Västerbotten | Sweden | Group A | 
+| BRD‑KFT‑300G‑BLK‑A1 | Coloured Kraft Board Sheets – 300gsm | BoardWorks Ltd (Supplier C) | Pine (Pinus sylvestris) | Sweden – Västerbotten | Sweden | Group A | 
+Why these can be grouped
+Dye/colour does not (by itself) change the timber product profile.
+Example 4 — ‘Looks the same’ but SKUs must not be grouped
+Here’s the same ‘A4 Copy Paper – 80gsm’ trade name, but distinguishing factors differ (origin and/or supplier and/or manufacture), so they should be treated as separate groupings.
+| SKU | Product Type/Trade name | Supplier | Species (common + scientific) | Harvest origin (country/area) | Manufacture country | Due diligence grouping | 
+|---|---|---|---|---|---|---|
+| PAP‑A4‑80G‑MIX‑CHN | A4 Copy Paper – 80gsm | Dragon Paper Trading (Supplier D) | Poplar (Populus tremula) | China – Heilongjiang | China | Group A | 
+| PAP‑A4‑80G‑MIX‑IDN | A4 Copy Paper – 80gsm | Nusantara Pulp Co. (Supplier E) | Acacia (Acacia mangium) | Indonesia – Riau | Indonesia | Group B | 
+| PAP‑A4‑80G‑REC‑AUS | A4 Copy Paper – 80gsm (Recycled) | PaperCo Recycled (Supplier F) | Recycled fibre (mixed) | Australia – mixed sources | Australia | Group C | 
+Why these must not be grouped
+The supplier and/or species and/or harvest origin and/or manufacture country differ.
+Differences in paper weight (gsm) do not, in themselves, require separate due diligence assessments.
+Where products of different weights (e.g. 80 gsm and 200 gsm) or size (e.g. A4, A5, B5) are made from the same timber inputs, sourced from the same supplier, and share the same harvest origin and manufacturing process, they may be treated as the same regulated timber product for the purpose of due diligence.
+However, where differences in weight reflect differences in fibre composition due to species, origin or supply chain, separate due diligence assessments may be required.
+Get updates
+To receive updates, guidance, and information about upcoming events, subscribe to our illegal logging mailing list.
+Illegal logging reporting
+Call 1800 803 006
+See Report Illegal Logging
+Email redline@aff.gov.au

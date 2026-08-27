@@ -1,0 +1,54 @@
+About the SAC declaration
+To import goods into Australia, you must lodge a SAC declaration if the goods:
+- are valued at AUD $1000 or less
+- arrive by air or sea
+A SAC declaration is NOT required for goods that:
+- arrive by international mail
+- are traveller baggage
+- arrive as unaccompanied personal effects
+- are imported under a carnet.
+Different types of declarations are required for these goods.
+How to lodge a SAC declaration
+The importer or party acting on the importer’s behalf must lodge the SAC declaration in the Integrated Cargo System (ICS). The Department of Home Affairs manages the ICS.
+See details on how to do this:
+Biosecurity assessment
+We will use the information in your SAC declaration to assess your goods for biosecurity risks. If we don’t identify any potential biosecurity risks the consignment can progress to the importer.
+How to lodge additional documents
+If we need more information to make an assessment, we will ask you for additional documents.
+Use our Document Lodgement Service (DLS)
+We encourage you to use the DLS to submit additional documents. This system will eventually replace the SAC paperless process.
+You can submit your additional documents using our new Document Lodgement Service (DLS). This system enables secure and efficient document transmission.
+You can:
+- submit additional documents for assessment
+- check the status of existing documents
+- request resending of notifications.
+You can access the DLS application programming interface (API) via the Agriculture Developer Portal.
+See more on how to access the DLS
+SAC paperless process
+The SAC paperless process is an automated, email-based system for submitting additional information about your SAC goods.
+If you already use the SAC paperless process, we encourage you to register for the DLS. You can continue to use the SAC paperless process until we phase it out and replace it with the DLS.
+For more on the SAC paperless process, contact aircargopolicy@aff.gov.au.
+SAC non-paperless process
+You can email your supporting documents instead of using an automated process.
+You can submit supporting documents at sacncc@aff.gov.au.
+Biosecurity interventions
+We will refer your consignment for inspection if we identify potential biosecurity risks.
+If biosecurity risks are found, biosecurity measures may be required to prevent the spread of pests and disease. These include treatment, export or destruction of cargo.
+We also undertake biosecurity assurance activities. These include random inspection of SAC consignments to check compliance with biosecurity import requirements.
+For more information about inspection processes, see clearance and inspection of goods.
+SAC premises status reports
+Operators of SAC reporter premises, such as international courier companies, can obtain a status report for each consignment they manage.
+You can have regular reports issued automatically, or you can request an ad hoc report.
+If you use the SAC non-paperless process, you must specify your:
+- preferred time of day to receive the report
+- email address the report should be sent to
+- ICS establishment number.
+Send your request to BIIS-IMS@aff.gov.au.
+If the SAC reporter is different from the establishment holding the consignment, an automatic report generation may not occur.
+How to request a commodity review
+You can request that we review our biosecurity intervention for your commodity.
+Email your request to aircargopolicy@aff.gov.au.
+We will acknowledge your request within 10 working days. See our client service standards.
+Cost recovery charge
+The cost recovery charge for biosecurity clearance of SAC cargo began on 1 October 2024.
+For more information see SAC cost recovery or email SACCostRecovery@aff.gov.au.

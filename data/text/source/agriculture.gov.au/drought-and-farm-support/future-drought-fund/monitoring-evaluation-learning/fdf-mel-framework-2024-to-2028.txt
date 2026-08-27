@@ -1,0 +1,2415 @@
+OFFICIAL
+OFFICIAL
+Future Drought Fund 
+Monitoring, Evaluation and 
+Learning Framework 2024 to 
+2028
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+ii 
+OFFICIAL
+© Commonwealth of Australia 2025 
+Ownership of intellectual property rights 
+Unless otherwise noted, copyright (and any other intellectual property rights) in this publication is owned by the 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+ 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: DAFF 2025, Future Drought Fund Monitoring, 
+Evaluation and Learning Framework 2024 to 2028, Department of Agriculture, Fisheries and Forestry, Canberra, July. CC BY-
+NC-ND 4.0. 
+This publication is available at agriculture.gov.au/agriculture-land/farm-food-drought/drought/future-drought-fund/mel. 
+Department of Agriculture, Fisheries and Forestry 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+Disclaimer 
+The Australian Government acting through the Department of Agriculture, Fisheries and Forestry has exercised due care 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for 
+any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the 
+information or data in this publication to the maximum extent permitted by law. 
+Acknowledgements 
+This framework was prepared by Clear Horizon Consulting with the Department of Agriculture, Fisheries and Forestry. 
+Acknowledgement of Country 
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and 
+waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, and 
+recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, 
+fisheries and forestry industries.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+iii 
+OFFICIAL
+Contents 
+Introduction ................................................................................................................................. 1 
+FDF overview ................................................................................................................................... 2 
+1 
+MEL scope ............................................................................................................................. 4 
+1.1 
+Purpose and principles ...................................................................................................... 4 
+1.2 
+Program MEL scope ........................................................................................................... 6 
+2 
+FDF Theory of Change ............................................................................................................ 7 
+2.1 
+Underpinning systems-based theory................................................................................. 7 
+2.2 
+Introduction to FDF Theory of Change .............................................................................. 9 
+2.3 
+Theory of Change model ................................................................................................. 11 
+2.4 
+Theory of Change narrative ............................................................................................. 12 
+2.5 
+Linking programs to FDF Theory of Change..................................................................... 21 
+3 
+FDF MEL approach ................................................................................................................ 22 
+3.1 
+Routine monitoring ......................................................................................................... 23 
+3.2 
+Annual learning ................................................................................................................ 25 
+3.3 
+Evaluation studies ............................................................................................................ 27 
+4 
+MEL implementation ............................................................................................................ 30 
+4.1 
+Roles and responsibilities ................................................................................................ 30 
+4.2 
+Guide to program MEL .................................................................................................... 32 
+4.3 
+Implementation schedule ................................................................................................ 34 
+Glossary ...................................................................................................................................... 38 
+References .................................................................................................................................. 44 
+ 
+Tables 
+Table 1 FDF Investment Strategy priorities ............................................................................................. 2 
+Table 2 Audience use of MEL information .............................................................................................. 4 
+Table 3 Principles of good MEL ............................................................................................................... 5 
+Table 4 Collaboration of FDF programs in the current funding plan .................................................... 17 
+Table 5 Theory of Change levels – FDF monitoring and evaluation ...................................................... 23 
+Table 6 Program key learning questions ............................................................................................... 26 
+Table 7 FDF key learning questions ....................................................................................................... 27 
+Table 8 FDF key evaluation questions ................................................................................................... 28 
+Table 9 Program key evaluation questions ........................................................................................... 29 
+Table 10 Guide to developing program monitoring, evaluation and learning ...................................... 32
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+iv 
+OFFICIAL
+Table 11 FDF MEL implementation schedule ........................................................................................ 34 
+Figures 
+Figure 1 FDF Theory of Change and spheres of influence concepts ....................................................... 9 
+Figure 2 FDF Theory of Change, 2024 to 2028 funding plan ................................................................. 11 
+Figure 3 FDF MEL approach ................................................................................................................... 22 
+.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+1 
+OFFICIAL
+Introduction 
+This document presents the Future Drought Fund (FDF) Monitoring, Evaluation and Learning (MEL) 
+Framework for the Future Drought Fund (Drought Resilience Funding Plan 2024–2028) 
+Determination 2024. 
+The framework was developed in early 2025 using a participatory and user-focused approach 
+involving the FDF Program Evaluation and Support (PES) team and FDF program leads. This 
+framework replaces and builds on the 2020 FDF MEL Framework and was informed by FDF program 
+evaluation findings and the 2023 Productivity Commission Inquiry report. The framework also builds 
+on lessons learned by FDF from MEL implementation during the first funding plan. This framework 
+aligns with the MEL principles established by the Commonwealth Evaluation Policy. 
+The framework presents the following components: 
+• 
+MEL scope – outlines the purpose, boundaries and primary audiences for FDF MEL, and the MEL 
+principles guiding the framework 
+• 
+Theory of Change (ToC) – outlines how the FDF expects to achieve its intended outcomes and 
+vision, presented as a model and supporting narrative articulating the underpinning approaches 
+• 
+FDF MEL approach, which includes 
+− 
+Monitoring – approach to routine monitoring at both FDF and program levels to inform 
+progress reporting, annual learning cycles and point-in-time evaluations 
+− 
+Evaluation – approach to conducting evaluation studies to assess the results, process and 
+design of the FDF and individual programs, guided by FDF and program-level key 
+evaluation questions (KEQs). Evaluation studies will be informed by routine monitoring and 
+progress reporting, annual learnings and additional point-in-time data collection activities, 
+and will also seek expert opinion where appropriate 
+− 
+Learning – includes both learning (and sharing knowledge) from point-in-time evaluations 
+as well as routine strategic learning processes at both the FDF and program levels. The 
+latter present good opportunity for reflections on key learning questions (KLQs) aiming to 
+surface insights from monitoring and evaluation activities to date. These insights will 
+inform cycles of adaptive learning and improvement in program and FDF delivery. 
+• 
+MEL implementation – guidance on the roles and responsibilities for MEL activities and 
+program MEL plans development. Also outlines an implementation schedule for key MEL 
+activities at the FDF and program level as the final elements of the FDF MEL approach. 
+The framework takes a nested approach to MEL, and guides MEL activities at the FDF and program 
+level. A third tier of ‘project’ MEL activities will be established, to be undertaken by delivery partners 
+(e.g. grantees, states and territories), with support from program teams and PES. Each chapter of this 
+framework explains how it is to be understood at the FDF and program levels, with guidance for 
+project MEL provided where relevant. Detailed guidance for project MEL will be in individual program 
+MEL plans.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+2 
+OFFICIAL
+FDF overview 
+The FDF is the Australian Government’s major investment into drought preparedness. The Future 
+Drought Fund Act 2019 (FDF Act) makes available $100 million each year to enhance the public good 
+by building drought and climate resilience in Australia’s agricultural sector, landscapes and 
+communities. 
+In early 2024, the Future Drought Fund (Drought Resilience Funding Plan 2024–2028) Determination 
+2024 came into effect, superseding the Drought Resilience Funding Plan 2020 to 2024. Through the 
+current funding plan, the Australian Government has committed $519.1 million over 8 years. The FDF 
+Investment Strategy details the priorities and programs under the current funding plan (Table 1). 
+Many of these programs build on those established under the 2020 funding plan, and were designed 
+to capitalise on the learnings that emerged during that funding plan, including those surfaced 
+through the 2023 Productivity Commission Inquiry as well as the stakeholder consultations and 
+program evaluations undertaken in 2023 and 2024. 
+Table 1 FDF Investment Strategy priorities 
+FDF investment priorities 
+FDF programs 
+Partnering for local solutions 
+• 
+Drought Resilience Innovation and Adoption Hubs (Hubs): $132 million over 8 
+years from 2024–25 
+• 
+Regional Drought Resilience Planning (RDRP): $67 million over 4 years from 
+2025–26 
+• 
+Communities: $36 million over 4 years from 2024–25 
+Partnering for First Nations 
+initiatives 
+• 
+Strengthening Drought Resilience on Country (SDRC): $12 million over 3 years 
+from 2025–26 
+• 
+First Nations Supporting Participation Activities: $3M 
+Building knowledge, skills and 
+capability 
+• 
+Farm Business Resilience (FBR): $83.2 million over 5 years from 2024–25 
+• 
+Climate Services for Agriculture (CSA): $17.2 million over 4 years from 2024–25 
+• 
+Scaling for Success (SS): $37 million over 3 years from 2025–26 
+Innovating for transformation 
+• 
+Long-term Trials (LTT) 2: $60.3 million over 6 years from 2024–25 
+• 
+Resilient Landscapes (RL): $40 million over 6 years from 2024–25 
+• 
+Innovation Challenges Pilot (ICP): $20 million over 3 years from 2025–26 
+Measuring progress and 
+knowledge sharing 
+• 
+Evaluation and Support: $3.25 million over 4 years from 2024–25 
+• 
+Knowledge Management: $7.3 million over 4 years from 2024–25 
+• 
+Science to Practice 2.0: $800,000 over 4 years from 2024–25 
+FDF programs are managed by the department with various delivery partners, including state and 
+territory agencies, universities, natural resource management (NRM) regional bodies, First Nations 
+partners and statutory authorities such as CSIRO and the Bureau of Meteorology. 
+The FDF is part of the government’s drought policy landscape and includes the National Drought 
+Agreement (2024 to 2029) and the Australian Government Drought Plan (2024 to 2029). This 
+landscape also includes targeted and complementary investments through the Climate Smart 
+Agriculture Program (2023 to 2028) funded under the National Heritage Trust, and the Agriculture 
+and Land Sectoral Plan (2024 to 2034).
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+3 
+OFFICIAL
+These plans and programs aim to accelerate Australia’s transition to a resilient, sustainable and low-
+emissions future for farmers and their communities. FDF programs also complement a range of 
+programs and projects delivered by state and territory governments, regional and industry bodies 
+and research institutions.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+4 
+OFFICIAL
+1 MEL scope 
+1.1 
+Purpose and principles 
+This framework provides guidance to establish and implement MEL activities primarily through FDF 
+programs and their delivery partners. The framework enables us to assess the: 
+• 
+relevance of the design of the FDF and its programs to the problem context 
+• 
+effectiveness and efficiency of the implementation of the FDF and its programs 
+• 
+appropriateness and effectiveness of the FDF and its programs, and the progress made toward 
+intended outcomes 
+• 
+opportunities to improve the design and delivery of the FDF and its programs into the future 
+• 
+contribution of the FDF and its programs to the public good through building drought and 
+climate resilience in Australia. 
+The framework: 
+• 
+applies to all programs and initiatives funded under the funding plan, including program and 
+delivery partners’ management and administration of projects and programs 
+• 
+adopts a long-term view of the achievement of resilience outcomes, with the intention that the 
+performance of programs implemented during each funding plan is demonstrated, and built on, 
+within a broader long-term investment in drought and climate resilience 
+• 
+is designed to meet the needs of its primary audiences (Table 2) – those that will use the MEL 
+data and analysis, and knowledge generated, to inform decisions about the FDF and its 
+programs. 
+Table 2 Audience use of MEL information 
+Audience 
+Uses of MEL information 
+FDF PES and program teams and their 
+delivery partners 
+Information is used to: 
+• 
+assess program progress implementation and outcomes 
+• 
+inform improvements to program design and delivery within the program 
+(during delivery) 
+• 
+inform improvements to design and delivery of future programs. 
+FDF executives, FDF governance 
+committee, Minister for Agriculture, 
+Fisheries and Forestry 
+Information is used to: 
+• 
+assess the contribution of the Fund and its programs to public good through 
+building drought and climate resilience in Australia 
+• 
+assess the relevance of the FDF and its programs within the broader 
+problem context 
+• 
+inform improvements to future program design 
+• 
+inform improvements to future FDF funding design and direction and 
+subsequent investment 
+• 
+inform future Productivity Commission inquiries and demonstrate 
+implementation of recommendations from the 2023 inquiry 
+• 
+inform policy on drought and climate resilience.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+5 
+OFFICIAL
+The principles set out in Table 3 describe what ‘good’ MEL looks like for the FDF and its programs. 
+These principles align with those established in the Commonwealth Evaluation Policy and have been 
+adopted in the design of the framework. 
+Table 3 Principles of good MEL 
+Principle 
+Description 
+A systems-based MEL approach 
+As FDF is a complex system of programs dealing with complex issues – climate 
+change and drought – this framework outlines a systems-based Theory of Change 
+and MEL approach that is proportionate to these complexities. 
+Contribution over attribution 
+The FDF works in a complex context, or ecosystem of programs and initiatives 
+contributing to resilience and sustainability, where many external factors are at 
+play. It is therefore not possible or feasible to attribute drought resilience 
+outcomes at whole-of-system level to FDF only – nor to measure these contextual 
+shared outcomes by FDF alone. Rather, it is more logical to focus on contribution 
+of FDF in the broader context and maintain networks with other players to 
+collaborate on system-wide outcomes. The framework thus enables FDF to make 
+claims about how it is contributing to resilience and sustainability outcomes that 
+are bigger than the FDF itself, supported by evidence and reputable expertise. 
+MEL activities driven by purpose 
+All MEL activities guided by this framework must have an explicit purpose – there 
+is no MEL for MEL’s sake. This includes ensuring no data is collected that does not 
+have a specific use, and all data collected is done so ethically, in a culturally safe 
+way and in accordance with the standards of the Privacy Act 1988. 
+Progress over perfection 
+MEL is an iterative process and FDF staff will continue to learn and adapt based on 
+implementation experience. 
+MEL is commensurate with the 
+available resources and capability 
+A plan is only as good as its implementation. This framework and associated 
+Program MEL plans are designed to ensure that what is planned is achievable 
+within the time, money and expertise available. Also, some subprograms and 
+activities (e.g. enabling areas, advisory committees or small, short subprograms) 
+may not require a program MEL plan. This will be considered on a case-by-case 
+basis. 
+MEL is culturally informed and safe 
+This includes alignment with the Australian Evaluation Society First Nations 
+Cultural Safety Framework (Gollan and Stacey 2021) and the Indigenous 
+Evaluation Strategy (Productivity Commission 2020) to guide MEL activities. Key 
+principles for culturally safe MEL include (among others): obtaining free, prior and 
+informed consent; ensuring data has a defined use and that participating 
+communities and organisations benefit from the evaluation; protecting 
+Indigenous Cultural and Intellectual Property and honouring Indigenous data 
+sovereignty.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+6 
+OFFICIAL
+1.2 
+Program MEL scope 
+The scope of program MEL plans is nested within this framework, reflecting the nestedness of 
+programs within FDF. The development and implementation of MEL plans at the program (and 
+project) level should be guided by the scope. 
+Program MEL activities need to enable the assessment of: 
+• 
+the relevance of the design of the program to the problem context (design) 
+• 
+the effectiveness and efficiency of program implementation (processes) 
+• 
+the effectiveness of the program, including the progress being made toward intended outcomes 
+and the program’s contribution to public good through building drought and climate resilience 
+in Australia (results) 
+• 
+opportunities to improve the design and delivery of the program into the future. 
+The primary audiences and guiding principles are as described for the FDF in section 2.1.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+7 
+OFFICIAL
+2 FDF Theory of Change 
+2.1 
+Underpinning systems-based theory 
+Drought and climate change are complex and have multifaceted impacts on social–ecological 
+systems, which in turn are complex and adaptive by nature. The FDF can also be considered as a 
+complex system whose complexity arises from interactions among its different actors, programs and 
+the broader context of resilience and sustainability initiatives. Systems thinking therefore provides a 
+valuable lens to understand and address these complexities, and design and implement 
+commensurate MEL. 
+The FDF adopts a holistic approach to building resilience of current and future generations to 
+drought and broader climate impacts. This approach is founded on robust principles of social–
+ecological resilience theory – one of many systems-based approaches. The FDF supports and 
+prioritises mutually reinforcing outcomes through interconnected drought and climate resilience 
+activities. Specifically, it works to enhance the preparedness and system-wide resilience – economic, 
+environmental and social – of the agriculture sector, landscapes and communities to the increased 
+frequency and severity of drought, and to more extreme climate variability. 
+This approach acknowledges the range of actors in the system – including the FDF, farmers, 
+government, industry representatives, farming systems groups, First Nations peoples, natural 
+resource management organisations, professional advisers, universities and other research 
+organisations, the private and not-for-profit sectors and rural, regional and remote communities. 
+The FDF approach intends to amplify benefits for these stakeholders and achieve public good in an 
+efficient and effective way. The FDF will achieve efficiency through systems-informed coordination of 
+different programs to use resources well, minimise duplication and increase synergy to achieve 
+outcomes, and effectiveness through in producing collective outcomes that matter. 
+The FDF aims at enabling change, from incremental to transformational. This includes behavioural 
+change and a shift in paradigms and narratives around drought and climate resilience. Paradigms and 
+behaviours are the most powerful leverage points in social-ecological systems. The FDF does that by 
+generating knowledge from its programs, promoting networks and connectedness and supporting 
+safe-fail experimentation and collective learning across the 3 types of resilience. Through this, the 
+FDF contributes to nudging change at systemic scale.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+8 
+OFFICIAL
+2.1.1 Key systems-based elements of this framework 
+Key resilience and systems thinking principles informed the development of the framework and the 
+proposed ToC. The key elements of this approach are: 
+• 
+Nestedness of MEL at FDF, program and project level. This nestedness ensures that program 
+ToCs, and logic models at program and project levels are in turn tailored to address their 
+specific contribution to FDF outcomes (section 2.5) and the spheres of control, influence and 
+interests (section 2.2). 
+• 
+Reflecting social-ecological resilience theory, for example by 
+− 
+targeting building and/or improvement of the 5 capitals (natural, physical, financial, human 
+and social) that constitute reserves that are critical for sustainability and resilience 
+− 
+monitoring of critical thresholds or tipping points in these capitals beyond which systems 
+become untenable, and resilience is lost 
+− 
+aiming to monitor and evaluate the capacity of farmers, land managers, and communities 
+to build and use these capitals to respond in times of drought and climate events. The 
+capitals underpin the capacity of these actors to anticipate for, absorb and adapt and/or 
+transform in response to drought and climate shocks (see Glossary for absorptive, adaptive 
+and transformative capacities) 
+− 
+introducing the concept of ‘levers for change’ in the ToC – and identifying 4 of them - as 
+the mechanisms to deliver desired outcomes and achieve change. More levers may 
+emerge as programs are designed and rolled out, and interlinkages between various 
+programs are built and leveraged. 
+• 
+Monitoring the emergence of outcomes of the inter-dependencies or linkages between FDF 
+programs and evaluating these outcomes alongside those listed in the Theory of Change. 
+• 
+Recognising that the FDF is one contributor in the broader context of resilience and 
+sustainability, and distinguishing between its spheres (‘control’,’ ‘influence’, and ‘interest’) 
+(section 2.2). 
+• 
+Introducing MEL principles that are purpose-driven and learning-oriented, including iterative 
+adaptive learning processes to match the dynamic nature of complex systems (section 3.2). 
+• 
+An approach to embrace failure as an opportunity for learning and adaptation. This is 
+commensurate with the key resilience principle of safe-fail experimentation, where failure is 
+accepted as a possibility. Learning from both success and failure can equally inform adaptative 
+management of FDF and its programs, and the design of new programs.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+9 
+OFFICIAL
+2.2 
+Introduction to FDF Theory of Change 
+The Theory of Change (ToC) is an illustrated conceptual model accompanied by a narrative that 
+shows a series of expected consequences, or a change in a context of interest as a result of an 
+initiative or set of initiatives. The FDF ToC consists of an illustration and description of why and how 
+the FDF contributes to desirable change in drought and climate resilience. 
+Figure 1 shows the FDF ToC and its associated spheres (interest, influence and control): 
+• 
+Sphere of interest – relates to a) the FDF’s strategic objectives, aims and vision, and b) the 
+broad context of the Australian agriculture system. It is about the broader ‘why’ behind FDF’s 
+work, where FDF activities contribute to achieving these objectives, aims and vision, and in turn 
+to the broader agricultural context, but cannot be held solely accountable for achieving them, 
+as other initiatives and influences also contribute. 
+• 
+Sphere of influence – relates to the intermediate and end-of-program (which is end-of-funding 
+plan for FDF) outcomes that the FDF can feasibly achieve, demonstrate progress towards 
+(signals of impact) or significantly influence within its lifespan. 
+• 
+Sphere of control – relates to the activities and outputs which can be directly attributed to the 
+FDF and its programs (and projects), which draw on a variety of levers for change. This is about 
+how the FDF contributes to change. 
+Figure 1 FDF Theory of Change and spheres of influence concepts 
+ 
+Figure 2 presents the FDF ToC for the current funding plan as a model, followed by a narrative. These 
+2 components describe how the FDF utilises specific levers for change through which its programs 
+contribute to and influence a cascade of causally linked outcomes. This ultimately contributes to the 
+inter-connected economic, environmental and social resilience strategic objectives, aim, vision, and 
+the broad context of the Australian agriculture system. The ToC includes a set of effectiveness
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+10 
+OFFICIAL
+principles which inform the ‘ways of working’ and guide program implementation. These principles 
+include details of the collaborations facilitated across FDF programs and with other government 
+initiatives. The causal assumptions underpinning the ToC are outlined in section 2.4.5.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+11 
+OFFICIAL
+2.3 
+Theory of Change model 
+Figure 2 FDF Theory of Change, 2024 to 2028 funding plan
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+12 
+OFFICIAL
+2.4 
+Theory of Change narrative 
+2.4.1 Broad context of Australian agriculture system 
+The FDF is one initiative in a broader context – an ecosystem of resilience and sustainability 
+initiatives in the department and elsewhere that collectively contribute to a thriving, sustainable 
+agricultural sector that, in the face of increased and more extreme droughts and broader climate 
+impacts, continues to play its vital role in Australia’s food and fibre production and as a foundation of 
+strong and cohesive rural communities. 
+As part of this broad context, the FDF aligns with the department’s purpose, outcomes and 
+objectives, specifically the objective of sector resilience and sustainability – increase the contribution 
+agriculture, fisheries and forestry make to a healthy, sustainable and low-emissions environment 
+(Corporate Plan 2025–26). 
+The FDF contributes to the broad context through its own funding plan vision, aim and 3 inter-
+connected strategic objectives to build: 
+• 
+economic resilience – growing the productivity and self-reliance of the agricultural sector 
+• 
+environmental resilience – improving the function of agricultural landscapes through effective 
+management of the natural resource base 
+• 
+social resilience – strengthening the social capital, wellbeing, and connectedness of rural, 
+regional, and remote agricultural communities. 
+The dashed line in the ToC model directly under the ‘Future Drought Fund Contribution to the Broad 
+Context’ indicates the boundary of the FDF system, and its direct line of accountability. It is a key 
+requirement in a systems approach to clearly identify the boundary of a system, and the ‘cloud’ on 
+top of the model indicates that FDF contributes to a bigger, similarly complex whole. 
+2.4.2 Contribution of current funding plan 
+The FDF expects that programs and initiatives implemented during the current funding plan (2024 to 
+2028) will contribute to the FDF vision, aim and strategic objectives through achievement of, or 
+demonstrating progress towards achieving the following outcomes by the end of the funding plan: 
+• 
+the agricultural sector and farming and regional communities are better prepared for, manage 
+better through, and recover better from droughts and broader climate impacts 
+• 
+the agricultural sector and farming and regional communities are more resilient to drought and 
+broader climate impacts in the short and medium term 
+• 
+the agricultural sector and farming and regional communities show signals of progress towards 
+being more resilient to drought and broader climate impacts in the long term 
+• 
+functional landscapes with sustainable ecosystem services are more resilient to drought and 
+broader climate impacts. 
+The funding plan and accompanying investment strategy distinguishes between resilience to drought 
+and broader climate impacts in the short, medium and long term, beyond the 4 years of the current 
+funding plan. This distinction recognises that while incremental changes may help farmers and 
+regional communities in the short term, more significant and potentially transformational change
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+13 
+OFFICIAL
+may be required over the long term. Some types of transformational changes necessarily take longer 
+than the funding plan timeframe to achieve or manifest (e.g. ecological processes). Further, some 
+programs will extend beyond 2028. Consideration will therefore be given to how the FDF and its 
+longer programs demonstrate ‘signals of impact’ – that is, progress towards achieving long-term 
+outcomes during the period of this funding plan. 
+2.4.3 End-of-funding plan outcomes 
+The investment strategy outlines investment in 10 programs as well as the high-level intentions for 
+measuring progress and knowledge sharing. Programs will use at least one of the 4 ‘levers for 
+change’ – the key mechanisms identified by which the FDF seeks to achieve change – and contribute 
+to the intermediate and end-of-funding plan outcomes or demonstrate progress (signals of impact) 
+toward achieving these outcomes in the long term. The terminology of ‘levers for change’ was 
+developed though the Theory of Change workshop development process with FDF program staff. 
+Individual programs do not have to use all 4 levers, nor contribute towards all outcomes. The 4 levers 
+for change are to: 
+1) 
+Improve planning and decision making – to support for farmers and land managers, Traditional 
+Custodians, and regional and agriculture-dependent communities to plan for drought and other 
+climate related risks, across the short, medium and long terms (e.g. CSA, FBR, RDRP) 
+2) 
+Drive individual and collective behaviour change at scale – to support farmers and land 
+managers to adopt new and proven resilience-building agricultural and natural resource 
+management practices (e.g. RL, LTT, Hubs) 
+3) 
+Address information gaps and share knowledge – to generate and share information about 
+drought and climate resilience practices in agricultural and broader landscapes, and about 
+climate information tools (e.g. CSA, Hubs, SS) 
+4) 
+Strengthen networks and leadership capabilities – to support farming and regional 
+communities, including First Nations communities, to build social capital resources to draw on 
+when needed (e.g. FBR, RDRP, RL). 
+FDF programs propose 3 interlinking pathways to affect the levers of change and contribute towards 
+the FDF aims and objectives outlined in the ToC: 
+1) 
+Individual change pathway – Improved access to information and decision-making tools is 
+expected to lead to farmers and land managers improving their business planning and risk 
+assessment, incorporating short, medium and long-term risks. By addressing information gaps, 
+and improving skills and knowledge of risk management, as well as agricultural and natural 
+resource management practices, farmers and land managers will be able to incorporate more 
+accurate future climate risk information. This improves resilience planning, decision making, and 
+ultimately adaptive management. To maximise these impacts, the FDF and its programs will not 
+only foster collective learning amongst its stakeholders, but also maintain ongoing learning and 
+adaptation internally, and be open to behavioural, institutional and other changes, all facilitated 
+through building and maintaining an evaluative culture. All this should lead to farmers and land 
+managers implementing incremental, transitional, or transformational changes to on-farm land 
+management practices, which in turn should lead to:
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+14 
+OFFICIAL
+a) 
+Improved resilience of natural capital, which leads to functional landscapes with 
+sustainable ecosystem services 
+b) 
+Improved performance of farming businesses and improved self-reliance of the agricultural 
+sector 
+c) 
+Improved health and wellbeing of farming and regional communities 
+d) 
+Farming and regional communities that are more resilient to drought and broader climate 
+impacts in the short and medium terms and demonstrate progress (signals of impact) 
+towards being more resilient in the long-term. 
+2) 
+Regional community pathway – Improving regional planning and decision-making and 
+addressing information gaps contributes to regional communities having increased capacity, 
+capability and investment to implement place-based drought resilience activities in line with 
+shared plans. There will be multiple forms of planning under different programs, with programs 
+aiming to support regional community capacity and capability to design and implement locally 
+led plans (Regional Drought Resilience Plans) and ensure that FDF programs align with these 
+plans. Improvements in community capacity and capability – and the investments made in 
+implementing plans – should strengthen social infrastructure and cohesion and provide more 
+opportunities for innovation and collaboration, which should lead to farming and regional 
+communities being more resilient to drought and other climate risks in the short, medium and 
+long term. 
+3) 
+Networks pathway – Strengthening networks and leadership capabilities will contribute to 
+farmers, land managers and agriculture-dependent communities strengthening existing, and 
+forming new connections within and between farming and regional communities. It is expected 
+that these strengthened connections and networks can be leveraged to respond to drought or 
+climate events, which will lead to farming and regional communities being more resilient to 
+drought and broader climate impacts in the short, medium and long term. 
+2.4.4 Effectiveness principles 
+ A set of effectiveness principles or ‘ways of working’ that guide program implementation underpins 
+the ToC. While some may look similar to the funding plan’s funding principles, effectiveness 
+principles are distinct from them and serve a different purpose. The funding principles broadly guide 
+decisions about the mix of FDF programs and grant arrangements. The effectiveness principles are 
+statements that provide guidance about how to think about desired results, based on norms, values, 
+beliefs, experience and knowledge. Adhering to the funding principles is a necessary, but not 
+sufficient, part of FDF effectiveness, hence the need for these effectiveness principles. 
+The effectiveness principles underpinning the FDF ToC are to: 
+• 
+Recognise and accommodate the co-benefits that drought resilience efforts also provide to 
+broader climate resilience. 
+• 
+Support preparedness and resilience (including during drought) rather than directly providing 
+in-drought assistance to address hardship. 
+• 
+Ensure the benefits generated from funding drought resilience provide public good benefits and 
+are not captured wholly by individual businesses or industries for commercial gain (private 
+benefits).
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+15 
+OFFICIAL
+• 
+Ensure that activities under different FDF programs complement each other and work together, 
+where possible, to strengthen the building of economic, environmental and social resilience (so 
+individual programs do not need to directly address each of these types of resilience). The 
+programs are effectively interconnected parts of a broader system – the FDF – and therefore 
+will indirectly contribute to all types of resilience through their linkages with each other. 
+• 
+Identify and leverage synergies between FDF programs and with other government initiatives to 
+maximise effectiveness, efficiency and impact. The inter-connectedness of programs may lead 
+to the emergence of additional drought resilience outcomes, leading to further efficiencies of 
+both FDF and its programs. Monitoring the emergence of these efficiencies and outcomes will 
+be a key part of FDF MEL activities during this funding plan. 
+• 
+Establish partnerships led by First Nations peoples, businesses, organisations, communities and 
+land managers to address the challenges of drought and other climate-related impacts, and to 
+facilitate improved economic and community self-determination, caring for Country outcomes, 
+co-learning and stronger connections to mob. 
+• 
+Take a place-based approach to provide tailored and practical support that reflects the unique 
+circumstances driving the drought resilience of those in the agricultural sector, communities 
+and landscapes, rather than a ‘one size fits all’ approach. 
+• 
+Actively seek genuine partnerships with the wide range of actors in the resilience and 
+sustainability ecosystem who have a shared responsibility for enhancing drought and climate 
+resilience and contribute to sustainability of Australian agriculture. 
+2.4.5 Assumptions 
+The FDF causal assumptions describe how initial and intermediate changes will bring about longer-
+term changes. These assumptions are that: 
+• 
+The adaptive capacity or resilience of the agricultural sector and rural communities depends in 
+large part on access to the resources, or ‘reserves’ that influence or confer resilience (that is 
+financial, human, social, physical and natural capital). The FDF helps strengthen these capitals 
+both directly and indirectly, and build the capacity of its stakeholders to use them to absorb, 
+adapt and/or transform their systems in response to drought and climate impacts. 
+• 
+Economic resilience: has strong public benefits in terms of reduced requirements for 
+government to provide in-drought financial assistance. Being economically resilient provides the 
+financial means to invest in transformational NRM and other practices and can drive change at 
+scale with spill over benefits for the broader agricultural sector. It also has important flow on 
+effects for rural, regional and remote communities, who are relying on a thriving agricultural 
+sector to support regional economies. 
+• 
+Environmental resilience: while NRM practices and programs are generally designed to have 
+environmental and sustainable agricultural outcomes, there are also farm productivity and 
+profitability benefits created through the protection and enhancement of the natural resource 
+base and associated ecosystem services. This strengthens the capacity of farmers, land 
+managers and farming systems to withstand and recover from drought conditions.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+16 
+OFFICIAL
+• 
+Social resilience: strengthening social connections and networks lessen the personal and family 
+stress created by drought and enable collective response in times of drought or other climate 
+impacts. 
+This framework has not been designed as one to test assumptions; however, both the KEQs and KLQs 
+include specific reference to these assumptions. Programs will address their program-specific 
+assumptions as part of evaluation and annual learning processes (section 4.2, section 4.3).
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+17 
+OFFICIAL
+2.4.6 Program collaboration 
+There are many opportunities for FDF programs to collectively build and share knowledge as parts of a cohesive system – thus making the whole of FDF 
+more than the sum of its parts. FDF must implement mechanisms for programs to interact in a co-ordinated way. Table 4 provides an overview of how each 
+program intends to do so (and will be periodically updated, as needed). Greater detail about these collaborations is articulated in Programs’ and FDF MEL 
+plans. 
+Table 4 Collaboration of FDF programs in the current funding plan 
+Program 
+Interconnected programs 
+How programs collaborate 
+Climate Services for Agriculture 
+• 
+Farm Business Resilience 
+• 
+Regional Drought Resilience Planning 
+Program planning incorporates long-term climate risk information. 
+• 
+Resilient Landscapes 
+• 
+Long Term Trials 
+• 
+Drought Resilience Innovation and 
+Adoption Hubs 
+Programs encourage farmers and land managers to use climate risk information. 
+FDF Communities Program 
+Program ensures that regional community organisations and leaders understand their long-
+term climate risks. 
+Drought Resilience Innovation and Adoption 
+Hubs 
+Program uses and promotes the use of the My Climate View digital tool. 
+Strengthening Drought Resilience on Country 
+Programs share climate data and support community co-design of projects to create 
+culturally appropriate and scientifically sound climate resilience strategies and actions. 
+Farm Business Resilience 
+Climate Services for Agriculture 
+Program encourages participants to use Climate Services for Agriculture to ensure farm 
+business planning incorporates climate risk information. 
+Drought Resilience Innovation and Adoption 
+Hubs 
+Drought Resilience Innovation and Adoption Hubs promote Farm Business Resilience 
+opportunities. 
+FDF encourages programs to work together when delivering similar learning content or 
+delivering to the same farmers to avoid duplication and capitalise on FDF investment. 
+• 
+Resilient Landscapes 
+• 
+Long Term Trials 
+• 
+Scaling Success 
+To implement natural resource management practices identified during the program, the 
+Program makes participants aware of opportunities to apply for other interconnected FDF 
+programs.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+18 
+OFFICIAL
+Program 
+Interconnected programs 
+How programs collaborate 
+• 
+FDF Communities Program 
+Program encourages participants to form new connections with community leaders and 
+mentors.  
+• 
+Drought Resilience Scholarships 
+Drought Resilience Scholars share learnings and research outcomes with program 
+participants. 
+Regional Drought Resilience Planning 
+• 
+Drought Resilience Innovation and 
+Adoption Hubs 
+• 
+Long Term Trials 
+• 
+Resilient Landscapes 
+• 
+FDF Communities Program 
+• 
+Innovation Challenges Pilot 
+• 
+Scaling Success 
+• 
+Strengthening Drought Resilience on 
+Country 
+Program plans inform: 
+• 
+policy development, FDF program design and investments 
+• 
+local farmers and regional level investments, including in some instances communities, 
+where appropriate 
+• 
+relevant policy development, program design and investments external to the FDF, 
+including other Commonwealth departments, state and territory governments and the 
+private sector, where appropriate. 
+ 
+Drought Resilience Innovation and Adoption 
+Hubs 
+Drought Resilience Innovation and Adoption Hubs can support the development and 
+implementation of Regional Drought Resilience plans. 
+Climate Services for Agriculture 
+Long-term climate risk information informs Regional Drought Resilience plans. 
+Drought Resilience Innovation and Adoption 
+Hubs 
+FDF programs 
+Hubs support farmers and communities to prepare for drought by connecting them to 
+regional experts, innovations, and new practices, which includes facilitating engagement 
+among farmers, land managers and agricultural advisors across FDF programs.  
+Long Term Trials 
+Farm Business Resilience 
+Program learning and development opportunities may include new Natural Resource 
+Management practices trialled under the program. 
+Regional Drought Resilience Planning 
+Program trials align with priorities and challenges identified in Regional Drought Resilience 
+plans. 
+• 
+Drought Resilience Innovation and 
+Adoption Hubs 
+• 
+Resilient Landscapes 
+• 
+Scaling Success 
+Programs support and inform trials. 
+Climate Services for Agriculture 
+Program encourages farmers to use the climate risk information. 
+Resilient Landscapes 
+Climate Services for Agriculture 
+Program encourages farmers and land managers to use the climate risk information
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+19 
+OFFICIAL
+Program 
+Interconnected programs 
+How programs collaborate 
+• 
+Farm Business Resilience 
+• 
+Regional Drought Resilience Planning 
+• 
+Farmers and land managers access these programs and align projects, including under 
+other FDF programs, with Regional Drought Resilience plans.  
+• 
+Farm Business Resilience program participants learning and development may include 
+new NRM practices trialled under the program.  
+Drought Resilience Innovation and Adoption 
+Hubs 
+Program connects farmers and land managers to Drought Resilience Innovation and 
+Adoption Hubs and promote program activities. 
+• 
+Long Term Trials 
+• 
+Scaling Success 
+Program informs new trials and scaled solutions. 
+FDF Communities 
+Regional Drought Resilience Planning 
+Program addresses social resilience priorities and challenges identified in Regional Drought 
+Resilience plans. 
+Drought Resilience Innovation and Adoption 
+Hubs 
+Promotion between the programs.  
+Strengthening Drought Resilience on Country 
+Strengthening Drought Resilience on Country supports shared learning of First Nations 
+leaders through training and development programs that benefit agricultural projects. 
+Programs combine community development with on-ground agricultural resilience, to 
+support holistic growth and sustainability. 
+Farm Business Resilience 
+Program encourages participants to connect with Community leaders and mentors. 
+Innovation Challenges Pilot 
+Regional Drought Resilience Planning 
+Program addresses challenges relevant to common priorities, as identified in Regional 
+Drought Resilience plans. 
+• 
+Drought Resilience Innovation and 
+Adoption Hubs 
+• 
+Resilient Landscapes 
+• 
+Long Term Trials 
+Program identifies new challenges based on experiences of these programs. 
+FDF First Nations Advisory Group 
+Program considers challenges based on the experiences and expertise of the advisory 
+group. 
+Scaling Success 
+• 
+Resilient Landscapes 
+• 
+Strengthening Drought Resilience on 
+Country 
+• 
+Long Term Trials 
+Program scales selected practices that other programs demonstrate.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+20 
+OFFICIAL
+Program 
+Interconnected programs 
+How programs collaborate 
+• 
+Drought Resilience Innovation and 
+Adoption Hubs 
+Farm Business Resilience 
+  Farm Business Resilience plans incorporate successful practices. 
+Regional Drought Resilience Planning 
+Program provides solutions aligned with common priorities and challenges that Regional 
+Drought Resilience plans identify. 
+Drought Resilience Commercialisation 
+Initiative 
+A second round of the program is planned for 2026-27. Further detail of the second round 
+is subject to review of the Drought Resilience Commercialisation Initiative in mid-2026. 
+First Nations initiatives 
+Whole-of-FDF, including  
+• 
+the First Nations Advisory Group 
+• 
+the Strengthening Drought Resilience on 
+Country grant program 
+• 
+supporting participation activities. 
+• 
+FDF First Nations Advisory Group provides strategic policy advice to inform the design 
+and implementation of FDF programs and activities, focused on ensuring programs are 
+inclusive of First Nations people and support capability and delivery reform within the 
+FDF to embed First Nations perspectives for long-term outcomes. 
+• 
+Strengthening Drought Resilience on Country supports FDF programs to strengthen 
+First Nations engagement and participation through shared program learnings.  
+• 
+Support participation activities to address barriers that impede First Nations access to, 
+and participation in, opportunities offered under the FDF, while also enhancing the 
+FDF’s cultural capabilities.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+21 
+OFFICIAL
+2.5 
+Linking programs to FDF Theory of Change 
+The links between the FDF ToC and the programs are made explicit through 2 steps. First, each 
+program will develop a nested ToC, which will show how each will help achieve the outcomes of the 
+funding plan. Second, each program will develop its own Program Logic. This will identify program-
+specific outcomes (with more specificity than those outlined in the FDF ToC), and unpack the causal 
+pathways between each program’s activities and outputs and these outcomes, as well as between 
+program outcomes and the different elements of the FDF ToC, through one or more Lever for 
+Change. The nested ToC and program logic will be documented in each program’s MEL plan. Program 
+logics may go into further detail for project plans being delivered under programs by delivery 
+partners, grantees and states and territories. 
+In light of this approach, a detailed program logic for the whole of FDF is considered redundant and 
+counterproductive in the framework. Program logics do have their places at individual program level 
+and represent excellent program management and MEL tools in that context. However, it is 
+impossible and undesirable to integrate all inputs, activities, outputs and program specific outcomes, 
+from all FDF programs, into one comprehensive FDF-wide logic model or diagram. 
+Also, given the complexity of FDF, the linear nature of a Program Logic cannot demonstrate the 
+dynamic inter-dependencies between FDF programs and outcomes – that is the parts of the broader 
+system, especially given that complex systems are continuously changing, which means linear 
+approaches to understand and manage them do not work. A linear Program Logic may in fact lead to 
+oversimplification of the context in which FDF programs operate (that is the whole-of-FDF and 
+beyond). 
+A detailed program logic for FDF therefore does not fit with its systems-based ToC. However, the PES 
+team will develop a MEL plan that includes a program logic outlining the monitoring activities it will 
+undertake at FDF-level.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+22 
+OFFICIAL
+3 FDF MEL approach 
+The FDF MEL approach (Figure 3) has been designed to respond to the MEL scope and ToC 
+presented. The MEL approach is relevant both for the FDF and individual programs (including 
+projects) and involves: 
+• 
+Routine monitoring – a standardised approach aligned with the FDF ToC 
+• 
+Evaluation studies – a standardised approach for programs and the 4-yearly FDF evaluation 
+study and set of KEQs 
+• 
+Learning – from evaluations as well as through a standardised annual learning cycle approach 
+and set of KLQs. 
+Figure 3 FDF MEL approach 
+ 
+The MEL approach is structured using the levels used in the FDF ToC, with program-level MEL plans 
+similarly aligned to their program logic levels.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+23 
+OFFICIAL
+Table 5 Theory of Change levels – FDF monitoring and evaluation 
+Theory of Change level 
+Routine monitoring 
+Evaluation studies 
+Learning cycles 
+FDF contribution to the 
+broad Australian 
+agriculture system 
+No routine monitoring 
+(section 3.2.2)  
+Assessment of the FDF’s 
+relevance and coherence 
+(design) 
+Annual reflection on changes in 
+the problem context, drawing on 
+monitoring data and insights 
+synthesised through FDF-level 
+longitudinal studies and program 
+learning and evaluation activities 
+End-of-funding plan 
+2024 to 2028 outcomes 
+Longitudinal studies and 
+other point-in-time studies 
+run by PES (section 3.2.2) 
+Assessment of FDF 
+outcome effectiveness 
+(results) 
+Annual reflection on program 
+progress, results and 
+implementation, drawing on 
+program monitoring data and 
+evaluation insights 
+Intermediate outcomes 
+Program outcomes 
+monitoring and reporting 
+Program assessments of 
+outcome effectiveness 
+(results) and relevance 
+(design) 
+Annual reflection on program 
+progress, results and 
+implementation, drawing on 
+program monitoring data and 
+evaluation insights 
+Levers for change 
+Program activity, output 
+and engagement 
+monitoring and reporting 
+FDF assessment of 
+implementation quality 
+(process) 
+– 
+Program assessments 
+of implementation 
+quality (process) 
+Annual reflection on 
+program progress, results 
+and implementation, 
+drawing on program 
+monitoring data and 
+evaluation insights 
+– 
+– 
+3.1 
+Routine monitoring 
+This section presents the standardised approach to monitoring for the FDF and its programs. These 
+approaches are linked to the ToC and program logic categories. Most routine monitoring occurs at 
+the project level. Program progress reporting incorporates results of this monitoring. and is 
+incorporated in program progress reporting. 
+3.1.1 Program monitoring and progress reporting 
+Programs use a standardised approach to routine monitoring to ensure that not only can output, 
+short term and intermediate outcome data collected inform program decision making, but that it can 
+also be aggregated across programs to inform FDF-level learning and evaluation. 
+The basis for routine monitoring and reporting at the program level is the data collection undertaken 
+at the project level and submitted in project progress reports. These activities are outlined in project 
+MEL plans. Each program team should facilitate collaboration between delivery partners to ensure 
+consistency in data collection and analysis methods, and reporting against common indicators. As 
+many programs are collecting similar types of data, they should also seek to collaborate to ensure 
+consistency, and to leverage and improve existing data collection tools.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+24 
+OFFICIAL
+The program team facilitates program monitoring with support that the PES team provides. For each 
+program, routine monitoring and progress reporting involves the following steps and timing: 
+• 
+January to June progress report summary:  program teams prepare these reports (based on 
+project progress reports) and submit to the PES team in November 
+• 
+July to December progress report summary:  program teams prepare these reports (based on 
+project progress reports) and submit to the PES team in April. 
+Programs will use these progress report summaries (and their delivery partners) to inform program 
+learning cycles, which in turn inform the FDF learning cycle (as detailed in sections section 4.2.1 and 
+section 4.2.2).  However, not all programs may be able to report meaningfully against outcomes in 
+the early stages of program delivery. 
+3.1.2 FDF monitoring 
+FDF MEL plan 
+FDF is effectively a ‘program of programs’, or a mega-program. Similar to the approach taken with its 
+individual programs, the PES team will develop an FDF MEL plan that builds on this framework. The 
+FDF MEL plan will outline FDF’s evaluation and learning activities and describe any additional 
+monitoring and data collection necessary to assess how and to what extent the FDF is making 
+progress toward, and achieving, its end-of-funding plan outcomes. This data collection will include, 
+longitudinal studies, the most significant change and other methods. 
+Context level 
+The FDF MEL plan will include a standardised approach to putting insights gained through the FDF 
+evaluation and learning activities into context, and to understand the contribution of the FDF and its 
+programs to building drought and climate resilience of the Australian agriculture system. This will 
+ensure the understanding of these issues is built across the whole of the FDF. For this 
+contextualisation, it is important to understand what other programs, initiatives and factors are 
+contributing (alongside the FDF) to both its strategic objectives and to the broad context of the 
+Australian agriculture system. This type of analysis is best incorporated in the FDF evaluation study, 
+and therefore no routine monitoring of the kind undertaken by projects and programs will take place 
+at this ‘context’ level, as it sits above the FDF line of accountability (refer to Figure 2 above the 
+dotted line). Rather, insights about the context can be obtained through multiple sources, including 
+knowledge generated from networks and collaborations with other contributors. 
+Whole-of-FDF level 
+The achievement of FDF outcomes (refer to Figure 2 below the dotted line) will be understood 
+primarily, but not exclusively, through data collected against program indicators. However, the PES 
+team, as the custodians of whole-of-FDF MEL, will be responsible for doing additional monitoring and 
+data collection deemed necessary to supplement those done by programs (for example, longitudinal 
+studies). These activities will focus on assessing how and to what extent the FDF is contributing to 
+drought and climate resilience. In addition, the PES team will be facilitating program inter-linkages 
+and encouraging programs to collaborate. This will include ongoing monitoring of the emergence of 
+efficiencies and synergies from these inter-linkages (details of which will be outlined in the FDF MEL 
+plan).
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+25 
+OFFICIAL
+This whole-of-FDF monitoring will be in addition to that done at program level (and aggregated 
+through progress report summaries and annual learning processes). To ensure a streamlined and 
+steady input of data from programs, the PES team will provide support to program teams monitoring 
+and reporting activities and detailed in program MEL plans. 
+When the framework is complete, the PES team will determine broad themes for the FDF end-of-
+funding plan outcomes, under which whole-of-FDF indicators can be identified. The PES team will 
+develop these themes, indicators and data collection methods (for PES monitoring activities) for 
+inclusion in the FDF MEL plan. The whole-of-FDF indicators will align with, and complement 
+programs’ indicators, though the latter are more focused on the specific changes that programs aim 
+to achieve in relation to the FDF intermediate outcomes. The PES team will update the framework 
+with these FDF-level themes and indicators once the FDF MEL plan is complete, and as part of the 
+broad adaptive management of MEL within the FDF. 
+3.2 
+Annual learning 
+This section presents the approach to annual learning, adaptation and reporting. As for routine 
+monitoring, the process builds upwards, from project through program and then to the FDF. 
+3.2.1 Program annual learning cycle 
+The program annual learning cycle involves each program collaboratively reflecting on data and 
+insights the program monitoring and reporting collects. The cycle not only informs program design 
+and delivery adaptations but also the FDF learning cycle. 
+The program annual learning cycle is the responsibility of the program teams, with   PES team 
+support. The PES team will develop a standard agenda, facilitation plan and reporting template to 
+guide this process, which may be tailored each year in response to priorities. For each program, the 
+annual cycle involves the following steps and timing: 
+• 
+collating all program monitoring data for the previous calendar year (including any program or 
+FDF evaluation study findings, where relevant) (March) 
+• 
+conducting a program reflection session (facilitated by the PES team), bringing data and insights 
+to help answer the program KLQs (March). Program teams may wish to involve their delivery 
+partners in this process who may be required to conduct an internal reflection session or add 
+their reflections in annual reporting (if applicable) to inform the program learning activities, as 
+specified in each program and project MEL plan 
+• 
+preparing the Program Annual Learning Report (April) 
+• 
+implementing any adjustments to program delivery (including to project or program MEL plans).
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+26 
+OFFICIAL
+The KLQs in Table 6 guide the program learning activities. 
+Table 6 Program key learning questions 
+Domain 
+Learning focus 
+Key learning questions 
+Results 
+Outcome 
+effectiveness  
+1) What does the indicator data show about progress towards program 
+outcomes? Are there particular barriers or enablers? 
+2) What unanticipated outcomes, if any, are emerging, and what appears to be the 
+cause? 
+Process 
+Implementation 
+quality 
+3) How well is the Program collaborating with related FDF programs? What 
+opportunities are there for efficiencies or better leveraging each program’s 
+work? 
+4) Have the actions identified in the last learning cycle been implemented and 
+what difference is this making? 
+Design 
+Relevance 
+5) What is the indicator data suggesting about whether the Program is meeting 
+priority needs of program stakeholders? Are there particular barriers or 
+enablers? 
+Learning 
+n/a 
+6) Overall, what is being learned about the support requirements of the programs, 
+and what might be done differently (more of, less of, change) as a result? 
+7) What is being learned about the assumptions underpinning the Program? 
+Program teams will be expected to contribute to the FDF annual learning cycle. 
+3.2.2 FDF annual learning cycle 
+The FDF annual learning cycle involves the PES team reflecting on data and insights collected in the 
+program Annual Learning Reports to inform FDF and program level design and delivery adaptations. 
+Insights from monitoring activities done by PES, such as longitudinal studies, also inform the FDF 
+annual learning. 
+The PES team is responsible for the FDF learning cycle. The team will circulate findings to program 
+teams for comments. The PES team will then facilitate an annual reflection and sense-making session 
+and include program leads to encourage identifying and building program inter-linkages and 
+collaborations. The FDF learning cycle involves the following steps and timing: 
+1) 
+Collating program annual learning reports from the previous calendar year including any 
+program or FDF evaluation study findings, where relevant (May). 
+2) 
+Undergoing a reflection session (PES) bringing data and insights from program learning reports, 
+and FDF longitudinal studies to answer the FDF KLQs (May). 
+3) 
+Preparing the FDF Annual Learning Report (June). 
+4) 
+Circulating the report to program teams for comments and organising a reflection and sense-
+making session with program leads to facilitate sharing and collaboration (June). 
+5) 
+Implementing any adjustments to the FDF or program delivery, including any adjustments to the 
+FDF ToC or program and PES MEL plans. 
+6) 
+Contributing to the FDF annual reporting (June to July). 
+The FDF KLQs in Table 7 guide the FDF learning cycle – in particular the annual reflection session. The 
+midpoint learning activities for the year of FDF evaluation can be somewhat more complicated 
+because the evaluation findings will be a significant input in the learning activities. This will then 
+inform both the PC Inquiry and the design of future FDF programs.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+27 
+OFFICIAL
+Table 7 FDF key learning questions 
+Domain 
+Learning focus 
+Key learning questions 
+Results 
+Outcome effectiveness  
+1) What does the indicator data show about progress towards FDF 
+outcomes? Are there particular barriers or enablers? 
+2) What unanticipated outcomes, if any, are emerging, and what appears to 
+be the cause? 
+Process 
+Implementation quality 
+3) Are there common barriers and opportunities being identified by 
+programs that could be addressed or supported (as appropriate) at the 
+Fund-level? 
+4) How well are programs collaborating with each other? Are there 
+opportunities for efficiencies or better leveraging a program’s work? 
+5) Have the actions identified in the last learning cycle been implemented 
+and what difference is this making? 
+Design 
+Relevance 
+6) What is the indicator data suggesting about whether programs are 
+meeting priority needs of stakeholders? Are there emerging trends or 
+themes across the programs? 
+7) What key contextual shifts have occurred that require a response, if any? 
+Learning 
+n/a 
+8) Overall, what is being learned about the support requirements of the 
+programs, and what might be done differently (more of, less of, change) 
+as a result? 
+9) What is being learned from the programs and longitudinal studies about 
+the assumptions underpinning the FDF Theory of Change? 
+3.3 
+Evaluation studies 
+This section presents the approach to evaluation studies for the FDF and its programs. 
+3.3.1 FDF evaluation 
+The FDF evaluation study is an important part of learning and sharing knowledge about how and to 
+what extent the whole-of-FDF is contributing to building drought and climate resilience. The FDF 
+evaluation study has been designed to align with, and inform, the 4-yearly Productivity Commission 
+Inquiry. The timing of this inquiry is set out in the FDF Act and is expected to fall around the mid-
+point (2026 to 2027) of the current funding plan. The findings will also be a key input to the learning 
+and improvement cycles for the FDF and its programs. 
+The scope of the FDF evaluation will include the outcomes achieved under the 2020 funding plan, 
+and will consider, cumulatively, progress made under the current funding plan. The FDF evaluation 
+will be conducted by an independent external evaluator. The evaluation will draw on program 
+learning and progress reports (and the underlying monitoring data), FDF learning reports, program 
+evaluation studies (both mid-term and end-of-program evaluations conducted since 2020) and other 
+documents as required. It may also draw on expert opinion (e.g. in resilience, sustainability) to 
+enhance the rigour and robustness of the study. 
+The purpose of utilising expert opinion is to support a defensible narrative about the contribution of 
+the investments made (Results) to the intended end-of-funding plan (2024 to 2028) outcomes and 
+the broad context of Australia’s agriculture system. Expert opinion may also be relevant to evaluating 
+the Fund and its programs (Design), and its coherence and fit within the broader programmatic 
+ecosystem at the commencement of the funding plan, at the time of the evaluation, and with regard 
+to the anticipated future contextual shifts. FDF anticipates that this analysis would draw on expert 
+knowledge and other available information, including about the achievement of outcomes.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+28 
+OFFICIAL
+The KEQs in Table 8  inform assessments of FDF results, process and design. 
+Table 8 FDF key evaluation questions 
+Domain 
+Criteria 
+Key evaluation questions 
+Results 
+Outcome 
+effectiveness 
+1) To what extent have the programs collectively contributed to the outcomes 
+expected at the end of the funding plan? 
+2) To what extent have the programs delivered in this funding plan contributed to 
+the broader public good through building drought and climate resilience in 
+Australia? 
+3) What trends or themes in unintended outcomes (positive and negative) are 
+arising from the programs, if any? What are their implications? 
+Process 
+Implementation 
+quality 
+4) To what extent has Fund-level management enabled adherence to the FDF 
+effectiveness principles? 
+5) To what extent has the FDF MEL function supported ongoing improvement of 
+program-level MEL design and implementation? 
+Design 
+Coherence 
+6) How well does the mix of programs under the funding plan cohere with existing 
+knowledge about drought and climate resilience? 
+7) How well does the mix of programs under the funding plan complement other 
+programs (FDF or non-FDF) already in place? 
+Relevance 
+8) What has shifted in the context (e.g., geopolitical, economic, climate) and what 
+are the implications for the design of the next funding cycle? 
+Learning 
+n/a 
+9) What are the key lessons from implementation for future drought and climate 
+resilience efforts in Australia? 
+10) What is being learned about the assumptions made about drought and climate 
+resilience? 
+The PES team will be responsible for commissioning and managing all external evaluations, 
+notwithstanding that the team may also undertake some internal evaluation studies if needed (e.g. 
+mid-program evaluations). The PES team will aim for selection criteria for external evaluators to 
+include the incorporation of cultural expertise (e.g. through cultural advisors, cultural brokers, and 
+locally based evaluators, interviewers and/or facilitators). 
+Consistent with the MEL principles of this framework (Table 3), where relevant, all evaluation studies 
+and any associated additional data collection will be conducted in a culturally safe way, respect 
+Indigenous data sovereignty, and not place undue pressure on delivery partners. 
+3.3.2 Program evaluations 
+The approach to program evaluations focuses on the delivery of primarily summative evaluations 
+conducted by the end of the current funding plan (2028 to 2029). The PES team will scope timing of 
+allocated evaluations   in collaboration with program teams. While all programs may undertake mid-
+program evaluations, and seek to align them with the FDF evaluation, this is not a mandatory 
+requirement (in part because the FDF evaluation will draw on program progress and annual learning 
+reports). 
+The final stage of the evaluation process will utilise a collaborative reflection and sense-making 
+workshop to collectively identify key insights and learnings, and identify opportunities and linkages 
+to inform improvements to the program design and delivery in subsequent phases and funding plans. 
+The KEQs in Table 9 have been developed to inform assessments of program results, process and 
+design. Program evaluations are to utilise these KEQs, with a recommendation that each program
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+29 
+OFFICIAL
+develops specific sub-questions as needed to ensure their relevance, with support from the PES 
+team. Answering the KEQs will draw on project and program monitoring and learning activities, and 
+data collected as part of the evaluation process. 
+Table 9 Program key evaluation questions 
+Domain 
+Criteria 
+Key evaluation questions 
+Results 
+Outcome 
+effectiveness 
+1) To what extent has the program made progress towards its intended outcomes? 
+2) What were the unintended outcomes (positive and negative) arising from the 
+program? 
+Process 
+Implementation 
+quality 
+3) To what extent are the program activities being administered and delivered 
+efficiently and to the expected quality? 
+4) How well has the program collaborated and leveraged synergies with other 
+programs to maximise effectiveness and efficiency? 
+Design 
+Relevance 
+5) To what extent does the program design and expected outcomes respond to the 
+priority needs of the target stakeholders? 
+Learning 
+n/a 
+6) How has the program adapted to changing needs, if any? 
+7) What has been learned about the assumptions underpinning the program? 
+ The PES team will be responsible for commissioning and managing external evaluations and 
+consistent with the principles of this framework. All evaluation studies and any associated additional 
+data collection will be conducted in a culturally safe way and respect Indigenous data sovereignty.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+30 
+OFFICIAL
+4 MEL implementation 
+4.1 
+Roles and responsibilities 
+This section outlines the roles and responsibilities for the implementation of MEL activities described 
+in, and governed by, this framework. 
+4.1.1 PES team 
+The PES team is responsible for: 
+• 
+development and oversight of the implementation of the FDF MEL framework, including 
+− 
+managing expenditure of funding that has been allocated for the implementation of the 
+framework (independent evaluations and longitudinal studies) 
+− 
+commissioning and managing external evaluations to undertake independent FDF or 
+program evaluation studies 
+− 
+commissioning and managing longitudinal studies 
+− 
+conducting internal evaluation studies if needed (e.g. program mid-term evaluations) 
+− 
+coordination and delivery of FDF and program learning activities 
+− 
+collaborating with other FDF enabling teams, as needed, to implement the framework 
+− 
+updating the framework and program MEL plans as required. 
+• 
+developing and implementing a PES team MEL plan 
+• 
+providing support and advice to program teams to 
+− 
+apply this framework, including the development, implementation and update of program 
+and project MEL plans and associated data collection, analysis and reporting 
+− 
+ensure MEL activities are culturally safe in both process and product, by aligning with 
+relevant guidance including the AES Cultural Safety Framework, Indigenous Evaluation 
+Strategy and linking with the FDF First Nations Partnerships team 
+− 
+facilitate program annual reflection sessions and support delivery of program annual 
+learning cycle activities 
+− 
+oversee program evaluation studies 
+− 
+facilitate collaboration between programs and help in identifying and leveraging synergies 
+between them. 
+4.1.2 Program teams 
+Program teams are responsible for developing and implementing a program MEL plan (nested within 
+the FDF MEL framework) with support from PES. This includes: 
+• 
+using templates provided by PES 
+• 
+developing a nested theory of change 
+• 
+developing a program logic 
+• 
+identifying program evaluation sub-questions and learning sub-questions (if necessary)
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+31 
+OFFICIAL
+• 
+co-developing a monitoring plan and appropriate data collection tools with delivery partners to 
+capture data against the identified indicators 
+• 
+coordinating and delivering program learning activities 
+• 
+preparing and submitting program progress and learning reports 
+• 
+participating in annual FDF reflections and sense-making sessions 
+• 
+collaborative scoping of, participating in and contributing to program evaluation studies 
+• 
+ensuring the program MEL plan is kept up to date 
+• 
+collection and management of any other data requested by the PES team to support Fund-level 
+learning and evaluation activities (as per project MEL plans co-designed with grantees and 
+delivery partners) 
+• 
+providing support to project teams (e.g. grantees and consortia members), as outlined in the 
+program MEL plans. 
+4.1.3 Project teams 
+Project teams are responsible for developing and implementing a project MEL plan (nested within 
+the program MEL plan), including: 
+• 
+developing a nested program logic for their projects 
+• 
+contributing project evaluation sub-questions and learning sub-questions (if requested by 
+program) 
+• 
+working with the program team to develop a monitoring plan, and appropriate data collection 
+tools, to capture data against the identified indicators, in collaboration with the program and 
+PES teams 
+• 
+drafting and submitting project progress reports 
+• 
+participating in or contributing to program learning activities, as requested by the program 
+team 
+• 
+participating in or contributing to program evaluation studies, as required 
+• 
+arranging and contributing to project evaluation studies (if requested by FDF) 
+• 
+ensuring the project MEL plan is kept up to date. 
+4.1.4 FDF Knowledge Systems and Strategy team 
+The FDF Knowledge Systems and Strategy team is responsible for: 
+• 
+development and implementation of an FDF knowledge strategy 
+• 
+design, rollout, management, and improvement of an FDF knowledge management solution – 
+which will provide modernised, integrated and user-centred access to program and project 
+information and data, information & data solution 
+• 
+building data, information, and knowledge management capability and capacity across the FDF 
+policy and program teams, and FDF service providers
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+32 
+OFFICIAL
+• 
+analysing data and information from program delivery to inform program management and 
+future program design. 
+The team will provide advice to the PES and program teams in relation to data collection 
+arrangements, tools and parameters. This includes about standardised tagging and categorisations of 
+core data and knowledge products generated across programs. Updates will be included in this 
+framework in due time. 
+4.2 
+Guide to program MEL 
+4.2.1 Program MEL development and implementation 
+Table 10 provides an overview for program teams on the stages of developing and implementing a 
+program MEL plan, ideally to be conducted alongside program development and implementation. 
+Program-level MEL is nested within the components of this framework. Program MEL plans will in 
+turn provide details relevant to the development of each project MEL plan nested within. 
+Table 10 Guide to developing program monitoring, evaluation and learning 
+Program stage 
+MEL stage 
+Description 
+Program design 
+and planning 
+MEL purpose, scope and 
+audiences 
+Nest the program’s MEL scope within the FDF MEL Framework by clearly 
+guiding its purpose, primary audiences and principles by the framework 
+Program logic 
+development 
+Develop a program logic model that demonstrates a clear causal 
+pathway between activities, outputs and outcomes in alignment with 
+the nested program Theory of Change 
+Monitoring planning 
+• 
+Identify indicators for the elements of the program logic and 
+develop a program monitoring plan to track changes in these 
+indicators over time 
+• 
+Plan the methods and timing of data collection, analysis and 
+synthesis 
+• 
+Align the timing of progress reporting with FDF requirements 
+Evaluation design and 
+planning 
+• 
+Work with PES on identifying KEQ sub-questions relevant to the 
+program 
+• 
+Work with PES on identifying the evaluation(s) to be undertaken 
+(mid-program and end-of-program evaluations) and their 
+timeframes 
+Learning planning 
+• 
+Identify the KLQ sub-questions relevant to the program, and who 
+should be involved in learning activities 
+• 
+Align the timing of learning reporting with FDF requirements 
+Program 
+implementation 
+• 
+Monitoring activities 
+• 
+Learning and 
+improvement 
+• 
+Progress reporting 
+• 
+Ensure routine monitoring data is being captured in line with the 
+program monitoring plan (via project progress reports) 
+• 
+Prepare and submit program progress reports summaries 
+• 
+Undertake annual learning activities 
+• 
+Prepare and submit learning reports, and action learnings 
+• 
+Facilitate and contribute to mid-program evaluation (if necessary) 
+Program 
+completion 
+• 
+End-of-program 
+evaluation 
+• 
+Learning and 
+improvement 
+• 
+Evaluation reporting 
+• 
+Facilitate and contribute to an end of program evaluation (if 
+necessary) 
+• 
+Undertake a program completion reflection workshop 
+• 
+Action learnings (e.g. in design of next program phases)
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+33 
+OFFICIAL
+4.2.2 Data collection and storage 
+Any agency, organisation or individual collecting primary data for the FDF – whether for routine 
+monitoring, for an evaluation or for any other purpose – has an obligation to do so ethically and in 
+accordance with the standards of the Privacy Act 1988. All data must be stored securely, maintaining 
+privacy and confidentiality. All primary data collection must be conducted in a culturally safe way and 
+respect Indigenous data sovereignty. 
+All participants in FDF MEL data collection activities will be asked to provide informed consent before 
+providing their responses, which requires informing participants: 
+• 
+of the purpose of data collection 
+• 
+of their right to choose not to participate, and to withdraw at any stage 
+• 
+that names will not be used in reporting the results of data analysis 
+• 
+that respondents will not be identified unless this is explicit and agreed to by the respondent. 
+All data collection tools and analysis frameworks will be developed in line with Australasian 
+Evaluation Society Guidelines for the Ethical Conduct of Evaluations or other relevant professional 
+standards. 
+Delivery partners are responsible for deploying the data collection instruments, and are the 
+custodians of the data collected, responsible for collection, storage, and safeguarding of the data. 
+The department will be responsible for data storage and safeguarding of any data provided.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+34 
+OFFICIAL
+4.3 
+Implementation schedule 
+Table 11 outlines the proposed implementation schedule for key MEL activities at the project, program and FDF level. Dates in this schedule are indicative 
+and will be updated regularly. Some programs may have different reporting frequencies, as described in their program MEL plan. 
+Table 11 FDF MEL implementation schedule 
+Category 
+Month/year (TBC) 
+MEL activities 
+Led by 
+Supported by 
+PES team, Program and delivery 
+partner MEL plan preparation 
+Jul 2025 
+Finalise program MEL plans 
+Program team 
+PES team 
+Jul 2025 
+Update Activity Work Plan 
+(AWP)/MEL reporting templates 
+Program team 
+PES team 
+Aug 2025 
+AWP/project MEL plan 
+development workshops 
+Program team 
+Project teams, PES team 
+Sep 2025 
+Finalise data collection tools 
+Program team 
+PES and Knowledge Systems and 
+Strategy KM teams 
+Sep to Oct 2025 
+AWP/project MEL plans submitted 
+Project teams 
+Program team 
+Oct 2025 
+Support delivery partners to 
+update data collection tools 
+and/or identify processes to 
+implement data collection tools 
+Program team 
+Project teams, PES and Knowledge 
+Systems and Strategy teams 
+TBC 
+Finalise PES Team MEL plan 
+PES team 
+n/a 
+Annual reporting and learning cycle 
+(NB: Repeat the outlined progress 
+reporting and learning cycles 
+annually until end-of-program) 
+Jan to Feb 2026 
+Delivery partner 6 monthly 
+progress report submitted 
+Project teams 
+n/a 
+Mar to Apr 2026 
+Program 6 monthly progress 
+report summary submitted 
+Program team 
+n/a 
+Mar to Apr 2026 
+Program annual reflection sessions 
+Program team 
+PES team, Project teams 
+Apr 2026 
+Program Annual Learning Reports 
+submitted 
+Program team 
+PES team, Project teams 
+Apr 2026 
+Program teams make adjustments 
+to program and projects as 
+necessary (e.g. to MEL plans, 
+Program team 
+Project teams, PES team
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+35 
+OFFICIAL
+Category 
+Month/year (TBC) 
+MEL activities 
+Led by 
+Supported by 
+reporting templates, data 
+collection tools, management) 
+May 2026 
+FDF Annual Reflection Sessions 
+PES team 
+Program teams 
+Jun 2026 
+FDF Annual Learning Report 
+completed 
+PES team 
+n/a 
+Jun to Jul 2026 
+Implement any necessary 
+adjustments arising from FDF 
+learnings (e.g. to framework, 
+program MEL plans) 
+PES team 
+Program teams 
+Jul to Aug 2026 
+Delivery partner 6 monthly 
+progress report submitted 
+Project teams 
+n/a 
+Sep to Oct 2026 
+Program 6 monthly progress 
+reports summary submitted 
+Program team 
+n/a 
+Nov 2026 
+Program teams make adjustments 
+to program and projects as 
+necessary (e.g. to MEL plans, 
+reporting templates, data 
+collection tools, management) 
+Program team 
+PES team, project teams 
+Jan to Feb 2026 
+Delivery partner 6 monthly 
+progress report submitted 
+Project teams 
+n/a 
+Internal mid program evaluations (if 
+needed; dates to be identified for 
+each program, as relevant) 
+TBC 
+Scoping exercise for formative 
+mid-term evaluation 
+PES team 
+Program teams 
+TBC 
+Draft formative mid-term 
+evaluation Request for Quote 
+(RFQ) for clearance 
+PES team 
+Program teams 
++ 1 month 
+Formative mid-term evaluation 
+RFQ to market 
+PES team 
+n/a 
++2 months 
+Prepare data package and 
+stakeholder contact list for 
+external evaluation consultant 
+PES team 
+Program teams 
++3 months 
+External evaluation consultant 
+engaged 
+PES team 
+n/a
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+36 
+OFFICIAL
+Category 
+Month/year (TBC) 
+MEL activities 
+Led by 
+Supported by 
++3–6 months 
+Undergo formative/mid-program 
+evaluation 
+PES team 
+Program and project teams 
+(contributors) 
++7 months 
+Final formative/mid-program 
+evaluation report received 
+PES team 
+n/a 
++7/8 months 
+Collaborative reflection and sense-
+making workshop 
+PES team 
+n/a 
+FDF evaluation – Expected 2026–
+2027 before PC inquiry. Dates TBC 
+once evaluation scoped 
+TBC 
+Draft evaluation Request for Quote 
+(RFQ) for clearance 
+PES team 
+n/a 
+TBC 
+Evaluation RFQ to market 
+PES team 
+n/a 
+TBC 
+External evaluation consultant 
+engaged 
+PES team 
+n/a 
+TBC 
+Contribute to the evaluation 
+PES team 
+Program teams 
+TBC 
+Final evaluation report received 
+PES team 
+n/a 
+FDF input to the PC Inquiry (dates 
+TBC) 
+TBC 
+Prepare data package and 
+stakeholder contact list for PC 
+PES team 
+Program teams 
+TBC 
+Contribute to PC Inquiry 
+PES team 
+Program teams 
+TBC 
+Provide comments on PC draft 
+inquiry report 
+PES team 
+Program teams 
+End-of-program evaluation (dates to 
+be identified per program once 
+evaluations scoped) 
+TBC 
+Scoping exercise for summative 
+end-of-program evaluation 
+PES team 
+Program team 
+TBC 
+Summative end-of-program 
+evaluation RFQ for clearance 
+PES team 
+n/a 
+TBC 
+Summative end-of-program 
+evaluation RFQ to market 
+PES team 
+n/a 
+TBC 
+Prepare data package and 
+stakeholder contact list for 
+external evaluation consultant 
+Program team 
+Project teams 
+TBC 
+External evaluation consultant 
+engaged 
+PES team 
+n/a
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+37 
+OFFICIAL
+Category 
+Month/year (TBC) 
+MEL activities 
+Led by 
+Supported by 
+TBC 
+Contribute to summative end-of-
+program evaluation 
+Program and Project teams 
+PES team 
+TBC 
+Final summative end-of-program 
+evaluation report received 
+PES team 
+n/a
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+38 
+OFFICIAL
+Glossary 
+Term 
+Definition 
+absorptive capacity 
+The ability of a system to absorb and cope with the impacts of shocks and stresses 
+through quick and effective ways to respond e.g. insurance reserves (in many forms) 
+access to services and support network. 
+adaptive capacity 
+The ability of a system to modify processes and functions to respond to shocks and 
+stresses e.g. State and trend of the 5 capitals response diversity and pathways, 
+appropriate connectivity and capacity for system and cross-scale thinking and practice. 
+anticipatory capacity 
+The ability of a system to foresee threats and shocks and prepare for or mitigate ahead of 
+time e.g. access to early warning information, putting in place new and better ways to 
+deal with significant adverse and disaster events. 
+appropriateness 
+The consideration of the degree to which an intervention’s design, implementation and 
+initial results are adequate to respond to the needs of a range of stakeholders. 
+Appropriateness is one of the 4 lines of enquiry framing FDF MEL activities and deals with 
+the extent to which FDF programs are aligned with the strategic objectives of the Drought 
+Resilience Funding Plan. 
+assumptions 
+Hypotheses about the factors or risks which could affect the progress or success of an 
+intervention. Intervention results depend on whether the assumptions made prove to be 
+correct. 
+attribution 
+Attribution is the ascription of a causal link between observed (or expected to be 
+observed) changes and a specific intervention. It is understood as the extent to which 
+changes were caused by the intervention, that would not have occurred without it. 
+Changes in drought resilience will rarely be attributable to FDF programs, given that other 
+factors (e.g. climatic conditions business or social drivers or other government policies) 
+will also influence drought resilience. See also ‘Contribution’. 
+AWP 
+Activity Work Plan 
+contribution 
+The contribution of an intervention is any change that is generated jointly by the 
+intervention, when it is one of a number of interventions that helped to generate or 
+produce that change. It is expected that all FDF programs will contribute to strengthening 
+drought resilience, and its determinants, even if the size of the contribution is hard to 
+measure. See also ‘Attribution’. 
+CSA 
+Climate Services for Agriculture program 
+data collection tools 
+The methods and instruments used to collect information of interest, including (but not 
+limited to) participant surveys, interviews, focus group discussions, participatory tools 
+(e.g. mapping, ranking, timelines). 
+drought resilience 
+The object of the Future Drought Fund Act 2019 is to enhance the public good by building 
+drought resilience. A key aspect of drought resilience is ‘the ability to adapt, reorganise or 
+transform in response to changing temperature, increasing variability and scarcity of 
+rainfall and/or changed seasonality of rainfall, for improved economic, environmental and 
+social wellbeing.’ While drought resilience remains the key focus of the FDF, the Future 
+Drought Fund (Drought Resilience Funding Plan 2024–2028) Determination 2024 
+considers a broader range of climate impacts. The FDF Investment Strategy notes that 
+‘drought and climate resilience activities are often interconnected – building resilience in 
+one area can improve the ability to manage other risks’. The investment strategy also 
+recognises that resilience does not have a singular meaning or measure – it depends on 
+context and can mean something different to each person, farming business and 
+community. 
+Building drought resilience is a complex and long-term endeavour. There is unlikely to be 
+an end point as continued adaptation is required to meet changing circumstances over 
+time and build resilience. 
+DRCI 
+Drought Resilience Commercialisation Initiative program
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+39 
+OFFICIAL
+Term 
+Definition 
+general resilience (systemic 
+resilience) 
+Defined as the capacity of the system as a whole (e.g. landscape) to absorb disturbances 
+of all kinds (including climate shocks) so that all parts maintain function. General 
+resilience is a factor of a multiple of determinants, including connectedness (networks), 
+diversity, complex systems thinking and reserves. 
+economic resilience 
+Refers to the FDF strategic objective of growing the productivity and self-reliance of the 
+agricultural sector. 
+Enabling farmers to make informed decisions and adapt quickly to reduce the impacts of 
+future droughts on their business viability is essential. Business management planning has 
+been associated with greater practice change as well as financial performance. 
+Economic resilience has strong public benefits in terms of reduced requirements for 
+government in-drought financial assistance, providing the financial means to invest in 
+natural resource management and transformational practices and can drive change at 
+scale with spill over benefits for the broader agriculture sector. It also has important flow 
+on effects for rural, regional and remote communities, who rely on a thriving agriculture 
+sector to support regional economies. 
+ecosystem services 
+The services (and goods) that an ecosystem provides for human wellbeing. These include 
+provisioning (e.g. crops, meat), regulating (e.g. climate regulation, water regulation), 
+cultural (e.g. recreation, aesthetic, spiritual values) and supporting (e.g. nutrient cycling, 
+soil formation) services. Ecosystem services provided by natural capital enhance drought 
+resilience on farm and may extend to general resilience across the broader landscape. A 
+resilient landscape increases the capacity of farmers and their businesses to prepare for 
+and recover quickly from drought. 
+effectiveness 
+A measure of the extent to which program objectives were achieved or are expected to 
+be achieved, considering their relative importance. Assessing effectiveness includes 
+examining which outcomes were achieved, who benefited from those outcomes, and 
+identifying unintended outcomes. 
+Effectiveness is one of the 4 lines of enquiry framing FDF MEL activities. It reveals the 
+extent to which programs are achieving their intended outcomes, and what could be 
+done to improve them. 
+efficiency 
+A measure of program delivery, of how economically resources or inputs such as funds, 
+expertise or time are converted into results. 
+Efficiency is one of the 4 lines of enquiry framing FDF MEL activities. It reveals the extent 
+to which programs are administered and delivered efficiently, to the expected quality, 
+and means of improving efficiency. 
+environmental resilience 
+Refers to the FDF strategic objective of improving the function of agricultural landscapes 
+through effective management of the natural resource base. 
+Management of natural resources is an important contributor to drought and climate 
+resilience of farms and farm businesses and the long-term sustainability and productivity 
+of Australia's agricultural landscapes. While natural resource management practices and 
+programs are generally designed to have environmental and sustainable agriculture 
+outcomes, there are also farm productivity and profitability benefits created through the 
+protection and enhancement of the natural resource base and associated ecological 
+services. This strengthens the capacity of primary producers and of farming systems to 
+withstand and recover from drought and climate impacts. 
+FBR 
+Farm Business Resilience program 
+farmers, land managers and 
+regional communities 
+Refers to farmers, primary producers, land managers, Traditional custodians and the 
+broader communities they are part of. These broader communities include First Nations 
+peoples, regional townships, and community organisations, including those who are not 
+engaged directly in agriculture. 
+This definition has been drafted based on advice from Clear Horizon, workshops with 
+program teams and review of other program MEL frameworks in the department, and 
+advice from the FDF First Nations Advisory Group. The definition is intended to flow 
+through to the remainder of this framework. 
+FDF 
+Future Drought Fund
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+40 
+OFFICIAL
+Term 
+Definition 
+FDF Communities 
+FDF Communities (Program) 
+funding plan 
+The Future Drought Fund (Drought Resilience Funding Plan 2024–2028) Determination 
+2024 (the Funding Plan) is a legislative instrument. Its purpose is to ensure a coherent and 
+consistent approach is adopted in making arrangements with, or grants to, a person or 
+body under section 21 of the Future Drought Fund Act 2019 and for entering into 
+agreements under section 22 of the Act setting out the terms and conditions of such 
+grants. 
+It provides principles-based framework to guide relevant decision-making. Applicants 
+must demonstrate how a proposed project would meet the requirements and 
+considerations set out in these funding principles. 
+Hubs 
+Drought Resilience Innovation and Adoption Hubs (Program) 
+ICP 
+Innovation Challenges Pilot (Program) 
+incremental change 
+The ability to preserve or restore a system (including its basic structures and functions) by 
+preventing, preparing for, or mitigating the impacts of an event or risk. An example could 
+include diversifying income with off-farm employment, or minor changes to farm 
+operations. 
+indicators 
+The quantitative or qualitative factors or variables that provide a simple and reliable 
+means to measure achievement, assess performance or reflect the changes connected to 
+an intervention. 
+Specific, relevant and appropriate indicators must be identified for outputs, outcomes 
+and impacts, and data collected on these as part of monitoring activities, so that changes 
+over time can be measured. 
+KEQ 
+Key Evaluation Question 
+KLQ 
+Key Learning Question 
+landscape 
+A bioregion (or part of a bioregion) that shares common characteristics, such as landform 
+patterns and natural resources such as soils, water, animals and plants (e.g. mallee, 
+mulga, grasslands, rangelands, savannah woodlands). A landscape is also a coherent area 
+that people relate to (for example a catchment or sub-catchment). It may include a 
+dominant type of farming systems (e.g. grazing, broadacre cropping, irrigated cropping, 
+horticulture), or a diverse mix of these. 
+landscape function 
+The various roles and benefits that landscapes provide, including economic production, 
+ecological regulation, and social functions (Whitford and Duval 2020). Functional 
+landscapes have healthy processes of transporting, retaining or cycling critical resources 
+such as nutrients and water, and the provision of food, fibre, biodiversity and habitat, and 
+cultural and spiritual needs. 
+LTT 
+Long Term Trials (Program) 
+measuring resilience 
+The FDF will use a capitals framework to assess resilience as a range of resources or 
+capitals that act as reserves that can be drawn on and influence adapting and coping 
+responses. This can be applied at both the individual farm and regional community level. 
+Having reserves is one of the key determinants of general resilience of social-ecological 
+systems. The capitals are: 
+• 
+financial capital – for example, income or savings at business or household level 
+• 
+natural capital – for example, the environment, soil, vegetation 
+• 
+human capital – for example, knowledge, skills, wellbeing, health and confidence 
+• 
+social capital – for example, networks, linkages and cohesion 
+• 
+physical (or manufactured) capital – for example, infrastructure 
+MEL 
+Monitoring, Evaluation and Learning 
+monitoring, evaluation and 
+learning (MEL) 
+Monitoring refers to continuous and systematic observation of how programs are 
+implemented, situational change in the problems that they are intended to address and 
+early indicators of outcomes. Evaluation refers to evidence-based assessment of the 
+appropriateness, effectiveness, efficiency and impact of programs. Learning is the
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+41 
+OFFICIAL
+Term 
+Definition 
+generation and sharing of insights and information within and beyond FDF to improve 
+program delivery and inform future policy and program design. 
+natural capital 
+Stocks of natural assets which include soil, air, geology, water and all living things, from 
+which humans derive a wide range of ecosystem goods and services, including food, 
+water and fuel. 
+NRM 
+Natural Resource Management 
+objective 
+The intended physical, financial, institutional, social, environmental, or other results to 
+which an intervention is expected to contribute. Objectives can be set at many different 
+levels, from broad strategic objectives to very specific project objectives, and range from 
+simple deliverables in a project to long-term goals which may be dependent on many 
+different factors. 
+The Drought Resilience Funding Plan identifies 3 objectives to achieve the strategic 
+priorities which will enhance the public good by building drought resilience through 
+programs that will: 
+1) to build economic resilience – growing the self-reliance and performance of the 
+agricultural sector 
+2) to build environmental resilience – improving the function of agricultural landscapes 
+through effective management of the natural resource base; and 
+3) to build social resilience – strengthening the social capital, wellbeing, and 
+connectedness of rural, regional and remote agricultural communities. 
+outcomes 
+The likely or achieved short- and medium-term effects, intended consequences or 
+benefits, of an intervention’s outputs. Outcomes can include changes in condition, 
+knowledge, understanding, attitudes, behaviour and relationships as a result of an 
+intervention. 
+If the intervention is well designed, outputs should lead logically to outcomes, because 
+they are within the sphere of influence of the intervention, though unlike outputs, they 
+are not within direct control. 
+outputs 
+The tangible products and services of an intervention, that result from implemented 
+activities and that are necessary to achieve the intervention’s outcomes and objectives. 
+Outputs relate to the completion rather than the conduct of activities and are the type of 
+results which interventions have direct control over. 
+PES 
+Program Evaluation and Support team 
+program logic 
+A tool that explains how program objectives are to be achieved, demonstrating the 
+anticipated causal links between inputs, activities and outputs, followed by outcomes and 
+impacts. The program logic should also include the underlying assumptions that are 
+thought to affect the achievement of program objectives. 
+public good 
+The objective of the Future Drought Fund is to enhance the public good by building 
+drought resilience. Consistent with this, the benefits generated from the funding under 
+the FDF should be able to be accessed and or shared by many (that is, provide public 
+benefits), rather than be captured solely by individual businesses or industries for private 
+commercial gain (that is, private benefits). The benefits achievable from the funding 
+should also outweigh the costs. Public good may be established where there are 
+significant spill over benefits for society and the economy, well beyond those derived by 
+private beneficiaries. Wherever activities could deliver both public and private benefits, 
+relevant decisions should seek to leverage private or industry co-contributions (financial 
+or in kind) to offset private gains, where appropriate, and maximise outcomes. 
+Examples of activities that enhance the public good by building drought and climate 
+resilience may include those that: 
+• 
+Address information gaps 
+• 
+Drive collective behavioural change or change at scale 
+• 
+Maximise the value of research and development 
+• 
+Enhance the natural resource base 
+• 
+Build human capital through improved decision-making
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+42 
+OFFICIAL
+Term 
+Definition 
+• 
+Build social capital through strengthening networks 
+• 
+Sharing of knowledge 
+• 
+Improving overall well-being. 
+RDRP 
+Regional Drought Resilience Planning (Program) 
+RFQ 
+Request for quote 
+RL 
+Resilient Landscapes (Program) 
+SDRC 
+Strengthening Drought Resilience on Country (Program) 
+social–ecological system 
+An intertwined system of humans and nature, e.g. farmers, their businesses and the land. 
+social resilience 
+Refers to the FDF strategic objective of strengthening the social capital, wellbeing, and 
+connectedness of rural, regional, and remote agricultural communities. 
+Drought can cause strain on maintaining the social fabric or social capital of rural, 
+regional, and remote Australia, which may threaten the viability of some communities. 
+Despite sometimes sharing similar challenges, Australia's rural, regional, and remote 
+communities differ greatly. 
+Social capital is built on social networks of trust, mutual support and understanding. 
+When people are part of social networks, they are more involved in community life and 
+can be better supported through challenging times. Drought can reduce people's ability 
+to work together for the benefit of the whole community, for example, a reduced 
+capacity to engage in social and business networks, community projects and sporting 
+activities. Maintaining positive mental health is also an important aspect of personal 
+resilience. Drought can undoubtably cause personal and family stress which can be 
+lessened when social connections, networks are strengthened. 
+specified resilience 
+The resilience of a specified part of the system to a specified shock (e.g. natural resources 
+or communities to drought) 
+SS 
+Scaling Success (Program) 
+TBC 
+To be confirmed 
+ToC 
+Theory of Change 
+transformational change 
+The ability to undertake wholescale change of a system when adverse events or risks 
+make the current system untenable, that is, changes to the fundamental attributes of a 
+socioecological system. It is a way of doing things differently and innovatively when it is 
+clear that the current system is untenable and losing its resilience – for example 
+transforming from irrigated to dry crop production when water becomes irreversibly 
+scarce. 
+Transformational change is context dependent. While change at a large spatial scale may 
+be transformational, it can also be achieved at smaller scales, including within a business. 
+Transformational changes at smaller scale (farm/business) are often required to maintain 
+resilience at larger scale (for example broad landscape). The level of change that counts 
+as ‘transformational’ is subjective and relative — considering the difference between a 
+deliberate change (above and beyond what would typically occur) versus a background 
+change. 
+The requirements for transformational change can be outlined in 3 broad processes: 
+understanding risks and solutions (information and understanding); vision development 
+including impact pathways (analysis, collaboration, and planning); and the 
+implementation of actions by stakeholders (action).Transformational change is a change 
+from the current system to a different one – for example from irrigated cropping to 
+grazing or even other non-agricultural land uses. However, the FDF recognises that there 
+are competing perspectives on what transformational change is. Further, the level of 
+change that is recognised as ‘transformational’ is subjective and relative. Sometimes, 
+incremental adaptation can accrue to result in transformational adaptation. While 
+transformational change of a system at a large scale may sometimes be possible, it often 
+starts at smaller scales – e.g. multiple farms across a catchment transform, to maintain 
+the resilience of the whole catchment.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+43 
+OFFICIAL
+Term 
+Definition 
+Transformational change is a key feature of the Future Drought Fund (Drought Resilience 
+Funding Plan 2024–2028) Determination 2024, consistent with PC Inquiry 
+recommendation 3.1. However, in line with stakeholder feedback, DAFF recognises that 
+such change should not be forced on those who are not ready, and that there should be 
+greater consideration given to the unique circumstances and contexts of farmers and 
+regions. 
+transitional change 
+The ability to maintain the essential functions and structures of a system by modifying or 
+changing some of its characteristics in response to future adverse events or risk. An 
+example could include changing aspects of a production system (such as seed varieties or 
+agronomic practices) to continue the production of certain commodities in a region. 
+transformative capacity 
+The ability to radically change the core functions and structures of the system or build a 
+new system if absorptive and adaptive capacity are not sufficient e.g. Capacity for 
+collective reflection and deep learning (triple loop learning); Agency to self-organise and 
+change; capacity for technical innovation; capacity for Institutional change
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+44 
+OFFICIAL
+References 
+Ackoff, R 1999, Recreating the corporation: a design of organizations for the 21st century, Oxford 
+University Press, New York. 
+Arts Law Centre of Australia 2011, Indigenous Cultural and Intellectual Property, accessed 11 July 
+2025. 
+Biggs R, Schlüter M and Schoon ML 2015, Principles for building resilience: Sustaining ecosystem 
+services in social-ecological systems, Cambridge University Press, Cambridge. 
+Carpenter SR, Arrow KJ, Barrett S, Biggs R, Brock WA, Crépin AS, Engström G, Folke C, Hughes TP, 
+Kautsky N, Li CZ, McCarney G, Meng K, Mäler KG, Polasky S, Scheffer M, Shogren J, Sterner T, Vincent 
+JR, Walker B, Xepapadeas A, and Zeeuw AD 2012, ‘General resilience to cope with extreme events’, 
+Sustainability, vol. 4, no. 12, pp.3248–3259, https://doi.org/10.3390/su4123248  
+Centre for Theory of Change 2025, What is Theory of Change? Theory of Change Community, 
+accessed 11 July 2025. 
+Commonwealth of Australia 2021, Commonwealth Evaluation Policy, Australian Government 
+Treasury, Canberra. 
+DAWE 2020, FDF Monitoring, Evaluation and Learning Framework, Department of Agriculture, Water 
+and the Environment, Canberra. 
+DAFF 2024a, Agriculture and Land Sectoral Plan, Department of Agriculture, Fisheries and Forestry, 
+Canberra, accessed 9 July 2025. 
+––2024b, Australian Government Drought Plan, Department of Agriculture, Fisheries and Forestry, 
+Canberra, accessed 29 August 2025. 
+––2024c, Corporate Plan 2024–25, Department of Agriculture, Fisheries and Forestry, Canberra, 
+accessed 29 August 2025. 
+––2024d, National Drought Agreement 2024–2029, Department of Agriculture, Fisheries and 
+Forestry, Canberra, accessed 29 August 2025. 
+––2025e, Future Drought Fund Investment Strategy, Department of Agriculture, Fisheries and 
+Forestry, Canberra, accessed 29 August 2025. 
+Folke, C 2016, ‘Resilience (republished)’, Ecology and Society, vol. 21, no. 4, pp.44, 
+https://doi.org/10.5751/ES-09088-210444.  
+Forum for the Future 2020, The Five Capitals – A framework for sustainability, accessed 9 July 2025. 
+Gollan, S and Stacey, K 2021, Australian Evaluation Society First Nations Cultural Safety Framework, 
+Australian Evaluation Society, Melbourne, accessed 29 August 2025.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+45 
+OFFICIAL
+Hughes, N, Burns, K, Soh, WY and Lawson, K 2020, Measuring drought risk: The exposure and 
+sensitivity of Australian farms to drought, ABARES Research Report 20.17, Australian Bureau of 
+Agricultural and Resource Economics and Sciences, Canberra, accessed 29 August 2025. 
+Jones, L and d’Errico, M 2019, ‘Whose resilience matters? Like-for-like comparison of objective and 
+subjective evaluations or resilience’, World Development, vol. 124, 104632, 
+https://doi.org/10.1016/j.worlddev.2019.104632, accessed 29 August 2025.  
+Markiewicz, A & Patrick, I 2016, ‘Evaluation questions—determining what we want to know’, in 
+Developing monitoring and evaluation frameworks, SAGE Publications, Thousand Oaks, accessed 29 
+August 2025. 
+Meadows, D 2008, Thinking in systems: a primer, Earthscan, London. 
+Millenium Ecosystem Assessment 2005, Ecosystems and Human Wellbeing: synthesis, Island Press, 
+Washington DC. 
+Nelson, R, Kokic, P, Crimp, S, Martin, P, Meinke, H, Howden, SM, de Voil, P and Nidumolu, U 2010, 
+‘The vulnerability of Australian rural communities to climate variability and change: Part II – 
+Integrating impacts with adaptive capacity’, Environmental Science and Policy, vol. 13, no. 1, pp.18–
+27, https://doi.org/10.1016/j.envsci.2009.09.007, accessed 29 August 2025.  
+OECD 2002, Glossary of key terms in evaluations and results based management, Organisation for 
+Economic Co-operation and Development, OECD Publishing, Paris, accessed 9 July 2025. 
+O’Flynn, M and Moberly, C 2017, Theory of Change, INTRAC, Oxford, accessed 9 July 2025. 
+PC 2020, Indigenous Evaluation Strategy, Productivity Commission, Canberra, accessed 29 August 
+2025. 
+PC 2023, Review of Part 3 of the Future Drought Fund Act. Inquiry report. Report No. 102, 
+Productivity Commission, Canberra, accessed 29 August 2025. 
+Renger, R 2015, ‘System evaluation theory (SET): A practical framework for evaluators to meet the 
+challenges of system evaluation’ Evaluation Journal of Australasia, vol. 15, no. 4, pp.16–28, 
+https://doi.org/10.1177/1035719X1501500403, accessed 25 August 2025.  
+Rogers, PJ 2008, ‘Using program theory to evaluate complicated and complex aspects of 
+interventions’, Evaluation, vol. 14, no. 1, pp.29–48, https://doi.org/10.1177/1356389007084674, 
+accessed 29 August 2025  
+Stafford Smith, M 2020, Theory of Change Primer, A STAP Advisory Document, Scientific and 
+Technical Advisory Panel to the Global Environment Facility, Washington, D.C, accessed 9 July 2025. 
+Simister, N 2017a, M&E Plans, INTRAC, Oxford, accessed 9 July 2025. 
+––2017b, Setting objectives, INTRAC, Oxford, accessed 9 July 2025. 
+Simister, N and Giffen, J 2017, Baselines, INTRAC, Oxford, accessed 9 July 2025.
+
+Future Drought Fund Monitoring, Evaluation and Learning Framework 2024 to 2028 
+Department of Agriculture, Fisheries and Forestry 
+46 
+OFFICIAL
+Simister, N, James, D and Napier, A 2020, Attribution and contribution, INTRAC, Oxford, accessed 9 
+July 2025. 
+UNAIDS 2008, Glossary of Monitoring and Evaluation Terms, Joint United Nations Programme on 
+HIV/AIDS, Geneva, accessed 9 July 2025. 
+UNDP 2002, Handbook on Monitoring and Evaluating for Results, United Nations Development 
+Programme, New York, accessed 9 July 2025. 
+Vogel, I 2012, Review of the use of ‘Theory of Change’ in international development, Department for 
+International Development, London, accessed 9 July 2025. 
+Walker, B 2020, ‘Resilience: what it is and is not’, Ecology and Society, vol. 25, no. 2, pp.11, 
+https://doi.org/10.5751/ES-11647-250211, accessed 29 August 2025. 
+Walker, B and Salt, D 2006, Resilience thinking: Sustaining ecosystems and people in a changing 
+world, Island Press, Washington DC. 
+Walker, B and Salt, D 2012, Resilience practice, Island Press, Washington DC. 
+Whitford, W and Duval, B 2020, Ecology of Desert Systems 2nd Edition, Academic Press, San Diego, 
+https://doi.org/10.1016/B978-0-12-815055-9.09989-6, accessed 26 September 2025. 
+World Forum on Natural Capital 2017, What is natural capital?, accessed 11 July 2025.

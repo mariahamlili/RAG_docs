@@ -1,0 +1,12 @@
+1. Make a payment
+You can make a payment using the Department of Agriculture secure online payment service by entering your numerical invoice number when prompted.
+All active entry consignments related to Agriculture Import Management System (AIMS) can now be paid via the department payment portal, by entering your AIMS Entry number in the Reference Number Field.
+Note: you cannot use the secure online payment service to pay by credit card if your invoice number is alpha numeric e.g., ELS012345678901.
+For additional information please refer to How to pay, Questions and answers,Fees and charges that may apply and Terms and conditions.
+2. Check payment status
+You can also check your tax invoice payment status by entering your numerical invoice number using the department's secure online payment service.
+After submitting your invoice number, one of the following statuses will be displayed:
+- Fully Paid – You have already made a payment and no further action is required.
+- Outstanding – There is an outstanding amount that has not been paid.
+- Part Paid – A partial payment has been made but there is still an outstanding amount that needs to be paid.
+- Processing Payment – You have made a payment, but it is yet to be finalised.

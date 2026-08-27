@@ -1,0 +1,57 @@
+[expand all]
+Agricultural chemical product
+Includes any substance or organism used to:
+- destroy, stupefy, repel, inhibit the feeding of, or prevent pests on plants or other commodities
+- destroy a plant or to modify its physiology
+- modify the effect of another agricultural chemical product
+- attract a pest for the purpose of destroying it.
+This encompasses all herbicides, insecticides and fungicides. Fertilisers are not considered agricultural chemical products unless they modify the physiology of a plant.
+Dairy cleansers for on-farm use, crop markers, insect repellents for use on humans, swimming pool disinfectants and algaecides, rodenticides, antifouling paints, preservatives, and household and home garden products for pest and weed control have been deemed to be agricultural chemical products. Some pest traps and barriers using chemical attractants also require registration.
+For a complete definition, see the Agricultural and Veterinary Chemicals Code (the Agvet Code), scheduled to the Agricultural and Veterinary Chemicals Code Act 1994, and the Agricultural and Veterinary Chemicals Code Regulations (no. 27 of 1995). These instruments legally define both what constitutes and what does not constitute an agricultural chemical product.
+Australian Standard
+The MRL, ERL or ML (as applicable) stipulated in the Australia New Zealand Food Standards Code (ANZFSC), Standard 1.4.1 (MLs) and Standard 1.4.2 (MRLs and ERLs).
+Contaminant
+Includes any substance not intentionally added to a product, but that may be present following routine production (see ‘maximum level’). For example, some metals and natural toxicants are contaminants. A food will contravene the ANZFSC if it contains a contaminant at a concentration greater than the ML. However, where no ML is established, the detection of a contaminant is not interpreted as a contravention. Australian MLs are listed in Section 1.4.1 of the ANZFSC.
+The NRS defines environmental contaminants as undesirable metal residues that can be found in soil or water, and can contaminate animals and plants.
+Export harvest interval
+The minimum suggested time interval that should elapse between the last application of a product to a crop, vegetation or food commodity of plant origin, and:
+- testing for residue levels in that crop, vegetation or food commodity of plant origin
+- harvesting or sale/supply of that crop, vegetation or food commodity of plant origin.
+Export slaughter interval (ESI)
+The time which should elapse between administration of a veterinary chemical to animals and their slaughter for export. ESIs manage differences between MRLs allowed for chemicals in Australia and its trading partners.
+Extraneous residue limit (ERL)
+The maximum permitted limit of a pesticide residue, arising from environmental sources other than the use of a pesticide directly or indirectly, in or on a food, agricultural commodity or animal feed.
+The concentration is expressed in mg/kg (milligrams per kilogram) or ppm (parts per million) of the commodity. There are ERLs for selected commodities for several organochlorine pesticides no longer approved for use in Australian agriculture (e.g. DDT and dieldrin).
+Good agricultural practice (GAP)
+The nationally recommended, authorised or registered use-pattern of chemicals that is necessary for effective and reliable pest control under actual conditions at any stage of production, storage, transport, distribution and processing of food commodities and animal feed.
+Indicative decision limit (for NRS purposes)
+Indicative decision limit specified by the NRS in public documents (e.g. the National Residue Survey Proficiency Testing Handbook) are provided to give an indication only of levels at which a residue may render the sampled product liable to further action by the laboratory and/or NRS.
+Limit of detection (LOD) (for laboratory purposes)
+The lowest concentration of an analyte at which positive identification can be achieved with reasonable and/or previously determined confidence in a defined matrix using a specific analytical method.
+Limit of detection (LOD) (for NRS purposes)
+LOD values specified in public documents for analyte/matrix combinations are provided by the NRS to define the upper limit with respect to detection acceptable to the NRS, and should be taken as maximum values. Laboratory method LODs would generally be expected to be less than or equal to the NRS specified values.
+Limit of quantification/ reporting (LOQ) (for laboratory purposes)
+The lowest concentration of an analyte at which positive identification and quantification can be achieved with reasonable and/or previously determined confidence in a defined matrix using a specific analytical method.
+Limit of reporting (LOR) (for NRS purposes)
+A limit set by the NRS above which the NRS will publish quantitative results of residues detected in a particular commodity, or above which the NRS contract laboratories are expected to reliably quantify and report analytical results. Laboratory method LOD and LOQ/LOR values as defined above are generally expected to be less than or equal to the NRS specified values.
+Maximum level (ML)
+Maximum residue limit (MRL)
+The maximum concentration of a chemical residue that is legally permitted in, or on, a food or food commodity or animal feedstuff when that chemical is applied according to good agricultural practice or good practice in the use of veterinary drugs. The MRL is expressed in milligrams of the residue per kilogram of the commodity or food (mg/kg) or in milligrams of the residue per litre (mg/L) in a liquid commodity.
+Residue
+Includes pesticides and veterinary medicines currently in use (see MRL) or pesticides that are no longer registered for use (see ERL), but are known to persist in the environment (e.g. some organochlorine chemicals). Residues can also include derivatives of chemicals, conversion products, metabolites, reaction products and impurities considered to be of toxicological significance. Australian MRLs and ERLs are listed in Section 1.4.2 of the ANZFSC.
+Detections of chemicals above the specified MRL or ERL contravene the ANZFSC. Also, if no MRL or ERL is listed for a chemical in the ANZFSC, there must be no detectable residue of the chemical in the product tested. Any detection at any level is deemed a contravention of the ANZFSC.
+Residue action level (RAL)
+The concentration of a residue of an agricultural or veterinary chemical or contaminant in a food, agricultural commodity or animal feed, above which detection can result in action by state/ territory government regulatory authorities. Action might include a traceback investigation to locate the property where the residue-containing product originated.
+Traceback
+An investigation to establish the source and cause when a sample is found to contain a residue above the Australian Standard. The responsible state/ territory agency then provides advice to the producer to prevent recurrence. In more serious circumstances, regulatory action may also be taken.
+Withholding period (WHP)
+The minimum period which must elapse between last administration or application of a veterinary chemical product, including treated feed, and the slaughter, collection, harvesting or use of the animal commodity for human consumption. WHPs are mandatory for domestic slaughter and are on the label of every registered product.
+Veterinary chemical product
+Includes any substance administered or applied to an animal to:
+- prevent, diagnose, cure or alleviate a disease, condition or pest infestation
+- cure or alleviate an injury
+- modify the physiology.
+It also includes:
+- any substance that modifies the effect of another veterinary chemical product
+- vitamins, minerals and additives if they are used for any of the purposes mentioned above
+- allergenic substances, medicated blocks and licks, enzymes for animals, direct-fed antimicrobial products and sheep-branding substances.

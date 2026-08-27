@@ -1,0 +1,27 @@
+Offline pre-arrival reporting forms can be used by vessel masters or officers where there is limited or unreliable internet connectivity to meet their pre-arrival reporting obligations as an alternative to direct MARS access.
+Masters with email but no internet access should download and complete offline forms that have been provided by a shipping agent or downloaded direct from this webpage. Once the form is completed, email the xml data file (see the Submit page of the form) back to the shipping agent. The agent will then load this data file into MARS.
+Masters with internet access should submit pre-arrival information by directly using the MARS online portal.
+Utilising MARS offline forms to meet vessel reporting requirements
+Important note: To get the latest version of the offline form, download the offline form regularly from this webpage. This will minimise delays and error when uploading the information in MARS.
+Download
+There are offline forms available for download to your computer.
+Downloading offline forms:
+- Right click on the form name and select the “Save link as” option.
+- Open the form using the latest version of Adobe Reader. (Adobe Reader is free and available to download from the Adobe website.)
+- Once the form is completed, submit it to your nominated shipping agent.
+MARS offline form domestic risk assessment application (PDF 102 KB) - updated 25 May 2023
+MARS itinerary update form (PDF 77 KB) - updated 25 May 2023
+This Itinerary update form is for agents and masters to advise the department of changes to a vessel’s itinerary for a voyage. Use this form for changes after a PAR has already been submitted, for changes to a vessel’s subsequent port itinerary. Masters and agents to complete this form and email to the National Maritime Centre (NMC) to action.
+If you have difficulty accessing these files, contact the National Maritime Centre (NMC) for assistance.
+Pre-arrival information, and changes for maritime conveyances (vessels) must be reported in writing through MARS. Electronic offline forms can be used where there is limited connectivity. For commercial vessels, reporting obligations are met once vessel pre-arrival information has been submitted in the Maritime and Aircraft Reporting System (MARS).
+Vessel operator responsibilities: The operator of the vessel is obligated to accurately report information in accordance with Section 193 of the Biosecurity Act 2015. This information must be lodged in MARS no later than 12 hours prior to arrival.
+Shipping agent responsibilities: Where the vessel operator uses a shipping agent, the agent is responsible for lodgement of accurate and timely information into MARS. The agent must ensure that this information is a true and correct representation of the reports provided by the vessel operator and that any changes have been confirmed with the operator.
+Vessel masters must advise the department of changes to previously reported information about crew/passenger movements, human health and waste disposal. Any changes in circumstances during the voyage in Australian waters must be reported to the department as soon as practicable.
+For cruise vessels carrying live plants, the Live plants conveyance log form is to be completed by the person in charge (master) of the vessel, prior to arrival in Australia.
+This form must be emailed to the National Maritime Centre (NMC) at the same time as the Pre-Arrival Report (PAR) is submitted through MARS.
+The live plants log only needs to be emailed to the NMC once per voyage. The original document must be retained onboard with the vessel’s log for inspection by a biosecurity officer.
+Locally based biosecurity officers are the key contacts at each of the port locations.
+Support will also be provided by the National Maritime Centre (NMC):
+Phone: 1300 004 605 within Australia or +61 8 8201 6185 outside Australia.
+Email: National Maritime Centre (NMC)
+There are a range of support tools available to help you use MARS and comply with Australia’s biosecurity requirements. See the MARS communications and training materials webpage for user guides, Quick Reference Guides, FAQs, checklists and brochures.

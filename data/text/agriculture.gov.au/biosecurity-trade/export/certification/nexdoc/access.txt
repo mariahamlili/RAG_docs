@@ -1,0 +1,52 @@
+How to register and access NEXDOC
+NEXDOC (Next Export Documentation) is our system for managing export documentation, including permits and certificates. You can only use NEXDOC if your commodity has been introduced into the system.
+How to access NEXDOC
+There are three ways to lodge export documentation requests in NEXDOC:
+- NEXDOC online service portal
+  - free, direct access for those registered as exporters
+  - best for businesses that want to manage their own documentation without extra software
+  - please note some functionality will not be available in the portal, such as the ability to transfer a record to another business.
+- third-party software
+  - ideal for high-volume exporters or businesses needing integration with internal systems
+  - register as a Client Group Administrator (to manage your group) or Client Group Member (to lodge on behalf of an exporter)
+  - check that your software provider is accredited and supports your commodities.
+- export agent
+  - can lodge documentation for you
+  - please note you still need to register as an exporter if you own the goods.
+How to register
+To access the NEXDOC system you will need to register.
+To access the NEXDOC system:
+- create an online services account
+- choose a registration option:
+  - Create a Client Group – if you lodge via third-party software or manage the export process for others
+  - Register as an Exporter – if you own the goods. Exporter registration also gives you access to the NEXDOC portal for direct lodgement.
+Important: if you own the goods and intend to lodge via software, you must register as both an Exporter and a Client Group Administrator.
+Additionally, for some commodities individuals will have the option to register as an Approved Export Permit Issuer. For more information please visit NEXDOC help.
+For more information on NEXDOC registration scenarios visit NEXDOC - FAQ Registration scenarios for NEXDOC.
+Download
+If you have difficulty accessing these files, contact us for help.
+Additional features of registration
+My printer
+You can apply to use your own printer to print documentation from the NEXDOC system via either the exporter or client group registration. Make sure when applying, your printer meets the required printer requirements.
+Printer requirements
+If you are printing your own certificates, your printer must:
+- be located in Australia
+- be a duplex laser printer
+- support at least 600dpi.
+For reliable and consistent printing, we recommend using Adobe Acrobat (Reader or Pro) as your default PDF viewer. Depending on your browser, you may also need to install the Adobe Acrobat extension and set Adobe Acrobat as your default PDF handler.
+Additional printer settings
+Before printing, check the following default settings on your printer:
+- colour set to auto colour
+- print quality set to best quality
+- turn off any toner-saving, grayscale conversion, or economy print modes.
+If you use software and need any assistance with mapping printers to your software, please contact your software provider in the first instance.
+Single electronic window (SEW) integration
+As a part of Exporter registration, you can nominate to integrate with the Single Electronic Window (SEW).
+SEW in NEXDOC provides exporters a single data entry point for export clearance from the Department of Agriculture, Fisheries and Forestry and the Department of Home Affairs. Through SEW, you can link your NEXDOC entries to the Integrated Cargo System (ICS) and receive ICS Clearance as part of your NEXDOC Request for Export Documents (REX).
+Manage Your Account
+You can also manage and add users to your account in NEXDOC. For more information, see the NEXDOC Help Guides.
+Further Information & Help Links
+Software vendors
+If you are considering developing a software package solution to integrate with the NEXDOC’s web services, email the Enhanced Traceability Project. More information is available for third-party software developers.
+Need help?
+For more information or assistance for NEXDOC, please contact NEXDOC@aff.gov.au.

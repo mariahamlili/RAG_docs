@@ -1,0 +1,23 @@
+November 2012
+Supporting the sustainability of our agricultural industries
+Ground cover information is critical for land management and the assessment of soil condition in Australia. Recognising the need for a national approach, the Ground Cover Monitoring for Australia project was established in 2009 as a collaborative partnership between the Department of Agriculture, Fisheries and Forestry (DAFF), CSIRO, the Terrestrial Ecosystem Research Network and states and territories. The project is delivering estimates of Australian ground cover at 500 metre resolution from Moderate Resolution Imaging Spectroradiometer (MODIS) satellite data. The project is managed by ABARES.
+Accessing the information
+From March 2000 MODIS data has been processed using the Guerschman fractional cover method (version 2.2) with field observations used to validate the ground cover estimates. In 2013 extra observations will be used to improve these estimates. Ground cover estimates as raw or summarised MODIS data and field observations can be accessed at remote-sensing.nci.org.au/u39/public/html/. Summaries include mean, maximum, minimum, standard deviations and period of minimum or maximum cover for each fraction. Figure 1 shows example ground cover and associated rainfall data.
+Monitoring wind erosion using ground cover estimates from satellite data
+Previous studies show that wind erosion is more likely to occur when ground cover is less than 50 per cent. Wind erosion can be monitored through observation of dust. As an example, the Community DustWatch project, funded by Caring for our Country, NSW Office of Environment and Heritage and Natural Resource Management regions, monitors atmospheric dust levels at 40 stations across Australia. Figure 2 shows many paddocks with low ground cover (the red and orange pixels) upwind of stations in north-west Victoria and south-west New South Wales that recorded dust.
+Comparing observations of dust with measurements of bare ground for each month and year is also helping the NSW Catchment Management Authorities to determine thresholds for ground cover and set local cover level targets for their Catchment Action Plans.
+Monthly maps from the MODIS satellite of areas with more than 50 per cent bare ground are also being used in the national wind erosion model (CEMSYS) see dustwatch.edu.au to identify where erosion may occur across Australia.
+Key points
+Ground cover is the fraction of living and dry or dead vegetation covering the soil surface, shown as a percentage. Ground not covered by living and dry or dead vegetation is scored as bare ground. Climate and land management affect ground cover levels.
+The remote sensing method chosen for this project provides estimates of the area of dry or dead vegetation, which, like living vegetation, protects soil from wind and water erosion. These results give better estimates of the area at risk of wind and water erosion than previously possible.
+Quick Fact
+Ground cover is one of the recently announced National Sustainability Indicators for Australia. The project described in this fact sheet will provide information on trends in ground cover for the National Sustainability Council’s biennial
+public reports against indicators.
+Figure 1
+Ground cover and rainfall deciles for February and September 2001, 2005 and 2011. Areas with less ground cover (brown) are most at risk of erosion.
+![maps of australia showing the mean monthly ground cover and annual rainfall deciles.](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/resourcemanagement/soils/figure-1.jpg)
+Source: Mean monthly ground cover (ABARES, DAFF); annual rainfall deciles (Bureau of Meteorology).
+Figure 2
+Hours of dust with average hourly concentration greater than 25 mg/m3 for particle size less than 10 micrometers (figures in parenthesis and size of circles) at each DustWatch station and fractional bare ground cover for February 2012 (colour).
+![map of New South Wales showing the bare ground cover for February 2012](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/resourcemanagement/soils/figure-2.jpg)
+Source: Modified from New South Wales Office of Environment and Heritage DustWatch report February 2012.
