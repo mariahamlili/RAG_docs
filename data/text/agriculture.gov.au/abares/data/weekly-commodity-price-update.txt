@@ -1,0 +1,43 @@
+Commodity price charts
+![World market indicators](https://www.agriculture.gov.au/sites/default/files/images/ag-price-graphics-world-prices.png)
+Charts of selected world agricultural market indicator prices.
+![Australian market indicators](https://www.agriculture.gov.au/sites/default/files/images/ag-price-graphics-aus-prices.png)
+Charts of selected Australian agricultural market indicator prices.
+![Australian horticulture prices](https://www.agriculture.gov.au/sites/default/files/images/ag-price-graphics-hort-prices.png)
+Charts of movements in Australian wholesale horticultural prices.
+Weekly price movements
+Current indicators – 27 August 2026
+| Indicator | Week average | Unit | Latest Price | Previous Week | Weekly change | Price 12 months ago | Annual change | 
+|---|---|---|---|---|---|---|---|
+| Selected world indicator prices |  |  |  |  |  |  |  | 
+| AUD/USD Exchange rate | 19-Aug | A$/US$ | 0.72 | 0.71 | 1% | 0.65 | 10% | 
+| Wheat – US no. 2 hard red winter wheat, FOB Gulf | 19-Aug | US$/t | 336 | 334 | 1% | 231 | 45% | 
+| Corn – US no. 2 yellow corn, FOB Gulf | 19-Aug | US$/t | 230 | 224 | 2% | 183 | 25% | 
+| Canola – Rapeseed, Canada, FOB Vancouver | 19-Aug | US$/t | 597 | 623 | -4% | 510 | 17% | 
+| Cotton – Cotlook A Index | 19-Aug | USc/lb | 98.0 | 96.9 | 1% | 78.6 | 25% | 
+| Sugar – Intercontinental Exchange, nearby futures, no.11 contract | 19-Aug | USc/lb | 17.5 | 17.4 | 1% | 16.5 | 6% | 
+| Wool – Eastern Market Indicator | 19-Aug | Ac/kg clean | 1,853 | 1,812 | 2% | 1,254 | 48% | 
+| Wool – Western Market Indicator | 19-Aug | Ac/kg clean | 2,041 | 1,998 | 2% | 1,399 | 46% | 
+| Selected Australian grain export prices |  |  |  |  |  |  |  | 
+| Australian Premium White (APW) Wheat, FOB Port Adelaide, SA | 19-Aug | A$/t | 409 | 403 | 1% | 384 | 6% | 
+| Australian Standard White (ASW) Wheat, FOB Port Adelaide, SA | 19-Aug | A$/t | 400 | 397 | 1% | 380 | 5% | 
+| Feed Barley – FOB Port Adelaide, SA | 19-Aug | A$/t | 367 | 370 | -1% | 365 | 1% | 
+| Canola – FOB Kwinana, WA | 19-Aug | A$/t | 770 | 781 | -1% | 808 | -5% | 
+| Grain Sorghum – FOB Brisbane, QLD | 19-Aug | A$/t | 430 | 432 | -1% | 421 | 2% | 
+| Selected domestic livestock indicator prices |  |  |  |  |  |  |  | 
+| Beef – Eastern Young Cattle Indicator | 19-Aug | Ac/kg cwt | 949 | 928 | 2% | 860 | 10% | 
+| Mutton – National Mutton Indicator | 19-Aug | Ac/kg cwt | 819 | 830 | -1% | 740 | 11% | 
+| Lamb – National Trade Lamb Indicator | 19-Aug | Ac/kg cwt | 1,153 | 1,183 | -3% | 1,170 | -1% | 
+| Pig – National Buyer Price (60.1–75 kg) | 5-Aug | Ac/kg cwt | 374 | 388 | -4% | 459 | -19% | 
+| Live cattle – Light steers to Indonesia | 5-Aug | Ac/kg lwt | 440 | 430 | 2% | 350 | 26% | 
+| Global Dairy Trade (GDT) weighted average pricesa |  |  |  |  |  |  |  | 
+| Dairy – Whole milk powder | 19-Aug | US$/t | 3,591 | 3,483 | 3% | 4,024 | -11% | 
+| Dairy – Skim milk powder | 19-Aug | US$/t | 3,502 | 3,261 | 7% | 2,781 | 26% | 
+| Dairy – Cheddar cheese | 19-Aug | US$/t | 3,744 | 3,723 | 1% | 4,562 | -18% | 
+| Dairy – Anhydrous milk fat | 19-Aug | US$/t | 5,993 | 6,367 | -6% | 7,080 | -15% | 
+a Global Dairy Trade prices are updated twice monthly on the first and third Tuesday of each month.
+Note: Prices shown in this table are updated once a week on Thursday, except Global Dairy Trade prices which are updated twice monthly following the first and third Tuesday of each month.
+FOB: Free on board means that a seller pays for transportation of the goods to the port of shipment, plus loading costs.
+Sources: See data attribution
+Other resources
+Updates and commentary on commodity price movements are also available from the NSW DPI Weekly Commodity Report.

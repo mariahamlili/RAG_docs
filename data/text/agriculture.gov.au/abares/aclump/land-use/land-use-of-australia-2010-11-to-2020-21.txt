@@ -1,0 +1,107 @@
+Publication date: 14 August 2026
+The Land use of Australia 2010–11 to 2020–21 version 7.1 data package consists of seamless continental rasters of land use at the national scale which provides the spatial representation of how Australia’s land resources are used. Data is for 2010–11, 2015–16 and 2020–21, and the associated changes between the years. Land use is specified according to the Australian Land Use and Management (ALUM) Classification version 8. The Land use of Australia 2010–11 to 2020–21 data package is a product of the Australian Collaborative Land Use and Management Program.
+Version 7.1 is an update, replacing version 7 which was published in November 2024. The methods used in version 7.1 improve the accuracy and confidence in the modelled data and better reflect the designated time period enabling improved change monitoring.
+Map 1. Land use of Australia 2020–21 showing simplified land use classes
+Map 2. Land use change between 2010–11, 2015–16 and 2020–21
+Non-agricultural land uses are mapped using seven thematic layers, derived from existing datasets provided by states and territories, and external agencies. The seven layers are:
+- protected areas
+- topographic features
+- land tenure
+- forest type
+- catchment-scale land use
+- urban boundaries, and
+- stock routes.
+These thematic layers are also available for download. The agricultural land uses are based on the Australian Bureau of Statistics’ 2010–11, 2015–16, and 2020–21 agricultural census data; with spatial distributions modelled using Terra Moderate Resolution Imaging Spectroradiometer (MODIS) satellite imagery and training data, assisted by spatial constraint layers for cultivation, horticulture, and irrigation. For more detailed information see the metadata.
+Use the Land use of Australia 2010–11 to 2020–21 for:
+- National and regional land use statistics including land accounts and ecosystem accounts
+- Land use change (2010–11, 2015–16, 2020–21)
+- Broad land use classes, moderate resolution (250 by 250 metres)
+See Land use data download for other products.
+Land used for agriculture
+In 2020–21, 55% (419.5 million hectares) of Australia’s land area was used for agriculture. This consisted of:
+- Grazing native vegetation: 40% (311.5 million hectares)
+- Modified pastures: 8% (64.5 million hectares)
+- Cropping: 6% (42.5 million hectares)
+- Horticulture, mostly irrigated: 0.1% (0.83 million hectares)
+Land use changes between 2015–16 and 2020–21
+Between 2015–16 and 2020–21 the largest net gains were:
+- 6.5 million hectares (4.8% increase) to Managed resource protection, mostly from Other minimal use and Nature conservation
+- 1.1 million hectares (2.8% increase) to Dryland cropping, mostly from Grazing modified pastures, less irrigated cropping and Grazing native vegetation
+- 1.0 million hectares (0.3% increase) to Grazing native vegetation, mostly from Other minimal use
+- 0.3 million hectares (0.4% increase) to Nature conservation, mostly Other minimal use, Grazing native vegetation and Production native forests
+- 0.3 million hectares (0.4% increase) to Grazing modified pastures, mostly from Other minimal use and Grazing native vegetation
+- 0.2 million hectares (9.2% increase) to Rural residential and farm infrastructure, mostly from Grazing modified pastures
+- 0.2 million hectares (26.6% increase) to Irrigated horticulture, mostly from Grazing modified pastures and Dryland horticulture.
+Between 2015–16 and 2020–21 the largest net losses were:
+- 8.6 million hectares (8.6% decrease) from Other minimal use, mostly to Managed resource protection and Nature conservation
+- 0.4 million hectares (4.0% decrease) from Production native forests, mostly to Nature conservation
+- 0.3 million hectares (12.4% decrease) from Plantation forests, mostly to Grazing modified pastures.
+The observed changes continue the trend to protect natural environments, the intensification of agricultural land uses, and increasing rural subdivisions.
+Area figures are calculated from a 6.25 hectare (250 x 250 metres) rasterised (gridded) data and may differ to other sources. Access the tabular data under ‘Analysis’ or ‘Downloads’.
+Data tables
+- Land use physical accounts and change matrices [XLSX 1 MB]
+- Land use by land tenure matrices [XLSL 0.9 MB]
+Geospatial data
+Land use individual time periods
+- Land use of Australia 2010–11 raster package (GeoTIFF and supporting files) [ZIP 36.6 MB]
+- Land use of Australia 2015–16 raster package (GeoTIFF and supporting files) [ZIP 35.1 MB]
+- Land use of Australia 2020–21 raster package (GeoTIFF and supporting files) [ZIP 35 MB]
+Land use and associated change for the three time periods
+- Land use of Australia change 2010–11 to 2020–21 raster package (GeoTIFF and supporting files) [ZIP 72.7 MB]
+Thematic input layers: non-agricultural land uses
+- Land use of Australia 2010–11 thematic layers raster package (GeoTIFF and supporting files) [ZIP 107.8 MB]
+- Land use of Australia 2015–16 thematic layers raster package (GeoTIFF and supporting files) [ZIP 106.8 MB]
+- Land use of Australia 2020–21 thematic layers raster package (GeoTIFF and supporting files) [ZIP 108.2 MB]
+Agriculture commodities probability grids
+- Land use of Australia 2010–11 agricultural commodities probability grids raster package (GeoTIFF and supporting files) [ZIP 229 MB]
+- Land use of Australia 2015–16 agricultural commodities probability grids raster package (GeoTIFF and supporting files) [ZIP 234 MB]
+- Land use of Australia 2020–21 agricultural commodities probability grids raster package (GeoTIFF and supporting files) [ZIP 246 MB]
+The Land use of Australia 2010–11 to 2020–21, 250 m data package is also available on data.gov.au.
+Metadata
+Land use of Australia 2010–11 to 2020–21 version 7.1 Descriptive metadata [PDF 1.6 MB] or [Word 1 MB]
+Maps
+Land use of Australia 2010–11
+- ALUM primary classification [PNG 7.2 MB]
+- ALUM secondary classification [PNG 9.7 MB]
+- Simplified classification [PNG 9 MB]*
+- Agricultural industries [PNG 7 MB]
+- Agricultural commodities [PNG 7.2 MB]
+Land use of Australia 2015–16
+- ALUM primary classification [PNG 7.2 MB]
+- ALUM secondary classification [PNG 9.7]
+- Simplified classification [PNG 9 MB]
+- Agricultural industries [PNG 6.9 MB]
+- Agricultural commodities [PNG 7.3 MB]
+Land use of Australia 2020–21
+- ALUM primary classification [PNG 7.1 MB]
+- ALUM secondary classification [PNG 9.6 MB]
+- Simplified classification [PNG 8.9 MB]
+- Agricultural industries [PNG 6.8 MB]
+- Agricultural commodities [PNG 7.3 MB]
+Land use change
+- Change summary – 2010–11 to 2020–21 [PNG 6.1 MB]
+All 16 maps in PNG and PDF formats [ZIP 187 MB]
+ABARES 2026, Land use of Australia 2010–11 to 2020–21 version 7.1, Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra, August, CC BY 4.0. DOI: 10.25814/n0z4-5y98
+Land use is classified according to the Australian Land Use and Management (ALUM) Classification Version 8, a three-tiered hierarchical structure. There are five primary classes, identified in order of increasing levels of intervention or potential impact on the natural landscape. Water is included separately as a sixth primary class. Primary and secondary levels relate to the principal land use. Tertiary classes may include additional information on commodity groups, specific commodities, land management practices, or vegetation information.
+These data are a product of the Australian Collaborative Land Use and Management Program (ACLUMP). ACLUMP, a consortium of Australian, state and territory government partners, promotes the development of nationally consistent information on land use, land cover, and land management practices underpinned by common technical standards. See the metadata for more detailed acknowledgments for each dataset.
+Version 7
+Publication date: 28 November 2024
+Version 7 is entirely replaced by Version 7.1 and should not be used in any new applications.
+Citation: ABARES 2024, Land use of Australia 2010–11 to 2020–21, Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra, November, CC BY 4.0. DOI: 10.25814/w175-xh85
+Geospatial Data for superseded version 7
+- Land use of Australia 2010–11 v7 raster package (GeoTIFF and supporting files) (ZIP 36.6 MB)
+- Land use of Australia 2015–16 v7 raster package (GeoTIFF and supporting files) (ZIP 35.1 MB)
+- Land use of Australia 2020–21 v7 raster package (GeoTIFF and supporting files) (ZIP 35 MB)
+- Land use of Australia change 2010–11 to 2020–21 raster package (GeoTIFF and supporting files) (ZIP 72.7 MB)
+Superseded version 7 Metadata
+Land use of Australia 2010–11 to 2020–21 v7 – Descriptive metadata (PDF 1.4 MB) or (Word 980 KB)
+Analysis
+A summary of Australia’s land use in 2020–21 is available on the Land use website.
+A land use physical account and change matrix [XLSX 1 MB] and a land use by land tenure matrix [XLSX 0.9 MB] are available for the three time periods for Australia and each state and territory. These update those reported in National Land Account, Experimental Estimates which used a previous version of the Land use of Australia.
+Interactive views
+Land use web services are on the Digital Atlas of Australia. Explore the services by clicking the links below:
+- Land use of Australia 2020-21, Simplified classification
+- Land use of Australia 2015-16, Simplified classification
+- Land use of Australia 2010-11, Simplified classification
+- Land use of Australia, Land use change 2010-11 to 2020-21
+Contact
