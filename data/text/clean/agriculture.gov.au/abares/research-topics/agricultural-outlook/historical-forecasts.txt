@@ -1,0 +1,55 @@
+Download
+
+Last updated: 22 February 2023
+
+| Document | Pages | File size | 
+
+|---|---|---|
+
+| Historical agricultural forecast database – XLSX ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/excel.jpg) | 18 | 1.1 MB | 
+
+| Forecast performance summary statistics – XLSX ![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/excel.jpg) | 18 | 1.4 MB | 
+
+About the historical agricultural forecast database
+
+This database provides the most comprehensive and accessible source of historical ABARES agricultural forecasts available. It contains a wide selection of forecasts of time series relevant to Australian agricultural markets. The actual outcomes observed are included alongside each forecast, to allow assessments of forecast accuracy to be performed. It is provided in order to increase transparency and user awareness of the accuracy and reliability of ABARES historical forecasts.
+
+Users should first consult the data dictionary included with the data to understand the included variables, and the changelog to understand any additions or revisions. ABARES intends to expand the contents of the database over time. The first release of this database covers the period from 2000 to 2019. Users should consider the original publications to be the most complete source of forecasts and historical data.
+
+Related research and information
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/jun-2020_data_s.png) Introducing ABARES historical agricultural forecast database
+
+Published 14 April 2021.
+
+This paper provides a summary and analysis of forecast performance using ABARES newly released historical agricultural forecast database.
+
+See how forecasts compare to observed outcomes
+
+Frequently asked questions
+
+If you have another question about the historical agricultural forecast database, please feel free to contact us at abares.commodities@aff.gov.au.
+
+Why is the commodity I'm interested in not in the database?
+
+The database contains selected forecasts for most major Australian agricultural commodities, but not every forecast and every commodity. Major commodities were prioritised. ABARES intends to expand the contents over time.
+
+How is forecast accuracy measured?
+
+For comparing forecasts of different series, we use symmetric mean absolute error as it is easy to calculate, robust, and does not penalise negative misses more than positive misses. You may decide that alternative measures are more appropriate for your use and understanding.
+
+The summary statistics provided with the database contain common measures of accuracy: the average error, the symmetric mean absolute error, and the number of times a forecast was over- and under-estimated over the period.
+
+Why does the data start in the year 2000?
+
+2000 was chosen as the starting point for the first release of this database as most forecasts issued from that year onward could be collected from digital files. 2000 is the year that historical forecast publications begin to be available digitally from ABARES publication library.
+
+If the time period for historical forecasts is expanded, this will be noted in the changelog included with the database.
+
+Why do the summary statistics provided cover the entire time period of the data?
+
+The summary statistics provided with the database are intended as a general guide only. If users are interested in the accuracy of forecasts over shorter periods, or using different performance measures, we encourage them to calculate their own performance statistics. Users should exercise judgement if using short time periods as this will mean the sample sizes are small, and so conclusions may be subject to large margins of error.
+
+When is the database updated?
+
+ABARES intends to update the database regularly, however an update schedule has not yet been settled.

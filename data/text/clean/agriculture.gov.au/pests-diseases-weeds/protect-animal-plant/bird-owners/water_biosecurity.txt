@@ -1,0 +1,585 @@
+Water sources used by the Australian poultry industry are varied, and include town water, underground water, surface water and rain water. Whatever the source, water provided to poultry farms must be free from microbial contamination that could cause disease in poultry, or lead to food safety issues.
+
+This report describes the water sources most commonly used by the Australian poultry industry, and water sanitation systems applicable for use on commercial poultry farms.
+
+HTML version
+
+The use of untreated surface water that has been contaminated by waterfowl has been implicated in outbreaks of highly pathogenic avian influenza (HPAI) in commercial poultry in Australia and overseas. This report describes methods for the  treatment of surface water to reduce the risks of introduction of avian influenza (AI) viruses to commercial poultry farms in Australia.
+
+Fortunately, Australia is not in the high-risk migratory pathways for waterfowl (ducks, swans and geese), the recognised reservoirs for AI viruses in the  northern hemisphere. However, migratory shore birds still present a low risk of introducing overseas AI strains to Australian birds when they mix with local waterfowl, and the latter share water sources with commercial poultry. Wild bird surveillance programs in Australia have also detected low pathogenicity AI (LPAI) viruses in resident Australian populations of wild water birds.
+
+This report describes the water sources most commonly used by the Australian poultry industry, and water sanitation systems applicable for use on commercial poultry farms. These primary sources of water are mains water, bore or underground  water, surface water and rain water.
+
+The highest risk of contamination is associated with  the use of surface water (including bore water stored in dams), particularly surface waters that  provide habitat for waterfowl. Mains water is identified as the most biosecure water source for poultry.
+
+Chicken meat farms mostly use mains water, however commercial layer farms may use other sources because of their distance from mains water supplies. Other poultry farms rely on either mains or a mix of mains and non-mains water supply. This report provides a description of various methods of surface water sanitation, and the advantages and disadvantages associated with each method.
+
+Effective sanitation requires:
+
+- effective pre-treatment of water (to reduce organic load)
+
+- correct dosage of sanitiser
+
+- an adequate duration of chemical concentration level in water (contact time)
+
+- reliable operation of equipment
+
+- accurate monitoring (of flow rates, dosing volumes and other parameters)
+
+- avoiding contamination of water after it has been sanitised
+
+- adequate water storage facilities.
+
+The most common deficiencies seen in water sanitation are:
+
+- intermittent use of sanitation systems
+
+- no sanitation of surface water
+
+- minimal monitoring of sanitiser levels
+
+- open storage systems
+
+- incorrect dosing of sanitiser
+
+- inadequate pre-treatment of water
+
+- problematic equipment (or poor maintenance)
+
+- ineffective products
+
+- mixing of unsanitised rainwater or recycled water with sanitised water
+
+- inadequate contact time.
+
+The poultry industry should identify and use water sanitisers and application systems that are reliable and effective, economical, user-friendly and with technical support readily available.
+
+The incursion of an avian pathogen into a commercial poultry flock can occur by vertical transfer1 or through a variety of horizontal contacts between livestock, personnel, equipment, fomites2, feed and water.
+
+Water is an essential nutrient and it is important that drinking water is free from microbial contamination that may result in disease in the poultry flock or cause food safety issues.
+
+Contaminated water supplies have been implicated in the introduction and persistence of endemic pathogens3 such as Escherichia coli (E.  coli), Salmonella spp., Campylobacter spp., infectious bursal disease virus (IBDV) or egg drop syndrome (EDS), and in the introduction of emergency animal diseases (EADs) such as virulent Newcastle disease virus (vNDV) or avian influenza (AI).
+
+This publication focuses on the risks of introduction of AI viruses through the use of surface water contaminated by wild waterfowl.
+
+This paper will also predominantly focus on the commercial Australian poultry industry and types of poultry housing and husbandry normally practiced.
+
+| LIST OF ACRONYMS; |  | 
+
+|---|---|
+
+| Abbreviation | Full description | 
+
+|---|---|
+
+| AI | avian influenza | 
+
+| BOD | biochemical oxygen demand | 
+
+| E. coli | Escherichia coli | 
+
+| EAD | emergency animal disease | 
+
+| EDS | egg drop syndrome | 
+
+| HPAI | highly pathogenic avian influenza | 
+
+| IBDV | infectious bursal disease virus | 
+
+| LPAI | low pathogenicity avian influenza | 
+
+| mV | millivolt | 
+
+| ORP | oxidation-reduction potential | 
+
+| ppm | parts per million | 
+
+| SPF | specific pathogen free | 
+
+| spp | species | 
+
+| TDS | total dissolved solids | 
+
+| UV | ultraviolet | 
+
+| vNDV | virulent Newcastle disease virus | 
+
+Arzey, G 2004, ‘The role of wild aquatic birds in the epidemiology of avian influenza in Australia’,
+
+Australian Veterinary Journal, vol. 6, pp. 36–37.
+
+De Benedictis, P, Beato, MS & Capua, I 2007, ‘Inactivation of avian influenza viruses by chemical
+
+agents and physical conditions: a review’, Zoonoses and Public Health, vol. 54, pp. 51–68.
+
+Doyle, ME, Schultz-Cherry, S & Robach, M 2007, ‘Destruction of H5N1 avian influenza virus in meat
+
+and poultry products’, FRI Briefings pp. 1–12.
+
+East, IJ, Hamilton, S & Garner, G 2008, ‘Identifying areas of Australia at risk of H5N1 avian influenza
+
+infection from exposure to migratory birds: a spatial analysis’, Geospatial Health, vol. 2, no. 203–213.
+
+Haas, B, Ahl, R, Bohm, R & Strauch, D 1995, ‘Inactivation of viruses in liquid manure’,
+
+Revue Scientifique et Technique Office International des Epizooties, vol. 14, no. 2, pp. 435–445.
+
+Jeffrey, DJ 1995, ‘Chemicals used as disinfectants: active ingredients and enhancing additives’,
+
+Revue Scientifique et Technique Office International des Epizooties, vol. 14, no. 1, pp. 57–74.
+
+Khalenkov, A, Laver, WG & Webster RG 2008, ‘Detection and isolation of H5N1 influenza virus
+
+from large volumes of natural water’, Journal of Virological Methods, vol. 149, pp. 180–183.
+
+Leung, YHC, Shang, LJ, Chow, CK, Tsang, CL, Ng, CF, Wong, CK, Guan, Y & Pieris, JSM 2007,
+
+‘Poultry drinking water used for avian influenza surveillance’, Emerging Infectious Diseases,
+
+vol. 13, pp. 1380–1382.
+
+McFerran, JB 1997, ‘Egg Drop Syndrome,’ in Diseases of Poultry, 10 edn, BW Calnek, ed, Iowa State
+
+University Press, Ames, Iowa, pp. 633–642.
+
+Ogata, N & Shibata, T 2008, ‘Protective effect of low concentration chlorine dioxide gas against
+
+influenza A virus infection’, Journal of General Virology, vol. 89, pp. 60–67.
+
+Rice, EW, Adcock, NJ, Sivaganesan, M, Brown, JD, Stallknecht, DE & Swayne, DE 2007, ‘Chlorine
+
+inactivation of highly pathogenic avian influenza virus (H5N1)’, Emerging Infectious Diseases, vol. 13,
+
+pp. 1568–1570.
+
+Selleck, PW, Arzey, G, Kirkland, PD, Reece, RL, Gould, AR, Daniels PW & Westbury, HA 2003,
+
+‘An outbreak of highly pathogenic avian influenza in Australia in 1997 caused by an H7N4 virus’,
+
+Avian Diseases, vol. 47, pp. 806–811.
+
+Senne, DA 2003, ‘Avian influenza in the western hemisphere including the Pacific Islands and
+
+Australia’, Avian Diseases, vol. 47, pp. 806–811.
+
+Stallknecht, DE 2003, ‘Ecology and epidemiology of avian influenza viruses in wild bird populations:
+
+waterfowl, shorebirds, pelicans, cormorants etc’, Avian Diseases, vol. 47, pp. 61–69.
+
+Stallknecht, DE, Shane, SM, Kearney, MT & Zwank, PJ 1990a, ‘Effect of pH, temperature, and salinity
+
+on persistence of avian influenza viruses in water’, Avian Diseases, vol. 34, pp. 412–418.
+
+Stallknecht, DE, Shane, SM, Kearney, MT & Zwank, PJ 1990b, ‘Persistence of avian influenza viruses
+
+in water’, Avian Diseases, vol. 34, pp. 406–411.
+
+Westbury, HA. 2003, ‘History of highly pathogenic avian influenza in Australia’, Avian Diseases,
+
+vol. 47, pp. 23–30.
+
+Water sources used by the Australian poultry industry are varied and also differ between states and territories and between rural and urban localities. Primary water sources for supply to poultry include:
+
+- mains or town water
+
+- bore or underground water
+
+- surface water
+
+- rain water.
+
+1.1 Mains or town water
+
+Unlike chicken meat farms, commercial layer farms tend not to be centrally located and tend not to use (or have access to) mains or town water supplies. For poultry species other than chickens, mains or non-mains water supply may be used.
+
+Mains water is generally treated and sanitised prior to distribution and is therefore the preferred and most biosecure water for poultry. Sanitation of mains water at the farm site is uncommon, although some producers may choose to use a sanitiser to control biofilm and other non-specific microbial build-up in drinking or cooling systems. On occasion, mains water has been found to have high levels of coliforms requiring treatment (such as treating the mains supply with chlorination). With reduced water availability in many areas of Australia, restrictions have been put on some intensive livestock and industrial  facilities to reduce mains water use. This has necessitated the use of alternatives such as bore or surface water.
+
+Some water authorities also mandate that poultry farms can only access prescribed flow rates (litres per second) from the mains supply. This requires producers to use farm water storage with site distribution via pumps, in order to provide additional water in times of higher demand.
+
+1.2 Bore water (underground water)
+
+The use of underground water is common in Australia, particularly where the quality (especially the salinity) is suitable for use in poultry. The suitability of bore water varies significantly between localities, with some areas such as south-east Queensland generally being favourable, while others such as North and North-central Victoria are variable. The state departments of primary industry can provide information on water quality for some localities.
+
+Underground water is usually considered to have a very low risk of containing avian pathogens, so on-farm sanitation is uncommon for this water source. Shallow bores or spring water, however, may be affected by surface run-off and can, particularly after heavy rains, contain levels of coliforms including E. coli. The presence of E. coli indicates faecal matter, such as from grazing animals, has contaminated the bore through surface run-off.
+
+The treatment of bore water by methods  including desalination (reverse osmosis) to reduce high salinity can be undertaken using existing and improving technology. However, a thorough knowledge of the technical aspects of water treatment technology, bore operation and environmental aspects is essential. Access to bore water generally requires a license from the local catchment or water authority, an extraction permit and an allocation allowance. Often this allocation may need to be traded or offset  against existing allowances from other supply sources.
+
+It is also necessary to maintain farm storage of bore water, particularly where flow rates are below peak demand or the water has been previously treated. This storage may be sealed or, in some cases, pumped directly into open water storage such as a dam. Bore water stored in the open should be considered a non-secure source of water that can be contaminated with avian pathogens such as AI viruses.
+
+1.3 Surface water (dams, reservoirs, channel, rivers and streams)
+
+Surface water provides the highest risk for potential contamination with avian pathogens, particularly those associated with aquatic water birds such as AI and EDS viruses and bacteria associated with water run-off, such as E. coli, Campylobacter spp.and Salmonella spp. Effective sanitation of surface water is required to reduce the risk of an  EAD in poultry.
+
+Surface water that provides a permanent or transient habitat for waterfowl, particularly the Anseriformes (ducks, geese, swans) or Charadriiformes (shorebirds), is at highest risk of contamination with AI virus.
+
+The methods required to effectively sanitise surface water and eliminate avian pathogens are generally more technically complex than thought by water users. Factors influencing the effectiveness of surface water sanitation include:
+
+- the avian pathogen involved
+
+- the quality of the water and its organic load, pH and solutes
+
+- the sanitiser used
+
+- the contact time between the sanitiser and the water
+
+- the turbidity of the water.
+
+Even after these aspects are considered and addressed there are mechanical, maintenance and monitoring factors that can also influence the effectiveness of water sanitation.
+
+1.4 Other sources (rain water, carted water, recycled water)
+
+The origin of alternative water sources should be identified in order to evaluate their biosecurity risk. For instance, water carted from a secure mains supply is associated with much lower risk than water from a lake or dam. With this knowledge, the necessary actions should be taken to ensure that the water is a secure and biologically safe supply for poultry. Other horizontal contacts such as vehicular and personnel movements should also be assessed for their biosecurity risk.
+
+To understand and appreciate the risk that surface water poses to poultry it is necessary to understand the epidemiology of AI viruses in waterfowl (Arzey 2004; East, Hamilton, & Garner 2008; Khalenkov, Laver, & Webster R.G 2008; Leung et al. 2007; Senne 2003; Stallknecht et al. 1990b) and the ability of the viruses to persist in surface water and ambient conditions (De Benedictis, Beato, & Capua 2007; Doyle, Schultz-Cherry, &  Robach 2007; McFerran 1997; Ogata & Shibata 2008; Rice et al. 2007). Readers are referred to the various publications for further detail on these subjects.
+
+Wild bird surveillance programs have detected LPAI viruses in the Australian wild water bird population.
+
+While Australia is not in the high-risk migratory waterfowl pathways for H5N1 HPAI virus, there  is still a low risk of viruses being introduced from overseas where migrating shorebirds, waterfowl and commercial poultry share close proximity. There are  a few localities in Australia where such an association occurs (East, Hamilton, & Garner 2008). There is also a risk from Australian AI strains for poultry farms located close to water bodies that host wild waterfowl. The risk is through the potential for the supply of contaminated surface water,  physical association of these waterfowl or their fomites with commercial poultry, and possibly through other horizontal contacts.
+
+Contaminated surface water and/or the presence of wild waterfowl have been implicated in previous AI outbreaks in Australia (East, Hamilton, & Garner 2008; Selleck et al. 2003; Senne 2003; Westbury 2003). The persistence of the AI virus in water is an important component of the epidemiology of the spread of AI virus from waterfowl  to commercial poultry via surface water. Low water temperatures combined with prolonged shedding  of virus by waterfowl can result in particular strains of AI virus persisting in the environment for up to 200 days. This may account for the generational cycling of the virus in ducks  returning to water habitats for breeding purposes (Stallknecht, Shane, Kearney, & Zwank 1990b; Stallknecht  2003).
+
+AI viruses have also demonstrated tolerance and stability at a pH range from neutral to 8.5, with infectivity declining below a pH of 6.0. Under saline conditions, infectivity is inversely related to salt concentration (Stallknecht et  al. 1990a).
+
+Surface water is used in Australian commercial poultry farms where alternative economical supplies of water are not available. There may be circumstances where different types of water supply are used in combination with surface water. On some properties, different types of water supply may be used for different purposes. Combined sources of water may be used:
+
+- when mixing moderately saline bore water with surface water to reduces alinity, making the water more suitable for use
+
+- when quality water from the mains supply or bore is used for drinking purposes while surface water is used for cooling (evaporative or fogging)
+
+- when surface water use is seasonal. While mains or bore water supply may be adequate during the winter, the higher demands for water for cooling in summer requires on-farm stored surface (dam) water
+
+- when excess bore water is stored in a dam during winter for use on the poultry farm during times of high water demand in summer
+
+- when poultry gain opportunistic access to surface water after heavy rain periods.
+
+Most commonly, surface water is pumped into holding tanks and distributed throughout the farm by further pumping or gravitation. Storage facilities may have constant inflows proportional to water demand or be fed from a primary storage that is filled when needed. Total farm water storage (tanks) can vary from a few hours’ to a week’s supply. Smaller tanks can be plastic, fibreglass or steel with larger tanks made from concrete or steel, with plastic liners. On newer farms, storage tanks are also required by planning laws to be able to serve a secondary purpose—that of a fire fighting water supply.
+
+Surface water, other than that delivered in piped irrigation distribution systems, is accessible by waterfowl within the boundary of the property housing the poultry. This proximity provides a further risk of horizontal contact between waterfowl or their waste with commercial poultry.
+
+Even in situations where there is adequate mains water or quality bore water for drinking water and cooling use, planning authorities often require the building of retention or dry basin dams on new poultry developments to ensure farm run-off is kept within the boundaries of the property. Similarly, dams may be created on a new poultry development site to provide the necessary material for earthworks in constructing the shed foundations or pads. As earthworks are expensive, the cost is minimised by obtaining earth immediately adjacent to the sheds rather than carting it from a more distant location.
+
+If these dams are frequented by waterfowl, they can pose some risk through attracting waterfowl closer to poultry sheds. This problem is further exacerbated if cereal grain cropping is undertaken on the land immediately surrounding the sheds. In such situations, risk can be reduced by bird aversion activities and using clean footwear and foot baths prior to entry to the sheds. In free range facilities, poultry should be denied access to surface water, and attractants to wild waterfowl must be minimised.
+
+The ability to effectively eliminate poultry pathogens from surface water is dependent on a number of factors, including the type of pathogen, the quality of the surface water, the sanitiser used and the operational aspects of the dosing equipment and storage facilities used. A critical component of good water sanitation is to have clean water and achieving this may require pretreatment such as filtration. Dirty water cannot be effectively sanitised no matter which generic sanitiser is used.
+
+4.1 Microbial contaminants
+
+Potential avian pathogens include bacteria, protozoa, fungi and viruses. The sensitivity of thesevarious microbial contaminants to chemicals and treatments is extremely varied. Sensitivity isfurther affected by the growth stage of the organism and whether or not it is protected by organicmaterial. Agents such as cryptosporidia are particularly resistant to most water sanitisers, IBD virusis resistant to inactivation by many sanitisers, while the Enterobacteriaceae (including E. coli andsalmonellae) are moderately sensitive to most. Fortunately for the poultry industry, AI virus as anenveloped virus is relatively sensitive to the majority of sanitisers. Poor quality water of high salinityand pH’s divergent from neutral are by themselves capable of limiting the persistence of AI virus.
+
+In contrast, EDS is caused by an adenovirus which is more stable than AI virus, able to remainviable even in a pH range of 3 to 10. Sporadic outbreaks of EDS can be associated with inadequatelysanitised surface water to which wild waterfowl have had access.
+
+4.2 Water sanitisers
+
+There are many brands of water sanitisers available to the poultry producer, although they arepredominantly derived from only a few chemical groups. In some cases, water may need treatmentprior to sanitation.
+
+The choice of sanitiser should primarily be based on efficacy, followed by other factors suchas application method, cost and safety. Poultry producers are not specialists in the science ofsanitisers and are thus usually dependent on company technical advisors, veterinarians or salespeople to provide the necessary information.
+
+Some sanitisers are marketed based on information only about their effectiveness to inactivatebacteria, usually under non-commercial situations such as distilled water with serum. The failure toproduce data on viral inactivation is usually because such testing is expensive and technically difficultto undertake. The major types of water sanitisers that are available include the following categories:
+
+- the halogens—including chlorine, bromides and iodines (iodophors), chloramines, and potassium permanganates
+
+- other oxidisers, including chlorine dioxide, hydrogen peroxide, ozone and peracetic acid
+
+- organic acids, usually short chain fatty acids
+
+- quaternary ammonium compounds
+
+- ultraviolet (UV) light
+
+- other products such as citric acid, copper-silver ionisation, etc.
+
+The more commonly used water sanitisers are discussed below.
+
+4.2.1 Halogens
+
+Of these, chlorine (hypochlorous acid/chlorite ion) is the most commonly recognised and used.The activity is mediated by hypochlorous acid produced at acid pH and the efficacy of chlorinesdeclines as pH increases (optimum around pH 6.7). Hypochlorous acid denatures proteinsby oxidation and it is this property as an oxidiser that confers its biocidal activity. Chlorineis available in liquid form as sodium hypochlorite and in solid form as calcium hypochlorite.Sodium hypochlorite is usually available at a concentration of 10 to 12% (De Benedictis, Beato,& Capua 2007). Chlorine (usually as liquid hypochlorite) has a broad spectrum of activity, isminimally affected by hard water and acts rapidly. Its use is limited by its corrosive nature.The efficacy of chlorine is affected by organic material and turbidity, UV light and heat andits limited residual activity. Chlorine has a very low cost and application systems involveonly small capital outlay.
+
+While some earlier reports had demonstrated the effectiveness of chlorine on AI virus, it wasnot until 2007 (Rice, Adcock, Sivaganesan, Brown, Stallknecht, & Swayne 2007) that specific workwas undertaken demonstrating chlorine’s effectiveness against H5N1. Studies demonstrated thatonce the chlorine demand was met, the maintenance of free residual chlorine at around 1 part permillion (ppm) was sufficient to inactivate the virus.
+
+Iodines, or formulated variations such as iodophor, are similar in effectiveness to chlorine,showing some advantage in ability to cope with organic load.
+
+Bromine is more stable than chlorine as it has a higher evaporative point. Bromine continuesto be effective even after reacting with organic compounds. Hypobromous acid is the activeform that inactivates the pathogens. After reacting, the hypobromous acid is reduced back tobromide ions. The addition of an oxidizer will convert the bromide back to hypobromous acid.This is done by adding fresh oxygenated water, for example, in an evaporative cooling padrecirculating water tank.
+
+4.2.2 Other oxidisers
+
+Amongst oxidisers, chlorine dioxide is becoming popular for water sanitation in the poultryindustry. It is broad spectrum, sporicidal and fast acting. It disinfects by oxidation but does notchlorinate. It is also significantly more resistant than chlorine to organic quenching and lessaffected by pH. This allows for more effective sanitation of water using levels of chlorine dioxideas low as 0.1 ppm.
+
+Chlorine dioxide assists in reducing biofilm build-up in drinker systems and, unlike halogens, doesnot form complexes like chloramines which are potentially carcinogenic. The cost of the chemicalis much higher than chlorine and there is the added requirement for a chemical activator such asphosphoric acid. Application systems are also significantly more expensive than those required forchlorine. With new technology, the lower cost precursor compound sodium chlorite can be used togenerate chlorine dioxide using an electro-discharge plate that generates hydrogen gas. The capitaloutlay for this equipment is high.
+
+Hydrogen peroxide has similar inactivation properties to chlorine dioxide and can be used in thesolution or vapour phase. However it is corrosive, inactivated by heat and organic material, andneeds to be used at high concentrations. This oxidiser also has limited residual activity.
+
+Peracetic acid is similar in activity to chlorine dioxide and is effective in the presence of organicmatter. Compared with chlorine, its limitations—besides cost—are that it is corrosive to soft metals,unstable at high ambient temperatures and is an irritant, particularly in its concentrated form.
+
+Ozone is generated from electrical discharge units and bubbled into the water supply. Ozone sanitises water either by direct oxidation and disruption of cell membranes of microbes bymolecular ozone or by free radical-mediated destruction of microbes. Also, through indirectoxidation reactions of ozone, the ozone molecule decomposes to form free radicals which reactquickly to oxidise organic and inorganic compounds. Generally the efficacy and activity of ozoneare similar to chlorine dioxide. Set up capital costs can be high, as are maintenance costs due todischarge tubes requiring replacement every few years.
+
+4.2.3 Ultraviolet light
+
+UV light is used minimally in the poultry industry and generally for the sanitation of low volumesof clean water in hatchery mister sprays. UV light has proved unable to inactivate HPAI virus after45 minutes exposure (De Benedictis, Beato, & Capua 2007). UV water treatment is not effectivefor sanitising surface water unless the water is clean. It has a relatively low cost but its usefulnessis limited under situations where there are very high volumetric demands and it has no residualactivity. Its efficacy is not affected by pH.
+
+4.2.4 Organic and inorganic acids
+
+Acids have a high viricidal activity and through the correct choice of acid, or acid mixture,this class of disinfectants can be used for several purposes from liquid effluent treatment todecontamination of structures. There are two categories of acids that can be used in disinfectionprocedures: organic acids (formic, citric, lactic, mallic, glutaric and propionic acids) and inorganicacids (nitric, hydrochloric, sulphuric, phosphoric, sulphamic acids). Both are effective, especiallyagainst viruses that are sensitive to low pH, but they are generally slow-acting (Jeffrey D.J. 1995).Inorganic acids are able to inactivate viruses only through decreasing pH values. These acids aremore typically used in research, for example, in sanitising clean water for specific pathogen free(SPF) birds. In contrast, organic acids inactivate viruses also through the interaction of lipophilicstructures with membranes of enveloped viruses (Haas et al. 1995).
+
+Organic acids were originally introduced to the poultry industry as an aid to improving flockperformance rather than as a generic water sanitiser. Their ability to inactivate microbialcontamination varies depending on the agent. Their cost is high when compared to chlorine,and high levels of organic acids in poultry drinking water may decrease water intake andreduce performance. This latter effect is due to the organic acids affecting the taste of the water.
+
+Acidifiers do not replace sanitisers but are used to reduce high water pH to levels of 6.0 to 6.7 toimprove the efficacy of sanitisers such as chlorine.
+
+4.3 Application systems and facilitation for water sanitation
+
+To achieve and sustain effective water sanitation, application equipment and its correct use are just as important as the type of sanitiser used. Effective water sanitation requires:
+
+- effective pretreatment of the water
+
+- correct dosage of sanitiser
+
+- adequate contact time
+
+- reliable operation
+
+- accurate monitoring in real time
+
+- avoiding contamination post-sanitation
+
+- adequate water storage and appropriate configuration of storage.
+
+4.3.1 Pretreatment of water
+
+High organic load is an impediment to effective sanitation of surface water, which can be further compounded by the presence of other chemicals such as mineral salts, nitrogenous compounds, iron and colloids (silicates). The pH of water and the level of oxygenation will also influence the efficacy of sanitation. Seasonal factors may also affect water quality, for example additional rainfall or low rainfall requiring admixtures of bore water. These factors will affect the need to pre-treat the water and will have some bearing on the  type of sanitiser used.
+
+Before any technical decision is made about water pretreatment, it is essential that a complete analysis of the surface water is done. The testing should include a complete chemical analysis (pH, total dissolved solids (TDS), chloride, nitrate, nitrite, sulphate, iron, copper, magnesium, manganese, zinc, sodium, and calcium), turbidity, biochemical oxygen demand (BOD) and a microbiological analysis (total coliforms, E.coli, faecal coliforms). Pretreatment by desalination does not remove microbial pathogens, so sanitation of the treated water is still required.
+
+Other pretreatments include sand filters and  flocculants to remove solids and organic loads (see Appendix). Removal of high levels of iron can be achieved by aerating or treating the water with an oxidiser (chemicals which flocculate4 the iron), followed by the use of settling tanks. There may also be the need for pH adjustment using hydrochloric or phosphoric acids.
+
+Biofilms are an impediment to effective sanitation and should be cleared from lines with flushing and the use of oxidizing sanitisers such as chlorine dioxide and peracetic acid. In some cases where biofilms have been long standing and associated with water pipe corrosion, it is necessary to replace the water lines.
+
+All of these pretreatments require an understanding of  the science involved and an investment in capital to achieve the required outcome.
+
+4.3.2 Dosage of sanitiser
+
+The correct dosage of chemical is essential to achieve effective sanitation of surface water. For liquid addition, dosage equipment must be able to deliver the correct amount of sanitiser to a measured quantity of water. This can be done either via mechanical flow detection pumps, electronic pulsating digital solenoid driven diaphragms, or peristaltic pumps (see Appendix). For the addition of chlorine dioxide, ozone and crystalline iodine systems, the technical aspects of application and dosage are more complicated and require the support of an adequately qualified and trained distributor.
+
+The ongoing maintenance of such equipment is critical. The choice of applicator is influenced by availability of power and cost.
+
+4.3.3 Adequate contact time
+
+Adequate contact time is essential to ensure that microbial pathogens are inactivated prior to the delivery of water to poultry. The duration of contact time is dependent on the contaminant, the quality of the water, the type of sanitiser used and the temperature of the water. Such detailed information is not always available in the field situation and producers therefore need to be conservative about contact time. While different sanitisers act at different rates to inactivate particular avian pathogens, two hours at the recommended sanitiser concentrations is suggested as the minimum contact time. Achieving this benchmark will ensure a high level of confidence for achieving effective water sanitation for most systems and conditions.
+
+Ultimately the only way to ensure that contact time has been adequate is to undertake monitoring for microbial contaminants. While it is not usually practical to test for viruses, bacteria can be used as an indicator.
+
+4.3.4 Reliable operation of equipment
+
+The continuous use of water by poultry operations necessitates continuously effective sanitation of surface water. Even temporary failure of effective sanitation increases the risk of incursion of a water-associated avian pathogen. The purchase of better quality equipment is a small capital outlay considering the importance of the required outcome. While operational aspects of the equipment may fail (such as electronic mechanisms, seals, and casings) there are also maintenance issues (such as air locks, corrosion and filter blockages) that need to be routinely attended to. For more sophisticated set-ups, a maintenance contract from the supplier is often necessary, and the assurance that there are readily available replacement parts.
+
+When buying equipment from overseas, it is important to ensure that it is compatible with Australian standard fitting sizes and electrical input requirements.
+
+4.3.5 Monitoring
+
+It is essential that the effectiveness of equipment can be monitored. This can be done using inbuilt sensing equipment with remote readouts, or through manual measurements of flow rates and dosing volumes. Monitors can also be alarmed to warn the producer of a failure. Simple manual checks to ensure that the correct amount of sanitiser is being used can provide an effective cross-check.
+
+4.3.6 Avoidance of contamination post-sanitation
+
+Effective water sanitation can be undone by allowing recontamination after treatment. Treated water should be transferred in sealed systems and into sealed tanks. There should be no other source of water entering the treated water, such as untreated rainwater. If the system is closed, then falling sanitiser levels in the stored water are of no consequence as the avian pathogens will already have been inactivated and there is no opportunity for recontamination. The principle of maintaining measurable chlorine at the drinker level is not of paramount importance if the water has been effectively pretreated. The presence of a measurable level of sanitiser at the level of the drinker does give the producer more confidence that effective sanitation is being carried out and also aids in controlling the non-specific build up of coliforms, algae and biofilms. Residual activity is particularly important for water distribution systems.
+
+4.3.7 Water storage
+
+Effective sanitation, adequate contact time, sealed storage and reliable equipment operation can only be achieved with the correct (and coordinated) configuration of untreated water delivery, treatment, storage and treated water delivery (Appendix). This means that where the treatment of surface water is required, installation of a number of storage tanks of appropriate size that can store and deliver the treated water in a strategic manner will be required. The procedure of injecting chlorine directly into the main water supply line to the shed does not allow adequate contact time. However, with chlorine dioxide the contact time may be adequate.
+
+In addition, the use of only one water tank for sanitising and holding stored water is inadequate, particularly under periods of high water demand, as there will be a replenishment of raw water entering the system that will have inadequate contact time with the sanitising chemical. It is preferable, if not essential, to have a two tank storage system that is solenoid5 controlled with high and low level ball valves (Appendix). This allows the delivery of sanitised water after a guaranteed minimum contact time. Alternatively, this may be done manually by draining sanitised water from the main storage tank into secondary storage tanks that supply the daily demand of the sheds. It is also critical that all water supplied to the sheds is sanitised. Sanitising only the drinking water and not the water used for cooling increases the risk of incursion by water-borne pathogens.
+
+4.4 Monitoring to ensure effective water sanitation
+
+ The monitoring and disciplined record keeping of sanitiser levels and other parameters including pH and oxidation and reduction potential (ORP) are critical in ensuring effective microbial inactivation potential in treated water.
+
+Monitoring sanitised water is not straightforward and the use of chlorine test strips alone may not give a true indication of the disinfection potential of the chlorinated water. Technical assistance must be sought, particularly when dealing with halogens other than chlorine and with oxidising compounds such as chlorine dioxide. This advice should preferably come from a competent technical advisor.
+
+Most methods for testing for effective water sanitation look at the level of the particular sanitiser in the water as an indicator (e.g. chlorine at 1 to 2 ppm at the drinker level) and if this is achieved then it is assumed that the water is effectively sanitised. This is true for reasonable quality water, but for poor quality water the effectiveness of the sanitiser may be compromised despite its level appearing to be correct. ORP does not measure the chemical—instead, it measures the capacity of the sanitised water to kill microorganisms.
+
+Determination of the ORP has become the procedure of choice for monitoring, and can be performed with incorporated systems or a hand-held apparatus. The quality of the testing unit should be evaluated prior to purchase. ORP, measured in millivolts (mV), operates much like a digital thermometer or pH probe and ORP sensors allow easy monitoring and tracking of critical disinfectant levels in water systems. ORP for water system monitoring provides the operator with a rapid and single-value assessment of the disinfection potential of water. Research has shown that at an ORP value of 650 to 700 mV, spoilage bacteria and bacteria such as E. coli and salmonellae are killed within a few seconds. Other microorganisms such as protozoa and viruses are inactivated over longer contact times, generally measured in minutes.
+
+The ORP is a valuable tool where water quality is poor. For example, where water pH is high, measurable chlorine levels may be high but the level of active sanitising agent, hypochlorous acid, may be below effective levels, resulting in an ORP measurement significantly below 650. The routine measurement of ORP in mV is not a linear relationship at typical use rates. In chlorine sanitation systems, increasing pH will lower the ORP and decreasing the pH will increase ORP, reflecting the increased availability of hypochlorous acid. In 1972, the World Health Organisation adopted an ORP standard for drinking water disinfection of 650 mV. At this level the sanitiser in the water is active enough to destroy harmful organisms almost instantaneously.
+
+4.5 Common deficiencies seen with water sanitation in the poultry industry
+
+Despite the importance of effective sanitation of surface water in the Australian poultry industry, deficiencies can occur that may increase the risk of incursion of a disease such as AI. Given that effective sanitation of surface water is not achieved under all circumstances, poultry flocks in Australia may be exposed to surface water that has been ineffectively treated. Epidemiological links have been made between contaminated drinking water and a number of past HPAI outbreaks in Australia and overseas.
+
+Some producers may not recognise the importance of water sanitation in their overall biosecurity program, or may lack the necessary combination of available technical skills and knowledge to ensure an effective surface water sanitation system in their poultry operation. Deficiencies which may be seen within the poultry industry include:
+
+- no intention to sanitise surface water due to either
+
+  - noncompliance due to various motivations
+
+  - some organic farms wishing to avoid chemical use
+
+- use of equipment, sanitisers and systems that fail to ensure the reliable and sustainable
+
+ effective sanitation of water through any of the following
+
+  - ineffective products
+
+  - inadequate contact time
+
+  - open storage systems
+
+  - mixing of unsanitised rainwater or recycled water
+
+  - incorrect dosing
+
+  - no maintenance program
+
+  - problematic equipment
+
+  - inability to accommodate for changed demands in water quality
+
+  - inadequate pretreatment
+
+- insufficient monitoring through
+
+  - absence of, or inadequate, testing programs
+
+  - inability to test system operational status in real time (alarms)
+
+  - inadequate frequency of monitoring
+
+  - use of only microbiological testing
+
+- intermittent use of sanitation systems due to
+
+  - avoiding sanitation during vaccination or with young stock
+
+  - modification of facilities
+
+  - insufficient stocks of chemicals.
+
+4.5.1 No sanitation of surface water
+
+The failure to sanitise surface water is relatively uncommon in the Australian poultry industry.Vertically integrated companies are generally comprehensively audited and supply sanitisedwater to poultry. Industry- and company-based quality assurance programs and state regulatoryauthorities encourage water biosecurity in all poultry industry sectors.
+
+Organic farming organisations state that there are no accreditation problems with using water chlorination, so water chlorination systems can be used on organic poultry farms. For those not wishing to use chlorine-based sanitisers, there are alternatives that can be considered and technical advice should be sought.
+
+4.5.2 Use of equipment, sanitisers and systems that fail to ensure effective sanitation of water
+
+New products for water sanitation should be carefully assessed. Products should claim effective water sanitation, rather than just improved bird performance, and should provide some data related to the inactivation of microbial contaminants.
+
+Inadequate contact time may be observed when a one-tank system is used. When water demand is high in a one-tank system, water sanitised with chlorine is replenished with a significant amount of raw water, with the mix of treated and untreated water then leaving the storage tank before adequate contact time with the sanitiser. The direct injection of chlorine into the main water input line also results in inadequate contact time. In these situations chlorine dioxide may be a suitable alternative sanitiser.
+
+A similar situation may arise when rain water or other catchment waters (including recycled water) gain entry to the storage tank without prior sanitation. While rain water carries a lower risk, roof surfaces frequented by wild birds, and in some cases ducks, can result in faecal contamination of this water. Similarly, open water tanks can be contaminated by free flying and roosting birds and possibly even by contaminated dust-laden aerosols.
+
+Non-operational dosing systems can be caused by:
+
+- air locks6 in dispensing lines (particularly during hot weather if dosing systems do not have an automatic bleeding system)
+
+- broken and/or defective pump mechanisms
+
+- corroded pump internals (medication pumps are often unsuitable for use with chlorine)
+
+- fractured doser housings after frosts and other damage.
+
+- Where there has been heavy rainfall with run-off into dams, the increased organic load demand
+
+ can significantly impact on the level of effective sanitiser in the system. This is not an issue where
+
+there is automatic monitoring, as the dosing will increase automatically or an alarm will sound.
+
+Water from creeks, dams and channels can be of poor standard, particularly during drought. It is often poorly aerated, its oxygen demand is high and, despite the addition of copious amounts of chlorine, its ability to inactivate pathogens is limited. This is where measuring ORP is a useful adjunct. Pretreatment of this water is often required.
+
+Some producers use manual dosing with either liquid or solid chlorine but this approach is haphazard and unreliable, with resultant wide fluctuations in chlorine levels. While considered economical, this is a false economy as is does not consider the time taken and repeated labor required.
+
+Underlying many of these dosing and system failures is the inability of the poultry farmer to identify or correct the mechanical failure. Compounding the problem, local plumbers often cannot be obtained at short notice and may lack both the understanding of precision pumps and/or the science of water sanitation.
+
+4.5.3 Insufficient monitoring
+
+Producers who are part of audited quality assurance programs are usually mandated to complete monitoring sheets to record water testing information. All producers should place priority on testing water frequently (i.e. daily to bi-weekly) and recording this information.
+
+Some of the sanitisers, particularly the novel ones, have no readily available test for real-time farm testing, which is clearly a disadvantage. As previously indicated, testing for the primary chemical alone, particularly chlorine, may not give a true indication of sanitising efficacy, particularly where input water is poor. Farmers in this situation need to also test for pH and ORP.
+
+Actual microbiological monitoring of drinking water within the poultry industry is not a common routine. When undertaken, the presence and quantification of total bacteria, coliforms and E. coli act as a marker of effective water sanitation. Sample collection, handling and delivery of the water sample to the testing laboratories can be problematic for producers, as there is a need to use sterile collection bottles and to get these to the testing laboratory within 24 hours and under chilled conditions.
+
+4.5.4 Intermittent use of sanitation
+
+Some farm managers turn the water sanitation system off during the administration of live vaccines, with the intention of not harming the vaccine. However, this approach opens up the possibility of contaminated water reaching birds. The correct procedure is to sanitise the water as usual and then run it into the medication tank, allow it stand overnight (or at least several hours) with skim milk powder and then add the vaccine in the normal manner. The use of medication pumps for vaccination complicates this matter of chlorinated water and vaccination because of the nature of the direct injection system. The authors of this document prefer medication tanks to dosators for vaccination and medication.
+
+The practice of discontinuing sanitising water during facility upgrades and re-plumbing of the site opens up a risk window. On occasions farm managers find that they have depleted their stocks of sanitiser and are unable to replace this stock immediately. Again there is a period of risk until this sanitiser is replaced. To avoid the problem of depleted stocks monitor the stocks of sanitiser and usage rate and always have replacement sanitiser available.
+
+It is necessary to sanitise water for birds of all ages, including young hatchlings.
+
+Numerous publications, trials and field observations clearly identify drinking water as a biosecurity risk for poultry. For EADs such as AI, surface water that has been contaminated by waterfowl provides one of the highest risks. For the Australian poultry industry to reduce the likelihood of an outbreak of AI in a commercial poultry flock, it is essential that effective sanitation of surface water is undertaken where such water is used for drinking or cooling purposes.
+
+Because effective water sanitation is so important, the industry needs education programs that cover the use of water sanitisers and application systems, and promote the use of sanitation that is:
+
+- reliable and effective
+
+- economical both in capital set-up and cost of sanitiser
+
+- easy to use
+
+- has readily available technical support.
+
+Appendix and water chlorination systems
+
+The schematic technical drawings illustrate a typical set-up for the chlorination of surface water being supplied to commercial poultry sheds for drinking water and cooling purposes. The system illustrated can be modified for delivery of other recognized water sanitisers, and specialized application systems can be used to replace the dosing pump for use with iodine, chlorine dioxide, ozone or other agents. As individual farm requirements vary, producers are advised to seek technical advice from their service providers for specific details on water sanitation and the delivery and storage systems that are applicable to their farm.
+
+Explanatory notes
+
+Input water requiring sanitation, typically surface water (dams, streams, channels, rainwater, untreated reticulated water), should be first analysed for electrolytes, heavy metals, turbidity, organic load, pH and microbiological contamination (coliforms, E. Coli) to determine
+
+- its suitability for poultry drinking water
+
+- its suitability for effective chlorination.
+
+This information determines what type of water pretreatment is required. Such testing should be repeated at least twice a year, or whenever there are changes in water source or quality. For chlorination to be effective the water needs to be clean and around neutral pH, so pretreatment, when required, is pivotal to effective chlorination.
+
+The type of pretreatment system required will depend on the quality of the input water. It may vary from a simple physical filter to a sand filter with an automatic back-flush mechanism. For heavy organic loads a flocculation system may be required and where the input water is alkaline the water will need to be acidified. See figures 1, 2, and 3.
+
+Figure 1: Schematic water reticulation system, large capacity water storage
+
+![Schematic water reticulation system, large capacity water storage](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-1.gif) 
+
+Figure 2: Schematic Water Reticulation System
+
+![Schematic Water Reticulation System](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-2.gif) 
+
+Figure 3: Mechanical Filtration Unit (A1)
+
+![Mechanical Filtration Unit](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-3.gif) 
+
+Chlorine dosing pumps, typically supplying 12.5% sodium hypochlorite, can either be mechanical (operated by physical water flow—figure 4 (A2.1)) or electronic (requiring electrical power—figure 5 (A2.2)). These dosing pumps need to have internal parts that are resistant to corrosion and degradation by chlorine and capable of resisting ambient weather conditions including extreme cold, heat and UV light, or otherwise be placed in protective housing. There are numerous suppliers of dosing pumps suitable for poultry farms. Equipment should be obtained from suppliers who can provide good technical back-up and service including spare parts. Plumbing fittings must be compatible with those used in Australia.
+
+The dosing rate required will vary according to the quality of water and the farm usage rate and will require some initial trials to establish the desired results.
+
+Figure 4: Mechanical Pump (A2.1)
+
+![Mechanical Pump](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-4.gif) 
+
+Figure 5: Electronic Dosing Pumps (A2.2)
+
+![Electronic Dosing Pumps](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-5.gif) 
+
+The configuration of water storage on the farm should ensure there is adequate contact time between the fresh water and the required level of chlorine, before the treated water is supplied to the sheds and poultry. The delivery of chlorine directly into the shed water supply line, or the use of small capacity holding tanks that directly supply the sheds will not allow adequate contact time, particularly during periods of high demand for drinking and cooling water. Inadequate contact time between the chlorine and water increases the risk of the introduction of water-borne avian pathogens.
+
+A two-storage tank system is the most acceptable configuration to ensure adequate contact time when chlorinating surface water. A primary storage tank can be filled with chlorinated water and, after a minimum retention period, manually drained into the secondary sealed tank supplying the poultry sheds. This is low cost but requires ongoing intervention by the poultry farm manager.
+
+The schematic diagrams outline two possible storage tank set-ups.
+
+Where large storage tanks are used (with the capacity to store two or more days’ water supply for the farm at peak demand) and the water usage output is a proportionally low ratio to the total storage volume, then a system can be used where the chlorinated water enters the primary tank at the bottom and the chlorinated water enters the secondary supply tank from the high level outflow. In this set up, the dilution rate of the fresh water is low and the bottom of the tank input and the top of the tank output ensures the water is effectively sanitised. The certainty of this can be enhanced by adjusting the chlorine dosing pump to ensure that the chlorine level in the second tank is maintained between 1 to 5 ppm, achieving 1 to 2 ppm at the drinker level.
+
+Figure 1: Schematic water reticulation system, large capacity water storage
+
+![Schematic water reticulation system, large capacity water storage](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-1.gif) 
+
+Figure 2 outlines a more sophisticated but still relatively simple set-up, in which each tank delivers chlorinated water to the sheds only after a specified holding period, which is predetermined by the time the paired tank takes to empty. The minimum retention period will be determined by the size of the tanks as they relate to water usage on farm under peak demand. This should be around a minimum of two hours for chlorine, but in most existing set-ups extends to 12 or more hours.
+
+Figure 2: Schematic Water Reticulation System
+
+![Schematic Water Reticulation System](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-2.gif) 
+
+The measurement of free chlorine levels can be done manually using test strips, colour kits or indirectly using portable ORP meters which read in mV. In establishing a chlorination system, these measurements are made and the dosing rate of chlorine adjusted until the desired free chlorine levels are achieved at the location being measured.
+
+Alternatively this can be done automatically using electronic sensing and recording equipment (ORP/mV) which may include feedback to the dosing pump and/or low chlorine level alarms. These systems provide the flexibility to accommodate sudden changes in water quality, for example after heavy rain or dramatic changes in inflow water requirements. They also allow the immediate detection of chlorination system failures and reduce the window of opportunity for birds to receive untreated surface water.
+
+Chlorinated water is delivered to the sheds by a hydro-pneumatic water pump (figure 6). Often, two or three variable speed pumps are used in series to allow efficiency of power use, back-up contingencies and extending pump life.
+
+To limit biofilm build-up, it is advisable from time to time to flush the farm water reticulation system at various discharge points around the farm (taps and hydrants). For significant biofilm build-up it is advisable to use a higher concentration flush with an oxidizing sanitiser during batch turnarounds. The effectiveness of chlorine is limited by biofilms, and chlorine does not remove existing biofilms.
+
+Figure 6: Hydro-pneumatic system (A3)
+
+![Hydro-pneumatic system](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/biosecurity/waterbiosecurity/Figure-6.gif)

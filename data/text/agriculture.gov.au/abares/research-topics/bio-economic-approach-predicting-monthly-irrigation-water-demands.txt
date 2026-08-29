@@ -1,0 +1,26 @@
+ABARES Working Paper
+Published: 22 December 2025
+Authors: Neal Hughes, Maruge Zhao, Rhys Downham
+Introduction
+Hydrologic models typically predict irrigation water demands via bio-physical processes in-line with
+FAO-56 standards. However, irrigation demands also depend heavily on the economic behaviour of
+farmers, particularly their responses to water and crop prices. This study develops a novel method for
+predicting monthly irrigation water demand that integrates bio-physical processes with an economic
+profit maximization framework.
+This method yields a set of simple parametric equations for predicting annual crop areas and monthly
+water use as a function of both weather and prices. We apply this method to the Australian Murray-
+Darling Basin (MDB) with a dataset covering 13 regions and 12 irrigation activities between 2004-05
+and 2021-22. Model parameters are obtained using structural estimation, with a joint system of
+physical and behavioural regression equations solved by non-linear least squares. Validation results
+show strong performance for water use particularly in the southern basin (annual in-sample R2 0.94,
+cross-validated R2 0.90).
+Performance is slightly weaker in the northern basin partly on account of data quality issues (annual in-
+sample R2 0.84, cross-validated R2 0.71). The model is applied to measure the effects on water demand
+of long-term adjustment in the irrigation sector, including the emergence of almond and cotton crops in
+the southern basin. The results show that new almond plantings have contributed to a 40 per cent
+increase in peak summer demands in the lower Murray since 2014.
+In future, this bio-economic approach could provide a foundation for integrated hydro-economic
+models capable of analysing complex water policy issues, including environmental water management,
+water market design and climate change adaptation.
+Source: https://www.agriculture.gov.au/abares/research-topics/working-papers/bio-economic-approach-predicting-monthly-
+irrigation-water-demands

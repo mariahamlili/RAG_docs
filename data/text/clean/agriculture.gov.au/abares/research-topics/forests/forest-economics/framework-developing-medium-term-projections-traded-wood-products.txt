@@ -1,0 +1,79 @@
+Authors: Peter Lock and Linden Whittle
+
+Summary
+
+This report presents a proof of concept modelling exercise, reporting medium-term projections of the
+
+volume and value of trade in wood products based on a set of nested, historical relationships between
+
+wood product categories.
+
+Forest and Wood Products Australia (FWPA) commissioned ABARES to establish the modelling
+
+capability presented in this report, with the understanding that trade projections can be used to assist
+
+industry make better decisions and can assist governments in formulating policy.
+
+The traded products selected for analysis are exports of sawnwood, roundwood, woodchips and
+
+builders’ joinery; and imports of sawnwood, plywood, builders’ joinery and mouldings. These products
+
+represented 43% of total Australian trade in wood products in 2018-19 and were selected through
+
+consultation with FWPA.
+
+ABARES used a nested modelling approach to estimate imports and exports of forest products. A
+
+nested approach was chosen to best account for the interlinkages between trade in different wood
+
+products. Exports of related products (namely sawnwood, roundwood and woodchips) are jointly
+
+projected by linking a series of simple econometric models and arithmetic equations (identities). The
+
+nested approach allows for the impact of many variables to be included while keeping the individual
+
+models small. While there are limitations with a nested approach compared to structural models, small
+
+sample sizes required a more simplified approach. The remaining products (plywood, mouldings, and
+
+builders’ joinery) are projected independently.
+
+The trade forecasts presented in this report, as well as the modelling approach are subject to several
+
+caveats.
+
+The most important caveat is that the models are based on historical data and relationships, up to the
+
+2018-19 financial year. Significant deviations from observed history post 2018-19 are expected to result
+
+in deviations from the projected outcomes. For example, the projections presented in this study do not
+
+reflect recent domestic and international events, including the 2019–20 bushfire season and COVID-19
+
+pandemic. The bushfires are likely to have significant impacts on harvesting decisions in eastern
+
+Australia, and the flow on effects of COVID-19 are expected to lead to reduced domestic and
+
+international demand for some products.
+
+This highlights how models are a useful base for medium term projections of trade outcomes, but that
+
+they should not be considered the last step in a projection task. Importantly, modelled projections
+
+should also be revised or constrained to reflect wider domestic and international events.
+
+In future work associated with the framework, ABARES will integrate a number of features that allow
+
+for more readily updated and revised projection methodologies to better incorporate the impact of such
+
+events.
+
+Download the full report
+
+A framework for developing medium term projections of traded wood products - PDF [2.2 MB]
+
+A framework for developing medium term projections of traded wood products - DOCX [2.6 MB]  
+
+Source: https://www.agriculture.gov.au/abares/research-topics/forests/forest-economics/forest-economic-research/
+
+framework-developing-medium-term-projections-traded-wood-products

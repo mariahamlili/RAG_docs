@@ -1,0 +1,539 @@
+Post-implementation review: Competition and Consumer (Industry Code—Sugar) Regulations 2017
+
+OBPR ID: 23371
+
+© Commonwealth of Australia 2021
+
+Ownership of intellectual property rights
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos, and the Commonwealth Coat of Arms.
+
+Cataloguing data
+
+ISBN 978-1-76003-367
+
+This publication is available at awe.gov.au/publications.
+
+GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web awe.gov.au
+
+Acknowledgements
+
+The authors thank the Australian Competition and Consumer Commission, Canegrowers Ltd, Australian Sugar Milling Council, AgForce Cane and other members of Australia’s sugar industry for their input. We also thank the OBPR and the Treasury for their assistance.
+
+Tables
+
+Table 1 Estimated commencement and arbitration costs under the code	12
+
+Table 2 Hourly labour costs, by category	14
+
+Summary
+
+The Office of Best Practice Regulation (OBPR) requires regulations implemented without a regulation impact statement (RIS) to undergo a post-implementation review (PIR) within 2 years of the regulation being implemented. A PIR is required even where an exceptional circumstances RIS exemption was granted by the Prime Minister.
+
+A statutory review of the code regulation was conducted in 2018 and found the code should be retained. The good faith provision of the code automatically came into effect immediately following the code’s introduction. However, the arbitration provisions of the code were yet to be used, so the findings of the statutory review lacked specific financial data related to a cost or benefit and could not be used to satisfy the criteria for a PIR.
+
+In December 2019 the Treasurer appointed an arbitrator to hear a dispute under the arbitration provisions of the code. The arbitration action and determination were completed in early 2020, providing the basis for completing a PIR.
+
+Post-implementation review
+
+A PIR examines the problem that the regulation was intended to address, the objectives of government action, the impacts of the regulation and whether the government’s objectives could be achieved in a more efficient and effective way. A PIR does this by answering the same questions examined by a RIS, but it does so after the regulation has been implemented:
+
+What problem was the regulation meant to solve?
+
+Why was government action needed?
+
+What policy options were considered?
+
+What were the impacts of the regulation?
+
+Which stakeholders have been consulted?
+
+Has the regulation delivered a net benefit?
+
+How was the regulation implemented and evaluated?
+
+For more information about PIRs, see Post implementation reviews.
+
+Introduction
+
+The code provides a framework for pre-contract arbitration when cane growers, sugar millers or sugar marketers fail to agree to terms of contracts for the supply of cane or the on-supply of sugar. Contracts between growers and millers are called cane supply agreements (CSAs). CSAs are generally 3-year rolling contracts that establish, amongst other things, the payment terms between cane growers and sugar millers. On-supply agreements (OSAs) deal with the supply of the sugar for sale by a marketer. The code also guarantees growers the choice of who markets the sugar in which they have an economic interest.
+
+As outlined in the explanatory statement for the code, the Prime Minister granted an exemption from the requirement to complete a regulation impact statement due to special circumstances. The introduction of the code was driven by urgent and unforeseen events that occurred in the export sugar industry. The deadlock in commercial negotiations between parties created significant uncertainty for regional families and the export sugar industry.
+
+Box 1 details the events leading to the introduction of the code. For more information, see the Review of the sugar code of conduct (pp. 14–15).
+
+Box 1 Introduction of the Sugar Code of Conduct
+
+In 2017 Wilmar Sugar Australia Ltd (Wilmar) and Queensland Sugar Ltd (QSL) were still negotiating the terms of an on-supply agreement (OSA) to allow growers to market their grower economic interest (GEI) sugar with QSL. Many growers in the affected regions chose not to enter into a cane supply agreement (CSA) until they could choose their GEI sugar marketer. The OSA between Wilmar and QSL was not finalised until 22 May 2017. As a result, many of the 1,500 affected cane growers did not have a CSA until after this time, with the crush due to commence mid-year. Under the Queensland Sugar Industry Act 1999 growers cannot supply cane to a mill without a CSA, so growers could either wait to finalise their CSA – potentially delaying their harvest and in turn payments for their cane – or market with the miller-marketer and use the pricing options provided by them (and subsequently transfer marketer to QSL if they chose).
+
+Growers in some districts chose not to enter into a CSA until the relevant OSA with QSL was in place. The world sugar price dropped from highs of US22.91c per pound in October 2016 to US13.53c per pound in June 2017. When the growers eventually signed CSAs, they had missed out on the best prices.
+
+Millers in those districts told the 2018 review that the CSAs they offered gave growers the option to lock in the higher prices and transfer GEI marketing to QSL later – but that growers chose not to sign at all. Growers reported to the 2018 review team that they were given no information on timing or how the transfer would have worked in practice.
+
+In some districts, growers took advantage of the millers’ offer and locked in the higher prices. In the districts where growers held out and were unable to take advantage of higher prices, trust and respect between the grower representatives and millers was much lower. Grower representatives and millers in these cases appeared to take a ‘winner takes all’ approach.
+
+In one district, pre-contract arbitration ultimately failed due to the arbitrator forming the view that the arbitration provision in the Queensland Sugar Industry Act 1999 was unconstitutional.
+
+In April 2017 the Australian Parliament made the code to give parties more certainty about options available to them to resolve the negotiating deadlock. The code reinforced the amendments to the Queensland Sugar Industry Act 1999 – allowing for grower choice in marketing, including pre-contract CSA arbitration. It also provided for pre-contract arbitration of OSAs and introduced a requirement for parties to act in good faith. Shortly after the introduction of the code, all remaining OSAs and CSAs were finalised.
+
+Key findings of the review
+
+We consider the code has delivered a net benefit to the Australian sugar industry because it provides a mechanism for resolving potentially lengthy and costly negotiation deadlocks, but we acknowledge that the code introduces a financial cost to the industry.
+
+We have drawn input for the review from several sources. We have reviewed input from consultations that were conducted with the sugar industry as part of the 2018 statutory review of the code. This consultation included 7 public meetings and 60 written submissions from across the industry, including from growers, millers, marketers and representative bodies. We also received information that was not bound by commercial-in-confidence requirements from the arbitrator of the case between Tully CANEGROWERS and Tully Sugar Ltd. We have engaged with industry stakeholders since the 2018 review to ensure that we have captured current views on the code.
+
+We recognise that there is not a consistent view about the impact of the code across the sugar industry. Growers report that the presence of the code has helped resolve negotiations before reaching a point where the code would need to be used. Millers report that the code has added uncertainty, complexity and cost to sugar industry operations, deterring investment and undermining competitiveness.
+
+Australian sugar industry overview
+
+The Australian sugar industry produces raw and refined sugar from sugarcane. Around 95% of sugarcane produced in Australia is grown in Queensland and about 5% in northern New South Wales. This sugarcane is grown along 2,100 km of coastline between Mossman in Far North Queensland and Grafton in northern New South Wales. Approximately 4,000 farms grow sugarcane on around 380,000 hectares. At time of publication, these farms supply 22 mills, owned by 9 milling companies.
+
+More than 80% of all sugar produced in Australia is exported as bulk raw sugar, positioning Australia as one of the largest raw sugar exporters in the world. ABARES estimates the value of the industry’s exports at $1.923 billion in 2020-21. In recent years, Asia has become a major focus with key export markets including South Korea, Indonesia, Japan and Malaysia.
+
+Cane growers and sugar millers are mutually dependent. Harvested cane is perishable and needs to be processed as soon as possible after cutting, limiting the choice of mills for individual growers to supply their cane. In Australia a limited number of companies own most of the mills – so, even when a grower has a choice of mill, the available mills may be owned by the same company. This also means that mills are reliant on local growers to ensure there is enough cane throughput to keep those mills operational.
+
+Deregulation of marketing arrangements
+
+On 1 January 2006 the Sugar Industry Act 1999 (Qld) was amended to deregulate export marketing arrangements for the Queensland sugar industry.
+
+Before deregulation, QSL had a single-desk monopoly to market all exported raw sugar. Deregulation allowed the emergence of multiple marketers of sugar, removing the arrangement that allowed QSL to operate as a single-desk marketer for Australia.
+
+In 2014, 3 millers announced they would not enter into new supply agreements with QSL for all raw sugar they produced, including grower economic interest (GEI) and miller economic interest sugar (MEI) sugar (see Glossary). Instead, the millers opted to market all the raw sugar themselves from 2017.
+
+In 2015 the Sugar Industry Act 1999 (Qld) was amended again, giving growers the right to require milling companies to direct GEI sugar to third-party marketers such as QSL. It also provided for pre-contract arbitration between growers and millers for cane supply agreements (CSAs). The amendments also introduced on-supply agreements (OSAs) between millers and marketers but did not provide for their pre-contract arbitration.
+
+What problem was the regulation meant to solve?
+
+The code regulates the conduct of growers, mill owners and marketers (of GEI sugar) in relation to contracts or agreements for the supply of cane or the on supply of sugar. It has 4 main components:
+
+The obligation for cane growers, mill owners and marketers to act in good faith in all their dealings with each other, including when undertaking arbitration under the code.
+
+Grower marketing choice for any sugar for which growers bear the price risk (GEI sugar)
+
+Establishing a process for pre-contract arbitration between mill owners and marketers (OSAs)
+
+Establishing a process for pre-contract arbitration between cane growers and mill owners (CSAs)
+
+Geographical and practical factors relating to harvesting and transporting cane to a mill mean that opportunities for competition are limited prior to the milling of cane into raw sugar. Most growers within the catchment of a particular mill are limited to making a CSA with that mill. Raw sugar is a less perishable product than harvested cane and can be stored and transported more easily, so there is a greater opportunity for competition in the post-milling part of the supply chain. The ‘grower’s choice of marketer’ provisions in the code were introduced to ensure growers have the choice of who markets the sugar in which they have an economic interest. This ensures that in a deregulated environment competition is encouraged.
+
+The code also provides a framework for pre-contract arbitration when cane growers, sugar millers or sugar marketers fail to agree to terms of contracts for the supply of cane or the on-supply of sugar. Cane supply agreements generally cover 3 harvest seasons and establish, amongst other things, the payment terms between cane growers and sugar millers. On-supply agreements deal with the supply of the sugar by a mill for sale by a marketer.
+
+We consider the code provides clear avenues for dispute resolution, through a pre-contract arbitration framework. In early 2020 the code was used for the first time to reach an arbitrated outcome for a CSA between growers and millers.
+
+For more information about the purpose of the code, see Schedule 1, Part 1, Clause 2 of the code and the Code of Conduct Explanatory Statement.
+
+Why was government action needed?
+
+In the lead up to the 2017 harvest, negotiations between cane growers, millers and marketers had stalled. Without contracts in place, growers cannot supply cane to a mill.
+
+The first (and only) arbitration process under amendments made by the Queensland Parliament to the Sugar Industry Act 1999 (Qld) in late 2015 resulted in a determination from the arbitrator that the arbitration provisions were unconstitutional and invalid.
+
+For more information about the circumstances leading to the introduction of the code, see the 2018 Review of the Sugar Code of Conduct.
+
+What policy options were considered?
+
+Six policy options were considered:
+
+maintaining the status quo (no regulation)
+
+industry-led mediation
+
+engaging the Australian Competition and Consumer Commission (ACCC)
+
+arbitration under the Sugar Industry Act 1999 (Qld)
+
+regulation through a code of conduct under the Competition and Consumer Act 2010 (Cth).
+
+Maintaining the status quo (no regulation)
+
+The Queensland Government deregulated marketing arrangements for the Queensland sugar industry in January 2006, through amendments to the Sugar Industry Act 1999 (Qld). The amendments allowed parties to continue to freely negotiate contractual terms but prevented parties to a dispute from having it resolved by an arbitrator.
+
+From 2014 to mid-2017 some growers and millers attempted to commercially negotiate contract terms for the 2017 season onwards. However, they were unable to reach an agreement, resulting in an impasse.
+
+Industry-led mediation
+
+In late 2015, prior to the passing of the Sugar Industry (Real Choice in Marketing) Amendment Bill 2015 (Qld) and 2 years prior to the introduction of the code, industry participants attempted mediation when their commercial negotiations failed to reach agreements. These mediations were also unsuccessful in finalising agreements.
+
+Engaging the ACCC
+
+The Australian Competition and Consumer Commission (ACCC) is an independent Commonwealth statutory authority that enforces the Competition and Consumer Act 2010 (Cth), promoting competition and fair trade in markets to benefit consumers, businesses and the community. Prior to and following the implementation of the code in April 2017, the ACCC was approached by industry stakeholders to investigate alleged breaches of the Act and/or the code. None of these investigations have warranted ACCC enforcement action.
+
+Arbitration under the Sugar Industry Act 1999 (Qld)
+
+In late 2015, in response to the negotiation impasse, the Queensland Parliament passed the Sugar Industry (Real Choice in Marketing) Amendment Act 2015 (Qld), amending the Sugar Industry Act 1999 (Qld) to provide for pre-contract arbitration between growers and millers for CSAs.
+
+In late 2016 Burdekin District Cane Growers used the pre-contract arbitration provisions for the first time to seek arbitration with Wilmar. On 6 March 2017 the arbitrator handed down his decision, finding that the pre-contract arbitration amendments were unconstitutional and invalid (under the Queensland Constitution). The arbitrator’s decision left the parties without an outcome and the negotiation of contract terms for the 2017 season remained stalled. The decision also created uncertainty for industry about regulatory arrangements available for pre-contract arbitration.
+
+The aim of the mediation was to agree to the principles of a contractual framework that would govern contract negotiations between growers and millers, with the possibility of a formal, ongoing role for the ACCC.
+
+The proposal was initially supported by growers and millers, but this support was withdrawn following delays in agreeing on the process, and mediation did not occur.
+
+During consultations for the 2018 statutory review of the code, some growers and millers expressed their doubts that government-led mediation would have been successful, given the inability to achieve a timely outcome from earlier industry-led mediation.
+
+Regulation through a code of conduct
+
+On 4 September 2014 the Australian Senate asked the Senate Rural and Regional Affairs and Transport References Committee to investigate current and future arrangements for the marketing of Australian sugar. On 10 December 2014 the then Minister for Agriculture, the Hon Barnaby Joyce MP, announced the formation of a Sugar Marketing Code of Conduct Taskforce to consider whether a code of conduct for sugar marketing was needed, and whether it should be mandatory. These 2 processes occurred simultaneously, and their final reports were released on 24 and 25 June 2015 respectively.
+
+The Rural and Regional Affairs and Transport References Committee (RRAT 2015) made a single recommendation:
+
+the committee recommends the development and implementation of a mandatory sugar industry Code of Conduct, acknowledging that, provided appropriate stakeholder consultation is undertaken, the work of the Sugar Marketing Code of Conduct Taskforce may provide a foundation upon which a Code of Conduct may be established.
+
+The Sugar Marketing Code of Conduct Taskforce recommended the government prescribe a mandatory sugar code of conduct under section 172 of the Competition and Consumer Act 2010 (Cth). A mandatory code was recommended over a voluntary code because it binds all parties to the terms of the code.
+
+These recommendations, combined with industry calls for action, the continuing negotiation impasse and the imminent 2017 crushing season, resulted in the government deciding to establish the Competition and Consumer (Industry Code—Sugar) Regulations 2017 under the Competition and Consumer Act 2010 (Cth).
+
+The minimalist nature of the code, as it is smaller in regulation than codes of other industries, reflects that it was designed to provide a process for pre-contractual arbitration (in addition to good faith provisions) as a safety net for the industry in situations where parties are unable to reach agreement on commercial terms.
+
+What were the impacts of the regulation?
+
+The 2018 review of the code identified that the sugar industry remains divided on the impacts of the code. Growers report a positive impact and millers report a negative impact.
+
+The code was not used to trigger arbitration in 2017. However, during the 2018 review, growers claimed the presence of the code was critical in finalising OSAs and CSAs. Conversely, millers claimed that negotiations were close to finalisation by commercial means prior to the code’s introduction. Millers also stated that the code has added uncertainty, complexity and cost to sugar industry operations, deterring investment and undermining competitiveness.
+
+The 2018 review found the code should be retained because it provides clear avenues for dispute resolution and it supports the industries contracting and negotiations. The review also noted that although the industry is working together on a number of challenges, growers and millers may not reach agreement on commercial terms without regulatory support.
+
+In January 2020 the arbitration provisions of the code were used for the first time, to arbitrate a dispute over CSAs between growers and millers in the Tully district. Although the arbitration outcome is commercial-in-confidence, we know the parties successfully entered into CSAs and were able to proceed to harvest. The code requires arbitration costs to be borne by the parties. So, despite the arguable positive impact, arbitrated outcomes still result in an additional financial cost to industry.
+
+Some impacts of the code (such as the cost of arbitration) can be easily measured, but others are more difficult to measure. For example, the code encourages competition in the post-milling part of the supply chain by ensuring that OSAs between millers and marketers guarantee a grower’s choice of marketer for the sale of the grower’s sugar. We can’t directly cost the benefit of these provisions, such as the impact on the price returned to growers, but they contribute to the overall goal of increased competition. We also can’t determine the exact impact that delayed contracts may have had on the price that growers received. However, we acknowledge that the world sugar price decreased during this time. In addition, the number of marketing products available to growers has increased significantly. Measuring the impact of other provisions within the code (such as grower choice) is further complicated because they duplicate existing state legislation that industry already complies with.
+
+Millers argue that the introduction of the code has increased complexity around the ownership of raw sugar due to:
+
+the recognition of GEI sugar
+
+the ability to choose who markets that sugar
+
+the potential for pre-contract arbitration determinations to affect contract terms between growers, millers and marketers.
+
+However, these claims are difficult to measure.
+
+Industry reviews of the code
+
+Representative bodies for growers and millers have both produced reports that considered the impacts of the code.
+
+CANEGROWERS
+
+On 12 August 2018, Australian Cane Farmers Association, Burdekin District Cane Growers Limited, CANEGROWERS and Queensland Sugar Limited commissioned Synergies Economic Consulting to review the costs and benefits of the code. The report found:
+
+The efficiency and productivity benefits of the code are largely attributable to the removal of misaligned incentives between mill owners and growers and the improved transparency and accountability of marketing outcomes. (CANEGROWERS 2019)
+
+The report also found:
+
+Whilst there was limited quantitative evidence available as the code was only implemented in April 2017, there was available evidence of the code’s impact on industry participants’ conduct to inform the economic assessment. The key public benefits of the code arose from improving the competitiveness of sugar marketing and with it:
+
+Improving the transparency and accountability in market
+
+Encouraging innovation in product development and risk management
+
+Avoiding industry disruption arising from tension between millers and growers
+
+Instilling greater confidence in marketing outcomes for growers and improving the economic climate for cane production, enabling scale economies in milling to be achieved; and
+
+Avoiding the adverse effects on communities arising from the conflict-of-interest millers face when marketing sugar in the absence of competition.
+
+The report also noted the costs to the industry:
+
+The implementation of the code has imposed costs on industry participants, including upfront costs (sunk costs) in adjusting to the code, in particular the re-negotiation of CSAs and establishment of on-supply agreements, that are now largely sunk. The Code will result in future costs being incurred associated with:
+
+Competition in the market for the marketing of sugar, which is part of the process required to achieve the efficiency gains from competition
+
+Contracting and negotiating costs being the costs of contracting and negotiating CSAs and on-supply agreements under the code, which are unlikely to be like what would arise in the absence of the code, especially over time
+
+Product development costs, which are the costs associated with product innovation as part of the competitive process and integral to the realisation of gains from this process; and
+
+Grower education costs, which are necessary to ensure that growers understand the impact of the code, the implications of grower choice provisions on the opportunity to enhance their enterprises. A significant component of these grower education costs is likely to be one-off costs.
+
+Australian Sugar Milling Council
+
+The Australian Sugar Milling Council (ASMC) publication Regulation overload, and in its submission and supplementary letter to the 2018 review of the code, provided the ASMC’s views on the code. The ASMC’s submission to the 2018 review of the code recommended that:
+
+the code should be repealed to allow industry to focus on commercial relationships and commercial, rather than regulated, mechanisms to manage production and marketing of Australian sugar
+
+industry bodies should collaborate on the development of a whole-of-industry revitalisation, strategic plan, through wide consultation with industry participants, to provide a roadmap towards a more sustainable and profitable Australian sugar industry. (ASMC 2019)
+
+The ASMC (2019) also stated:
+
+While we acknowledge the views of some growers in relation to the code, the milling sector’s experience is different. We believe the code, and the Queensland sugar legislation, has only added risk and cost to the industry.
+
+We also note that the most important relationship within the Australian sugar industry is that between a sugarcane grower and their mill. Without the support of local growers, mills would have no sugarcane to mill to produce raw sugar, and without local mills, sugarcane growers would have no market for their product.
+
+In a supplementary letter to the 2018 review of the code, the AMSC (2018) said:
+
+…sugar millers and cane growers face significant challenges to their short and medium-term viability as a result of low prices, global trade distortions, threats to the industry’s social licence, rising input costs, and regulatory imposts. Against this backdrop industry bodies need to focus on working together towards a more sustainable and profitable Australian sugar industry. The Code is a costly distraction.
+
+Financial cost estimations
+
+Before the Sugar Code of Conduct established a process for pre-contract arbitration, millers and growers would commercially negotiate CSAs. The parties could seek mediation if these negotiations came to an impasse. Before the code, there was no mechanism to force parties to an agreement if one party did not want to mediate or if mediation failed. The cost of usual commercial negotiations and voluntary mediation are not included in the calculations because they existed before the code.
+
+The code established the process for pre-contract arbitration if negotiation and mediation failed. The ongoing substantive compliance costs in Table 1 only relate to estimated costs arising from arbitration introduced by the code. We estimate the one-off and ongoing compliance costs of the code to total around $16.7 million to the whole industry over 10 years – from 2017, when the code came into force, to 2026. We have assumed a total of 4 arbitration processes over that period, in addition to the one that occurred in 2020. We have chosen a 10-year time frame because this is the default duration for quantifying regulatory costs in a post-implementation review. If these 4 arbitration processes do not eventuate, the regulatory costs would be substantially lower than estimates in Table 1.
+
+The estimated cost is limited to establishment costs in 2017 (Year 1), arbitration costs in 2020 (Year 4) and possible arbitration costs in 2023 (Year 7) and 2026 (Year 10). These arbitration costs only occur in years when renewal of 3-year rolling contracts is negotiated. Arbitration costs were incurred in 2020, but the costs noted in 2023 and 2026 will only be incurred if arbitration is triggered. We recognise that future arbitration processes are unlikely to incur identical costs to the 2020 arbitration process.
+
+Table 1 outlines the estimated cost of the code, including the implementation costs and ongoing costs for growers, millers and marketers, assuming normal negotiations fail and arbitration is pursued under the process established by the code. Cane supply agreements generally cover 3 harvest seasons. Agreements made under the code in 2017 covered the 2017, 2018 and 2019 harvests. We have included estimated costs of renegotiation of one agreement following the single arbitration process in 2020 (year 4) and estimated costs from potential renegotiations in 2023 (year 7) and 2026 (year 10) assuming normal negotiations fail, and arbitration is triggered by the code. Some benefits may arise from arbitration for some parties, as outlined in other sections of this PIR.
+
+Table 1 Estimated commencement and arbitration costs under the code
+
+a Based on one actual and 2 estimated arbitration processes over a 10-year period. b Based on 2 estimated arbitration processes over a 10-year period. c Based on a 10-year post-implementation period.
+
+Note: Cost estimates are based on discussions with the arbitrator and with industry.
+
+Financial costs estimations: breakdown and assumptions
+
+The costs have been estimated using the Regulatory Burden Measurement (RBM) framework 2020. Only costs that can be directly attributed to the regulation are included. Costs incurred from commercial decisions on legal challenges, advocacy, travel, political or other communication campaigns, and other discretionary spending are not included. The costs in Table 1 have been calculated using RBM 2020 rates.
+
+The financial costs of the code can be split into 3 components:
+
+one-off compliance costs (sunk costs)
+
+ongoing substantive compliance costs to cane growers and sugar millers
+
+ongoing substantive compliance costs to sugar millers and third-party marketers.
+
+One-off compliance costs (sunk costs)
+
+Consultation with industry revealed a range of one-off compliance costs associated with the introduction of the code. Sugar milling companies incurred costs associated with preparing businesses for the change in marketing conditions. One-off compliance costs included:
+
+legal advice for OSA and CSA contracts
+
+accountancy and website changes
+
+information material
+
+promotion
+
+learning and development for the new arrangements.
+
+Education costs for cane growers were also included because growers needed to understand the impact of the code, the grower choice options put forward by marketers and changes to marketing nomination systems.
+
+Cane grower representative bodies and sugar milling companies also incurred education costs for employees. In some cases this occurred across multiple regional offices. We acknowledge some of the costs incurred from the introduction of the code are difficult to separate from costs incurred from the introduction of grower choice through the Sugar Industry (Real Choice in Marketing) Amendment Act 2015 (Qld).
+
+Ongoing substantive compliance costs
+
+Ongoing substantive compliance costs are the costs associated with undertaking business under the code – direct arbitration costs and costs associated with implementing the arbitration decision that would not have been incurred without an arbitration decision.
+
+There is an ongoing cost to industry associated with complying with the code. These costs can include legal representation in arbitration and other costs for the renegotiation of contracts following an arbitration decision. We have included an estimated cost associated with the 2020 arbitration process already undertaken. The actual cost is commercial-in-confidence.
+
+For millers, growers and marketers, Table 1 assumes:
+
+that arbitration will occur between one miller and grower body and one miller and marketer in year 7 (2023) and year 10 (2026) respectively
+
+actual costs to industry would be higher if more than one arbitration was required in each of these future years for millers and growers and for millers and marketers
+
+the cost estimate of the arbitration process is based on the estimated costs that were incurred during the first arbitration under the code in 2020.
+
+For millers and growers only, Table 1:
+
+does not include the cost of commercial negotiations for CSAs between millers and growers because these costs existed before the code
+
+assumes commercial negotiations between millers and growers will occur in year 7 (2023) and year 10 (2026), to coincide with the renewal of milling contracts that were negotiated prior to and in year 4 (2020)
+
+includes estimated costs arising from arbitration, should negotiations fail
+
+assumes individual cane growers will allow grower representatives to bargain on their behalf, forgoing individual legal costs.
+
+For millers and marketers only, Table 1:
+
+does not include the cost of commercial negotiations for OSAs between millers and marketers because these costs existed before the code
+
+includes estimated costs arising from arbitration, should negotiations fail.
+
+Table 2 Hourly labour costs, by category - figures taken from the RBM.
+
+Note: The formula used for a labour cost for businesses and representative organisations is: labour cost = price × quantity = (time required × labour cost) = (times performed × number of businesses or organisations × number of staff).
+
+Which stakeholders have been consulted?
+
+The Australian sugar industry has been the subject of numerous inquiries and reviews over the past 40 years (see Appendix A). This post-implementation review draws on the consultations undertaken for the 2018 statutory review and the 2015 Senate committee review.
+
+2018 statutory review consultation
+
+The review consultation included meetings with key industry stakeholders and 7 public forums in sugar growing regions. The review received 60 written submissions from across the industry, including from growers, millers, marketers and representative bodies.
+
+Grower perspectives
+
+Many growers and representatives advised the review team that they considered the code an important safety net to protect their access to choice in marketing. They emphasised the importance of the availability of pre-contract arbitration to break negotiation deadlocks, noting their reduced bargaining power due to availability of – in most cases – only one miller in their geographical region. Grower representatives mentioned the uncertainty surrounding arbitration under the Sugar Industry Act 1999 (Qld), which meant that code provisions were potentially the only arbitration available. Grower representatives also highlighted the potential value of the code’s good faith provisions.
+
+Grower representatives also stated the Sugar Industry Act 1999 (Qld) – with support from the code – is ‘the final step in the deregulation of the industry’, because it enables competition in the marketing arm of the supply chain.
+
+Miller perspectives
+
+Millers stated that the code has added uncertainty, complexity and cost to sugar industry operations, deterring investment and undermining competitiveness. They said that investments not committed to before the code was established have been postponed or cancelled.
+
+Millers emphasised that uncertainty exists about whether the code’s pre-contract arbitration provisions could be used to cover the by-products of raw sugar production (such as molasses or energy generated by bagasse) or revenue derived from future diversification investments made by millers.
+
+Review findings
+
+The review found that the code provides clear avenues for dispute resolution, and it supports industry contracting and negotiation.  The review recommended the code be retained to provide certainty for growers and millers about their arbitration options.
+
+2015 Senate committee review consultation
+
+The Senate Rural and Regional Affairs and Transport References Committee’s review into the Current and future arrangements for the marketing of Australian sugar received 51 written submissions and held 3 public hearings, in Townsville, Mackay and Murwillumbah. The committee took evidence from growers, millers and their representative bodies, and local government bodies.
+
+For more information on the review consultations, including the written submissions, see the:
+
+2018 Review of the Sugar Code of Conduct
+
+2015 Senate Rural and Regional Affairs and Transport References Committee Current and future arrangements for the marketing of Australian sugar.
+
+Other consultation
+
+We consulted the arbitrator of the case between Tully CANEGROWERS and Tully Sugar Ltd, who provided us with information that was not commercial-in-confidence. The arbitrator emphasised the significant consideration that was given to the arbitration process and determination, including assessment of previously commercially negotiated CSAs. The arbitrator also provided information about the fee structure.
+
+To inform this PIR, we also consulted the Australian Sugar Milling Council, CANEGROWERS and AgForce Cane individually, and have had informal discussions with individuals and stakeholders with knowledge of the sugar industry.
+
+The Office of Best Practice Regulation and the Treasury were also consulted in the preparation of this PIR.
+
+Has the regulation delivered a net benefit?
+
+Although there is no consistent view across the sugar industry about the impact of the code with cane growers reporting a positive impact and millers reporting a negative impact. On balance, we consider the code has delivered a net benefit to the Australian sugar industry because it provides a mechanism for resolving potentially lengthy and costly negotiation deadlocks. However, we recognise the code introduces a financial cost to the industry.
+
+The sugar industry contributes over $2 billion (gross value of production) to the Australian economy each year and supports the rural and regional communities in which it operates.
+
+Preferably, commercial terms of contracts would be reached through negotiation rather than regulation. However, a regulated pre-contract arbitration process ensures that parties who are unable to commercially negotiate terms will not become stuck in a prolonged and potentially detrimental impasse like that seen leading up to the introduction of the code.
+
+As noted in the 2018 statutory review, a small proportion of parties in the Australian sugar industry do not appear to be able to reach commercial negotiation of terms without regulation, as occurred in 2020 with the first arbitration under the code.
+
+Arbitration can be expensive, and these costs are in addition to those already incurred when negotiating commercial terms. However, we consider the code provides a net benefit due to the certainty the binding arbitration process provides to growers.
+
+How was the regulation implemented and evaluated?
+
+Implementation
+
+The code came into effect on 5 April 2017 to regulate the conduct of growers, mill owners and marketers of GEI sugar. The role for government under the code is limited. The code was primarily designed to provide pre-contractual arbitration as a safety net for the industry in situations where the parties are unable to reach agreement on commercial terms.
+
+The arbitration provisions of the code were first used by the sugar industry in late 2019. Under the pre-contract arbitration provisions, Tully CANEGROWERS wrote to the Treasurer requesting the appointment of an arbitrator. The Treasurer, in consultation with the Minister for Agriculture, appointed an arbitrator in December 2019 to hear the case. The arbitration action and determination occurred in early 2020. Determinations by an arbitrator are binding and the parties entered into CSAs as per the arbitrator’s award.
+
+Evaluation
+
+The review found the code should be retained because it provides clear avenues for dispute resolution, supporting productive industry contracting and negotiation. The review report was handed to government in November 2018 and publicly released on 12 December 2018. See Appendix C for the review’s recommendations and Appendix D for the government response to the review’s recommendations.
+
+Appendix A: Previous inquiries
+
+Table A1 Sugar industry inquiries and reviews 1983 to 2018
+
+Appendix B: Terms of reference
+
+2018 Sugar Code of Conduct review terms of reference
+
+The review terms of reference were to inquire into:
+
+The effect that Commonwealth Government intervention by prescribing the Code has had on Australia’s raw sugar export industry and whether it continues to be appropriate for the purposes of
+
+regulating the conduct of growers, mill owners and marketers of sugar in relation to contracts or agreements for the supply of cane or the on-supply of sugar
+
+ensuring that supply contracts between growers and mill owners have guaranteed the grower’s choice of the marketing entity for the grower economic interest sugar manufactured from the cane the grower supplies
+
+requiring or providing for pre-contractual arbitration of the terms of agreements for the supply of cane or the on-supply of sugar if the parties fail to agree to those terms.
+
+The current and future impacts on competition of the Code in relation to Australia’s raw sugar export market, including for the supply of cane and marketing services of grower economic interest sugar.
+
+The regulatory impacts of the Code on businesses in the raw sugar export supply chain.
+
+The extent to which the Code has delivered a net benefit for the Australian community.
+
+Any other related matters.
+
+The review provided advice on whether the code should:
+
+remain in operation without amendment
+
+remain in operation with amendment
+
+or
+
+be repealed.
+
+Appendix C: Review recommendations
+
+2018 Sugar Code of Conduct review recommendations
+
+The code should be retained to continue to provide certainty for growers and millers regarding their arbitration options while they conclude their adjustment to commercially negotiated cane supply contracts.
+
+The code should be amended to make clear that pre-contractual arbitration applies to raw sugar only and not to any other products obtained from sugarcane. This will provide millers with regulatory certainty and facilitate investment in milling assets and development of innovative products.
+
+The provision that allows growers to choose their marketer should be repealed from the code. It is inconsistent with the objectives and benefits of the recent evolution of the industry’s regulatory arrangements, and duplicates obligations already contained in the Sugar Industry Act 1999.
+
+The code should be reviewed in 2 years to assess whether commercial relationships between the parties have matured and whether the code is still needed.
+
+Australian sugar industry representative bodies should work collaboratively to develop a long-term strategy to address shared future challenges.
+
+All industry parties should focus on the longer term and fundamental issues jeopardising the industry’s future.
+
+Appendix D: Government responses
+
+Government responses to the 2018 Sugar Code of Conduct review recommendations
+
+December 2018 First government response to the 2018 Review
+
+The code was introduced to regulate the conduct of growers, mill owners and marketers (of grower economic interest sugar) in relation to contracts or agreements for the supply of cane or the on-supply of sugar, including establishing a process for pre-contractual arbitration where the parties fail to agree to terms of contracts or agreements.
+
+1. The code should be retained to continue to provide certainty for growers and millers regarding their arbitration options while they conclude their adjustment to commercially negotiated cane supply contracts.
+
+2. The code should be amended to make clear that pre-contractual arbitration applies to raw sugar only and not to any other product obtained from sugar cane. This will provide millers with regulatory certainty and facilitate investment in milling assets and development of innovative products.
+
+5. The Australian sugar industry representative bodies should work collaboratively to develop a long-term strategy to address shared future challenges.
+
+6. All industry parties should focus on the longer term and fundamental issues jeopardising the industry’s future.
+
+4. The code should be reviewed in two years to assess whether commercial relationships between the parties have matured and whether the code is still needed.
+
+3. The provision that allows growers to choose their marketer should be repealed from the code. It is inconsistent with the objectives and benefits of the recent evolution of the industry’s regulatory arrangements, and duplicates obligations already contained in the Sugar Industry Act 1999.
+
+October 2021 Updated government response to the 2018 Review
+
+The government’s response to the remaining four recommendations remains unchanged.
+
+Glossary
+
+References
+
+Australian Sugar Milling Council 2018, Industry overview, Brisbane, accessed 2 October 2020.
+
+Australian Sugar Milling Council 2019, Regulation overload, accessed September 2020.
+
+Borrell, B & Wong, G 1986, Efficiency of transport, milling and handling in the sugar [cane] industry: a case study of the Mackay region, Bureau of Agricultural Economics, Australian Dept. of Primary Industry, Canberra.
+
+Synergies Economic Consulting 2019, Assessing the economic benefits and costs of regulation in Australia’s sugar industry, report for CANEGROWERS and the Australian Cane Farmers Association,.
+
+CANEGROWERS 2018a, Industry Research, Development and Extension (RD&E): Position statement, Queensland Cane Growers Organisation, Brisbane.
+
+——2018b, Marketing Choice: Position statement, Queensland Cane Growers Organisation, Brisbane.
+
+Centre for International Economics 2005, Unshackling Queensland sugar (pdf 294kb), Canberra.
+
+Department of Prime Minister and Cabinet, Office of Best Practice Regulation 2016, Post-implementation review Guidance Note, Canberra.
+
+Gropp, L, Hallam, T & Manion, V 2000, Single-desk marketing: assessing the economic arguments, Productivity Commission, Melbourne.
+
+Industries Assistance Commission 1983, the Sugar Industry – Interim Report, Canberra.
+
+Industry Commission 1992, The Australian sugar industry, March, Canberra.
+
+Industry Commission 1991, Statutory marketing arrangements for primary products, March, Canberra.
+
+National Competition Council 2000, Securing the future of Australian agriculture: sugar, Melbourne.
+
+The Centre for International Economics - Current and future arrangements for the marketing of Australian sugar submission 10 - Attachment 1.
+
+Replacement Explanatory Statement - Competition and Consumer (Industry Code—Sugar) Regulations 2017.
+
+Ryan, S 2014, ‘General Manager’s comment’, The Australian Cane Farmer, July, p. 3.
+
+Saefong, MP 2018, Sugar prices are the lowest in a decade, Commodities Corner, MarketWatch, Dow Jones & Co.
+
+State of Queensland 1999, Sugar Industry Bill 1999, Explanatory notes, Brisbane.
+
+Senate Rural and Regional Affairs and Transport References Committee 2015, Current and future arrangements for the marketing of Australian sugar, Canberra, June.
+
+Sugar Industry Reform Bill 2004 Bill, Explanatory Notes, Brisbane, accessed November 2020.
+
+Sugar Industry Review Working Party 1996, Sugar winning globally, Brisbane.
+
+Vaughan, B, AO,1996 Sugar - Winning Globally', Report by the Sugar Industry Review Working Party 1996 (SIRWP Report), Department of Primary Industries, Queensland. Brisbane, 1996.
+
+Williams, J 2003, Overview of Australian sugar marketing under full deregulation in Queensland, Agribusiness Financial Management, Melbourne.

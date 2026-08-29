@@ -1,0 +1,131 @@
+Australia’s national diagnostic network for aquatic animal diseases has been developed over time to
+support the many functions of Australia’s aquatic animal health management system. These include:
+confirmation or exclusion of exotic diseases
+implementing disease management measures
+enterprise health accreditation
+demonstration of regional or national disease status.
+Australia’s diagnostic network
+Australia’s diagnostic network draws on nodes of expertise throughout the national, state and Northern
+Territory government laboratories, research laboratories and private service providers. This high
+standard of diagnostic service is built upon:
+quality research
+validation of methods
+diagnostic and laboratory standards
+programs to support quality assurance.
+National reference laboratory for aquatic animal diseases
+The CSIRO Australian Centre for Disease Preparedness is the national reference laboratory for aquatic
+animal diseases and provides services for exclusion testing for significant diseases.
+Further information on Australia’s animal health laboratories, including laboratory policies and plans,
+laboratory tests, point-of-care tests, and reference laboratories and collaborating centres, is available on
+the department’s website.
+Field and laboratory diagnostic resources
+A range of field and diagnostic resources have been developed to ensure Australia maintains the
+capacity to identify and diagnose aquatic animal diseases of national significance.
+The Aquatic Animal Diseases Significant to Australia: Identification Field Guide aims to help people
+recognise diseases of significance to aquaculture and fisheries in Australia. The 5th edition of the field
+guide is the most recent revision and incorporates information on 53 aquatic animal diseases of finfish,
+crustaceans, molluscs and amphibians.
+The Department of Agriculture, Fisheries and Forestry (DAFF) maintains the list of Australian and New
+Zealand standard diagnostic procedures (ANZSDPs). ANZSDPs describe standardised diagnostic
+procedures that have optimal accuracy, robustness, sensitivity and specificity for animal health
+diagnostic laboratories in Australia and New Zealand. They seek to provide consistency between
+laboratories and develop a quality assurance system that includes proficiency testing programs.
+ANZSDPs are available for both terrestrial and aquatic animal diseases.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Aquatic ANZSDPs are developed to be consistent with the World Organisation for Animal Health
+(WOAH) Manual of Diagnostic Tests for Aquatic Animals (Aquatic Manual) but may exceed those
+requirements where special procedures and/or interpretation is necessary for Australian and New
+Zealand circumstances.
+Where an ANZSDP has not been developed for a particular test, the methods recommended in the 
+WOAH Aquatic Manual should be used.
+National diagnostic capability and capacity building
+projects
+The department, in collaboration with state and territory governments and industry, coordinates
+activities to manage aquatic animal health nationally. This includes activities to enhance Australia’s
+aquatic animal health diagnostic system. These projects are outlined below.
+Status: Ongoing.
+Project: 2022–2025
+The Australian proficiency testing (PT) program for aquatic animal disease enables Australian
+laboratories to assess their diagnostic capabilities to correctly detect priority aquatic animal diseases
+using molecular methods. Participants include private, university and state/territory government
+laboratories. Participating laboratories benefit from benchmarking to support reproducibility and
+validation of tests, strengthening competencies and laboratory techniques, and support for
+accreditation.
+Australia’s government and private laboratories can participate in PT for 8 aquatic animal disease
+agents:
+haliotid herpesvirus-1 (HaHV-1)
+yellowhead virus-1 (YHV1)
+ostreid herpesvirus-1 microvariant (OsHV-1)
+nervous necrosis virus (NNV)
+white spot syndrome virus (WSSV)
+megalocytiviruses (MCV)
+Bonamia exitiosa
+Perkinsus olseni.
+The national PT program is run by the CSIRO Australian Centre for Disease Preparedness ISO
+accredited PT scheme provider. Information on the regional PT program is available on the 
+International activities webpage.
+Status: Ongoing.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Neptune is Australia’s aquatic animal disease information management system, collaboratively
+developed by the CSIRO and the department. It is an online database of all published reports of aquatic
+animal diseases and pathogens in Australia, some of which contain high resolution whole-slide digital
+images of histopathology. Neptune will be made accessible to interested stakeholders as a tool for
+sharing aquatic animal health knowledge.
+Australia’s aquatic animal community, including national, state and territory governments, aquatic
+animal industry, researchers and other aquatic animal health professionals, have all contributed to the
+information found on Neptune.
+Next steps in Neptune’s development have been included in AQUAPLAN 2022-2027.
+Status: Ongoing.
+Pooling of samples (for example using 5 samples and testing them as one) is a useful technique for
+reducing testing costs and increasing sampling intensity. However, by its nature, pooling could
+potentially dilute very low numbers of pathogens in samples to below detectable levels, reducing
+sensitivity. In this project, the effect of pooling on diagnostic sensitivity of tests was evaluated for the
+purposes of surveillance (including sub-clinical infection) of white spot syndrome virus (WSSV), yellow
+head virus-1 (YHV-1) and megalocytiviruses, all of which are aquatic animal pathogens of national and
+trade significance. The intended outcome was to determine the effect of pooling on diagnostic
+sensitivity, enable testing to be more cost-effective, and increase confidence in result accuracy.
+A summary of the project results will be provided here once completed.
+Status: WSSV paper published (see below). OsHV-1 paper yet to be published.
+Validation of diagnostic tests for aquatic animal diseases has been recognised by the World
+Organisation for Animal Health (WOAH) as necessary to improve confidence in test results and to
+provide evidence required for accurate interpretation of laboratory test results.
+Two studies were conducted through this project, one for white spot syndrome virus (WSSV) and one
+for ostreid herpesvirus-1 (OsHV-1).
+The WSSV study aimed to generate data on performance characteristics for 2 real-time TaqMan PCR
+assays (CSIRO and WOAH WSSV qPCRs) for the purposes of (1) detection of WSSV in clinically
+diseased prawns and (2) detection of WSSV in apparently healthy prawns. The assays demonstrated
+comparable performance characteristics, and the results contributed to the validation data required in
+the WOAH validation pathway for the purposes of detection of WSSV in clinically diseased and
+apparently healthy prawns.
+The OsHV-1 study is yet to be published. Information on that study and a link to the paper will be
+provided once complete.
+Published papers:
+
+Article
+Access
+Moody NJG, Mohr PG, Williams LM, Cummins DM, and others. (2022) Performance
+characteristics of two real-time TaqMan polymerase chain reaction assays for the
+detection of WSSV in clinically diseased and apparently healthy prawns. Diseases of
+Aquatic Organisms, 150:169-182.
+https://doi.org/
+10.3354/
+dao03687
+The published paper for OsHV-1 will be provided here once complete.
+For further information please contact the Aquatic Pest and Health Policy section at: aah@aff.gov.au.
+Source: https://www.agriculture.gov.au/agriculture-land/animal/aquatic/diagnostic-capability-and-resources

@@ -1,0 +1,167 @@
+China now requires Australian businesses to register their establishments and food products in the China Import Food Enterprise Registration (CIFER) system before exporting food products to China. These rules apply to all Australian:
+
+- manufacturers
+
+- processors
+
+- cold storage facilities.
+
+Food exporters who do not manufacture, further process or store products are not required to register in the CIFER system. However, if they choose to export a product to China, they must source it from an establishment registered in CIFER.
+
+CIFER is administered by China
+
+The CIFER system is administered by the General Administration of Customs of the People’s Republic of China (GACC) and applications are assessed by China.
+
+There are two registration pathways depending on the product:
+
+- direct self-registration.
+
+Verification needed from the department
+
+Some applications require DAFF verification of information provided by the applicant to support their CIFER registration.
+
+The food products requiring official verification are described in Article 7 of Decree 248 of China’s imported food legislation. These products include certain fresh foods, such as meat, dairy products and seafood.
+
+Generally, if the food product is not on the Article 7 list, then it needs to be self-registered in CIFER.
+
+Direct self-registration
+
+Products that do not require departmental verification must be directly registered on the CIFER system by the applicant. These food products are described in Article 9 of Decree 248.
+
+The department has no oversight of information submitted regarding these Article 9 products. Any troubleshooting or assistance must be sought directly from GACC through eport_zixun@customs.gov.cn.
+
+Establishments manufacturing or storing both Article 7 and 9 products
+
+Manufacturing and cold storage establishments that handle both Article 7 and Article 9 products should use the CIFER account obtained through the department.
+
+Establishments registered for Article 9 products that wish to add an Article 7 product are required to submit an ‘Account certification’ request through CIFER. The department will have a role in certifying the establishment is under the jurisdiction of the department which will then allow Article 7 products to be added to the account.
+
+CIFER registration process webinar
+
+A shortened version of the CIFER registration process webinar can be viewed below.
+
+Watch this webinar to learn more about the CIFER registration process, covering:
+
+- The history of the development of CIFER
+
+- The requirements to use CIFER
+
+- How to check who is registered in CIFER
+
+- CIFER account registration, modification and extension
+
+Information that was covered in the Q&A session in the latter part of the webinar can be found on the CIFER Help page.
+
+Watch
+
+China Import Food Enterprise Registration (CIFER) registration process webinar
+
+Speaking: Jamie Nicholls
+
+Thank you all for taking time out of your busy schedule to join us for the China Import Food Enterprise Registration system workshop. We value your time and we’re grateful for your participation and joining in. I’d like to begin by acknowledging the traditional custodians on the various lands we’re meeting in. Here in Canberra, our traditional custodians are those of the Ngunnawal people of the Canberra region. I’d like to do that in language.
+
+Dhawura, Nguna, Dhawura, Ngoonawal
+
+Yanggu, Ngalamanyin, Dhunimanyin
+
+Ngoonawalwari, Dhawurawari, Dindi, Wanggiralidjinyin
+
+This translates to:
+
+This is Ngunawal country.
+
+Today we meet on Ngunawal Country.
+
+We acknowledge and pay our respects to the Elders.
+
+Many of you, hundreds of you in fact, are joining from other lands around our nation. And I acknowledge those traditional custodians of the lands, the waters, the seas and communities as well. I extend that respect to elders past, present and emerging, and also all First Nations people on the webinar today, whether you’re in Australia or from overseas. But we do recognise and thank the Ngunnawal people for being fantastic stewards of our lands for over 65,000 years.
+
+There are two presenters today – Glen Edmunds and Jon Cupit, followed by your interaction though a questions and answer session from the panel. We’ll be joined by James Healey for that panel.
+
+If you’d like to ask a question, in the menu bar at the top of your screen, you’ll see Q&A with a question. So that’s the chat function, you ask a question as presenters are speaking. Please include their name – Glen or Jon, and we’ll get those questions answered in the Q&A session after those two speakers present.
+
+We’ll publish all the questions and the answers today and we’ll include that on the DAFF website later and we’ll give you details after the presentations.
+
+So let’s get started. First presenter for today is Glen Edmunds. Now, Glen is leading the market access team involved in this process, and he’ll explain the history of development of CIFER, the China Import Food Enterprise Registration system. And the requirements to use it. So Glen, handing over to you, looking forward to hearing you talk. Thanks Glen.
+
+Speaking: Glen Edmunds
+
+Welcome everybody, and thank you for having us here to explain the CIFER system, or the China Import Food Enterprise Registration system. A little bit of history to try and help people understand why China has created this system. They had quite a lot of issues with food safety, whether they were infectious issues or food substitution issues, and up until about 2008 when they had the melamine contamination of baby food, which didn’t play very well in the media, and was widely publicised globally. As a result, China developed and implemented it’s food safety law of 2009 to consider international food standard setting organisations and their products, like Codex Alimentarius with their standards and guidelines. That law was further developed and amended in 2015, with further amendments being made since. And the development of that law included the tightening of regulations, also not only domestically but around imported food as well, with a requirement to register all export food manufacturing processing and storage facilities exporting food to China. So that’s the facilities in other countries, or supplying countries. On 1 January this year, 2022, as part of their continued improvements, China rolled out or implemented decree number 248, which is the regulations on the registration administration of overseas producers of imported food. So putting some teeth around, and some structure around what they want when it comes to imported food products and countries exporting to them. And out of that came the China import food enterprise registration system or cipher system, and we’ll refer to it as the cipher system from now on.
+
+It's a significant change, in that it requires that exporters, if they are manufacturers, further processers or storage facilities are required to actually register directly with China through their system. And I think that’s a difference to the listing that everyone may have experienced up until now, where Australia maintained the lists. Now China wants to maintain their own list. It’s similar to FDA registration and other country registrations as well.
+
+Some of you may be aware that there were previous iterations of a cipher system used by China, and this is for, I believe, in the dairy industry, there was actually some attempts at making this work prior to the latest addition. But I think now you’ll find that the only portal, or the only place you can effect change in the registration is actually going to be through this CIFER system as an operational or a single window system.
+
+So we will, when you lodge an application, you must understand that you’re lodging that application into a Chinese database but we actually have a window where we can see part of that data as it comes through and we must sign off to verify that that information is accurate and current and this will be discussed by Jon in her part of the presentation following.
+
+So I think important parts to note is really that this is not applying just to Australia, it applies to all of China’s trading partners. And as a result, we are just one of 70 – 100 countries at the moment that are impacted by this system. The establishments, as China has said, are responsible for their own registration into the China system. So you must complete the application, provide the information and submit the application through the CIFER system for either direct, if it’s a product that’s considered low risk and doesn’t require verification by the Department. Or your information will be forwarded to the Department so we can verify the information against our own registration of establishments and the information that we keep on record to ensure the accuracy of the information being provided to China.
+
+We can’t apply on your behalf – we have looked into this, but China will only accept applications from the enterprise itself and so the applications cannot be submitted by the Department on your behalf. And what you submit into the CIFER system should be considered as information that you are sending directly to China. I think that’s an important thing that most people must understand.
+
+The CIFER system is administered by the General Administration of Customs (GAC) and applications are accepted or rejected at their discretion. So they may come back with requests for additional information, and we are learning, as they are, as this system is rolled out, how best to meet the requirements. I think again, I’ll just reiterate that DAFF cannot approve applications. We can only verify the information that you provide, and provide that to China so that they can approve the application.
+
+Also remember that your registration under Australian law, if you have an appropriate product, has not changed. This must still be maintained, and it is essential that we actually have the same information, or the correct information to ensure that it aligns with what you submit to China when you submit your CIFER application.
+
+I’ll stop there, any questions we’re happy to take. We are constantly engaging China, through our embassy in China and also by correspondence to try and get as much information as we can, and to update the information available so that we can pass that on to industry and ensure that applications to be completed within a timely fashion.
+
+Jon, I’ll hand over to you now so you can talk further on the practicalities and the processes. Thank you.
+
+Speaking: Jamie Nicholls
+
+Thank you, Glen. Before Jon comes on then, I’ll just say thank you so much for that Glen. It’s wonderful to hear about that CIFER system, the single window, it’s a risk-based approach, and you outlined the limitations of our role as a Department, the roles of the establishments, and it was fantastic. We can come back to questions a bit later on, before Jon comes on to talk. Jon Cupit, over to you. You are another leading group within this process, the CIFER system. Thank you very much, over to you, Jon.
+
+Speaking: Jon Cupit
+
+Thank you Jamie, welcome everyone. As Jamie noted, my team is one of two that looks after the Department’s verification of CIFER registrations. As Glen spoke about earlier, the Department as a competent authority is involved in the verification of information and applications of the following products shown on your screen at the moment. These food categories are listed in article seven of decree 248, so they are often referred to as article seven food products, and they must have their CIFER registrations and applications verified by the Department prior to submission through to China for consideration. So those are the products that are kept on the screen.
+
+If your product that you send overseas was not listed on that screen, they can be often referred to as an article nine product, and that is essentially any other food export that was not in that list. And these are called article nine products. So we’ve referred to them on our website as article nine products.
+
+Article nine products, you do not need Departmental verification. So, you can self-register if you are sending a product that’s considered article nine directly through the CIFER system and send that information to GAC.
+
+If you’re an exporter, and you are not involved in the manufacturing, the processing and the storage of products, you are not required to register within the CIFER system. You instead, must ensure that you are sourcing your product from an establishment that is listed within CIFER. So we’ll include in the next slide where you can search that information. So this is a website, ciferquery.singlewindow.cn this is an external website that GAC maintains, and it is directly linked to CIFER. It shows all the current registrations currently held within the CIFER system.
+
+So anyone can access this site, so for exporters it is a useful tool to use to see and ensure the products you’re sourcing from the establishments are listed on this site. Or if you’re an establishment, it’s also a handy place to go to find your current details, for example your expiry date would be listed on there, and the products you’re currently registered for.
+
+When you go on this CIFER public queries site, you can search through various parameters on the top of the screen. So there’s a country and region you can search from, so enter Australia. You can search the overseas registration number, which for us in Australia, it’s most likely to be an establishment number if it’s an article seven product. You can search by product category, so for example you could search meat products, you could search aquatic products, edible grade products. You could also search the China registration number, if you know it, and that will give you the specific establishment or the specific company that you’re searching for.
+
+Now who holds CIFER accounts? In late 2021, establishments with a trade history with China were recommended to GAC by the Department to have accounts created for them. This was to assist with the implementation of CIFER to ensure that establishments had accounts ready to go for registrations when CIFER was fully implemented. So GAC created these accounts with very basic information, not full complete registrations, and that’s where we’re asking people to complete their registration details now. And that is the point of this webinar, to explain that process to you.
+
+The accounts that GAC created for each establishment will have product categories listed underneath them. If you’re an establishment that has multiple product types that you export overseas to China, for example if you send aquatic products, meat products, casings and edible grain, you may have multiple registrations listed under your establishment.
+
+GAC would have created these registrations for you, and that can be confirmed either through CIFER or you can go onto that CIFER public query site and see what your establishment is registered for there.
+
+As noted before, that CIFER public query site and within CIFER itself, your registrations will have expiry dates. Now that’s true for all registrations. Some registrations have expiry dates within the next 12 months. Some examples are aquatic products, some infant formula establishments, casings, meat products for example. They all have expiry dates within the next 12 months.
+
+If you have an expiry date coming up soon, you have a process you need to undertake before you can ask for an extension for those due dates, those expiry dates. You’ll have to update and complete your registration details before applying for an extension. We can go through that in more detail in a further slide.
+
+For those establishments who have expiry dates well beyond 2023, there are some expiry dates in 24, 25 and upwards of 26. You must complete your registration details as well, but the due date to complete these is by June 2023 at the latest. And I should clarify this isn’t you must get them in by June 2023, it’s that they must be completed and approved by June 2023. And that’s to maintain your listing and ongoing access.
+
+So the Department recommends progressing the modification process which is what you undertake to update and complete your registration as soon as possible. This is to limit delays for the assessment and approval of your updating of your registration details. If you do not complete this process, there is a risk that your registration will be lost and you risk your market access into China.
+
+So, how do you complete your registration and extend your listing if that’s coming up soon? A summary of the steps can be seen below but it’s essentially a three-step process. You need to get access to your CIFER account for your establishment. Now for those establishments on this call, it is most likely that you already have an establishment account within CIFER created by GAC. The Department can provide you details for your establishment account. We can also reset your password if need be. So if you know some of your details, you can contact us and we can provide you either the full suite of details or reset your password if you require that. But it must be noted we can only provide these details to people in management and control of the establishments. So if you are organising for people to act on your behalf to assist you through the CIFER application process, unfortunately we cannot provide those details to these companies for privacy reasons, we can only deal directly with the establishment.
+
+Once you have access to your account, you need to complete your registration details within CIFER. And again, that should be done as soon as possible. Once that modification process and application is approved by GAC, and that’s all completed in the system, you can then put an application for extension through CIFER for the product categories that you wish to extend. So it’s a three-step process.
+
+How you actually update your listing, your registration is through an application for modification. So this is an application within CIFER, and it will come up on the slide example menu here, with the red box. This is the application used to update your registration but note the language used, you’re not modifying in this process, your application, this is just the application that we use to update your registration details. So don’t be confused by that language.
+
+You need to do this process, this modification process for each product category you’re listed for. So if you are, for example, a cold store that might deal in multiple different products, you will need to do this for each product category. Just noting again, this modification process is a prerequisite to doing the extension application, but it’s also a requirement to maintain your registration beyond that June 2023 deadline if you have an expiry date on well into the future.
+
+What the screen actually looks like when you enter into the application for modification – this is an example we’ve taken, and dependant on what product you’re applying for to do the update of your registration details, you will get different screens. So if you have multiple product categories, each product category will have a different modification application set of requirements and information needed.
+
+We won’t go into the details in this webinar of what is needed by each product type, as there are a lot of product categories. There’s 19 article seven products, and each one may have a different modification screen. But there are two teams, and I’ll provide details at the end and we would suggest that you, for the relevant products, contact those teams to get the specific details you may need to complete this modification process.
+
+It’s worth noting, when you go into the modification screen, there will be a number of fields that you’ll be asked to complete. Anything with a red asterisk is mandatory. There are also attachments that will be mandatory and you won’t be able to submit your modification unless you have entered in the relevant details and uploaded the relevant attachments. So as you go through, anything with a red asterisk, make sure you’re answering. If you don’t, it will notify you that it can’t complete the submission, so you will be told as you’re going through as well.
+
+Once you’ve completed your modification and that is all completed, you can progress with your application for extension. Now, there is a three-month window in which you can submit an application for extension. This window opens six months before your expiry date and closes three months before your expiry date. So there’s a three month window within which you can submit an application for extension. But just a reminder that you can’t do this process unless the modification has been completed first.
+
+So as an example, we’ve put on the screen, if your due date is at the end of March, the window that you have to complete your application for extension would start on one October and would end at the end of December. You must have your modification done before you can put in you application for extensions. So again, we would recommend, if you’re extension expiry due date is within the next 12 months, please progress your modification as soon as possible, because you won’t be able to do any extensions until that’s completed.
+
+The actual application itself is very similar to the application for modification screen. You reach it in a very similar fashion. There’s a menu on the left-hand side, go to application for extension. Again, red asterisk will be there for any mandatory information. It’s a shorter process than the application for modification, but you must do it within that three-month window. If you’re unsure of the due date and the expiry date of your particular registrations, the Department strongly suggests that you either go into CIFER, into your account, and look at the registrations you have currently listed on your account, or you can go onto that public CIFER query page and see what your establishment registration details are on there, because it will also have your expiry dates. The Department can’t maintain your expiry dates and provide that information on when those are, that needs to be maintained by the establishments. And we strongly if you’re unsure of how to access that information, please contact the Department and we can assist and point you in the right direction.
+
+About the requirements
+
+On 1 January 2022, the General Administration of Customs of China (GACC) implemented changes to registration and labelling requirements for food processing and cold storage establishments under:
+
+- Decree 248 – Regulations of the People’s Republic of China and Administration of Overseas Manufacturers of Imported Food.
+
+- Decree 249 – Administrative measures on Import and Export food Safety. This decree covers a broad range of requirements, including product labelling.

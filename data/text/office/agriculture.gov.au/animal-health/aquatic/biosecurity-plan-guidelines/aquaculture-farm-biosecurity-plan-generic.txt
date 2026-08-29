@@ -1,0 +1,768 @@
+Aquaculture Farm
+Biosecurity Plan
+
+generic guidelines and template
+
+Source: Department of Agriculture and Water Resources
+
+© Commonwealth of Australia 2016
+
+Ownership of intellectual property rights
+
+Unless otherwise noted, copyright (and any other intellectual property rights, if any) in this publication is owned by the Commonwealth of Australia (referred to as the Commonwealth).
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 3.0 Australia Licence, save for content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+Creative Commons Attribution 3.0 Australia Licence is a standard form licence agreement that allows you to copy, distribute, transmit and adapt this publication provided you attribute the work. A summary of the licence terms is available from creativecommons.org/licenses/by/3.0/au/deed.en. The full licence terms are available from creativecommons.org/licenses/by/3.0/au/legalcode.
+
+Inquiries about the licence and any use of this document should be sent to copyright@agriculture.gov.au.
+
+Cataloguing data
+
+This publication (and any material sourced from it) should be attributed as: Sub-Committee on Aquatic Animal Health (SCAAH) 2016. Aquaculture Farm Biosecurity Plan: generic guidelines and template. Department of Agriculture and Water Resources, Canberra [January]. CC BY 3.0.
+
+ISBN 978-1-76003-123-7
+
+This publication is available at agriculture.gov.au/animal/aquatic/guidelines-and-resources.
+
+Department of Agriculture and Water Resources
+
+Postal address GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web agriculture.gov.au
+
+The Australian Government acting through the Department of Agriculture and Water Resources has exercised due care and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of Agriculture and Water Resources, its employees and advisers disclaim all liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying upon any of the information or data in this publication to the maximum extent permitted by law.
+
+About this publication
+
+The Aquaculture Farm Biosecurity Plan: generic guidelines and template were developed as part of Activity 1.1 of AQUAPLAN 2014–2019, Australia’s National Strategic Plan for Aquatic Animal Health. The document was developed by a Sub-committee on Aquatic Animal Health (SCAAH) writing group who drew on multiple sources of information, including the Farm Biosecurity series of terrestrial animal biosecurity plans published by Animal Health Australia. The document was endorsed by the National Aquatic Animal Health Industry Reference Group (NAAHIRG).
+
+Writing group members:
+
+Ingo Ernst	Australian Government Department of Agriculture and Water Resources
+
+Tracey Bradley	Department of Economic Development, Jobs, Transport and Resources, Victoria
+
+Rod Andrewartha	Department of Primary Industries, Parks, Water and Environment, Tasmania
+
+Kevin Ellard	Department of Primary Industries, Parks, Water and Environment, Tasmania
+
+Marty Deveney	South Australian Research and Development Institute
+
+Shane Roberts	Primary Industries and Regions South Australia
+
+Julie Wakefield	Department of Fisheries, Western Australia
+
+Brian Jones	Ministry of Primary Industries, New Zealand
+
+Comments were provided by other persons during the development of the Aquaculture Farm Biosecurity Plan: generic guidelines and template. These contributions are gratefully acknowledged, in particular those provided by aquaculture farm operators who tested the application of this document at their facility.
+
+Contents
+
+Part 1 General information	1
+
+1	Introduction	1
+
+2	Risk analysis	5
+
+3	Major routes for disease transmission	6
+
+4	Major disease hazards	9
+
+5	General farm information	11
+
+Part 2 Biosecurity plan guidelines	12
+
+6	Record keeping	12
+
+7	Staff training	13
+
+8	Property management	13
+
+9	Protocols to address major transmission routes	14
+
+10	Emergency procedures	21
+
+11	Biosecurity plan monitoring and audit	22
+
+Part 3 Biosecurity risk analysis	23
+
+Step 1 Identify the hazards	24
+
+Step 2 Complete risk assessment	24
+
+Step 3 Identify risk management measures	26
+
+Step 4 Document the risk analysis process	26
+
+Part 4 Biosecurity plan implementation	27
+
+1	Standard operating procedure	27
+
+2	Forms and checklists	28
+
+3	Equipment	29
+
+4	Signage	29
+
+5	Staff training	29
+
+Part 5 Generic biosecurity plan template	30
+
+References	34
+
+Quick reference guide
+
+Steps to develop an aquaculture farm biosecurity plan
+
+Step 1 Consider the need, purpose and regulatory requirements for your biosecurity plan [page 2]
+
+Step 2 Consider the major transmission routes onto, within and from your farm [page 6]
+
+Step 3 Determine the major disease hazards to your farm [page 9]
+
+Step 4 Document the layout of your farm [page 11]
+
+Step 5 Document how biosecurity plan guidelines will be addressed on your farm [page 12]
+
+Step 6 Implement the biosecurity plan measures on your farm [page 27]
+
+Step 7 Implement a review cycle for your biosecurity plan [page 22]
+
+Note to readers
+
+This document aims to guide the development of biosecurity plans for application at the farm level. It has been developed as a generic document that is not targeted at a specific aquaculture sector. It is anticipated that this document will be adapted for the purposes of specific aquaculture sectors (for example, prawn or abalone farming) or for specific production systems (for example, pond or recirculation systems).
+
+Part 1 General information
+
+1	Introduction
+
+Disease is an inevitable part of aquaculture production. Some pathogens are always present in farmed stock and only cause disease when the right conditions occur—such as when animals are stressed or when environmental conditions are suitable. The impact of these pathogens can be managed with good hygiene and husbandry practices. Other pathogens can be very damaging even under ideal husbandry conditions—these should be excluded from your farm wherever possible.
+
+Worldwide, there is increasing risk of significant aquatic animal diseases emerging and spreading. New diseases can emerge due to growing aquaculture production, production in new locations, production of new species, and new production methods. Diseases can spread due to increasing international seafood trade volumes, movement of live aquatic animals (for human consumption or aquaculture), trade of aquaculture equipment, shipping, and changes in climate.
+
+Aquatic animal diseases can have severe impacts on aquaculture, fisheries and the natural environment. Governments and industry share responsibilities for managing the risks associated with the spread of aquatic animal diseases.
+
+Biosecurity describes the systems put in place to protect your farm from diseases. These systems will reduce the risk of damaging diseases entering your farm, can prevent health issues emerging within the farm, and can reduce impacts of disease when it occurs.
+
+Sound biosecurity practices are good for business because their cost can be low compared to the expected benefits on productivity and product quality. This is particularly the case when serious diseases can be excluded from your farm or eradicated from it if they occur. Figure 1 shows a hypothetical invasion curve for an exotic pest or disease entering and spreading in a new environment. As the disease spreads, the return on investment from management interventions decreases. Preventative biosecurity actions that exclude damaging pathogens from entering your farm usually provide the best return on investment.
+
+Figure  Hypothetical invasion curve for a pest or disease spreading in a new environment
+
+Source: adapted from Victorian Government (2010) Invasive Plants and Animals Policy Framework, DPI Victoria, Melbourne
+
+1.1	Why develop a biosecurity plan?
+
+The main reason to develop a biosecurity plan is that it is good for your business. Good biosecurity practices can support farm productivity, product quality, trade and ultimately profitability. Improved biosecurity practices can:
+
+result in better animal health and improved performance
+
+mitigate the transmission and amplification of diseases within/between farms or growing areas
+
+allow for early disease detection so that impacts can be reduced
+
+support claims of freedom from diseases that impact marketability and market access
+
+be integrated with other farm quality control systems such as Hazard Analysis Critical Control Point (HACCP)
+
+facilitate translocation within and between jurisdictions
+
+allow farms to meet international trade requirements (for example, through health accreditation)
+
+be integrated with broader risk management planning such as workplace health and safety, food safety and environmental management.
+
+Aquaculture enterprises are linked through the movement of people, animals, equipment, waste and water. Through these movements, risks are shared and disease outbreaks in any region, farm or hatchery can affect others and threaten an entire sector. For this reason, producers in an individual sector should share responsibilities for biosecurity by aspiring to a common level of risk management.
+
+Some jurisdictions have regulatory requirements for biosecurity that are legislated or are part of licence conditions. Those requirements should be considered in the development of individual biosecurity plans.
+
+1.2	Purpose of a biosecurity plan
+
+The purpose of an aquaculture biosecurity plan is to:
+
+reduce the risk of diseases being introduced into your farm (entry-level biosecurity)
+
+reduce the risk of diseases spreading within your farm (internal biosecurity)
+
+reduce the risk of diseases escaping from your farm (exit-level biosecurity)
+
+have emergency response protocols in place for serious disease outbreaks (all three levels of biosecurity).
+
+Biosecurity plans need to be fit for purpose and balance practicality, cost and regulatory requirements. Ultimately, the proposed biosecurity practices should improve the biological, operational and economic performance of your farm. Good biosecurity practice should be as simple and low cost as possible to achieve the desired outcomes. Ultimately, biosecurity plans should be viewed as insurance, and as such, require both financial and intellectual investment as well as commitment. Figure 2 illustrates the biosecurity risk levels of a farm.
+
+1.3	Purpose of this guidance document
+
+This document aims to guide the development of biosecurity plans for application at the farm level. It has been developed as a generic document that is not targeted at a specific aquaculture sector. It is anticipated that this document will be adapted for the purposes of specific aquaculture sectors (for example, prawn or abalone farming) or for specific production systems (for example, recirculation finfish aquaculture).
+
+All aquaculture enterprises have some level of biosecurity practices in place. A good starting point for developing sector-specific biosecurity plan guidelines is to document existing practices that are currently being used on individual farms and to collate good biosecurity practices. This approach may be appropriate for adapting this document for specific sectors or production systems. The advantage of this approach is that measures are tested and likely to be practical.
+
+Figure  Different levels of farm biosecurity risk
+
+A biosecurity plan template is included in Part 5 and can be used to develop a biosecurity plan for your farm. The document excludes biosecurity planning at the industry and regional level (for example, inter-regional movement) but could contribute to plans at those levels.
+
+Every farm is different and disease risks need to be managed according to the circumstances of each individual farm. For this reason it’s important that a specific, documented and auditable biosecurity plan is developed for your farm. The plan should be updated as farm circumstances and disease risks change.
+
+This document will assist you to:
+
+identify and assess biosecurity risks to your farm
+
+develop procedures to manage biosecurity risks
+
+manage and reassess these risks on an ongoing basis.
+
+2	Risk analysis
+
+Risk analysis is defined as ‘assessment of the level of biosecurity risk associated with the entry, emergence, establishment, and spread of pests and diseases and the identification of options to limit the level of biosecurity risk. It includes risk assessment, risk management and risk communication’. The risk analysis process is summarised in this section—more detail is provided in Part 3.
+
+By undertaking risk analysis, a biosecurity plan can be focused on the highest risks and any proposed biosecurity measures can be assessed for their ability to reduce risk to an acceptable level. Before commencing a risk analysis it is important to establish the scope (that is, why are we considering biosecurity risks, and what is the desired outcome from managing these risks?).
+
+The three core stages of risk analysis are shown in Figure 3.
+
+Stage 1 of risk analysis: hazard identification—Identifying the diseases that could produce adverse consequences to aquatic animal health and your farm’s productivity. Hazard identification will determine which pathogens should be the subject of risk assessment (Stage 2).
+
+Figure  Three core stages of risk analysis: hazard identification, risk assessment and risk management
+
+Stage 2 of risk analysis: risk assessment—Completed by estimating the relative levels of likelihood and consequence of a disease entering your farm. The assessments can vary widely in complexity; for example, from using detailed research and statistical approaches (quantitative), to basic estimates based on previous experience and circumstances (qualitative).
+
+It is important to note that ‘risk’ is determined as a product of likelihood and consequence. This means that a disease that presents major consequences (for example, it would result in complete depopulation of the farm) could be a low risk if the likelihood of it occurring is remote (for example, because it is an exotic disease and there are no realistic pathways of entry onto your farm). Risk matrices are a simple, standard approach for determining risk from estimates of likelihood and consequence.
+
+Stage 3 of risk analysis: risk management—Identifying measures to reduce the identified risks to an acceptable level. The preferred option should be chosen based on its practicality, effectiveness and cost.
+
+Part 3 of this document includes further guidance on undertaking risk analysis in a way that is relevant for developing your farm biosecurity plan. Your risk analysis may be more thorough and accurate if you draw on advice from an aquatic animal health specialist at each of the three stages: hazard identification, risk assessment and risk management.
+
+3	Major routes for disease transmission
+
+Pathogens and diseases can enter and exit your farm via many routes. These routes need to be considered to manage the risk of pathogens entering your farm, diseases spreading within your farm and diseases leaving your farm. Pathways that place high levels of viable pathogens in close contact with a susceptible host are most likely to result in infectious disease. These pathways need to be identified and addressed as a priority. The main routes of transmission include animals, water, equipment, feed, people, and waste.
+
+3.1	Transmission routes onto the farm
+
+Transmission routes onto a farm are managed by entry-level biosecurity measures.
+
+Animals
+
+Aquatic animals entering the farm can present a significant disease risk, particularly if they are of unknown health status. Aquatic animal vectors of disease can include broodstock, seed stock, genetic material (for example, eggs), and animal products (for example, those harvested at other sites).
+
+Other animals can present a disease transmission risk onto the farm. These include wild aquatic animals entering via the water supply, wild animals such as birds, and pest animals such as rodents and other scavengers.
+
+People
+
+People can present a significant risk of disease introduction, particularly where they visit other farms or environments containing diseases of concern. People can include staff, contractors, visitors, and unauthorised entrants. They can introduce pathogens via contaminated skin, clothing and footwear.
+
+Figure 4 Tiger prawns (Penaeus monodon)
+
+Source: Australian Prawn Farmers Association
+
+Equipment, vehicles and vessels
+
+Equipment that has been in contact with aquatic animals can provide a risk of disease transmission onto the farm. Equipment can include anything brought onto the farm such as harvest, grading, diving, and feeding equipment. The level of risk will depend on the history of use; for example, equipment used at other farms or processors will have a much higher risk compared to new equipment.
+
+Vehicles such as cars, trucks and tractors can bring pathogens onto the farm. As with equipment, the level of risk will depend on the history of use. Vessels present a likely source of introducing disease particularly when they have been used at other farms or have been in close contact with animals (for example, well boats or fishing vessels).
+
+Water
+
+A farm’s water supply is an important asset that has a major influence on animal health. In semi-open systems such as sea cages there can be little control on water as a route of disease transmission; however, the nature of water currents and positioning of farms can be considered to manage biosecurity. For land based facilities, disease transmission risks will depend on the nature of the water source, presence of host animals in that water source and the proximity of other farms that may discharge into the water source.
+
+Feed
+
+Manufactured feeds such as extruded pellets generally present a low risk of disease transmission due to deactivation of pathogens in the manufacturing process. However, live, fresh or frozen feeds can present significant risks. The level of risk will depend on the pathogens of concern, the origin of the feeds and the level of processing; for example, freezing may kill parasites but may not kill viruses.
+
+Waste
+
+Waste products such as dead animals, processing water, processing waste and cleaning effluent can be vectors for transmission of disease onto a farm. Appropriate infrastructure and procedures are required to manage the disease risks associated with these waste products.
+
+3.2	Transmission routes within the farm
+
+Transmission routes within a farm are managed by internal biosecurity measures.
+
+The routes of transmission within your farm are similar to those onto your farm. However, the transmission risk is for the spread of disease between different production and processing areas. In many cases, different farm populations will have different levels of health status. For example, broodstock and hatcheries may have the highest health status; nursery areas may have a slightly lower health status, and grow out populations may have the lowest health status on the farm. Consideration should be given to the risks of disease transmission between these areas of different health status.
+
+To mitigate the impact of disease outbreaks, the risk of disease transmission between production areas should be considered. For example, different grow out areas can be managed separately to prevent a disease outbreak in one area spreading to all grow out areas.
+
+3.3	Transmission routes from the farm
+
+Transmission routes from a farm are managed by exit-level biosecurity measures.
+
+The disease transmission routes from your farm are similar to those onto your farm. Disease transmission from the farm can have an impact on farm water sources, on neighbouring farms and on native or feral animal populations adjacent to the farm. If diseases become established or proliferate in these aquatic animal populations they can pose an ongoing threat to your farm. This is particularly the case where the farm is based on an open system with limited scope for physical separation from the adjacent aquatic environments.
+
+4	Major disease hazards
+
+Details included in this section are provided as an example only. In a tailored, sector-specific biosecurity plan, this section should briefly describe some of the known hazards for the sector under consideration, as seen in Table 1, Table 2, Table 3 and Table 4. Hazards include the disease agents that could potentially result in adverse consequences if introduced to your farm.
+
+Table 1 Template for table detailing known hazards
+
+4.1	Hazards for abalone [provided as an example only]
+
+Table 2 Abalone viral ganglioneuritis
+
+Table 3 Infection with Perkinsus olseni
+
+Table 4 Infection with Xenohaliotis californiensis (Withering syndrome)
+
+Figure 5 Farmed abalone (Haliotis spp.)
+
+Source: Department of Agriculture and Water Resources
+
+4.2	Unknown and emerging diseases
+
+New diseases emerge regularly in aquaculture and some could threaten your farm. While specific measures cannot be applied to unknown diseases, generic biosecurity practices can limit the likelihood of their entry and spread on your farm.
+
+5	General farm information
+
+The design of your farm and availability of infrastructure will determine how biosecurity can be managed. This section describes what information should be considered as you develop your biosecurity plan. Changes to the farm should be considered in the context of the biosecurity plan.
+
+5.1	Site location and features
+
+Include a map of the farm that presents major facilities (for example, buildings, roads, ponds, water intake and discharge) and significant natural features of the site (for example, creeks and coastline). For sea based farms it will be necessary to include coordinates of the entire lease area and production sites within the lease (for example, where moorings are located).
+
+5.2	Layout of the facility
+
+Provide a diagram of the facility (for example, engineering/building plans). Include each building and each system, entry and exit points, and major flow patterns (fish movement, visitor and employee movement). Identify the life stages (eggs, juveniles and adults) found in each system.
+
+The diagram should contain the following (as applicable):
+
+site access points
+
+vehicle parking areas
+
+reception points for visitors and contractors
+
+water supply, treatment and discharge routes
+
+water pumps and valves
+
+water intake and discharge points
+
+equipment and vehicle wash down areas
+
+equipment and vehicle storage areas
+
+marinas and boat ramps
+
+production areas within the facility (for example, hatchery, nursery and grow out)
+
+quarantine facilities within the farm
+
+location of footbaths and disinfection areas
+
+escape prevention measures (for example, screens on discharge water)
+
+any features important for the species being farmed
+
+typical stock movements through the facility (for example, from hatchery to nursery)
+
+waste disposal areas
+
+site security (include locations of lockable doors and gates)
+
+Part 2 Biosecurity plan guidelines
+
+This part of the document provides guidelines for development of a biosecurity plan on your farm. The rationale for the guidelines is provided in explanatory text. These guidelines can be used in conjunction with the biosecurity plan template in Part 5 of this document to develop your farm biosecurity plan.
+
+6	Record keeping
+
+Objective: To record all information necessary to support good biosecurity practice in accordance with the farm biosecurity plan.
+
+Records should include the origin of all animals on the farm, movements of animals onto, within and from the farm, and records of staff and visitors. This information will allow tracing of contacts to determine the possible origin of a disease outbreak and the possible extent of its spread within or beyond the farm.
+
+Information on the health status of animals will assist in identifying any emerging disease issues and to optimise husbandry conditions. The level of detail required will depend on the circumstances of the farm and the level of perceived risk. This information may include numerous pieces of information such as:
+
+animal movement records
+
+observations on health status (for example, behaviour changes, morbidity and mortality)
+
+husbandry records (for example, stocking densities, feeding rates and growth rates)
+
+application of treatments or vaccinations
+
+water quality data
+
+disease testing (for example, pathology reports).
+
+Guidelines for record keeping
+
+G1. Movement records should be maintained for all animals moved onto the farm, between zones of different biosecurity status within the farm and from the farm.
+
+G2. Health monitoring records should be kept for different animal populations within the farm and should include details of any sickness, mortality, treatments, disease testing and relevant environmental information.
+
+7	Staff training
+
+Objective: To ensure all farm staff understand their responsibilities to maintain farm biosecurity.
+
+It is important that all farm staff have a clear understanding of their responsibilities to maintain farm biosecurity. All staff should be able to recognise signs of ill health; be aware of the major routes of disease transmission onto, within and from the farm; understand the farm biosecurity plan and their responsibilities for its implementation; and be familiar with work practices and standard operating procedures that support the farm biosecurity plan.
+
+Arrangements for delivering biosecurity induction training to staff should be in place. Participation in training should be documented, and learning evaluated. The training should include emergency procedures.
+
+Guidelines for staff training
+
+G3. A staff member should be made responsible for overseeing farm biosecurity.
+
+G4. All farm staff should understand disease risks to the farm, the role of the farm biosecurity plan in managing disease risks and their responsibilities for its implementation, including response protocols.
+
+G5. Staff should receive training on aspects of the farm biosecurity plan relevant to their work and have access to the farm biosecurity plan and supporting procedures.
+
+8	Property management
+
+Objective: To provide effective control points to manage the risk of disease transmission onto, within and from the farm.
+
+Effective property management is necessary to manage routes of disease transmission so that effective controls can be established. For example, perimeter fencing, designated entry and exit points, and signage can be used to direct visitors and contractors to control points (for example, reception) where biosecurity risks can be assessed (for example, assessing the risk presented by visitors) and any measures applied (for example, disinfection of equipment).
+
+Guidelines for property management
+
+G6. The farm should have a secure perimeter fence or otherwise well-defined boundary, establishing a clearly defined biosecurity zone. Entrances to the property should be able to restrict vehicle and foot traffic and should be locked during all non-visitor hours.
+
+G7. All inputs to the farm (for example, animals, people, water, equipment and vehicles) and between zones within the farm should be assessed for potential biosecurity risks.
+
+G8. All production units (for example, sheds, ponds, tanks and raceways) should have a unique and permanent identifier.
+
+G9. All production units should have appropriate features to prevent entry of wild animals and escape of farmed animals.
+
+9	Protocols to address major transmission routes
+
+9.1	People
+
+Objective: To manage the risk of people transmitting pathogens onto, within and from the farm.
+
+The movement of people (including staff, contractors and visitors) onto and within the farm should be controlled to manage the risk of disease entry into the farm, possible spread within the farm, and potential disease spread from the farm. Unauthorized entry should be managed through appropriate property management measures (see section 8).
+
+Guidelines to manage the risk of people transmitting pathogens
+
+G10. Staff and visitor access should be managed (through access controls and signage) and the risk they present should be assessed.
+
+G11. The farm biosecurity rules should be explained to all visitors.
+
+G12. Measures to prevent disease entry should be applied to all persons entering and exiting the farm (for example, dedicated changing areas, farm footwear and hand washing facilities), and for persons moving between productions areas of different disease status within the farm.
+
+G13. Access to sensitive areas (for example, broodstock units) should be restricted.
+
+G14. Production units should be managed separately to reduce the risk of disease spread within the farm. Staff should be assigned to production units based on risk.
+
+G15. If staff must work in multiple production units, higher health animals should be visited first and lower health or diseased animals last, with appropriate cleaning and disinfection protocols followed between visits.
+
+9.2	Animals
+
+Objective: To manage the risk of animals transmitting pathogens onto, within and from the farm.
+
+Intentional animal movements
+
+The disease risks associated with intentional introduction of broodstock, seed stock and genetic material (eggs or sperm) to the farm should be assessed prior to introduction. Appropriate measures should be implemented to manage identified risks.
+
+There may be government requirements to address the disease risks associated with intrastate or interstate movement of aquatic animals for aquaculture. State or territory authorities in the receiving jurisdiction should be contacted to determine requirements.
+
+Obtaining healthy fish (eggs, fry, juveniles or broodstock) from a reputable supplier is critical. A fish health specialist should be consulted to determine species-specific health parameters and any diseases of concern. Before obtaining animals from an outside source, the health history of the animals and the establishment should be determined (for example, animal origin, health status, disease issues, treatments (including vaccination), and whether they have had prior health examinations or disease testing).
+
+Guidelines to manage the risk of transmitting pathogens by intentional animal movements
+
+G16. Animals should only be introduced to the farm if they are of known health status and that status is of equal or better status than animals on the farm. Translocation approvals or permits must be obtained if required by the receiving state or territory authority.
+
+G17. If the health status of introduced animals is unknown (for example, wild broodstock or seed stock of unknown health status) the animals should be isolated from other farm populations in separate production units or dedicated quarantine facilities.
+
+G18. If risks are found to be high, quarantine of broodstock should be lifelong with a view to producing high health or specific-pathogen-free progeny that would become broodstock.
+
+G19. Where feasible, treatment of quarantined animals may be considered to mitigate disease risks (for example, for external parasites). Treatments must be conducted in accordance with legislative and regulatory requirements.
+
+G20. Movement of animals between different farm populations should only occur following consideration of the disease risks and with a view to maintaining high health status.
+
+G21. If animal populations become sick, precautions should be taken to avoid contact with other farm populations until the cause is known and the situation resolved.
+
+G22. Sick or dead animals should be removed from production units as soon as possible and disposed of in accordance with section 9.6 (see G37-G38).
+
+Unintentional animal movements
+
+The disease risks associated with unintentional introduction of wild aquatic animals, or escape of farmed animals, need to be assessed. Appropriate measures should be implemented to manage the identified risks. For example, high health populations such as broodstock may require multiple levels of physical control to prevent entry of adult and juvenile aquatic animals.
+
+In closed (for example, recirculation systems) and semi-closed facilities (for example, onshore ponds and flow through tanks), the escape or entry of aquatic animals can be managed through physical means such as screens and filtration.
+
+In semi-open systems (for example, sea cages), there is less opportunity to manage interaction with wild populations; however, it may be possible to reduce the interactions (for example, by preventing the escape of farmed animals that may establish populations nearby). This may be done through good operational practice (for example, monitoring cage integrity and procedures for animal transfers) or appropriate infrastructure (for example, use of predator nets).
+
+Non-aquatic animals may act as vectors for transmission of aquatic animal diseases onto, within and from the farm. These animals may include predatory or scavenging animals such as birds or rodents. Consideration should be given to controlling these animal populations (for example, rodents) or preventing their movement onto or within the farm (for example, netting to exclude birds from ponds).
+
+Guidelines to manage the risk of transmitting pathogens by unintentional animal movements
+
+G23. In semi-closed systems prevent entry of aquatic animals in the water supply.
+
+G24. In semi-open systems consider options for limiting entry of animals to, or aggregation near production units.
+
+G25. Measures should be put in place to prevent escape of aquatic animals.
+
+G26. Predatory or scavenging animal populations should be controlled or excluded from production facilities.
+
+9.3	Equipment, vehicles and vessels
+
+Objective: To manage the risk of equipment, vehicles or vessels transmitting disease onto, within or from the farm.
+
+Movement of equipment, vehicles or vessels onto the farm
+
+Any equipment, vehicles or vessels that have had direct or indirect contact with aquatic animals can present a risk of disease transmission onto the farm. The level of risk will depend on the history of use. For example, equipment that has been used at other farms (for example, harvest bins) or vessels that have been in close contact with animals (for example, well boats) may present a greater risk. It is important that the level of risk is considered and appropriate measures implemented to manage the risks at the entry points to the farm.
+
+Where risks are identified, equipment, vehicles and vessels should be decontaminated prior to use on the farm. Infrastructure and procedures should be in place to facilitate decontamination. This may include:
+
+designated entry points to the farm
+
+designated delivery and loading areas
+
+cleaning and disinfection facilities
+
+equipment storage areas
+
+vehicle and vessel parking areas.
+
+Decontamination procedures should be developed to ensure they are effective for the pathogens of concern (see AQUAVETPLAN – Operational Procedures Manual – Decontamination). The procedures will normally involve initial cleaning followed by disinfection. Disinfection may involve chemical treatment (for example, chlorine) and/or physical treatment (for example, drying in direct sunlight).
+
+Movement of equipment, vehicles or vessels within the farm
+
+Equipment, vehicles or vessels may transmit diseases between different areas on the farm. This is a particular issue for populations with high health status (for example, broodstock), or where production units are to be kept separate. To manage the risk of spreading disease within the farm, arrangements should be in place to:
+
+use separate equipment for each production area (the equipment should be labelled and stored appropriately)
+
+have dedicated facilities in each production area for cleaning and disinfection of routinely used equipment
+
+clean and disinfect equipment that must be used in multiple production units.
+
+Guidelines to manage the risk of equipment, vehicles or vessels transmitting disease
+
+G27. Any equipment, vehicles or vessels brought onto the farm should be assessed for biosecurity risk.
+
+G28. Procedures and infrastructure should be in place to clean and disinfect equipment, vehicles or vessels.
+
+G29. The farm should have designated delivery and loading areas.
+
+G30. Separate equipment should be assigned for use in production units of different health status. Where equipment must be used in multiple production units it should be cleaned and disinfected prior to movement between units.
+
+9.4	Water
+
+Objective: To manage the risk of water transmitting disease onto, within and from the farm.
+
+Movement of water onto the farm
+
+The quality of a farm’s water source is an important asset to support productivity and aquatic animal health. The biosecurity risks associated with a water source will depend on the presence of susceptible aquatic animal populations in that water source and their health status.
+
+Other water quality factors need to be considered (for example, potential for chemical contamination, suspended solids, dissolved gases, salinity and mineral content) because they can impact aquatic animal health; however, these do not present a direct biosecurity threat and are not considered further in this document.
+
+In some circumstances, water sources may be entirely free of susceptible aquatic animal populations and diseases of concern. Such water sources may include saline or fresh groundwater, de-chlorinated municipal water, and artificial seawater. These water sources may be particularly suitable for high health animals such as broodstock.
+
+Other sources of water such as oceans, streams or lakes are likely to contain aquatic animal populations and may present a risk of disease transmission. In these cases it may be necessary to provide a level of screening, filtration or disinfection to achieve biosecurity objectives. The level of treatment required will depend on the likelihood of pathogen entry and the potential consequences (that is, risk). For valuable, high health animals such as genetically improved broodstock, a high level of treatment, redundancy and operational maintenance may be required. Where decontamination of water is essential to achieve biosecurity outcomes, there should be regular monitoring to ensure decontamination efficacy is maintained. It may be possible to use the presence of indicator organisms (ubiquitous non-pathogenic microorganisms) in water as an objective measure of decontamination efficacy.
+
+Numerous options are available for effective decontamination of water. Decontamination will normally involve filtration to remove particulate matter followed by disinfection to deactivate any remaining pathogens. Filtration may include multiple steps to progressively remove macroscopic and microscopic particles from the water (for example, intake screens, sand filters, drum filters, bag filters). Following removal of particulate matter, disinfection may be performed. The method of disinfection should be chosen based on efficacy, cost and environmental impact. Some options include chlorination (followed by dechlorination), ozonation and ultraviolet irradiation.
+
+The position of water intakes and outlets for land-based facilities should be considered to minimise contamination from other sources (for example, other farms) and cross contamination between the farms own outlet and intake water.
+
+Figure 6 Southern bluefin tuna pontoon (Thunnus maccoyii)
+
+Source: Australian Southern Bluefin Tuna Industry Association
+
+Movement of water within the farm
+
+The movement of water within a farm should be considered to minimise the potential for diseases to spread between different production units or populations with different health status. This is particularly important to reduce the spread of an emerging disease.
+
+For land-based farms, separate water flows should be used for separate production units or for populations of different health status. This may be achieved by separate recirculation systems or, for flow through systems, parallel water flow. Consideration should also be given to sources of spray and aerosols that could spread infection between different populations. Where these are identified, physical barriers may be required.
+
+For sea-based farms, maintaining populations with different health status may be possible through an understanding of hydrodynamics and careful consideration of lease location and arrangement. For example, it may be possible to maintain the different health status of year classes by locating them on leases that are epidemiologically separated.
+
+Movement of water from the farm
+
+Appropriate discharge of water will need to be considered where there is a risk of spreading infection to nearby populations of wild aquatic animals or other nearby farms.
+
+Guidelines to manage the risk of water transmitting disease
+
+G31. The biosecurity risk of a farm’s water source should be considered and appropriate actions taken to manage any identified risks.
+
+G32. Infrastructure for decontamination of water should be adequately monitored and maintained to ensure it remains effective.
+
+G33. For land-based farms, water intake and outflows should be located to avoid cross-contamination. The flow of water within the farm should be managed to minimise the potential for diseases to spread between different production units or populations with different health status.
+
+G34. For sea-based farms, lease sites should be located to maintain epidemiological separation of populations with different health status (for example, different year classes).
+
+9.5	Feed
+
+Objective: To manage the risk of feed transmitting disease onto and within the farm.
+
+Feeds and feed ingredients are often sourced from aquatic environments and may present a risk of transmitting disease. Different types of feed present different levels of disease risk. For example, live feeds (for example, rotifers, artemia and polychaetes) and unprocessed whole aquatic animals may present a higher risk than commercially manufactured feeds.
+
+The risk of disease transmission will depend on:
+
+the disease status at the source of the feed or feed ingredients
+
+whether pathogens of concern are present in the feed or feed ingredients
+
+whether the feed or feed ingredients have been treated in a way to deactivate pathogens of concern
+
+how feed is stored.
+
+The biosecurity risks to your farm that are associated with feeds need to be considered and measures put in place to manage any unacceptable risks. For example, where live or unprocessed whole animals must be used as feeds, risks can be managed by sourcing feeds from disease free areas, by testing to ensure disease freedom, or by treatment to inactivate pathogens.
+
+Guidelines to manage the risk of feed transmitting disease
+
+G35. The biosecurity risk of feeds should be considered and appropriate actions taken to manage any identified risks.
+
+G36. Manufactured feeds should be used wherever possible in preference to live or unprocessed feeds.
+
+9.6	Waste
+
+Objective: To manage the risk of waste materials transmitting disease onto, within and from the farm.
+
+Waste products may include dead animals, processing water, processing waste, and cleaning effluent. These waste materials may act as a vector for transmitting diseases onto, within and from the farm. It is important that appropriate infrastructure and procedures are in place to ensure safe disposal of waste. Procedures should detail the methods of disposal for different waste streams and be prepared in consideration of the requirements of local, state, territory and Commonwealth governments.
+
+Equipment used to contain or transport waste materials should be cleaned and disinfected prior to return to any production areas.
+
+Guidelines to manage the risk of waste material transmitting disease
+
+G37. Waste products (for example, dead animals, water and effluent) should be assessed to determine potential biosecurity risk to the farm and the environment.
+
+G38. Containment, handling and disposal of waste products should minimise identified disease transmission risks.
+
+10	Emergency procedures
+
+Objective: To ensure emergency procedures are developed and understood to minimise the impact of emergency biosecurity incidents.
+
+Early response actions are critical to reduce the duration and impact of disease outbreaks on your farm. By ensuring clear emergency protocols are developed and understood by all staff, incidents are more likely to be recognised, reported, and appropriate actions taken to limit the spread of disease. Emergency procedures should include:
+
+clearly defined triggers for identifying an emergency incident and for activation of the emergency protocols (for example, a certain level of unexplained mortality)
+
+immediate actions required by staff when an incident is suspected. This may include enhanced biosecurity, reporting incident to farm management, securing areas to prevent access, and cessation of any activity such as feeding, maintenance, or movement of water, equipment or animals
+
+guidance on observations that should be made to define the circumstances of the incident (for example, the number of tanks affected, disease signs observed, the proportion of animals affected)
+
+procedures for reporting of the incident to farm management
+
+procedures for contacting the farm’s veterinarian or the jurisdiction’s aquatic animal health officer (including the farms legal reporting obligations)
+
+guidelines for collection of diagnostic specimens and for transporting specimens to the diagnostic laboratory
+
+contingency plans for destruction and disposal of large volumes of diseased or dead stock and decontamination of ponds and/or equipment
+
+emergency contact details of staff and external authorities.
+
+Guidelines on emergency biosecurity procedures
+
+G39. The farm biosecurity plan should include procedures for the response to a suspected emergency biosecurity incident.
+
+G40. All farm staff should understand the farm’s emergency procedures and their own role in an emergency.
+
+11	Biosecurity plan monitoring and audit
+
+Objective: To ensure the farm biosecurity plan continues to address biosecurity risks effectively and efficiently.
+
+The biosecurity plan should be reviewed routinely to ensure it continues to address biosecurity risks effectively and to ensure it requires only the minimum level of resources for effective implementation. Triggers for extraordinary review of the plan may include changes in farm operations such as increased production, construction of new production units, changes to husbandry approaches or the occurrence of a biosecurity incident.
+
+Routine audit of the plan can be used to ensure it is being implemented appropriately and to identify any operation deficiencies. Internal audits should be carried out routinely, should be documented and may address certain aspects of the plan. Undertaking an independent third party audit will provide stronger assurance to customers or regulators that plans and procedures are followed, and that quality management systems are effective.
+
+Guidelines on farm biosecurity plan monitoring and audit
+
+G41. The farm biosecurity plan should include a schedule for routine review and identify any triggers for extraordinary review.
+
+G42. Audit of the farm biosecurity plan (and effective record keeping of formal audits) should be conducted to ensure it is being implemented effectively.
+
+Part 3 Biosecurity risk analysis
+
+Risk analysis is an accepted approach for evaluating biosecurity risks. Risk analysis can be used to focus a biosecurity plan on the highest risks to farm productivity and ensure investments in biosecurity, through the biosecurity plan, deliver maximum benefit. Section 2 in Part 1 of this document provides an introduction to risk analysis. This part of the document provides more detailed guidance on conducting biosecurity risk analysis.
+
+The four steps of conducting of biosecurity risk analysis are shown in Figure 7.
+
+Figure 7 Four steps of conducting biosecurity risk analysis
+
+Figure 8 Oyster farm
+
+Source: South Australian Oyster Growers Association
+
+Step 1 Identify the hazards
+
+Hazard identification involves identifying the diseases that could potentially produce adverse consequences to aquatic animal health and farm productivity. The hazards may include damaging pathogens that are best excluded from the farm. They may also include other pathogens that are known to occur within the facility and that must be managed to mitigate production impacts (these are often known as production diseases). New diseases emerge regularly in aquaculture so it may be appropriate to consider ‘unknown hazards’ (as different types of pathogens) that could impact on farm productivity.
+
+Hazard identification will determine which pathogens should be the subject of risk assessment (Step 2 Complete risk assessment). The outcome of hazard identification will be a list of diseases expected to cause adverse consequences to aquatic animal health and farm productivity. Some examples of possible hazards are identified in section 4 in Part 1 of this document: Major disease hazards.
+
+Step 2 Complete risk assessment
+
+To assign a level of risk to a hazard, two factors need to be determined – the likelihood of occurrence on your farm and the consequences to your farm from it occurring.
+
+Likelihood—Likelihood can be estimated by considering the pathways necessary for entry of a disease, and for exposure of your animals to the disease. For example, the likelihood of entry and exposure might be ‘certain’ for a pathogen that occurs in untreated intake water. Similarly, pathways involving infected live animals have the highest likelihood of entry and exposure because they may carry large quantities of viable pathogen. The likelihood rating will vary depending on properties of the disease, occurrence of the disease outside the farm, and possible pathways onto the farm. Likelihood ratings and descriptors are shown in Table 5.
+
+Table 5 Assessment of disease likelihood
+
+Consequence—Consequence can be estimated by considering the impacts of a disease on the productivity of your farm. The consequences could include multiple aspects (for example, mortality, reduced growth or food conversion, product quality, market access, treatment costs). Consequence ratings and descriptors are shown in Table 6.
+
+Table 6 Assessment of disease consequences
+
+Risk estimation—Risk is estimated as a product of likelihood and consequence, resulting in risk ratings of 1–25. Risks are highest when both likelihood and consequences are high. However, risks may be low even if the consequence is ‘catastrophic’ but the likelihood is ‘remote’; or even if likelihood is ‘certain’ but the consequence is ‘insignificant’. Risk ratings can be determined by applying estimates of likelihood (where 1 is remote and 5 is certain) and consequence (where 1 is insignificant and 5 is catastrophic) to a risk matrix (Figure 9).
+
+Figure 9 Risk estimation matrix
+
+Step 3 Identify risk management measures
+
+Risk management involves identifying measures to reduce the identified risks to an acceptable level, as shown in Table 7.
+
+Evaluating risks—Medium, high and extreme risks should be considered unacceptable. Risk management measures to reduce these risks to acceptable levels would form part of the farm biosecurity plan. Low risks may not require specific mitigation measures but may warrant some level of ongoing monitoring to identify if the risk profile changes over time.
+
+Risk management options—There may be numerous risk management options available to reduce risks to an acceptable level. The preferred option should be chosen based on its practicality, effectiveness and cost. Risk management options may reduce likelihood, consequence or both. For example, vaccination would have no influence on likelihood of entry of a pathogen but may reduce consequences significantly.
+
+Table 7 Assessment of disease consequences
+
+Step 4 Document the risk analysis process
+
+The risk analysis process should be documented so that risks and risk management measures can be easily reviewed as a part of routine biosecurity plan monitoring and audit. This will also record the rationale for specific measures in the biosecurity plan. Table 8 provides an example of how the risk analysis can be recorded concisely.
+
+Table 8 Example of risk analysis recording
+
+Part 4 Biosecurity plan implementation
+
+Following development of your biosecurity plan it will need to be implemented with the cooperation of farm management and staff. Implementation may require changes to how your farm operates such as new or altered procedures, new equipment, new or altered farm infrastructure, new signs and new or altered record keeping methods.
+
+If the implementation of the biosecurity plan requires extensive changes, they may need to be phased in over a reasonable period of time. This would allow time for staff consultation and training on the most suitable approaches, and for any new equipment to be deployed or existing equipment or facilities to be modified.
+
+If implementation must be phased in over time, it would be logical to focus first on biosecurity measures that mitigate the highest biosecurity risks.
+
+1	Standard operating procedure
+
+New biosecurity processes may need to be described in a standard operating procedure (SOP) if they are complex, rarely performed, performed by multiple staff, or are critical to the maintenance of farm biosecurity. If a quality management system has been implemented on your farm, biosecurity SOPs should be incorporated within that quality system.
+
+A SOP aims to support consistent performance of a particular function by farm staff. For this reason it must be clear, easy to follow and available to staff in areas where the function is performed. Table 9 is a template for a biosecurity SOP.
+
+Table 9 Template for biosecurity standard operating procedure
+
+2	Forms and checklists
+
+Your biosecurity plan will require that records are kept for different aspects of farm operation. Records management should collect only necessary information and be as simple and practical as possible. Templates to cover a range of record keeping requirements are available on the Farm Biosecurity website.
+
+For example:
+
+training records
+
+visitor register
+
+stock receipt and inspection records
+
+visitor/staff risk assessment
+
+cleaning records
+
+audit records.
+
+3	Equipment
+
+If new equipment is being put in place on the farm it should be labelled (for example, for the area of intended use) and farm staff should understand proper use and maintenance (for example, use of foot baths and procedures for refreshing disinfectant). In some cases, use and maintenance of new equipment may need to be supported by an SOP.
+
+4	Signage
+
+Your biosecurity plan may require that new signs be erected at access points, to label different production areas and to identify restricted areas. Signs can be purchased from commercial providers. Examples are also available online.
+
+5	Staff training
+
+Staff training and consultation will be critical for effective implementation of your biosecurity plan. It is important that staff are fully aware of any new responsibilities under the farm biosecurity plan and clearly understand their role. Staff consultation in developing new procedures may improve practicality and efficiency.
+
+Part 5 Generic biosecurity plan template
+
+References
+
+Australian Government Department of Agriculture, Fisheries and Forestry 2012, Aquatic Animal Diseases Significant to Australia: Identification Field Guide, 4th Edition, DAFF, Canberra.
+
+Department of Agriculture, Fisheries and Forestry 2008, Operational procedures manual: Decontamination (Version 1), In: Australian Aquatic Veterinary Emergency Plan (AQUAVETPLAN), Australian Government Department of Agriculture, Fisheries and Forestry, Canberra, ACT.
+
+Department of Agriculture, Fisheries and Forestry 2009, Operational procedures manual: Destruction (Version 2), Australian Aquatic Veterinary Emergency Plan (AQUAVETPLAN), Australian Government Department of Agriculture, Fisheries and Forestry, Canberra, ACT.
+
+Department of Agriculture, Fisheries and Forestry 2009, Operational procedures manual: Disposal (Version 2), Australian Aquatic Veterinary Emergency Plan (AQUAVETPLAN), Australian Government Department of Agriculture, Fisheries and Forestry, Canberra, ACT.
+
+Farm Biosecurity. Animal Health Australia and Plant Health Australia, 2015.
+
+OIE 2014, ‘Manual of Diagnostic Tests for Aquatic Animals 2016’, World Organisation for Animal Health, Paris

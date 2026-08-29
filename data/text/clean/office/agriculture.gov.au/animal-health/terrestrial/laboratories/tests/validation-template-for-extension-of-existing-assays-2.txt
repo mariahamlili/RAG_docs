@@ -1,0 +1,211 @@
+The following is a summary of the essential information required to assess the validation status of an existing assay which is to be extended to include a different sample type, population, species or purpose. Extension of an existing assay may be considered where the minor changes made do not significantly change the fitness for purpose of the assay. Tests on different animal species may have different specificities so will be considered on a case by case basis. Validation is the process through which a test method is determined to be fit for purpose.  It is recognized that validation is an incremental process.  The three levels of validation described in this document - Development and feasibility, Diagnostic performance, and Technology transfer and reproducibility - represent a progression from development through to application. It is proposed that these guidelines be used to assemble the essential data needed for the evaluation of any proposed extension to an existing assay. 
+Proposals will be reviewed by the New Test Development (NTD) working group of SCAHLS according to SCAHLS Policy.
+NOTE: Please save completed documents as ‘client name_ test name_ SCAHLS_NTDWG_assay extension_date.doc’ and forward for review to the Executive Officer SCAHLS ( HYPERLINK "mailto:SCAHLS@daff.gov.au" SCAHLS mailbox) for lodgement and forwarding to the Chair SCAHLS New Test Development working group
+
+NAME OF ASSAY:
+COMMENTS/ DECRIPTION
+1
+BACKGROUND
+
+1.1
+APPLICANT
+
+1.2
+COMMERCIAL INFORMATION
+     Yes ‘commercial in confidence’	   Not commercially sensitive 
+If yes, then it is up to the submitter to arrange appropriate formal agreements if considered necessary
+
+1.3
+INTENDED PURPOSE OF THE  assay extension
+(Should fit one of the 6 OIE ‘Statement of Purpose’ - check at least one)
+A test method may have more than one application. The intended application will determine the required performance characteristics of the method and the criteria for validation
+If a test has more than one application, submitters must provide evidence of fitness for purpose  for each application within the template or in separate templates
+Provide a brief description of microorganism/disease, the species the test will be used on, with background on what is being measured and why the test is being extended.  
+In what other laboratories is the test being used or intended to be used, what national or state programmes will the test support.
+
+ Population freedom (declaration)	 Animal Disease freedom (trade) 	 Eradication/control	 
+ Investigation of clinical signs	   Prevalence estimate (risk analysis) 	 Immune status
+
+1.4
+DESCRIPTION OF the ASSAY
+ (Type of assay, whether derived from OIE prescribed or alternative test, published or in-house development))
+DESCIBE ANY DIFFERENCES FROM THE EXISTING APPROVED ASSAY
+
+1.5
+REFERENCES 
+(Provide relevant references including any that the test was based on; list publications resulting from this work if already published or submitted)
+Provide a statement about degree of acceptability in scientific, regulatory and client community. This should include reference to use in other countries.
+
+1.6
+ Test METHOD PROTOCOL 
+DETAIL ANY VARIATIONS FROM THE ORIGINAL TEST PROTOCOL  FOR THIS EXTENSION
+(Sufficient detail needs to be provided so that the test can be repeated by someone with experience in the basic technique)
+2
+DEVELOPMENT AND FEASIBILITY
+(Describe and reference for each parameter)
+
+2.1
+ANALYTICAL SENSITIVITY 
+Smallest detectable amount of analyte (antibody, antigen ,organism) Including endpoint dilution analysis.
+Earliest time after exposure and duration of analyte  response, e.g. serial testing
+Compare with other methods including Gold Standard
+
+2.2
+ANALYTICAL SPECIFICITY 
+Differentiation of target analyte from that produced by other non-target but related agents. 
+e.g. if the test is used to confirm another independent diagnostic procedure high analytical specificity is required to minimises the amount of cross-reactivity Describe degree to which the assay does not cross-react with other analytes, e.g. number of false positives. The range of possible cross reacting analytes may  differ between species.
+ Include a comparison of results with a Gold Standard
+Testing should be based on a panel of samples from animals of known status. These should include animals exposed to agents found in similar environments, that produce similar symptoms and/or have similar taxonomy
+
+3
+DIAGNOSTIC PERFORMANCE
+(Describe and reference for each parameter)
+
+3.1
+CONTROLS AND REFERENCE REAGENTS
+Describe any further controls required (positive and negative) and the reasons for their use.
+Describe the availability of these controls to other laboratories
+
+3.2
+SELECTION OF REFERENCE POPULATIONS
+ (The reference population should reflect the target population and include an appropriate spectrum of disease/infected animals and also animals free of the target disease/agent).
+The sampling frame should be an unbiased representation of the reference population.
+Describe the criteria used for selection of reference animals e.g. time, location, animals characteristics as breed, age, gender etc.
+Describe the confirmation of the status of selected reference animals (positive or negative).
+
+3.3
+SAMPLING OF THE REFERENCE POPULATION
+(Sample size must be stated and should reflect the degree of the required statistical certainty)
+Describe sampling procedure and any exclusion and/or inclusion criteria.  Describe any limitations that exist relating to obtaining the appropriate number of samples.
+Random and systematic sampling are the preferred options
+
+3.4
+DIAGNOSTIC SENSITIVITY (DSE)
+(Proportion of known infected reference animals that tested positive in the assay)
+A reasonable number of known infected animals should be tested, the numbers will depend on the population of animals available and the disease process, relative sensitivity compared to other methods can be provided; include 2x2 calculations
+
+3.5
+DIAGNOSTIC SPECIFICITY (DSP)
+(Proportion of known uninfected reference animals that tested negative in the assay)
+A reasonable number of animals from known uninfected herds/flocks should be tested, the numbers will depend on the population of animals available and the disease
+
+3.6
+REPRODUCIBILITY
+Was testing conducted by different operators in different laboratories?
+Describe the laboratories involved (location, previous experience in this type of testing, any special equipment used),details of the reproducibility panel (including composition and labelling, selection of samples, other data relating to sample status) administration of the trial (including distribution of panel, collection and collation of results, blinding), trial results (including variation within and between laboratories).
+
+3.7
+ASSAY INTERPRETATION
+Describe interpretation including expected results from low positive, high positive and negative samples
+Calculate precision and accuracy
+Establishment of cut-off(s)for quantitative assays
+DSe and DSp estimates 
+Receiver operator characteristic 
+Unexpected results should be explained
+
+3.8
+PRESENTATIONS OF RESULTS
+DSe and DSp estimates are presented together with sample sizes and confidence intervals on a 
+2x2 table 
+Receiver operator characteristic ROC analysis 
+Uninterpretable and intermediate results should be explained.
+
+3.9
+DISCUSSION OF RESULTS
+Test performance parameters should be discussed in relation to the study design and the intended or current use of the test
+If the gold standard is imperfect, this should be discussed in relation to the effect on the study results
+
+4
+TECHNOLOGY TRANSFER AND REPRODUCIBILTY
+(Describe and reference for each parameter if appropriate)
+
+4.1
+TECHNOLOGY TRANSFER
+(Evidence and method of technology transfer)
+Has the new method been implemented in any other laboratories (beyond reproducibility testing set out above).  How was the technology transferred, to which laboratories, and over what period of time?
+Details of the number and type of samples and their results.
+How did the test perform in other laboratories in comparison to the originating laboratory?
+
+4.2
+MONITORING VALIDITY OF ASSAY PERFORMANCE
+(Discrepant analysis, i.e. use of a different test to confirm findings or retesting the sample or animal for example)
+Interpret with knowledge of the positive and negative predictive values
+Validity of the assay can also be monitored by:
+- Assessment of categorical (positive/negative) test data as it becomes available e.g. after 12 month
+- Estimation of prevalence in target populations
+- Calculation of positive and negative predictive values (PPV, NPV) e.g. for a number of relevant and or anticipated prevalences e.g. 0.1, 1 and 5 % prevalence 
+- Assessment of precision and accuracy (repeatability, intra- and interassay, basic statistics and Levey-Jennings charts)
+- Assessment of reproducibility estimates through participation in external QAPs e.g. ANQAP z-score, Youden Plots, estimates for  random vs systematic errors, basic statistics e.g. Coefficient of variation (CV), mean, etc
+- Establishing lower and upper control limits (LCL, UCL) for internal controls (C++, C+ and C- e.g. using mean value of control plus three standard deviations from at least 20 runs)
+
+4.3
+MAINTENANCE AND ENHANCEMENT OF VALIDATION CRITERIA
+Description of a range of appropriate test controls, including plans for continuous validation assessment.
+Continuous validation assessment may include:
+- Additional results from samples tested from target population as they become available 
+- Extending validation criteria into other populations or adjusting assumptions for original population e.g. as prevalence may drop  during an eradication campaign (when both true positive and false positive animals are removed) 
+- Replacement of reagents (new reagents are standardised by comparison with reagents currently in use and participation in external QA programmes)
+
+4.4
+QUALITY ASSURANCE
+(Will the test will be included in Quality Assurance programs? - ANQAP, other)
+Describe progress, plan, communications
+
+5
+APPROVAL PROCESS RECORD
+(To be completed by the Chair of the SCAHLS New Test Development Group or E/O SCAHLS)s
+
+5.1
+Dates (dd/mm/yyyy)
+Received by SCAHLS NTD Group: ___/___/____
+Referred for peer review: ___/___/____
+Peer review completed: ___/___/____
+Decision to submit to SCAHLS or not, communicated to submitter: ___/___/____
+SCAHLS decision: ___/___/____
+SCAHLS decision communicated to submitter: ___/___/____
+
+5.2
+Description of the review process undertaken (e-mail consultation, teleconference, face to face meetings etc)
+
+5.3
+Review result (check one and provide reason)
+ Recommended to SCAHLS and AHC	 Not recommended
+
+Initial and date:
+
+Reason:
+5.4
+Process for Reporting the Recommendation
+ From Chair NTD working group		 From Chair NTD working group directly to client 
+ through EO and Chair SCAHLS		 
+6.5
+Date of Decision and Reporting
+Decision: dd/mm/yyyy			Reported: dd/mm/yyyy
+6.6
+Process for Reporting the Recommendation
+ From Chair NTD working group		 From Chair NTD working group directly to client 
+ through EO and Chair SCAHLS
+
+APPENDIX B-1.5
+
+TEST METHOD PROTOCOL FOR [NAME] [ASSAY] 
+FOR INCLUSION IN THE ANZSDP FOR [NAME] DISEASE
+
+(Sufficient detail needs to be provided so that the test can be repeated by someone with experience in the basic technique). This detailed method is normally included in the ANZSDP Appendix.
+Include such things as:
+Reagents (including any preferred suppliers)
+Equipment/platforms (including software)
+Safety/bio-safety precautions/special laboratory requirements
+Test procedures
+Calibration required
+Specimen collection and handling and treatments
+Test acceptance criteria
+Result interpretation
+Any technical qualifications
+Throughput and turn around time expectations
+
+APPENDIX B - SCAHLS VALIDATION TEMPLATE FOR EXTENSION OF EXISTING ASSAYS
+
+PAGE  12
+
+FILENAME SCAHLS_extension of existing assay (2)		Page  PAGE 1 of  NUMPAGES 11

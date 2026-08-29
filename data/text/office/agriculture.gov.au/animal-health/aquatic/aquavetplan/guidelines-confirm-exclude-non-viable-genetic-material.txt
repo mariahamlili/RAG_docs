@@ -1,0 +1,115 @@
+Guidelines to confirm or exclude non-viable genetic material as the cause of positive molecular test results for exotic pathogens of aquatic animals
+
+Table 1 Document change history
+
+Note: a Australian Government Department of Agriculture, Water and the Environment, b Australian Government Department of Agriculture, Fisheries and Forestry, c Sub-Committee on Aquatic Animal Health.
+
+1. Purpose and scope
+
+This document provides guidelines intended to be used by jurisdictions for investigating and resolving positive molecular test results for exotic pathogens of aquatic animals that may be caused by non-viable genetic material in feed or other sources. It also provides information on measures that can be taken for routine surveillance sampling and testing to minimise contamination of samples with non-viable nucleic acids of exotic pathogens.
+
+The guidelines aim to avoid misattribution of a positive molecular test result for an exotic pathogen as:
+
+resulting from non-viable genetic material when the cause is a viable pathogenic agent (which may result in a delayed response, or no response at all); or
+
+resulting from viable pathogenic agent when the cause is non-viable genetic material (which may result in an unnecessary and potentially expensive emergency response).
+
+2. Background
+
+Non-viable genetic material of exotic pathogens may be introduced into an aquaculture establishment through imported products that have been treated to inactivate pathogens of concern. The products may include aquatic animal feeds that have been heat-treated or irradiated in accordance with import requirements, or possibly cooked seafood. Non-viable genetic material does not present a biosecurity risk; however, it may result in positive laboratory test results.
+
+Production of aquatic animal meals and extruded feeds involves extensive processing. Manufactured feeds and feed ingredients imported into Australia are required to be imported in compliance with biosecurity measures to inactivate aquatic animal pathogens. Under the Biosecurity Act 2015 (Commonwealth), imported feed and feed ingredients of aquatic animal origin for aquaculture purposes are required to undergo moist heat treatment at either 80°C for 20 minutes or 85°C for 15 minutes. Alternatively, the feed products must undergo treatment by gamma irradiation at a minimum dose of 50 kilogray which is performed by a facility within Australia that is approved by the Department of Agriculture, Fisheries and Forestry (https://bicon.agriculture.gov.au/BiconWeb4.0). These treatment measures inactivate known aquatic animal pathogenic agents and will denature pathogen nucleic acids. However, following treatment, fragments of non-viable pathogen nucleic acids may still be amplified by polymerase chain reaction (PCR) tests.
+
+There have been several recent instances in Australian aquaculture establishments where positive PCR test results for exotic pathogenic agents have later been determined to have resulted from genetic material occurring in heat-treated imported aquatic animal feeds or imported seafood. As with any suspected detection of an exotic disease agent, these positive test results led to disease investigations and biosecurity measures were implemented by the affected businesses and governments during the investigation.
+
+Extensive investigations were required to determine that there was no evidence of infection or disease caused by an exotic agent and therefore the positive test results were due to detection of genetic material from non-viable pathogens (most often from imported feed). In some examples, the biosecurity measures implemented during the investigations required significant resources and had operational and financial impacts on businesses.
+
+Molecular testing methods, such as polymerase chain reaction (PCR), work by amplifying unique sequences of pathogen nucleic acids (DNA or RNA). Heat treatment or irradiation can manage biosecurity risks by inactivating any exotic pathogens that might be present in imported products. However, fragments of nucleic acids from non-viable pathogens may remain in treated products and, if present in diagnostic samples, may cause positive PCR test results. This does not mean that these PCR positive results are false positives; however, the positive results do not indicate viable pathogenic agent.
+
+There are no validated methods for determining whether a positive PCR test result has occurred from either viable or non-viable genetic material of an aquatic animal pathogen. The presence of non-viable pathogen nucleic acids in aquatic animal products does not indicate an issue with the quality of testing. Rather it indicates that at some point, the product ingredients have contained the pathogenic agent or have been exposed to pathogen containing material. This is most likely to occur if the products are manufactured from aquatic animal species that are susceptible to the pathogenic agent and have been sourced from areas where the pathogenic agent is endemic.
+
+3. Response and investigation process
+
+Australia has well established emergency response arrangements that are initiated when there is suspicion that aquatic animals may be infected with exotic pathogens. These arrangements have been developed to detect incursions rapidly, prevent their spread and, where feasible and cost-effective, support containment or eradication. Details of the arrangements can be found in AQUAVETPLAN, Australia’s Aquatic Veterinary Emergency Plan. Key steps in a response that are relevant to these guidelines are summarised below.
+
+Detection and reporting – there are legal obligations within each state and territory for reporting suspicion of significant diseases of aquatic animals. Reports must be provided in accordance with the legislation of the relevant state or territory. A report may be initiated by signs of disease or a positive test result (with or without any disease signs). Rapid detection and reporting are critical if a successful response outcome, such as eradication, is to be achieved.
+
+Biosecurity measures – biosecurity measures will be implemented in all cases where there is suspicion of an exotic pathogen. These measures are implemented promptly during the investigation phase to prevent possible spread of a disease should it later be confirmed to be present. The biosecurity measures will depend on the nature of the production facility, the likelihood of spread to other susceptible populations, consequences of disease establishment, and the level of suspicion that an exotic pathogen is in fact present (based on available information). Where possible, measures will be implemented in a way to avoid unnecessary business impacts; however, some business impacts are likely to occur.
+
+Disease investigation – in all cases where there is suspicion of an exotic pathogen an investigation will be initiated to either confirm or exclude infection in the aquatic animal population. The investigation will involve the collection of epidemiological information (e.g., patterns of presentation of clinical signs), further collection of samples and testing using different methods to determine if an active infection is present in the population. The speed with which the investigation can be completed is usually dependent on how quickly the appropriate samples can be collected and the relevant epidemiological information collected.
+
+Confirmation / exclusion – the decision to confirm or exclude the presence of infection or disease caused by an exotic agent will only be made once all necessary information has been collected through the disease investigation.
+
+4. Pathways for entry of non-viable nucleic acids
+
+There are multiple potential pathways for non-viable genetic material of exotic pathogens to be transferred into an aquaculture establishment. Sources include products manufactured from susceptible aquatic animal species from areas where the disease is endemic, such as imported aquatic animal feeds or imported products for human consumption. Potential sources of non-viable nucleic acids of exotic pathogens are discussed further below.
+
+Possible sources of non-viable genetic material:
+
+Aquatic animal feeds – imported aquaculture feeds and feed ingredients may be manufactured from aquatic animals sourced from countries where pathogens of interest are endemic. It would not be practical or cost-effective to exclude entry of feeds that may contain non-viable nucleic acids of exotic pathogens onto a farm. Also, given the nature of global supply chains for feed ingredients, it may not be possible for manufacturers to assure the absence of non-viable nucleic acids of exotic pathogens in their feeds. An awareness of the potential for manufactured feeds to introduce non-viable genetic material of exotic pathogens onto a farm will assist in surveillance and disease investigation activities.
+
+Products for human consumption – cooked imported seafood and highly processed seafood products may contain non-viable nucleic acids of exotic pathogens. Imported raw seafood products and their packaging may also contain viable exotic pathogens and the risks of seafood being brought onto an aquaculture site should be considered in a farm’s biosecurity plan.
+
+Other products, equipment or containers – other products that are manufactured from aquatic animals sourced from countries were the pathogens of interest are endemic, or equipment or containers that have been in contact with these products could carry non-viable nucleic acids of exotic pathogens. The potential of any such products to introduce non-viable nucleic acids of exotic pathogens onto the site should be evaluated.
+
+5. Routine surveillance sampling and testing
+
+Reducing contamination of routine surveillance samples may avoid some positive test results caused by non-viable nucleic acids and the consequent investigations into suspect cases of exotic diseases. Measures to reduce the likelihood of routine surveillance samples becoming contaminated with non-viable nucleic acids should be considered regardless of whether sources of non-viable pathogen nucleic acids are known to be present within an aquaculture establishment.
+
+Sample contamination can be reduced by, where possible, avoiding environmental samples, sampling appropriate internal tissues where the pathogen is expected to occur, and (where appropriate) ensuring aseptic sampling methods that avoid external surfaces or alimentary tract. Appropriate laboratory sample processing and testing may also reduce contamination. Approaches to reducing contamination are discussed further below.
+
+Environmental samples – in some cases, samples with a higher risk of contamination (e.g., faeces, water, external tissue surfaces) may be desirable for non-destructive routine sampling of animals. A decision to use these samples should be made in the context of the performance of the test (most PCR methods are not validated for environmental samples) and the risk of contamination. If environmental samples must be used (e.g., for high value stock) for routine surveillance, further consideration should be given to approaches to quickly determine whether contamination is a possible source of positive test results (e.g., simultaneous collection and submission of possible sources of non-viable genetic material of exotic pathogens). Environmental samples should be avoided during an outbreak investigation for a suspect exotic pathogen.
+
+Tissues to be sampled – consideration must be given to selecting the appropriate tissue for the target disease. Some pathogens have a broad tissue tropism and can infect many types of organs and tissues, but others may only infect a particular organ. PCR test methods are often validated for use on specific tissues of aquatic animals that are targeted by the pathogen. Where alternate tissues are used, the performance of the method may be affected, or the likelihood of contamination may increase.
+
+Appropriate sampling and handling – Care must be taken during sampling, transportation and laboratory procedures to avoid contamination of samples. The likelihood of contamination can be reduced by implementing good sample collection practice that limits environmental contamination of samples and using new clean sample containers. Sample processing is best conducted in the testing laboratory were facilities and sterile equipment are available to ensure appropriate tissue samples can be collected in a manner that reduces the likelihood of contamination from an animal’s external surfaces or gut, or from the sample containers.
+
+Testing laboratories – laboratories undertaking routine surveillance testing for exotic disease agents must comply with the regulatory requirements of the relevant jurisdiction. It is desirable that laboratories hold accreditation for ISO/IEC 17025 Animal Health Laboratory by NATA. This accreditation includes quality assurance procedures to avoid cross contamination during handling of testing samples. Test methods for exotic disease agents should follow the recommendations of the OIE Manual of Diagnostic Tests of Aquatic Manuals. If alternative methods are routinely used, including alternative sample matrices, any impact on performance should be considered. Any positive test results for exotic pathogens of aquatic animals must be reported to the Chief Veterinary Officer of the state or territory where the samples were sourced.
+
+6. Investigation of positive test results
+
+An outbreak investigation should be initiated in all cases where there is a positive molecular test result for an exotic pathogen. The investigation should continue until there is sufficient evidence to confirm or exclude that animals are infected with an exotic pathogen.
+
+There are two principal disease scenarios under which a positive molecular test result for an exotic pathogen may be obtained and an investigation initiated:
+
+in response to a health condition (e.g., clinical signs, poor performance, morbidity or mortality)
+
+routine surveillance of apparently healthy animals.
+
+Epidemiological information.
+
+An investigation into positive test results for an exotic disease should not rely solely on laboratory testing. Additional health information regarding the case history, including patterns of disease (or lack of disease) and any possible contributing disease factors should be collected from the affected premise (e.g., by interview) as early as possible. Accurate record keeping by farms (as defined in their biosecurity plans) can assist prompt investigation. Types of information may include:
+
+syndrome recognition (a set of particular behavioural or visible clinical signs)
+
+levels of morbidity or mortality
+
+environmental conditions (e.g., water quality parameters)
+
+location of animal populations and epidemiological connectivity
+
+dates of animal movements
+
+feeding rates
+
+associations between possible sources of non-viable genetic material and the positive test results.
+
+Samples required for investigation.
+
+A variety of sample types may be required to determine the cause of a disease outbreak or to determine whether a positive test result is due to an infection or non-viable genetic material of an exotic pathogen. If a positive test result is due to non-viable genetic material of an exotic pathogen, the disease associated with that pathogen will be absent and it should be possible to detect a source of the genetic material. Prompt collection and re-testing of appropriate samples (including different sample types) will facilitate a more rapid resolution of the investigation. Types of samples that may be warranted include:
+
+possible sources of non-viable genetic material of exotic pathogens (e.g., feed)
+
+tissue samples of affected / test-positive animals for histopathology (including in situ hybridisation) to determine if there is pathology typical of the disease and if active multiplication of pathogens in animals is occurring
+
+tissue samples of affected / test-positive animals for PCR (where environmental / non-destructive samples were the source of an original positive PCR result)
+
+time course samples to determine if infection is actively developing (for example levels of pathogen nucleic acid are increasing consistent with outbreak conditions rather than a constant source of non-viable pathogen nucleic acid).
+
+Checklist for disease investigation.
+
+The checklist at Annex 1 provides examples of the types of evidence that may be useful to decide whether a positive test result for an exotic pathogen is due to an infectious agent or non-viable genetic material.
+
+Evidence may not be required for all checklist items to conclude an investigation and determine that positive test results are due to genetic material from non-viable exotic pathogens. However, any contrary evidence must be investigated further and explained prior to excluding the presence of an active infection with an exotic pathogen.
+
+Annex 1. Checklist of evidence to determine if positive molecular test results for an exotic pathogen are due to an active infection or non-viable nucleic acids.

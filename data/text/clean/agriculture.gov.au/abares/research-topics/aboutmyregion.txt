@@ -1,0 +1,81 @@
+ABARES About my region is a dashboard incorporating data on the agricultural, forestry and fisheries industries in your region. The regions are based on regional boundaries set by the Australian Bureau of Statistics. The dashboard presents an overview of the agriculture, fisheries and forestry sectors in each region, as well as state and national totals.
+
+ABARES has also provided a dashboard to help identify your region.
+
+This dashboard contains data for 2020-21 and has not been updated due to the reduced set of agricultural statistics collected in the latest 2021-22 ABS Rural Environment and Agricultural Commodities Survey.
+
+For more information, see:
+
+Agricultural Commodities - Agricultural Commodities, Australia, 2021-22 financial year | Australian Bureau of Statistics (abs.gov.au)
+
+Value of Agricultural Commodities Produced - Value of Agricultural Commodities Produced, Australia, 2021-22 financial year | Australian Bureau of Statistics (abs.gov.au)
+
+National, state or territory and regional statistics on:
+
+- Value of agricultural commodities produced for 2020–2021
+
+- Number and type of farms for 2020–2021
+
+- Share of farms based on the estimated value of agricultural operations for 2020–2021
+
+- Total number of people employed in agriculture sector for 2020–2021 Census year
+
+- Employment profile by industry for May 2022
+
+- Tenure of Australia’s forests 2018
+
+- Number of sawmills for 2019–2020
+
+- Total number of people employed in forestry sector for 2020–2021 Census year
+
+- Number of fishing ports for 2019–2020
+
+- Total number of people employed in fishing sector for 2020–2021 Census year
+
+- Land use of Australia and land use maps for 2015–2016
+
+The About My Region boundaries dataset is maintained to provide the regional location for the About My Regions profiles. The regions are based on the Australian Bureau of Statistics Statistical Area Level 4 (SA4) regions and Greater Capital City Statistical Areas (GCCSA).
+
+Top commodities by value:
+
+ABS 2022, Value of Agricultural Commodities Produced, Australia, 2019-20, cat. no. 7503.0 Australian Bureau of Statistics, Canberra, accessed 26 July 2022.
+
+Number and type of farms:
+
+ABS 2022, Customised Report, Australian Bureau of Statistics, Canberra.
+
+Estimated value of agricultural operations:
+
+ABS 2022, Customised Report, Australian Bureau of Statistics, Canberra.
+
+Employment in agriculture:
+
+Australian Bureau of Statistics (2021) Census of Population and Housing, Industry of Employment (INDP) by SA4 (UR) [Census TableBuilder], accessed 19 October 2022.
+
+Employment profile:
+
+ABS 2022, Labour Force, Australia, Detailed, Quarterly, May 2022, cat. no. 6291.0 Australian Bureau of Statistics, Canberra, accessed 13 July 2022.
+
+Broad land use:
+
+ABARES 2016, Land Use of Australia 2010–11, ABARES, Canberra, May.
+
+Number of sawmills:
+
+ABARES 2021, unpublished report, ABARES, Canberra.
+
+Forests tenure and type:
+
+ABARES 2019, Tenure of Australia’s forests, ABARES, Canberra, December.
+
+Employment in forestry:
+
+Australian Bureau of Statistics (2021) Census of Population and Housing, Industry of Employment (INDP) by SA4 (UR) [Census TableBuilder], accessed 19 October 2022.
+
+Ports:
+
+ABARES 2021, unpublished report, ABARES, Canberra.
+
+Employment in fisheries:
+
+Australian Bureau of Statistics (2021) Census of Population and Housing, Industry of Employment (INDP) by SA4 (UR) [Census TableBuilder], accessed 19 October 2022.

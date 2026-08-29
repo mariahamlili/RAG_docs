@@ -1,0 +1,420 @@
+A REVIEW AND ANALYSIS OF SALEYARD MARKETING IN AUSTRALIA
+FINAL REPORT PREPARED FOR AUSTRALIAN GOVERNMENT DEPARTMENT OF AGRICULTURE, FISHERIES AND FORESTRY
+PREPARED BY HASSALL & ASSOCIATES PTY LTDContents
+ TOC \o "3-3" \t "Heading 2,1,Heading 3,2" EXECUTIVE SUMMARY	 PAGEREF _Toc278969083 \h 1
+1 PURPOSE OF THE STUDY	 PAGEREF _Toc278969084 \h 3
+2 TERMS OF REFERENCE	 PAGEREF _Toc278969085 \h 3
+3 METHODOLOGY	 PAGEREF _Toc278969086 \h 4
+3.1 Saleyard Location and Contacts	 PAGEREF _Toc278969087 \h 4
+3.2 Interview Design	 PAGEREF _Toc278969088 \h 4
+3.3 Interview Process	 PAGEREF _Toc278969089 \h 5
+3.4 Database Design	 PAGEREF _Toc278969090 \h 5
+4 PROFILE OF SALEYARD MARKETING IN AUSTRALIA	 PAGEREF _Toc278969091 \h 8
+4.1 History	 PAGEREF _Toc278969092 \h 8
+4.2 Descriptive Analysis	 PAGEREF _Toc278969093 \h 8
+4.3 Online Auctions	 PAGEREF _Toc278969094 \h 14
+4.4 Key Drivers	 PAGEREF _Toc278969095 \h 16
+4.5 Future trends	 PAGEREF _Toc278969096 \h 19
+APPENDIX 1 – INITIAL EMAIL	 PAGEREF _Toc278969097 \h 22
+APPENDIX 2 – SALEYARD INTERVIEW FORM	 PAGEREF _Toc278969098 \h 23
+APPENDIX 3 – REFERENCES	 PAGEREF _Toc278969099 \h 25
+
+List of Figures
+ TOC \t "Figure Caption" \c Figure 1 - Penrith Saleyards circa 1880	 PAGEREF _Toc278969072 \h 8
+Figure 1 - Distribution of saleyards and proportion of annual sales by state	 PAGEREF _Toc278969073 \h 9
+Figure 2 – Location of NSW and VIC Saleyards & annual sales	 PAGEREF _Toc278969074 \h 11
+Figure 3 – Location of QLD and WA Saleyards & annual sales	 PAGEREF _Toc278969075 \h 12
+Figure 4 – Location of SA and TAS Saleyards & annual sales	 PAGEREF _Toc278969076 \h 13
+Figure 5 – Location of NT Saleyard & annual sales	 PAGEREF _Toc278969077 \h 14
+Figure 6 Proposed saleyard locations	 PAGEREF _Toc278969078 \h 20
+
+List of Tables
+ TOC \t "Table Caption" \c Table 1 - Description of the labels used in the Excel database	 PAGEREF _Toc278969079 \h 5
+Table 2 - A summary of the key drivers influencing the number of vendors at a sale.	 PAGEREF _Toc278969080 \h 17
+Table 3 - A summary of the key drivers influencing the number of buyers at a sale.	 PAGEREF _Toc278969081 \h 18
+
+Acknowledgments 
+Hassall & Associates would like acknowledge the contributions of saleyard operators and stock and station agent across Australia that provided their time and saleyard experience for this review. In particular we would like to thank Ron Penny, David Pollock and Dave Saunders for their significant contributions in collating a national list of operational saleyards. 
+Disclaimer - All care has been taken in the preparation of this report. Information from various sources has been incorporated in the report. Accordingly, we do not express any opinion on the accuracy of this information, nor does this company accept any responsibility to any other party who may rely on the content of this report. 
+HASSALL & ASSOCIATES PTY LTD (Inc in NSW). ABN 95 001 211 007
+PO Box 1052 Dubbo NSW 2830
+Ph: 02 6884 6250 Fax: 02 6884 6249 EXECUTIVE SUMMARY 
+The central purpose of this study was to collate, map and tabulate historical and recent data to define the movement of sheep, cattle (beef and dairy), pigs and horses through the saleyard network across Australia. The prime use of this data will be its use by the Office of the Chief Veterinary Officer (OCVO) within Australian Government Commonwealth Department of Agriculture, Fisheries and Forestry (DAFF) to model future disease outbreaks. 
+A list of the 210 saleyards across Australia was collated and an extensive phone interview of all operators was conducted to tabulate “best estimates” of annual throughput in an “average” year, by species and class of animal. Maximum and minimum data was also collected to provide a “feel” for the ranges around nominated averages. Other information collected included: 
+regularity, species and number of sales each year 
+distance and direction of stock movements 
+factors influencing vendor and buyer numbers at sales 
+issues about long term viability. 
+One hundred and ninety four “operational” saleyards were identified across Australia. “Operational saleyards” were defined as those yards that have “predictable” sales, usually on a regular basis and with significant numbers. 
+
+Saleyard locations were geo-referenced to the closest town and spatially mapped. Almost 40% of the saleyards were located in NSW with another 40% based in QLD and VIC. Nearly all saleyards were located in the high rainfall and wheat/sheep zones on major arterial roads. 
+During an “average” year some 19 million sheep and 6 million cattle are sold through the national saleyard network, with the majority of sheep (73%) and cattle (62%) being sold through NSW and Victorian saleyards. 
+The operation of saleyards and the environment in which they operate has changed significantly since the mid 1880’s when nearly every village had its own set of saleyards where animals were sold and often killed in the backyard of the local butcher. Saleyards were often beside a pub for farmers to refresh themselves on market day, which was a big social event. 
+Seasonal conditions and the reputation of the saleyards are the most important drivers influencing which saleyards vendors send their stock to and which yards buyers attend to purchase stock. Expected prices are also important drivers for vendors whilst the quantity and reputation of the livestock motivate buyers to purchase from a particular saleyard. 
+In the future, the national saleyard network will be more regionalized with significant numbers of the smaller saleyards closing down, either unable to comply with increasingly stringent government regulations and/or unable to source sufficient capital to provide a level of technology comparable to their regional counterparts. 
+Councils may continue to fund smaller saleyards making a loss as a community service. Proposed closure of the Bathurst and Orange saleyards when the new Carcoar Regional complex is built shows that this may be limited to a small number of councils. 
+A $200 million budget held by Regional Infrastructure Pty Ltd and an ambitious plan to build 10 regional saleyards between Rockhampton in QLD and Warrnambool in VIC may accelerate the process of regionalizing the saleyard selling network in the eastern sates. The first complex at Carcoar is expected to be operational by December 2007. 
+Broadband, digital technology, the removal of on-line selling charges and the ability to set up internet systems with minimal overheads have helped “on-line selling systems” to become a real alternative for selling livestock. AuctionsPlus (AP) has now progressed to be a leader in electronic on-line web-based auctions. AP allows commodity transaction, reserve price setting and legal change of ownership without the seller, buyer or product having to come together physically at the time of the sale.  
+AP currently accounts for a small proportion of national sales, 8% of sheep and 3% of cattle. Drawing buyers from much greater distances and knowing exactly where the stock has come from are strong points for AP over physical saleyard selling systems. Challenges facing AP include accurately describing the product, keeping up with advances in Internet technology and keeping in front of emerging competitors. If these challenges are met, AP may gain a greater share of the market. 
+To be viable in the long term, saleyards need sufficient throughput to cover the overhead costs incurred in meeting the cost of government regulations, associated technology and on-going maintenance needs. 
+1 PURPOSE OF THE STUDY 
+The central purpose of this study was to collate, map and tabulate historical and recent data to define the movement of sheep, cattle (beef and dairy), pigs and horses through the saleyard network across Australia. The prime use of this data will be its use by the Office of the Chief Veterinary Officer (OCVO) within Australian Government Commonwealth Department of Agriculture, Fisheries and Forestry (DAFF) to model future disease outbreaks. 
+2 TERMS OF REFERENCE 
+The main tasks outlined in the terms of reference were to: 
+Tabulate and map the classification and location of operational saleyard facilities within Australia by: 
+Species – sheep, cattle, pigs and horses; and 
+Class – prime or store sales. 
+Describe sale dynamics with reference to: 
+Regularity and numbers of sales; 
+Sources of livestock by distance and direction; 
+Destination of sales by distance and direction; 
+Factors influencing movement; and 
+Trends in the estimates. 
+A secondary outcome of the project will be an up to date database of the names, locations and contact details of all operational saleyards across Australia. 
+3 METHODOLOGY 
+3.1 Saleyard Location and Contacts 
+“Operational saleyards” were defined as those yards that have “predictable” sales, usually on a regular basis and with significant numbers. Agreement on this definition was reached and documented in the project work plan prior to commencement of the project. 
+Hassall & Associates researched and documented the name, address, and contact details of operational saleyard facilities across Australia. This information was gained from various databases including: 
+Membership list from the National Saleyards Operators Association (NSOA) provided by the CEO Ron Penny. Saleyards in WA and TAS are generally not members of this association. 
+Cattle saleyards in Australia from the review of the structure and dynamics of the Australian beef cattle industry by AusVet Animal Health Services (2006). 
+Sheep saleyards in Australia from the review of the structure and dynamics of the Australian sheep industry by Hassall & Associates (2007). 
+Operational saleyard list in WA from Dave Saunders - WA Meat Industry Authority. 
+Operational saleyard list in TAS from Chris Taylor – Roberts Limited. 
+A list of the 210 saleyards across Australia was collated and submitted to OCVO for review and approval.  
+3.2 Interview Design 
+Hassall & Associates reviewed and refined the OCVO interview template in light of the inception meeting and issues arising in the definition and discovery of operator contact details. 
+The interview questionnaire was piloted with the operator of the Dubbo saleyards. This approach ensured that the pilot interview could be conducted in sufficient depth to test the structure of the questionnaire and to determine what data could be practically collected. This interview was conducted with all members of the Hassall project team in attendance so that a greater understanding of the responses and processes could be gained. 
+The interview questionnaire was further refined as a result of the pilot. The terminology used in questions was changed to be made more appropriate for the target audience. Repetitive questions were changed and compass points (north, south, east, west) were used to clarify discussions about the direction of travel. The refined interview questionnaire was submitted to OCVO for review and approval. 
+3.3 Interview Process 
+Hassall & Associates emailed an introductory letter from OCVO to all saleyard operators that explained the nature of the project and encouraged participation. This email asked the saleyard operator to confirm the correct contact details for the appropriate person to interview and nominated Hassall as the sub-contractor for the project. This step was important to ensure that the interviewers encouraged operators to take time out of their busy schedules to participate. Operators were also offered a digital version of the locations of operational saleyards across Australia in return for their time and participation. 
+Hassall & Associates interviewed all 210 of the saleyard operators across Australia and only two operators at Dungog and Windsor refused to participate. The first saleyard operator explained that his saleyards were under repair. The second felt that there were too many variables to give out the figures requested and that he was too busy to participate. 
+Best estimates were sought from the operators rather than averages of tabulated data. Discussion collated data that reflected an “average” year and not drought affected numbers. Maximum and minimum data was also collected to provide a “feel” for the ranges around nominated averages. Other information collected included: 
+regularity, species and number of sales each year 
+annual throughput  
+distance and direction of stock movements 
+factors influencing vendor and buyer numbers at sales 
+issues about long term viability. 
+Regulators and/or stock and station agents were also called when necessary to clarify issues or to fill data gaps that the saleyard operators were unable to complete. Follow-up phone calls were conducted to address queries in the collated data. 
+3.4 Database Design 
+A Microsoft® Office Excel spreadsheet was used to tabulate the saleyard data and contact details into a single page, flat database to facilitate pivot table and crosstab analysis. It has been provided separately to the OVCO. The pilot interview results were collated in the spreadsheet database and submitted to OCVO for sign-off before the rest of the interviews were undertaken. Table 1 describes the labels that are used in the interview database. This table helps to identify the different information that is contained within the database. 
+Table 1 - Description of the labels used in the Excel database 
+Label Name 
+Meaning 
+Saleyard 
+Location/name of the saleyard 
+State 
+State in which the saleyard is located 
+Contact 
+Name of the person contacted for the project 
+Phone 
+Phone number of the contact person 
+Sale Type  
+Type of sale held in saleyard (e.g. prime, store)  
+Sale Code 
+Code of the type of sale (Store sheep = SS) 
+Regularity  
+Regularity of sales (e.g. Weekly, monthly etc.) 
+Timing 
+Timing of sale in Day or month format (Tuesday or Jan/Feb) 
+Annual Total 
+Total number of livestock through the saleyard 
+Number sales per year 
+Number of sales held per year 
+Animals (Min) 
+Minimum number of livestock at a sale 
+Animals (Average) 
+Average number of livestock at a sale 
+Animals (Max) 
+Maximum number of livestock at a sale 
+Vendors (Min)  
+Minimum number of vendors supplying livestock to a sale 
+Vendors (Average)  
+Average number of vendors supplying livestock to a sale 
+Vendors (Max)  
+Maximum number of vendors supplying livestock to a sale 
+Vendors (100% travel) 
+All vendors travel within this radius to the sale 
+Vendors (85% travel) 
+Majority of vendors travel within this radius to the sale 
+Direction (N S E W) 
+Direction livestock travel from to reach the saleyard 
+All Buyers (Min) 
+Minimum number of buyers purchasing livestock at a sale 
+All Buyers (Average) 
+Average number of buyers purchasing livestock at a sale 
+All Buyers (Max) 
+Maximum number of buyers purchasing livestock at a sale 
+Direction (N S E W) 
+Direction livestock travel to reach post sale destinations 
+Abattoir (% Livestock) 
+Percentage of livestock sold to abattoirs at a sale 
+Feedlot (% Livestock) 
+Percentage of livestock sold to feedlots at a sale 
+Farm (% Livestock) 
+Percentage of livestock sold to farms at a sale 
+Abattoir (100% travel) 
+All abattoir livestock travel within this radius from the sale 
+Feedlot (100% travel) 
+All feedlot livestock travel within this radius from the sale 
+Farm (100% travel) 
+All farm livestock travel within this radius from the sale 
+Abattoir (85% travel) 
+Majority of abattoir livestock travel within this radius from the sale 
+Feedlot (85% travel) 
+Majority of feedlot livestock travel within this radius from the sale 
+Farm (85% travel)  
+Majority of farm livestock travel within this radius from the sale 
+Factors influence vendor numbers 
+Factors influencing the number of vendors at a sale 
+Factors influence buyer numbers 
+Factors influencing the number of buyers at a sale 
+Influences on future viability 
+Factors influencing the future viability of saleyards 
+
+4 PROFILE OF SALEYARD MARKETING IN AUSTRALIA 
+ 4.1 History 
+In the 1880’s nearly every village had its own set of saleyards where animals were sold and often killed in the backyard of the local butcher. Saleyards were often beside a pub for farmers to refresh themselves on market day, which was a big social event. On market day the women came to town, did their shopping and met friends and relatives. 
+Figure 1 - Penrith Saleyards circa 1880 
+
+There were many changes over the years. Decimal currency took a long time to adjust to, as did cattle being weighed on electronic scales and sold by live weight at cents per kilogram. Previously, cattle were sold in the ring and sales lasted all day whereas now they are often sold in an hour or two. The expansion of road and rail networks throughout the 1900’s saw the closure of many of the smaller saleyards but not to the extent one might have expected.  
+While the number of sheep, beef, pork and poultry farms has fallen dramatically, the number of saleyards has remained relatively static at around 200 nationally (Penny pers comm.). The function of some of the smaller yards has also changed. While these yards may no longer conduct regular sales they have become transit centres where livestock are weighed and change hands in private treaty sales or are treated for lice or ticks. Charters Towers and Richmond in Queensland are good examples of this. 
+4.2 Descriptive Analysis 
+At the time of writing (May 2007), 194 “operational” saleyards were identified across Australia. Saleyard locations were geo-referenced to the closest town and spatially mapped using ArcGIS 9.2. Digital map data will be supplied as ESRI shape files with the final report. 
+Almost 40% of the saleyards were located in NSW with another 40% based in Queensland and Victoria. Nearly all saleyards were located in the high rainfall and wheat/sheep zones on major arterial roads. 
+During an average year some 19 million sheep and 6 million cattle are sold through the national saleyard network, with the majority of sheep (73%) and cattle (62%) being sold through NSW and Victorian saleyards. The distribution and volumes of livestock sold are illustrated in figure 2. 
+Figure 1 - Distribution of saleyards and proportion of annual sales by state 
+
+SHEEP - proportion of national sales 
+
+CATTLE - proportion of national sales 
+
+ 
+Figure 2 – Location of NSW and VIC Saleyards & annual sales 
+
+Legend : PS=Prime sheep, PB=Prime beef, SS=Store sheep, SB=Store beef, P=Pigs, H=Horses, PT=Private Treaty 
+Figure 3 – Location of QLD and WA Saleyards & annual sales 
+
+Legend : PS=Prime sheep, PB=Prime beef, SS=Store sheep, SB=Store beef, P=Pigs, H=Horses, PT=Private Treaty
+Figure 4 – Location of SA and TAS Saleyards & annual sales 
+
+Legend : PS=Prime sheep, PB=Prime beef, SS=Store sheep, SB=Store beef, P=Pigs, H=Horses, PT=Private Treaty 
+Figure 5 – Location of NT Saleyard & annual sales 
+
+Legend : PS=Prime sheep, PB=Prime beef, SS=Store sheep, SB=Store beef, P=Pigs, H=Horses, PT=Private Treaty 
+4.3 Online Auctions 
+AuctionsPlus 
+Established in the mid 1980s to provide electronic "sale by description" for a range of livestock in the rural industry, AuctionsPlus (AP) has now progressed to be a leader in electronic online web-based auctions. AP allows commodity transaction, reserve price setting and legal change of ownership without the seller, buyer or product having to come together physically at the time of the sale. AP is one of the few truly online auction systems as others tend to be more like electronic bid and offer boards advertising livestock for sale. 
+Simultaneous & interface auctions are conducted on the system. Simultaneous electronic auctions are unique to AP with all listed lots sold simultaneously in real-time online. The sale is controlled by the computer. 
+Interface electronic auctions are also live online in real-time but are interfaced with a physical auction that is being controlled by an auctioneer. A hand-held wireless connected computer is used to bring the on-site prices to the internet screen for the remotely connected bidders to observe. These bidders can place a bid on their computer and the result is immediately transferred to the person on site with the wireless device who will raise that bid with the auctioneer. This type of sale sells one lot at a time and is controlled by the auctioneer who will decide the start price and the bid increments.  
+An overview from the CEO – Gary Dick 
+Gary sees AP as a service provider selling 1.5 million prime and store sheep and some 160,000 predominately, store cattle annually. The real key to the success of the system has been the inclusion of stock and station agents as the distribution network. These agents are monitored and graded to provide a professional and independent assessment of the livestock for sale. 
+Broadband, digital technology, the removal of online charges and a company restructure with minimal overheads has enabled AP to become a real alternative for selling livestock. Significant savings for producers in terms of cost and time have seen the number of registered users increase from a handful to 37,800 over the past decade. 
+In an effort to produce a quality assured product, producers are becoming more concerned about disease control and AP provides a selling system where the producer knows where the livestock have come from and assurance that they are traveling direct from the vendor’s farm to their own. 
+The major focus is on selling livestock, however, this unique selling system has also been used to sell machinery, cars, hay and (currently) wool into China. While Gary acknowledges that there is emerging competition, “the huge capital cost” to replicate the AP system and the current backing of “Elders, Landmark and private agents” should see AP survive and prosper. 
+AP Cattle sales 
+Sales are held weekly with around 45 vendors listing 3,500 head on average. Stock offered each week may range from 1,000 to 5,000 head. On average 30 buyers might bid at a weekly sale but numbers might range from 5 to 65. 
+Cattle are listed across the country from Cape York to Hobart in the east and from the Kimberley’s in the west. Separate sales are held for cattle listed in the eastern and western states. 
+The majority of the cattle (70%) come out of either NSW or Queensland and the direction of movement is driven by seasonal relativity. If seasons are good in Queensland and poor in NSW, stock may travel from Cooma to Winton (2,000km) or from Deniliquin to Hughenden (2,500km). Nearly all the stock (99%) move from farm to farm, a small number (1%) may travel from WA to SA, usually for slaughter. 
+AP Sheep sales 
+Two sales are held each week with around 30 vendors listing 15,000 head on average. Sheep offered each week may range from 3,000 to 36,000 head. On average, 40 buyers might bid at a weekly sale but numbers might range from 5 to more than 100. 
+Sheep are listed across the country from Hughenden to Hobart in the east and in the mixed wheat/sheep districts in the west. Separate sales are held for sheep listed in the eastern and western states. 
+The majority of the sheep (70%) come out of either NSW or Queensland and the direction of movement is driven by seasonal relativity. If seasons are good in Queensland and poor in NSW, stock may travel from Cooma to Winton (2,000km) or from Ararat to Hughenden (2,700km). Sheep travel from farm to slaughter (50%) or from farm to farm (50%). A small number of sheep (<10,000) are sold out of WA to the eastern states and these are usually the exotic breeds such as the Dorpers and Damaras. A significant number (150,000) sheep are sold out of Tasmania to various abattoirs in Victoria. 
+An Industry perspective - Peter Weeks - MLA 
+AP currently accounts for a small proportion of national sales, 8% of sheep and 3% of cattle. This system of selling is most suited to store animals in remote areas and experience from overseas shows that these types of selling systems work best in direct selling versus auction based sales. 
+Drawing buyers from much greater distances and knowing exactly where the stock has come from are strong points for AP over physical saleyard selling systems. 
+Challenges facing AP include accurately describing the product, keeping up with advances in Internet technology and keeping in front of emerging competitors. If these challenges are met then this could see AP gaining a greater share of the market. 
+4.4 Key Drivers 
+There are a range of key drivers influencing the movement of livestock throughout Australia, both real and perceived, which influence a vendor/buyer to attend a specific saleyard. For example, vendors will travel vast distances with their livestock to attend a saleyard that they believe will deliver a good price for their stock. Large regional centres tend to draw more buyers because the larger yardings usually make it easier to fill their orders. 
+Saleyards across Australia work on a supply and demand basis which has the ability to make the saleyard system a very competitive market. Vendors research and make informed decisions about which saleyards their livestock will be sold at in order to gain an above average market price. Vendors may also travel to a particular saleyard because of family tradition although anecdotal evidence would suggest that this trend is declining. Buyers make decisions based on their need to meet quotas within a given budget.  
+There are specific drivers for vendors and buyers, however, the two major drivers are 1) seasonal relativities and 2) cycles of drought and good seasons. Regions with good seasonal conditions will draw stock from other regions that are experiencing poor conditions and the greater the discrepancy the more powerful the driver to move stock in a particular direction. At the end of a drought, numbers fall significantly as producers re-stock. Numbers progressively increase as the drought continues and producers de-stock. 
+Vendors 
+The key drivers that influence the number of vendors at a sale are: 
+price 
+seasonal/weather conditions 
+reputation/tradition of the saleyards 
+number of buyers that attend the saleyards 
+opportunities to sell direct or on farm. 
+These drivers can have either a positive or negative effect on the number of vendors at a sale. An example of this is when stock prices are high and more vendors sell stock to capitalise on the increased price. However, if the prices are low, vendors will try to hang on to their livestock for as long as possible before selling at the reduced price. 
+Table 2 shows the key drivers influencing vendor numbers at a sale and comments made in regards to the driver by the saleyard operators. 
+Table 2 - A summary of the key drivers influencing the number of vendors at a sale. 
+Drivers influencing vendor  numbers at a sale 
+Description of drivers 
+Price 
+The price refers to the amount that the vendor will receive for their livestock. Some selling centres have a reputation for high prices. This influences vendors to sell their livestock at these centres. 
+Seasonal/weather conditions 
+The weather conditions influence the vendor by determining whether they have a choice to sell their livestock or not. If there is a drought, then many vendors are forced to sell due to the lack of water and stock feed. If the seasonal conditions are good vendors will keep their stock until the market is at a high or the livestock in peak condition. 
+Reputation/tradition of the saleyards 
+The reputation of the yards refers to what people think of the selling centres. Vendors often sell at saleyards that they have always sold at (family tradition). Some saleyards are renowned for having good clearance rates of high quality livestock. Vendors will travel to these centres to sell stock at a premium price.  
+Number of buyers that attend saleyards 
+The number of buyers that attend a saleyard impacts on the number of vendors at a sale. High buyer numbers tend to attract high vendor numbers. Vendors feel that the presence of more buyers will increase competition for the livestock sold and hence raise sale prices. 
+Selling directly from on-farm 
+Many vendors are now opting to sell directly from farm to the processors/feedlots and avoiding the selling costs associated with saleyard auctions. This direct selling reduces the number of vendors supplying livestock to the saleyards. 
+Buyers 
+The key drivers that influence the number of buyers attending a sale are: 
+reputation of the livestock 
+quantity of livestock at the sale 
+seasonal conditions 
+reputation of the saleyards. 
+These drivers can have either a positive or negative effect on the number of buyers attending a sale. An example is the quantity of livestock on offer at a sale. The more stock there is on offer at a sale, the more buyers are likely to attend. However, if the yarding is small, buyers will be more selective about their attendance as they may not be able to meet their quotas at a small yarding. Table 3 shows the key drivers influencing buyer numbers at a sale and comments made in regards to the driver by the saleyard operators. 
+Table 3 - A summary of the key drivers influencing the number of buyers at a sale. 
+Drivers influencing buyer numbers at a sale 
+Comments relating to the drivers 
+Reputation of the livestock 
+The reputation of the type and quality of livestock available at saleyards is a key driver influencing the number of buyers at a sale. Regular lines of high quality livestock tend to increase the number of buyers attending. An example of this is the Hay saleyards, a centre well known for high quality Merino sheep. 
+Quantity of livestock at the sale 
+The quantity of the livestock at a sale drives the number of buyers. Yards with regular high numbers tend to attract a larger number of buyers as they know it will be easier to fill their orders in one place rather than having to travel around the state. 
+Seasonal conditions 
+The seasonal conditions of an area impact on the number of buyers attending a sale. Good seasons in one area and poor seasons in another often result in more buyers travelling to the drought affected areas to pick up cheap stock for clients in areas with good seasons. 
+Reputation of the saleyards 
+The reputation of the saleyard as a selling centre has a big impact on the number of buyers. Buyers will also travel to saleyards with new/better facilities that ensure the welfare of livestock. An example of this is the soft flooring in new yards. This flooring helps the stock to travel further without going down and in doing so reduces deaths and improves carcass quality. 
+Seasonal conditions and the reputation of the saleyards are the most important drivers influencing which saleyards vendors send their stock to and which yards buyers attend to purchase stock. Prices on offer are also important drivers for vendors while the quantity and reputation of the livestock motivate buyers to purchase from a particular saleyard. 
+4.5 Future trends 
+The next decade will see the closure of many of the small yards that will not have access to the large amounts of capital required to meet the increasingly stringent government regulations including: Operational Health & Safety (OH&S), Environmental Protection Authority (EPA), Meat Standards Australia (MSA), National Livestock Identification System (NLIS) and animal welfare requirements. 
+In the past, a number of councils have maintained their saleyards to provide a community service even though they may be running at a loss in economic terms.  
+In recent times these industry changes have influenced the structure of the Australian saleyard network which has led to the emergence of a few very large regional selling centres handling the majority of throughput in each state. WA has the most regionalized network with 91% of the state’s sheep sold through 2 saleyards (Midland & Katanning) and 70% of the state’s cattle sold though another 2 saleyards (Katanning & Mt Barker). NSW is less regionalized with 50% of its sheep sold through the Dubbo, Wagga and Forbes saleyards and only 20% of its cattle sold through these yards. 
+In WA the new $33 million complex at Muchea (30km from Midlands) is due for completion in December 2008 and will be able to handle 120,000 cattle and 1.0 million sheep. In NSW the recently completed $15 million saleyard complex at Forbes is designed to handle 3,000 cattle and plans are in place to build expanded sheep handling facilities. 
+Figure 6 Proposed saleyard locations 
+
+Regional Infrastructure Pty Ltd plans to build 10 regional saleyards between Rockhampton in QLD and Warrnambool in Victoria (McKinnon pers comm). The first complex at Carcoar is expected to be operational by December 2007.  
+The Carcoar complex will house approximately 4,000 head of cattle and 24,000 head of sheep under cover. It will have the fourth biggest throughput in NSW, should attract a large number of buyers from the Central Tablelands and surrounding districts and could generate a turnover of about $4.2 million/week or more than $200 million per year (Land Newspaper 2007). 
+With local support it is envisaged that these complexes may develop into Regional Transaction Centres (RTCs) including allied agribusinesses such as abattoirs, meat processing facilities, bulk fodder storage and distribution sheds, agribusiness stores, financial services outlets, marshalling yards, transport facilities and other complementary businesses. 
+Given the geographic spread of these centres and the fact that the greater proportion of transport costs are based on loading and unloading stock, this trend should increase the distances that stock move to a saleyard. Anecdotal evidence from the Forbes complex indicates that the drawing area has expanded by some 30% since the yards were completed. Ultimately, prices available and transport costs will dictate where livestock move. 
+In the future we may see farmers bypassing the yards and selling more stock direct to retailers or processors. Fletcher International purchases some 3.2 million sheep annually and of these 40% (1.3 million) are purchased directly from producers. 
+Ron Penny from the Saleyard Operators Association says that, overall, auction numbers are strong. "The bottom line is, in actual fact I'm seeing more stock come in percentage terms come through the saleyards. There will be more, smaller ones close because the availability or numbers to the trade has dropped: at one point we had nearly 200 million sheep; now we're down to under 100 million sheep, so obviously there's not the same volume to be sold." 
+Additionally, a study completed by J Toohey & Associates (2005) found that the saleyard sector does have a significant role to play in the ongoing marketing of Australia’s sheep, cattle and goats and will maintain a presence in the marketing chain. While many producers choose to market their livestock direct to works, many more continue to utilise the services of the saleyard sector.  
+However, the sector must strive to be a part of the main game and not simply a selling avenue of last resort (e.g., for the sale of drought-affected or cull livestock only). In order for it to maintain or improve its relevance, it will need to continue pursuing improvements that reflect the priorities of the industry as a whole. 
+In an effort to reduce risk and ensure a quality product, future movement towards specialist, breeding, fattening and feedlot finishing properties will introduce additional transaction points in the national movement of cattle and sheep. This is especially true for the cattle industry and may see cattle move further and more often than in the past (Weeks pers comm). 
+Increased concentration in the buying sector by the larger players (Woolworths & Coles) will mean more livestock are sold directly. This should result in more regular lots being sold and probably not moving as far as in the past (Weeks pers comm). 
+In the future, the national saleyard network will be more regionalized with significant numbers of the smaller saleyards closing down, either unable to comply with increasingly stringent government regulations and/or unable to source sufficient capital to provide a level of technology comparable to their regional counter parts. Councils may continue to fund smaller saleyards making a loss as a community service. The proposed closure of the Bathurst and Orange saleyards when the new Carcoar Regional complex is built shows that this may be limited to a small number of councils. 
+To be viable in the long term, saleyards need sufficient throughput to cover the overhead costs incurred in meeting the cost of government regulations, associated technology and on-going maintenance needs. 
+APPENDIX 1 – INITIAL EMAIL 
+Dear Saleyard Operator, 
+
+Hassall & Associates have been contracted by DAFF to map the location of all active saleyards across Australia. This data will be used to assist DAFF in modelling future livestock disease outbreaks. As part of this project we will need to contact the saleyard operator to confirm some details on species, sale numbers etc. 
+To assist in this task could you complete two details below in a return email. 
+Thanks 
+1. Is the saleyard still operational on a regular basis?   YES/NO 
+2. Are you the appropriate person YES/NO. If not, could you nominate the  
+Name: 
+Phone number: 
+Email address:                     (or fax number if no email) 
+of the saleyard representative so that we can contact them direct. 
+This information will be confidential and only used for this project. 
+NOTE: If you would like an electronic/printed copy of the map when complete delete the appropriate word.  YES/NO. 
+If protocol requires you to confirm our intent please contact: 
+DR SD Beckett 
+Office of the Australian Chief Veterinary Officer Department of Agriculture, Fisheries and Forestry 
+GPO Box 858 Canberra, ACT AUSTRALIA 
+Ph: 02 6272 5814 Fax: 02 6272 3150 
+or email HYPERLINK "mailto:sam.beckett@affa.gov.au"sam.beckett@affa.gov.au
+APPENDIX 2 – SALEYARD INTERVIEW FORM 
+Saleyard :____________________Contact :________________________ 
+Saleyard Type 
+Animal Type 
+Sale Type? Eg. Beef Prime/Store, Sheep Prime/Store, Pig, Dairy, Horse.  
+ 
+Regularity – How often are sales conducted in the saleyards?  
+ 
+Number sales per year – How many sales are undertaken per year? 
+ 
+Animals – Livestock numbers 
+ 
+Minimum number of stock offered at a sale? 
+ 
+Average number of stock offered at a sale? 
+ 
+Maximum number of stock offered at a sale? 
+ 
+Sellers – Livestock Vendors 
+ 
+Minimum number of vendors at a sale? 
+ 
+Average number of vendors at a sale? 
+ 
+Maximum number of vendors at a sale? 
+ 
+For all sales, how far do the furthest livestock travel? (Kms) 
+ 
+Removing extremes, how far do the majority of livestock travel? (Kms) 
+ 
+What direction do the majority of livestock come from? Tick compass points. If the distribution is uneven place more or less ticks on a specific direction. 
+
+ 
+Buyers - actual purchasers – not sale attendees 
+ 
+Minimum number of buyers at a sale? 
+ 
+Average number of buyers at a sale?  
+ 
+Maximum number of buyers at a sale? 
+ 
+What direction do the majority of livestock go to? Tick compass points. If the distribution is uneven place more or less ticks on a specific direction. 
+ 
+Livestock destinations – Abattoir, Feedlot or Farm 
+ 
+Percentage of Livestock sold to                                 -Abattoir 
+ 
+- Feedlot 
+ 
+- Farm 
+ 
+For each of the following, how far do the furthest livestock travel (Kms)
+- Abattoir  
+ 
+- Feedlot 
+ 
+                                                                                  - Farm 
+ 
+Removing extremes, how far do the majority of livestock travel (Kms) to an                                                       
+- Abattoir  
+ 
+                                                                                  - Feedlot 
+ 
+                                                                                   - Farm 
+ 
+(1) What are the major factors which most influence vendor numbers/sources?:-
+(2) Is there a seasonal variation in buyer numbers/destinations?:- 
+(3) Are there any factors economic, political, environmental, regulatory (OH&S) that might influence on the future viability of these saleyards?:- 
+In appreciation of your valuable time input on this project DAFF would like to offer
+A printed copy of the final map of saleyards across Australia. (Yes/No)
+An option to be placed on an email list to receive updates on this project (Yes/No)
+APPENDIX 3 – REFERENCES 
+AusVet Animal Health Services (2006)
+A Review of the Structure and Dynamics of the Australian Beef Cattle Industry. Report commissioned by Australian Department of Agriculture, Fisheries and Forestry.
+Hassall & Associates (2006)
+The Structure and Dynamics of Australia’s Sheep Population. Report commissioned by Australian Department of Agriculture, Fisheries and Forestry.
+McKinnon Malcolm (2007)Business Development Officer – Regional Infrastructure Pty Ltd  – 0413 008 484 HYPERLINK "http://www.regionalinfrastructure.com/"www.regionalinfrastructure.com
+Penny Ron (2007)
+CEO - Saleyard Operators Association  – 0428 631 569
+Saunders Dave (2007)
+Project & Operations Manager - Western Australian  Meat Industry Authority - (08) 9274 7533
+Taylor Chris (2007)
+General Manager Livestock – Roberts Limited 0408 130 242 
+The Land Newspaper (2007)
+“Central West Super Yards” – 1st February 2007
+Toohey J & Associates (2005)
+Australian Livestock Saleyards: Potential Issues for Future Development and Management. Report commissioned by MLA
+
+
+
+
+
+
+
+
+
+
+
+ PAGE i
+
+
+
+
+
+ PAGE ii
+
+
+A Review and Analysis of Saleyard Marketing in Australia
+
+
+ PAGE 1

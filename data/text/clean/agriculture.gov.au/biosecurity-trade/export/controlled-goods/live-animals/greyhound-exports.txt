@@ -1,0 +1,230 @@
+The all non-livestock exports report includes total export numbers for non-livestock animal exports
+from Australia. This report is compiled from information on the export permit and health certificate
+issued by the department to exporters at the time of departure. If a prescribed species is not listed
+below, it has not been exported from Australia during the reporting period.
+Financial Year
+2020/2021 2021/2022 2022/2023 2023/2024 2024/2025
+Bird
+5,096
+4,164
+8,605
+6,994
+2,604
+Cat
+4,239
+4,296
+3,564
+3,771
+4,173
+Coral
+43,613
+37,056
+25,979
+24,122
+16,151
+Crustacean
+1,738
+1,216
+233
+395,530
+1,493,521
+756,659
+264,732
+6,346
+6,930
+8,169
+8,630
+9,631
+3,606,593
+10,428,184
+17,080,337
+15,321,826
+21,413,780
+6,915
+2,167,577
+34,465
+238,600
+1,739,862
+202,673
+809,190
+1,883,430
+936,360
+381,600
+1,883
+1,881
+2,230
+2,246
+2,383
+19,208
+37,690
+30,531
+73,829
+26,505
+54,019,963
+4,821
+6,519
+1,093
+298,854
+Marine Invertebrate 484
+1,443
+3,584
+68
+7,131
+42
+47
+32
+11
+15
+9
+19
+23
+29
+31
+41
+Calendar Year
+2021
+2022
+2023
+2024
+2025
+Bird
+3,615
+6,524
+10,771
+2,059
+10,360
+Cat
+4,656
+3,615
+3,615
+4,033
+4,632
+Coral
+42,097
+25,059
+29,713
+20,779
+12,349
+Crustacean
+958
+1004
+23
+238
+
+1,315,392
+1,000,974 462,799
+87,427
+150,620
+6,332
+7,856
+8,303
+9,161
+10,847
+3,847,071
+9,645,168 25,027,134 16,880,194 27,220,631
+454,930
+1,770,833 239,661
+1,649,359
+130,638
+421,140
+1,602,090 1,296,330 586,980
+696,330
+1,637
+1,978
+2,213
+2,269
+2,664
+28,458
+27,290
+80,691
+26,149
+24,105
+18,013,448 8,056
+1,026
+6,634
+58,065,376
+Marine Invertebrate 1,746
+3,696
+178
+7,245
+46
+66
+39
+18
+4
+5
+8
+21
+18
+37
+Note: The department does not have a centralised database for non-livestock animal exports. These
+figures are collated from information provided by regional service centres using best available data. The
+figures are updated once all data has been received for that period. Documentation for some animals is
+processed in a different location to the port of export. This is reflected in the tables below e.g. Region:
+ACT, Load Port: Sydney.
+The Excel spreadsheet will allow you to download data and develop your own reports. The figures
+provided in the spreadsheet are the total numbers (Head) exported by species, destination country and
+end use.  The following fields have been provided to allow you to develop a variety of reports.
+State
+Port of export
+Destination country
+Quantity
+Month of export
+Year of export
+Financial year of export.
+The excel spreadsheet is updated monthly. Figures are subject to change as more data becomes
+To generate the data you are interested in, please download the Excel file and select the filter drop down
+
+Select the drop down arrow in Species and select Dog
+Select the drop down arrow in State and select FNQLD
+These filtered fields will then provide you with the number of dogs that have been exported from
+FNQLD during 2018.
+To clear any filtered selections, click on the Sort & Filter button in the top right corner of the ribbon and
+Greyhound exports
+Statistical information about Greyhound exports from Australia, updated monthly.
+Greyhound exports - July 2026
+Country
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Total
+Canada
+20
+10
+108
+70
+294
+China
+France
+Hong Kong SAR
+Ireland
+India
+Japan
+Netherlands
+New Zealand
+6
+Portugal
+Singapore
+Thailand
+United Kingdom
+United States of America 32
+49
+50
+65
+10
+261
+Total
+54
+82
+100 139
+103
+576
+Note: Number of Greyhound exports is correct as at 31 July 2026. The figures are updated once all data
+has been received for that period.
+
+The excel spreadsheet is updated monthly. Figures are subject to change as more data becomes
+To generate the data you are interested in, please download the Excel file and select the filter drop down
+Select the drop down arrow in Destination Country and select United Kingdom
+Select the drop down arrow in Month and select January
+These filtered fields will then provide you with the number of greyhounds exported throughout January
+for 2018.
+To clear any filtered selections, click on the Sort & Filter button in the top right corner of the ribbon and
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/live-animals/live-animal-export-
+statistics/greyhound-exports

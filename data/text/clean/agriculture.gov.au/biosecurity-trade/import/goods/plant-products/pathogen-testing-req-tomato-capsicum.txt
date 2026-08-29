@@ -1,0 +1,304 @@
+Phase 1 - Updated seed testing protocols for Tomato brown
+rugose fruit virus and Tomato mottle mosaic virus
+We have completed the first phase of our review of Australia’s import conditions for tomato and
+capsicum seed disease testing.
+This initial phase focused on evaluating seed testing protocols for Tomato brown rugose fruit virus
+(ToBRFV) and Tomato mottle mosaic virus (ToMMV), as well as the authorisation process for
+laboratories conducting these tests.
+As a result of this review, we have made 2 key changes to strengthen the seed testing requirements:
+We have established a list of authorised laboratories registered to test tomato and capsicum seed
+for ToBRFV and ToMMV for export to Australia
+We have updated the list of approved testing protocols for detecting ToBRFV and ToMMV.
+These changes aim to improve assurance in laboratory testing and ensure consistent interpretation of
+results. They will ensure seed is tested using the most suitable protocols and requirements for detecting
+ToBRFV and ToMMV.
+The new requirements became mandatory import conditions on 12 November 2025.
+Phase 2 - wider review of seed pathogen testing
+We announced the commencement of Phase 2, a wider review of diagnostic testing requirements for
+tomato and capsicum seed, on 12 May 2026.
+This phase builds on Phase 1 and focuses on the remaining regulated seed pathogen tests. The aim is to
+ensure these tests are technically robust, appropriately validated and fit for purpose to manage
+biosecurity risk consistent with Australia’s Appropriate Level of Protection (ALOP).
+Phase 2 of the review is focused on the remaining tomato and capsicum seed pathogens:
+Pepino mosaic virus
+Columnea latent viroid
+Pepper chat fruit viroid
+Potato spindle tuber viroid
+Tomato apical stunt viroid.
+The review includes consideration of:
+testing protocols
+interpretation of results
+laboratory authorisation requirements.
+
+Phase 2 does not introduce new seed pathogens and does not include Tomato brown rugose fruit virus
+(ToBRFV) or Tomato mottle mosaic virus (ToMMV), which were addressed in Phase 1.
+Note: There are no immediate changes to the import conditions or testing requirements as a result of
+Phase 2. Current testing and laboratory authorisation requirements continue to apply until further
+notice.
+Consultation and next steps
+We plan to release the draft report for consultation in mid-2027. Please note that this is an indicative
+timeline and may be subject to change. We will notify permit holders in advance of any proposed
+changes to import conditions.
+Under the updated import conditions from Phase 1, tomato and capsicum seed lots must be tested for
+ToBRFV and ToMMV by an authorised laboratory.
+Laboratories intending to conduct this testing for seed exports to Australia must register to become
+authorised. To do so, laboratories must complete the registration form below, confirming their
+agreement to implement the new testing requirements and protocols.
+Laboratories must submit their completed form via email to imports@aff.gov.au. Note: please include
+‘Plant T2 - Seed for sowing – Laboratory authorisation’ in the subject line of the email.
+The list of authorised laboratories is published on the Department authorised seed testing laboratories
+webpage. 
+We have updated the list of approved testing protocols for detecting ToBRFV and ToMMV in tomato
+and capsicum seed. The new requirements became mandatory import conditions on 12 November
+2025.
+Some existing seed testing requirements will remain unchanged and continue to apply under the
+updated protocols. Laboratory test reports for tomato and capsicum seed for export must continue to
+include the following details:
+The name and address of the testing laboratory
+The full botanical name of the species tested
+The date of testing
+The type of test done
+The seed lot number(s)
+The sample size, which must be 20,000 seeds or 20% of the seed lot for small seed lots
+The subsample size, which must be no greater than 400 seeds per subsample for all testing
+conducted by PCR
+The pathogens targeted
+The test result confirming freedom from each of the targeted pathogens.
+Full testing requirements are available on BICON.
+
+The updated list of approved testing protocols for detecting ToBRFV and ToMMV in tomato and
+capsicum seed for export to Australia, along with associated requirements, is detailed below:
+Laboratories must use 2 reverse-transcription qPCR protocols to verify the status of ToBRFV and
+ToMMV in each seed lot.
+For ToBRFV, the CaTa28 protocol must be used as one of the 2 qPCR protocols, and either the
+CSP1325 protocol or the qs1/p1/qas2 protocol must be used as the second protocol (see Table 1
+and Table 2).
+For ToMMV, the CaTa9 protocol must be used as one of the 2 qPCR protocols, and either the
+CSP1572 protocol or the ToMMV2 protocol must be used as the second protocol (see Table 1 and 
+Table 2).
+References to the approved protocols are listed in Table 3. Please note that the department’s
+requirements for these protocols and for reporting results may differ from some of the
+parameters stated in the references.
+No other tests are approved for verifying the status of a seed lot regarding these 2
+viruses. Laboratories shall not discount a positive result obtained from an approved qPCR test on
+the basis of any other test result or consideration, except retesting following the ‘Retesting’
+section.
+Table 1. Summary of required
+testing protocols
+Virus
+First required
+Second required protocol
+ToBRFV
+CaTa28 reverse-
+transcription qPCR
+CSP1325 reverse-transcription qPCR
+OR
+Menzel and Winter reverse-
+transcription qPCR (qs1/p1/qas2)
+ToMMV
+CaTa9 reverse-
+transcription qPCR
+CSP1572 reverse-transcription qPCR
+OR
+ToMMV2 reverse-transcription qPCR
+Table 1. Summary of required testing protocols
+The testing protocols that will no longer be approved for use from 12 November 2025 for
+detecting ToBRFV and ToMMV are listed in Table 4.
+Extraction and amplification positive controls must be run and should include an RNA target. At
+least one weak positive control should be used that produces a Ct value of 30 or higher.
+
+At least one negative control should be run. If any negative controls yield Ct values below 35, the
+testing should be considered invalid, and the department should be contacted.
+A Ct cut-off value of 35 applies to all qPCR tests for ToBRFV and ToMMV. A statement must be
+included on laboratory reports that states the Ct cut-off point used to determine the result.
+The lowest Ct value obtained for a subsample must be used to interpret the result for that
+subsample.
+If the Ct value of the subsample is equal to or below 35, this will be considered a positive result,
+i.e. the target virus has been detected.
+If the Ct value of the subsample is above 35, this will be considered a negative result, i.e. the
+target virus has not been detected.
+If a laboratory considers that further information is relevant to the interpretation of a set of test
+results for a seed lot, the laboratory can contact the department for advice. We will consider the
+information before making a final decision on the status of the seed lot.
+A laboratory may re-run a qPCR where the result is considered to be potentially anomalous. For
+example, if the amplification curve deviates substantially from a typical sigmoidal shape this may be
+considered anomalous, and the qPCR may be re-run.
+Retesting must be conducted using the seed homogenate (seed slurry) or RNA extract from the
+same seed subsample.
+An anomalous or ambiguous qPCR result cannot be superseded by testing a different seed sample
+or subsample.
+At least two additional replicate qPCR reactions must be done for the re-test and the same qPCR
+protocol that produced the anomalous result must be used for those reactions.
+The results from the retest must be interpreted according to the ‘Ct cut-offs and interpretation
+requirements’ specified above.
+Any anomalous finding that has not been shown to be negative by retesting based on the
+interpretation requirements, must be reported as a positive.
+We may conduct retesting or trace back investigations of seed lots. Laboratories must provide
+records of previous testing to assist with these investigations.
+Laboratories must keep copies of the quality control records, protocols used and any validation
+and verification reports relevant to the tests, and must provide these documents upon request by
+the department .
+Laboratories must keep records of all testing done to meet the Australian requirements for at
+least 3 years, including Ct values, records of decisions about test results, negative test results,
+retest results, anomalous results, and results from controls. Images of amplification curves of
+anomalous results should also be kept.
+If a laboratory resolves an anomalous result and concludes that a seed lot is negative for the virus,
+the laboratory must record the reason why the anomalous result was considered not to be a
+detection of the virus.
+Table 2.
+Approved
+
+protocols and
+result
+interpretation
+for ToBRFV
+and ToMMV,
+effective 12
+November
+2025
+Virus
+Primers and probe
+Date
+approved
+ToBRFV
+CaTa28
+reverse-
+transcription
+qPCR
+CaTa28  forward  GGTGGTGTCAGTGTCTGTTT    
+CaTa28 reverse GCGTCCTTGGTAGTGATGTT
+CaTa28 6FAM-GAGAATGGAGAGAGCGGACGAGG-BHQ1
+24 June
+2019
+CSP1325
+reverse-
+transcription
+qPCR
+CSP1325  forward CATTTGAAAGTGCATCCGGTTT   
+CSP1325 reverse GTACCACGTGTGTTTGCAGACA
+CSP1325 VIC*-ATGGTCCTCTGCACCTGCATCTTGAGA-
+BHQ1
+*can be FAM
+7 June
+2019
+qs1/p1/qas2 
+Menzel and
+Winter
+reverse-
+transcription
+qPCR
+ToBRFV qs1  forward  CAATCAGAGCACATTTGAAAGTGCA 
+ToBRFV qas2 reverse CAGACACAATCTGTTATTTAAGCATC
+ToBRFV p16
+6-FAM-ACAATGGTCCTCTGCACCTG- BHQ1
+12
+November
+2025
+ToMMV
+CaTa9
+reverse-
+transcription
+qPCR
+CaTa9 forward  ATGTGGAGGAACCCTCTATGA    
+CaTa9 reverse AATCTCCTCGCTCCTTGTAAAC
+CaTa9P ROX-TCAATGGCCCGTGGTGAGTTACAA-BHQ1
+12
+November
+2025
+CSP1572
+reverse-
+transcription
+qPCR
+CSP 1572 forward CCCGACTACAGCCGAAACAT
+CSP 1572 reverse TTAACAGCGGACCTGATCGC
+12
+November
+2025
+
+ToMMV2
+reverse-
+transcription
+qPCR
+ToMMV2   forward     GAAACATTGGATGCCACTCG 
+ToMMV 2 reverse CTCTGGTTGTAGAAACCTGTTCC
+ToMMV2p FAM-CGATGCTACGGTTGCGATCAGGTC-BHQ1
+12
+November
+2025
+Table 2. Approved protocols and result interpretation for ToBRFV and ToMMV, effective 12 November
+2025
+Table 3. References to protocols
+Reference
+CaTa28
+CSP1325
+Menzel and Winter
+CaTa9
+CSP1572
+ToMMV2
+Table 3. References to protocols
+Table 4. PCR protocols removed from the approved
+list
+Protocol and Primers
+Reason
+Approval
+period
+Levitzky et al. 2019
+F    GAAGAAGTTGTTGATGAGTTCAT
+R   GATTTAAGTGGAGGGAAAAACAC
+Reference
+Levitzky, N, Smith, E, Lachman, O, Luria, N, Mizrahi, Y,
+Bakelman, H, Sela, N, Laskar, O, Milrot, E & Dombrovsky, A,
+2019, ‘The bumblebee Bombus terrestris carries a primary
+inoculum of Tomato brown rugose fruit virus contributing to
+disease spread in tomatoes’ PloS one, volume14, issue 1,
+p.e0210871.
+The protocol of Levitzky
+et al. 2019 is not suitable
+for the detection of
+ToBRFV and ToMMV as
+it is not sufficiently
+sensitive and uses a
+group specific primer set.
+1 April 2019
+- 12
+November
+2025
+Alkowni et al. 2019
+F      AATGTCCATGTTTGTTACGCC
+R     CGAATGTGATTTAAAACTGTGAAT
+The protocol of Alkowni
+et al. 2019 is not suitable
+for the detection of
+ToBRFV as it is not
+sufficiently sensitive.
+1 April 2019
+- 12
+November
+2025
+
+Reference
+Alkowni, A, Alabdallah, O & Fadda, Z 2019, ‘Molecular
+identification of tomato brown rugose fruit virus in tomato in
+Palestine’ Journal of Plant Pathology, available at DOI
+10.1007/s42161-019-00240-7.
+Li et al 2018
+TobamodF   TKGAYGGNGTBCCNGGNTGYGG
+TobamodR   ACNGAVTBNABCTGTAATTGCTAT
+Reference:
+Li, Y, Tan, G, Lan, P, Zhang, A, Liu, Y, Li, R, & Li, F, 2018,
+‘Detection of tobamoviruses by RT-PCR using a novel pair of
+degenerate primers’ Journal of virological methods, volume
+259, pp.122-128.
+Test results indicate that
+the protocol of Li et al.
+(2018) is not sufficiently
+sensitive. The protocol
+was removed from the
+approved list on 7 June
+2019.
+1 April 2019
+- 7 June
+2019
+Table 4. PCR protocols removed from the approved list
+Source: https://www.agriculture.gov.au/biosecurity-trade/import/goods/plant-products/seeds-for-sowing/pathogen-testing-
+req-tomato-capsicum

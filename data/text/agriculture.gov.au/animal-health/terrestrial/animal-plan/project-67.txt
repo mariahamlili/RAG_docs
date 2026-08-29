@@ -1,0 +1,107 @@
+Overview
+HASTE (Enhancing rapid decision-support for emergency animal disease outbreaks) is a national
+collaboration to strengthen Australia’s preparedness and response to emergency animal disease
+outbreaks. It does this through engagement, analytics, distribution, and operationalisation.
+Phase one of the project is co-funded by the Australian Research Data Commons (ARDC), the
+University of Melbourne, the Commonwealth Scientific and Industrial Research Organisation (CSIRO),
+and the Australian Government Department of Agriculture, Fisheries and Forestry (DAFF). HASTE was
+created to meet the growing need for rapid, scalable, and interoperable decision-support tools for
+animal health emergencies.
+By building trusted, data-driven models, HASTE gives decision-makers greater ability to manage
+complex outbreak scenarios with confidence and precision. These decision makers include government
+authorities and industry peak bodies.
+Project Lead: The University of Melbourne
+Project Contact: cbaker1@unimelb.edu.au
+Project Status: Active
+Project date: Phase one: May 2024 to June 2026
+Objective alignment:
+1 - Improve Australia’s preparedness and ability to respond to emergency animal diseases
+Activity alignment:
+1.2 - Continue to undertake simulation exercises for a variety of EAD scenarios, including
+identifying and addressing trade ramifications
+1.4 - Undertake projects, including commissioning and undertaking research, to further develop
+economic analyses and epidemiological modelling tools supporting rapid decision making in EAD
+responses for priority diseases
+1.5 - Implement innovative technologies and training to meet national EAD education and
+training needs
+1.6 - Investigate existing systems or trial new systems for national EAD data management in
+multi-jurisdictional responses
+• 
+• 
+• 
+• 
+•
+
+Project updates
+Future Actions
+Finalise and submit the HASTE Phase One Report, including synthesis of outcomes, impact, and
+lessons learned.
+Support the transition of HASTE capabilities into ongoing operational use via Biosecurity
+Commons, TAPPAS-2 and partner organisations.
+Continue discussions with government and research partners regarding phase 2 future
+collaboration and the potential continuation of simulation exercises and tool development
+(subject to funding).
+Maintain stakeholder engagement to ensure awareness of available tools and their application in
+preparedness and response contexts.
+May 2026
+HASTE has now progressed to final delivery and consolidation under its phase one ARDC co-
+investment, with all 5 work packages substantially completed and key outputs implemented and tested
+in operational contexts.
+Analytics and modelling capability
+Core modelling workflows have been finalised, including dynamic transmission modelling, spatial
+kernel estimation and real-time forecasting of epidemic trajectories.
+These workflows are now integrated into the platform, enabling accessible, scenario-based
+decision support for end users.
+TAPPAS-2 capability has been advanced, incorporating live meteorological data to support real-
+time airborne spread modelling.
+Operationalisation and simulation exercises
+Two simulation workshops were delivered in early 2026, focused on high pathogenicity avian
+influenza (HPAI) and building on earlier lumpy skin disease (LSD) exercises.
+Workshops involved jurisdictional stakeholders and demonstrated how modelling outputs can
+inform real-time response decisions under outbreak conditions.
+Exercises confirmed strong demand for temporal forecasting outputs and highlighted areas for
+continued refinement of visualisation and usability.
+100% of workshop survey respondents indicated strong support for continued participation in
+further HASTE workshops.
+Engagement and collaboration
+Continued engagement with DAFF, state/territory governments, Animal Health Australia and
+industry peak bodies to ensure tools align with operational needs.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Ongoing collaboration has supported awareness and uptake of HASTE tools, including
+showcasing capabilities to industry stakeholders and government partners.
+Distribution and platform capability
+Biosecurity Commons remains the primary delivery platform for HASTE workflows, with
+authenticated access supporting government use.
+Enhancements to usability, documentation and workflow accessibility have been completed to
+support ongoing use beyond the project lifecycle.
+Project status
+All core deliverables have been completed.
+Final report drafting is underway, consolidating outputs, outcomes and lessons learned across all
+work packages.
+See more
+Find out more in:
+the latest HASTE news
+the August 2025 interim report
+the HASTE Work Package 4 report, about the process and outcomes of Work Package 4’s
+modelling scenario (simulation exercise) workshops.
+Source: https://www.agriculture.gov.au/agriculture-land/animal/health/animal-plan/project-67
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

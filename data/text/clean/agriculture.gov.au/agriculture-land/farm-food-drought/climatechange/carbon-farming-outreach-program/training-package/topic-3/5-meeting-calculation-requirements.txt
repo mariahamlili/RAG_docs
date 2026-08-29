@@ -1,0 +1,27 @@
+As we have seen, there are basic calculators and other calculators that meet a specific baselining or reporting requirement (such as for an ACCU Scheme method). The basic calculators are informative and widely used but only produce general results. Also, they lack quality control over data input and may not align with the Australian National Greenhouse Accounts or be eligible for use under programs such as Climate Active. The government is developing voluntary emissions estimation and reporting guidelines (Guidelines), which will outline the methods calculators should use to estimate farm-level emissions for different purposes.
+
+Initiatives such as the ACCU Scheme specify detailed requirements for estimating GHG emissions. The requirements may include making calculations using a model or data derived from field sampling or a combination of these approaches.
+
+If a farmer or land manager considering participating in the ACCU Scheme decides they can’t produce a calculation that meets the scheme requirements, they would commonly engage an adviser. Advisers include carbon service providers. Topic 4 provides more information.
+
+Any adviser would need to have the necessary experience and knowledge in GHG accounting or environmental auditing aligned with relevant standards, which could include:
+
+- the Australian National Greenhouse Accounts methodologies
+
+- Climate Active carbon accounting and technical requirements for certification
+
+- international value chain reporting requirements, including pre-farm to farm gate life cycle assessment framework, consistent with ISO 14040:2006(en) Environmental management — Life cycle assessment — Principles and framework.
+
+Changes in carbon storage in vegetation and soils over time can be calculated using data from physical sampling of trees and soil. Samples must be collected and analysed using robust processes to obtain accurate estimates. For example, soil sampling locations may need to be selected randomly to avoid bias and samples collected to a specified depth. Samples may need to be analysed in a laboratory using analytical methods and soil sensing techniques. While this approach can produce accurate estimates, it requires specialist skills and may be expensive. Simulation models can estimate carbon storage in vegetation and trees without the need to collect and analyse field samples.
+
+Third-party verification of data and calculations can help ensure benchmarking and reporting requirements are met and that claims about reduced GHG emissions and carbon storage are well-supported.
+
+The University of Melbourne’s Guidelines for conducting a carbon audit on farm and farm products (PDF 171 KB) provide more details on this topic.
+
+ACCU Scheme methods
+
+Farmers and land managers planning to run an ACCU Scheme project must calculate their GHG emissions and carbon storage using a legislated method. Topic 5 examines ACCU Scheme methods.
+
+The Full Carbon Accounting Model (FullCAM) is used to produce abatement estimates for several ACCU Scheme vegetation management methods. It is also used to estimate net emissions from the land sector for Australia's National Greenhouse Accounts.
+
+Each ACCU Scheme method specifies how to calculate GHG emissions. Some methods have their own calculator, such as:

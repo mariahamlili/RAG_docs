@@ -1,0 +1,853 @@
+When requesting an export permit through the department’s Next Export Documentation (NEXDOC)
+system, it is essential to provide the product details being exported and ensure eligibility for export.
+Dairy product category codes are used when raising a request for export (REX) to specify the specific
+product being exported.
+Please refer to the below product code lists to ensure you select the correct category code. Product
+descriptions listed in the below tables are as they appear:
+in the department’s NEXDOC system
+when printed on export documentation, including health certificates (when applicable).
+Note: Effective 31 July 2023, the department has implemented new dairy establishment registered
+operation codes and product category codes. For additional details, please refer to the table of updated
+dairy establishment registered operations for manufacturers below.
+Australian Harmonised Export Commodity Codes (AHECC).
+The department's NEXDOC system is integrated with the Australian Harmonised Export Commodity
+Codes (AHECC). The Australian Bureau of Statistics (ABS) sets AHECC codes to classify goods exported
+from Australia, while the Australian Border Force (ABF) manages AHECC codes in the Integrated Cargo
+System (ICS). AHECC codes are used to classify internationally traded goods as they enter and leave
+Australia. These codes identify goods that require an export permit before entering the wharf or airport
+and subsequently being cleared for export.
+NEXDOC does not validate whether an AHECC code matches the product or category codes. It remains
+the exporter’s responsibility to ensure they use the correct AHECC code for the product being exported.
+Specific classification advice can be sought from the ABF’s Tariff Advice System on 1800 053 016.
+Prescribed goods under Australian export legislation
+The Export Control (Milk and Milk Products) Rules 2021 prescribe dairy goods which are manufactured
+in Australia, intended for human consumption and where the major ingredient is dairy from bovine
+origin.
+Prescribed goods when required by importing country
+requirements
+Products which do not meet the criteria under the Export Control (Milk and Milk Products) Rules 2021
+are classified by the department as non-prescribed goods. When an importing country requires health
+certification and government oversight for these products, they become prescribed and are required to
+meet all export requirements. These products must meet the criteria outlined in Australian export
+legislation for export registration and obtaining a valid export permit prior to departure.
+• 
+•
+
+To find out more about importing country requirements you can:
+Check our Manual of Importing Country Requirements (Micor).
+Talk to your importer about importing country requirements.
+If your product is not listed in the below product code lists, below read our advice on how to export
+non-prescribed goods.
+Table of product codes by product type alphabetically (as at 1 May 2025)
+*Product category codes apply to multiple product types. The correct product type selection depends on
+how the exported product was manufactured, as per the registered operations of the manufacturing
+establishment. For details on suitable product types, refer to Attachment 1 - Updated dairy
+establishment registered operations for manufacturers.
+** Export of this product is currently restricted to Singapore
+*** Export of this product is currently restricted to Singapore, Japan and Hong Kong
+**** Export of this product is currently restricted to Singapore, Japan, Hong Kong and Thailand
+Product
+type
+Product type description Product
+category code
+Product category description
+BUT
+BUTTER
+DC0152
+Anhydrous milk fat
+BUT
+BUTTER
+DC0341
+Butter
+BUT
+BUTTER
+DC0328
+Butter blend
+BUT
+BUTTER
+DC0153
+Ghee
+BUT
+BUTTER
+DC0420
+Whey butter
+CAS
+CASEIN
+DC0671*
+Acid casein
+CAS
+CASEIN
+DC0318*
+Casein products
+CAS
+CASEIN
+DC1845*
+Caseinate products
+CAS
+CASEIN
+DC0390*
+Recaldent
+CAS
+CASEIN
+DC0316*
+Rennet casein
+CAS
+CASEIN
+DC1205*
+Sodium caseinate
+CCC
+COOKED CURD CHEESE
+DC1883***
+Cooked Curd Cheese
+CHP
+CHEESE POWDER
+DC0176*
+Cheese powder
+CRE
+CREAM
+DC0026
+Cream
+CRE
+CREAM
+DC0027
+Sour cream
+CTH
+CUT CHEESE
+DC0453*
+Fresh cheese
+CTH
+CUT CHEESE
+DC0188*
+Hard cheese
+CTH
+CUT CHEESE
+DC1828*
+Mixed cheese pack
+CTH
+CUT CHEESE
+DC0178*
+Processed cheese
+• 
+•
+
+CTH
+CUT CHEESE
+DC0172*
+Soft cheese
+CTH
+CUT CHEESE
+DC0375*
+Semi-hard cheese
+CTH
+CUT CHEESE
+DC0213*
+Very hard cheese
+DAF
+DAIRY ANIMAL FEED
+DC1866
+Dairy animal feed liquid - not for human
+consumption
+DAF
+DAIRY ANIMAL FEED
+DC1867
+Dairy animal feed powder - not for human
+consumption
+DAF
+DAIRY ANIMAL FEED
+DC1879
+Dairy Animal Feed - other - not for
+human consumption
+DAF
+DAIRY ANIMAL FEED
+DC1886
+Dairy animal feed liquid (Japan) - cloven
+hoof - not for human consumption
+DAF
+DAIRY ANIMAL FEED
+DC1887
+Dairy animal feed powder (Japan) -
+cloven hoof - not for human consumption
+DAF
+DAIRY ANIMAL FEED
+DC1888
+Dairy animal feed other (Japan) - cloven
+hoof - not for human consumption
+DAF
+DAIRY ANIMAL FEED
+DC1889
+Dairy animal feed liquid (Japan) - non-
+cloven hoof - not for human consumption
+DAF
+DAIRY ANIMAL FEED
+DC1891
+Dairy animal feed other (Japan) - non-
+cloven hoof - not for human consumption
+DAF
+DAIRY ANIMAL FEED
+DC1892
+Dairy animal feed powder (Japan) - non-
+cloven hoof - not for human consumption
+DBD
+DAIRY BASED DIP
+DC1823
+Cheese based dip
+DBD
+DAIRY BASED DIP
+DC1830
+Mixed dip pack
+DBD
+DAIRY BASED DIP
+DC1824
+Yoghurt based dip
+DES
+DAIRY DESSERTS
+DC0106
+Dairy based dessert
+DML
+MILK POWDER
+DC0123*
+Buttermilk powder
+DML
+MILK POWDER
+DC0783*
+Milk calcium
+DML
+MILK POWDER
+DC0076*
+Milk powder
+DML
+MILK POWDER
+DC0999*
+Milk protein concentrate
+DML
+MILK POWDER
+DC0078*
+Milk powder blend
+DML
+MILK POWDER
+DC0318*
+Casein powder
+DML
+MILK POWDER
+DC0139*
+Whey powder
+DSA
+DAIRY BASED SAUCES
+DC0348
+Dairy sauce
+ECD
+EU COMPOSITE DAIRY
+PRODUCTS
+DC1841
+EU composite dairy products
+ESL
+EXTENDED SHELF LIFE
+MILK
+DC1831
+Extended shelf life liquid milk
+FCH
+FRESH CHEESE
+DC0453*
+Fresh cheese
+
+FMP
+FERMENTED MILK
+PRODUCTS
+DC0340
+Drinking yoghurt
+FMP
+FERMENTED MILK
+PRODUCTS
+DC0111
+Yoghurt
+FMP
+FERMENTED MILK
+PRODUCTS
+DC1861
+Kefir
+FMP
+FERMENTED MILK
+PRODUCTS
+DC0022
+Buttermilk
+FMP
+FERMENTED MILK
+PRODUCTS
+DC1859
+Flavoured yoghurt
+FMP
+FERMENTED MILK
+PRODUCTS
+DC1885
+Yoghurt powder
+FMP
+FERMENTED MILK
+PRODUCTS
+DC1893
+Fermented dairy dessert
+FZD
+FREEZE DRIED DAIRY
+PRODUCTS
+DC1846
+Freeze dried cheese
+FZD
+FREEZE DRIED DAIRY
+PRODUCTS
+DC1864
+Freeze dried milk
+FZD
+FREEZE DRIED DAIRY
+PRODUCTS
+DC1863
+Freeze dried Lactoferrin
+GOS
+GALACTO-
+OLIGOSACCHARIDE
+DC1293
+Galacto-Oligosaccharide
+HCH
+HARD CHEESE
+DC0188*
+Hard cheese
+HPP
+HIGH PRESSURE
+PASTEURISED
+DC1855
+High pressure pasteurised liquid milk
+INP
+INFANT FORMULA -
+POWDER
+DC0279
+Infant formula - Stage 1
+INP
+INFANT FORMULA -
+POWDER
+DC1037
+Follow -on formula - Stage 2
+INP
+INFANT FORMULA -
+POWDER
+DC1038
+Growing up formula - Stage 3
+LAC
+LACTOFERRIN
+DC0467*
+Lactoferrin
+LAP
+LACTOFERRIN
+PEROXIDASE
+DC0468
+Lactoferrin Peroxidase
+LCT
+LACTOSE
+DC0272*
+Lactose
+MFP
+MILK FOR FURTHER
+PROCESSING
+DC2000
+Milk for further processing
+MIL
+MILK
+DC0018
+Flavoured milk
+MIL
+MILK
+DC0020
+Liquid milk
+
+MIL
+MILK
+DC1881
+Liquid ice-cream mix
+MLC
+MILK CONCENTRATE
+DC1842
+Milk concentrate
+MLC
+MILK CONCENTRATE
+DC0036
+Condensed milk
+MLC
+MILK CONCENTRATE
+DC0037
+Evaporated milk
+MNL
+MILK MINERALS
+DC1862
+Milk Minerals
+MPB
+MILK POWDER BLEND
+DC0078*
+Milk powder blend
+MPB
+MILK POWDER BLEND
+DC0123*
+Buttermilk powder
+MPB
+MILK POWDER BLEND
+DC0783*
+Milk calcium
+MPB
+MILK POWDER BLEND
+DC0076*
+Milk powder
+MPB
+MILK POWDER BLEND
+DC0999*
+Milk protein concentrate
+MPB
+MILK POWDER BLEND
+DC0671*
+Acid casein
+MPB
+MILK POWDER BLEND
+DC0318*
+Casein products
+MPB
+MILK POWDER BLEND
+DC1845*
+Caseinate products
+MPB
+MILK POWDER BLEND
+DC0390*
+Recaldent
+MPB
+MILK POWDER BLEND
+DC0316*
+Rennet casein
+MPB
+MILK POWDER BLEND
+DC1205*
+Sodium caseinate
+MPB
+MILK POWDER BLEND
+DC0467*
+Lactoferrin
+MPB
+MILK POWDER BLEND
+DC0272*
+Lactose
+MPB
+MILK POWDER BLEND
+DC0139*
+Whey powder
+MPB
+MILK POWDER BLEND
+DC0332*
+Whey protein concentrate
+MPB
+MILK POWDER BLEND
+DC0176*
+Cheese powder
+PCH
+PROCESSED CHEESE
+DC0178*
+Processed cheese
+RMC
+RAW MILK CHEESE
+DC1882****
+Raw milk cheese
+RMF
+RAW MILK FURTHER
+PROCESSING
+DC1880**
+Raw milk for further processing
+SCH
+SOFT CHEESE
+DC0172*
+Soft cheese
+SHC
+SEMI HARD CHEESE
+DC0375*
+Semi-hard cheese
+SRC
+SHREDDED CHEESE
+DC0453*
+Fresh cheese
+SRC
+SHREDDED CHEESE
+DC0188*
+Hard cheese
+SRC
+SHREDDED CHEESE
+DC1828*
+Mixed cheese pack
+SRC
+SHREDDED CHEESE
+DC0178*
+Processed cheese
+SRC
+SHREDDED CHEESE
+DC0172*
+Soft cheese
+SRC
+SHREDDED CHEESE
+DC0375*
+Semi-hard cheese
+SRC
+SHREDDED CHEESE
+DC0213*
+Very hard cheese
+TPD
+THERMAL PROCESSING
+DAIRY
+DC0178*
+Processed cheese
+TPD
+DC0172*
+Soft cheese
+
+THERMAL PROCESSING
+DAIRY
+UHC
+UHT CREAM AND CREAM
+PRODUCTS
+DC0333
+UHT Cream
+UHT
+UHT MILK AND MILK
+PRODUCTS
+DC1840
+UHT flavoured milk
+UHT
+UHT MILK AND MILK
+PRODUCTS
+DC0004
+UHT liquid milk
+UHY
+UHT YOGHURT
+DC0119
+UHT yoghurt
+VHC
+VERY HARD CHEESE
+DC0213*
+Very hard cheese
+WEY
+WHEY
+DC0139*
+Whey powder
+WEY
+WHEY
+DC0332*
+Whey protein concentrate
+WEY
+WHEY
+DC1865
+Liquid whey
+Table of product codes by product type alphabetically (as at 19 March 2025)
+Product
+type
+Product description Category
+code
+Product Category
+description
+Applicable
+countries
+BMC
+BUFFALO MILK
+CHEESE
+DC0413
+Buffalo milk cheese
+CHINA
+EUROPEAN
+UNION
+UNITED
+KINGDOM
+JAPAN
+MALAYSIA
+BMC
+BUFFALO MILK
+CHEESE
+DC1860
+Buffalo and bovine milk cheese
+JAPAN
+BMI
+BUFFALO MILK
+DC1829
+Buffalo milk
+CHINA
+EUROPEAN
+UNION
+UNITED
+KINGDOM
+JAPAN
+MALAYSIA
+BMY
+DC0415
+Buffalo milk yoghurt
+CHINA
+
+BUFFALO MILK
+YOGHURT
+EUROPEAN
+UNION
+UNITED
+KINGDOM
+JAPAN
+MALAYSIA
+CAM
+CAMEL MILK
+DC1826
+Camel milk
+MALAYSIA*
+SINGAPORE
+FZC
+FREEZE DRIED
+CAMEL MILK
+DC1857
+Freeze dried camel milk
+MALAYSIA*
+SINGAPORE
+COL
+COLOSTRUM LIQUID DC0380
+Colostrum liquid
+CHINA
+COP
+COLOSTRUM
+POWDER
+DC0823
+Colostrum powder
+CHINA
+DBM
+DAIRY BASED
+MARGARINE
+DC1884
+Dairy Based Margarine
+NEW
+CALEDONIA
+DML
+MILK POWDER
+DC1719
+Driphorm HDHA 50 (milk
+powder encapsulated fish oil)
+MEXICO
+GIF
+GOAT MILK INFANT
+FORMULA
+DC1789
+Goat follow - on formula - Stage
+2
+CHINA
+JAPAN
+MALAYSIA
+VIETNAM
+KOREA
+GIF
+GOAT MILK INFANT
+FORMULA
+DC1788
+Goat growing up formula - Stage
+3
+CHINA
+JAPAN
+MALAYSIA
+VIETNAM
+KOREA
+GIF
+GOAT MILK INFANT
+FORMULA
+DC1787
+Goat infant formula - Stage 1
+CHINA
+
+JAPAN
+MALAYSIA
+VIETNAM
+KOREA
+GMC
+GOAT MILK CHEESE DC0451
+Goat milk cheese
+CHINA
+JAPAN
+MALAYSIA
+GMK
+GOAT MILK
+DC1836
+Liquid goat milk
+CHINA
+JAPAN
+MALAYSIA
+GMP
+GOAT MILK POWDER DC1618
+Goat milk powder
+CHINA
+JAPAN
+MALAYSIA
+KOREA
+GMY
+GOAT MILK
+YOGHURT
+DC1781
+Goat milk yoghurt
+CHINA
+JAPAN
+MALAYSIA
+GUM
+UHT GOAT MILK
+DC1572
+UHT goats milk
+CHINA
+JAPAN
+MALAYSIA
+ICE
+ICECREAM
+DC0292
+Ice cream
+EUROPEAN
+UNION
+INDONESIA
+KOREA
+MALAYSIA
+
+NEW
+CALEDONIA
+UNITED
+KINGDOM
+MOROCCO*
+SMC
+SHEEP MILK
+CHEESE
+DC0983
+Sheep milk cheese
+CHINA
+JAPAN
+MALAYSIA
+SMK
+SHEEP MILK
+DC1684
+Sheep milk
+CHINA
+JAPAN
+MALAYSIA
+SMP
+SHEEP MILK
+POWDER
+DC1797
+Sheep milk powder
+CHINA
+JAPAN
+MALAYSIA
+SMY
+SHEEP MILK
+YOGHURT
+DC1685
+Sheep milk yoghurt
+CHINA
+JAPAN
+MALAYSIA
+*Whilst this country considers this good as prescribed, there is currently no agreed health certification
+to export.
+Products which do not meet the criteria under the Export Control (Milk and Milk Products) Rules 2021
+(including products with a minor dairy component and non-bovine products) are classified by the
+department as non-prescribed goods.
+Further information on exporting non-prescribed goods from Australia is available on the Department's
+website.
+Table of product codes alphabetically (as at 19 March 2025)
+Product
+type
+Product type
+description
+Product category
+code
+Product category description
+NPG
+Non-Prescribed Goods
+DC1829
+Buffalo milk
+
+NPG
+Non-Prescribed Goods
+DC0413
+Buffalo milk cheese
+NPG
+Non-Prescribed Goods
+DC0415
+Buffalo milk yoghurt
+NPG
+Non-Prescribed Goods
+DC1826
+Camel milk
+NPG
+Non-Prescribed Goods
+DC0380
+Colostrum liquid
+NPG
+Non-Prescribed Goods
+DC0823
+Colostrum powder
+NPG
+Non-Prescribed Goods
+DC1870
+Dairy dessert (minor component dairy)
+NPG
+Non-Prescribed Goods
+DC1869
+Dip (minor component dairy)
+NPG
+Non-Prescribed Goods
+DC1719
+Driphorm HDHA 50 (milk powder
+encapsulated fish oil)
+NPG
+Non-Prescribed Goods
+DC1857
+Freeze dried camel milk
+NPG
+Non-Prescribed Goods
+DC1789
+Goat follow - on formula - Stage 2
+NPG
+Non-Prescribed Goods
+DC1788
+Goat growing up formula - Stage 3
+NPG
+Non-Prescribed Goods
+DC1787
+Goat infant formula - Stage 1
+NPG
+Non-Prescribed Goods
+DC0451
+Goat milk cheese
+NPG
+Non-Prescribed Goods
+DC1618
+Goat milk powder
+NPG
+Non-Prescribed Goods
+DC1781
+Goat milk yoghurt
+NPG
+Non-Prescribed Goods
+DC0292
+Ice cream
+NPG
+Non-Prescribed Goods
+DC1836
+Liquid goat milk
+NPG
+Non-Prescribed Goods
+DC1868
+Milk powder blend (minor component
+dairy)
+NPG
+Non-Prescribed Goods
+DC1684
+Sheep milk
+NPG
+Non-Prescribed Goods
+DC0983
+Sheep milk cheese
+NPG
+Non-Prescribed Goods
+DC1797
+Sheep milk powder
+NPG
+Non-Prescribed Goods
+DC1685
+Sheep milk yoghurt
+NPG
+Non-Prescribed Goods
+DC1572
+UHT goats milk
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/dairy/exporters/category-codes

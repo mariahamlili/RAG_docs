@@ -1,0 +1,151 @@
+24 December 2024
+
+Policy Decision 24-01
+
+Japanese encephalitis virus infection in animals case definition
+
+Animal Health Committee
+
+Purpose
+
+This case definition document details the nationally agreed laboratory and clinical evidence criteria required for the diagnosis of infection with Japanese encephalitis virus (JEV) in vertebrate animals in Australia.
+
+This case definition is to facilitate nationally consistent interpretation, reporting and disease response activities in the context of passive (diagnostic) and targeted surveillance settings.
+
+It has been developed in collaboration with key stakeholders. AHC will provide final approval for these case definitions.
+
+Scope
+
+The JEV case definition covers infection with, and exposure to JEV in vertebrate animals in Australia.
+
+It considers the level of confidence attributable to ‘positive’ laboratory evidence, in conjunction with the clinical status of the case. It does not define ‘negative’ evidence required for exclusion of JEV.
+
+The criteria for reporting of JEV investigations in the National Notifiable Disease Investigation (NNDI) data program of the National Animal Health Information Program (NAHIP) is currently limited to clinical investigations. Existing criteria for reporting should be used for that specific program.
+
+The JEV data sharing Memorandum of Understanding (2024) details the process on how and what data is to be shared with other agencies. This case definition is designed to complement the MoU to allow uniform reporting and interpretation of surveillance results.
+
+This case definition does not apply to other flaviviruses; however, the extent to which relevant flaviviruses cross-react with JEV is considered in laboratory interpretation. The case definition applies to testing undertaken at accredited animal health labs; laboratories that are not National Association of Testing Authorities (NATA) accredited or Government run facilities will require confirmatory testing prior to any action by the jurisdictions.
+
+Case definition
+
+A confirmed case of infection with JEV is defined as laboratory-definitive evidence of infection with or without clinical signs.
+
+Evidence of exposure to JEV is defined as laboratory evidence of exposure with or without clinical signs.
+
+Reporting
+
+Submissions meeting the criteria for a confirmed case of infection with JEV should be notified as per normal jurisdictional processes and any relevant data sharing agreements.
+
+Consideration should also be given to sharing information of evidence of exposure to JEV in either i) species, or ii) geographical areas, in which JEV has not previously been detected.
+
+Results of investigations not meeting the case definition should be reported as required; for example, results of clinical investigations into the NAHIP.
+
+Clinical evidence
+
+Most infections with JEV are subclinical. Clinical disease in animals is most commonly reported in pigs and equids; reports of disease in other species are rare.
+
+Pigs
+
+Reproductive disease in sows characterised by abortion, stillbirths, or mummified foetuses, delayed farrowing or increased return to service rates or paretic or clinically affected piglets that die soon after birth, above the expected level for the enterprise, AND/OR
+
+Shaking, trembling, ataxic or convulsing young pigs that do poorly, with variable pyrexia, AND/OR
+
+Orchitis, decreased sperm number or motility in semen, or abnormal spermatozoa.
+
+Equids
+
+Neurologic disease characterised by ataxia (including stumbling, staggering, wobbly gait, or incoordination), OR
+
+Neurologic disease without ataxia, characterised by two or more of the following:
+
+Facial paralysis
+
+Muscle tremors/fasciculation
+
+Hyperaesthesia
+
+Circling
+
+Blindness
+
+Recumbency or inability to stand
+
+Hind limb weakness
+
+Multiple limb paralysis
+
+Altered mental state
+
+Hypermetria
+
+Depression
+
+NOTE: Fever is an inconsistent finding, usually as a result of the late onset of central nervous system (CNS) signs relative to the time of infection and is not an essential component of the clinical description. Behavioural changes including somnolence, listlessness, apprehension, or periods of hyperexcitability may occur. Other common clinical signs include colic, lameness and anorexia.
+
+Laboratory evidence
+
+Definitive evidence of infection
+
+Isolation and identification of JEV, OR
+
+Detection of JEV by nucleic acid testing, OR
+
+Seroconversion or a diagnostically significant increase in JEV-specific antibody levels by testing paired sera in an appropriate serological test in the absence of significant levels of antibodies to other flaviviruses e.g. Murray Valley encephalitis virus (MVEV) and West Nile virus – Kunjin subtype (WNVKUN), and with no history of vaccination, OR
+
+Detection of diagnostically significant levels of JEV-specific IgM antibody in cerebrospinal fluid (CSF) in the absence of significant levels of antibodies to other flaviviruses e.g. MVEV and WNV-KUN, and with no history of vaccination.
+
+Note: Testing should be carried out at laboratories experienced in flavivirus testing, and it is important to consult laboratory staff for guidance on interpreting results.
+
+Evidence of exposure
+
+Detection of diagnostically significant levels of JEV-specific IgM antibody in serum in the absence of significant levels of antibodies to other flaviviruses e.g. MVEV and WNV-KUN, and with no history of vaccination, OR
+
+Detection of diagnostically significant levels of JEV-specific IgG antibodies in CSF or serum in the absence of significant levels of antibodies to other flaviviruses e.g. MVEV and WNV-KUN, and with no history of vaccination.
+
+Note: Testing should be carried out at laboratories experienced in flavivirus testing, and it is important to consult laboratory staff for guidance on interpreting results.
+
+Additional information on laboratory testing
+
+The primary method of agent detection of JEV is real-time reverse transcription (RT-) polymerase chain reaction (PCR) in post-mortem tissues (particularly CNS, tonsillar, placental or foetal tissues) or blood and CSF collected from acute cases.
+
+Due to the short viraemia associated with JEV infection there is usually only a short diagnostic window for virus detection by PCR in blood and serum samples. The presence of virus is also transient in CSF and it is infrequently isolated or detected by PCR. Negative PCR results obtained from blood, serum and CSF samples must be interpreted in this context. Oral and/or nasal swabs may also be tested; however, use of this sample for agent detection has not been well validated.
+
+Virus isolation may be performed, however the positive isolation rate from diseased or dead animals is usually very low unless sample selection is guided by screening of tissues by PCR first. CNS samples are preferred.
+
+Serological tests are most commonly used for live animal diagnosis and are also useful for surveillance programs to determine the prevalence of infection in an animal population and/or the geographical distribution of the virus.
+
+Interpretation of serological tests is complicated by the antigenic relatedness of flaviviruses, particularly those belonging to the same serogroup. Within the Japanese encephalitis (JE) serogroup, Australia has six endemic viruses: JE, Murray Valley encephalitis (MVE), WNV-KUN, Alfuy, Kokobera and Stratford viruses. Of these, MVE and WNV-KUN viruses have been associated with outbreaks of encephalitis in humans and horses. Serological testing should be performed, and results interpreted, in this context. Therefore, testing for JE, MVE and WNVKUN viruses should ideally be performed in parallel to assess the presence of cross-reactive antibody.
+
+Serological interpretation should also consider the age of the animal and potential for prior exposure to JEV and/or related flaviviruses. Some horses may have also received JE vaccination for travel or prior to importation.
+
+Serological tests to detect IgM and IgG antibodies to flaviviruses include competitive enzyme linked immunosorbent assay (c-ELISA), IgM antibody capture (MAC) ELISA, and virus neutralisation (VN) tests. To resolve the possibility that results are due to cross-reactivity, the more specific VN tests are preferred. Of the different VN test formats that may be employed, the plaque reduction neutralisation test (PRNT) is considered the most specific. Testing of a dilution series of sera in ELISAs has also proven to be useful to resolve cross-reactive antibodies.
+
+A diagnosis of recent infection can be based on the demonstration of seroconversion or a diagnostically significant rise in antibody level (as determined by the testing laboratory) between paired serum samples collected in the acute or convalescent phases (ideally, taken at least 14 to 21 days apart) using the neutralisation or another specific test. However cross reactions with related flaviviruses can still occur and should be considered when interpreting results.
+
+Where possible, cases with clinical evidence that return laboratory evidence of exposure to JEV should undergo additional testing, with the aim to confirm the presence of infection.
+
+References
+
+AHC47_OOS09_RESOLUTION_Japanese encephalitis in animals case definition
+
+Version Control
+
+Summary of Changes
+
+More information
+
+Learn more about the Animal Health Committee.
+
+Email ahc@agriculture.gov.au
+
+Acknowledgement of Country
+
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, and recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, fisheries and forestry industries.
+
+© Commonwealth of Australia 2026
+
+Unless otherwise noted, copyright (and any other intellectual property rights) in this publication is owned by the Commonwealth of Australia (referred to as the Commonwealth).
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+The Australian Government acting through the Department of Agriculture, Fisheries and Forestry has exercised due care and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the information or data in this publication to the maximum extent permitted by law.

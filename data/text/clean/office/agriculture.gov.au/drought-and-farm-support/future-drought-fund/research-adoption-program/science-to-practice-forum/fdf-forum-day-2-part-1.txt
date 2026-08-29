@@ -1,0 +1,993 @@
+Science to Practice Forum
+
+Day 2 Part 1 Program Transcript
+
+8 June 2022
+
+Introduction
+
+The Forum brought together farmers, their communities, the eight Drought Resilience Adoption and Innovation Hubs, Future Drought Fund program leaders, researchers, agribusinesses, and all levels of government to share knowledge about building drought resilience.
+
+Transcript
+
+[Event begins]
+
+Andrew Bell:
+
+Andrew Metcalfe:
+
+Well, good morning, everyone. And welcome to Day Two of the second annual Science to Practice Forum today. I'm here on Ngunnawal country where I live and work, and I'd like to pay my respects to the traditional owners of this land. [Acknowledgement of country in Ngunnawal language]. This is Ngunnawal country. Today, we are meeting together on Ngunnawal country. We acknowledge and pay our respects to the elders. I'd like to also acknowledge the traditional owners of all the lands on which people are joining us today, and pay my respects to their elders past and present. I also acknowledge all Aboriginal and Torres Strait Islander peoples who are joining us as part of our forum today.
+
+Andrew Metcalfe:
+
+Over the course of the forum, we're talking about caring for country, looking through the lens of drought resilience. And of course, first nation's knowledge is integral to a drought resilient future, as it is to this program. Yesterday, we heard from a number of first nation speakers about the importance of collaboration and valuing and protecting indigenous cultural and intellectual property. We saw some inspiring examples of a best practice indigenous land and drought management. Today, we'll be hearing from Carol Vale, managing director of Murawin, who the Future Drought Fund has partnered with on indigenous community engagement, about how essential our relationship with traditional owners actually is and the importance of our collaborative relationships. So again, welcome. A big hello to all of the people joining us from their local drought, resilience, adoption, and innovation hubs around the country, and to those joining us online. This is the second year that we've had the honour of delivering the Science to Practice Forum.
+
+Andrew Metcalfe:
+
+Last year's forum shone a light on the work being done by and with the eight hubs, and this year is no different. The hubs and their partners have made significant strides over the last year in building the foundations of a drought resilient future in their regions. We saw snapshots yesterday of the Southwest of WA, Southern Queensland and New South Wales, Tropical North Queensland, Northern West Australia, and the Northern Territory and the South Australian hubs. And today you we'll see Tasmania, the Southern New South Wales, and the Victorian hubs in action. It's truly exciting to see all of the hard work being done by the hubs and to see how their innovation partnerships and strong connections with their communities are positively impacting land managers and people in their regions. As we saw yesterday, harnessing innovation was a theme of the day, as was better land management. I was proud to hear from my departmental colleagues about the progress towards drought resilience and the ways which the Future Drought Fund is supporting Australians to prepare for the next drought.
+
+Andrew Metcalfe:
+
+A highlight for me were the hub showcases presentations. It's so exciting to see the types of projects emerging from the hubs. Projects like the water smart farms in West Australia, that illustrate how we can turn problems into opportunities, and the Tropical North Queensland hub Hatch Program, an incubator for agricultural innovation. And we also talked about tech, what you will need and what we envisage as we adapt to a changing climate. We looked at tools to help us do this. Products like Ag 360, an open source program livestock producers can use to reduce risk and harness opportunities via better data.
+
+Andrew Metcalfe:
+
+So it was a jampacked day one program. Thanks again to all of our presenters, panellists, and departmental representatives. Today, the Future Drought Fund focus areas of better climate information and risk management and more resilient communities emerge. Today's program will feature two diverse panels looking at how we manage both soil and social relationships for drought resilience.
+
+Andrew Metcalfe:
+
+As any farmer will tell you, the relationships both above and below the ground are key to landscape health. We'll also dig into data for productivity and natural resource management and mitigating risk in a changing climate. The engagement we had with last year's forum audience helped us understand what you loved, learned from, and saw value in, and we designed this year's program based on the input. So please don't be afraid to be vocal today. Take the time to consider your questions for presenters and panellists to use Hopin to ask these and participate in the online chat.
+
+Andrew Metcalfe:
+
+Now tomorrow there'll be hub and departmental networking opportunities, so be sure to check the program if you're joining online tomorrow. If you're joining in person from a hub location, you may have already arranged to take part in one of their day three field trips, which we'll have updates from tomorrow afternoon. So look, everyone, we're really excited you're here. We hope you enjoy today's program, and thanks once again for joining us, for being part of our vision at the Future Drought Fund, and for helping us build a drought resilient future for Australia.
+
+Andrew Bell:
+
+Andrew Bell:
+
+Three more hub videos today, a chance to showcase three hubs in the southeast corner of the country, and be mindful that this is a hybrid kind of a event, where we have some people in the studio, we've got a lot of people spread across the country, and sometimes the technology doesn't quite go according to plan. Can I ahead of time ask for your forbearance and patience if sometimes the internet connections aren't quite what we would like or expect. We did pretty well yesterday, and thanks to all the teams around the country and participants for hopping in to Hopin.
+
+Andrew Bell:
+
+And when you are in the chat, let's be respectful, let's be nice, let's be constructive, which you all were yesterday. Let's just keep that going. Now as for Hopin, if there's anyone joining today who wasn't with us yesterday, here is the cheat sheet for Hopin, which you'll find on the event website, talking about stages and networking and expo booths. But if all is lost, come back to the main stage. This is the heart of the event.
+
+Andrew Bell:
+
+Right then. Let's cut to the chase and cut to our first major topic of the day, soils in focus, a critical component when mitigating drought and building resilience. So we're going to have a number of experts to hear from, and for you to ask questions of. We've got a panel discussion coming up. So let's start with a presentation from Michael Crawford, who's the CEO of the Cooperative Centre for High Performing Soils, otherwise known as Soil CRC. Michael's joining us, and he's going to tell us about some of the drought resilience work being done by Soil CRC and their partners. I can see Michael there. Good morning to you. Take it away.
+
+Dr Michael Crawford:
+
+Thank you very much, Andrew. And good morning to everybody across Australia. I'm speaking to you from Naarm, which is the indigenous name for Melbourne, Victoria. Doesn't really matter where I'm speaking to you from, but the Soil CRC has a nationwide focus, and we work with many of the participants across the country who are involved in hubs. So my purpose today is threefold. One is to highlight to you the importance of soils and soil management in drought resilience. Having said that, listening to the discussions yesterday, the presentations for chat yesterday, I think there's already a very high awareness of just how important soils are. So often, people spoke of the importance of managing soils, of soil health, it all starts with the soil. The second objective is to bring to your awareness the activities and the work of the Soil CRC, because a lot of what we do does have relevance to how we best manage those for drought, and I'll talk a bit more to that in a little bit. The third objective I have is to actually launch a couple of fact sheets that we have that are specifically about managing soils during and after drought. I'll come to that later as well.
+
+Dr Michael Crawford:
+
+Dr Michael Crawford:
+
+95% of the food we eat has its genesis in the soil. And also in the context of this forum, what I also like to say is nature's given us three basic ingredients: sunlight, water, and soil, from which we create our primary industries, create our agriculture. Of those are three primary ingredients, sunlight. The sun will come up tomorrow. That's guaranteed. Water, not so much guaranteed. Hence the whole purpose of the Future Drought Fund and the activities here and how we best manage our water when it does come, when we do have it. And when we don't have it. But soil, that is the one of those three resources that's actually within our capacity to have some influence over and how we manage it.
+
+Dr Michael Crawford:
+
+Dr Michael Crawford:
+
+Many of them are regionally focused, and many of them have a very strong participation in the drought hubs across the country. We have four state government agencies. We have seven industry partners. Importantly and critically to the success of the Soil CRC, we have 20 farmer groups from across the country. Across Victoria, Tasmania, New South Wales, South Australia, Western Australia, Queensland. Many of those names are familiar to you. And in fact, many people in your audience are participants in the CRC via their membership of these grower groups or that they're working with those grower groups or the organisations on the previous page.
+
+Dr Michael Crawford:
+
+Dr Michael Crawford:
+
+That gives you a pictorial or a spatial representation of where all our participants are. Yes, largely across Southern Australia, the wheat belt and Western Australia through the crop livestock zone of South Australia, Victoria, New South Wales, and up into Queensland, where we've got a couple of the sugar groups involved there as well. The focus is we're nationwide, and we've got that regional focus.
+
+Dr Michael Crawford:
+
+I'm just going to take you quickly through our four programs and a quick snapshot of some of the work that we're doing to give you a flavour of what's here. Our first program is investing in high performance soils, and it's about how we can motivate, incentivize, reward farmers for investing in their soil stewardship and soil management in ways other than increased productivity and profitability. It's also about the adoption side of things, and what is it that helps farmers do what they do and what we need to consider as researchers in taking our soils research to market. So just straight away, you'll see that a lot of, well, just said there is relevant to the work of the hubs as well.
+
+Dr Michael Crawford:
+
+A lot of this information is on our website, which I'll come to in a minute, but some of the work we've done so far, and a couple examples here, we've done a lot of case study... Sorry, survey work with grower groups and farming areas across the country, looking at their current practices and their motivations and their attitudes and their adoption of various practices. And we call it the Rural Landholder Social Benchmarking. We've done a report for the northern wheat belt in Western Australia, also the Eyre Peninsula in South Australia, North Ventral Victoria region, Victoria, and Central West in New South Wales, and moving into Tasmania shortly to do another survey. So it's some very rich data that's relevant to many groups. And also, if you're not actually in those areas, there's data there that's relevant to your work anyway as a snapshot of what farmers do and why they do it. That's on our website.
+
+Dr Michael Crawford:
+
+On the right hand side, just a picture here of some Wheet-Bix, which we through a project led by Charles Sturt University, we've created the brand Nurtured Lands. This is a bit of a dummy brand to test the reaction of consumers to products that might have soil stewardship credence values embodied in them. Products that might come from a farm where we know that soils are being managed well, and to test a consumer willingness to pay for, in this case, Wheet-Bix, or minced meat or potatoes or other products that can show that sort of credence value. So there's just a snapshot of some of the work we're doing in that area, understanding what it is that, how we can return a premium to farmers for improved soil management.
+
+Dr Michael Crawford:
+
+In Program 2, Soil Performance Metrics. This is about what to measure, how to measure it, and what to do with all the data. There's a whole lot of produce going in in here, but there's some in the sensor technology area. Just a couple of examples. We're looking at developing an e-nose, an electronic nose, that helps to objectively quantify or characterise the smell coming from a healthy soil. We all know a good healthy soil by the smell of it, don't we? Well, how do you quantify that objectively and in the same way that you might smell a good cup of coffee and know a good coffee from a bad coffee, and what does that relate to in other areas? So we've got some work going on there in developing a technology which can help detect the volatile organic compounds coming from soil.
+
+Dr Michael Crawford:
+
+What to do for the data. There's a project being led through Federation University called Visualising Australasian Soils. There's a website there, a portal, if you like, through our Soil CRC website, where you can access a lot of data that's publicly available already, but in some cases, additional data that's coming to us from our grower group participants. So I encourage you to go there and look at that as well.
+
+Dr Michael Crawford:
+
+New products for soil fertility and function. This is partly about how we can develop alternative fertilisers, alternative soil amendments and ameliorates, and new microbial carriers and moisture retention products. A lot of it based on organic materials, how we can recycle, reuse organic sources of nutrients and organic materials for other purposes, and how we can develop alternatives to the chemical or synthetic fertilisers that we have in play at the moment, not so much to replace it, but to provide an additional source of soil amelioration or soil fertility. So we're looking at some new products, some really interesting work coming out of that.
+
+Dr Michael Crawford:
+
+And our fourth program is around integrated soil management solutions. How do we bring it all together in a paddock, on a farm, in a farming business. And a lot of that is being done in very close conjunction with our grower groups, with our farmer groups, looking at practices such as summer crops, cover crops, integrated, intercropping, green manuring, the effects of those are biological solutions on soil characteristics in the short term and the longer term, looking at multiple ameliorates and physical practices, how we can incorporate them and integrate them to address multiple soil constraints and how we contribute to the better management of soil variability in models such as APSIM, which many of you might be familiar with.
+
+Dr Michael Crawford:
+
+Now, all these four programs are characterised by the strong involvement and engagement of our grower groups. I mentioned earlier just how integral they are to the Soil CRC. Our grower groups have been involved in helping to establish the priorities, helping to co-design and develop proposals, actually helping to implement the successful projects, be it on farm or in other ways, helping to sit down with the researchers and interpret the findings and communicate the results to their participants and more broadly. So that's a key essential element of a CRC, the Soil CRC, in this case, that engagement with end users.
+
+Dr Michael Crawford:
+
+Well, what I come to is also a couple of resources that we're launching today in conjunction with this forum. We've developed a couple of fact sheets around managing soils during and after a drought. So last year, we engaged a couple of our participants organisations, PIRSA, the South Australian Department Primary Industries, and in Victoria, Agriculture Victoria. Experts from those two organisations came together and consult and engaged with a lot of our consultants, advisors, farmers from across the country to essentially harvest a lot of the existing information, both scientifically-based and experience-based, from how best to manage soils during, but more importantly, after a drought. And so there's a very large literature review/final report, which is on our website or will be shortly. But from that, we've distilled some of the essential information and put it into two fact sheets. That's a front page of each of them there, about four or five pages long.
+
+Dr Michael Crawford:
+
+Managing Soils During and After Drought in Cropping Systems, and Managing Soils During and After Drought in Grazing Systems. Those fact sheets are available on our website, along with a whole lot of other information. And let me just take you here to finish. We have our website, I'll encourage you to go there. There's a whole lot of resources there that will be very relevant to the hubs, to the participants in those hubs, and to those who are working with farmers around how best to manage soils. A lot of it does require local and regional adaptation, and that's where some of the resources that the government have got behind in the National Soil Strategy comes into play. But from a national perspective, here's a lot of research that the government is funding along with our participants, and we're looking to make that widely available, as I say.
+
+Dr Michael Crawford:
+
+Go to the website, subscribe to our monthly newsletter, go to our Twitter site, follow us at Soil CRC, connect with us via LinkedIn, Soil CRC. Subscribe to our YouTube channel, where we've got various videos on some of our projects and what's coming out of that. And basically what I'm saying to you, to finish up, is here's a whole lot of resources. We are working for the farmers of Australia to help increase their productivity and profitability. Soils are very important to their productivity and profitability and to drought resilience and drought management. So I commend the work of the Soil CRC to you. Thank you, Andrew.
+
+Andrew Bell:
+
+Thanks, Michael. You're on all platforms. There well done, connecting us in every which way. We're already getting loads of questions. We know from last year's, soil is a big topic that people want to find out stuff about. We've got a panel coming up in a couple of minutes, but some specific questions to you. We're going to start with Weet-Bix. Tracy Henderson from the CSIRO Drought Resilience Mission asking, what were the findings of your Weet-Bix experiment? Were consumers paying a little bit extra for the product produced under better soil management? If so, how much, or were you... A question from me, or were you working that out as you went along? I found that such an intriguing initiative.
+
+Dr Michael Crawford:
+
+It is. And, and to be honest, it's still a work in progress. All the results are still coming through. We looked at different social groups or demographics, inner city, latte sippers versus Western suburb, family type situations versus regional groups. And yeah, I hesitate to say too much about results, because in respect to the research team are still working it through. But for the most part, I think we're going to see it's watch this space and yeah. A lot of interest, but especially times going forward, maybe not a great deal of excitement about digging deeper in your pocket to pay more.
+
+Andrew Bell:
+
+But paying more for greater good, which sort of links back in with what we were talking about with organics yesterday. Julia Mackay is asking, what's the current thinking on fallowing? Is this now entirely out of date?
+
+Dr Michael Crawford:
+
+So two types of fallowing. Mechanical fallowing, the repeated cultivation and the chemical fallow. Listen, from a soils perspective, we are very much trying to ensure that those practices are out of date on a regular basis. Both the mechanical fallows are for what it does to the soil structure, et cetera, which is well known. And even the chemical fallow, having a bare soil, what we're finding... And this is some of the principles that many are talking about is that soils benefit from having green living matter in those soils for as much of the year as possible, climate depended, of course. And if we can grow other crops such as that research we're doing about summer crops, cover crops, et cetera, to help import the organic matter, keep the soil biology going in the soil, it's generally beneficial. There are other aspects to consider around the agronomy and weed control, et cetera, but from a soils perspective, we're doing our best to manage without those.
+
+Andrew Bell:
+
+Couple more questions before we go to the panel, one from the West. Nancy Ganaway in Western Australia asking, where can we get the report on WA Northern Ag soils?
+
+Dr Michael Crawford:
+
+You can get it from our website, www.SoilCRC.com.au/publications/technicalreports. You'll see there is a whole range of them there online.
+
+Andrew Bell:
+
+And one to wrap up from Paul McDonald. How does the Soil CRC connect with the National Soil Strategy and ensure the duplication around data and the like is minimised?
+
+Dr Michael Crawford:
+
+Yeah. In a couple of ways. So me personally and members of the soil CRC have had a lot of engagement with design and the implementation of the National Soil Strategy. I contribute to, sit on the implementation, the steering committee, and the action plan working group. So reassuring the alignment's happening there through various working groups, especially around the sort data and information. The work that we're doing from the start has been integrated with the national programs, indeed international programs around the soil data and management, working with CSIRO and other participants in this space. So very much. I've been around long enough to realise we cannot duplicate in this space, and we need to be very much aligned at a national level.
+
+Andrew Bell:
+
+Troy Clarkson:
+
+Thank you, Andrew. I'm glad to be back after last year to talk about soils. I'm very excited about soils, and thank you to Michael for introducing, I suppose, the connection of soils and drought. And obviously during this panel, we're looking to draw on the panel members to discuss further the importance of soils and importance of soils to drought resilience. So hopefully we'll have a great discussion and certainly unpack, I suppose, the exciting opportunities to improve soil health and to improve drought resilience. So last year, as people remembered, I spoke and I was happy to announce the great, I suppose, government launch of the National Soil Package, delivering the National Soil Strategy, and certainly been working closely, as Michael mentioned, with our stakeholders, including Soil CRC to deliver that package. And I'm excited to announce today that we're making great progress on the implementation of those soil measures.
+
+Troy Clarkson:
+
+Today I'll give you a bit of an update about where we're up to with some of those, and we'll go to the panel members shortly to talk about their experiences in soils and their pieces of work as well. But I suppose when it comes to drought and drought resilience, one of my first memories when I first started off my career was as an soil extension officers and certainly going out and talking with farmers and kicking the dirt and certainly discussing the issues. And certainly one of the issues that kept coming up over and over again was the importance of trying to build our soil health, increase organic matter, and try to improve that water holding capacity so when it came to dry times, they had plenty of water in the profile to keep those plants going and making sure we had good ground cover.
+
+Troy Clarkson:
+
+And certainly through that experience, I realised then that soils was fundamental, crucial, and the key to drought resilience and certainly continues that momentum now through my work in developing a national soil strategy, but also implementing the relevant measures and working with our key stakeholders to making sure we address that issue.
+
+Troy Clarkson:
+
+So as far as updates with the National Soil Strategy and the implementation of those measures, as you would've remembered, a lot of our programs was about really making sure that we understand and utilise the soil data out there, obviously with more soil data, we've got more knowledge. With more knowledge, we can make more informed decisions. And with more informed decisions, we obviously adopt better practices, which leads to better soil health outcomes. And certainly we've gone through the process with the program now to review all the existing soil data out there to understand what's out there, to understand the value, and to make sure we can access that.
+
+Troy Clarkson:
+
+So working very closely with CSIRO to develop the Australian National Soil Information System. And basically, that will be a platform where all the different information systems what has soil data on it will be centralised and accessed, and people can access that for their own use. That will be up and going very shortly. And to add more data, I suppose, to the existing data, what we're trying to do is we're offering payments to farmers for the historical data. So if you go into our website and Google National Soil Strategy, you'll be able to see historical data capture program. We are offering up to $10,000 per farm to access historical soil data. In addition to that, we're also implementing the National Soil Monitoring Incentives Program, and we're offering payments to reduce the costs of soil testing to access or have data shared as well. And again, go on our website and you will see what the programs are about and also who our key providers are. And if you guys are interested out there, whether you be extension officers who may have farmers who have an interest or farmers yourself, certainly there could be opportunity out there, because we're up and going.
+
+Troy Clarkson:
+
+I suppose we've also got grantees out there now ready to roll as far as implementing research projects. Many of those research projects will start to lead to improving drought resilience around soil, organic matter, and carbon. So those projects are up and going. We've engaged soil extension officers which are out there as we speak, speaking to farmers, helping them understand our soils, improving management practices. And as most of you would also be aware, is that we're actually engaged eight soil coordinates, one out of each of the drought hubs, to actually improve, encourage soil services in their regions, but also embed soils into drought and drought resilience. So those eight coordinators are up and going in each of those hubs as we speak.
+
+Troy Clarkson:
+
+So things are happening. We're also developing the National Soil Action Plan, which is basically what we're going to do more specifically over the next five years underneath the National Soil Strategy as far as implementation, to making sure we're ticking off on those key priorities. And certainly Michael and others have been involved with that to making sure that we've got action on the ground to address those key soil priorities. So I might just stop there. I'm pretty excited to introduce the panel members and hear a bit more about them, their expertise and their experiences in drought and soils. So what I might do is I might pass across to Naveeda first, just so she can give a bit of a summary about her work and her experiences. So Naveeda, over to you.
+
+Naveeda Majid:
+
+Thank you. I am Naveeda Majid and I am a soil scientist. I have done my master in soil science back in Pakistan. I am originally from Pakistan. After completion of my master in soil science, I was working with a company based in Lahore in Pakistan. Their name is Fatima Group. I was working there for a couple of years and there I was a soil consultant. I was working with the farmers face to face and virtually. My duties was to guide them about how to prepare their soil according to the climate condition and which are the agricultural practices they can choose to get the maximum productivity from their soils.
+
+Naveeda Majid:
+
+And currently I am a PhD student with the University of Newcastle and my project is fully funded with Soil CRC. I am working on non-wetting soils, and this problem of soils is happening around the globe and also in Australia. So yes, I'm characterising the non-wetting soils and yeah, that's it about me.
+
+Troy Clarkson:
+
+Great. Thank you, Naveeda. Thanks for the summary. So I might go from research to on ground, I suppose, farm advice. So, Belinda, do you want to talk a bit about your experiences in working with farmers in southwest WA?
+
+Belinda Eastough:
+
+Yes. I've been working in agronomy and farm consultancy for 32 years, pretty much based around Geraldton. And I currently live northeast of Geraldton at Yuna. So basically my background has been in soil catchments, working with catchment groups in the '90s when we had the decade of land care and then I moved from the public sector to the private sector and have been in consultancy and agronomy. Been working with Elders as a private agronomist, working with clients for 20 years. And basically obviously the soil is the building block for pretty much everything we do. So it's pretty much the basis of our productivity and we're custodians of that soil.
+
+Belinda Eastough:
+
+Also, I am farming. So my husband and I crop around 5,000 hectares annually, comprised mainly of wheat, lupins and canola. And we run 50 breeding cows and about 1800 breeding ewes. So basically a mixed farm, which are becoming a little bit unusual in this area. Essentially, farming in this area is basically yellow sands and sandy loam, so a little bit different, certainly from the bulk of Australia, but that's what we're dealing with.
+
+Belinda Eastough:
+
+And with regards to soils and drought, I've had the opportunity to live a few droughts. And basically in those years, we get less than 200 mils annually, and we're trying to crop on around 150 to 180 mils of growing season rainfall, which is pretty difficult. And I guess I'm pretty interested to join the panel today. I think there's some pretty exciting things happening in the soil arena, and I'm pretty excited to be able to speak about what we're doing up here to basically prepare for drought.
+
+Troy Clarkson:
+
+Great. Thank you, Belinda. Now we have heard from Michael, but I might just pass to Michael to give a bit of instruction to himself, maybe some more further background about what work they've been doing or what you've been doing, Michael.
+
+Dr Michael Crawford:
+
+Thank you, Troy. So just in relation to my own personal experience, I've come from a science background, agricultural science background, Melbourne University ag science work for a few years. And then I did a PhD in the mid '90s in Adelaide, University of Adelaide and a previous CRC, the CRC for Soil and Land Management, where my topic of research was looking at organic carbon, looking at below ground inputs of carbon under pastures, thinking from the perspective just how important maintaining organic carbon, organic matter in soils was. Not from a soil carbon sequestration perspective, only a few people were talking about the back in those days. Everyone's talking about it now. But from a sustainable agriculture perspective and a drought resilience type perspective as well.
+
+Dr Michael Crawford:
+
+Dr Michael Crawford:
+
+And I'm also just going to take that as a plug to bring Naveeda back into that conversation, as one of the PhD students in the Soil CRC. All CRCs have a bit of a mandate to look to the future to increase that capability into the future and across the CRC we've got a target of having 50 PhD students being funded in the area of soils across all the disciplines, not just soil scientists, but in disciplines related to soils type outcomes. And a key feature of being part of the Soil CRC PhD cohort is not just having the academic depth of interest, but also having the broad understanding of how that work fits in and the industry context. In our case agriculture across Australia. So that's something I'm personally very excited and proud of in relation to the Soil CRC.
+
+Dr Michael Crawford:
+
+I'll pull it up there, Troy.
+
+Troy Clarkson:
+
+No worries. Thanks, Michael. And don't go away because my first question is for you. So you've already spoken about soils in relationship to soils and drought, but I'll ask you this question so that you can provide a really succinct, I suppose, response in maybe two minutes. And that is why is soil so important to drought resilience?
+
+Dr Michael Crawford:
+
+Thanks, Troy. And you touched upon it also in your opening remarks, but essentially we talk about drought and a lot of people here looking at a whole range of different perspectives, but it impacts the agricultural enterprise because of the lack of water being provided to the plants, which then has all the flow on impacts in a whole range of different ways. And that water is supplied obviously by irrigation or from the sky, but it's through the medium of the soil and the soil helps to provide that water. It receives it, infiltration, it stores it through its capacity to store water and it then releases and provides it to the plant to the plant roots. So those aspects of soil water availability are mediated by our soil in relation to its physical capabilities and which are in turn impacted by the chemical and biological aspects of the soil.
+
+Dr Michael Crawford:
+
+We speak a lot around organic matter and how we can increase organic matter and in turn increase our soil health because that from a water perspective, it helps to assist in that increase with hydraulic conductivity of infiltration rate of soil. So our water, so the water does seep into the soil, and it helps to increase that storage capacity. What this means in practical terms, when drought is coming, soils that have more organic matter, a higher level of soil health in a range of different ways, will hold onto that moisture longer before going into drought. And then in turn, when the drought does or dry times eventually do finish, those soils will bounce back faster and planned pastures and crops will be able to get away faster.
+
+Dr Michael Crawford:
+
+So the best time to manage your soils for a drought is not in the middle of a drought, but when the times are good. How you can build that resilience, build the... Soil health, the soil organic matter, in those good times, not in the bad times. That's a key message that I'll leave you with here, Troy.
+
+Troy Clarkson:
+
+Great. Thanks, Michael. And just as a following question, this one's for you Belinda. So Michael mentioned organic matter as being fundamental to holding water in the profile and so forth, but obviously you've worked with a number of farmers over the years. And I just want, through your experience, what are some of the strategies those farmers are doing to try to put up their soil resilience to drought? So Belinda, over to you.
+
+Belinda Eastough:
+
+Okay. So our soils are generally sand based, so we're looking at sandy loams and deep yellow sand. So we're obviously subject to quite a lot of issues with those water repellents, sub soil acidity, compaction, et cetera. So just listening to Michael then, I think that basically that's what we're trying to do up in this region is increase that water holding capacity of the soil, increase the amount of water that we can hold in the root zone.
+
+Belinda Eastough:
+
+So therefore, if you look over the years, we started off with furrow sowing to get away from water repellents, so the water would basically move into the furrow and that was in the '90s. And obviously we've done stubble retention from when I came up here, pretty much, in 1989. So stubble retention, furrow sowing, and then we started moving into... There was a lot of ripping going on to try and increase the rooting depth of wheat, essentially, at that time. So then we started moving into controlled traffic and that was in the late '90s, early 2000s. And then in the 2000s, we started moving towards basically trying to get lime and address the sub soil acidity issue. So to get lime, to get it to move down to that 20 to 30 centimetre area, where that was where the sub soil acidity was occurring, mainly through product removal and our long history of lupins.
+
+Belinda Eastough:
+
+So people started, well, Paul Blackwell started working on looking at ameliorating soils by turning it over. So farms adopted this fairly quickly, but I guess there were four methods now that people are using. Obviously they come with their own issues, but essentially on the sand plane, people are looking at ameliorating. So putting lime on and then turning their soil over and trying to incorporate some organic matter back into the soil and bring some of the clay to the top. So this mole boarding is one method that people are using. Spading is another one that my clients are using. Deep ripping to depth of 50 to 70 centimetres is another one.
+
+Belinda Eastough:
+
+And I guess, one of the cheapest ones that people have used, and we use this ourselves on our property, is converting old ploughs to a one way plough. And you take off every second disc and you put 28 inch discs on. So to convert in machines, probably around $10,000. The only problem is you can only do about three hectares an hour, so it's pretty slow and you have to do it when it's wet. So you can only do a couple of paddocks a year, maybe a couple of hundred hectares a year with that sort of system.
+
+Belinda Eastough:
+
+So this is what people have started to do and the interesting thing that I've noticed from this, we've had a series of soil moisture probes with the UniFarm Improvement Group, but definitely the paddocks that have been ameliorated in some way had a lot more soil moisture held up in the profile, even. So 2019, we had 183 mils for the year. So it was a pretty tight year, basically ran out of moisture in about August, September. The ameliorated paddocks definitely had more soil moisture up in the rooting zone. And if you look at what's happening with machinery, our compaction levels, the compaction is now deeper than it used to be and we're looking at sort of compaction around 30 centimetres, 35 centimetres. So the compaction layers move down as well and also the level of compaction has increased. Probably the average compaction is about three and a half megapascals, which is pretty high and the cereal roots can't get through that.
+
+Belinda Eastough:
+
+So basically it's been... How would you say it? It's been a pretty big success story as in increasing soil moisture. Well, increasing amount of plant available moisture during the season. Look, if you can improve your rooting depths by about 20 centimetres, then in a yellow sand you can store around nine millimetres more plant available moisture. If you can increase your rooting depth by about 20 centimetres, you can store about 15 mils more in a sandy loam. And if you can get rid of, well, incorporate lime at that same time to help adjust the soil acidity or the sub soil acidity, you can probably store around 30 mils more plant available moisture.
+
+Belinda Eastough:
+
+And that is a make or break number for us as in a finish for the plant and grain fill. And even in the droughts, we notice that... Sorry, we've only probably since amelioration's been going on, we've probably only had one year that's been really tough and that was 2019. And so we just noticed that in those ameliorated paddocks, you'd get 400 maybe more kilos per hectare. So you went from 700 kilo to 800 kilo crop up to 1.2, 1.3. Which, it's basically as Michael said, you're preparing for drought and you're able to come through it in much better shape.
+
+Troy Clarkson:
+
+Great, thanks, Belinda. What a bunch of great strategies and experiences, and hopefully it gives people online some ideas about how to build up some drought resilience in their soil management. And you mentioned water repellent soil or non-wetting soils and I might just pass to you, Naveeda, because I know you've done a lot of research on non-wetting soils so it would be interesting to know what you've found and how that might relate to droughts. So over to you, Naveeda, about your research.
+
+Naveeda Majid:
+
+Mm-hmm. Okay, so non-wetting soils exist around the globe and in Australia. This is the kind of soils where the capability to absorb water got reduced. Non-wettability of soil is a problem where soils cannot absorb water and water cannot be infiltrated like the way it happens in normal soils. So this is the basically problem because if the soils cannot absorb the water normally and water cannot infiltrate and absorb in the soils, that means you are not exposing to get the emergence of seed. And with the agriculture point of view, the water is very important. Soil moisture, I mean to say, is an important factor, which we need to maintain.
+
+Naveeda Majid:
+
+So yes, why this problem is occurring? This problem is not occurring due to one factor only. There are a lot of factors concerning biotic and abiotic and soil physical properties, chemical properties are also impacting the occurrence of non-wettability of soils. So yes, my objective is to characterise the soils. I am arranging soils from South Australia and Western Australia because the non-wettability issue is more in that areas. I will be finding out why and which category is more significant in bringing this issue and then to characterise the microbes because there are some indigenous microbes in the soils, which has a capability to degrade this non-wettability of soil. In the top soils, you can see in the five to 10 centimetre, mostly these non-wetting soils have the very hard sub soils, and it appears like a wax on the top of the soils. So there exist to some wax creating bacterias and also other microbes.
+
+Naveeda Majid:
+
+But the need is to find out which microbe is more efficient and how economical it would go if we have to use that microbe to deal with this kind of the problem. And additionally, people are also utilising some... In the previous research I have found that some agricultural practices, like ploughing the top surface of the soil to reduce this compactness and the hardness of the soil to improve finally the infiltration of the water.
+
+Naveeda Majid:
+
+So yes, there are some microbial factors and some chemical factors and some physical factors which are causing the non-wettability of soils and also the chemical approaches, physical approaches and microbial approaches. In the literate of my degree, I will be evaluating which option is more sustainable to deal this problem. When we will be able to deal this non-wettability ability, then that means we will be able to conserve the water. We will be able to retain the soil moisture and in the long term, this way will be productive, and we will be dealing the issue of drought in that soils. So, yeah that's what about... Yeah.
+
+Troy Clarkson:
+
+Great. Thanks, Naveeda. Interesting research and interesting to see how those options pan out as far as which ones might work as far as management. And on that, Michael, you would've come across a few interesting research projects over the years and then more recently. What are some of the more interesting or exciting research projects you've come around, which is really focused on soils and drought resilience?
+
+Dr Michael Crawford:
+
+Dr Michael Crawford:
+
+But if I focus a bit more on some of the Soil CRC work which I am closer to... One of the key management aspects of managing soil, especially after drought, is around understanding nutrients, nutrient availability, and nitrogen and phosphorus in particular. Nitrogen can potentially accumulate over a drought. It can be lost. You need to know your fertility levels as you then go and sow the next crop or manage your pasture. Similarly with phosphorus, traditional way you take a sample, bulk soil sample, bulk them up, sub-samples, send them off to a lab, get a result three or four weeks later.
+
+Dr Michael Crawford:
+
+What we're looking to develop is a lab on a chip technology. So a small plastic 3D printed or manufactured chip with reagents embedded inside them, put a drop of soil solution into that chip. It reacts through for your agents, passes through a membrane, get a colour reaction. That colour reaction is read digitally with your smartphone, the red green blue index converts it to a number that gives you a fairly good estimate of what your nitrate, nitrogen or your phosphorus availability is. That's a sort of technology which will help to sort of revolutionise how we look at doing assessing soil fertility, backed up, complimented by more rigorous soil testing when it needs to be done, but quick and available type and cheap type approach.
+
+Dr Michael Crawford:
+
+Key to building organic matter in soils is maximising plant growth, maximising root input and above ground input of biomass. And key to doing that is addressing and removing constraints, be they sub-soil constraints or whatever. Talking in particular about sodicity and acidity and our two traditional ameliorants there are gypsum and lime. So we're looking at alternatives to those products that can have a higher effective rate of impact, a higher effective neutralising value in terms of lime, for example. Using our products based on nano materials, not nano particles, but nano materials, and combining that with organic imports, variations of recycled organic materials, compost, et cetera, how that can help to ameliorate soil.
+
+Dr Michael Crawford:
+
+A lot of the work around the cropping, the plant based options, the summer crops, the cover crops, the intercrops. And I know that across Australia, this is very much a place based climate based type situation, but looking to understand some of the principles as to what species might work, where and how, and what sort of impact they might have on the soils to help build that organic matter to help create those root biopores, macropores, so that water can infiltrate down a lot more easily. That can provide more organic matter into the soil that holds aggregates together and helps to prevent erosion, be it wind or water, but the next drought comes along.
+
+Dr Michael Crawford:
+
+So that's some of the research that's also quite interesting. Understand what does work, but also importantly, what doesn't work and also the risk associated with those practices as well. Troy, I could go on, but I won't. I'll leave it there.
+
+Troy Clarkson:
+
+Oh, fantastic. Thanks, Michael. And that's very exciting, those research projects. I'm sure, like you said, there's probably heaps more out there and that gives us a bit of a taster about what type of exciting work's out there.
+
+Troy Clarkson:
+
+Before I open up now to the general audience online to ask the panel members questions, I might just ask the panel members the same question each and getting a response. And that is if there was one key strategy to manage soils to improve soil or drought resilience, what is it? Is there a silver bullet? And if so, what is it?
+
+Troy Clarkson:
+
+How about I go to you first, Naveeda? Is there one thing you can think of which is fundamental to improving soils for drought resilience?
+
+Naveeda Majid:
+
+Okay. I think some restoration of vegetation, that would be good to go. In the areas where vegetation has been cleared and where you think need to grow the kind of native vegetation, including grasses, that, I think, would be a great strategy to follow, to save the water.
+
+Troy Clarkson:
+
+Okay, yep. Thank you. And over to you, Belinda, same question.
+
+Belinda Eastough:
+
+I think for the farming system that I'm living in and working in, I think it gets back to preparing your soils for drought. And that, to me, would be to increase the amount of plant available moisture. And also another thing... Sorry, can I add two things? One would be to reduce the amount of heat hitting the ground. So we get whacked around with temperature fairly strongly in August, September. So temperature's another thing that impacts pretty heavily on our yields.
+
+Belinda Eastough:
+
+So to maintain profitability and be viable, sustainable growers, basically anything that increases the plant available moisture is a great strategy to me. And at the moment it's looking like the road we're going down with the soil amelioration. Seems to be working pretty well. I mean, I'd just like to say that comes with it's own problems as well.
+
+Troy Clarkson:
+
+Perfect. Thanks, Belinda. And finally you, Michael.
+
+Dr Michael Crawford:
+
+Yeah, thanks. And to build upon what Naveeda and Belinda said. In the context of soil, obviously it's very much a place based type solution, but the one thing that's sort applicable right across Australia then is looking at it from how do I increase my drought resilience of the soils in the good times? How do I prepare for it when times are good? Not when you're on the verge of going into a drought or in the middle of a drought. And I'm sure that advice applies for a whole range of aspects of drought resilience as well.
+
+Dr Michael Crawford:
+
+But yeah, what you do, as Belinda was saying, increase your organic matter, increase your water holding capacity, when you do have good growing conditions and you can do it on a broad scale using natural and biological processes, will hold you in good stead for when the drought outcomes. As well as in the meantime, helps to increase your soil health and your soil productivity and profitability. And dare I say, even helps to address the soil carbon sequestration greenhouse gas type issues as well. Thanks, Troy.
+
+Troy Clarkson:
+
+No worries. And thanks guys, thanks to the panellists. And I will now go to you, Andrew. So if there's any questions we can certainly pass to the panellists.
+
+Andrew Bell:
+
+Are there any questions? I can tell you there are lots of questions.
+
+Troy Clarkson:
+
+Great.
+
+Andrew Bell:
+
+We've got about a quarter of an hour of a Q and A, so let's not waste any time. What I'm going to do is read the questions out, handball it to Troy who will then kick it up the wing or do whatever he has to do. Okay. This one from Palabi Singh. Is there any planned education for farmers to emphasise the increase of the organic biodiversity content in the soil for soil longevity and quality, keeping long term quality in mind?
+
+Troy Clarkson:
+
+Okay. So I might go to you first, Michael, for that answer. And then Belinda, I might also go to you second, just to see if you could add any information from your experiences on that one too. So firstly, Michael.
+
+Dr Michael Crawford:
+
+So I understand the question planned education around soil biodiversity specifically. Let me say this, that our understanding of soil biodiversity of soil biology is developing and emerging, especially in relation to our understanding of soil chemistry and soil physics. And I'll say around soil biology, the more we know, the more we know that we don't know. That's how complex it is. It's also how important it is. But we are working with, through the Soil CRC and across Australia, all the other resources that are available, it has increased our focus on soil biology and biodiversity, understanding and education, and through some of the programs being funded under the national soil strategy. There's going to be more outreach and extension and courses and workshops in relation to that space. Troy.
+
+Troy Clarkson:
+
+Yeah, thank you, Michael. And certainly through the Soil Science Challenge, we're funded through the National Soil Strategy. There's a few key research projects, focusing on that soil biology element, because like Michael said, there's not much known about it.
+
+Troy Clarkson:
+
+Now Belinda, have you got anything to add to that?
+
+Belinda Eastough:
+
+Well, I'd actually agree. I don't believe there's been much work done on soil biology. I keep going back to the farming system I'm working in. Look, I mean, we can go into native vegetation around here and basically most of it supports wattles and sand plain mallies and it's pretty infertile soil. It's deep yellow sand. It's very acid. It's also got low levels, very, very low levels of nutrients. That's in our native vegetation. Most growers would have at least 20% native vegetation on their properties in this area.
+
+Belinda Eastough:
+
+So then when you go out in the paddock, what we've been doing in the paddock, the soils are much more fertile in a productivity sense. Obviously we grow lupins in our system, obviously we inoculate with Rhizobia. Those Rhizobia are still there. You only inoculate once. Those Rhizobia have been there for 50 years. Obviously we could probably use improved strains, et cetera. But the thing that that says to me is that soil can support Rhizobia, so we don't actually know much about the microbiology of our soils. Yeah, it's a great area for research and whether we can improve the microbial richness of our soils and whether that would improve organic matter over time. It's just not an area that there's been much work done in this area.
+
+Troy Clarkson:
+
+Yeah, thanks Belinda. And before we go to next question, Andrew, I might just go to Naveeda just to ask her. Naveeda, through your non-wetting soil research, is there any sort of biological opportunities or solutions, do you think?
+
+Naveeda Majid:
+
+As everybody says, that microbes are the kind of things we need a lot and lots of knowledge about it, and we will be keep exploring. So yes, microbes kind of thing, and is very interesting to work on. And I guess if I can find the superior microbe, that would be really great to deal the non-wettability issue because the microbes will just be growing by itself in that kind of soil. We just need to inoculate them or maybe it will be already surviving in that kind of soil. So yes, microbes are much, much wider, I should say, as the subject and the area to be explored and work on.
+
+Dr Michael Crawford:
+
+Troy, can I just add to this, that in respect to our soil biology colleagues across the country, there is a lot of work that has been done. There is a lot that is known, but relative to the complexity of this issue and the harshness of the Australian climate, the distance from the lab and the glasshouse to what actually happens in the soil, there's a lot more to do.
+
+Troy Clarkson:
+
+Yeah, exactly, Michael. So it's really appreciating the complexity of soils across our landscapes, I think.
+
+Andrew Bell:
+
+Next question comes from Dhiraj, who's the regional soils coordinator at the TNQ Drought Hub. It sounds like a simple question, but I'm guessing it's not going to be quite a simple answer. How best can we manage soil health on large farms?
+
+Troy Clarkson:
+
+On large farms? I might go to Belinda. You've worked with probably a lot of large farmers. So have you got an answer for that?
+
+Belinda Eastough:
+
+Yeah, look, I do work with a lot of large properties, 10,000 hectares plus of... I guess those guys are pretty much geared up to... It's within their interest to manage their soils in a productive and sustainable way. When we have a drought, if you haven't got stubble cover and you haven't got organic matter and clay, et cetera, holding your soil together, it basically blows away. And nobody wants to see that. And we certainly don't enjoy wind erosion events in this area.
+
+Belinda Eastough:
+
+So managing it on large farm, I think those guys are doing everything they sustainably can, but with lining and ripping and inoculating lupins and having a sustainable rotation. But we're always open to new ideas and new innovations. I mean, as growers, I'm talking as a grower now, we're just trying to stay ahead of the game.
+
+Troy Clarkson:
+
+Yep, perfect. Thank you.
+
+Andrew Bell:
+
+Staying ahead of the game. Let's stay ahead of the questions, they're local. And Christine Auggie has asked, what work are you undertaking on cover cropping pasture and crops as a longer term approach to soil health and increasing infiltration?
+
+Troy Clarkson:
+
+So cover cropping. So Michael through the research projects about, have we done much work through the grow groups and so forth on cover cropping?
+
+Dr Michael Crawford:
+
+Andrew Bell:
+
+All right. The conversation will continue well after this panel. Here's a question. Actually, it's directed to Belinda. It's from the viewing panel in Dookie, in Victoria. Belinda, on your farm or the farms you advise, what's the biggest hurdle people face when they attempt to innovate or consider innovation?
+
+Belinda Eastough:
+
+Economics. So basically even the cost of amelioration is expensive. The spade a cost 280,000. The actual cost of the process is probably 180 to $200 a hectare. You can only do so much a year. You're just constrained with, I guess that gets back to that other question, that you're constrained with the size of the property and how much you can actually do to ameliorate. But I think if money was not, well, then you run into time. Yeah, there's lots of things. I guess lots of constraints. Time, money, and availability of employees.
+
+Troy Clarkson:
+
+So with that one on innovation in your community, do you have early adopters and do other farmers then jump on board once they see success from those early adopters?
+
+Belinda Eastough:
+
+Oh yes, definitely. The classic extension curve where you have the early adopters, the middle people and the laggards, they're all out there. So the early adopters, you need those in every community and we all copy them if it's successful and if it's not, we don't.
+
+Andrew Bell:
+
+Peer-to-peer education which we heard about yesterday.
+
+Troy Clarkson:
+
+Exactly, yep.
+
+Andrew Bell:
+
+Question from Julie Mackay. Is cropping the best and best use for very dry areas?
+
+Troy Clarkson:
+
+I might go going back to you Belinda to start off with because you are obviously in dry areas. So sorry, Belinda.
+
+Belinda Eastough:
+
+Well, that's an interesting question in itself. I guess there's a couple of options. You could either just draw a line in the sand and say, "No, we shouldn't crop in these areas."
+
+Belinda Eastough:
+
+But having said that we're all still here, they're relatively profitable businesses, they're sustainable businesses. We've learnt to deal with drought and we manage drought. But every time there are a series of droughts, people move. But then other people buy the land. So someone must see a future in it somewhere.
+
+Belinda Eastough:
+
+But from the point of view of livestock, we do run livestock on our property. If that's an alternative, once again pretty hard during drought. You have to destock fairly quickly. You have to make your decisions really quickly. The sheep just hammer the sand pine in a drought. They're just like a walking wind erosion event and I know that because I've lived it, catalyst softer on the country. But we have very fragile soils here. Cropping is possibly one of the more sustainable ways of managing the landscape to stop it blowing away.
+
+Belinda Eastough:
+
+The other option is let it go to... We actually have perennials but we don't get enough summer rain to sustain those perennials every year. So some years they're brilliant and some years we get no rain between... The last rain might be in September and then it doesn't rain again until the following May. The past perennial pastures that we sown allow really fragile country. Yeah, they just don't come back and they can't really run stock. So we just don't don't graze them at all. So in answer to the question, I guess at this stage, while cropping is relatively profitable, yeah, it's working for us.
+
+Andrew Bell:
+
+And I'm afraid the clock has beaten us. There are many more questions. Rest assured the team, Troy's team will be looking at them and considering them. Everyone's voice will be heard as this conversation continues. But to Michael, Naveeda, Belinda and Troy here in the studio, thank you so much for joining us. We've stretched right across the continent showing the national nature of this conversation. The specifics of place but also the fact we're all in this together. As someone once said, the answer lies in the soil. Thank you very much for that panel. It was very popular last year. It was popular again this year. I fancy will be talking about it again next year too.
+
+Andrew Bell:
+
+Our next segment has the title, Improved Knowledge Information, as we all know is power. And we are going to be talking to Mike Berwick, who's Senior Policy Advisor at Green Collar to consult on environmental and carbon markets.
+
+Andrew Bell:
+
+They work with land managers, corporations, government research organisations and traditional owners to create methodologies and markets that place the environment on the balance sheet. It's introducing new ways of thinking about what we do and then that ensures money flows to people working and living on the land to deliver environmental benefits for all.
+
+Mike Berwick:
+
+Thank you very much for having me today. My respects to the traditional owners of this country, the LNG and through traditional owners across the country and good to be on after all at latest on soil science. It's wonderful to hear all that work happening and it aligns pretty well with what we're trying to achieve here.
+
+Mike Berwick:
+
+I'm not a soil scientist. I'm going to talk about environmental markets as a mechanism allowing society to pay for ecosystem services including soil health. Those services that we all currently use for free and whether the primary producer is paid in credits or gets a premium are just different ways of funding those ecosystem services.
+
+Mike Berwick:
+
+So just in case anyone's not familiar with what ecosystem services are, they include biodiversity, clean air and water, healthy food of course, all those services that we need to sustain the planet and people.
+
+Mike Berwick:
+
+So Green Collar began in the carbon market and they've done very well there and they're the biggest supplier of Australian Carbon Credit Units in Australia now. And since then, it's invested in the development of other environmental markets, specifically at this stage in water quality, impacting the barrier reef for a start, but generally everywhere, biodiversity and plastic pollution.
+
+Mike Berwick:
+
+So today I'm going to talk about land condition generally and using one example, water quality and soil health. So the assumption is that land condition is the foundation of drought resilience. So I take it that we're all in agreement with that and from that other economic, social and cultural benefits will flow.
+
+Mike Berwick:
+
+So I think all the audience would now be aware of the issue of soil and land degradation is global in scale. Acknowledged in the recent UN report on land degradation and desertification, which says that by 2050 we're going to struggle to feed the world's population because of soil degradation across so much of the land currently used food production.
+
+Mike Berwick:
+
+And a separate report, which really highlights the issue that we face by the International Union for the Conservation of Nature and the European Commission. And it says and I quote, "Sustainable agriculture will need first and foremost to consider two inseparable intertwined societal priorities, preserving the environment and having a safe and healthy food for all."
+
+Mike Berwick:
+
+And then it analyses and compares 14 different types of sustainable agriculture. Many of which I've heard of but some I didn't and it includes things like organic biodynamic, regenerative agroecology and a whole number of others.
+
+Mike Berwick:
+
+But the key message here is that it says a lack of quantitative evidence of the benefits will convince me the farmers, consumers or policy makers. And that's the issue that environmental farmers are faced with. Those markets need quantitative verifiable evidence to attract investment and that evidence is lacking across so many of these services at the moment.
+
+Mike Berwick:
+
+Since agriculture began, society has only ever paid farmers for the food and fibre. Never for the ecosystem services used or abused in the production of those goods. And I see CSIRO predicts that the Australian [Department to confirm] could be producing up to $48 billion worth of ecosystem services by 2050. And just by way of comparison, the red meat industry currently produces about $12 billion worth of goods.
+
+Mike Berwick:
+
+I would argue or we would argue here at Green Collar that regulations, grants and goodwill have collectively failed to reverse the damage to the caused by people. However, we think that all of us paying for the ecosystem services will use either directly or indirectly, is the missing component to turn around what we're doing to this planet.
+
+Mike Berwick:
+
+I'm going to use the water quality market Green Collar has established to pay farmers for practices that improve water quality entering the GBR as an example. For those who are not aware, the two threats facing the Great Barrier Reef are climate and water pollution. The water pollution is primarily dissolved in organic nitrogen or bioactive nitrogen, sediment and pesticides. There are others of course but they're the main ones.
+
+Mike Berwick:
+
+Setting up a new market is a complex business. It needs a guide and standard which is a bit like a constitution. It needs independent governance, it needs methodologies and they're the accounting tools and it needs a registry that tracks holds and retires the credits.
+
+Mike Berwick:
+
+The methodology is the hard bit. The rest is laborious, bureaucratic and pedantic but essential to build trust because just like regular currency, environmental market products have to be widely trusted to attract investors and they heavily scrutinise. So they got to be pretty much spot on.
+
+Mike Berwick:
+
+So what are the determinants that can predict soil erosion? Oh, just going back a bit. So back in Reef Credit just to set the context a bit more. We do already have methodologies in nitrogen reduction. That's nitrogen exported to the reef through farm practice change, methodology in developing wetlands as a means of abating nitrogen, a gully erosion methodology that repairs gullies, which are a major source of or the major source of sediment to the reef. So the markets up and running. There is both supplies and buyers and transactions are underway. So back to where I was.
+
+Mike Berwick:
+
+So what are the determinants that can predict soil erosion? First, it was thought to be ground cover and then biomass. But using these indicators alone, throws up anomalous results and you can have a good average ground cover but still get plenty of erosion or you can have poor average ground cover and not get much of it. And it depends on a whole lot of other issues such as where the bear patches are, where the well covered patches are, where the soil health is, et cetera, et cetera.
+
+Mike Berwick:
+
+But what the most recent data is suggesting is that soil health in all its complexity, and people have talked about, that the physical chemical and biological health of the soil is the determinant. It's not any one of those indicators on their own. And that in turn is dependent on the above ground biological diversity and abundance.
+
+Mike Berwick:
+
+So here's some early results from long term grazing trials in the Upper Burdekin Rangelands looking at the soil condition of four properties that have adopted regenerative grazing practices over a long period of time. Anywhere on those four properties between five years and 30 years.
+
+Mike Berwick:
+
+In talking about regenerative agriculture, it's not well defined and it means different things to different people. So for our purposes in this purposes, we're defining it by the ecosystem services that it can deliver in this particular landscape. So that's above and below ground biodiversity and I would suggest that soil health is simply below ground biodiversity.
+
+Mike Berwick:
+
+Landscape connectivity, that's the connection of remnants and ecosystems. Carbon stores in vegetation and soil and the water cycle, both the holding of water and the quality of water running off the place. In other landscapes, you probably include salinity and different things. So it's sort of area specific.
+
+Mike Berwick:
+
+And you can see from that graph, if you look at the top table there, some key indicators and the actual improvements that we're getting in those particular indicators. And if you look at the graphs across the bottoms you'll see... And I'm just going to up the thing so I can read it myself.
+
+Mike Berwick:
+
+Across the bottom you can see the relationship between soil moisture and total organic carbon, and then the relationship between soil moisture and respiration, between soil moisture and microbial biomass, and between soil moisture and microbial activity. Excuse me a sec.
+
+Mike Berwick:
+
+So these are very early results and they're the basis of an Arc Linkage grant by Green Collar, the company I work for, AgriProve experts in soil carbon, North Queensland Drive Tropics, the Regional NRM Group and the Burdekin and the University of Southern Queensland's soils team. To firm up these numbers because they are only early indicative numbers.
+
+Mike Berwick:
+
+And what we need is more data across soil types and land types. We need cost effective monitoring, particularly remote sensing. And just to cover off on that monitoring, if monitoring is not cost effective, it can easily cost more than the ecosystem service that is being funded. And particularly across vast range land landscapes, you can imagine running around doing soil tests on a 10,000 hectare property. So we need some way of cost effective monitoring and that's probably through remote sensing. Not my area of expertise at all.
+
+Mike Berwick:
+
+So whilst this is a Great Barrier Reef focused initiative, and it's about reducing fine sediment being exported to the barrier reef from the catchment straining into the reef. So initially that's what we're focusing on. But the challenge of reversing soil degradation and biodiversity loss is a universal one and central to maintaining landscapes in a healthy condition, which in turn, as postulated, is the best way to maintain resilience against drought.
+
+Mike Berwick:
+
+But until science can develop that quantitative correlation between land practice, land condition and the outcomes, in this early instance, water quality. We struggle to establish a market and to attract investment.
+
+Mike Berwick:
+
+And we might wonder why that hasn't happened but when you come to invest in a market, you need a widely trusted currency and there's plenty of critiques out there as you would've heard. Critiques of carbon methods have been prominent in the news in the last few months. This has to be squeaky clean. It has to be widely supported. It's audited, it's measured, it's scrutinised. So it's got to be pretty good.
+
+Mike Berwick:
+
+So what this today, I guess is a call for science generally to invest in understanding what these relationships are and we would love to collaborate with various institutions that may well be able to help build up these correlations. So thank you from me.
+
+Andrew Bell:
+
+And thank you very much there to you Mike and we good that we got through you loud and clear for your important contributions and some important questions coming in. We've got a couple of minutes before our next presentation.
+
+Andrew Bell:
+
+This question came from Joe Banks. Hi, Mike, a major focus in Europe is the cultivation of microbial biomass to produce proteins using solar energy and capturing carbon. This is seen as an alternative and highly sustainable land use opportunity for agriculture. Joe Banks asked, any thoughts on this for Australia?
+
+Mike Berwick:
+
+Well, there's some clarity around the question I suppose. Is this like producing protein in a laboratory or a controlled environment like making protein from algae or something? Could I just have a little bit more clarity around that question?
+
+Andrew Bell:
+
+Well, I'm just passing the question on Mike. So my expertise is limited.
+
+Mike Berwick:
+
+Yeah, look and I-
+
+Andrew Bell:
+
+I suppose would say that on notice.
+
+Mike Berwick:
+
+Yeah, if you could.
+
+Andrew Bell:
+
+Okay. Another question that's come in. How's your work? This is a nice broad one. How does your work link in with the Drought Hubs?
+
+Mike Berwick:
+
+Well, simply to say that if we can generate environmental markets and start paying landowners for the ecosystem services they produce, i.e. keeping the landscape in good condition, that is the best insurance against drought. Land in good condition is land that's going to weather a drought the best.
+
+Mike Berwick:
+
+And so what hopefully these payments do is encourage farmers to improve their soil condition, improve their biodiversity generally, improve their water quality and their carbon content and these are all services.
+
+Mike Berwick:
+
+Well right now, of course carbon is an ecosystem service that is already at market, that's already up and running and people are earning substantial income from that. But once we get these revenue flows for ecosystem services flowing onto farmers, and grazers and landholders, then that's one of the ways of attracting a whole lot of investment into this area. So I hope that answers the question.
+
+Andrew Bell:
+
+And final one here from Hannah Griffiss. How does Hannah and how do we all get more info about the early research?
+
+Mike Berwick:
+
+Well, I could happily share that with her the work that... Let me go back to the beginning. The state government in its Paddock to Reef projector tool has initially said if you want to reduce soil erosion, then the proxy we use is ground cover. CSIRO, and there's water work being done by land or water there, said, "Well, hang on. It's more than ground cover." It's biodiversity or the, sorry, biomass.
+
+Mike Berwick:
+
+And then the further work that they're doing in looking at those properties that I threw up on the last slide... I guess I should go to the next slide. But I'll go back to that other one. The examples that we threw up in there are work that have come out of that research and they are early research. As I understand, it's CSIRO, is publishing an update report on that research to the Great Barrier Reef Foundation which funded it and there's quite a lot of new stuff going on.
+
+Mike Berwick:
+
+Now I haven't mentioned that we're working with both the Great Barrier Reef Foundation and with other ecological engineering companies, specifically Viterra, to start using a methodology that is still lacking in detail. But once we can start this... Of course environmental markets are never perfect. You have to start somewhere. So you start with what you know and if it's lacking in accuracy, it's discounted. And then as you collect data, it feeds back into the system and you gradually improve accuracy.
+
+Mike Berwick:
+
+So we're going to start on this as soon as we can, recognising there are a few variables that we don't yet understand. But ongoing monitoring measurement and feedback is what will get it.
+
+Mike Berwick:
+
+So I'd be looking at Land & Water Australia, USQ, that ARC Linkage grant if that gets up. And of course what I'm doing is saying, "Well, hey, hang on out there. If there's any other research going on there, we'd love to know."
+
+Andrew Bell:
+
+And that's where we're going to have to wind it up Mike. Thanks very much for your patience and for getting your message through loud and clear. Have a very good rest of the day.
+
+Mike Berwick:
+
+Thank you.
+
+Andrew Bell:
+
+And we're going to be talking about helping farmers find the sweet spot. The sweet spot between productivity and natural resource management. Sue is research director at Farming for the Future. Farming for the Future's vision is that producers are supported to evolve their businesses in ways that maintain and enhance natural capital and that of course builds resilience and improves profitability. Seeing you there, Sue. Hello, to you? Where are you speaking to us from?
+
+Sue Ogilvy:
+
+I'm speaking to you from Ngunnawal country where I live and work. I'm very proud to pay my respects to their elders past, present and emerging.
+
+Andrew Bell:
+
+Well, thanks Sue. If you are ready to do your presentation... And there'll be a Q&A with you, so keep those questions coming in. But for now over to you, Sue.
+
+Sue Ogilvy:
+
+Thank you very much. So I'm very pleased and very privileged to be the research director for a new initiative called Farming for the Future. Farming for the Future is a collective impact and public interest program that's been initiated by the Macdoch Foundation and it's in partnership with a number of companies including PWC, other philanthropists, industry bodies including MLA and AWI and other partners including government partners.
+
+Sue Ogilvy:
+
+And our program is designed to help farmers to find a sweet spot between the natural resources that they manage for their farm businesses and for their profitability. So trying to link natural capital to farm business benefits, whether they're financial benefits like profitability or non-financial benefits like wellbeing and other benefits to their families.
+
+Sue Ogilvy:
+
+And so what we aim to do with Farming for the Future is to collect a significant amount of data about farm financial performance and related to natural capital measures. So natural capital in the Farming for the Future definition, of course reflects the normal definition of natural capital being a combination of resources including ecosystems.
+
+Sue Ogilvy:
+
+But to be clear, in agriculture, our version of natural capital includes remnant native vegetation. It includes grassy woodlands that you might graze with livestock occasionally. Certainly it includes those very highly intensively managed and highly productive ecosystems like exotic pastures and certainly crops for grain and fruit.
+
+Sue Ogilvy:
+
+And our aim is not to be imposing standards for natural capital on farmers, but actually to try to reveal where a farmer might be able to make an investment in their ecosystems, in their natural capital in order to improve their profitability.
+
+Sue Ogilvy:
+
+So we are not so much focused on helping farmers to participate in carbon markets or biodiversity markets. We are looking at that activity. We welcome it strongly and we see it's a very, very important part of the picture.
+
+Sue Ogilvy:
+
+Our focus is on natural capital's use in production of core livestock and grains. And so we aim, the vision for the research that we're doing is to... If we envision a chart with an X axis being natural capital, where more natural capital increases to the right. And the Y axis being farm business benefits. And they might be financial benefits or they might be other economic benefits to farmers including potentially wellbeing and productivity.
+
+Sue Ogilvy:
+
+And we imagine that there's probably a situation where as you increase natural capital up to a certain point, your profitability or your other benefits actually also increase. Beyond a certain point they might decrease.
+
+Sue Ogilvy:
+
+And what we are speculating is that many farmers are currently what we might call underinvested in natural capital. And by that we mean, that if they increase their natural capital maybe by improving their soil health, maybe by changing their pasture composition and condition, maybe by investing in trees on their farms, that actually their profitability might improve because they might be able to maintain production but reduce expenses or maybe reduce livestock mortality or improve livestock performance without actually spending any anymore money.
+
+Sue Ogilvy:
+
+And we think this is a really important thing to investigate because we know very much that natural capital is going to change as climate changes and as droughts start to affect us. And of course the opposite of droughts floods also affect us.
+
+Sue Ogilvy:
+
+And what we want to discover is are there different types of natural capital that provide different performance benefits to total farm businesses under those situations? So that's the central part of the research.
+
+Sue Ogilvy:
+
+The way we are doing the research is to do it in a very collaborative manner and to make sure that we are acting in the public interests. Being a philanthropically initiated research program, the imperative that we have is to act in a very collaborative manner, not to duplicate and to make sure that everything we do can be made available in the public interest.
+
+Sue Ogilvy:
+
+So we are doing the project in partnership with farm advisors and farm accountants. We see them as a vital audience in terms of supporting farmers to make any natural capital investments that might be revealed by the research. And so we are engaging farm advisors and farm accountants as data collection partners for the research.
+
+Sue Ogilvy:
+
+We're also engaging local ecologists including the natural resource management regions that are very important in supporting farmers to manage natural resources. We're involving them in the research to have them as part of the data collection for natural capital.
+
+Sue Ogilvy:
+
+And all of our efforts are aimed to provide business benefits to farmers. So everything that we do in the research in terms of the research outputs will be very carefully vetted and prioritised to make sure that benefits to the farmers are delivered.
+
+Sue Ogilvy:
+
+The final part of the program is to activate the system in the supply chain and the financial services sector to do what they can to reinforce and to provide support to farmers, to make investments in natural capital.
+
+Sue Ogilvy:
+
+So for example, if a farmer realises that they could improve their profits or reduce their business risk by investing in natural capital, they may need some support from their bank to make those investments. They may need support from their buyers to recognise that they're actually increasing natural capital and they may actually need support from other parties in the system like government organisations providing extension services and also to recognise business benefits for biodiversity and carbon.
+
+Sue Ogilvy:
+
+And so what we are planning to do is do this in a phased way. We have four major phases involved in the research. The first phase is, was last year where we did a plausibility probe and a kind of co-design collaboration session and that was really to test the idea and the frameworks that we're using in the research. And that was a very positive response from industry, from farmers, from farm accountants and other members of the sector who were very supportive of the research and the way that we propose to do it.
+
+Sue Ogilvy:
+
+We are in Phase Two now, which where we're actually collecting data. And we are focusing at the moment in some key regions in New South Wales, Victoria, Tasmania and the South of Perth where we're actively recruiting farms to participate and farm advisors to participate in the research.
+
+Sue Ogilvy:
+
+And if you're interested in participating, we have an expression of interest that you can engage with on the Farming for the Future website which is www.fftf.org.au. And we're focusing at the moment on livestock producers in those areas of New South Wales, Victoria, Tasmania and the South of Western Australia.
+
+Sue Ogilvy:
+
+We are very much planning to expand the regions that we're operating in and of course the farming types to include regions in Queensland and South Australia in particular, and to include more of the cropping zones. So we're looking forward to seeing what the research is and what it reveals to us.
+
+Sue Ogilvy:
+
+But what we are also doing is looking forward to discovering what we learn from the experts and people that we have involved side by side with us in the research. And to looking forward to creating opportunities for farmers to invest in natural capital, to improve their business resilience, to improve the other economic benefits they get from their farms and to make agriculture clearly a nature-based solution as it really should be, and as it has a great opportunity to do in Australia.
+
+Sue Ogilvy:
+
+So that's pretty much all I had to say about the program at this point. It would be terrific to see if there's any questions coming in.
+
+Andrew Bell:
+
+There are questions, Sue. Fear not, there are plenty of questions. Let's start with this first one from Paul McDonald, who says, "Sue, great to know this is happening." And Paul has two questions. "Will the work involve the Accounting for Nature framework to assess the natural capital?" And the second point, "Are you involving any partners such as NRM groups, NFF, and the like?".
+
+Sue Ogilvy:
+
+Thanks, Paul. That's a great question. So, I should have mentioned National Farmers Federation is one of the key partners for Farming for the Future, and I apologise to Tony Martin and the team. They have been a very, very strong supporter of the program, and they're an official partner, and we are officially and formally partnering together for the research. So, the other part of the question, in terms of the involvement of the NRM regions, yes, absolutely. We're actively involving the regions. We see them as a key resource in helping farmers to manage natural resources, obviously. And we see them as a key future, I guess, advisory network for farmers to use to manage natural capital. So, we are actively involving NRM regions in the collection of the natural capital data in the analysis and then also, the interpretation of what that means to farmers.
+
+Sue Ogilvy:
+
+And then, regarding the Accounting for Nature framework, we're not explicitly using the Accounting for Nature Econnect in the quantification of natural capital. We have a slightly broader remit for the natural capital measures that we're looking to do. And so, the natural capital measures that we are focusing on, we include some of the measures that will allow us to quantify the ecosystem services or the free inputs from nature that farmers receive. And so, while there is good alignment with the Accounting for Nature framework, ours is slightly larger in scope, but many of the fundamental measures are the same. And so, we are very confident that we will be able to make sure that the measurements are harmonised so that farmers won't be in a... Because what we want to do is avoid the situation where farmers are forced to sort of measure the same thing in a different way for different purposes. That's an important thing we want to avoid. I hope that answers your question.
+
+Andrew Bell:
+
+Another question from David Carey, "Are you taking into account the shift in climate and changing rainfall? Due," David asks, "to climate change excess greenhouse gases?".
+
+Sue Ogilvy:
+
+That's a wonderful question. So, one of the reasons that we are doing the research in the way we're doing is not to only produce published results at a point in time, but to embed the capability and the capacity, and the tools to continually measure natural capital and its contribution to farm business benefits, including drought and climate resilience. Because, as you no doubt are aware of, probably the premise of your question... I'm sorry I'm glowing so much, the sun's come out. ...is that the climate is going to change the performance of ecosystems in agriculture. And ecosystems that used to perform very well under the climate of 20 years ago may not perform very well in the climate in 15 years time. And so, what we want to do is embed the live capability to dynamically watch those changes as they occur and also, to identify the farms that are doing better than others, so that what they're doing could be examined and then, hopefully, made generalizable for other farmers to adopt if they think it would suit them.
+
+Andrew Bell:
+
+Well, I'm going to have to leave you glowing there Sue, because we've got to keep moving along. We've got three more presentations to get to. Thank you very much for your contribution today with FTF and FDF.
+
+Sue Ogilvy:
+
+It's my pleasure. Thank you very much.
+
+Andrew Bell:
+
+Improved knowledge is what we're talking about. And our next topic, smart farms. And we're going back to WA, where we're checking in with a group that is looking at efforts to share data and increased productivity, Stirlings to Coast Farmers grower group. And we've got Nathan Dovey, who is the CEO of that and Philip Honey, who's the coordinator at Smart Farms. See you bright and clear. Can you hear us over here in the East?
+
+Nathan Dovey:
+
+We certainly can.
+
+Andrew Bell:
+
+Lovely. Take it away with your presentation. And don't forget, everyone watching, keep those questions coming in. Over to you, guys.
+
+Nathan Dovey:
+
+Well, good morning everybody. My name's Nathan Dovey, the CEO of Stirlings to Coast Farmers. I have Phil Honey, our Smart Farms coordinator alongside me. Our group, as you'd probably guess, for those who know how it is way down south or Western Australia. Most of our farmer members are within 100Ks of port, which puts us in the High Rainfall Zone, mostly. And then, some of our members that are a bit further away from the coast, sort of medium-high rainfall. Main enterprises are cropping, wheat, barley, canola, mixed with beef, cattle, and sheep. So, primary in production and of course, wool. But, I'll throw you over to Philip now to define the problem as we've seen it.
+
+Phillip Honey:
+
+Certainly. So, I guess one of our biggest problems over here, in particular, is we've got limited access to our data sets, particularly in regards to climatic. So, we've got years, like Nathan said, where we're really in the High Rainfall Zone. We can have, well and truly, over 700 mils and that could go down as low as 300 mils throughout the whole year. And so, whilst we've got a geographical spread of around 100Ks through the Port Zone. We've got members well and truly beyond that. But some of our weather data sources are even further. And so, getting good quality data relevant to our local growing conditions is challenging at times.
+
+Phillip Honey:
+
+So, over the years, the group has deployed a wide range of technologies and those technologies are ultimately here to help us get a better understanding of our weather variability. The adoption of this technology, typically, is quite low, particularly when you have access to Weatherzone and all of those lovely weather apps available on your phone for free. But, how do we actually convert someone over to buying a weather station, so they can actually get an understanding of what's happening on their site, rather than utilising weather data that could be 30 to 60Ks away?
+
+Nathan Dovey:
+
+So, what have we done about it? Actually, Phil said, "Over the years," makes it sound like it's been going on for a long time, but it's really been the last two or three years that we've been promoting, using our group sort of resources through project funding and even our own sort of sponsorship dollars, etc. We've actually put weather stations on farms, soil moisture probes, digital rain gauges, and to a small extent, some water monitoring devices. Basically, we've seen it as our, not responsibility, but... It's not quite the word I'm looking for, but we've got on the front foot and decided that farmers aren't going to make that leap between using what's freely available from the Bureau of Met and the deep hood weather stations, to buying their own sort of hardware device for upwards of three, four, five thousand dollars, depending on what you get. So, we've got on the front foot to show them what's out there and what it's capable of basically, to encourage them going forward.
+
+Nathan Dovey:
+
+And I guess the basics of it as well, is we've looked to just put them in places where the publicly viable stations are. I mean, that makes sense for strategy and just filling in those gaps. Because, like Phil said, and he'll talk about this slide in a second, but basically, the range for variation at a very short geographical distance can be really high. And I think most people can understand that farmers could do a lot with that data if they actually have it accurately, and they have it at their fingertips, and they have access to it.
+
+Phillip Honey:
+
+Phillip Honey:
+
+And so, over the last two or so years, we have deployed nearly 80 odd weather stations, sorry, 80 odd devices, some are weather stations, around 30 of them, 40 odd digital rain gauges, and a whole heap of soil moisture probes. And so, what we can see is, when we actually start getting a lot better information, we can actually make better management decisions. We've got areas on that map up near Chillinup Road, where they've had 20 mils, less rain east and west than their neighbouring stations. And we're talking quite close distances. We're talking as close as 5 km between that 47 mils up the top and the 24, sorry, 23.6 or 25.8. This has led on to significant private farmer contributions, and also increasing the adoption of this technology over the last year, in particular, as farmers want to get that better understanding of what's actually happening.
+
+Phillip Honey:
+
+And ultimately, at the end of the day, we need to be able to utilise this data a lot more effectively. And so, under the Future Drought Fund projects that we've been running over the last year, we've been installing a few soil moisture probes to complement this data. And so, this is looking at the opportunity of summer crops down in the High Rainfall Zone in Australia. So, last year was a 99 percentile year for the membership. It was significantly wet. We had significant periods where crops were underwater but not every year is like that, of course. But the opportunity is in what do we actually manage or how do we manage that water over summer? Is there the opportunity to grow a summer crop in each case? This one was pellet and RAF node, which is a...
+
+Nathan Dovey:
+
+A forage crop.
+
+Phillip Honey:
+
+It's a forage crop. And what we can effectively do, is we can actually monitor soil moisture usage over that season. And so, we can, as you can see on that graph, we've got really, really high rain fall... Sorry, really high soil moisture content levels. And then, over the year, coming up to December, that soil moisture level platforms. Now, fast forward to 28th of March, which is sort of the end before it starts raising up again. If we're sitting at that point, we can utilise that data to work out A, are we going to decrease our livestock density and ensure that we can keep those plants surviving? B, look at the opportunity of working out how many more days we've got. But we can also think about things such as effective rainfall. And so, if we have rainfall amounts that are over that eight mils and we know that this weather is coming in the future, we can then start working out, "How many more days have we got left?".
+
+Nathan Dovey:
+
+So, just to step back, one of the things we probably haven't mentioned as well, is the weather stations and the soil moisture probes, etc. We have been using a system that feeds all that into localised weather forecasting. So, farmers can actually get a forecast of their farm that updates every 15 minutes, two weeks out. And it's really cost-effective without wanting to sprout anyone. It's $40 or $50 a month, or maybe a bit more, but really cost-effective. And we are now in the process, now we have the hardware and the data points there. Of course, we want more but we feel like we can actually deliver more accurate weather forecasting for local members, should they choose to take it on and it'll only get better and better as the AI builds more years of data, collects more years of data, and then we add more stations to it as well.
+
+Nathan Dovey:
+
+So, the reality is, I guess to summarise, what we're trying to do is get farmers, put the information in front of them. Because, we believe, personally, that they're going to be the best ones who are actually deciding how are they going to use that data and how is it going to help them save money, or make money, or get better environmental outcomes, get better outcomes for their livestock.
+
+Nathan Dovey:
+
+And it's going to take time to build trust in weather. We often joke that farmers are used to being let down by the weather forecaster, and we are really trying to improve that. Because, something that's as deep-seated as that is not going to be changed overnight, but bit by bit, we're getting there. And look, as far as we've come two or three years, if we extrapolate. If we sort of doubled that over the next couple of years, we'd be really, really happy and we think things will really start to move pretty quickly. Anything to add, Phil?
+
+Phillip Honey:
+
+No.
+
+Nathan Dovey:
+
+I think we've probably still got a few minutes, but maybe we're ready to close.
+
+Andrew Bell:
+
+We have a question or two to ask you. Hopefully we've got about three minutes before our final presentation. This one comes from Jonathan Barratt from Celsius Pro. Do you have some correlation analysis between the sites?
+
+Phillip Honey:
+
+Not sure I get the full question, sorry, there.
+
+Andrew Bell:
+
+Oh, well that's the only question I've got. So, we'll take that again on notice. If you are asking questions and they're getting a bit granular, help us all out by just giving us a bit more information. Well, I'll ask you this one. I'll chuck you this one. What's the most interesting practice change that you've seen, the two of you, as a result of that improved data? As you said, you put information in front of farmers and they're the best place to act upon it.
+
+Phillip Honey:
+
+I think if we were to talk about one of our Smart Farm most in particular... So, we sort of kicked off this journey late 2019, early 2020, and this farm host has been utilising weather forecasting since day dot. They're utilising, in particular, weather forecasting in determining when they should be putting the urea applications out on crops. So, urea is quite an interesting fertiliser. You want to really apply it under the right conditions. If you leave it out there and it doesn't rain, there's the risk of a lateralization, which is obviously a wastage. And then, on the opposite side of that, is that if you put it out and we get an absolute pelting down with rainfall, which is what we can see in a storm event, it can completely be washed away. So, they're utilising this weather forecasting, in particular, to better time when they're putting out the urea. They're also utilising wind speed forecasting to make sure that when they're doing chemical applications, they're applying it under the right conditions.
+
+Phillip Honey:
+
+And the weather forecasting, in particular, comes out with a traffic light system. So, you can put in the whole parameters, that it takes you an hour or two hours to empty out a spray tank. What's going to happen in that time, whether there's a rain-free period that you need on that chemical, and it will give you a traffic light system of green, ready to go, yellow, there's something happening in the change, whether it's a Delta T or rainfall, wind speed, and red, do not apply. So, it really helps time those applications, ensure that efficacy is there, improved environmental outcomes, and so on.
+
+Andrew Bell:
+
+Our traffic light says we've got to move on to green to get to our last presentation. But Nathan and Philip, over there in the west in Albany, which can be one of the coldest spots in winter in WA, stay warm and thank you so much for taking part in the FDF Science to Practice forum. Have a great day.
+
+Nathan Dovey:
+
+Thank you everyone.
+
+Phillip Honey:
+
+Thank you.
+
+Andrew Bell:
+
+And our last presentation in this segment about improved knowledge. The essentials when engaging with indigenous communities. And we're going to hear about that from two participants coming to us from Murawin Proprietary Limited who... And Murawin works across industries, client groups, to move social research and sustainability goalposts for Indigenous Australians and other marginalised groups. Brian Arley is the Manager of Sustainability and Innovation and Halena Scanlon is a Graduate Consultant. Hello to you. It's lovely to see you. Thanks for stepping in, somewhat at the last minute, to talk to this important topic, the essentials when engaging with indigenous communities. The floor is yours.
+
+Brian Arley:
+
+My name is Brian Arley. I work with Murawin, and Halena Scanlon is my colleague from Murawin. I'd just like to acknowledge the traditional owners of lands and custodians on which we are meeting today. I'm on Turrbal and Jagera land in Meeanjin, or Brisbane. And to tell you a bit about Murawin, Murawin is an indigenous run organisation and our mission is about ensuring that we are breaking the cycles of disadvantage, and amplifying initiatives that contribute to improve futures for Indigenous Australians and other marginalised groups.
+
+Halena Scanlon:
+
+Hi everyone. So, we were recently engaged by DAWE to work with the eight hubs across Australia. And so, our primary role in that partnership is to help those hubs develop relationships with First Nations people in their local area. And we specifically wanted to get feedback on the RDEA&C draft priorities. And just to figure out what First Nations people wanted to see out of those priorities, whether or not they were appropriate, if anything was missing. Because I think we all can recognise that unless First Nations perspectives are included in those priorities, they're not going to be as effective or as appropriate as they should be.
+
+Brian Arley:
+
+Yes. So, our engagement process, as you can see, is really built... Oh, sorry, I'll go back one step. So, we work with the hubs to support and give the hubs guidance on how to engage effectively with First Nation stakeholders across a range of things, not only their own activities, but also about getting feedback on the draft RDEA&C guidelines. So, to do that, our engagement approach is underpinned by cultural understanding, respect, reciprocity, and relationships. So, it's all those things and more, and what we do within our space is we deliver the guide in person or online, and we support those hubs to engage with First Nations stakeholders. And now, particularly, our role is important around the draught RDEA&C guide priorities to understand, to get feedback from First Nations groups about what they see are the priorities that should be included within that broad range of RDEA&C priorities regarding drought resilience and climate change. So, it's been very... We've worked with a couple of groups and this leads very much into our engagement approach, which Helena will take as the next step.
+
+Halena Scanlon:
+
+So yes, what we have heard so far from working with First Nations communities has been incredibly interesting and very informative. So, that first point there, I think, is really insightful so that First Nations communities across Australia are incredibly diverse and how they experience and perceive drought is also incredibly diverse. So, in the north where there's the wet and the dry, as climate change affects the duration and the timing of rainfall, that's really starting to impact how people perceive those different seasons. So, I think that was incredibly interesting to hear. We also heard that drought is impacting the transmission of cultural knowledge between generations. So, in areas where rivers used to flow and now, because of the lack of rainfall, those rivers have dried up. So, when young ones come to learn that knowledge, that resource is no longer there and that really affects their elders passing that knowledge on down the line.
+
+Halena Scanlon:
+
+That third point about capacity building is also incredibly important, especially in terms of the work that we're currently doing with those hubs. In the past, there has been this expectation that you can just ask First Nations communities for their knowledge and not necessarily give them back anything in return. It really... Those relationships need to be founded on reciprocity and respect. And you have to ensure that you are equipping or you are supporting First Nations people to determine their own futures, and to access opportunity, and to thrive.
+
+Halena Scanlon:
+
+And then finally, there is a strong desire in the agricultural industry to work with First Nations people, but they just don't often know where to start. And I think something we've seen a lot in our work thus far is that you really need to leverage off of the networks that you already have. And because, you may not necessarily know until you look closely that those relationships do exist, or the potential for those relationships already does exist and you can build off of that to further your engagement with First Nations people.
+
+Brian Arley:
+
+Thank you, Halena. And just on that last point, a great example of that came out of our engagement with the hub in South Australia. There was an Aboriginal-run enterprise on the York Peninsula up to 600 hectares they own. And for the last seven years, they've been engaging in really, regeneration of land, biomass, also soil and plant health. And they've got incredible results that they're just starting to develop some research projects around innovation. There's also, got a seed bank. So, they're looking at alternative cropping that can support pastoral industries. So, they've been doing this on their own for seven years and there's some incredible results and that connection has been made with the South Australian hub around how to document that knowledge and show evidence around it. And that, hopefully, will lead to more sustainable practices in that region that also serve the vital purpose of looking after country.
+
+Brian Arley:
+
+So, there are those examples and other feedback from other locations. There's a lot of goodwill about sharing our knowledge around fire management, water management, land management that can help develop and support sustainable primary production in Australia for the good future for all of us. But, key to the work we do, it's around, really those key points you can see about voice, truth, and healing. It's about giving a voice to First Nations people to ensure that we are heard, we are able to give our knowledge and share that, with again, the hope of developing sustaining countries. So, country is critical for us. Country sustains us. So, if country's unwell, we're unwell. So, it's an integral part of our lives and our futures. So, it's around giving us a voice to say what we'd like to do, what we see the problems are, how they can be addressed. Be it through fire management, or water, or other land management practices we've talked about.
+
+Brian Arley:
+
+It's also about truth, about telling that story about First Nations peoples as the first peoples, the owners, the custodians of the land on which we all work and live. About hearing their stories about how they've sustained country for well over 65,000 years. And how that knowledge, that truth can then be evidenced through, hopefully, practices that allow for more sustainable agricultural primary production into the future. Which also, as I said earlier, touches on our need for country to be healthy, to look after us, and for us to care for country. And it's also about healing, about how we can talk about our practices. Our history is the first story around us as first peoples in this country. So we, again, feel valued, feel important, and acknowledged, and respected and that allows us to continue on the practices we do, and also to be, to have validated, if you like, to have that.
+
+Brian Arley:
+
+So, we also can participate, and there are, it must not be forgotten, there's an awful lot of primary production undertaken by First Nations peoples around the country, be it agriculture, agricultural pastoral holdings. Again, there's that interest, that passion to develop those, to create those businesses, but also to, while we are doing that, to look after country, to sustain country, to develop a base that will, obviously, see us through to the future and be of wider benefit for the whole country through that sharing of knowledge and hopefully, setting up sustainable practices that also respect our country and respect us as peoples. So, that's pretty well it. Happy to take any questions now, and our last slides is simply our logo.
+
+Andrew Bell:
+
+We've got a couple of question here from the Southern New South Wales hub, which refers back to a presentation we had yesterday about indigenous cultural and intellectual property. Do you and your team incorporate protecting ICIP, to use the acronym?
+
+Brian Arley:
+
+Yes. That's a critical factor because... Sorry, yes. When we work with our First Nation stakeholders, we make that clear, that that's a priority around respecting, valuing, and acknowledging that intellectual property resides with that group and it's up to them to share that with us. And I understand there's a presentation following us, that DAWE is working on another project where they're looking exactly at the indigenous cultural protocols, if you like, and property matters in regard to this, the whole DAWE program. So yes, that is something that's integral to our work, to ensure that knowledge is protected and owners of that retain ownership of that knowledge. And they can choose to share that. That's entirely their responsibility but we ensure that they're well aware of that and support it in that process.
+
+Andrew Bell:
+
+And if I may wrap it up with an observation for myself, you talked about goodwill Brian. You said there's a lot of goodwill. Is the next step the most difficult? People are there and then they're sort of waiting, "What do I do now?".
+
+Brian Arley:
+
+That's exactly what Halena said, that the hubs do want to engage. But it's a matter of providing that support and guidance so they can do that effectively and in a sustainable way. And certainly, there is a lot of goodwill. And looking back over our history of dispossession that, it does still surprise you, that there's a lot of goodwill around us as one people, if you'd like, about one Australia, about creating a better place, particularly for our country and our environment. And the will is there, it's a matter of guiding that along, and it taking shape, and the engagement happening appropriately and respectfully.
+
+Andrew Bell:
+
+Brian, Halena, thank you so much. What a great way to end the first session, with that open-heartedness and a willing to move forward for the common good. Thank you so much. And to the rest of our presenters we've had, on my count, five presentations and one panel this morning, action-packed, fast and furious. We're going to take a lunch break of about three-quarters of an hour and we'll be back at 1:00 Eastern, half past midday in the centre, and 11:00 Western, when our first port of call will be across Bass Strait, as we take a look at what's going on in Tasmania. Don't forget the booths. They're being staffed through the breaks. You can pop into each of the hub booths. There are some videos available there, as well. Don't be shy, pop in by, and have a bit of a yack. But for now, let's go to lunch. Back in approximately 42 minutes.

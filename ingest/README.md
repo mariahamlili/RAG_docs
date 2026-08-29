@@ -10,7 +10,7 @@ Runs **outside** the Django app and writes files under `../data/`.
 3. **Ingest** — fetch HTML/PDF/Office, extract text, render HTML→PDF  
 4. **Organise** — `plan-library` / `fetch-library` with topic-based paths  
 5. **Extract** — Tier A PDF text → `data/text/source/`
-6. **Filter** — Tier A-only, empty/untitled/near-dup filters, boilerplate strip → `data/text/clean/` (CAI-014–017, 020)
+6. **Filter** — Tier A source PDFs + HTML pages (`rendered_pdf`), empty/untitled/near-dup filters, boilerplate strip → `data/text/clean/` (CAI-014–017, 020)
 
 ## Setup
 

@@ -1,0 +1,201 @@
+Authors: Steve Read, Cressida Lehmann
+
+![](https://www.agriculture.gov.au/sites/default/files/images/bushfire-insight-cover_lr.png) 
+
+Introduction
+
+This Insights article provides a stocktake of information on the area of fire in Australia’s forests in the five-year period 2011 to 2016, using a recently compiled, comprehensive, national spatial fire dataset, and forest cover data from the National Forest Inventory. The Stocktake covers where and how often fire occurred in forests over this period, the land tenures and forest types on which the fire occurred, and whether the fire was planned or unplanned.
+
+The data presented here show clearly the difference between northern and southern Australia in the frequency and extent of forest fires, and the land tenure classes on which they occur.
+
+Summary of fire in Australia’s forests for 2011 to 2016
+
+![](https://www.agriculture.gov.au/sites/default/files/images/bushfire-summary-infographic-lr.png) 
+
+[expand all]
+
+Forest fire regimes
+
+Fire is an important ecological driver in most Australian forests, whether the tall moist forests of south-eastern and south-western Australia or the woodlands of northern Australia. It influences the nature of entire forest ecosystems, including the presence or absence of individual species within these ecosystems. The fire regime, that is, the frequency, intensity, seasonality and spatial pattern of fire, determines both the short-term and the long-term impacts of fire on forests. A change in the fire regime, whether in regard to the amount of fire or its intensity and frequency, can lead to permanent changes in forest ecosystems.
+
+Most Australian forests are adapted to fire, and can regenerate after fire. Some tree species specifically require fire to regenerate or establish from seed. For example, mountain ash (Eucalyptus regnans), which forms tall forests in Victoria and Tasmania, regrows after severe fire only from seed. Many other eucalypt species regenerate after fire through epicormic shoots (shoots from the stem or branches), or through shoots from a basal lignotuber.
+
+However, in some forests, such as mountain ash forests, if high-intensity fire occurs too frequently then young, regenerating trees may not reach seed-producing age before the next fire, which can lead to loss of the species from a forest stand (Ferguson 2011). Conversely, the prolonged absence of fire can lead to growth of rainforest tree species in the stand, lack of mountain ash regeneration, and eventual conversion to rainforest.
+
+Fire is also a key process in the creation of habitat within a forest. While intense fire kills mature mountain ash trees, the resultant standing dead trees (stags) can develop hollows, which are a key habitat feature for hollow-dependent species such as Leadbeater’s possum (Gymnobelideus leadbeateri).
+
+Excluding or suppressing fire from forests can lead to an accumulation of fuel and a dense stand of trees, which can make the next fire more intense. A subsequent unplanned fire in hot, dry conditions can have a significant impact on forest assets and values, including increased erosion, and direct and indirect wildlife mortality, and can be a serious threat to human life. On the other hand, planned burning under milder conditions can reduce fuel loads, and can increase the likelihood of managing a subsequent unplanned fire.
+
+Notwithstanding the key role that the fire regime plays in maintaining healthy forest ecosystems, managing the fire regime at any site for the best combination of environmental and social benefit is still contentious.
+
+Regeneration after fire in Milligan Park, Stoneville, Western Australia
+
+A: immediately after fire, January 2014. B: 25 months later, February 2016
+
+![](https://www.agriculture.gov.au/sites/default/files/images/image_1_low-res.png) 
+
+Area of forest fire
+
+The annual area of fire in Australia’s forests in the period 2011–12 to 2015–16 varied from a low of 14.9 million hectares in 2015–16, to a high of 27.4 million hectares in 2012–13 (Figure 1).
+
+When these five annual fire area figures are summed, the cumulative area of forest fire over this five-year period was 106 million hectares (Figure 1). However, many areas of forest, predominantly in northern Australia, burnt in more than one year of this period. When these multiple burns are taken into account, a total area of 55 million hectares (41%) of Australia’s total area of forest (134 million hectares) burnt once or more over the five years. The balance (59%) of Australia’s forest area did not experience fire in this period.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-1-01_low-res.png) 
+
+The majority of forest burnt by fire in Australia in the period 2011–12 to 2015–16 was in northern Australia. A total of 50.5 million hectares of forest (64% of the forest area) in northern Australia experienced fire once or more in the period 2011–12 to 2015–16 (Figure 2).
+
+This compares with the 4.4 million hectares of forest (8% of the forest area) in southern Australia that experienced fire once or more in this period (Figure 2).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/2-01_low-res_0.png) 
+
+Source: ABARES
+
+The proportion of forest burnt once or more over the period 2011–12 to 2015–16 also varied between jurisdictions (Figure 3). The lowest proportions of forest area burnt during this period were in Tasmania (6% of its forest area) and South Australia (6%), whereas 84% of the forest area in the Northern Territory burnt once or more during this period.
+
+Regeneration four months after fire, Lanitza, New South Wales, December 2019
+
+![](https://www.agriculture.gov.au/sites/default/files/images/image_2_low-res.png) 
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/3-01_low-res_0.png) 
+
+The different areas of fire in forest in different jurisdictions, and the differences between the southern and northern parts of Western Australia, reflect differing forest ecosystems, climatic influences, and forest management regimes.
+
+Frequency of forest fire
+
+Fire is much more frequent in forests in northern Australia than in forests in southern Australia, and indeed is an annual occurrence in much of northern Australia (Figure 4).
+
+A substantial area of forest across northern Australia (29 million hectares of forest, 37% of the forest area) burnt twice or more in the period 2011–12 to 2015–16, with some areas experiencing fire every year. A much smaller area of forest in southern Australia (92 thousand hectares, 0.2% of the forest area) burnt twice or more in this period (Figure 5).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-4-01-lr.png) 
+
+Data sources: Jurisdictional spatial fire data, National Forest Inventory 2016. Map complied by ABARES 2020.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-5-01-lr.png) 
+
+Forest ecosystems in tropical and subtropical northern Australia are predominantly woodlands with a grassy understorey (often called savannas). They experience wet seasons and dry seasons. Grass plants survive dry-season fire, and respond quickly to the onset of the wet season. Fuel loads in northern forests are thus replenished from year to year, and can support fire each year.
+
+In contrast, in southern forests with shrubby understoreys, fuel loads, including woody debris, accumulate progressively over years, and fire can be infrequent. However, the intensity of subsequent fire can be greater due to the higher fuel load.
+
+Fire by forest type
+
+In Australia’s National Forest Inventory, forests are classified into three categories: ‘Native forest’, ‘Commercial plantation’ and ‘Other forest’. Native forest is then classified into eight types based on dominant species, and into a number of structural classes based on height and cover (MIG & NFISC 2018). For the analysis of fire areas by forest type (see Figures 6 and 7), the eucalypt forest type has been grouped into mallee forest and three non-mallee groups: closed forest, tall open forest, and dry forest (which comprises low and medium open forest, and low, medium and tall woodland forest).
+
+Nationally, 78% of the area of forest burnt once or more over the period 2011–12 to 2015–16 was dry eucalypt forest. However, the distribution of fire across forest types differed between northern and southern Australia.
+
+Dry eucalypt forest accounted for 80% (40 million hectares) of the area of forest burnt in northern Australia over the period 2011–12 to 2015–16 (Figure 6). Of the 58 million hectares of dry eucalypt forest in northern Australia, 27% burnt once and a further 42% burnt more than once during this 5‑year period.
+
+Rainforest and mangrove forest were the native forest types in northern Australia that experienced the least fire as a proportion of their area.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-6-01-lr.png) 
+
+Across southern Australia, the forest types of which the greatest proportion by area burnt in the period 2011–12 to 2015–16 were the three non-mallee eucalypt forest types (11–14%), and melaleuca forest (17%): these were the only forest types in which more than 10% of their area burnt in this period (Figure 7). The great majority (97%) of Australia’s tall open eucalypt forest occurs in southern Australia, and 13% (640 thousand hectares) of the area of tall open eucalypt forest burnt once in this period. A substantial area and proportion of tall open forest in southern Australia was burnt in the current (2019–20) fire year, but is not captured in the 2011–12 to 2015–16 dataset.
+
+Stags in medium open forest from a 1967 fire, with eucalypt regrowth, below Sphinx Rock, Mount Wellington, Tasmania, January 2010
+
+![](https://www.agriculture.gov.au/sites/default/files/images/image_3_low-res.png) 
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-7-01-lr.png) 
+
+A large proportion of the area of forest types that occur mainly in the drier interior of southern Australia (eucalypt mallee, callitris and casuarina forests) experienced very little fire in the period 2011–12 to 2015–16. Typical inter-fire intervals in these forest types are relatively long (Noble et al. 1980), and it may simply be chance that there was no significant fire year in these forest types in the 5-year period of this dataset.
+
+Tenure and fire
+
+In northern Australia, 86% of the cumulative area of fire in forests during the period 2011–12 to 2015–16 occurred on leasehold (42 million hectares) and private forest (45 million hectares) (Figure 8).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-8-01-lr.png) 
+
+In southern Australia, 79% of the cumulative area of fire in forests during the period 2011–12 to 2015–16 occurred on nature conservation reserve (2.5 million hectares) and multiple-use public forest (1.1 million hectares) tenures (Figure 9).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-9-01-lr.png) 
+
+In northern Australia, the tenure distribution of fire in forest mostly reflects the different land tenure classes on which forest occurs. However, in southern Australia over this period a disproportionally large area of fire occurred on nature conservation reserves and multiple-use public forest.
+
+Nationally, most of the cumulative area of fire in forests in Australia over the period 2011–12 to 2015–16 (106 million hectares) occurred on leasehold forest (42 million hectares) and private forest (46 million hectares), whereas there were only 9.2 million hectares of fire in nature conservation reserves, and 2.9 million hectares in multiple-use public forest.
+
+Planned and unplanned fire
+
+Planned fire, or prescribed burning, is the deliberate use of fire to achieve particular objectives, such as reducing the levels of flammable fuels (fuel reduction), protection and enhancement of biodiversity, and promoting regeneration after wood harvesting. It is an important management tool on both public and private land in fire-adapted forest types (Morgan et al. 2020). The National Burning Project: Prescribed Burning Guidelines and Frameworks describe how the principles underpinning planned burns are articulated and put into practice.
+
+Indigenous rangers in Arnhem Land undertake ground burning in the early dry season
+
+![](https://www.agriculture.gov.au/sites/default/files/images/bushfire-image_4-lr.png) 
+
+Unplanned fires, or bushfires (also called wildfires), can occur due to natural processes such as lightning strikes, and as a result of human actions, whether from poorly maintained machinery or infrastructure, escaped camp fires, or arson. They usually occur when fuels are dry, daily temperatures are hot and wind speeds are high, and are typically more intense than planned burns. Unplanned fires are consequently more difficult to control, and can burn large areas of forest with significant impact on forest values, and can have devastating effects on communities.
+
+Over the period 2011–12 to 2015–16, 69% of the cumulative area of fire in forest across Australia was unplanned fire, and 31% was planned fire. However, the distribution of planned and unplanned fire by tenure varied significantly between northern Australia and southern Australia.
+
+In southern Australia over the period 2011–12 to 2015–16, planned fire in forests occurred predominantly in nature conservation reserves (59%) and multiple-use public forests (33%) (Figure 10). Half (52%) of the unplanned fire area in southern Australia also occurred in nature conservation reserves, with the remaining area split between multiple-use public forest (18%) and private forests (19%). Multiple-use public forests were the only forest tenure in southern Australia where the area of planned fire was greater than the area of unplanned fire; in private and leasehold forests, the proportion of planned fire was very low.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-10-01-lr.png) 
+
+In northern Australia, forest tenure is predominantly leasehold and private. The area of unplanned fire is substantially larger than the area of planned fire in both these tenure types (Figure 11). In nature conservation reserves and other Crown land, on the other hand, the area of planned fire was greater than the area of unplanned fire.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-11-01-lr.png) 
+
+The extent, impact and pattern of fire in northern Australia is influenced by the climate, particularly lightning strikes related to tropical storms; by the large expanse of open, grassy forests, which contain less fuel and burn at a lower intensity than the taller southern forests, but which can burn annually; and by the sparse population, which results in reduced ability to control unplanned fire. Planned fire in northern Australia is typically used early in the dry season to reduce fuel loads, so that in the late dry season less combustible material is available, thereby reducing the extent and intensity of unplanned fires. In the Northern Territory and Queensland, extensive planned burning also occurs to reduce the higher carbon emissions of late dry season burns (see Case Study 5.3 in the Australia’s State for the Forests Report 2018: MIG & NFISC 2018).
+
+Nationally, the area of planned fire in forest remained reasonably constant between years in the period 2011–12 to 2015–16, with annual areas between 4.8 and 8.2 million hectares (Figure 1). However, the area of unplanned fires in forests varied more between years, with annual areas between 8.9 and 21.1 million hectares. The large areas of unplanned fires in 2011–12 (18.6 million hectares) and 2012–13 (21.1 million hectares) (Figure 1) were due predominantly to fires in Queensland and the Northern Territory.
+
+The largest annual area of unplanned fires in southern Australia in the period 2011–12 to 2015–16 was in 2013–14 (1.1 million hectares). Outside this period, other years in southern Australia have experienced greater areas of unplanned forest fire. The area of unplanned fire in forests for southern Australia in 2006–07 was 2.0 million hectares, which included 1.2 million hectares in Victoria alone (MIG & NFISC, 2013); and 8.3 million hectares of forest burnt in bushfires across southern Australia during the 2019–20 summer bushfire season until 23 March 2020 (ABARES 2020).
+
+Longer time-series of fire areas
+
+This Insight Stocktake provides a detailed spatial analysis of forest fire data for the five-year period 2011 to 2016, but does not discuss trends over time over this period, as five years is too brief for this. However, fire datasets that cover longer periods are available in certain jurisdictions, and collectively these show the great variation in fire areas between years in southern Australia.
+
+As an example, the Victorian government has collated and digitised fire data from the 1902–03 season to the present, with fires attributed as planned or unplanned from 1970 onwards (DELWP 2019). ABARES intersected this data with the forest coverage for Victoria as at 2016, and calculated the area of forest burnt in each year (shown in Figure 12 for 1980–81 to 2018–19). The data show the significant fire years, especially 2002–03 and 2006–07, in each of which over 1.1 million hectares of forest were burnt by unplanned fire, as well as years with relatively little unplanned fire. In contrast, there was a relatively constant level of planned burning activity between years. Similar substantial variation between years is also observed for fire areas in other jurisdictions in southern Australia. Data for the 2019–20 fire year show a much larger area of fire in forests in Victoria and also New South Wales.
+
+The accuracy of historical data can be low, but over time fire spatial data and associated maps have become more accurate with improvements in mapping methods and software. Most fire and land management agencies now combine remote sensing and high-accuracy global positioning systems in satellite, aerial and ground surveys. It is not until the period 2011–16 that data from all states and territories were considered sufficiently accurate to combine into a single national coverage; it is these data, collected for Australia’s State of the Forest Report 2018, that form the body of this Insight Stocktake.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/bushfire-12-01-lr.png) 
+
+Conclusions
+
+Fire is a key ecological process in most types of Australian forest, and is essential to ongoing ecosystem health and renewal. It can be both a destructive and a creative force. Understanding different fire regimes is important in deciding the optimal approach to fire management in different climatic regions, forest types, and in relation to impacts on people.
+
+There is a distinct north-south divide in the fire regime experienced by Australia’s forests. Unplanned fires in forest in northern Australia are more frequent, often annual, occur over greater areas than those in southern Australia, and are mostly in leasehold and private forest, the dominant land tenures for forest in northern Australia. Planned fire in northern Australia is also extensive, and generally of lower intensity and earlier in the dry season than unplanned fire.
+
+Unplanned fires in forests in southern Australia are less frequent than in northern Australia, but can be much more intense when they occur, and in some years (such as 2019–20) cover large areas. Planned fire in southern Australia generally occurs in small, discrete areas, and mostly in nature conservation reserves and multiple-use public forest. There are therefore different environmental and social impacts resulting from fires in forests in northern and southern Australia, and different management challenges.
+
+It is expected that climate change will make many areas of southern Australia drier and hotter, which will extend the duration of the fire season, lead to an increase in the area of unplanned fire in forests, reduce the interval between fires, and reduce the opportunity for planned fire. Drier fuels will also lead to fires of higher intensity, which will have greater impact on forests. The predicted changes in climate for northern Australia, on the other hand, are likely to result in changes in fuel types and dynamics. A more widespread distribution of introduced grass species is also expected to increase fire intensity across northern Australia (Threatened Species Scientific Committee 2009). Changes in the forest fire regime over time are therefore expected in both southern and northern Australia.
+
+Banksia cone opened after a fire event, Scamander, Tasmania
+
+![](https://www.agriculture.gov.au/sites/default/files/images/bushfire-image_5-lr.png) 
+
+Data, assumptions and scope
+
+Broadly, forests in Australia are areas dominated by trees more than 2 metres tall and with 20% or more crown cover. They include a range of types such as rainforest, tall eucalypt forest, mallee, and those areas of savanna woodland where cover is 20% or more, as well as plantations. Australia's formal definition of forest is given in Australia's State of the Forest Report 2018 (MIG & NFISC 2018).
+
+This Insights Stocktake does not discuss trends over time, as five years is too short for that type of analysis, and it only presents data on fire area, not fire intensity. The Stocktake also focusses on the link between fire and forest characteristics, not the impacts of forest fire on people.
+
+The fire area data underpinning these analyses were provided to ABARES by individual state and territory forest and/or fire management agencies in preparation for Australia’s State of the Forests Report 2018 (MIG & NFISC 2018). When combined and intersected with the National Forest Inventory forest coverage, these fire data provided the first consistent and comprehensive national dataset of fire in Australia’s forests. However, the new methodology and approach means that this 2011–16 dataset cannot meaningfully be compared with the various other fire area datasets that cover earlier periods.
+
+For these analyses, southern Western Australia refers to that part of Western Australia south of the Tropic of Capricorn, and northern Western Australia refers to that part of Western Australia north of the Tropic of Capricorn. Northern Australia refers to the Northern Territory, Queensland and northern Western Australia, whereas southern Australia refers to New South Wales, the Australian Capital Territory, Victoria, Tasmania, South Australia, and southern Western Australia.
+
+A fire year runs from July in one calendar year to June in the next calendar year. The period 2011 to 2016 thus refers to the period between July 2011 and June 2016.
+
+Data presented in this Insights stocktake is available at https://www.agriculture.gov.au/abares/forestsaustralia/forest-data-maps-and-tools/fire-data
+
+References
+
+Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) (2020) Forest fire area data for the 2019-20 summer bushfire season in southern and eastern Australia, ABARES, Canberra.
+
+Department of Environment, Land, Water & Planning (DELWP) (2019) Fire History Records of Fires primarily on Public Land, DELWP, Melbourne, CC BY 4.0
+
+Ferguson IF (2011) Strategic seedbanks to meet fire risks for Victorian Ash-type species. Australian Forestry 74:97–107. doi.org/10.1080/00049158.2011.10676351.
+
+Morgan GW, Tolhurst KG, Poynter MW, Cooper N, McGuffog T, Ryan R, Wouters MA, Stephens N, Black P, Sheehan D, Leeson P, Whight S, Davey SM (2020) Prescribed burning in south-eastern Australia: history and future directions. Australian Forestry. doi.org/10.1080/00049158.2020.1739883.
+
+MIG (Montreal Process Implementation Group for Australia) & NFISC (National Forest Inventory Steering Committee) (2013) Australia’s State of the Forests Report 2013. ABARES, Canberra, CC BY 3.0.
+
+MIG (Montreal Process Implementation Group for Australia) & NFISC (National Forest Inventory Steering Committee) (2018) Australia’s State of the Forests Report 2018. ABARES, Canberra, CC BY 4.0. doi.org/10.25814/5be1205b3aa33.
+
+Noble JC, Smith AW, Leslie HW (1980) Fire in the Mallee Shrublands of Western New South Wales. The Australian Rangeland Journal 2:104 – 114. doi.org/10.1071/RJ9800104.
+
+Threatened Species Scientific Committee (2009) Invasion of northern Australia by Gamba Grass and other introduced grasses listing advice. environment.gov.au/biodiversity/threatened/threat-abatement-advices/invasive-pasture-grasses-introduction.
+
+Download the report
+
+ABARES Insights: Stocktake of Fire in Australia’s forests, 2011 to 2016 – PDF [3.8 MB]
+
+ABARES Insights: Stocktake of Fire in Australia’s forests, 2011 to 2016 - infographic – PDF [0.69 MB]

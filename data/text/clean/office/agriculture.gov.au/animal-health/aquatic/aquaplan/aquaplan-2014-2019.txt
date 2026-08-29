@@ -1,0 +1,438 @@
+AQUAPLAN 2014–2019
+Australia’s National Strategic Plan for Aquatic Animal Health
+
+Agriculture Ministers Forum endorsed AQUAPLAN 2014–2019 in August 2014. 
+© Commonwealth of Australia 2014
+Ownership of intellectual property rights
+Creative Commons licence
+All material in this publication is licensed under a Creative Commons Attribution 3.0 Australia Licence, save for content supplied by third parties, photographic images, logos, and the Commonwealth Coat of Arms.
+
+Creative Commons Attribution 3.0 Australia Licence is a standard form licence agreement that allows you to copy, distribute, transmit and adapt this publication provided that you attribute the work. A summary of the licence terms is available from HYPERLINK "http://creativecommons.org/licenses/by/3.0/au/deed.en" \o "Link to Creative Commons website"creativecommons.org/licenses/by/3.0/au/deed.en. The full licence terms are available from HYPERLINK "http://creativecommons.org/licenses/by/3.0/au/legalcode" \o "Link to Creative Commons website"creativecommons.org/licenses/by/3.0/au/legalcode.
+This publication (and any material sourced from it) should be attributed as:
+Cataloguing data
+ISBN 978-1-760030-76-6 (print)
+ISBN 978-1-760030-77-3 (online)
+Internet
+For further information on AQUAPLAN 2014–2019 please contact:
+Aquatic Pest and Health Policy
+Biosecurity Animal Division
+18 Marcus Clarke Street, Canberra ACT 2601 
+GPO Box 858 Canberra ACT 2601 Australia
+Photo on front page: Aerial view of salmon cages, Tasmanian Salmonid Growers Association. Photo with foreword: Tasmanian farmed Atlantic salmon (Salmo salar), Tasmanian Salmonid Growers Association
+Foreword
+With global demand for high quality seafood rising, Australia is well positioned to supply fresh, safe and sustainably sourced products into markets at home and abroad. This demand is providing a strong incentive for Australia’s aquatic animal industries and governments to prepare for future challenges and realise new opportunities. 
+Australia’s fisheries and aquaculture sector was valued at $2.3 billion in 2012, with aquaculture representing 46 per cent of the total value. 
+Australia is considered a world leader in aquatic animal health management and AQUAPLAN 2014–2019 will ensure our systems are further improved. Better biosecurity, improved disease detection, enhanced training, and access to safe and appropriate agricultural and veterinary chemicals are some of the important issues addressed in this strategic plan.
+AQUAPLAN represents a shared vision of Australian, state and territory governments and aquatic animal industries for a sustainable and prosperous future. 
+Continued industry engagement in AQUAPLAN will ensure it remains relevant to all aquatic animal fisheries. I encourage everyone in the sector to support its implementation and work together so that its objectives are fully realised.  
+I am pleased to release AQUAPLAN 2014–2019: Australia’s National Strategic Plan for Aquatic Animal Health.
+
+Senator the Hon. Richard Colbeck
+Parliamentary Secretary to the Minister for Agriculture
+
+September 2014
+
+Contents
+ TOC \o "1-3" \h \z \u  HYPERLINK \l "_Toc398196708" Foreword	 PAGEREF _Toc398196708 \h 3
+ HYPERLINK \l "_Toc398196709" Acronyms	 PAGEREF _Toc398196709 \h 5
+ HYPERLINK \l "_Toc398196710" Introduction	 PAGEREF _Toc398196710 \h 6
+ HYPERLINK \l "_Toc398196711" Background	 PAGEREF _Toc398196711 \h 6
+ HYPERLINK \l "_Toc398196712" Roles and responsibilities	 PAGEREF _Toc398196712 \h 8
+ HYPERLINK \l "_Toc398196713" Links	 PAGEREF _Toc398196713 \h 9
+ HYPERLINK \l "_Toc398196714" Objective 1—Improving regional and enterprise-level biosecurity	 PAGEREF _Toc398196714 \h 10
+ HYPERLINK \l "_Toc398196715" Background	 PAGEREF _Toc398196715 \h 10
+ HYPERLINK \l "_Toc398196716" Activities	 PAGEREF _Toc398196716 \h 13
+ HYPERLINK \l "_Toc398196717" Objective 2—Strengthening emergency disease preparedness and response capability	 PAGEREF _Toc398196717 \h 14
+ HYPERLINK \l "_Toc398196718" Background	 PAGEREF _Toc398196718 \h 14
+ HYPERLINK \l "_Toc398196719" Activities	 PAGEREF _Toc398196719 \h 15
+ HYPERLINK \l "_Toc398196720" Objective 3—Enhancing surveillance and diagnostic services	 PAGEREF _Toc398196720 \h 17
+ HYPERLINK \l "_Toc398196721" Background	 PAGEREF _Toc398196721 \h 17
+ HYPERLINK \l "_Toc398196722" Activities	 PAGEREF _Toc398196722 \h 20
+ HYPERLINK \l "_Toc398196723" Objective 4—Improving availability of appropriate veterinary medicines	 PAGEREF _Toc398196723 \h 22
+ HYPERLINK \l "_Toc398196724" Background	 PAGEREF _Toc398196724 \h 22
+ HYPERLINK \l "_Toc398196725" Activities	 PAGEREF _Toc398196725 \h 24
+ HYPERLINK \l "_Toc398196726" Objective 5—Improving education, training and awareness	 PAGEREF _Toc398196726 \h 26
+ HYPERLINK \l "_Toc398196727" Background	 PAGEREF _Toc398196727 \h 26
+ HYPERLINK \l "_Toc398196728" Activities	 PAGEREF _Toc398196728 \h 28
+ HYPERLINK \l "_Toc398196729" Reports and references	 PAGEREF _Toc398196729 \h 30
+
+Acronyms
+AAHL
+Australian Animal Health Laboratory 
+AAWS
+Australian Animal Welfare Strategy
+AC
+Aquaculture Committee 
+AGMIN
+Agriculture Ministers Forum
+AGSOC
+Agriculture Senior Officials Committee
+AHA
+Animal Health Australia 
+AHC
+Animal Health Committee
+ANZSDP
+Australia and New Zealand Standard Diagnostic Procedures 
+APVMA
+Australian Pesticides and Veterinary Medicines Authority 
+AqCCEAD
+Aquatic Consultative Committee on Emergency Animal Diseases
+AQUAPLAN
+Australia’s National Strategic Plan for Aquatic Animal Health
+AQUAVETPLAN
+Australian Aquatic Veterinary Emergency Plan
+CSIRO
+Commonwealth Scientific and Industrial Research Organisation
+FAO
+Food and Agriculture Organization of the United Nations
+FRDC
+Fisheries Research and Development Corporation
+HACCP
+Hazard Analysis and Critical Control Point 
+IGAB
+Intergovernmental Agreement on Biosecurity
+LEADDR
+Laboratories for Emergency Animal Disease Diagnosis and Response 
+MUP
+Minor Use Permit 
+NAAHIRG
+National Aquatic Animal Health Industry Reference Group
+NAC
+National Aquaculture Council
+NBC
+National Biosecurity Committee
+NEBRA
+National Environmental Biosecurity Response Agreement
+OIE
+World Organisation for Animal Health 
+RD&E
+Research, Development and Extension 
+RRT
+Rapid Response Team
+SCAAH
+Sub-Committee on Aquatic Animal Health
+SCAHLS
+Sub-Committee on Animal Health Laboratory Standards
+WHO
+World Health Organization
+
+Introduction
+AQUAPLAN 2014–2019 is Australia’s third national strategic plan for aquatic animal health. It outlines the priorities to strengthen Australia’s arrangements for managing aquatic animal health and to support sustainability, productivity, market access and ultimately the profitability of Australia’s aquatic animal industries. AQUAPLAN 2014–2019 has five objectives:
+Improving regional and enterprise-level biosecurity
+Strengthening emergency disease preparedness and response capability
+Enhancing surveillance and diagnostic services
+Improving availability of appropriate veterinary medicines
+Improving education, training and awareness
+Each AQUAPLAN 2014–2019 objective is supported by activities to address specific aquatic animal health management issues associated with infectious diseases of finfish, molluscs and crustaceans. The plan covers aquatic animal health issues relevant to aquaculture, commercial fisheries, recreational fisheries, the ornamental fish industry, the tourism industry and the environment. AQUAPLAN 2014–2019 excludes management of environmental toxins and microorganisms that may affect food safety (for example, algal blooms), chemical pollutants affecting the health of aquatic ecosystems, and invasive aquatic pests.
+Each chapter is focused on one of the five objectives. At the end of each chapter a table provides details about specific activities, the expected activity outcomes, organisations responsible for progressing each activity and the resource or financial implications. 
+Southern bluefin tuna net pen
+Australian Fisheries Management Authority
+
+Background
+The Food and Agriculture Organization of the United Nations (FAO) predicts that the global demand for seafood will increase into the future. Per capita fish consumption is rising and fish protein now accounts for almost one fifth of all animal protein consumed by humans (Food and Agriculture Organization of the United Nations 2014). Capture fisheries will continue to provide a large proportion of the world’s seafood, but sustained growth in the aquaculture sector is necessary to meet anticipated future demands.
+Infectious diseases are a significant threat to the profitability of Australia’s fisheries and aquaculture industries, particularly for emerging or expanding industry sectors. Aquaculture and fisheries enterprises may be epidemiologically linked through the movement of people, animals, equipment and water. Through these movements, aquatic animal disease risks may be shared and diseases spread within and between aquatic animal production facilities. Diseases can also be spread between wild aquatic animal populations and between wild and farmed animals through similar pathways. Through potential impact on wild aquatic animals, aquatic animal diseases may also threaten Australia’s recreational fishing and aquatic tourism industries.
+Harvesting yellowtail kingfish (Seriola lalandi)
+Steve Wortley with permission from Cleanseas
+
+AQUAPLAN 1998–2003 was Australia’s first national strategic plan for aquatic animal health. It represented a world first in cooperation between industry and government to develop a national strategic approach to managing aquatic animal health. AQUAPLAN 1998–2003 established many of Australia’s current aquatic animal health management systems and procedures.
+AQUAPLAN 2005–2010 was developed to address further challenges identified following a review of AQUAPLAN 1998–2003. AQUAPLAN 2005–2010 made substantial progress in strengthening Australia’s aquatic animal health management systems and was particularly successful in focusing existing resources to agreed national strategic priorities. AQUAPLAN 2005-2010 concluded in June 2010; however, several of the projects initiated under the plan continued as a part of ongoing business.
+Tropical rock lobsters (Panulirus ornatus)
+Jim Prescott - Australian Fisheries Management Authority
+The AQUAPLAN 2005–2010 review identified the ongoing need for a nationally coordinated approach to aquatic animal health management in Australia. It found that a strategic national approach involving industry and government would ensure resources are applied efficiently and effectively to protecting industry and the environment from aquatic animal disease threats while supporting market access and competitiveness. Industry and government considered the findings of the AQUAPLAN 2005–2010 review and agreed to develop AQUAPLAN 2014–2019.
+Atlantic salmon smolt (Salmo salar)
+Petuna Aquaculture
+
+Roles and responsibilities
+AQUAPLAN is a cooperative industry–government initiative jointly developed by the Australian and state and territory governments and aquatic animal industries, including commercial fisheries, recreational fisheries, aquaculture and ornamental fish sectors. Industry (through the National Aquatic Animal Health Industry Reference Group, NAAHIRG) endorsed AQUAPLAN 2014–2019 in January 2014 and the Australian and state and territory governments (through their ministers) endorsed AQUAPLAN 2014–2019 in August 2014.
+The Animal Health Committee (AHC) and its Sub-Committee on Aquatic Animal Health (SCAAH), in consultation with aquatic animal industries through NAAHIRG, will oversee AQUAPLAN 2014–2019. These groups will monitor its implementation, but individual government and industry parties will lead and contribute to particular activities. The plan identifies these responsibilities.
+AQUAPLAN 2014–2019 is a framework of agreed national priorities. AQUAPLAN 2014–2019 is expected to attract funding and in‑kind contributions. Where direct funding is required for specific activities, responsible parties are expected to explore options to secure this funding. Government and industry, through AHC and NAAHIRG, will consider reprioritising AQUAPLAN 2014-2019 activities if required to ensure appropriate resource allocation.
+Line caught yellowfin tuna (Thunnus albacares)
+Australian Fisheries Management Authority
+
+Links
+Australia’s arrangements for aquatic animal health management are integrated with national biosecurity, animal welfare, emergency disease response, and research and development arrangements and initiatives. AQUAPLAN 2014–2019 activities will complement and support existing arrangements and initiatives.
+Some relevant arrangements include:
+National Fisheries Research, Development and Extension (RD&E) Strategy—this strategy establishes future direction to improve focus, efficiency and effectiveness of RD&E to support Australia’s fishing and aquaculture industries (Fisheries Research and Development Corporation 2010).
+Fisheries Research and Development Corporation (FRDC) Aquatic Animal Health Subprogram R&D strategy—this strategy guides the FRDC’s Aquatic Animal Health Subprogram to fulfil its objectives to provide leadership, direction and focus for aquatic animal health research and development. The subprogram was important in implementing AQUAPLAN 1998–2003 and AQUAPLAN 2005–2010 projects (Fisheries Research and Development Corporation 2009).
+
+Objective 1—Improving regional and enterprise-level biosecurity
+Background
+Governments and industry share responsibility for managing aquatic animal diseases. Industry is responsible for managing the health and welfare of aquatic animals in its care. Good producer management of aquatic animal health and welfare will lead to improved farm productivity, product quality, trade opportunities and ultimately profitability. Improved biosecurity practices can:
+result in better animal health and performance
+mitigate disease transmission and amplification within/between farms
+allow for early disease detection and impact reduction
+limit or exclude diseases that affect marketability
+be integrated into other farm quality control systems, such as hazard analysis and critical control point (HACCP)
+facilitate translocation within and between jurisdictions
+allow farms to meet international trade requirements (for example, through health accreditation).
+Effective biosecurity planning and implementation can reduce the risk of diseases being introduced to, spreading within or escaping from a farm. Biosecurity planning includes preparation for emergencies, such as developing response protocols for serious disease outbreaks.
+Atlantic salmon smolt (Salmo salar)
+Petuna Aquaculture
+
+AQUAPLAN 2005–2010 aimed to develop a national approach to translocation of aquatic animals in Australia. Activities addressed national policy arrangements for specific risks such as translocation of live aquatic animals and bait. AQUAPLAN 2005–2010 did not address operational aspects of biosecurity planning.
+Improved regional and enterprise-level biosecurity planning and implementation would provide a common level of risk management to support specific enterprise and whole-of-industry productivity. This would complement state and territory government regulatory requirements for biosecurity. Where necessary, biosecurity planning could be used as a component of health accreditation programs to facilitate safe interjurisdictional and international trade in aquatic animals. It is important that any health accreditation programs or minimum standards meet importing jurisdiction or country requirements.
+Pacific oysters (Crassostrea gigas)
+South Australian Oyster Growers Association
+
+Through AQUAPLAN 2014–2019, biosecurity plan templates and guidance documentation will be developed for specific aquaculture or fisheries sectors (where applicable) (Activity 1.1). These templates and documents will set out best practice biosecurity planning tailored to specific sectors. Sector-level guidance will facilitate a nationally consistent approach to biosecurity planning and help meet common levels of biosecurity risk management. Current state and territory biosecurity planning activities will be considered as part of this activity.
+Following completion of Activity 1.1, industry peak bodies (in consultation with the Sub-Committee on Aquatic Animal Health (SCAAH)) will establish a program to provide professional assistance to businesses to implement enterprise-level biosecurity plans (Activity 1.2). Enterprise-level biosecurity plans must be fit for purpose and balance practicality, cost and regulatory priorities. Proposed farm-level biosecurity practices should improve biological, operational and economic performance and be as simple and low cost as possible to achieve the desired outcomes.
+Australia’s aquatic animal industries often need to move live aquatic animals for production (for example, seed stock), genetic improvement (for example, to access brood stock) or human consumption. Moving live animals significantly increases disease spread risks; therefore, careful management is essential and there may be a need to demonstrate freedom from diseases of concern. Methods chosen to demonstrate freedom will depend on the purpose; for example, batch-testing aquatic animal consignments can be prohibitively costly for regular trade and it may be more cost effective to demonstrate zone or compartment freedom.  
+Through AQUAPLAN 2014–2019, a model aquaculture enterprise health accreditation scheme will be developed using abalone aquaculture as an example (Activity 1.3). The activity will provide a generic framework for aquaculture health accreditation that meets international standards and is agreed by state and territory governments. Industry and governments anticipate that this activity will support aquaculture sectors in developing health accreditation schemes to facilitate interjurisdictional trade.
+Farmed abalone (Haliotis spp.)
+Steve Wortley
+
+Management of aquatic animal welfare is an important consideration for biosecurity planning activities. Although AQUAPLAN 2014–2019 does not specifically address aquatic animal welfare, the Aquatic Animal Welfare Strategy (AAWS) includes activities to improve welfare outcomes in aquaculture, commercial fisheries, recreational fisheries and the aquarium sector. Industry codes of practice developed through the AAWS complement AQUAPLAN 2014–2019 activities.
+Salmon pens 
+Tasmanian Salmonid Growers Association
+Activities
+1.1.	Develop sector-specific biosecurity plan templates and guidance documents
+1.2.	Develop a program to support farms to develop and implement enterprise-level biosecurity plans 
+1.3.	Develop a model aquaculture enterprise health accreditation scheme using abalone aquaculture as an example
+Table  SEQ Table \* ARABIC 1 Objective 1: Improving regional and enterprise-level biosecurity
+Activity
+Expected outcome
+Lead
+Resource/financial implications
+1.1. Develop sector-specific biosecurity plan templates and guidance documents
+Access to best practice biosecurity planning and guidance tailored to aquaculture and fisheries (where applicable) sectors, leading to development of sector-specific biosecurity plans
+SCAAH (to lead development of generic template)
+Industry peak bodies (to lead development of sector-specific guidance documents and templates)
+1.2. Develop a program to support farms to develop and implement enterprise-level biosecurity plans
+Enterprise-level biosecurity practices that manage aquatic animal disease risks cost‑effectively and may underpin translocation and market access, leading to improved sustainability and profitability
+Industry peak bodies (in consultation with SCAAH)
+Funding for professional advice required to implement biosecurity plans
+1.3. Develop a model aquaculture enterprise health accreditation scheme using abalone aquaculture as an example 
+A generic framework for aquaculture health accreditation that meets international standards, is agreed by state and territory governments and facilitates interjurisdictional trade
+SCAAH to lead, in consultation with Australian Abalone Growers Association and Aquaculture Committee 
+In-kind contributions to develop scheme
+Note: SCAAH = Sub-Committee on Aquatic Animal Health; FRDC = Fisheries Research and Development Corporation
+Objective 2—Strengthening emergency disease preparedness and response capability
+Background
+Australia’s emergency aquatic animal disease preparedness and response arrangements include formal arrangements for decision-making (the Aquatic Consultative Committee on Emergency Animal Diseases, AqCCEAD), a comprehensive national contingency planning framework (the Australian Aquatic Veterinary Emergency Plan, AQUAVETPLAN), arrangements and resources to underpin early detection and diagnosis of diseases, incident management systems (for example, the Biosecurity Incident Management System) and communication networks (for example, the Biosecurity Incident National Communications Network). Australia’s two previous national strategic plans for aquatic animal health established and strengthened several of these arrangements. AQUAPLAN 2014–2019 will further strengthen Australia’s aquatic animal disease emergency preparedness and response arrangements in specific areas.
+AQUAPLAN 2005–2010 made significant progress toward the development of emergency aquatic animal disease response arrangements. However, no formal industry–government arrangements equivalent to the government and livestock industry cost-sharing deed for emergency terrestrial animal disease responses exist for emergency aquatic animal disease responses. Such arrangements would enable aquatic animal industries and governments to formalise shared responsibilities and costs for managing emergency aquatic animal disease incidents. Through activities under AQUAPLAN 2005–2010, industry and government agreed that a joint deed may be an appropriate policy approach and should be the subject of further work. Industry and government have endorsed a detailed work plan to develop terms of an industry–government deed. This agreed work plan will be implemented as an activity of AQUAPLAN 2014–2019 (Activity 2.1).
+Atlantic salmon (Salmo salar)
+Petuna Aquaculture
+
+Evaluating Australia’s emergency animal disease response systems in non-outbreak situations is important to identify gaps or weaknesses in existing systems and to provide training for government and industry personnel. Numerous aquatic animal disease emergency response simulation exercises have been run in Australia; however, most have focused on specific jurisdiction or industry priorities. Through AQUAPLAN 
+2014–2019, a national program of emergency disease response exercises, comprising complementary activities will be developed to address national priorities relevant to all industry sectors and jurisdictions (Activity 2.2). The program will also include routine assessment of previous emergency aquatic animal disease responses using the available national evaluation methodology and sharing of those findings among jurisdictions. 
+Endeavour prawns (Metapenaeus endeavouri)
+ Australian Fisheries Management Authority
+
+Activities
+2.1.	Implement an agreed work plan to develop industry–government emergency aquatic animal disease response arrangements
+2.2.	Develop a program of national and sector-specific emergency aquatic animal disease response exercises, including field and operational activities
+2.3.	Strengthen national first-response capability to ensure inclusion of specific aquatic animal disease expertise
+Table  SEQ Table \* ARABIC 2 Objective 2: Strengthening emergency disease preparedness and response capability
+Activity
+Expected outcome
+Lead
+Resource/financial implications
+2.1. Implement an agreed work plan to develop industry–government emergency aquatic animal disease response arrangements
+In-principle support of draft terms of formal industry-government response arrangements as applied to multiple aquatic animal industry sectors 
+Engagement by industry and state and territory governments
+In-kind contributions from industry and governments for travel to meetings and workshops
+2.2. Develop a program of national and sector-specific emergency aquatic animal disease response exercises, including field and operational activities
+A coordinated national program of emergency aquatic animal disease response exercises and outbreak evaluations to test and improve established systems, identify gaps and train personnel on a priority basis
+AHC/SCAAH (in consultation with relevant industry and state and territory governments)
+Funding will be required for exercise preparation, conduct and evaluation
+2.3. Strengthen national first-response capability to ensure inclusion of specific aquatic animal disease expertise
+National rapid response team that includes members with specialist aquatic animal health skills trained for certain roles (for example, epidemiology and operational roles)
+AHA
+Funding will be required to train nominated personnel 
+Funding will be required for training/deployment of aquatic technical experts
+Note: AHA = Animal Health Australia; AHC = Animal Health Committee; SCAAH = Sub-Committee on Aquatic Animal Health 
+Barramundi farm
+Chris Calogeras C-AID Consultants
+Objective 3—Enhancing surveillance and diagnostic services
+Background
+Australia’s passive surveillance system underpins early disease detection mechanisms, is used to meet international reporting requirements and provides information to demonstrate Australia’s freedom from specific aquatic animal diseases. The system is supported by resources to improve recognition of significant diseases, legal requirements to report notifiable diseases, requirements for aquatic animal producers to report unusual mortality events and a national system to collate information on the occurrence of diseases listed on Australia’s National List of Reportable Diseases of Aquatic Animals. Although well developed, the passive surveillance system’s ability to detect significant diseases depends on whether people: recognise a disease event, make the decision to report the event and make the decision to investigate it. Through AQUAPLAN 2014–2019, Australia’s passive surveillance system will be reviewed to identify any weaknesses and identify opportunities to further strengthen the system (Activity 3.1).
+Broodstock pacific oysters (Crassostrea gigas)
+Steve Wortley
+
+Common performance benchmarks for some aquaculture sectors are not freely available, as they are for more mature terrestrial animal industries such as the dairy industry. These benchmarks include parameters like mortality rates, growth rates and other health and production statistics (for example, feed conversion efficiency). Without such data, producers cannot easily assess their performance against comparable producers and continuously improve. Through AQUAPLAN 2014–2019, interested aquatic animal industry sectors will benchmark aquatic animal health to improve awareness of baseline health status and allow for improved management and early identification of aquatic animal health issues (Activity 3.3). They will consider challenges related to diversity within industry sectors (for example, in production systems and aquaculture environments) and address commercial confidentiality issues.
+The rapid emergence of new aquatic animal diseases is driving diagnostic test development. Validation of any new diagnostic test is important to evaluate performance characteristics and determine fitness for its intended purpose. Recognised methods for diagnostic test validation exist, such as those recommended by the World Organisation for Animal Health (OIE) in its Manual of Diagnostic Tests for Aquatic Animals (World Organisation for Animal Health 2014). However, many diagnostic tests for aquatic animal diseases, including those recommended by the OIE, are inadequately validated for some purposes. Through AQUAPLAN 2014–2019, a process for formal recognition of the validation status of diagnostic tests used by Australian laboratories will be developed and agreed (Activity 3.4). Specific test validation priorities will be identified—including for assays recognised as international standards.
+Tiger prawns (Penaeus monodon)
+Australian Prawn Farmers Association
+
+Access to quality assured positive control and internal control material is critical to demonstrating that a molecular diagnostic test has performed as expected. Both types of controls are particularly important when testing samples to demonstrate disease freedom. Through AQUAPLAN 2014–2019, stable positive and internal control material will be developed for molecular tests for important endemic and exotic aquatic animal pathogens (Activity 3.5). The material will be provided to Australia’s network of aquatic animal disease diagnostic laboratories. This activity will help to harmonise laboratory test protocols, expand laboratory testing capabilities and support rapid identification of false positive test results where positive control contamination occurs.
+Modern molecular technology can provide laboratories with the capability to develop diagnostic tests for infectious agents with relative ease. However, establishing the specificity, sensitivity and fitness for purpose of these tests can be resource intensive. If test characteristics are not adequately defined, interpreting test results accurately can be difficult. Through AQUAPLAN 2014–2019, newly developed diagnostic tests (for diseases/agents such as Abalone viral ganglioneuritis, Oyster oedema disease, Ostreid herpesvirus-1 microvariant, orthomyxo-like virus and new Yellow head virus genotypes) will undergo a formal validation process using procedures recommended by the Sub-Committee on Animal Health Laboratory Standards (SCAHLS) and/or the OIE. Aquatic Australia and New Zealand Standard Diagnostic Procedures (ANZSDPs) will then be developed or updated accordingly (Activity 3.6).
+Harvested pearls
+Pearl Producers Association
+
+Neptune is Australia’s national aquatic animal disease information system. It is an online information database of Australian aquatic animal diseases and disease incidents featuring disease mapping, webinar facilities and a digital microscopy platform that allows users to view whole slide images. Through AQUAPLAN 2014–2019, Neptune will include a greater breadth of data to ensure it continues to be Australia’s principal national resource for aquatic animal health information. These improvements will encourage aquatic animal health stakeholders to contribute to and use the database (Activity 3.7).
+Australia’s network of aquatic animal disease diagnostic laboratories comprise a range of components that support ongoing development and improvements to Australia’s diagnostic capability. Specific components of the network include:
+aquatic ANZSDPs
+a national laboratory proficiency testing program
+an aquatic animal health technical forum
+routine capture and sharing of aquatic animal histopathology cases
+aquatic activities within the Laboratories for Emergency Animal Disease Diagnosis and Response (LEADDR) network
+a national aquatic animal disease diagnostic laboratory capability database.
+Through AQUAPLAN 2014–2019, components of Australia’s aquatic animal disease laboratory network will be described to identify interactions, responsibilities, performance measures, and complementary resources and expertise (Activity 3.8). This activity is expected to lead to improved understanding of Australia’s aquatic animal health laboratory systems and therefore improved management.
+Recirculating tank system for barramundi (Lates calcarifer)
+Chris Calogeras C-AID Consultants
+
+Activities
+3.1.	Identify possible improvements to increase the sensitivity of Australia’s passive surveillance systems for aquatic animal diseases
+3.2.	Make the Aquatic animal diseases significant to Australia identification field guide available as an application for mobile devices
+3.3.	Undertake aquatic animal health benchmarking for specific aquaculture industry sectors
+3.4.	Adopt processes (new or existing) for formal recognition of validation status of diagnostic tests and identify specific test validation priorities
+3.5.	Develop stable positive control material and internal controls for molecular tests for detection of important endemic and exotic pathogens
+3.6.	Develop validated diagnostic tests for significant new and emerging diseases of aquatic animals in Australia
+3.7.	Improve the breadth of data in Neptune, particularly histopathology slide collections
+3.8.	Describe existing components of Australia’s aquatic animal disease diagnosis network to identify interactions, responsibilities and performance measures
+Table  SEQ Table \* ARABIC 3 Objective 3: Enhancing surveillance and diagnostic services
+Activity
+Expected outcome
+Lead
+Resource/financial implications
+3.1. Identify possible improvements to increase the sensitivity of Australia’s passive  surveillance systems for aquatic animal diseases
+Improved confidence in Australia’s ability to detect significant emerging and exotic diseases and to substantiate Australia’s disease status
+SCAAH
+Funding will be required to assess current systems and areas for improvement
+Funding will be required to implement improvements
+3.2. Make the Aquatic animal diseases significant to Australia identification field guide available as an application for mobile devices
+Improved awareness and reporting of significant diseases by target audiences and improved quality of disease reports
+Funding will be required to design and deliver a mobile device application
+3.3. Undertake aquatic animal health benchmarking for specific aquaculture industry sectors
+Improved baseline health status information across a range of indicators for enterprise use to improve husbandry and provide a mechanism for early warning of emerging health issues
+Individual industry sectors
+SCAAH to assist in developing benchmarking framework
+Complements Activity 1.2.
+Funding will be required for personnel to coordinate benchmarking activities—could be initiated as higher degree research projects
+3.4. Adopt processes (new or existing) for formal recognition of validation status of diagnostic tests and identify specific test validation priorities
+Increased awareness of the validation status of diagnostic tests and their fitness for specific purposes
+SCAHLS, SCAAH
+In-kind contributions to develop process
+3.5. Develop stable positive control material and internal controls for molecular tests for detection of important endemic and exotic pathogens
+Greater harmonisation of test protocols, expansion of laboratory testing capability and rapid identification of false positive test results where they may result from positive control contamination
+CSIRO Australian Animal Health Laboratory, Fisheries WA
+Funding will be required to develop positive control material for priority assays
+3.6. Develop validated diagnostic tests for significant new and emerging diseases of aquatic animals in Australia
+Increased capability and capacity to manage new and emerging diseases/agents
+Australia’s network of aquatic animal disease diagnostic laboratories
+Funding will be required to develop/establish and validate diagnostic tests
+3.7. Improve the breadth of data in Neptune, particularly histopathology slide collections
+Improved availability of aquatic animal health information and resources for research, teaching and diagnostic purposes 
+Funding will be required to support continued data capture, including for scanning of histopathology slides
+In-kind contributions of information from industries and state and territory governments
+3.8. Describe existing components of Australia’s aquatic animal disease diagnosis network to identify interactions, responsibilities and performance measures
+Components of Australia’s aquatic animal disease diagnosis network described, interactions identified and performance measures for maintaining components agreed.
+SCAHLS, SCAAH, AHC
+In-kind contributions to describe the network
+Note: AHC = Animal Health Committee; SCAAH = Sub-Committee on Aquatic Animal Health; SCAHLS = Sub-Committee on Animal Health Laboratory Standards
+
+Objective 4—Improving availability of appropriate veterinary medicines
+Background
+Australia’s aquaculture industry must have access to safe and effective veterinary medicines for disease management, industry productivity and animal welfare. Veterinary medicines are required for prevention (for example, vaccines), therapeutic treatments (for example, antibiotics, anthelmintics and antimycotics) and husbandry (for example, reproduction and animal handling). However, due to the relatively small size of Australia’s aquaculture industry sectors, there is very limited interest by pharmaceutical companies for investment in product registration because costs outweigh expected commercial returns. This issue is exacerbated by the diversity of aquatic animal species farmed world-wide, and the lack of information on the efficacy and safety of veterinary medicines applicable to Australia; for example, for native Australian species. The limited availability of registered veterinary medicines is an ongoing and complex problem for the Australian aquaculture sector.
+Vaccinating Atlantic salmon smolt (Salmo salar)
+Petuna Aquaculture
+
+Antimicrobial resistance is emerging as a significant international issue that will affect regulations for veterinary medicine use in animal production, including aquaculture. The World Organisation for Animal Health (OIE), the Food and Agriculture Organization of the United Nations (FAO) and the World Health Organization (WHO) are collaborating to address risks of antimicrobial resistance across animal and human health. The OIE has developed standards for responsible and prudent use of antimicrobial agents in aquatic animals, for monitoring quantities and usage patterns and for harmonising national antimicrobial resistance surveillance and monitoring programs for aquatic animals.
+AQUAPLAN 2005–2010 progressed activities to improve availability of veterinary medicines for the aquaculture industry. The activities resulted in industry prioritising requirements and collaborating to develop minor use permit (MUP) applications, the Australian Pesticides and Veterinary Medicines Authority (APVMA) granting MUPs and National Aquaculture Council holding permits on behalf of industry. Despite this progress, Australia’s aquaculture industries do not have the access they need to safe and effective veterinary medicines—risking suboptimal health management and farm productivity. Through AQUAPLAN 2014–2019, an industry–government workshop will consider the barriers to accessing veterinary medicines (including low-risk chemicals) for aquatic animal industries and examine ways to improve access to these chemicals (Activity 4.2). This workshop is expected to support subsequent activities under this objective.
+Within Australia’s current regulatory arrangements for agricultural and veterinary chemicals, and given market failure for full registration, MUPs are viewed as the preferred mechanism for providing regulatory approval for aquatic veterinary medicines. MUPs may be issued following an assessment of efficacy, user safety, food safety and environmental safety information. The permits provide guidance on permitted uses and withholding periods to avoid maximum residue limits being exceeded and allow data to be collected on usage patterns. Through AQUAPLAN 2014–2019, arrangements to coordinate MUP applications will be pursued (Activity 4.3). These arrangements will result in more efficient MUP application processes, better availability of veterinary medicines and improved guidance on use for veterinarians and producers.
+Broodstock yellowtail kingfish (Seriola lalandi)
+New South Wales Department of Primary Industries
+
+The anticipated future veterinary medicine needs of Australia’s aquaculture industries need consideration to support ongoing industry productivity and growth. Through AQUAPLAN 2014–2019, a strategic review of long term regulatory conditions for veterinary medicines in Australian aquaculture will be undertaken to address current and anticipated market failure (Activity 4.4). This activity will investigate issues that may affect availability of veterinary medicines, identify opportunities for improved regulatory or operational arrangements and recommend actions for consideration by industry and regulators. Activity 4.2 outcomes are expected to inform this activity.
+It is important that aquatic animal producers understand regulatory requirements for safe and appropriate use of veterinary medicines. These requirements may differ between states and territories, which are responsible for regulating control and use of veterinary medicines following the point of retail sale. Producers should also be aware of the potentially severe impacts that inappropriate use of veterinary medicines can have on the reputation and markets of the entire Australian aquaculture industry. Through AQUAPLAN 2014–2019, documentation will be developed to improve industry understanding of regulatory arrangements and the risks of inappropriate veterinary medicine and chemical use (Activity 4.5). Jurisdictions will be able to modify the information to include specific regulatory requirements and agency contact details.
+Southern bluefin tuna (Thunnus maccoyii)
+Australian Fisheries Management Authority
+
+Activities
+4.1	Consider aquatic animal production issues to inform development of the national antimicrobial resistance strategy
+4.2.	Run an industry–government workshop to identify ways to improve access to veterinary medicines and chemicals, including low-risk chemicals
+4.3.	Develop arrangements to improve industry coordination of minor use permit applications to the APVMA
+4.4.	Strategically consider long-term regulatory conditions to address market failure for aquatic veterinary medicines
+4.5.	Develop documentation to improve industry understanding of regulations and risks of inappropriate veterinary medicine and chemical use
+Table 4 Objective 4: Improving availability of appropriate veterinary medicines
+Activity
+Expected outcome
+Lead
+Resource/financial implications
+4.1. Consider aquatic animal production issues to inform development of the national antimicrobial resistance strategy
+A national antimicrobial resistance framework that addresses issues relevant to aquatic animal production
+AHC (supported by SCAAH), NAAHIRG
+In-kind contributions
+4.2. Run an industry–government workshop to identify ways to improve access to veterinary medicines and chemicals, including low-risk chemicals
+Improved understanding of industry requirements and identification of ways to improve access to veterinary medicines and chemicals
+NAC (in consultation with SCAAH and APVMA)
+Funding will be required for the workshop and to assist with implementing outputs
+4.3. Develop arrangements to improve industry coordination of minor use permit applications to the APVMA
+More efficient MUP application processes, better availability of veterinary medicines and improved guidance on use for veterinarians and producers
+NAC (in consultation with SCAAH and APVMA)
+In-kind contributions
+4.4. Strategically consider long-term regulatory conditions to address market failure for aquatic veterinary medicines
+Approval processes for aquatic veterinary medicines that support industry productivity by ensuring safe and appropriate use in the least restrictive manner
+NAC (in consultation with SCAAH/AHC and APVMA)
+In-kind contributions
+4.5. Develop guidance documentation to improve industry understanding of regulations and risks of inappropriate veterinary medicine and chemical use
+Improved understanding by industry of requirements for safe and appropriate veterinary medicine use
+SCAAH (in consultation with NAC and APVMA)
+In-kind contributions
+Note: AHC = Animal Health Committee; APVMA = Australian Pesticides and Veterinary Medicines Authority; SCAAH = Sub-Committee on Aquatic Animal Health; NAAHIRG = National Aquatic Animal Health Industry Reference Group; NAC = National Aquaculture Council
+Broodstock barramundi (Lates calcarifer)
+Northern Territory Government
+Objective 5—Improving education, training and awareness
+Background
+Australia’s aquatic animal health management systems require trained government and industry personnel for roles in aquatic animal husbandry, veterinary science, pharmacology, immunology, disease diagnostics, epidemiology, biosecurity, emergency management, public policy, industry and media liaison, and specific research disciplines. The availability of appropriately trained and competent personnel to fill these roles directly affects the strength of Australia’s aquatic animal health management systems.
+Through AQUAPLAN 2005–2010, several activities were undertaken to address aquatic animal health education and training issues in Australia. Current and future needs for aquatic animal health training were assessed, and the project report was considered at a national workshop of education and training providers, industry, and government representatives. The workshop identified a priority to provide training for aquatic animal health professionals to enhance their skills across a range of aquatic animal health specialist disciplines. A national Aquatic Animal Health Training Scheme was established to improve the knowledge and skills in aquatic animal health management to support Australia’s fishing and aquaculture industry, including the aquarium sector. The training scheme was reviewed following its first three years of operation (2010-2012) and found to have provided valuable training opportunities for Australia’s aquatic animal health professional community. The scheme’s impact and cost-effectiveness resulted in its continuation for a further two years (2013-2014). Through AQUAPLAN 2014-2019, the Aquatic Animal Health Training Scheme (2013-2014) will be reviewed to determine whether the program achieved its objectives, and to inform decisions on the continuation and nature of any future scheme (Activity 5.1).
+Southern bluefin tuna (Thunnus maccoyii)
+ Australian Fisheries Management Authority
+
+While AQUAPLAN 2005–2010 made significant progress in improving training opportunities for practising professionals, incorporation of aquatic animal health as a component of formal education for vocational and higher education was not addressed. Aspects of aquatic animal health management are provided as a component of formal courses; for example, in veterinary science curriculums and in the seafood industry training package offered through Agrifood Skills Australia. However, this training may not adequately address employer needs and aquatic animal health training offered by different providers may be inconsistent. For example, the level of inclusion of aquatic animal health training in curriculums may depend on the course provider’s specialist knowledge and their access to appropriate teaching resources. 
+AQUAPLAN 2014–2019 will facilitate stronger inclusion of aquatic animal health in veterinary and vocational education by assessing requirements for a national aquatic animal health curriculum (Activity 5.2) and developing curriculums that will meet end-user needs (Activity 5.3). The curriculums will include resource packages that would be made available for adoption by education providers at no cost. Curriculums will draw on existing resources and meet competencies relevant to aquatic veterinary roles—such as the World Organisation for Animal Health (OIE) recommendations on the Competencies of Graduating Veterinarians (‘Day 1 Graduates’) to Assure National Veterinary Services of Quality (World Organisation for Animal Health 2012).
+Salmon pens 
+Tasmanian Salmonid Growers Association
+
+Training on-farm personnel in activities to support disease recognition, reporting procedures and collection of samples for laboratory diagnostics can improve passive surveillance and disease investigation. Industry and government have identified this as important to support cooperation, particularly for investigation of suspected emergency aquatic animal diseases. Similar training has been held previously in an ad hoc manner for different sectors, and has resulted in the development of a variety of resources. Through AQUAPLAN 2014–2019, generic short-course training material will be developed (using existing materials or previously successful approaches where appropriate) to support disease investigation activities (Activity 5.4). The new training material will complement biosecurity planning under Activity 1.2.
+AQUAPLAN 2014–2019 objectives and activities will require input from, and benefit, a wide range of stakeholders. The AQUAPLAN 2005–2010 review found that audience-targeted communication, tailored to the needs of specific stakeholder groups, could generate closer engagement on AQUAPLAN activities. A communication strategy for AQUAPLAN 2014–2019 will be developed to ensure strong stakeholder engagement on AQUAPLAN activities, and improved awareness of agreed national priorities for aquatic animal health (Activity 5.5).
+Activities 
+5.1.	Review the Aquatic Animal Health Training Scheme (2013–14)
+5.2.	Assess requirements for a national aquatic animal health curriculum that can be adapted for end-users ranging from vocational training to higher education
+5.3.	Develop national aquatic animal health curriculums for veterinary and vocational education
+5.4.	Develop short-course training material for industry on management of aquatic animal disease incidents (including reporting procedures, collecting samples for laboratory diagnostics and record keeping)
+5.5.	Develop an AQUAPLAN 2014–2019 communication strategy
+Table 5 Objective 5: Improving education, training and awareness
+Activity
+Expected outcomes
+Lead
+Resource/financial implications
+5.1. Review the Aquatic Animal Health Training Scheme (2013–14)
+Review of the scheme informs decision on continuation and on the nature of any future scheme
+In-kind contributions to review program
+Funding will be required for program continuation
+5.2. Assess requirements for a national aquatic animal health curriculum that can be adapted for end-users ranging from vocational training to higher education
+Aquatic animal health curriculum end users, competency areas and supporting resource material needs are identified
+FRDC (in consultation with employers and education providers)
+Funding will be required for a consultant to review existing vocational training
+Funding will be required to hold a national workshop and prepare a report
+5.3. Develop national aquatic animal health curriculums for veterinary and vocational education
+National aquatic animal health curriculums for veterinary and vocational training that meet end-user needs, include a package of resources and are freely available (and can be adopted by providers at no cost)
+FRDC (in consultation with employers and education providers)
+Funding will be required to develop curriculums, prepare training materials and make training materials available
+5.4. Develop short-course training material for industry on management of aquatic animal disease incidents (including reporting procedures, collecting samples for laboratory diagnostics and record keeping)
+Generic short-course training material that individual jurisdictions can adopt to support industry to identify disease issues and to support disease investigation activities
+SCAAH (in consultation with industry sectors)
+Funding will be required to develop short-course training material and resources
+Could draw on existing materials
+
+5.5. Develop an AQUAPLAN 2014–2019 communication strategy
+Improved awareness of AQUAPLAN 2014-2019 and progress toward achieving objectives
+SCAAH (in consultation with NAAHIRG)
+In-kind contributions to communicate with relevant stakeholders
+Funding may be required to support some communication activities
+
+Note: FRDC = Fisheries Research and Development Corporation; SCAAH = Sub-Committee on Aquatic Animal Health; NAAHIRG = National Aquatic Animal Health Industry Reference Group
+Lobster pots
+ Australian Fisheries Management Authority
+Reports and references
+Fisheries Research and Development Corporation (FRDC) 2010, Working Together: the National Fishing and Aquaculture RD&E Strategy 2010, available at HYPERLINK "http://frdc.com.au/research/Documents/Final_reports/National_RDandE_Strategy_for_Fishing_and_Aquaculture.pdf"frdc.com.au/research/Documents/Final_reports/National_RDandE_Strategy_for_Fishing_and_Aquaculture.pdf (pdf 1.65 MB)
+Fisheries Research and Development Corporation (FRDC) 2009, Aquatic Animal Health Subprogram Research and Development Plan 2009–2012 (2009 version 1.0), available at HYPERLINK "http://frdc.com.au/research/Documents/Aquatic_Animal_Health_RD_Plan_2010-2012.pdf"frdc.com.au/research/Documents/Aquatic_Animal_Health_RD_Plan_2010-2012.pdf (pdf 130 KB)
+Food and Agriculture Organization of the United Nations (FAO) 2014, The State of World Fisheries and Aquaculture 2014, FAO, Rome, 223pp available at HYPERLINK "http://www.fao.org/fishery/sofia/en"fao.org/fishery/sofia/en
+World Organisation for Animal Health (OIE) 2014, Manual of Diagnostic Tests for Aquatic Animals, available at HYPERLINK "http://www.oie.int/international-standard-setting/aquatic-manual/access-online/"oie.int/international-standard-setting/aquatic-manual/access-online/
+World Organisation for Animal Health (OIE) 2012, OIE recommendations on the Competencies of graduating veterinarians (‘Day 1 graduates’) to assure National Veterinary Services of quality, available at  HYPERLINK "http://www.oie.int/fileadmin/Home/eng/Support_to_OIE_Members/Vet_Edu_AHG/DAY_1/DAYONE-B-ang-vC.pdf" oie.int/fileadmin/Home/eng/Support_to_OIE_Members/Vet_Edu_AHG/DAY_1/DAYONE-B-ang-vC.pdf (pdf 388 KB)
+
+PAGE   \* MERGEFORMAT 5
+
+PAGE   \* MERGEFORMAT 10
+AQUAPLAN 2014–2019: Australia’s National Strategic Plan for Aquatic Animal Health

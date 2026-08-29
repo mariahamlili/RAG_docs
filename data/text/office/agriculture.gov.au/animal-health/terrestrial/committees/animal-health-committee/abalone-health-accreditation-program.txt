@@ -1,0 +1,397 @@
+Recommendations for enterprise level Abalone Health Accreditation Program (AHAP)
+
+Version 3.0
+
+Document prepared by the Sub-committee on Aquatic Animal Health
+
+Version control
+
+Purpose:
+
+To describe recommended requirements by which abalone producers may establish and maintain disease-free status of a defined abalone population for abalone viral ganglioneuritis (AVG).
+
+These requirements will facilitate safe translocation of abalone within or between jurisdictions.
+
+Introduction:
+
+Need and objectives
+
+The objective of the Abalone Health Accreditation Program (AHAP) is to provide advice on the technical requirements of a health accreditation scheme that will enable the abalone aquaculture industry to demonstrate compartment freedom from diseases of concern.
+
+Establishing and maintaining disease free status for an entire jurisdiction may not be possible in some circumstances, particularly when a disease is established in wild animal populations. However, while a disease may be endemic in a jurisdiction, sub-populations that have a higher health status can be established and maintained through a range of physical and operational measures. The term “compartment” is used here to describe an aquaculture production system (e.g. hatchery through to processing) with a distinct health status for a specific disease (or diseases) and for which clearly documented measures are applied to maintain the disease-free status to enable the “compartment” to be declared by the Competent Authority.
+
+Possible benefits of national recommendations for the requirements of an abalone health accreditation scheme are:
+
+To advise industry and government on recommended minimum requirements for intra and interstate movements
+
+To facilitate cost effective and safe translocation of live abalone and product between farms and/ or jurisdictions
+
+To meet international export certification requirements
+
+To provide health certified abalone stock suitable for open and semi-open systems (re-seeding/stock enhancement/open water aquaculture)
+
+To develop an auditable accreditation scheme controlled by the Competent Authority (CA).
+
+Background
+
+Abalone viral ganglioneuritis (AVG) was first detected in Australia on two land-based abalone farms in Victoria during December 2005. The disease had not previously been reported in Australia. By July 2006 a total of 4 Victorian farms were confirmed with the disease and had been destocked. No further instances of AVG on farms located in Victoria have been reported since. The disease was subsequently found to occur in the natural environment in May 2006 and disease continued along the Victorian coastline affecting wild populations of abalone until early 2010. In May 2021 there was another detection in the western fishing zone of Victoria and it is now presumed that this area is endemically infected with intermittent disease occurrences.
+
+Following initial detection in Tasmania in 2008, that State experienced a series of AVG outbreaks until 2011. All outbreaks were associated with translocations of wild caught abalone to live-holding facilities located within processing plants. There was also one outbreak on a farm in early 2011. The farm outbreak was also shown to be linked to disease in a neighbouring processing plant. The virus is believed to occur endemically in wild abalone in parts of Tasmania.
+
+Disease was also confirmed in wild abalone in the southern zone of South Australia in February 2024. At the time of writing, no farms have been impacted in that state.
+
+The culture and wild capture abalone industries, in conjunction with governments, have responded to this disease with a range of measures including surveillance projects, enhanced biosecurity, investigations into epidemiology and education campaigns for both recreational and commercial fishing industries.
+
+Context
+
+The World Organisation for Animal Health (WOAH) Aquatic Animal Health Code outlines basic principles that should be adhered to when translocating abalone stock, however specific details on appropriate surveillance and biosecurity remains the responsibility of individual jurisdictions. Throughout Australia, the movement of live abalone between regions and jurisdictions is administered by State and Territory authorities. Such movements have either been prohibited outright or assessed on an individual basis with control measures applied according to the relevant acceptable level of risk.
+
+In order to reduce risks associated with AVG, live abalone movements, where permitted, have traditionally relied on batch testing, which is expensive, cannot guarantee stock freedom and cannot be used to provide ongoing accreditation of a premises without documented biosecurity measures. Some variation exists in pre-movement conditions between jurisdictions, which may result in confusion within the industry.
+
+The AHAP recommendations are consistent with accepted WOAH standards and ensure requirements are transparent. When implemented by abalone farms the AHAP will provide greater confidence for the safe movement of abalone between states or production premises beyond the current batch testing arrangements that are in place. The program provides guidance for an accreditation system based on compartment concepts. It is designed to allow movement of abalone between regions and eliminate the need for batch testing. Such programs currently exist within other livestock sectors in Australia and overseas, for example SheepMAP and CattleMAP (see http://www.animalhealthaustralia.com.au/programs/johnes-disease/market-assurance-programs-maps/
+
+The AHAP has been developed to provide consistent requirements for abalone aquaculture enterprises by which they may establish disease free compartments and address biosecurity risks inherent in any stock translocation. By doing so the program aims to establish a consistent extremely low risk from a qualitative risk perspective for abalone imports across all accredited premises (compartments). From a risk assessment perspective, although the likelihood of disease transfer may be managed through the program, consequence of disease transfer will continue to vary between individual jurisdictions, and thus affect outcomes of any risk assessment made.
+
+Scope of the program
+
+This AHAP considers only abalone viral ganglioneuritis (AVG), which is caused by infection with abalone herpesvirus. For simplicity, the disease and causative agent will be referred to as AVG throughout this document.  Whilst this program specifically addresses AVG, it can form the model for other important disease pathogens such as Perkinsus spp.
+
+This program only refers to cultured abalone on land based farms (semi-closed facilities). Semi-open and open farms e.g. cage farms and sea ranching are not within the scope of these recommendations.
+
+Characteristics of the disease
+
+Within Australia, abalone herpesvirus has been demonstrated to be the causative agent for abalone viral ganglioneuritis. Current research classifies herpes viruses into three major groups, of which oyster herpesvirus and the abalone herpesvirus are the only representatives within Malacoherpesviridae.
+
+Australian abalone species confirmed as being susceptible to AVG include the greenlip abalone (Haliotis laevigata), blacklip abalone (Haliotis rubra) together with hybrids of these, and roe’s abalone (Haliotis roei). However, other species within the Haliotis genus are also considered likely to be susceptible.
+
+Disease has been shown to be highly infectious, with outbreaks spreading quickly (i.e. within days) through susceptible populations. Outbreaks of AVG in both farmed and wild abalone populations in Australia were associated with the rapid onset of high mortality rates (up to 90%) in all age classes.
+
+Horizontal transmission has been demonstrated experimentally. Vertical transmission has not been demonstrated, but cannot be ruled out at this time.
+
+Incubation periods have been shown to be as short as 2 days via bath immersion under experimental conditions, but are considered to range from 5 to 7 days under field conditions. Research at CSIRO AAHL has demonstrated that viability of the virus in water is temperature dependant, with survival periods greater at lower temperatures. The virus is unlikely to remain viable outside the host for longer than 24 hours at temperatures above 15oC.
+
+To date outbreaks of disease have occurred on Victorian farms and within the natural marine environment in that State. Disease has also occurred in Tasmanian processor and farm live-holding systems, and within closed NSW live-seafood holding systems. The virus has subsequently been eradicated from all infected farms and live-holding premises following de-stocking and decontamination procedures..
+
+A similar disease has been reported in Taiwan, however it has not yet been confirmed how similar this virus is to that found in Australia.
+
+Recent surveillance of healthy wild Tasmanian abalone has indicated a sub-clinical prevalence of approximately 7% by PCR testing (unpublished data).  This suggests that some populations of Tasmanian abalone may have a degree of innate resistance to clinical disease. Sub-clinical carriage of the virus is likely to have occurred in Tasmanian and Victorian wild abalone.
+
+Epidemiological assumptions used in this protocol are summarised in Appendix 2.
+
+Aquatic animal health services
+
+It is acknowledged that State and Territory Competent Authorities need to provide satisfactory veterinary services to enable enterprise establishment and maintain compartments. This document does not provide specific requirements for a Competent Authority to support implementation and auditing of the program. Instead it is assumed that the competent authorities within Australian States and Territories provide satisfactory services across several theme areas including:
+
+Human, Physical and Financial Resources
+
+Technical Authority and Capability
+
+Interaction with Stakeholders
+
+Access to Markets
+
+The WOAH Performance of Veterinary Services Tool, the Aquatic (PVS tool), can be used as an internationally accepted framework to determine whether a Competent Authority can adequately oversee application of the AHAP. The PVS tool addresses technical capabilities within the four theme areas above. These capabilities include: communication, legal delegation, stakeholder compliance, audit, health certification, professional staffing, transparency and traceability, biosecurity planning, emergency response, research capacity, training, surveillance models, laboratory result dispute resolution, diagnostic capacity and laboratory accreditation etc.
+
+General conditions for declaration of freedom
+
+The following section outlines general recommendations for the movement of live abalone within Australia. Recommendations have been modified from Chapter 11.1 within the WOAH Code 20243.
+
+Declaration of an AVG free compartment (farm) within Australia
+
+A compartment free of AVG may be established within any State or Territory by the Competent Authority(ies) of the relevant State or Territory if the compartment meets one or more of the criteria described below (1, 2, 3 or 4), in addition to satisfying specific conditions outlined elsewhere in this document.
+
+Criteria 1: Susceptible species not present (may be relevant to the NT)
+
+In a State or Territory of unknown status for AVG where none of the susceptible species is present, a farm compartment may be declared free from AVG when basic biosecurity conditions have been continuously met for a minimum period1.  As part of the basic biosecurity conditions the accredited compartment must have an approved and auditable biosecurity plan.
+
+or
+
+Criteria 2: Susceptible species present but no reports of disease (may be relevant to parts of Australia, eg. WA)
+
+Within a State or Territory of unknown status for AVG, but where there has been no observed occurrence of the disease for at least the past ten years, a farm compartment may be declared free from AVG when basic biosecurity conditions have been continuously met for at least the minimum period1. As part of the basic biosecurity conditions the accredited compartment must have an approved biosecurity plan.
+
+or
+
+Criteria 3: AVG pathogen known to occur in the natural environment (may be relevant to Victoria, South Australia and Tasmania)
+
+Within a State or Territory where the last known clinical occurrence was within the past ten years and/or where infection within the natural environment is known to occur, a farm compartment may be declared free from AVG when:
+
+Basic biosecurity conditions have been continuously met for at least the minimum period1
+
+and
+
+Targeted surveillance in accordance with conditions outlined below within section 3.3 has been undertaken without detection of AVG.
+
+or
+
+Criteria 4: Detection of infection in a free compartment
+
+A compartment previously declared free from AVG but in which the disease is detected and confirmed may again be declared free from AVG when the following conditions have been met:
+
+On confirmation of the disease, the source of the infection was confidently identified
+
+and
+
+Basic biosecurity conditions have been reviewed, modified as necessary and incorporated into the farm compartment biosecurity plan
+
+and
+
+Infected populations have been destroyed or removed from the infected area by means that minimise the likelihood of further spread of the disease, and the appropriate decontamination procedures have been completed
+
+and
+
+Targeted surveillance has been in place for at least the minimum period1 without detection of AVG.
+
+Maintenance of free status
+
+A compartment that is declared free from AVG may maintain its status as “AVG free” provided that basic biosecurity conditions are continuously maintained.
+
+A compartment that is declared free from AVG following the provisions of Criteria 3 must continue targeted surveillance at a level described within this document and be audited by the relevant Competent Authority.
+
+Importation of live aquatic animals from a compartment declared free from abalone herpes virus
+
+When importing live abalone from a compartment declared free from AVG, the relevant Competent Authority of the importing State should require an animal health certificate issued by the Competent Authority of the exporting State. The health certificate should certify whether the place of production of the abalone is a compartment declared free from AVG in accordance with this AHAP.
+
+General conditions for the accreditation of an AVG-free compartment are summarised in Table 1.
+
+Table 1: Summary of general conditions
+
+3. Elements of the Program
+
+Technical details for the conduct of the AHAP are found in the “Revised AHAP Standard Operating Procedure” (available on the SCAAH Share Point)
+
+3.1 Identification of the compartment
+
+The purpose of establishing a compartment is to maintain a subpopulation with a distinct health status—for this program an AVG-free population. For a compartment to be designated AVG-free it must be clearly defined and all of its components described. These components include all functional units within the production system that are epidemiologically linked such as brood stock facilities, hatcheries, nurseries, grow-out areas and processing facilities. Any potential epidemiological links between the aquatic animals within the compartment and susceptible species outside the compartment must be described so that management measures can be implemented to prevent disease transmission.
+
+The description of the compartment should address the following (adapted from the WOAH Aquatic code):
+
+Biosecurity
+
+The integrity of a compartment relies on a combination of infrastructure and operational activities to provide effective biosecurity. The compartment’s biosecurity plan should describe how the risks of entry of the pathogen of concern are to be managed. It should also address geographic factors that may contribute to the maintenance of effective biosecurity (e.g. proximity of other farmed or wild susceptible populations). The biosecurity plan will describe procedures for documentation and auditing to maintain compartment disease-free status.
+
+Surveillance
+
+Internal surveillance is required to provide ongoing assurance of disease freedom and to provide early detection in the event that the agent of concern enters the compartment. External monitoring may be required to identify any change in risk profile associated with change in distribution of the pathogen or incidence of disease external to the compartment.
+
+3.2 Biosecurity plan
+
+A draft generic aquaculture biosecurity plan is currently being prepared by SCAAH and should be consulted once it becomes available.
+
+As stated in  the WOAH Chapter 4.2 on zoning and compartmentalisation, the integrity of the compartment relies on effective biosecurity. For this reason, a comprehensive biosecurity plan that is transparent and can be audited should be developed. This should describe and address in detail the pathways for introduction, spread and transmission of AVG into, through and from the compartment, taking into account the features of the compartment.
+
+The biosecurity plan should describe training, records management and administration of the compartment. Measures to mitigate exposure at each critical control point identified in association with animal movement, people, equipment, water, feed and waste need to be detailed.
+
+The plan will include standard operating procedures that document actions to mitigate risk and mechanisms for ensuring that protocols are followed. Changes in the level of risk or exposure require contingency planning and modification of the overall plan to address the altered risk profile.
+
+Clear reporting procedures to the Competent Authority and processes consistent with the WOAH Evaluation of Performance of Veterinary Services (PVS) Tool should be in place. Training and education in all relevant aspects of farm biosecurity, auditing processes and response procedures must be documented in the biosecurity plan.
+
+Certification of a biosecurity plan by an independent 3rd party will include the following hazard analysis and critical control point (HACCP) steps (FDA, 2013):
+
+Conduct a hazard analysis
+
+Determine critical control points
+
+Establish critical limits
+
+Establish monitoring procedures
+
+Establish corrective actions
+
+Establish verification procedures
+
+Establish record keeping and documentation procedures
+
+Figure 1 – Biosecurity risks to abalone farms (High risk movements onto farms are highlighted in red)
+
+3.3 Surveillance
+
+Due to the nature of land-based abalone aquaculture facilities internal surveillance will be required for those facilities described within Criteria 3 and 4 above, with additional external monitoring required in some cases. The objective of AVG surveillance on farms is to demonstrate the absence of the viral pathogen. Any surveillance system should comply with Chapter 1.4 of the Aquatic Animal Health Code (WOAH, 2024).
+
+3.3.1 Case definition and recommended diagnostic tests
+
+The presence of AVG shall be suspected if at least one of the following criteria is met:
+
+Presence of high mortality rates associated with clinical signs of AVG as described in chapter 2.4.1 of the WOAH Aquatic Manual.
+
+Histopathology (ganglioneuritis) observed in neural tissue sections of a single abalone sample.
+
+Positive result by qPCR or conventional PCR on at least one abalone sample.
+
+The presence of AVG is considered to be confirmed if, in addition to the criteria in the definition of a suspect case, one or more of the following criteria are met:
+
+Positive result by qPCR on one or more abalone where positive histopathology and/or high mortality with clinical signs consistent with AVG also occurs.
+
+Positive result by in-situ hybridisation on neural tissue section.
+
+Positive result by conventional PCR on neural tissue section followed by sequence analysis of the amplicon to confirm AbHV nucleic acid sequence.
+
+The recommended laboratory test for surveillance purposes is quantitative PCR using ORF (open read frame) 49 and 66. Ideally the laboratory will be NATA accredited for performing these PCRs. Used in parallel these tests have yielded a sensitivity of 86% and specificity of greater than 98% in subclinical abalone in Tasmania. Test results are reported based on the presence or absence of a characteristic amplification curve, thus a specific cut-off Ct (cycle threshold) value is not assigned.
+
+Test specificity is discussed further in the “Dealing with Positive results”.
+
+3.3.2 Internal surveillance requirements
+
+The recommended surveillance protocol utilises two stages of testing; an initial round of testing to demonstrate disease freedom (to 95% confidence) within the existing farm stock and; ongoing monitoring of a high risk subgroup (sentinel study population) placed at strategic location/s throughout the farm.
+
+Testing requirements for abalone entering an approved premises and/or requirements for the movement of abalone between premises have been addressed elsewhere. However, it should be noted that these will be undertaken according to the principle of only allowing movements from premises of equal or higher health accreditation status. If abalone originate from a non-accredited facility (including wild stock), quarantine and testing would be required. If abalone originate from an AVG AHAP accredited compartment, there should be no additional testing requirement.
+
+Initial testing of farm stock
+
+The initial round of surveillance aims to demonstrate freedom within the existing farm population and assumes that the premise (abalone farm) is a biosecure compartment and that it has been operating according to an approved biosecurity plan for the minimum period1. This minimum period should ensure sufficient time for the pathogen, if present, to increase to a detectable level throughout the target population. Specific requirements for establishment of biosecure premises are covered in 3.2.
+
+Surveillance should be undertaken using a 2 stage sampling strategy that assumes a tank-level prevalence of 10% and animal-level prevalence of 5%. The assumed tank (herd) level value is based on observations made during disease events in both Victoria and Tasmania where AVG spread quickly and caused significant mortality.
+
+The animal level prevalence has been assigned according to accepted convention, given that this virus is considered highly infectious (WOAH Aquatic Animal Health Code Chapter 1.4). Prevalence levels are also supported by surveillance undertaken in Tasmania.
+
+1: A minimum period being 6 months including one summer.
+
+Ongoing monitoring of the farm population using active surveillance:  whole farm surveillance or sentinel populations
+
+Active surveillance across the whole farm during a 6-month period
+
+Active surveillance across the whole farm provides the opportunity to assess the health of moribund or dead susceptible abalone from grow out stock selected from across the farm. Thirty2 or more moribund or recently dead stock should be selected, and their location and date of collection recorded for auditing purposes. Samples will be frozen or submitted fresh to the laboratory. Submissions may occur at regular intervals eg 10 abalone selected every 2 months or close to when the testing is required eg every 6 months.
+
+The requirement for farms to report a significant disease event (often 1% or more daily mortality) to the relevant state government remains.
+
+The minimum figure of 30 abalone is based on an assumed prevalence of 10% and also takes into account test sensitivity and 95% confidence limits (Cameron A, 2002) Given that any positive result would require further investigation a specificity of 1 has been assumed.
+
+Sentinel populations
+
+The sentinel population provides a ready means for intensively monitoring a small sub – population of the farm. For the purposes of ongoing farm monitoring, it is assumed that the sentinel (test) population is at higher risk of infection through greater exposure to the pathogen and/or is made up of individuals of greater susceptibility to expression of disease. The sentinel population(s) of abalone will be exposed to discharge water from all farm tanks and will be chosen from abalone types (based on age, species and genetic lines) considered most susceptible to disease.
+
+Placing sentinel populations within farm drains such that they are exposed to discharge water from multiple abalone grow-out tanks has a number of benefits:
+
+an easily observed representative sub-population that may be monitored daily,
+
+immediate testing with negative results of any abalone expressing morbidity or mortality, provides continual ongoing support for disease freedom,
+
+provides evidence that intake water used by the farm is not carrying virus, and
+
+the number of abalone tested, and thus associated costs to producers, is significantly reduced without sacrificing overall confidence
+
+Where more than one drainage system is present, multiple sentinel groups will be required for each compartment. It will be the responsibility of the Competent Authority to ensure that a robust sampling strategy is undertaken with the appropriate level of confidence in disease detection.
+
+Farm staff will be required to examine the sentinel population daily and submit any mortalities or moribund animals for testing. There would also be a requirement to sample the entire sentinel population each 6 months. This would provide confidence of over 95% that the sentinel population remains disease free (subject to all test results being negative). Farm staff will also be required to maintain accurate records of all abalone removed from the sentinel population for testing purposes and make these available during audits by the Competent Authority.
+
+Dealing with positive results
+
+Within any surveillance program there is an expectation that false positive test results will occur from time to time in the absence of a test with 100% diagnostic specificity. As part of a health accreditation program that enables translocation of stock between compartments, a precautionary approach must be undertaken and any positive results investigated fully. There are 2 options:
+
+Where there is sufficient PCR product available, this may be sequenced to confirm presence of the virus. As a general rule, positive results with Ct (cycle threshold) values below 35 may be confirmed in this manner.
+
+Where there is insufficient PCR product available (>Ct 35), confirmation of individual positive test results is not always possible. In such cases a testing protocol for robustly establishing whether a positive result is true or false would be undertaken. If the veracity of a positive result is still unclear retesting of the entire farm population to statistically significant levels may be required (as described within ‘Initial testing of farm stock’).
+
+3.2.3 External surveillance requirements
+
+Biosecurity measures applied in a farm compartment should be appropriate to the level of exposure through adjacent populations of abalone.  The disease status of the area in which a compartment is sited and thus the exposure of a compartment to disease is rarely static. Therefore, ongoing monitoring will help identify any significant change in the level of exposure for identified pathways.
+
+Additional consideration must be undertaken where compartments are located in regions where AVG is considered to be endemic in wild abalone populations (Criteria 3). Active surveillance of the surrounding marine environment aimed at identifying potential sources of infection associated with farm intake water is problematic and provides only intermittent data from an environment without adequate biosecurity controls.
+
+As an alternative, maintenance of the compartment (farm) sentinel population provides ongoing support of disease freedom within the compartment population as well as intake water, and is a major contributor to demonstrating ongoing disease freedom. However, farm location must also be considered in such cases. Distance from wild abalone populations and abalone processors should be investigated. The risk of disease transfer to farm compartments via intake water is primarily determined by:
+
+The presence or absence of clinical disease within adjacent wild abalone or processor populations. If passive surveillance systems are in place and clinical disease is not observed to be present then risk of transfer to the farm compartment is considered to be very low.
+
+The distance the compartment is located from the wild abalone or processor populations. AVG is considered to remain viable within the water column for approximately 24 hours at temperatures commonly found along the south coast of Australia, whilst distance also has a significant dilution effect on virus levels. Modelling undertaken in Tasmania has suggested that a distance of 5 km is required to reduce levels of viable virus load by <99% (Unpublished data). Distances would be less at higher ambient temperatures found on mainland Australia, but would also be dependent on water current. The modelling did not take into account significant dilution that would occur as distance increased, thus 5km is considered to be highly conservative.
+
+Whether processors had adequate decontamination processes applied to water outflows, and whether these processes were regularly audited.
+
+When assessing the surrounding environment, the Competent Authority should take into account the following potential sources of disease:
+
+Whether the farm is located adjacent to abalone habitat. Where the farm compartment is located within 5 km of natural abalone habitat, early detection reporting mechanisms (passive surveillance) for mortalities must be in place. This will ensure clinical disease in wild populations is identified and such early reporting mechnisms must be developed and documented as part of the compartment biosecurity plan. In most cases this reporting may be achieved through the use of commercial and recreational fishing communication networks.
+
+If the farm compartment is located within 5 km of an abalone processor, then this processor must have an approved and audited decontamination process applied to water outflow. If the processor does not have adequate treatment of water outflow, the farm compartment must apply appropriate decontamination to water intake. Guidelines for assessing seawater decontamination processes are available from the Tasmanian State government.
+
+Ongoing monitoring of the abalone populations external to the farm compartment will therefore be provided by:
+
+Sentinel abalone (as established for internal surveillance)
+
+External monitoring of the surrounding area proportionate to risk
+
+Investigation of any abalone found to be dead or diseased through the external monitoring system or by other means.
+
+Definition of terms used (sourced from WOAH Aquatic Animal Health Code, unless otherwise indicated)
+
+Basic biosecurity conditions – means a set of conditions applying to AVG in a compartment required to ensure adequate disease security, such as:
+
+the disease, including suspicion of the disease, is compulsorily notifiable to the Competent Authority (CA); and
+
+an early detection system is in place within the zone; and
+
+import requirements to prevent the introduction of disease into the zone, as outlined in the WOAH Aquatic Code, are in place.
+
+Biosecurity plan - Biosecurity plan means a plan that identifies potential pathways for the introduction and spread of disease in a zone or compartment, and describes the measures which are being or will be applied to mitigate the disease risks, if applicable, in accordance with the recommendations in the WOAH Aquatic Code.
+
+Compartment – one or more aquaculture establishments under a common biosecurity management system containing an abalone population with a distinct health status with respect to AVG for which sanitary measures are applied and basic biosecurity conditions are met for the purposes of trade or stock movement. Such compartments must be clearly documented and approved by the Competent Authority.
+
+The compartment boundary includes all of the licenced land-based site including all operational components from the point where water enters the site through the inlet pipe and exits the site through the outlet pipe. This includes settlement ponds, hatcheries and other infrastructure within the boundary.  In addition to the physical boundaries described, premises may be required to establish a ‘monitored area’ around the water intake for monitoring purposes. These are the boundaries of the site and are considered the responsibility of the farm. Where farms are not able to exclude or inactivate pathogens from intake water they will need to demonstrate that the farms water is drawn from an area of extremely low risk to the satisfaction of the requirements of the Competent Authority. (see Article 4.2.3 WOAH Aquatic Code).
+
+Competent Authority (CA) –means the Veterinary Authority or other relevant Governmental Authority having the responsibility and competence for ensuring or supervising the implementation of animal health measures or veterinary health certification. This may include State, Territory or Commonwealth governments and their departments.
+
+Infected abalone - as defined by the WOAH for both suspect and confirmed cases (see below from Chapter 2.4.1 Manual of Diagnostic Tests for Aquatic Animals 2012).
+
+Minimum period- the period that an approved biosecurity plan must be established before, such to surveillance requirements, a compartment may be considered free of AVG. For the purposes of this document the minimum period for AVG accreditation is considered to be 6 months which also includes a summer period.
+
+Sentinel - being an individual or part of a population potentially susceptible to an infection or infestation that is being monitored for the appearance or recurrence of the causative pathogen or parasite (Merriam-Webster Medical Dictionary)
+
+Surveillance - means a systematic series of investigations from a test population considered to be representative of the target population of aquatic animals to detect the occurrence of disease for control purposes, and which may involve testing samples of a population.
+
+Zone –means a portion of one or more states comprising:
+
+an entire water catchment from the source of a waterway to the estuary or lake, or
+
+more than one water catchment, or
+
+part of a water catchment from the source of a waterway to a barrier that prevents the introduction of a specific disease or diseases, or
+
+part of a coastal area with a precise geographical delimitation, or
+
+an estuary with a precise geographical delimitation,
+
+that consists of a contiguous hydrological system with a distinct health status with respect to a specific disease or diseases. The zones must be clearly documented (e.g. by a map or other precise locators such as GPS coordinates) by the Competent Authority(ies).
+
+Appendix 1: Epidemiological assumptions
+
+Appendix 2: Example of surveillance for an approved farm compartment (for guidance purposes only)
+
+Specific conditions
+
+An example list of required conditions for monitoring of disease within accredited premises is outlined below:
+
+the abalone farm must submit samples to a government laboratory to detect infection using a 2-stage sampling procedure to achieve a 95% confidence level of detecting infection when tested using agreed qPCR procedures;
+
+the abalone farm must also establish and maintain a sentinel population of 30 or more susceptible abalone within an area of the farm that receives discharge water from all tanks holding live abalone on the farm. Where the sentinel abalone population cannot be placed in a single common area to receive discharge from all tanks, multiple sentinel abalone populations must be used; and
+
+The abalone farm has the option of providing sentinels from across the farm that are moribund or recently dead to the laboratory in a timely manner for PCR testing.
+
+the abalone farm staff must check each sentinel population daily and submit any moribund abalone to a government laboratory to detect infection with all abalone submitted testing negative for AVG. The abalone farm must replace any moribund abalone in order to maintain a sentinel population of 30 or more; and
+
+Alternatively, where animals are selected from the whole farm it is assumed that regular checking of mortalities is occurring.
+
+every six months (or more frequently as required) the abalone farm must submit all abalone within the sentinel population/whole farm to a government laboratory to detect infection with all abalone testing negative for AVG. Where a sentinel populaiton is used, it must be immediately replaced by an equivalent population of abalone that is monitored for the next 6-month period; and
+
+the abalone farm must maintain accurate records of all abalone removed from the sentinel population or whole farm for testing purposes and provide these records for examination during audits of compliance. Audits of farm records, biosecurity and test results, together with farm inspections, must be undertaken by an approved third party annually.
+
+Appendix 3: Useful references
+
+Bondad-Reantaso M.G., McGladdery S.E., East I. and Subasinghe R.P. (eds.) (2001) ‘Asia Diagnostic Guide to Aquatic Animal Diseases. FAO Fisheries Technical Paper No. 402, Supplement 2. Rome, FAO. 2001.
+
+Cameron A (2004) ‘Principles for the design and conduct of surveys to show presence or absence of infectious disease in aquatic animals.’ National Aquatic Animal Health Technical Woking Group – Policy Document, May 2004.
+
+Cameron A (2002) ‘Survey Toolbox for aquatic animal diseases. A practical manual and software package.’ ACIAR Monograph No. 94.
+
+Corbeil S., Colling A., Williams L., Wong F., Savin K., Warner S., Murdoch B., Cogan N., Sawbridge T., Fegan M., Mohammad I., Sunarto A., Handlinger J., Pyecroft S., Douglas M., Chang P. and Crane M. (2010) ‘Development and validation of Taqman PCR for Australian abalone herpes-like virus’ Diseases of Aquatic Organisms, Vol 92, 1-10.
+
+Corbeil S, Williams L, Warner S, Fegan M, Moody N, IIham M, Ellard K, Caraguel C, Deveney M, Cowley J, and Crane M (2014) FRDC Aquatic Animal Health Subprogram: Characterisation of abalone herpes-like virus infections in abalone. FRDC Project No. 2009/032, 2014.
+
+Corbeil S.et al (in progress). Determination of susceptibility of various abalone species and populations to the various known AbHV genotypes. FRDC Milestone Report No. 6 2013/001
+
+Jones B (2005) ‘Aquatic Animal Health Subprogram: Technical Guidelines for the Translocation of Live Aquatic Animals (with reference to barramundi nodavirus)’ FRDC Report 2005/640.
+
+Jones B and Stephens F (2006) ‘Aquatic Animal Health Subprogram: Development of a National Translocation Policy using Abalone and Prawns as Templates for Other Aquatic Species. FRDC Report 2004/080.
+
+WOAH (2024) ‘Aquatic Animal Health Code’ 2024 Edition, World Organisation for Animal Health
+
+Rodgers C.J., Mohan C.V. and Peeler E. J. (2011) ‘The spread of pathogens through trade in aquatic animals and their products’, Rev. Sci. Tech. Off. Int. Epiz., 2011, 30(1), 241-256.
+
+Zepeda C., Jones J.B. and Zagmutt F.J (2008) ‘Compartmentalisation in aquaculture production systems’, Rev. Sci. Off. Int. Epiz., 2008, 27(1), 229-241.

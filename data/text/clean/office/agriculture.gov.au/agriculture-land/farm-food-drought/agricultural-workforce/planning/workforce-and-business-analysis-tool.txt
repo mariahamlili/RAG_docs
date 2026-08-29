@@ -1,0 +1,73 @@
+## Summary page
+Summary page
+Line item | Jul | Aug | Sept | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | Jun
+Employment Cost
+Labour costs (wages) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Workforce management costs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Total Employment Cost | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Total Operation Costs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Running Balance | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+## Labour cost
+Labour Costs
+Jul | Aug | Sept | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | Jun
+Casual employees
+Total hours for the month
+Hourly rate (AUD $)
+Total cost for the month | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Permanent employees
+Total hours for the month
+Hourly rate (AUD $)
+Total cost for the month | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Picking by bins
+Number of bins
+Rate per bin (AUD $)
+Total cost for the month | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Grand total for labour costs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+## Workforce cost
+Workforce Management Costs
+Activity (cost in AUD $) | Jul | Aug | Sept | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | Jun
+Insurance
+Work, Health & Safety
+Training
+Staff welfare
+Staff travel & accommodation expenses
+Admin staff
+Legal staff
+Financial staff
+Miscellaneous (please add)
+Total workforce management cost | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+## Operations cost
+Operations Costs
+Items | Jul | Aug | Sept | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | Jun
+Water (incl other irrigation costs, water purchase)
+Energy
+Fuel & oil
+Fertiliser
+Pest & disease control
+Farm machinery - maintenance, replacement, investment
+Post harvest logistics - travel, packaging, fruit care, bins, etc
+Marketing
+Compliance
+Insuraces
+Overall maintenance and repairs
+Rent/lease payment
+IT and technology related costs
+Miscellaneous
+Total Operations Cost | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
+## Income
+Income
+Farming blocks | Jul | Aug | Sept | Oct | Nov | Dec | Jan | Feb | Mar | Apr | May | Jun
+Block 1
+Block 2
+Block 3
+Block 4
+Block 5
+Block 6
+Block 7
+Block 8
+Block 9
+Block 10

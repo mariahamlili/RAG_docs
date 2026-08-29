@@ -1,0 +1,1238 @@
+Date of issue: 20 July 2026
+This notice provides guidance on how to use the print indicator for generating and receiving meat
+certificates to avoid potentially unnecessary replacement certificate charges.
+Key points
+NEXDOC offers options when an export certificate can be generated and printed.
+If ‘automatic’ is selected, the certificate will be generated and immediately sent to print. Any
+changes or amendments made after the certificate has printed may incur a replacement
+certificate charge.
+To control when the certificate is sent to the printer, clients can select ‘hold’. This allows changes
+to be made prior to the certificate being printed, thus not incurring any potential replacement
+certificate charges. Once satisfied that no further changes are required, ‘release to print’ can then
+be selected. This will ensure that only the original certificate is charged and not a replacement
+certificate.
+Print indicator selection
+The print indicator in NEXDOC allows the client to control when a certificate can be generated and
+printed.
+If ‘automatic’ is selected, the certificate will automatically generate and print once the REX reaches
+COMP status.
+If printing to a regional office, the certificate will automatically print at that location and the
+usual collection procedure applies. However, for REXs to date-sensitive markets that require a
+vet signature and/or cross outs, having the certificate automatically print outside of normal
+business hours may impact the department’s ability to issue the certificate to meet importing
+country requirements (e.g. same day signature or signature prior to departure).
+Automatic printing may also result in certificates moving to COMP before exporters can amend
+fields intended for completion later in the supply chain (i.e. certificates may reach COMP and will
+print before fields containing ‘tbc’ can be amended).
+If using your own printer, the certificate will automatically generate but the print button will need
+to be selected on the certificate screen to direct it to the printer.
+If ‘hold’ is selected, the certificate will remain in draft and the REX will remain at ‘Certificate Ready’
+(CTRD) status until it is ready to be generated and printed.
+To generate the certificate, select ‘release to print’ on the REX page. This will push the REX from CTRD
+status to COMP status.
+• 
+• 
+• 
+• 
+• 
+•
+
+The options for the print indicator and print destination are selected when lodging the REX. These
+options are contained within the Additional Details tab. NEXDOC will show the available options based
+on the incoming country requirements selected at the start of the REX application.
+More information
+For further information, refer to Printing in the NEXDOC portal or contact the NEXDOC Helpdesk.
+Date of issue: 7 July 2026
+This notice reminds exporters and businesses of key NEXDOC setup requirements for meat exports,
+including remote print, client group tokens, and halal certifying bodies.
+Enabling remote print for all client groups
+Exporters and businesses finalising their NEXDOC setup for meat exports should ensure remote print
+has been selected for each relevant client group where certificates will be printed from business
+premises. Remote print permissions are managed at the client group level and must be requested for
+each applicable client group. This includes adding the meat commodity to your existing account.
+If remote print has not been selected for all your client groups, exporters and businesses will be unable
+to print certificates on their own printer and they will be required to access printing through a
+departmental regional office, subject to importing country requirements.
+To check that your client group has remote print, refer to Manage your details user guide or How to add
+a new commodity to my existing profile user guide.
+Identify your client group and member tokens
+Client group tokens, client group IDs and member tokens, are generated automatically in NEXDOC.
+These details are required to connect third-party software to NEXDOC and to enable individual client
+group members to use that software. Instructions on locating these details are provided in the Locate
+your client group token and ID user guide.
+Halal certification changes
+If you select your product as halal, you are required to provide an approved certifying body in
+NEXDOC, irrespective of whether a halal certificate is required. This is a change from EXDOC. This
+requirement applies to all halal product lines and should be confirmed before submitting a Request for
+Export. The fact sheet for Halal Certifications has been updated to clarify this change.
+More information
+For further information, refer to the NEXDOC meat user guides or contact the NEXDOC Helpdesk.
+Date of issue: 24 June 2026
+
+Attention
+Meat exporters, meat establishments, exporter agents, and freight forwarders, approved Islamic
+organisations, and organic approved certifying bodies.
+Central and regional offices of the Department of Agriculture, Fisheries and Forestry (the
+department).
+Purpose
+To inform stakeholders that:
+The Next Export Documentation (NEXDOC) system will replace the Export Documentation
+(EXDOC) system for meat export documentation from Monday 6 July 2026; and
+There are critical EXDOC documentation cut-off dates.
+Key points
+NEXDOC will become available for lodgement of meat export documentation requests and will
+issue meat export certification from Monday 6 July 2026.
+EXDOC Requests for Permit (RFPs) for China must be completed and certificates printed by
+5.00pm AEST Friday 3 July 2026.
+RFPs for countries other than China may be lodged in EXDOC until 5.00pm AEST Sunday 5 July
+2026.
+Exporter Declaration Numbers (EDNs) obtained via the EXDOC Single Electronic Window
+(SEW) cannot be transferred to NEXDOC.
+RFPs for countries other than China have until Friday 31 July 2026 to be completed, provided
+they were lodged (at initial (INIT), final (FINL), inspected (INSP), or health certificate ready
+(HCRD) statuses) by 5.00pm AEST Sunday 5 July 2026.
+If you are an existing EXDOC Approved Quality Assurance (AQA) holder, you MUST register in
+NEXDOC before applying for Approved Export Permit Declarant (AEPD) status. 
+NEXDOC brings new functionality that will support industry, including introducing changes to
+certification such as printing on plain paper and the introduction of QR codes.
+Some terminology and processes will change. An EXDOC RFP is referred to as a Request for
+Export (REX) in NEXDOC. More information about the transition from EXDOC to NEXDOC can
+be found in NEXDOC – What’s changing.
+Transition period
+From Monday 6 July 2026, meat exporters (or their agents) must lodge new export
+documentation requests for meat and meat products in NEXDOC.
+RFPs for destination countries other than China that were at INIT, FINL, INSP, or HCRD
+statuses must be completed and certificates printed by 5.00pm AEST Friday 31 July 2026.
+RFPs for China must be completed and certificates printed by 5.00pm AEST Friday 5 July 2026
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+During this transition period, you must ensure that:
+EXDOC certificates continue to be printed on security paper.
+NEXDOC certificates are printed on plain white paper.
+Further information about NEXDOC certificate changes can be found at NEXDOC - FAQs
+Certificate changes.
+Consignments to the People’s Republic of China – hard cut-
+off
+Goods departing for China on or before 5 July 2026 must be at complete (COMP) status with
+certificates printed prior to 5.00pm AEST Friday 3 July 2026.
+EXDOC certificates printed after this time may not be accepted by China’s import authorities and
+the department is unlikely to be able to facilitate clearance at the border.
+You will not be able to lodge a REX for goods that have already departed.
+If you require replacement of an EXDOC certificate, please email the EXDOC Helpdesk at 
+exdoc.helpdesk@aff.gov.au
+Consignments to countries other than China
+There is a transition/grace period for other importing countries.
+Other countries will not accept EXDOC certification dated after Friday 31 July 2026.
+RFPs must be set to complete (COMP) status and certificates printed in time for the goods to be
+cleared by the importing country.
+RFPs in EXDOC not at COMP status by 5.00pm AEST Friday 31 July 2026 will be forfeited.
+SEW to the Integrated Cargo System (ICS)
+NEXDOC, like EXDOC, offers an SEW service for requesting and updating export declarations in the
+Australian Border Force’s ICS. However, the EXDOC RFP and NEXDOC REX services are separate.
+This means that:
+EDNs cannot be transferred from EXDOC RFPs to NEXDOC REXs.
+Meat exporters remain responsible for managing EDNs as per ABF requirements. 
+Actions for organic exporters and halal certifiers
+There is no change to the lodgement, endorsement, and signing procedures for the organic export
+sector as well as halal certification operations for approved Islamic organisations (AIOs).
+AIOs should note the key dates detailed in this notice and work with exporters to ensure halal
+certificates are printed, endorsed, and signed in accordance with these dates.
+• 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Reminder to register NOW
+To continue exporting without disruption, all meat exporters, establishments, EXDOC RFP Declarants
+(AQA users), and third-party software (EDI) users must ensure their relevant registrations and
+approvals are completed in NEXDOC before Monday 6 July 2026.
+Failure to completely and fully register for NEXDOC before Monday 6 July 2026 means users will not
+be able to access the system and exporters will NOT be able to export.
+Businesses need to register now to allow sufficient time for account setup, validation, and approval
+processes. Further information on how to register may be found at Registrations open for NEXDOC
+meat.
+Late registrations will be available, however processing times will impact the ability to export.
+Approved Export Permit Declarant (AEPD)
+Request for Permit (RFP) Declarants, known as AQA users in EXDOC, will become AEPDs in NEXDOC.
+AQA IDs used in EXDOC will not be transferred. Each declarant must apply for AEPD for Meat and for
+each establishment where declarations will be made. 
+Once approved, the AEPD permission will be added to the individual’s user account for each approved
+establishment. ID’s will not be issued as they are no longer necessary.
+Anyone who intends to lodge export declarations for meat in NEXDOC must apply for an AEPD. To do
+this, an applicant must create a NEXDOC account before applying for an AEPD. Further information
+can be found at NEXDOC Approved Export Permit Declarant (AEPD).
+Working with third‑party software providers
+Exporters and agents who lodge export documentation using third‑party software must engage with
+their software provider as early as possible to confirm readiness for NEXDOC. While the department is
+working closely with all identified software vendors to support their transition, businesses remain
+responsible for ensuring their registrations and software connections are in place before the transition
+date. Delays in engaging with software providers or using incomplete third-party software prior to
+transition may result in the inability to lodge export documentation in NEXDOC.
+Date of issue: 24 June 2026
+Attention: Important Announcement – Go live Date for
+Meat and Meat Products into NEXDOC
+We wish to advise that the go live date for Meat and Meat products transitioning to NEXDOC is
+scheduled for Monday 6 July 2026.
+
+Further details on the transition, including key dates, can be found in IAN 2026-26 - NEXDOC – Meat
+and Meat Products into NEXDOC – EXDOC Cut Off Dates.
+Ensure that your NEXDOC registration is complete. For further information on registration
+requirements and the NEXDOC benefits and changes, please visit our fact sheets. There you’ll find
+guidance on how to register, what’s changing, and resources to support the transition.
+Support is available throughout this process. If you have questions or require assistance, please reach
+out to the NEXDOC Helpdesk or participate in our scheduled drop-in sessions.
+Date of issue: 10 June 2026
+Important Announcement – Change to the NEXDOC Go Live Date for Meat
+We wish to advise that the go live date for Meat and Meat products transitioning to NEXDOC,
+scheduled for Monday 15 June 2026, has been delayed for a short period.
+A new date will be communicated shortly. Please continue to raise your export documentation in
+EXDOC until further notice.
+Ensuring your registration is up to date is still important. For further information on registration
+requirements and the NEXDOC benefits and changes, please visit our fact sheets. There you’ll find
+guidance on how to register, what’s changing, and resources to support the transition.
+Support is available throughout this process. If you have questions or require assistance, please reach
+out to the NEXDOC Helpdesk or participate in our scheduled drop-in sessions.
+The information provided in this advice is current at the time of writing and is intended for use as
+guidance only and should not be taken as definitive or exhaustive. The Commonwealth endeavours to
+keep information current and accurate, however, it may be subject to change without notice. Exporters
+are encouraged to verify these details with their importers prior to undertaking production/exports.
+The Commonwealth will not accept liability for any loss resulting from reliance on information
+contained in this notice.
+Date of issue: 20 May 2026
+Attention
+Meat exporters, meat establishments, exporter agents, and freight forwarders, approved Islamic
+organisations, and organic approved certifying bodies.
+Central and regional offices of the Department of Agriculture, Fisheries and Forestry (the
+department).
+• 
+•
+
+Purpose
+To inform stakeholders that:
+The Next Export Documentation (NEXDOC) system will replace the Export Documentation
+(EXDOC) system for meat export documentation from Monday 15 June 2026; and
+There are critical EXDOC documentation cut-off dates.
+Key points
+NEXDOC will become available for lodgement of meat export documentation requests and will
+issue meat export certification from Monday 15 June 2026.
+EXDOC Requests for Permit (RFPs) for China must be completed and certificates printed by
+5.00pm AEST Friday 12 June 2026.
+RFPs for countries other than China may be lodged in EXDOC until 5.00pm AEST Sunday 14
+June 2026.
+Exporter Declaration Numbers (EDNs) obtained via the EXDOC Single Electronic Window
+(SEW) cannot be transferred to NEXDOC.
+RFPs for countries other than China have until Friday 10 July 2026 to be completed, provided
+they were lodged (at initial (INIT), final (FINL), inspected (INSP), or health certificate ready
+(HCRD) statuses) by 5.00pm AEST Sunday 14 June 2026.
+If you are an existing EXDOC Approved Quality Assurance (AQA) holder, you MUST register in
+NEXDOC before applying for Approved Export Permit Declarant (AEPD) status. 
+NEXDOC brings new functionality that will support industry, including introducing changes to
+certification such as printing on plain paper and the introduction of QR codes.
+Some terminology and processes will change. An EXDOC RFP is referred to as a Request for
+Export (REX) in NEXDOC. More information about the transition from EXDOC to NEXDOC can
+be found in NEXDOC – What’s changing.
+Transition period
+From Monday 15 June 2026, meat exporters (or their agents) must lodge new export
+documentation requests for meat and meat products in NEXDOC.
+RFPs for destination countries other than China that were at INIT, FINL, INSP, or HCRD
+statuses must be completed and certificates printed by 5.00pm AEST Friday 10 July 2026.
+RFPs for China must be completed and certificates printed by 5.00pm AEST Friday 12 June 2026
+During this transition period, you must ensure that:
+EXDOC certificates continue to be printed on security paper.
+NEXDOC certificates are printed on plain white paper.
+Further information about NEXDOC certificate changes can be found at NEXDOC - FAQs
+Certificate changes.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+•
+
+Consignments to the People’s Republic of China – hard cut-off
+Goods departing for China on or before 14 June 2026 must be at complete (COMP) status with
+certificates printed prior to 5.00pm AEST Friday 12 June 2026.
+EXDOC certificates printed after this time may not be accepted by China’s import authorities and
+the department is unlikely to be able to facilitate clearance at the border.
+You will not be able to lodge a REX for goods that have already departed.
+If you require replacement of an EXDOC certificate, please email the EXDOC Helpdesk at 
+exdoc.helpdesk@aff.gov.au
+Consignments to countries other than China
+There is a transition/grace period for other importing countries.
+Other countries will not accept EXDOC certification dated after Friday 10 July 2026.
+RFPs must be set to complete (COMP) status and certificates printed in time for the goods to be
+cleared by the importing country.
+RFPs in EXDOC not at COMP status by 5.00pm AEST Friday 10 July 2026 will be forfeited.
+SEW to the Integrated Cargo System (ICS)
+NEXDOC, like EXDOC, offers an SEW service for requesting and updating export declarations in the
+Australian Border Force’s ICS. However, the EXDOC RFP and NEXDOC REX services are separate.
+This means that:
+EDNs cannot be transferred from EXDOC RFPs to NEXDOC REXs.
+Meat exporters remain responsible for managing EDNs as per ABF requirements. 
+Actions for organic exporters and halal certifiers
+There is no change to the lodgement, endorsement, and signing procedures for the organic export
+sector as well as halal certification operations for approved Islamic organisations (AIOs).
+AIOs should note the key dates detailed in this notice and work with exporters to ensure halal
+certificates are printed, endorsed, and signed in accordance with these dates.
+Reminder to register NOW
+To continue exporting without disruption, all meat exporters, establishments, EXDOC RFP Declarants
+(AQA users), and third-party software (EDI) users must ensure their relevant registrations and
+approvals are completed in NEXDOC before Monday 15 June 2026.
+Failure to completely and fully register for NEXDOC before Monday 15 June 2026 means users will not
+be able to access the system and exporters will NOT be able to export.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Businesses need to register now to allow sufficient time for account setup, validation, and approval
+processes. Further information on how to register may be found at Registrations open for NEXDOC
+meat.
+Late registrations will be available, however processing times will impact the ability to export.
+Approved Export Permit Declarant (AEPD)
+Request for Permit (RFP) Declarants, known as AQA users in EXDOC, will become AEPDs in NEXDOC.
+AQA IDs used in EXDOC will not be transferred. Each declarant must apply for AEPD for Meat and for
+each establishment where declarations will be made. 
+Once approved, the AEPD permission will be added to the individual’s user account for each approved
+establishment. ID’s will not be issued as they are no longer necessary.
+Anyone who intends to lodge export declarations for meat in NEXDOC must apply for an AEPD. To do
+this, an applicant must create a NEXDOC account before applying for an AEPD. Further information
+can be found at NEXDOC Approved Export Permit Declarant (AEPD).
+Working with third‑party software providers
+Exporters and agents who lodge export documentation using third‑party software must engage with
+their software provider as early as possible to confirm readiness for NEXDOC. While the department is
+working closely with all identified software vendors to support their transition, businesses remain
+responsible for ensuring their registrations and software connections are in place before the transition
+date. Delays in engaging with software providers or using incomplete third-party software prior to
+transition may result in the inability to lodge export documentation in NEXDOC.
+Date of issue: 8 April 2026
+Important Announcement – Change to the NEXDOC Go Live Date
+We wish to advise that the go live date for Meat and Meat products transitioning to NEXDOC, originally
+scheduled for Monday 20 April 2026, has been moved to Monday 15 June 2026.
+This adjustment follows consultation with industry partners and careful consideration of feedback
+received. The revised date will allow additional preparation time.
+For further information on registration requirements and the NEXDOC benefits and changes, please
+visit our fact sheets. There you’ll find guidance on how to register, what’s changing, and resources to
+support the transition.
+We strongly encourage all users to contact their software providers and take this opportunity to
+thoroughly test their software ahead of the new go live date. Early engagement and proactive testing
+will help ensure a smooth transition.
+
+Support is available throughout this process. If you have questions or require assistance, please reach
+out to the NEXDOC Helpdesk or participate in our scheduled drop-in sessions.
+Date of issue: 3 April 2026
+Attention
+All EXDOC registered users and EDI users
+Department of Agriculture, Fisheries and Forestry (the department) – all users of EXDOC
+Purpose
+This notice advises the unplanned system outage impacting the Export Documentation System
+(EXDOC) has been resolved.
+Key points
+The previous outage impacting the progression of Requests for Permit (RFPs) from HCRD to
+COMP status, affecting certificates being printed remotely and in regional offices has been
+resolved as around 10.30pm AEDT, Thursday 2 April 2026.
+RFPs that were unable to progress during the outage have now been pushed to COMP status and
+certificates have printed.
+Exporters and EDI users are now able to progress their own RFPs to COMP, where appropriate.
+Where certificates are set to print in a regional office, consignments to markets requiring
+certificates to be issued prior to departure will be prioritised.
+Remote users can expect certificates to have printed.
+For those needing to collect certificates at a regional office, please follow the below steps:
+After-hours collection at regional offices
+Clients requiring urgent, prior-to-departure certificate collection must submit an overtime request to 
+foodexports@aff.gov.au using the following subject line:
+Client Query – Overtime Request – Collection – RFP number – Exporter name – Day/Date – Regional
+office
+To ensure efficient collection:
+All RFP applications must be complete (status COMP).
+A completed collection list must be emailed to Food Exports using the subject line above.
+Clients must wait for written confirmation from Food Exports that certificates are ready before
+attending the regional office.
+Please take note of any pickup instructions as processes/building access arrangements can
+change outside of business hours.
+Please note overtime charges will NOT apply for out of hours collections.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦
+
+Date of issue: 24 February 2026
+Purpose
+To advise that NEXDOC Meat is replacing EXDOC Meat from 20 April 2026 and that NEXDOC meat
+registrations are now open.
+This notice explains the registration steps required in NEXDOC for meat exports. It outlines what
+exporters, third-party software users, and AQA (RFP Validator) users must do before the transition
+from EXDOC.
+What’s changing
+Registrations are now open for NEXDOC for meat export documentation. Information can be
+found on NEXDOC benefits and changes
+Please be advised that the department will soon transition from Online Services to the Export
+Service. We strongly recommend verifying your identity with myID when registering for Online
+Services. This will assist in a smoother transition when the time comes to register on the Export
+Service to connect to NEXDOC.
+Registration requirements and process
+To continue exporting meat or playing your role in meat export documentation after the transition,
+businesses must complete the relevant registrations in NEXDOC.
+Online Services Account
+Before registering, all users must first create an Online Services account and use it to access the
+NEXDOC portal. Once a user has an account, they can register an Exporter, a Client Group, be added to
+a Client Group or request to become an Approved Export Permit Declarant.
+Exporter registration
+Identifies a business as the legal owner of goods and ensures exporter details appear correctly on
+export documentation.
+The person who registers an exporter in NEXDOC must first create an Online Services account,
+after which they can access the NEXDOC portal to create an exporter account. See user guide
+NEXDOC – Create a NEXDOC Exporter account on the NEXDOC help page.
+Note: NEXDOC exporters can lodge export requests directly via the NEXDOC portal, without using
+third-party software. However, NEXDOC portal users must complete the entire request for export
+themselves and may only print certificates on their own printer or at a regional office.
+Client Group registration (equivalent to EDI users in EXDOC)
+Required for businesses submitting through third-party software, whether to submit/lodge/
+amend/authorise/print meat export documentation in NEXDOC.
+• 
+• 
+• 
+• 
+•
+
+Client Group registration links an organisation to NEXDOC for submissions, enables set up of
+third-party software, and management of users and permissions.
+To register as a Client Group in NEXDOC, a company representative must first create an online
+services account, after which they can register the client group. See user guide How to register as
+a Client Group on the NEXDOC help page.
+Client Group Members (individuals who use third-party software)
+Any individual who will use a company’s third-party software must have an Online Services
+account and be a Client Group member before they can use third- party software.
+Once an individual has their online services account, the Client Group administrator can add
+them to the Client Group.
+Client Group registration
+Required for businesses lodging through third-party software.
+Approved Export Permit Declarant (AEPD, formerly AQA in EXDOC)
+EXDOC AQA IDs used will not be carried over into NEXDOC.
+If you are an active EXDOC AQA User and you will continue to authorise meat exports in
+NEXDOC, you must register as an Approved Export Permit Declarant (AEPD):
+First, create an Online Services account.
+If you are acting for a company that uses third-party software, have the NEXDOC Client
+Group Administrator add you to the Client Group.
+If you are acting for an exporter establishment that is using the NEXDOC Portal only, have
+the NEXDOC Exporter administrator add you as a user to the exporter registration.
+Submit an Approved Export Permit Declarant (AEPD) application form for each
+establishment for which you will be authorising REXs.
+Note: The department will only approve an application if you are listed in in that
+establishment’s Management and Control.
+First, create an 
+Note: You must be listed in Management or Control and possess an active AQA ID that is linked to the
+establishment(s) you submit AEPD applications for. If you are not listed, your establishment must
+amend their registration to have you listed in Management or Control and have it approved before your
+AEPD status can be activated.
+More information can be found here:
+Change people in management or control | Export Service
+Fact sheet - Approved Export Permit Declarant (AEPD) on the Meat and Meat Products
+Transition to NEXDOC page.
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+• 
+•
+
+Important notes
+A date for transition as well as transition advice will be announced soon; please ensure you
+subscribe to any departmental notices to keep across the transition.
+Use Chrome or Edge to access the NEXDOC portal. Internet Explorer is not supported.
+Exporters who use third-party software must register both an exporter account and a client group
+account.
+You must print NEXDOC certificates on plain paper only. Do not reproduce multiple copies.
+Misuse may result in detained consignments.
+If you utilise third-party software, we recommend engaging with your third-party software
+transition.
+Frequently Asked Questions (FAQs)
+Q1. I am an exporter and I use third-party software. What do I need to do?
+You must register a Client Group in NEXDOC and ensure your business is also registered as an
+Exporter. Client Group enables you to connect with third-party software.
+Q2. I have an EXDOC AQA ID—do I still use it?
+No. NEXDOC does not use AQA IDs. Each declarant must have an Online Services account, be linked to
+the correct organisation, and have AEPD status activated for each establishment.
+Q3. I work across multiple establishments. Do I need to submit multiple AEPD forms?
+Yes. You must submit a separate AEPD application for each establishment where you will make
+declarations.
+Q4. What happens if I don’t register before go-live?
+You will not be able to lodge or declare in NEXDOC until all relevant registration and validation are
+complete. Late registrations will be supported, but delays will likely occur.
+Q5. Do I need to register if I’m already in NEXDOC for another commodity?
+Yes. You must add Meat to your existing Exporter and/or Client Group registrations. If you export beef,
+sheep, or goat meat, you must also ensure that your meat licence and shipping mark prefix are recorded
+in your NEXDOC exporter registrations.
+Q6. What browsers can I use for the NEXDOC Portal?
+Use Google Chrome or Microsoft Edge. Internet Explorer is not supported.
+Q7. Will certificates look different?
+Yes. Certificates will be printed on plain A4 paper and include a QR code for security. Blue security
+paper will no longer be used.
+Q8. Can I use the NEXDOC portal instead of my software?
+Yes, if you are registered as an exporter, you can lodge requests directly through the NEXDOC portal.
+However, please note that the portal does not include all the functionality available in third-party
+software. For example, features such as forwarding a Request for Export (REX) between users such as
+• 
+• 
+• 
+• 
+•
+
+to print your certificate in your freight forwarders office are only available through integrated software
+solutions.
+Q9. Does the department work with third-party software providers during this transition?
+Yes. The department is actively engaging with all identified software vendors to ensure their systems
+are ready for NEXDOC Meat. We provide technical specifications, testing environments, and ongoing
+support to help vendors implement the required changes. However, it is important that exporters and
+agents also engage directly with their software provider early to confirm requirements and avoid delays.
+Q10. I am an Automated Export Permit Issuer (AEPI) for another commodity (Dairy, Eggs or Fish). Do
+I need to register separately for AEPD for meat?
+Yes. Even if you already hold AEPI status for another commodity in NEXDOC, you must submit a
+separate AEPD application for meat. This is because AEPD permissions are linked to specific
+establishments and those listed must be in Management and Control.
+Support and resources
+Fact sheet and further information: are available on our Meat and Meat Products Transition to
+NEXDOC page.
+Dedicated webinar sessions that provide structured information and guidance on specific topics relating
+to NEXDOC: details will be published shortly.
+Help guides: are available on our NEXDOC help page.
+Email: NEXDOC@aff.gov.au
+Date of issue: 16 July 2025
+Attention
+EXDOC registered exporters, manufacturers, agents, freight forwarders
+NEXDOC registered exporters, manufacturers, agents, freight forwarders
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional
+offices
+Purpose
+This Industry Advice Notice (IAN) advises Export Documentation System (EXDOC) and Next Export
+Documentation (NEXDOC) users of a planned system outage and what they can do to minimise
+disruption to their exports.
+Key points
+The department has planned system maintenance that may result in an outage to EXDOC and
+NEXDOC certificates printing in departmental regional offices.
+• 
+• 
+• 
+•
+
+This system maintenance will occur between
+Thursday 17 July 2025 8pm and Friday 18 July 2025 5am (AEST).
+Certificates sent for printing in regional offices during this time may not be printed.
+What you can do
+Please allow extra time to manage your export documentation ahead of the outage or schedule it to be
+printed in regional offices after the outage window.
+Further information
+If you have any questions regarding this IAN, please contact the NEXDOC or EXDOC Helpdesk:
+Email: EXDOC.Helpdesk@aff.gov.au
+Email: NEXDOC@aff.gov.au
+Phone: 02 6272 4800.
+Date of issue: 12 June 2025
+Attention
+NEXDOC registered exporters, manufacturers, agents, freight forwarders
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional
+offices
+Purpose
+This Industry Advice Notice (IAN) advises Next Export Documentation (NEXDOC) users of a planned
+system outage and what they can do to minimise disruption to their exports.
+Key points
+The department has planned NEXDOC system maintenance that will require an outage to
+complete.
+NEXDOC will be unavailable between
+Sunday 15 June 11.00pm – Monday 16 June 1.00am (AEST).
+While unlikely, if there are issues, the outage may extend up to
+3:00am Monday 16 June 2025 (AEST).
+What you can do
+If you require export documents from NEXDOC dated Sunday 15 June, please ensure you obtain them
+before the outage.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Further information
+If you have any questions regarding this IAN, please contact the NEXDOC Helpdesk:
+Email: NEXDOC@aff.gov.au
+Phone: 02 6272 4800.
+Date of issue: 9 May 2025
+Attention
+Export Documentation System (EXDOC) EDI users
+Exporters who use EXDOC to obtain export permits or government certification for their
+agricultural products
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional
+offices
+Purpose
+This Industry Advice Notice (IAN) advises Export Documentation (EXDOC) users of planned systems
+maintenance on 10-11 May 2025 that may cause intermittent EXDOC outages.
+Outage details
+The department has planned systems maintenance from 00:00 Saturday 10 May to 23:59 Sunday
+11 May 2025 (AEST).
+EXDOC may be unavailable intermittently during the following periods:
+00:00 to 08:00 (AEST) on Saturday 10 May 2025
+16:00 to 23:59 (AEST) on Sunday 11 May 2025 (AEST).
+Outages should range from 3 to 15 minutes but could extend up to an hour.
+Impacts
+The maintenance work will not affect your software.
+Messaging sent to EXDOC while it is unavailable will queue. EXDOC will process all queued
+messaging on resumption.
+What you can do
+Please note the expected system outage timings.
+Where possible, ensure that you have all certificates, permits, and clear export declarations for time-
+sensitive exports prior to the outage windows. Otherwise, please allow extra time to manage your export
+documentation.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+• 
+•
+
+Further information
+If you have any questions regarding this IAN, please contact the EXDOC Helpdesk:
+Email: EXDOC.helpdesk@aff.gov.au
+Phone: 02 6272 4800
+Date of issue: 2 May 2025
+Attention
+NEXDOC registered exporters, manufacturers, agents, freight forwarders
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional
+offices
+Purpose
+This Industry Advice Notice (IAN) advises Next Export Documentation (NEXDOC) users of a planned
+system outage and what they can do to minimise disruption to their exports.
+Key points
+The department has planned NEXDOC system maintenance that will require an outage to
+complete.
+NEXDOC will be unavailable Sunday 4 May 8.00pm - 10.00pm (AEST).
+What you can do
+If you require export documents from NEXDOC dated Sunday 4 May, please ensure you obtain them
+before 8:00pm AEST.
+Further information
+If you have any questions regarding this IAN, please contact the NEXDOC Helpdesk:
+Email: NEXDOC@aff.gov.au
+Phone: 02 6272 4800
+Attention
+All NEXDOC portal and NEXDOC third party software users, all EXDOC EDI users, and all
+exporters who obtain documentation through either EXDOC or NEXDOC.
+Department of Agriculture, Fisheries and Forestry (the department) – all users of NEXDOC.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Purpose
+This notice advises of IT systems and infrastructure maintenance this weekend and the impacts on Next
+Export Documentation System (NEXDOC) users Export Documentation System (EXDOC) users.
+Key points
+The department is doing planned infrastructure maintenance on Saturday 29 March. This WILL
+NOT affect either EXDOC or NEXDOC users.
+There will be a NEXDOC outage between 21:00 and 23.59pm AEDT on Sunday 30 March 2025
+while the department upgrades the system.
+What you can do
+If you require export documents from NEXDOC dated Sunday 30 March, please ensure you obtain
+them before 21:00 AEDT.
+Further information
+The department apologises for any inconvenience caused by the Sunday upgrade.
+If you have any queries regarding urgent cargo, please call 02 6272 4800 and leave a call back number
+on the after-hours voicemail.
+Attention
+Exporters and freight forwarders with Request for Permit (RFP) certificates, Request for Export (REX)
+certificates, or manual certificates set to print in, obtain signature, or collect from the Brisbane office.
+Purpose
+This industry advice notice (IAN) is to advise exporters and freight forwarders that the Brisbane office
+will return to normal services from 9am AEST Tuesday 11 March 2025 and that certification services
+will resume printing and can be collected in the Brisbane office.
+Key points
+From 9am AEST on Tuesday 11 March 2025, the Brisbane office will reopen for business as usual.
+EXDOC and NEXDOC certificates will resume printing in the Brisbane office as at 9am AEST
+Tuesday 11 March 2025.
+Certificate collection and manual certification arrangements will return to normal at this time.
+• 
+• 
+• 
+• 
+•
+
+What you should do
+If you had a EXDOC or NEXDOC certificate print from Thursday 6 March to 9am AEST Tuesday
+11 March 2025 with Brisbane office as its print location, your certificate has printed at another
+office location.
+Please refer toIAN-25-11 for details on where your certificate has printed and what to do to obtain
+your certificate if you have not done so already.
+For all other certificates, please return to normal practice.
+Further information
+If you have any queries, please email the Export Systems Helpdesk at EXDOC.helpdesk@aff.gov.au or 
+NEXDOC@aff.gov.au
+Who does this notice affect?
+Exporters who use the Export Documentation System (EXDOC) or the Next Export Documentation
+System (NEXDOC) to obtain export declarations (EDNs) from the Australian Border Force’s (ABF)
+Integrated Cargo System (ICS) are affected.
+Outage details
+The outage affecting the ICS from approximately 11.30 AEDT has resolved.
+Residual impacts
+The ICS is working through a backlog of response messaging to EXDOC and NEXDOC.
+New messaging is being processed without delay.
+What you should do
+After allowing some time for the backlog to process, please check that you have your EDN and
+that any amendments are confirmed. For example, if you have changed the date of departure,
+please check that you have received a successful ICS response in your messaging.
+Further information
+If you have not received your EDN or if your updates have not gone through, please contact the Export
+Systems Helpdesk on exdoc.helpdesk@aff.gov.au or nexdoc@aff.gov.au.
+Who does this notice affect?
+Exporters who use the Export Documentation System (EXDOC) or the Next Export Documentation
+System (NEXDOC) to obtain export declarations (EDNs) from the Australian Border Force’s (ABF)
+Integrated Cargo System (ICS) are affected.
+• 
+• 
+• 
+• 
+•
+
+Outage details
+The ICS has been unavailable to external users since approximately 11.30 AEDT.
+The ICS is not receiving messaging from external clients, including from the department’s
+EXDOC and NEXDOC systems.
+External users cannot access the ICS user interface.
+Impacts
+Exporters are unable to obtain or update EDNs in the ICS, whether direct or via EXDOC or
+NEXDOC.
+The Export Systems Helpdesk is unable to assist with EDNs while the outage is current.
+What you can do
+You can check for ICS updates on the ABF website: ICS Performance - ICS Notification Service
+(abf.gov.au).
+Resolution and updates We will update when the outage resolves or if more information becomes
+available.
+For advice regarding your RFP or REX, you can contact the Export Systems Helpdesk on 
+exdoc.helpdesk@aff.gov.au or nexdoc@aff.gov.au.
+Attention
+Exporters and freight forwarders with Requests for Permit (RFP), Request for Export (REX)
+certificates or manual certificates set to print in, obtain signature, or collect from the Brisbane
+regional office on Thursday 6, Friday 7, and Monday 10 March 2025.
+Purpose
+This industry advice notice (IAN) is to advise exporters and freight forwarders of contingency
+arrangements for certification services usually provided by the Brisbane office on Thursday 6, Friday 7,
+and Monday 10 March 2025.
+Summary
+Tropical Cyclone Alfred is expected to cross the coast early Saturday morning, with landfall between
+Noosa and Coolangatta.
+At this stage, the Brisbane office is closed. The department is redirecting all EXDOC and NEXDOC
+certificates with a Brisbane office print location to other offices. Manual certificates will also print in
+another regional office.
+• 
+• 
+• 
+• 
+•
+
+Key points
+Tropical Cyclone Alfred is expected to cross the coast early Saturday morning, between Noosa
+and Coolangatta.
+The Brisbane office is currently closed until further notice.
+Please defer certificate printing for the Brisbane office that is not time critical.
+All EXDOC and NEXDOC certificates that have the Brisbane office as the print location have been
+directed to print in other offices until further notice.
+EXDOC horticulture and grain certificates are printing in the Perth office.
+All other EXDOC certificates and all NEXDOC certificates are printing in the Sydney office.
+The Melbourne office is managing all requests for manual certificates that would otherwise be
+collected from the Brisbane office. Please note that Monday 10 March is a public holiday in
+Melbourne so if you require urgent manual certification for Monday 10 March, please contact 
+foodexports@aff.gov.au to discuss your individual requirements.
+While these temporary measures are in place, to receive export documents please follow the
+below processes when your requests have been authorised –
+To collect documents from the relevant regional office, please email 
+foodexports@aff.gov.au with subject title ‘Collection, Location of regional office, Date of
+Departure, RFP/Manual certificate type, Commodity, Destination country, Exporter’ as the
+subject of the email. A collection list must be attached.
+Alternatively, call 1800 090 900 for further options.
+To collect documents from the relevant regional office, please email 
+These arrangements will be in place until at least close of business Monday 10 March 2025 and
+until further notice.
+Further information
+The department will publish updates on contingency arrangements as information becomes available.
+If you have any queries, please email the Export Systems Helpdesk at EXDOC.helpdesk@aff.gov.au or 
+NEXDOC@aff.gov.au
+Attention
+Exporters and freight forwarders with Requests for Permit (RFP), Request for Export (REX)
+certificates or manual certificates set to print in, obtain signature, or collect from the Brisbane
+regional office on Thursday 6 and Friday 7 March 2025
+Purpose
+This industry advice notice (IAN) advises exporters and freight forwarders that due Tropical Cyclone
+Alfred, the Brisbane office will be impacted on Thursday 6 and Friday 7 March. This affects printing,
+signing, and collection of certificates.
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+• 
+◦ 
+◦ 
+• 
+• 
+•
+
+Summary
+Tropical Cyclone Alfred is expected to cross the coast early Friday morning, with landfall between
+Maroochydore and Coolangatta.
+EXDOC and NEXDOC certificates will not print in the Brisbane office on either Thursday 6 or Friday 7
+March. Any certificates that have the Brisbane office as the print location will be redirected to print in
+another office.
+For urgent certificate collections from Brisbane office on Thursday 6 March, please call 1800 900 090
+as soon as possible.
+Key points
+Tropical Cyclone Alfred is expected to cross the coast early Friday morning, most likely between
+Maroochydore and Coolangatta.
+The Brisbane office will have limited operations on Thursday 6 March and be closed on Friday 7
+March.
+If you urgently require a NEXDOC or EXDOC certificate from the Brisbane office this week,
+please print by close of business today, Wednesday 5 March. For urgent Thursday 6 March
+collections please call 1800 900 090 as soon as possible to discuss options.
+Any EXDOC or NEXDOC certificate sent to print on Thursday 6 or Friday 7 March with Brisbane
+office as the print location will be directed to print in another regional office.
+Further information
+The department will publish updates on certification contingency arrangements as information
+becomes available. 
+If you have any queries, please email the Export Systems Helpdesk at EXDOC.helpdesk@aff.gov.au
+or NEXDOC@aff.gov.au
+Attention
+All exporters, EXDOC EDI users, NEXDOC portal and NEXDOC third party software users
+Department of Agriculture, Fisheries and Forestry (the department) – all users of EXDOC or
+NEXDOC
+Purpose
+This notice advises Export Documentation System (EXDOC) and Next Export Documentation
+(NEXDOC) users of a planned system outage on Sunday 16 February 12am-5am AEDT.
+Summary
+There will be an EXDOC and NEXDOC outage on Sunday 16 February 12am-5am (AEDT).
+• 
+• 
+• 
+• 
+• 
+•
+
+The outage is due to a major upgrade to part of the department’s infrastructure. Due to the scale of the
+work, there may be residual impacts which the department will work through as a matter of priority on
+the day.
+We recommend exporters have their export documentation complete by Saturday 15 February 2025.
+Key points
+EXDOC and NEXDOC will be unavailable Sunday 16 February 12am-5am AEDT.
+There may be residual impacts to be resolved through the day.
+If you require export documents for 16 February 2025, please obtain them in advance.
+Further information
+The department apologises for any inconvenience caused by this upgrade.
+If you have any queries, please email the export systems help desk at EXDOC.helpdesk@aff.gov.au or 
+NEXDOC@aff.gov.au
+Date of issue: 6 February 2025
+Attention
+Exporters and freight forwarders with Requests for Permit (RFP), Request for Export (REX)
+certificates or manual certificates set to print in the Brisbane regional office
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional
+offices
+Purpose
+This industry advice notice (IAN) advises exporters and freight forwarders of a network outage affecting
+the Brisbane regional office, affecting email, phones, and printing of certificates.
+Key points
+The Brisbane regional office has limited services due to a network outage affecting phones,
+emails, and printing of certificates.
+Certificates have not printed since approximately 8.50 AEST.
+Emailed collection requests are being received, but slowly.
+What you can do
+If you have sent a certificate to print at the Brisbane office before 8.50 AEST, you can submit
+collection requests using the normal method. Please note, however, that emails are running
+slowly.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+If you have sent a certificate to print after 8.50 AEST and require it today, the department is
+working through alternative options and will provide further advice shortly.
+If you do not require a certificate from the Brisbane office today, please do not send your
+certificate to print. That is, do not COMP your RFP or REX.
+You may also consider sending your RFP or REX to print at a different regional office and
+arranging collection from there.
+The process for collection of certificates can be found under Receive export documents section at 
+Request export documents.
+Further information
+The department apologises for any inconvenience caused by this outage. This issue is being addressed
+as a critical priority.
+We will issue a further notice when we have an update on the outage or alternative arrangements.
+If you have any queries, please email EXDOC.helpesk@aff.gov.au.
+Date of issue: 3 February 2025
+Attention
+Exporters and freight forwarders with Request for Permit (RFP) certificates, Request for Export
+(REX) certificates, or manual certificates set to print in the Adelaide regional office
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional office
+Purpose
+This industry advice notice (IAN) advises exporters and freight forwarders that infrastructure issues at
+the Adelaide regional office have resolved, and the office will reopen on Tuesday 4 February 2025.
+Printing and collection of certificates will resume when the office reopens.
+Key points
+As advised in IAN 2025-6, the Adelaide office has had limited services on Monday 3 February
+2025 due to challenges with infrastructure.
+The infrastructure issues have been resolved and the Adelaide office will return to business-as-
+usual on Tuesday 4 February.
+From Tuesday 4 February, exporters and freight forwarders can resume sending certificates to
+print at the Adelaide office and arranging for collection as per usual practice.
+Further information
+The department apologises again for any inconvenience caused by this closure.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+If you have any queries, please email EXDOC.helpesk@aff.gov.au.
+Date of issue: 3 February 2025
+Attention
+Exporters and freight forwarders with Requests for Permit (RFP), Request for Export (REX)
+certificates or manual certificates set to print in the Adelaide regional office
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional office
+Purpose
+This industry advice notice (IAN) advises exporters and freight forwarders of challenges with
+infrastructure in the Adelaide regional office which has led to limited services. This affects printing and
+collection of certificates.
+Key points
+The Adelaide regional office has limited services due to challenges with infrastructure.
+There will be limited capacity from 3pm ACDT today, 3 February 2025, for collection of
+certificates from the Adelaide regional office. Please ensure you provide collection lists in
+sufficient time to allow certificates to be processed.
+The department will enact alternative arrangements should the situation continue beyond today.
+What you can do
+If you require a certificate today from the Adelaide office, please submit collection requests using
+the normal method for urgent or time sensitive export certificates.
+If you do not require a certificate today, please do not authorise your RFP/REX or send through a
+manual certificate for printing at the Adelaide office until further notice.
+Alternatively, you can direct your certificates to print at another regional office and arrange
+collection from there.
+The process for collection of certificates can be found under Receive export documents section at 
+Request export documents.
+Further information
+The department apologises for any inconvenience caused by this closure.
+We will issue a further notice when we have an alternative arrangement for in-Adelaide certificate
+collection, or the Adelaide office reopens.
+If you have any queries, please email EXDOC.helpesk@aff.gov.au.
+Date of issue: 24 January 2025
+Dates of effect: 10 February 2025
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Attention
+Registered exporters, manufacturers, agents, freight forwarders
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional
+offices.
+Purpose
+This industry advice notice (IAN) provides an update to IAN 2025-03 regarding the transition of Other
+Goods to NEXDOC.
+Key points
+The department previously issued industry advice notice 2025-03 which advised that Other
+Goods certificates for the Republic of Korea (South Korea) would move to the Next Export
+Documentation System (NEXDOC) on 10 February 2025.
+This IAN advises that Other Goods to South Korea will not transition to NEXDOC on 10 February
+2025. The transition has been moved to a later release date. Please continue with your manual
+export application process until further notice.
+Summary of changes
+As per previous advice, if you are an exporter of Other Goods to the Cambodia, Canada, Philippines,
+Taiwan, Thailand, United States of America and Vietnam, please be advised that products requiring
+NX188B, NX188M, and NX418 (previously EX188B, EX188M, and M418) certificates for these markets
+will transition to the NEXDOC System on Monday 10 February 2025. These products include the
+following non-prescribed goods:
+Processed foods, ingredients, and beverages
+Edible vitamins and supplements
+Animal feed and feed additives (non-meat derived)
+Fertilisers
+Shells.
+To prepare for the transition to the NEXDOC System, registration is now open to exporters.
+Please note that external software providers are not building capability to support the certification of
+Other Goods at this stage. All certification for these commodities will need to be lodged via the
+NEXDOC portal.
+We will be implementing the Other Goods transition to NEXDOC in phases, with more countries to
+follow.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+If you export other goods to countries other than the ones listed below, you will need to continue your
+current manual process until the importing country is transitioned to NEXDOC.
+Cambodia
+Canada
+Philippines
+Taiwan
+Thailand
+United States of America
+Vietnam.
+The first market included NX188B and NX188M (formerly EX188B and EX188M) to Singapore.
+Register on NEXDOC
+If you are an Other Goods exporter, you will need to register via the department’s online service portal.
+If you are already a registered NEXDOC user, you will need to add the Other Goods commodity to your
+existing account.
+NEXDOC Virtual drop-in sessions
+Online information sessions are available weekly. These sessions will demonstrate how to register as a
+NEXDOC user and lodge a request for export, as well as providing the opportunity to ask questions
+about the NEXDOC System.
+More information about the NEXDOC System and the online sessions, can be found on the NEXDOC
+Transition webpage.
+Background
+The Australian Government is focused on growing Australian agriculture by reforming its export
+functions. The Department of Agriculture, Fisheries and Forestry is moving products categorised as
+‘Other goods’ products to the NEXDOC System, the Government’s web-based export management
+system.
+NEXDOC includes a range of new and enhanced features which provides Australia’s export industry
+with a modern, technical platform capable of integrating with other support systems and new
+technologies. The system provides Australian exporters with improved product traceability, automates
+many processes that are currently manual, enables better self-service.
+Caroline Martin
+Assistant Secretary
+Digital Export Program Branch
+Department of Agriculture, Fisheries and Forestry
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Date of issue: 28 January 2025
+Attention
+All EXDOC and NEXDOC users who have sent or intend to send a certificate to print in a departmental
+office today.
+Purpose
+This notice is to advise all EXDOC and NEXDOC users that there are certificate delays with in-office
+certificate printing.
+Key points
+There is an outage with in-office printing impacting EXDOC and NEXDOC certificate printing.
+Certificates that have been sent to DAFF offices for printing may not be printed in sufficient time
+for signing and stamping to be collected today.
+What should I do?
+We request that you do not complete any RFPs or REXs for in-office printing until 9am AEDT
+tomorrow, Wednesday 29 January 2025.
+Updates and contact information
+The department is working on this issue as a matter of urgency and will keep you updated.
+If your require further information, please email NEXDOC@aff.gov.au or exdoc.helpdesk@aff.gov.au or
+call 02 6272 4700.
+Date of issue: 14 January 2025
+Dates of effect: 10 February 2025
+Attention
+Other Goods exporters, manufacturers, agents, freight forwarders
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional offices.
+Purpose
+This Industry Advice Notice (IAN) is to advise industry that export certification to Cambodia, Canada,
+Philippines, South Korea, Taiwan, Thailand, United States of America, and Vietnam for Other Goods
+will transition to the Next Export Documentation (NEXDOC) System on Monday 10 February 2025.
+• 
+•
+
+From this date, manual certificate applications (EX188B, EX188M and M418) for Other Goods will no
+longer be available for products exported to the countries listed above as well as Singapore, which
+transitioned on Monday 2 September 2024.
+Summary of changes and key points
+If you are an exporter of Other Goods to the listed countries, please be advised that products requiring
+NX188B, NX188M, and NX418 (previously EX188B, EX188M, and M418) certificates for these markets
+will transition to the NEXDOC System on Monday 10 February 2025. These products include the
+following non-prescribed goods:
+Processed foods, ingredients, and beverages
+Edible vitamins and supplements
+Animal feed and feed additives (non-meat derived)
+Fertilisers
+Shells.
+To prepare for the transition to the NEXDOC System, registration is now open to exporters.
+Please note that external software providers are not building capability to support the certification of
+Other Goods at this stage. All Other Goods certificate requests will need to be lodged via the NEXDOC
+portal.
+We will be implementing the Other Goods transition to NEXDOC in phases, with more countries to
+follow.
+If you export Other Goods to a country other than those listed below, you will need to continue your
+current manual process until that importing country transitions to NEXDOC:
+Cambodia
+Canada
+Philippines
+South Korea
+Taiwan
+Thailand
+United States of America
+Vietnam.
+The first market included NX188B and NX188M (formerly EX188B and EX188M) to Singapore.
+Register on NEXDOC
+If you are an Other Goods exporter, you will need to register via the department’s online service portal.
+If you are already a registered NEXDOC user, you will need to add the Other Goods commodity to your
+existing account.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+NEXDOC Virtual drop-in sessions
+Online information sessions are available weekly. These sessions will demonstrate how to register as a
+NEXDOC user and lodge a request for export, as well as providing the opportunity to ask questions
+about the NEXDOC System.
+More information about the NEXDOC System and the online sessions, can be found on the NEXDOC
+Transition webpage.
+Background
+The Australian Government is focused on growing Australian agriculture by reforming its export
+functions. The Department of Agriculture, Fisheries and Forestry is moving products categorised as
+‘Other goods’ products to the NEXDOC System, the Government’s web-based export management
+system.
+NEXDOC includes a range of new and enhanced features which provides Australia’s export industry
+with a modern, technical platform capable of integrating with other support systems and new
+technologies. The system provides Australian exporters with improved product traceability, automates
+many processes that are currently manual, enables better self-service.
+Ingrid Massa-Ward
+a/g Assistant Secretary
+Digital Export Program Branch
+Department of Agriculture, Fisheries and Forestry
+Date of issue: 23 December 2024
+Date of effect: 23 December 2024
+Attention:
+Registered NEXDOC exporters, manufacturers, agents, freight forwarders and approved export permit
+issuers.
+Department of Agriculture, Fisheries and Forestry (the department) - Central and Regional offices.
+Purpose
+This Industry Advice Notice is to advise users of the Next Export Documentation (NEXDOC) system
+that an issue has been identified when using the copy feature on Request for Export (REX) to the
+European Union (EU).
+
+Summary of changes and key points:
+An issue has been identified when exporters copy a REX previously sent to the EU and change the Place
+of Destination.
+The department is working to apply a fix and asks that until notified, exporters do not copy REX to the
+EU and change Place of Destination.
+Exporters can copy a REX at COMP to the EU if they do not change the Place of Destination.
+If you have any questions regarding this IAN, please email the NEXDOC Helpdesk
+at NEXDOC@aff.gov.au
+21 November 2024
+Attention
+All EXDOC registered exporters and EDI users.
+Purpose
+This notice is to advise all EXDOC users of message delays on Sunday 24 November 2024 expected to
+be of about 30 minutes duration between 2pm to 4pm (AEDT).
+Key points
+EXDOC is undergoing maintenance on Sunday 24 November 2024 between 2pm to 4pm (AEDT).
+The department will block inbound messaging from reaching EXDOC during maintenance. We
+expect this to last for about 30 minutes but may extend for the full two hours.
+EXDOC will process queued messaging when the block is lifted.
+Impacts to industry
+There will be delays to the following:
+Submission, lodgment or amendment of Requests for Permit (RFPs)
+Authorisation of RFPs by AQA users
+Generation or clearance of export declarations (EDNs) via Single Electronic Window (SEW)
+Certificate generation
+What should I do?
+For urgent consignments, please finalise your documentation prior to 2pm AEDT on Sunday 24
+November 2024.
+For non-urgent consignments, continue business as usual but expect some delays.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/systems/notices

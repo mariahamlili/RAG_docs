@@ -1,0 +1,47 @@
+Author: Rhys Downham
+Summary
+Productivity and efficiency analysis can be used to guide policy development by providing insight into
+the relative performance of firms, and the drivers of industry growth and competitiveness. In this
+report, ABARES has applied stochastic frontier analysis to a novel dataset of sawmilling firms in 2016–
+17, allowing productivity to be measured and decomposed into various measures of efficiency. This
+study is the first comprehensive productivity and efficiency analysis of the Australian sawmilling
+industry at the mill level.
+Productivity measurement is used to assess the physical performance of mills and is primarily
+concerned with the quantities of outputs produced and inputs used by firms, and is largely independent
+of prices. This concept should not be confused with profitability, which is a measure of financial
+performance, dependent on both quantities and prices.
+This report includes estimates of productivity, technical efficiency, and scale and mix efficiency.
+Measures of productivity indicate how well mills have converted inputs into outputs. Technical
+efficiency is a measure of how well production technologies are chosen and used by mills. Scale and mix
+efficiency is a measure of how well mills have captured economies of scale or substitution (that is,
+changed the size of the mill, or changed the mix of inputs used or outputs produced to maximise
+productivity). Analysing the individual components of efficiency provides greater insight into firm
+performance than considering productivity estimates in isolation.
+On average, hardwood mills were 48% as productive as the most productive hardwood mill in 2016–17
+and softwood mills were 75% as productive as the most productive softwood mill. Variation in
+productivity between hardwood mills was substantially greater than the variation observed in the
+softwood sector.
+Softwood mills were estimated to have higher average technical efficiency than hardwood mills in
+2016–17 (86% compared to 78%). The difference between the most and least technically efficient
+hardwood mills was much greater than the difference in the softwood sector. A small number of
+relatively low-productivity mills were a significant reason for the lower average technical efficiency of
+the hardwood sector.
+On average, hardwood mills were 60% scale and mix efficient (compared to the most scale and mix
+efficient hardwood mill) in 2016–17 and softwood mills were 71% scale and mix efficient (compared to
+the most scale and mix efficient softwood mill). There was a larger gap between the most and least scale
+and mix efficient hardwood mills than for the softwood mills.
+Productivity tended to increase in line with mill size (volume of sawlogs processed) and was largely
+driven by scale and mix efficiency. Technical efficiency did not always increase as mill size increased—
+relatively high levels of technical efficiency were observed in mills of all sizes and many smaller mills
+were more technically efficient than Australia’s largest mills.
+
+Recent policy measures, such as the National Forest Industries Plan, have focused on expanding
+production forest area to promote industry growth. This report indicates that efforts to increase sawmill
+productivity and efficiency also have significant potential to increase output and improve international
+competitiveness. The positive relationship between mill size and productivity in this study suggests that
+mill consolidation could also improve these outcomes.
+Read the full report
+Productivity and efficiency of the Australian sawmilling industry – PDF [1.5 MB]
+Productivity and efficiency of the Australian sawmilling industry - MS Word [4.8 MB]
+Source: https://www.agriculture.gov.au/abares/research-topics/forests/forest-economics/forest-economic-research/
+productivity-and-efficiency-of-australian-sawmilling-industry

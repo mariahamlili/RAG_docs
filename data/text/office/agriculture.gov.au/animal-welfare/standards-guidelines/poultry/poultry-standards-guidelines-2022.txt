@@ -1,0 +1,2183 @@
+Australian Animal Welfare Standards and Guidelines for Poultry
+
+© Commonwealth of Australia 2022
+
+Ownership of intellectual property rights
+
+Unless otherwise noted, copyright (and any other intellectual property rights) in this publication is owned by the Commonwealth of Australia (referred to as the Commonwealth).
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos, and the Commonwealth Coat of Arms.
+
+Inquiries about the licence and any use of this document should be emailed to copyright@awe.gov.au.
+
+Cataloguing data
+
+This publication (and any material sourced from it) should be attributed as: DAFF 2022, Australian Animal Welfare Standards and Guidelines for Poultry, Department of Agriculture, Fisheries and Forestry, Canberra, July. CC BY 4.0.
+
+ISBN 978-1-76003-441-2
+
+This publication is available at https://www.agriculture.gov.au/agriculture-land/animal/welfare/standards-guidelines/poultry
+
+Department of Agriculture, Fisheries and Forestry
+
+GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web agriculture.gov.au
+
+Disclaimer
+
+The Australian Government acting through the Department of Agriculture, Fisheries and Forestry has exercised due care and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for any loss, damage, injury, expense, or cost incurred by any person as a result of accessing, using, or relying on any of the information or data in this publication to the maximum extent permitted by law.
+
+Acknowledgements
+
+This document was finalised for the Commonwealth and each of its state and territories by the Independent Poultry Welfare Panel. The development of these standards represents a significant investment by all parties, especially members of the drafting group and the Stakeholder Advisory Group (SAG). Their efforts are gratefully acknowledged.
+
+Contents
+
+Glossary	vi
+
+Background	x
+
+Introduction	1
+
+Purpose	1
+
+Scope	1
+
+Development process	3
+
+Interpretation	4
+
+Principles for poultry welfare	5
+
+Part A General standards and guidelines for all species of poultry	6
+
+A1 Responsibilities	6
+
+Objective	6
+
+Standards	6
+
+Guidelines	6
+
+A2 Feed and water	8
+
+Objective	8
+
+Standards	8
+
+Guidelines	8
+
+A3 Risk management of extreme weather, natural disasters, disease, injury and predation	10
+
+Objective	10
+
+Standards	10
+
+Guidelines	10
+
+A4 Facilities and equipment	13
+
+Objective	13
+
+Standards	13
+
+Guidelines	14
+
+A5 Management of outdoor systems	16
+
+Objective	16
+
+Standards	16
+
+Guidelines	16
+
+A6 Lighting	18
+
+Objective	18
+
+Standards	18
+
+Guidelines	18
+
+A7 Temperature and ventilation	19
+
+Objective	19
+
+Standards	19
+
+Guidelines	19
+
+A8 Litter management	21
+
+Objective	21
+
+Standards	21
+
+Guidelines	21
+
+A9 Handling and husbandry	22
+
+Objective	22
+
+Standards	22
+
+Guidelines	23
+
+A10 Humane killing	26
+
+Objective	26
+
+Standards	26
+
+Guidelines	26
+
+Part B Commercial production standards and guidelines for poultry	28
+
+B1 Laying chickens	28
+
+Standards	28
+
+Guidelines	29
+
+B2 Meat chickens	32
+
+Standards	32
+
+Guidelines	33
+
+B3 Meat and laying chicken breeders	35
+
+Standards	35
+
+Guidelines	36
+
+B4 Ducks	37
+
+Standards	37
+
+Guidelines	38
+
+B5 Emus	39
+
+Standards	39
+
+Guidelines	39
+
+B6 Geese	42
+
+Standards	42
+
+Guidelines	42
+
+B7 Guinea fowl	44
+
+Standards	44
+
+Guidelines	44
+
+B8 Ostriches	45
+
+Standards	45
+
+Guidelines	45
+
+B9 Partridge	47
+
+Standards	47
+
+Guidelines	47
+
+B10 Pheasants	48
+
+Standards	48
+
+Guidelines	48
+
+B11 Pigeons	49
+
+Standards	49
+
+Guidelines	49
+
+B12 Quail	52
+
+Standards	52
+
+Guidelines	52
+
+B13 Turkeys	53
+
+Standards	53
+
+Guidelines	54
+
+Tables
+
+Table 1 Space allowance requirements for meat chickens	32
+
+Table 2 Space allowance requirements for ducks	37
+
+Table 3 Space allowance requirements for geese	42
+
+Table 4 Space allowance requirements for guinea fowl	44
+
+Table 5 Space allowance requirements for turkeys	53
+
+Glossary
+
+Background
+
+The development of Australian Animal Welfare Standards and Guidelines for Poultry is an important initiative of Australian governments to guide new, nationally consistent policies to enhance animal welfare arrangements in all Australian states and territories. The development process is supported and funded by all governments and the major poultry industries. The standards provide a basis for developing and implementing consistent legislation and enforcement across Australia and guidance for all people responsible for poultry.
+
+The standards are underpinned by a review of the relevant scientific literature, recommended industry practice and community expectations. This review ensures that the standards are scientifically valid and supported by a public consultation process that gives the community, industry, government and any other relevant stakeholders opportunities to comment on drafts of the standards and guidelines documents. It is acknowledged that interpretation of animal welfare science is influenced by the worldview and convictions (values) of the individual reader. This interplay of values and science can lead to people drawing different conclusions about the same piece of animal welfare science.
+
+The standards are not intended to predict, influence or restrict specific market access. Industry can introduce higher standards of animal welfare or other innovations to meet specific market requirements.
+
+These standards were developed in consultation with state and territory governments, livestock industry organisations, animal welfare groups and the general public, with the support of agriculture ministers and senior officials from all jurisdictions. The standards were drafted by a small interjurisdictional drafting group, in a process initially managed by Animal Health Australia (AHA) under the guidance of the NSW Department of Primary Industries and the interjurisdictional Animal Welfare Task Group (AWTG). A public consultation was held on an initial draft in 2017 and 2018 and in response to the public feedback received a subsequent redraft, which was considered by the representative Stakeholder Advisory Group in June 2019.
+
+In February 2020, agriculture ministers agreed to terms of reference when they appointed the Independent Poultry Welfare Panel to finalise the standards. The panel consulted members of the Stakeholder Advisory Group and directed the redrafting of the standards consistent with the objectives outlined in the terms of reference. It must be acknowledged that this document does not represent the views of all parties that contributed to its development.
+
+An important part of the process is the preparation of a regulation impact statement (RIS) to assess the proposed standards and evaluate the costs resulting from changes to existing requirements. A decision RIS has been completed based on the Independent Poultry Welfare Panel’s final recommendations following targeted consultation on these standards.
+
+These poultry standards and guidelines are intended to replace the Model Codes of Practice:
+
+Model Code of Practice for the Welfare of Animals: Domestic Poultry
+
+Model Code of Practice for the Welfare of Animals: Farming of Ostriches
+
+Model Code of Practice for the Welfare of Animals: Husbandry of Captive-Bred Emus
+
+Introduction
+
+Purpose
+
+The purpose of this document is to detail standards and guidelines for the welfare of all poultry in Australia. The document informs all those with responsibilities for the care and management of poultry.
+
+The standards provide the basis for developing and implementing consistent legislation and enforcement across Australia, and direction for people responsible for poultry. They reflect available scientific knowledge, current practice and community expectations.
+
+The poultry standards and guidelines may be reflected in the industry-based quality-assurance programs that may include poultry welfare provisions.
+
+In May 2009, primary industries ministers took the position that guidelines, regardless of their purpose in existing codes and the new standards and guidelines documents, will not be regulated.
+
+An agreement was reached that all future revisions of Australian standards and guidelines documents must provide:
+
+clear essential requirements (‘standards’) for animal welfare that can be verified and are transferable into legislation for effective regulation
+
+‘guidelines’ that are to be produced concurrently with the standards but not enforced in legislation, to be considered by industry for incorporation into national industry quality assurance along with the standards.
+
+This document is part of a series of standards and guidelines that brings together welfare standards and guidelines for particular animal-related activities – in this case, the keeping, rearing and humane killing of poultry.
+
+Scope
+
+The standards will apply to all poultry in Australia. ‘Poultry’ are defined within this document as the bird types reared or bred in captivity:
+
+chickens
+
+ducks
+
+emus
+
+geese
+
+guinea fowl
+
+ostriches
+
+partridges
+
+pheasants
+
+pigeons
+
+quail
+
+turkeys.
+
+The standards apply to all those responsible for the care and management of poultry, including commercial producers including free-range, backyard poultry owners and poultry fanciers, and exclude the transport and slaughter of poultry which are covered under separate standards and guidelines.
+
+These standards and guidelines should be considered in conjunction with other requirements for livestock. This includes relevant biosecurity legislation and related Commonwealth, state, and territory legislation, such as:
+
+for farming enterprises
+
+model codes of practice or standards and guidelines for livestock species
+
+the Australian Consumer Law (ACL) National Information Standard on free-range eggs
+
+for transport
+
+Australian Animal Welfare Standards and Guidelines – Land Transport of Livestock
+
+Australian Standards for the Export of Livestock
+
+livestock health and biosecurity requirements
+
+regulated livestock loading schemes and driver regulations
+
+for slaughter establishments
+
+Model Code of Practice for the Welfare of Animals – Livestock at Slaughtering Establishments
+
+Australian Standard for the Construction of Premises and Hygienic Production of Poultry Meat for Human Consumption (AS 4465:2005)
+
+for food processing establishments
+
+Primary Production and Processing Standard for Poultry Meat (Standard 4.2.2)
+
+Primary Production and Processing Standard for Eggs and Egg Products (Standard 4.2.5)
+
+for research and teaching purpose
+
+Australian code for the care and use of animals for scientific purposes
+
+for humane killing in an emergency animal disease outbreak situation
+
+Operational manual: destruction of animals (version 3.2)
+
+Methods for the destruction of poultry, pet/zoo birds and aviary species
+
+Where legislation provides for a higher standard than these standards, the higher standard will apply. Where there is a conflict with another standard in meeting the livestock welfare standards, the welfare of livestock must be the first consideration unless there is a work health and safety requirement.
+
+Cruelty and unacceptable animal welfare practices can be prosecuted under cruelty and aggravated cruelty offence clauses in animal welfare legislation. For example, ‘poultry must not be allowed to die from lack of feed or water’.
+
+Advice or assistance with welfare management and disease control is available from state and territory departments of agriculture and locally based private consultants or veterinarians, as appropriate. These Australian standards and guidelines do not endeavour to describe best practice because it is often too difficult to reflect known regional and species variation. Other industry and government documents better communicate these industry practices and consider regional variations.
+
+Development process
+
+In the past, each document in the series of Australian animal welfare standards and guidelines has been produced following the same overall process. Drafting of the document has been undertaken by a drafting group under the direction of the Animal Welfare Task Group (AWTG) and guided by a stakeholder advisory group that includes appropriate representation from industry, government, and non-government organisations. A lead government agency oversees the development process with the assistance of a project manager.
+
+However, for the Australian Animal Welfare Standards and Guidelines for Poultry, an independent panel was also appointed to oversee the finalisation of the standards, drawing on the extensive resources from the previous poultry standards development work. The panel has consulted state and territory government departments, industry representatives and animal welfare groups during their work. This has been an important part of the standards development process.
+
+The panel were asked to ensure the Animal Welfare Standards and Guidelines for Poultry:
+
+provide the basis for nationally consistent and effectively enforced regulation
+
+improve animal welfare outcomes within Australia’s poultry industries
+
+reflect contemporary animal welfare science, taking into account current industry practices, cost-benefits, new technologies and practicalities of implementation
+
+align with the values and expectations widely shared by the Australian community
+
+meet the expectations of trading partners, taking into account possible domestic and international trade impacts.
+
+A regulation impact statement (RIS) is also prepared for the standards. The primary purpose of regulation impact statements is to ensure that the economic and social costs and benefits of regulatory proposals are examined fully so government and members of the community can be satisfied that the benefits of the regulations exceed the costs. The RIS document, along with these standards and guidelines document, are made available in print and at Australian Animal Welfare Standards and Guidelines for Poultry.
+
+The final documents will be provided to state and territory jurisdictions and industry bodies, for referencing in relevant legislation and to be available for incorporation into industry quality-assurance programs.
+
+Interpretation
+
+This document has 2 parts:
+
+Part A – general standards and guidelines that apply to all poultry, including the commercial production of poultry and racing pigeons
+
+Part B – specific standards and guidelines that apply only to the commercial production of poultry and racing pigeons.
+
+To the extent that there are any inconsistencies between Part A and Part B, Part B takes precedence.
+
+Each chapter in Parts A and B contains:
+
+an animal welfare objective – the intended outcome for each section of the standards and guidelines.
+
+standards (S) – the animal welfare requirements designated in this document that must be met under law for livestock welfare purposes. The standards are intended to be clear, essential and verifiable statements. However, not all issues are able to be well defined by scientific research or are able to be quantified. Science cannot always provide an objective or precise assessment of an animal’s welfare and, consequently, where appropriate science is not available, the standards reflect a value judgement that has to be made for some circumstances. Standards use the word ‘must’.
+
+guidelines (G) – the recommended practices to achieve desirable animal welfare outcomes. Guidelines use the word ‘should’ and complement the standards. Noncompliance with one or more guidelines will not constitute an offence under law.
+
+notes – explanations of the context of the standards and guidelines.
+
+Definitions are described in the glossary. Jurisdictions may vary in their definition of specific terms under their animal welfare legislation. Every endeavour has been made to adopt terms that have nationwide application. Readers are urged to check the relevant definitions under the relevant legislation for their jurisdiction.
+
+Further detail on livestock management practices can be found in other industry and government publications. Some standards describe the required welfare outcome without prescribing the exact actions that must be done.
+
+The ‘risk to welfare of poultry’ is the potential for a factor to affect the welfare of poultry in a way that causes pain, injury, or distress. The outcome could include hypothermia, heat stress, dehydration, exhaustion, injury, disease, or death. Risks can be managed by undertaking ‘reasonable actions’ to prevent or reduce them.
+
+In the context of these standards, the term ‘At the first reasonable opportunity’ means within the time frame that would be expected by a reasonable person with the relevant knowledge, skills and experience in the management of poultry given the urgency of the situation in relation to the welfare of poultry.
+
+Principles for poultry welfare
+
+Poultry in Australia are kept in home and recreational environments as well as managed in a range of farming systems such as cage, barn and free-range. To achieve improved welfare outcomes envisaged by the standards, it is important that people responsible for poultry have the necessary knowledge, experience and skills to undertake the various procedures and meet the requirements of the standards, in a manner that minimises the risk to poultry welfare.
+
+Adherence to good animal-husbandry principles is essential to meet the welfare requirements of animals. Good husbandry principles that also meet the basic physiological and behavioural needs of poultry include:
+
+a level of nutrition adequate to sustain good health and welfare
+
+access to sufficient water of suitable quality to meet physiological needs
+
+social contact with other poultry
+
+space to stand, lie and stretch their wings and limbs and perform normal patterns of behaviour
+
+handling facilities, equipment and procedures that minimise stress to the poultry
+
+procedures to minimise the risk of pain, injury or disease
+
+provision of appropriate treatment, including humane killing if necessary
+
+minimising the risk of predation
+
+provision of reasonable precautions against extremes of weather and the effects of natural disasters
+
+selection of poultry appropriate for the farming system and the level of planned bird management to be provided
+
+assessment of the need to undertake any management procedures that may result in significant short-term pain or distress, against alternative strategies for the long-term welfare of the poultry
+
+undertaking any management procedures required for planned bird management in a manner that reduces the impact of these procedures and minimises risks to poultry welfare
+
+innovative husbandry, technology and housing systems which enhance bird welfare should be encouraged.
+
+Part A General standards and guidelines for all species of poultry
+
+A1 Responsibilities
+
+Objective
+
+A person knows their responsibilities for poultry welfare and is able to perform the required tasks to minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 1.1 A person must take reasonable actions to ensure the welfare of poultry under their care.
+
+SA 1.2 A person involved in any part of poultry care and management must be competent to perform their required task or must be supervised by a competent person.
+
+Guidelines
+
+GA 1.1 Reasonable actions include maintaining appropriate records for the effective management of animal welfare.
+
+GA 1.2 Elements of responsibility for poultry management should include:
+
+understanding the standards and guidelines for poultry welfare
+
+obtaining knowledge of relevant animal welfare laws
+
+understanding poultry behaviour
+
+planning and undertaking actions for the enterprise to meet the welfare standards and address contingencies that may arise
+
+assessing the quantity, quality and continuity of feed and water supply
+
+handling to minimise stress, and using facilities and other equipment appropriately
+
+undertaking hygienic practices for management procedures in a manner that minimises the risks to poultry welfare
+
+understanding and following vaccination, chemical and medication treatment instructions for poultry
+
+identifying distressed, weak, injured or diseased poultry, and taking appropriate action, including seeking veterinary treatment where required
+
+maintaining appropriate records
+
+knowledge of local patterns of disease and biosecurity practices to prevent disease
+
+killing poultry by acceptable methods or have access to the assistance of someone who is capable and equipped to kill them appropriately.
+
+GA 1.3 Owners, managers and stockpersons should have an appropriate staff induction program, periodically review existing practices, and be aware of new developments and training relevant to the welfare of poultry.
+
+GA 1.4 Operational procedures should be documented and implemented.
+
+GA 1.5 Documentary evidence of staff training and/or competence should be maintained.
+
+GA 1.6 A person in charge should be trained in poultry husbandry and management.
+
+A2 Feed and water
+
+Objective
+
+Poultry have access to feed and water to minimise the risk to their welfare.
+
+Standards
+
+SA 2.1 A person in charge must ensure poultry have reasonable access to adequate and appropriate feed and water.
+
+SA 2.2 A person in charge must ensure poultry, other than newly hatched poultry up to 3 days of age or where alternate day feeding is acceptable (for meat breeders), have access to food at least once in each 24-hour period.
+
+SA 2. 3A person in charge must ensure poultry, other than newly hatched poultry up to 3 days of age, have reasonable access to drinking water at least once in each 24-hour period.
+
+SA 2.4 A person in charge must ensure newly hatched poultry are provided with feed and water within:
+
+60 hours of take-off
+
+72 hours following take-off if provided with hydrating material, or
+
+120 hours of hatching for ratites.
+
+SA 2.5 A person in charge must ensure that feed and water are provided to poultry in ways that minimise competition and injury.
+
+SA 2.6 A person in charge must ensure feeding and watering systems are checked daily and confirmed to be functional.
+
+SA 2.7 A person in charge must ensure poultry which are unable to access feed and/or water are managed, such that they are provided with feed and/or water or are treated or humanely killed at the first reasonable opportunity.
+
+SA 2.8 A person in charge must ensure poultry are not force-fed for any reason, including pâté production, unless for therapeutic reasons under the guidance of a veterinarian.
+
+Guidelines
+
+Feed
+
+GA 2.1 Feed supply for poultry should minimise harmful metabolic and nutritional conditions and be based on:
+
+age, body weight and/or fat/body condition score
+
+extra demands associated with growth and exercise
+
+prevailing and predicted weather conditions.
+
+GA 2.2 The interval of time from hatching to first feed and drink should be as short as practically possible.
+
+GA 2.3 Feed particle size should be appropriate for the age and size of the bird.
+
+GA 2.4 Poultry access to contaminated and spoilt feed, poisonous plants and harmful substances should be avoided or managed.
+
+GA 2.5 Feeders should be cleaned and maintained regularly and kept indoors away from adverse weather, vermin, wild birds and other livestock.
+
+GA 2.6 Feed should be assessed for suitability and safety.
+
+GA 2.7 Major changes in diet should be introduced over an appropriate length of time and be closely monitored.
+
+GA 2.8 Flock body weight and egg production (where appropriate) should be monitored regularly.
+
+GA 2.9 Feeding and watering facilities should be appropriately spaced throughout the housing area. Their design, position and height should allow sufficient space for birds to access feed and water with minimal effort and using normal posture.
+
+Water
+
+GA 2.10 Assessment of water requirements for construction of poultry watering facilities should consider:
+
+daily requirements and total annual requirements
+
+flow rates needed for peak, short-term demand
+
+construction to prevent temperature build-up
+
+quality and biosecurity risk.
+
+GA 2.11 Water within drinker lines should be regularly flushed and monitored.
+
+GA 2.12 Uncontrolled water sources (for example, bores, dams, open stock troughs creeks) used as drinking water sources should be treated as appropriate to improve quality and minimise biosecurity risks.
+
+GA 2.13 Medicated water systems should be closely monitored to ensure poultry are correctly dosed.
+
+GA 2.14 Water should be available continuously, except where water is withheld for no longer than 2 hours prior to water vaccination, medication, or prior to or during catching and during litter amendment activities.
+
+A3 Risk management of extreme weather, natural disasters, disease, injury and predation
+
+Objective
+
+Poultry are managed to minimise the impact of threats to their welfare, including extremes of weather, natural disasters, disease, injury and predation.
+
+Standards
+
+SA 3.1 A person in charge must take reasonable actions to protect poultry from threats, including extremes of weather, drought, fires, floods, disease, injury and predation.
+
+SA 3.2 A person in charge must ensure the inspection of poultry at least daily, at a level and frequency appropriate to the management system, age of birds, environmental conditions and the risk to the welfare of poultry.
+
+SA 3.3 A person in charge must ensure appropriate action is taken for sick, injured or diseased poultry at the first reasonable opportunity.
+
+SA 3.4 A person in charge of poultry kept in commercial production systems must monitor and record mortalities, including culls with the cause recorded if known.
+
+SA 3.5 A person in charge must ensure poultry have access to appropriate shelter from adverse weather that is likely to cause heat or cold stress, and to minimise the risk of predation.
+
+SA 3.6 A person must ensure dead poultry are removed and disposed of at least daily and in a way that minimises disease risks.
+
+SA 3.7 By 1 July 2025 a person in charge must ensure firefighting equipment is available and maintained for all indoor housing systems.
+
+SA 3.8 A person in charge of planning or constructing new buildings and yards for poultry (including electrical and fuel installations) must take reasonable actions to minimise fire risk, including where practicable, using materials with high fire resistance.
+
+SA 3.9 A person in charge must develop a written contingency plan to minimise the impact of adverse events on poultry welfare.
+
+Guidelines
+
+Contingency planning
+
+GA 3.1 Written contingency plans should address events which could result in a potentially significant welfare impact on poultry.
+
+GA 3.2 A contingency plan should include emergency contact details and consider adverse events, including:
+
+electrical power or systems failure
+
+breakdown or mechanical failure affecting feed, water or ventilation
+
+adverse weather, specifically conditions that predispose poultry to heat or cold stress
+
+fire and flood
+
+insufficient supply of feed or water
+
+disease outbreak or injury
+
+emergency killing and disposal
+
+other issues specific to the enterprise or poultry being managed.
+
+GA 3.3 Buildings and yards should have sufficient exits to facilitate evacuation in an emergency.
+
+Weather and natural disasters
+
+GA 3.4 Poultry handling should be minimised during extremely hot weather.
+
+GA 3.5 Poultry should be managed to minimise heat stress (signs of which may include panting or wings outstretched) or cold stress (huddling).
+
+GA 3.6 Automated sprinklers, misting systems, evaporative cooling systems or other effective heat dissipation systems should be installed in all indoor housing systems.
+
+Inspections
+
+GA 3.7 Sufficient inspections should be undertaken during which temperature, levels, availability of feed, feeding systems, water and all parts of the ventilation system are checked, and where problems are encountered, appropriate remedial action should be taken to protect the welfare of poultry.
+
+GA 3.8 Inspections should be documented.
+
+GA 3.9 Inspection should be done in such a way that poultry are not unnecessarily disturbed, for example, animal handlers should move quietly and slowly through the flock.
+
+GA 3.10 All alarm systems, firefighting equipment and emergency power supplies should be tested regularly, and test results documented.
+
+GA 3.11 Poultry distribution and behaviour should be monitored during daily inspections and corrective action should be taken to adjust light, temperature, ventilation, bedding condition and feed and water supply as required.
+
+Disease and injury
+
+GA 3.12 Biosecurity programmes should be implemented. These programmes should address the control of the major routes for disease and pathogen transmission:
+
+direct transmission from other poultry, domesticated and wild animals, and humans
+
+fomites (for example, equipment, facilities, and vehicles)
+
+vectors (for example, rodents and arthropods such as insects)
+
+aerosols
+
+water supply
+
+feed.
+
+GA 3.13 Appropriate veterinary advice on poultry disease diagnosis, prevention or treatment should be sought as required.
+
+GA 3.14 In all systems, mortalities, including culls, should be monitored and recorded, and a cause determined if possible.
+
+GA 3.15 Poultry should be vaccinated in accordance with veterinary advice.
+
+GA 3.16 Internal and external parasites should be monitored and managed.
+
+GA 3.17 Daily monitoring of poultry should occur to identify early signs of injurious pecking, which may include:
+
+pecking directed at the body feathers of other birds
+
+vent pecking
+
+feather eating
+
+feather damage or bare areas, particularly around the back and tail
+
+signs of persistent aggression, such as pecking directed at the head
+
+chasing other birds.
+
+GA 3.18 Injurious pecking and cannibalism risk should be managed. Prevention and management methods include:
+
+infrared beak trim at day old
+
+reducing light intensity
+
+reducing temperature
+
+providing foraging materials
+
+modification of nutrition and feeding practices
+
+reducing stocking density
+
+selecting the appropriate genetic stock
+
+isolation of affected birds.
+
+GA 3.19 Appropriate action for sick, diseased or injured poultry should incorporate one or more actions, including:
+
+seeking veterinary advice
+
+treatment and isolation of sick birds
+
+humane killing.
+
+Lameness
+
+GA 3.20 Poultry should be monitored for incidence of lameness and the cause of lameness investigated and addressed.
+
+A4 Facilities and equipment
+
+Objective
+
+Facilities and equipment are appropriate to minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 4.1 A person in charge must take reasonable actions in the construction, maintenance and operation of facilities and equipment to ensure the welfare of poultry.
+
+SA 4.2 A person in charge must take reasonable actions to construct, maintain and operate facilities and equipment that ensure poultry can be inspected.
+
+SA 4.3 A person in charge must ensure the design, size and maintenance of the openings and doors of cages allow poultry to be placed in or removed without injury or unnecessary distress.
+
+SA 4.4 A person in charge must ensure housing systems are arranged to minimise contamination of poultry in the lower tiers from excreta from above.
+
+SA 4.5 A person in charge must ensure all poultry housing, including mobile housing, must provide:
+
+adequate ventilation
+
+protection from extremes of weather
+
+sufficient space to allow normal postures
+
+reasonable access to feeding and water facilities.
+
+SA 4.6 A person in charge must ensure openings provided for poultry to access an outside area are designed and positioned to:
+
+allow the birds to maintain a normal posture
+
+not obstruct movement of birds
+
+minimise the risk of smothering or injury.
+
+SA 4.7 A person in charge must ensure any slatted, wire or perforated floors are constructed to support the forward-facing toes, prevent entrapment and facilitate removal of manure.
+
+SA 4.8 By 1 July 2025 a person in charge of poultry (excluding caged layer hens in commercial production) must provide reasonable access to appropriate substrate for pecking, foraging and scratching.
+
+SA 4.9 A person in charge must not allow the excreta of poultry to excessively accumulate to the stage that it is likely to compromise poultry health and welfare.
+
+SA 4.10 Where nest areas are provided, a person in charge must ensure that the nest areas are designed and positioned to encourage use, are of adequate size and number to meet the laying needs of all poultry, and ensure poultry have access without undue competition.
+
+SA 4.11 Where single nest areas are provided, a person in charge must ensure there is sufficient space for the bird to enter, sit and turn around, if necessary, to exit.
+
+SA 4.12 Where perches and/or platforms are used, a person in charge must ensure that they are constructed, positioned and maintained to:
+
+be raised above and not flush with floor areas
+
+allow birds to access them at all times, other than during the first week of life, on the day of pick-up or during litter conditioning
+
+allow birds to perch in a normal posture
+
+provide appropriate support for the bird’s feet
+
+minimise the risk of injury
+
+minimise vent pecking by birds below and/or behind
+
+minimise soiling of birds below.
+
+Guidelines
+
+GA 4.1 Facility construction or modification should take into account:
+
+poultry behaviour
+
+topography (location and drainage)
+
+flood and fire risk
+
+climate
+
+purpose
+
+space allowance
+
+feed and water requirements
+
+shade or shelter
+
+surface materials
+
+cleaning and waste disposal.
+
+GA 4.2 Facilities should be free of protrusions and obstacles that are likely to cause injury.
+
+GA 4.3 Facilities should be subject to a pest (for example, wild birds and rodents) control plan.
+
+GA 4.4 A maintenance programme should be in place for all equipment if the failure of which can jeopardise poultry welfare.
+
+GA 4.5 Poultry should be given sufficient space to perform dust-bathing behaviours.
+
+GA 4.6 Provision of environmental enrichment should be considered, taking into account potential risks and benefits to poultry welfare. Such practices may include provision of:
+
+bales of hay or straw
+
+perches and platforms
+
+objects for pecking
+
+dust-bathing materials.
+
+Housed poultry
+
+GA 4.7 Exposure of poultry to stimuli that might cause fear and distress should be minimised where possible. Ventilation fans, feeding machinery or other indoor or outdoor equipment should be constructed, placed, operated and maintained in such a way that they cause the least possible amount of fear and distress.
+
+GA 4.8 Poultry should have enough vertical and horizontal space available to stretch to their full height and flap their wings.
+
+GA 4.9 When new buildings are planned, existing buildings modified or equipment purchased, advice on aspects that can affect welfare should be sought from suitably qualified and experienced persons.
+
+GA 4.10 Where poultry are brooded on wire, temporary supportive flooring material, such as paper or matting, should be provided during the early brooding period.
+
+GA 4.11 Where claw-shortening devices are provided, a person in charge should ensure they are provided in such a way that allows birds to utilise them through to the day of pick-up.
+
+Perches and platforms
+
+GA 4.12 Perches and platforms should be without sharp edges.
+
+GA 4.13 Perching areas should be designed to allow poultry to grip without risk of trapping their claws.
+
+GA 4.14 If ramps are provided for birds to move between tiers in tiered housing, they should:
+
+be made from non-slip material
+
+be located throughout the facility to allow easy access for birds
+
+allow for minimal effort and ease of bird movement between tiers
+
+be cleaned after each batch.
+
+GA 4.15 Where perches are provided, there should be sufficient perches or platforms for all birds to roost.
+
+Nests
+
+GA 4.16 If nest areas are provided, they should be easily accessible and should not be so high above the floor level that poultry may be injured when ascending or descending.
+
+GA 4.17 Nest litter, where used, should be kept clean, dry, friable and moisture adsorbent. Nest liners should be kept clean and dry.
+
+GA 4.18 The construction and positioning of nest areas should be such that they do not trap heat.
+
+A5 Management of outdoor systems
+
+Objective
+
+Management of outdoor systems is appropriate to minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 5.1 A person in charge must ensure that poultry are adequately feathered before access to an outdoor area.
+
+SA 5.2 A person in charge must ensure poultry kept in housing with access to an outdoor area have ready access to the housing and shaded areas.
+
+SA 5.3 By 1 July 2025 a person in charge of poultry kept in housing with access to an outdoor area must encourage use of the outdoor range by providing:
+
+access to appropriately located shade and shelter from predators
+
+opportunities to perform foraging and scratching behaviours
+
+reasonable number and size of access points.
+
+SA 5.4 A person in charge must not keep poultry on land which has become contaminated with poisonous plants or chemicals which could compromise the health of poultry.
+
+SA 5.5 A person in charge must take reasonable actions to minimise access to poultry feed and drinking water by wild birds.
+
+SA 5.6 By 1 July 2032 a person in charge must ensure that poultry, other than ratites, are able to be confined to manage welfare risks to birds in the outdoor area. Confinement must comply with housing standards in A4 Facilities and equipment, as well as stocking densities for the relevant species.
+
+Guidelines
+
+GA 5.1 A management plan should be developed to actively manage and maintain the outdoor area to:
+
+encourage birds to access all areas
+
+control disease and parasites
+
+avoid injury or mortality
+
+prevent land degradation
+
+provide adequate drainage to prevent muddy conditions
+
+avoid accumulation of water
+
+discourage contact with wild birds and their droppings
+
+minimise the risk of predation
+
+minimise the risk of fire.
+
+GA 5.2 Shelter should be provided in the outdoor area to minimise the threat from predators.
+
+GA 5.3 Shade and shelter in an outdoor area can be provided by vegetation such as shrubs or trees and structures such as shade cloth, straw bales and shipping pallets on blocks.
+
+GA 5.4 Vegetation should be provided on the range, including mature trees, shrubs and forage such as grasses and ground vegetation.
+
+GA 5.5 Pop holes should have sufficient width and height to allow poultry to enter and exit while maintaining normal posture without contacting the sides.
+
+GA 5.6 Ramps should be constructed and maintained to minimise slippage or injury and to allow poultry to move freely.
+
+GA 5.7 At least 8m2 of natural and/or artificial overhead shade and shelter per 1,000 birds should be provided and appropriately distributed across the outdoor area.
+
+GA 5.8 When birds are observed not to be using shade or shelter structures, action should be taken to encourage use by modifying facilities if required.
+
+GA 5.9 Feed and open drinking water should not be provided in the outdoor area to discourage wild birds.
+
+GA 5.10 Outdoor area enhancement should be provided to allow poultry to feel safe outdoors and be encouraged to move away from the housing openings.
+
+GA 5.11 Poultry should be confined at night to mitigate predation and biosecurity risks.
+
+GA 5.12 The area around openings to outdoor areas should be kept clean and well drained.
+
+A6 Lighting
+
+Objective
+
+Lighting is appropriate to minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 6.1 A person in charge must ensure that the light intensity on poultry is adequate to allow poultry and equipment to be inspected and any problems to be identified.
+
+SA 6.2 By 1 July 2025 a person in charge must ensure that the light intensity during light periods for young poultry for the first 3 days after hatching is at least 20 lux at bird level.
+
+SA 6.3 By 1 July 2025 a person in charge must ensure that the light intensity for poultry is at least 10 lux at bird level during light periods, except under veterinary supervision to control an outbreak of pecking and/or cannibalism for a limited period.
+
+SA 6.4 A person in charge must ensure poultry are not exposed to continuous light or darkness for any 24-hour period, except for young birds raised under heat lamps or in brooders.
+
+SA 6.5 By 1 July 2025 a person in charge must ensure poultry are provided a minimum total of at least 6 hours of darkness within a 24-hour period with at least one uninterrupted period of darkness of at least 4 hours, except:
+
+birds up to 7 days of age
+
+to prevent huddling or clumping behaviours during very hot weather
+
+poultry on the day of pick-up
+
+laying and breeder birds up to 16 weeks of age
+
+during a disease outbreak under veterinary supervision.
+
+SA 6.6 A person in charge must ensure chicks up to 7 days old have a minimum of 1 hour of continuous darkness for any 24-hour period, except for young birds raised under heat lamps or in brooders.
+
+Guidelines
+
+GA 6.1 With the exception of nest areas, natural and artificial lighting should be evenly distributed to facilitate the distribution of poultry over the floor area and avoid overcrowding.
+
+GA 6.2 Enterprises where poultry are housed indoors should have access to equipment to measure light intensities and keep appropriate records.
+
+GA 6.3 Lighting should be managed to avoid sudden changes in light intensity.
+
+A7 Temperature and ventilation
+
+Objective
+
+Temperature and ventilation are appropriate to minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 7.1 A person in charge must ensure airflow and temperature in housing facilities minimises the risk to poultry welfare from heat, cold, humidity, dust or noxious gases.
+
+SA 7.2 A person in charge must ensure that mechanically ventilated sheds have:
+
+a back-up power supply that is tested in accordance with manufacturers’ recommendations
+
+automatic alarm systems to warn immediately of ventilation failure
+
+a system in place to respond and take appropriate corrective action.
+
+SA 7.3 By 1 July 2025 a person in charge of poultry in sheds used for commercial production must monitor ammonia levels and ensure immediate corrective action is taken if ammonia levels exceed 15 ppm at bird level in sheds.
+
+SA 7.4 A person must take immediate corrective action if signs of poor air quality (swollen and red eyelids, reluctancy to open eyes or panting) are observed.
+
+SA 7.5 A person in charge must ensure brooder areas are at an appropriate temperature before placement of day-old poultry and that the temperature is managed at a level that minimises the risk to the welfare of poultry.
+
+Guidelines
+
+Temperature
+
+GA 7.1 Rapid changes in temperature should be avoided where possible.
+
+GA 7.2 Temperature and poultry behaviour should be monitored more frequently at high stocking densities and during extreme weather conditions.
+
+GA 7.3 Corrective action should be taken immediately if signs of stress (panting and wing extension due to heat or huddling due to cold) are observed.
+
+Ventilation
+
+GA 7.4 Extra attention should be paid to ventilation at high stocking densities and during extreme weather conditions.
+
+GA 7.5 Air quality parameters, such as temperature, humidity and ammonia levels, should be monitored and recorded daily. Poultry should be monitored for eye and nasal irritation that might indicate ammonia, dust or other air-quality problems.
+
+GA 7.6 Dust levels should be kept to a minimum by maintaining appropriate ventilation, and humidity levels and appropriate litter management.
+
+GA 7.7 Alarm systems in mechanically ventilated sheds should have:
+
+back-up power
+
+the ability to detect if the shed temperature is too high or too low and if there is a power failure in any power supply phase
+
+appropriate settings so that alarms are easily heard
+
+all-hours response availability with restoration of power or emergency ventilation within 15 minutes.
+
+A8 Litter management
+
+Objective
+
+Where litter is used, management is appropriate to minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 8.1 Where litter is used, a person in charge must ensure litter material is suitable for the species and of a good quality.
+
+SA 8.2 Where litter is used, a person in charge must take reasonable measures to minimise the risk of contamination of litter with toxic agents.
+
+SA 8.3 Where litter is used, a person in charge must manage litter to minimise caking, dustiness or wetness that impacts on the welfare of poultry.
+
+Guidelines
+
+GA 8.1 Where litter is re-used at the end of a batch, it should be treated to address pathogen loads and ammonia concentrations and be dry and friable at bird placement.
+
+GA 8.2 Where appropriate, poultry housed indoors should have access to a littered area, the litter occupying at least one third of the ground surface in order for birds to forage and dust-bathe. Litter should be at a depth suitable to the species.
+
+A9 Handling and husbandry
+
+Objective
+
+Handling and husbandry practices are appropriate and minimise the risk to the welfare of poultry.
+
+Standards
+
+SA 9.1 A person must manage and handle poultry in a manner that minimises pain, stress, or injury to birds.
+
+SA 9.2 A person must ensure care is taken in catching poultry to avoid creating panic and subsequent injury or smothering of the birds.
+
+SA 9.3 A person must free entrapped poultry at the first reasonable opportunity and, if possible, prevent this situation from recurring.
+
+SA 9.4 A person in charge must ensure that non-fasting induced moulting is not practiced except in exceptional circumstances and where approved by the relevant minister or delegate.
+
+SA 9.5 Fasting induced moulting must not be practiced.
+
+SA 9.6 A person in charge must ensure that where wing and leg bands are used, they are checked regularly and where necessary, loosened or removed.
+
+SA 9.7 A person other than a veterinarian must not perform pinioning, castration or devoicing, on poultry.
+
+SA 9.8 A person must not perform desnooding or dubbing for cosmetic purposes on poultry.
+
+SA 9.9 A person must only perform desnooding, despurring and web marking on day old hatchlings selected as potential breeders.
+
+SA 9.10 A person must only perform toe trimming and dubbing on day-old hatchlings selected as potential breeders, except under veterinary advice.
+
+SA 9.11 A person must use appropriate pain relief when carrying out painful procedures on poultry, where a suitable product is registered and available.
+
+SA 9.12 A person must not pluck live poultry other than to remove a small area of feathers for the purpose of facilitating a medical or surgical procedure.
+
+Artificial breeding
+
+SA 9.13 A person performing artificial breeding procedures on poultry must have the relevant knowledge, experience and skills, or be under the direct supervision of a person who has the relevant knowledge, experience, and skills.
+
+SA 9.14 A person performing artificial breeding procedures on poultry must take reasonable actions to minimise pain, distress or injury.
+
+Beak trimming
+
+SA 9.15 A person in charge must develop and implement strategies for managing injurious pecking that minimise the need for beak trimming.
+
+SA 9.16 By 1 July 2025 beak trimming when undertaken in a hatchery must be done using an infrared beam within 24 hours of take-off.
+
+SA 9.17 By 1 July 2025 hot-blade beak trimming must not be used, except during outbreaks of injurious feather pecking and only by skilled operators using well maintained equipment and only under veterinary advice.
+
+SA 9.18 A person must use appropriate tools and methods to trim the beaks of poultry.
+
+SA 9.19 A person using beak trimming methods must ensure no more than 30% of the upper and lower beak is removed.
+
+Blinkers
+
+SA 9.20 A person must not use blinkers, contact lenses or beak bits on poultry unless under veterinary advice.
+
+Hatching systems
+
+SA 9.21 A person in charge must monitor hatching systems daily including back-up systems and/or alarms.
+
+SA 9.22 A person must monitor incubators during hatching, and hatchlings that are found outside the trays must be returned to the tray or placed in brooders as soon as possible.
+
+SA 9.23 A person must ensure unhatched embryos are humanely and rapidly killed.
+
+SA 9.24 A person in charge must ensure cull or surplus hatchlings awaiting disposal are treated humanely and are humanely killed at the first reasonable opportunity.
+
+Guidelines
+
+Handling and management
+
+GA 9.1 The stocking density should be reviewed regularly and adjusted, considering factors such as breeding company recommendation, species, age, flock size, house or paddock conditions, behavioural needs and the likely occurrence of disease.
+
+GA 9.2 Poultry should be managed at a stocking density that takes into account:
+
+growth rate
+
+competition for space
+
+access to feeders and water
+
+air temperature and quality
+
+humidity
+
+litter quality
+
+housing system
+
+production system
+
+biosecurity strategy
+
+genetic stock
+
+market age and weight.
+
+GA 9.3 Manual handling of poultry should be kept to a minimum during stocking and depopulation.
+
+GA 9.4 A person should not carry birds by one leg.
+
+GA 9.5 Poultry should be released by setting them down on their feet or from low heights that enable them to land normally, feet first. Poultry should not be released in a manner that requires flying.
+
+GA 9.6 Mechanical catchers should be designed, operated, and maintained to minimise injury, stress and fear to the birds. A contingency plan is advisable in case of mechanical failure.
+
+GA 9.7 Poultry that are identified as unfit or injured before or during the catching procedure should be humanely killed immediately by an appropriately trained and competent operator.
+
+GA 9.8 A veterinarian should be consulted about the availability of appropriate pain relief products that can be prescribed for use in painful procedures.
+
+GA 9.9 Pullets should be reared in similar conditions as the intended production farm.
+
+GA 9.10 Where poultry are moved on conveyor belts, the maximum height difference between consecutive conveyor belts should not exceed 40 cm.
+
+GA 9.11 Sex ratios in breeding flocks should be monitored and adjusted to minimise aggressive or dominant behaviours.
+
+GA 9.12 Cutting of feathers, including the wing feathers, from live birds should only be carried out by a person who has the relevant experience, knowledge and skills in the procedure.
+
+GA 9.13 Feathers should be cut no closer than 10 mm to the bloodlines. Feathers without a ripe bloodless clearance above the bloodline should be left on the bird.
+
+GA 9.14 Guardian and herding animals used to protect and move flocks should be appropriately trained to not harm the birds.
+
+GA 9.15 The use of handling aids such as crooks should be limited to the minimum needed to complete the task and not replace good poultry-handling skills.
+
+Beak trimming
+
+GA 9.16 New, more humane technologies and methods for performing physical alterations and reducing aggressive behaviours should be adopted as they become available.
+
+GA 9.17 Beak trimming, other than infrared, should only be carried out under veterinary advice by trained and skilled personnel using methods which minimises pain.
+
+GA 9.18 Strategies to minimise injurious feather pecking and avoid beak trimming should be used including appropriate genetic selection of birds, lighting, feed control and the provision of environmental enrichment and pecking objects.
+
+Induced moulting
+
+GA 9.19 Induced non-fasting moulting should only be considered in exceptional circumstances where there is a supply shortage of eggs.
+
+GA 9.20 Induced non-fasting moulting should not result in birds losing 23% or more of their body weight.
+
+Identification
+
+GA 9.21 Identification devices permanently or temporarily attached to poultry should be lightweight and safe to both the identified bird and to other birds in the flock.
+
+Hatching systems
+
+GA 9.22 Hatching trays with live young birds should be moved smoothly. Trays should be tipped to remove chicks in such a way that the birds do not become trapped or smothered.
+
+GA 9.23 When in-ovo sexing technology becomes commercially available, it should be used to avoid the culling of hatched male layer chicks.
+
+A10 Humane killing
+
+Objective
+
+Where it is necessary to kill poultry outside of slaughtering establishments, it is done promptly, safely and humanely.
+
+Standards
+
+SA 10.1 A person in charge must ensure killing methods for poultry result in rapid death, or rapid loss of consciousness followed by death while unconscious.
+
+SA 10.2 A person must have the relevant knowledge, experience and skills to be able to humanely kill poultry, or be under the direct supervision of a person who has the relevant knowledge, experience and skills, unless:
+
+the poultry are suffering and need to be killed to prevent undue suffering
+
+there is an unreasonable delay until direct supervision by a person who has the relevant knowledge, experience and skills becomes available.
+
+SA 10.3 A person in charge of poultry which are suffering from severe distress, disease, or injury and that cannot be reasonably treated, or which have no prospect of recovery, must ensure that the poultry are humanely killed at the first reasonable opportunity.
+
+SA 10.4 A person must not use equipment that kills poultry by crushing the neck.
+
+SA 10.5 A person must not cause cervical dislocation by spinning the bird by the head.
+
+SA 10.6 A person killing poultry must take reasonable action to confirm the bird is dead.
+
+SA 10.7 A person in charge must adhere to the standards for humane killing (SA 10.1 to SA 10.6) during emergency depopulation, except in a declared emergency animal disease situation where the Chief Veterinary Officer (or equivalent) is satisfied that a welfare assessment has been conducted and all permitted killing methods have been explored and found impractical.
+
+Guidelines
+
+GA 10.1 Humane killing protocols should be documented.
+
+GA 10.2 Acceptable methods for the humane killing of poultry include:
+
+cervical dislocation or decapitation for poultry less than 5 kgs
+
+injectable euthanasia solution
+
+stunning by blunt trauma followed by decapitation or bleeding out for poultry over 5 kgs
+
+stunning with a bolt or pneumatic device designed for poultry followed by bleeding out
+
+killing with a bolt or pneumatic device designed to stun-kill poultry
+
+electrical stunning followed by an acceptable killing method
+
+modified atmosphere killing (MAK)
+
+firearm via a headshot for larger species
+
+immediate fragmentation or maceration for unhatched eggs and day-old chicks.
+
+GA 10.3 Gaseous modified atmosphere killing should only be conducted under veterinary advice.
+
+GA 10.4 When cervical dislocation is used, it should result in complete dislocation of the head or brain from the spinal cord causing cardiac and respiratory arrest and leading to death.
+
+GA 10.5 When using gaseous modified atmosphere killing, the procedure should ensure the collapse of every bird within 35 seconds of exposure to the gas. Poultry should remain in the gas for at least a further 5 minutes following collapse.
+
+GA 10.6 If using CO2-based modified atmosphere killing as an on-farm depopulation technique, up to 30% CO2 should be applied until poultry are unconscious, followed by higher concentrations until death.
+
+GA 10.7 As practical alternatives to CO2 based modified atmosphere killing are developed for on-farm depopulation, such as the use of inert gases or development of units that allow progressive hypobaric hypoxia including low-atmosphere pressure stunning (LAPS), these should be used.
+
+GA 10.8 When using gaseous modified atmosphere killing to kill poultry, birds should not be placed above the gas level or on top of conscious birds in the container.
+
+Confirming death in poultry after humane killing
+
+GA 10.9 Three or more signs should be observed to determine whether the method used for killing poultry has caused death, including:
+
+absence of a corneal ‘blink’ reflex when the eyeball is touched
+
+maximum dilation of the pupil
+
+absence of rhythmic respiratory movements for at least 5 minutes
+
+in case of cervical dislocation, manual verification of a clear gap of skin between the skull and the neck
+
+absence of a nictitating membrane (third eyelid) reflex
+
+loss of consciousness and deliberate movement, including eye movement.
+
+Bleeding out (exsanguination)
+
+GA 10.10 Bleeding out should only be done on unconscious poultry by cutting the main blood vessels in the neck using a suitable, sharp blade.
+
+Part B Commercial production standards and guidelines for poultry
+
+General standards and guidelines in Part A also apply to each species listed in Part B.
+
+B1 Laying chickens
+
+Standards
+
+General standards in Part A also apply to laying chickens.
+
+SB 1.1 A person in charge must ensure the minimum height of all cages is 55 cm over the useable space.
+
+SB 1.2 A person in charge must ensure that if multi-level housing systems are used:
+
+each level is easily accessible to the hens
+
+headroom between the levels is a minimum height of 45 cm
+
+all levels are accessible to stock workers to observe and reach birds which are sick or injured
+
+feeding and watering facilities are distributed to provide ready access to all hens.
+
+SB 1.3 A person in charge must ensure that from 16 weeks, where hens are housed under artificial light, lighting schedules provide a minimum of 4 hours of continuous darkness and at least 6 hours total darkness in each 24-hour period, except under the circumstances described in SA 6.5.
+
+SB 1.4 A person must not lift or carry laying chickens by the head, neck, wings, feathers or tail feathers unless otherwise supported by the breast, except if lifted and carried by the base of both wings.
+
+SB 1.5 Where a veranda is provided, it must be designed, constructed and maintained to encourage birds to access the veranda area and to provide:
+
+adequate shade and shelter
+
+adequate air exchange to manage airflow, temperature, humidity and dust
+
+suitable substrate.
+
+SB 1.6 A person in charge must provide layer hens with access to nest areas from point of lay.
+
+SB 1.7 A person in charge must provide a minimum of one single nest area for every 7 birds or 1 m2 nesting area for every 120 birds from point of lay.
+
+SB 1.8 A person in charge must provide hens access to perches or platforms.
+
+SB 1.9 A person in charge must ensure perch or platform space for hens is a minimum of 15 cm per laying hen.
+
+SB 1.10 A person in charge must provide hens with access to a scratch area and/or claw-shortening device as well as appropriate substrate for pecking, foraging and scratching, unless the birds have access to an outdoor area.
+
+Stocking densities cage systems
+
+SB 1.11 A person in charge must ensure that all caged laying chickens have:
+
+750 cm2 of useable space per bird if kept in a cage of 2 or more birds
+
+1,000 cm2 of useable space if a bird is kept in a single cage.
+
+SB 1.12 All cage-based housing facilities installed after 1 July 2022 must meet the requirements of standards SB 1.1 and SB 1.6 to SB 1.11.
+
+SB 1.13 A person in charge of layer hens must ensure that any cage-based housing system meets the requirements of standards SB 1.1 and SB 1.6 to SB 1.11:
+
+from 1 July 2032, if the cage system was installed before the close of 31 December 2011
+
+from 1 July 2033, if the cage system was installed after 31 December 2011 but before the close of 31 December 2012
+
+from 1 July 2034, if the cage system was installed after 31 December 2012 but before the close of 31 December 2013
+
+from 1 July 2035, if the cage system was installed after 31 December 2013 but before the close of 31 December 2014
+
+from 1 July 2036, if the cage system was installed after 31 December 2014.
+
+Stocking densities non-cage systems
+
+SB 1.14 A person in charge must not exceed a stocking density in ideal conditions indoors of 30 kg/m2 for rearing laying pullets and for managing adult laying chickens.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to laying chickens.
+
+GB 1.1 The slope of the floor should not exceed 8 degrees. If mesh flooring is used, the mesh size should be less than 25 mm × 25 mm.
+
+GB 1.2 If slatted or perforated flooring is used, the size of the dimensions of the gaps or perforations should be no greater than 25 mm.
+
+Lighting
+
+GB 1.3 The lighting system should provide a minimum period of 8 hours of continuous artificial or natural lighting per day.
+
+Litter
+
+GB 1.4 For non-cage systems, unless the poultry can access outdoor areas the litter area should provide sufficient space to allow at least one third of the flock to forage and dust-bathe at any one time.
+
+GB 1.5 When using litter, poultry should be given continuous access to litter as soon as possible but no later than 3 weeks following production site placement allowing for a period in which to train birds to use the nests.
+
+Nest areas
+
+GB 1.6 If nests are provided, there should be a sufficient number of appropriately sized nests for the strain and number of hens in each group.
+
+GB 1.7 Nest areas should be enclosed and provide a suitable floor substrate to encourage nesting behaviour.
+
+GB 1.8 Nest area flooring should not consist of wire or plastic-coated wire.
+
+GB 1.9 Nest areas should be kept clean and operational.
+
+GB 1.10 During nest-area training, nest-area lighting should:
+
+only be turned on in the morning
+
+be turned off in the afternoon
+
+not be used once birds have learnt to lay in the nest.
+
+GB 1.11 Alternatives to electric wires should be considered. If electric wires are used along walls and corners to prevent floor eggs, these should:
+
+only be turned on in the morning during nest-area training
+
+be turned off in the afternoon
+
+not be used once birds have learnt to lay in the nest.
+
+GB 1.12 Where a large number of floor eggs are found, efforts should be made to identify if there is a problem with the nest areas and to rectify the problem.
+
+Veranda
+
+GB 1.13 Birds should be given access to the veranda as soon as possible but no later than 3 weeks following placement allowing for a period in which to train birds to use the nests.
+
+GB 1.14 The veranda should be designed, constructed and maintained to provide shade, natural light and good airflow.
+
+GB 1.15 The useable floor area of the veranda should provide sufficient space to allow at least one third of the flock to forage and dust-bathe at any one time.
+
+GB 1.16 The roof of the veranda should be waterproof.
+
+GB 1.17 The design, number and position of openings that provide access to the veranda should:
+
+be of a minimum height and width and free of objects or protrusions to allow birds to pass through using normal posture
+
+be evenly distributed along the entire length of the shed
+
+give birds a clear view of the veranda from within the shed
+
+avoid birds obstructing the movement of other birds
+
+avoid injury to birds
+
+take into account prevailing weather conditions
+
+allow for unrestricted entry or egress to the veranda from the shed.
+
+GB 1.18 Any ramps for birds to access the veranda should:
+
+be of a minimal slope to allow birds to walk up and down the ramp with normal gait
+
+provide a non-slip surface.
+
+Outdoor area
+
+GB 1.19 A daily record specifying the date and times of availability of access to the outdoor area should be kept.
+
+GB 1.20 Birds should be observed to be using shade or shelter structures and action taken to modify facilities if required.
+
+GB 1.21 Feed and drinking water should not be provided in the outdoor area.
+
+GB 1.22 The opening that provides access between indoor and outside areas (pop hole) should be at least 35 cm high and 40 cm wide with a combined total width of all openings being 2 m for each 1,000 birds.
+
+B2 Meat chickens
+
+Standards
+
+General standards in Part A also apply to meat chickens.
+
+SB 2.1 A person in charge must ensure that, after 7 days of age, lighting patterns must encourage activity and provide a minimum period of 4 hours of continuous darkness with 6 hours of total darkness each day – except on the day of pick-up and during very hot weather.
+
+SB 2.2 A person must not perform beak trimming or toe trimming on meat chickens, unless under veterinary advice.
+
+SB 2.3 A person must not lift or carry meat chickens by the head, neck, wings, feathers, or tail feathers unless otherwise supported by the breast, except if lifted and carried by the base of both wings.
+
+SB 2.4 Where a veranda is provided, it must be designed, constructed, and maintained to encourage meat chickens to access the veranda area, and to provide:
+
+adequate shade and shelter
+
+adequate air exchange to manage airflow, temperature, humidity and dust
+
+suitable substrate.
+
+Maximum acceptable live-weight densities for meat chickens (non-cage systems)
+
+SB 2.5 A person in charge must ensure the maximum stocking densities for meat chickens do not exceed those shown in Table 1.
+
+Table 1 Space allowance requirements for meat chickens
+
+n/a Not applicable.
+
+Note: Winter is pick-up occurring between 1 April and 30 September. Summer is pick-up occurring between 1 October and 31 March.
+
+SB 2.6 A person in charge of chickens over 10 days old, if kept at a stocking density greater than 34 kg/m2, must:
+
+monitor and record the relative humidity, ammonia and maximum temperature levels daily
+
+take reasonable action to reduce stocking density if relative humidity, temperature and ammonia levels consistently exceed over 3 or more consecutive days
+
+a relative humidity of 70%
+
+a temperature of 32°C
+
+ammonia levels of 15 ppm
+
+maintain records of stocking density, relative humidity, ammonia, and maximum temperature levels for 2 years.
+
+SB 2.7 A person must ensure birds have enough space to stand, turn around and flap their wings.
+
+SB 2.8 A person must ensure space allowance is sufficient to allow all birds to be able to sit at the same time.
+
+SB 2.9 A person must ensure water is available until the start of pickup.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to meat chickens.
+
+GB 2.1 Catching of meat chickens should be carried out under dim or blue light.
+
+GB 2.2 If slatted or perforated plastic flooring is used, the smaller of the dimensions of the gaps or perforations should be no greater than 25 mm.
+
+GB 2.3 Ongoing health and/or injury data should indicate that the stocking density does not compromise bird welfare.
+
+GB 2.4 Meat chickens should be inspected at least twice daily.
+
+GB 2.5 When considering stocking densities for future flocks, records of previous flocks should be reviewed, including post-slaughter data from processing plants of feet, hock, and breast lesions.
+
+Birds with access to outdoor areas
+
+GB 2.6 Feed and drinking water should not be provided in the outdoor area.
+
+GB 2.7 The opening that provides access between indoor and outside areas (‘pop hole’) should be at least 35 cm high and 40 cm wide with a combined total width of all openings being 2 m for each 1,000 birds.
+
+GB 2.8 A daily record specifying the dates and times of availability of access to the outdoor area should be kept.
+
+GB 2.9 The design, number and positioning of openings that provide access to the outdoor area should:
+
+be of a minimum height and width and free of objects or protrusions to allow birds to pass through using normal posture
+
+be evenly distributed along the entire length of the shed
+
+give birds a clear view of the outdoor area from within the shed
+
+avoid birds obstructing the movement of other birds
+
+avoid injury to birds
+
+take into account prevailing weather conditions
+
+should allow for unrestricted entry or egress to the outdoor area from the shed.
+
+GB 2.10 Any ramps for birds to access the outdoor area should:
+
+be of a minimal slope to allow birds to walk up and down the ramp with normal gait
+
+provide a non-slip surface.
+
+Controlled environment housing
+
+GB 2.11 Daily water intake should be monitored and recorded.
+
+GB 2.12 Alarms should be installed and maintained to alert personnel when housing environmental conditions are out of acceptable ranges.
+
+B3 Meat and laying chicken breeders
+
+‘Breeders’ include (Gallus gallus) being reared and managed for purposes of breeding either laying chickens or meat chickens.
+
+Standards
+
+General standards in Part A also apply to meat and laying chicken breeders.
+
+SB 3.1 A person in charge must ensure that if cages are used, the minimum height of all cages is 55 cm over the useable space.
+
+SB 3.2 A person in charge must ensure that if multi-level housing systems are used:
+
+each level is easily accessible to the hens
+
+headroom between the levels is a minimum height of 45 cm
+
+all levels are accessible to stock workers to observe and reach birds that are sick or injured
+
+feeding and watering facilities are distributed to provide equal and ready access for all hens.
+
+SB 3.3 A person in charge must ensure that from 16 weeks, where hens are housed under artificial light, lighting schedules must provide a minimum of 4 hours of continuous darkness and at least 6 hours total darkness in each 24-hour period, except under the circumstances described in SA 6.5.
+
+SB 3.4 A person must not lift or carry meat and laying chicken breeders by the head, neck, wings, feathers or tail feathers unless otherwise supported by the breast, except if lifted and carried by the base of both wings.
+
+SB 3.5 A person must provide nest areas during the egg-production phase.
+
+SB 3.6 A person in charge must provide chicken breeders over 7 days of age with access to perches and/or platforms.
+
+SB 3.7 A person in charge must ensure roosting space for layer breeders is not less than 15 cm per bird.
+
+SB 3.8 A person in charge must provide chicken breeders access to a scratch area and/or claw-shortening device.
+
+SB 3.9 A person in charge must provide a minimum of one single nest area for every 7 birds or 1 m2 nesting area for every 120 birds from point of lay.
+
+Stocking densities cage systems
+
+SB 3.10 A person in charge must ensure that all caged chicken breeders have as a minimum:
+
+750 cm2 of useable space allowance per bird if kept in a cage of 2 or more birds
+
+1,000 cm2 of useable space allowance if a bird is kept in a single cage.
+
+Stocking densities non-cage systems
+
+SB 3.11 From 1 July 2032, a person in charge must not exceed a stocking density in ideal conditions indoors of 30 kg/m2 (measured as bird density in the useable space) for pullets and adult birds (including roosters).
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to chicken breeders.
+
+The guidelines in B2 Meat chickens are also recommended to apply, as appropriate, to the husbandry methods being used to rear and manage chicken breeders.
+
+GB 3.1 Where slatted or perforated plastic flooring is used, the smaller of the dimensions of the gaps or perforations should be no greater than 25 mm.
+
+GB 3.2 Catching of breeder chickens should be carried out under dim or blue light.
+
+B4 Ducks
+
+Standards
+
+General standards in Part A also apply to ducks.
+
+SB 4.1 A person must not lift or carry ducks by the head, legs, wings, feathers or tail feathers unless otherwise supported by the breast.
+
+SB 4.2 A person must not undertake bill trimming on ducks unless under veterinary advice.
+
+SB 4.3 A person in charge must provide all ducks access to water sufficient to stimulate preening and to allow birds to clean their eyes and nostrils.
+
+SB 4.4 A person in charge must ensure:
+
+facilities are provided to allow all breeder ducks reasonable access to dip their heads under water, or
+
+showers are provided to allow ducks to wet preen and to clean their eyes and nostrils.
+
+All facilities installed after 1 July 2022 must comply, and facilities constructed prior to this date must comply by 1 July 2032.
+
+SB 4.5 A person in charge must ensure nest areas are provided for layer ducks and duck breeders from the point of lay.
+
+SB 4.6 A person in charge must take reasonable actions to keep litter dry and away from water sources.
+
+SB 4.7 A person must ensure birds have enough space to stand, turn around and flap their wings.
+
+SB 4.8 A person must ensure space allowance is sufficient to allow all birds to be able to sit at the same time.
+
+Space allowances
+
+SB 4.9 A person must ensure the maximum recommended stocking densities for ducks according to housing type and under good management conditions Table 2.
+
+Table 2 Space allowance requirements for ducks
+
+Note: Lighter stocking densities are necessary for heavier breeds such as muscovies.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to ducks.
+
+Management practices
+
+GB 4.1 If bill trimming is required under veterinary advice, it should only be carried out by a skilled operator and only the rim at the front of the upper bill is to be removed.
+
+GB 4.2 Water facilities should be sufficient in number and designed to allow water to cover the head and be taken up by the bill so that the duck can shake water over the body without difficulty.
+
+GB 4.3 Good management of water sources should include:
+
+being located on an elevated drinking area to allow wastewater to drain away
+
+being on good quality plastic slats to avoid foot problems
+
+gently sloping ramps to access elevated water sources
+
+bordered by a low, solid fence to prevent water being splashed into dry areas.
+
+GB 4.4 New technologies that provide surface water for ducks without compromising litter management or environmental outcomes should be investigated and adopted when they become available.
+
+GB 4.5 Handling ducks should be undertaken only by competent persons who have been appropriately trained.
+
+GB 4.6 Handling ducks should be carried out quietly and confidently, exercising care to avoid unnecessary struggling which could bruise or otherwise injure ducks.
+
+GB 4.7 In hot weather, handling ducks should be carried out during the coolest part of the day.
+
+GB 4.8 Where slatted or perforated plastic flooring is used, the smaller of the dimensions of the gaps or perforations should be no greater than 25 mm.
+
+B5 Emus
+
+Standards
+
+General standards in Part A also apply to emus.
+
+SB 5.1 A person in charge must ensure that natural aggression is effectively managed.
+
+SB 5.2 A person in charge must ensure emus have enough space to stand, turn around and flap their wings.
+
+SB 5.3 A person in charge must ensure space allowance is sufficient to allow all emus to be able to sit at the same time.
+
+Chicks
+
+SB 5.4 A person in charge must not house chicks in groups of more than 200 for the first 4 weeks of life and must ensure adequate heating is provided to prevent huddling that would cause smothering.
+
+Blackhead or juvenile emus – 4 weeks to 12 months old
+
+SB 5.5 A person in charge must ensure emus kept inside are provided with access to an outside area of at least 15 m by 2 m.
+
+SB 5.6 A person in charge must ensure blackhead or juveniles in open conditions are provided with effective windbreaks or other shelter.
+
+SB 5.7 A person in charge must ensure stocking rates for birds raised in open conditions vary from 175 birds/ha for dry or bare conditions to 250 birds/ha for lush or irrigated conditions.
+
+Yearling emus – 12 months old to processing
+
+SB 5.8 A person in charge must ensure yearlings are housed in open conditions at stocking rates from 100 birds/ha for dry or bare conditions to 175 birds/ha for lush or irrigated conditions.
+
+Mature or breeding emus
+
+SB 5.9 A person in charge must ensure that where emus are kept as breeding pairs each pair is provided with a minimum pen size of 400 m2, which must be securely fenced.
+
+SB 5.10 A person in charge must ensure in low rainfall areas and where there is little vegetation, stocking rates are decreased, except if supplementary feed is provided.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to emus.
+
+Food and water
+
+GB 5.1 Young chicks should not be fed fibrous or coarse food as it may become impacted and cause obstruction.
+
+GB 5.2 Care should be taken when changing the environment of emus in order to prevent impactions and nutritional imbalances.
+
+GB 5.3 Where chicks and yearlings are reared in groups of over 100, multiple feed points should be provided in each pen.
+
+GB 5.4 Newly hatched chicks should have access to feed every 24 hours, but this may be extended to not more than 48 hours.
+
+Housing and handling yards
+
+GB 5.5 Fencing should be at least 1.5 m high in all yards for adult emus and should be of adequate height to suitably contain pre-adult birds.
+
+GB 5.6 Where portable yards are used, the partitions should be well constructed and yard flooring should be firm to avoid injury to birds and birds being clawed by other birds.
+
+GB 5.7 All fences in handling facilities should have solid sides so that emus cannot see outside the confines of the yard.
+
+GB 5.8 A person should ensure effective environmental enrichment is provided to emus, including foraging materials.
+
+GB 5.9 A person should ensure nest materials are available for emu breeders when in lay.
+
+Chicks
+
+GB 5.10 To avoid injury to the chicks, separation of the hen or chicks should occur before the first chicks hatch.
+
+GB 5.11 Chicks should be given access to an outside area from 2 days of age depending on climatic conditions.
+
+GB 5.12 Outdoor areas for chicks under 4 weeks old should be covered to protect chicks from predation.
+
+Equipment
+
+GB 5.13 Feeders and waterers should be located well away from fence lines to avoid injury if conflicts occur while eating or drinking.
+
+GB 5.14 Automated hatchery equipment should have adequate back-up systems, which should include an alarm system or generator in case of power failure.
+
+Temperature
+
+GB 5.15 Heating provided should be a minimum of 20°C and a mean temperature of 25°C in the first 4 weeks of life.
+
+Lighting
+
+GB 5.16 Where emus do not have access to daylight, they should be exposed to artificial light for at least 8 hours per day.
+
+GB 5.17 A blackout training period from one day of age should occur each day to customise the birds in the event of a lighting failure.
+
+GB 5.18 For the first few days after hatching, young chicks reared away from their father should be provided with a high light intensity of 40 lux on the food and water so they can learn to find it.
+
+Handling
+
+GB 5.19 Emus should be picked up by supporting the body.
+
+GB 5.20 When birds are herded, actions should be taken to ensure birds remain calm and injuries, aggression and stress are minimised. This may include darkening the yard entrance by covering raceways, or the use of corrals or partitions.
+
+GB 5.21 Experienced handlers can use the wings and pressure on the rump to help guide emus. Care should be taken when handling by the wings as the limbs are easily damaged.
+
+GB 5.22 Introducing non-socialised birds into such groups should be minimised to avoid the potential for aggression and injury.
+
+Hatchery management
+
+GB 5.23 Soiled eggs should not be placed into an incubator.
+
+GB 5.24 Emu chicks should be brooded within 24 hours of hatching.
+
+GB 5.25 Chicks in brooders should be inspected at least once every 12 hours and action taken to correct problems as they occur.
+
+GB 5.26 Waste should not be stored or allowed to accumulate in the vicinity of the incubators.
+
+GB 5.27 Incubators should be thoroughly disinfected between batches.
+
+GB 5.28 When necessary, chicks should be humanely killed by cervical dislocation by an experienced person.
+
+Humane killing
+
+GB 5.29 The recommended methods for humane killing that should be used are:
+
+for adult birds – a firearm, or sedation followed by captive bolt or decapitation
+
+for young birds – stunning followed by decapitation or bleeding to ensure death.
+
+GB 5.30 A shotgun should be used as the preferred firearm for humane killing where close restraint is not possible.
+
+B6 Geese
+
+Standards
+
+General standards in Part A also apply to geese.
+
+SB 6.1 A person must not catch geese by the legs or feet.
+
+SB 6.2 A person must not lift or carry geese by the head, neck, legs or feet, wings, feathers or tail feathers unless otherwise supported by the breast.
+
+SB 6.3 A person in charge must ensure shelter on a range provides 1 m2/bird coverage.
+
+SB 6.4 A person in charge must ensure a single pair of geese is kept in an area of at least a minimum of 3 m2.
+
+SB 6.5 A person must ensure geese have enough space to stand, turn around and flap their wings.
+
+SB 6.6 A person must ensure space allowance is sufficient to allow all geese to be able to sit at the same time.
+
+SB 6.7 A person must ensure the maximum recommended stocking densities for geese Table 3 according to housing type and under good management conditions are.
+
+Table 3 Space allowance requirements for geese
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to geese.
+
+GB 6.1 Geese should be provided with food supplementation for growth and reproduction.
+
+GB 6.2 Geese should always be caught by the neck.
+
+GB 6.3 Handling aids such as a catching crook should be used to catch geese.
+
+GB 6.4 Effective but not excessive restraint should be used to minimise movement and to enable the task to be done quickly and efficiently.
+
+GB 6.5 Temporary catching pens should be used where appropriate.
+
+GB 6.6 Light breeds should be lifted and carried by the base of both wings and neck, supported by the breast.
+
+GB 6.7 Heavy breeds should only be lifted from 2 points, base of both wings or the neck and supported under the breast. Heavy breeds should only be carried short distances when using this method.
+
+GB 6.8 A person should ensure geese are provided with effective environmental enrichment, including foraging materials and access to water for wet preening.
+
+GB 6.9 A person should ensure nest areas and materials are provided for breeding geese when in lay.
+
+B7 Guinea fowl
+
+Standards
+
+General standards in Part A also apply to guinea fowl.
+
+SB 7.1 A person must not lift or carry guinea fowl by the head, legs, neck, wings, feathers, or tail feathers unless otherwise supported by the breast.
+
+SB 7.2 A person must ensure the maximum stocking densities for guinea fowl under good management conditions are Table 4.
+
+Table 4 Space allowance requirements for guinea fowl
+
+SB 7.3 A person in charge must ensure that guinea fowl have access to suitable perches and/or platforms.
+
+SB 7.4 A person must ensure guinea fowl have enough space to stand, turn around and flap their wings.
+
+SB 7.5 A person must ensure space allowance is sufficient to allow all guinea fowl to be able to sit at the same time.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to guinea fowl.
+
+GB 7.1 Pens and houses should be constructed using small gauge wire mesh.
+
+GB 7.2 Adult guinea fowl should be kept at 22°C.
+
+GB 7.3 Guinea fowl keets (chicks) should be kept at a brooding temperature of 37°C for the first 3 weeks followed by a 1°C reduction for each of the next 2 weeks.
+
+GB 7.4 Guinea fowl keets (chicks) should be provided heat for the first 6 weeks.
+
+GB 7.5 Guinea fowl should be provided with a high protein diet.
+
+GB 7.6 A person should ensure that guinea fowl are provided with effective environmental enrichment, including foraging materials and cover for hiding.
+
+GB 7.7 A person should ensure nest areas and materials are provided for guinea fowl breeders when in lay.
+
+B8 Ostriches
+
+Standards
+
+General standards in Part A also apply to ostriches.
+
+SB 8.1 A person must ensure that if a bird has difficulty in rising or walking and has significant leg heat, pain and/or swelling, veterinary advice is sought, or the bird is humanely killed.
+
+SB 8.2 A person in charge must ensure ostriches have enough space to stand, turn around and flap their wings.
+
+SB 8.3 A person in charge must ensure space allowance is sufficient to allow all ostriches to be able to sit at the same time.
+
+SB 8.4 A person in charge must provide supplementary feed to birds kept in dry and bare conditions.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to ostriches.
+
+Handling
+
+GB 8.1 Ostriches should be picked up by supporting the body.
+
+GB 8.2 Chicks should be brooded within 24 hours of hatching.
+
+GB 8.3 Chicks in the brooder should be inspected several times throughout the day.
+
+GB 8.4 Hooding of the head should be practised as a safe and reliable method of restraint for ostrich over 6 months of age. When hooded, birds should be restrained and attended at all times.
+
+GB 8.5 A shepherd’s type crook should be used with care to restrain the head and bring it into position for applying a hood to adult birds, particularly to mature males.
+
+Housing
+
+GB 8.6 Where ostriches are held as breeding pairs, they should be kept in a well-fenced pen of at least 25 m × 60 m.
+
+GB 8.7 Where breeding trios are kept, the minimum pen size of 30 m × 70 m should be adopted.
+
+GB 8.8 When breeding pairs are housed under range conditions, the birds on the range should be monitored regularly.
+
+GB 8.9 Where chicks and juveniles are reared in groups, feed points should be located to enable all birds to eat at the same time.
+
+GB 8.10 Fencing should be sufficient to ensure that ostriches cannot escape.
+
+GB 8.11 Chicks after brooding should have access to outside areas at an early age, paying due respect to the climatic conditions.
+
+GB 8.12 A person should ensure ostriches are provided with effective environmental enrichment, including foraging opportunities.
+
+GB 8.13 A person should ensure nest areas are provided for ostrich breeders when in lay.
+
+Feed and water
+
+GB 8.14 Chicks under 8 weeks of age should have food available for at least 10 hours per day.
+
+Fencing and yards
+
+GB 8.15 Fencing should be sufficiently close to the ground to prevent birds pushing under the wire. Where possible on fences, wire should be fixed on the inside of the posts.
+
+GB 8.16 All fences in handling yards and transportation facilities should be solid sided and high enough to block the ostriches’ vision if possible. Ostriches will be calmer when placed in such an environment.
+
+Humane killing
+
+GB 8.17 When necessary, chicks should be humanely killed by cervical dislocation by a person experienced in this technique.
+
+GB 8.18 Where a firearm is used, a .22 calibre long rifle or magnum should be used for the humane killing of ostriches.
+
+GB 8.19 A shotgun should be used as the preferred firearm for humane killing where close restraint is not possible.
+
+B9 Partridge
+
+Standards
+
+General standards in Part A also apply to partridge.
+
+SB 9.1 A person must not lift or carry partridge by the head, legs, neck, wings, feathers or tail feathers unless otherwise supported by the breast.
+
+SB 9.2 A person must ensure partridges have enough space to stand, turn around and flap their wings.
+
+SB 9.3 A person must ensure space allowance is sufficient to allow all partridges to be able to sit at the same time.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to partridge.
+
+GB 9.1 The yards should have a soft roof (for example, grapevine netting) to avoid damage to any birds in flight.
+
+GB 9.2 Yards should be well drained.
+
+GB 9.3 Pens and houses should be constructed using small gauge wire mesh.
+
+GB 9.4 A person should ensure partridge are provided with effective environmental enrichment including foraging materials and cover for hiding.
+
+GB 9.5 A person should ensure nest areas and materials are provided for partridge breeders when in lay.
+
+B10 Pheasants
+
+Standards
+
+General standards in Part A also apply to pheasants.
+
+SB 10.1 A person must not lift or carry pheasants by the head, legs, neck, wings, feathers or tail feathers unless otherwise supported by the breast.
+
+Space allowances
+
+SB 10.2 A person must ensure pheasants have enough space to stand, turn around and flap their wings.
+
+SB 10.3 A person must ensure space allowance is sufficient to allow all pheasants to be able to sit at the same time.
+
+SB 10.4 A person must provide pheasants access to perches and/or platforms.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to pheasants.
+
+GB 10.1 The yards should have a soft roof (for example, grapevine netting) to avoid damage to any birds in flight.
+
+GB 10.2 Yards should be well drained.
+
+GB 10.3 Wire grids should be fitted to drinkers to prevent drowning.
+
+GB 10.4 Pens and houses should be constructed using small gauge wire mesh.
+
+GB 10.5 A person should ensure pheasants are provided with effective environmental enrichment, including foraging materials and cover for hiding.
+
+GB 10.6 A person should ensure nest areas and materials are provided for pheasant breeders when in lay.
+
+B11 Pigeons
+
+Standards
+
+General standards in Part A also apply to pigeons.
+
+SB 11.1 A person in charge must ensure every effort is made to avoid aggression from male birds towards both hen birds and immature nestlings by the appropriate selection of breeding stock coupled with appropriate housing.
+
+SB 11.2 A person must not lift or carry pigeons by the head, legs, neck, wings, feathers, or tail feathers unless otherwise supported by the breast.
+
+SB 11.3 A person in charge must ensure pigeons are not weaned before they are capable of feeding and drinking independently of their parents.
+
+SB 11.4 A person in charge must ensure that at all times there are more perches either box or V shaped – available in the loft than resident pigeons.
+
+SB 11.5 A person must ensure pigeons have enough space to stand, turn around and flap their wings.
+
+SB 11.6 A person must ensure space allowance is sufficient to allow all pigeons to be able to sit at the same time.
+
+Racing
+
+SB 11.7 A person in charge must ensure racing pigeons are not released away from the home loft for racing into extreme weather conditions or if there is heavy, lingering fog in any portion of the return journey.
+
+SB 11.8 A person in charge must ensure that racing pigeons are supervised when released around the home loft.
+
+SB 11.9 A person in charge must ensure that open lofting of racing pigeons is supervised.
+
+SB 11.10 A person in charge must ensure adult racing pigeons have a minimum floor space of 200 cm2/bird during transport.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to pigeons.
+
+Housing
+
+GB 11.1 Stock bird lofts should be roofed to maintain dry nesting areas.
+
+GB 11.2 Perches should be provided at several levels.
+
+GB 11.3 Nest areas should have provision for 2 sections in the event the hen needs to seek refuge from the cock bird.
+
+GB 11.4 Nest bowls should be lined with a non-slip material or nesting material supplied.
+
+GB 11.5 Wherever possible mated pairs should be provided with a nest area.
+
+GB 11.6 A person should ensure effective environmental enrichment is provided to pigeons including perches or ledges and foraging material.
+
+Space allowances
+
+GB 11.7 Each breeding pair of pigeons should be provided with a minimum of 0.725 m2 of floor space including 0.275 m2 nesting area.
+
+GB 11.8 The minimum space available to each racing pigeon in the breeding loft should be 0.23 m3. The minimum space available in the breeding loft should be calculated as 2.5 times the allowance of the racing loft per pigeon (excluding nest areas).
+
+GB 11.9 The minimum space available to each bird in the racing loft should be 0.092 m3 or 450 mm × 450 mm × 450 mm.
+
+GB 11.10 If wire floors are used, mesh should be of not less than 18 gauge and 25 mm x 25 mm or its equivalent.
+
+GB 11.11 A person should ensure racing pigeons have daily opportunity for flight.
+
+GB 11.12 Other than for planned free flight and non-flight times, all racing pigeons should be confined within their home loft. Persistent fielding and/or roof sitting should be avoided.
+
+Racing pigeons
+
+GB 11.13 Free-flight exercise should be in accordance with a plan, and for at least 30 minutes duration per day during both pre-training and the race programme.
+
+GB 11.14 Racing pigeons should be released from race or training points:
+
+under clear sky conditions – release a minimum of 15 minutes after gazetted sunrise for the area
+
+under over-cast sky conditions – release a minimum of 30 minutes after gazetted sunrise for the area.
+
+GB 11.15 Off-the-ground lofts should have a minimum clearance height from the ground to floor level of 200 mm, allowing for a free flow of air under floor.
+
+GB 11.16 Off-the-ground loft flooring should be either trafficable:
+
+mesh grating floor, allowing droppings to pass though for collection below floor level
+
+timber floor with moisture absorptive qualities and for regular ease of scrape cleaning, for example, chipboard, or plywood.
+
+GB 11.17 On-ground lofts should have a concrete slab floor and a heavy-duty plastic moisture barrier laid underneath at pouring. Adequate floor-level ventilation should be provided.
+
+GB 11.18 External open aviaries and or sun yards which are exposed to the elements should be off the ground otherwise well drained, sanitary and vermin proof.
+
+GB 11.19 Metal housing roofs should be insulated.
+
+GB 11.20 Lofts should be lined with insulating materials for example, plywood or chipboard.
+
+GB 11.21 Racing pigeons should be fed and watered after exercise.
+
+B12 Quail
+
+Standards
+
+General standards in Part A also apply to quail.
+
+SB 12.1 A person in charge must ensure that the flooring provides secure footing and prevents leg injuries.
+
+SB 12.2 A person must not lift or carry quail by the head, legs, neck, wings, feathers, or tail feathers unless otherwise supported by the breast.
+
+Space allowances
+
+SB 12.3 A person must ensure quail have enough space to stand, turn around and flap their wings.
+
+SB 12.4 A person must ensure space allowance is sufficient to allow all quail to be able to sit at the same time.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to quail.
+
+GB 12.1 The maximum recommended stocking densities for quail should not exceed 55 birds per m2.
+
+GB 12.2 To minimise leg injuries and allow secure footing, suitable material such as corrugated cardboard, wood shavings or coarse paper should be used over the floor surface, particularly in the first 10 days of life.
+
+GB 12.3 Mesh should be small enough to prevent chicks escaping through side walls.
+
+GB 12.4 Pens, houses and cages should be constructed using small gauge wire mesh.
+
+GB 12.5 Covered nests covered shelter areas or solid opaque panels should be provided to quail to reduce stress.
+
+GB 12.6 Cage height should be at least 25 cm high and constructed to avoid injury from flight.
+
+GB 12.7 Appropriate environmental enrichment resources should be provided to quail, to provide opportunities such as nesting, foraging, pecking, scratching and dustbathing.
+
+GB 12.8 The yards should be well drained and have a soft roof (for example, grapevine netting) to avoid damage to any birds in flight.
+
+GB 12.9 Nest areas should be provided for quail breeders when in lay.
+
+GB 12.10 Steps should be taken to limit aggression between male breeder quails.
+
+B13 Turkeys
+
+Standards
+
+General standards in Part A also apply to turkeys.
+
+SB 13.1 A person must not lift or carry turkeys by the head, neck, wing extremities, feathers or tail feathers unless otherwise supported by the breast.
+
+SB 13.2 Nest areas must be provided for turkey breeders when in lay.
+
+SB 13.3 Turkey toms must not be overstimulated during semen collection. Any toms that show cloacal bleeding during collection must be rested for at least 3 to 4 days before being assessed for ongoing suitability for breeding.
+
+SB 13.4 A person in charge must provide turkeys access to perches and/or platforms, as well as access to pecking objects and/or substrate from 14 days of age.
+
+SB 13.5 A person must ensure turkeys have enough space to stand, turn around and flap their wings.
+
+SB 13.6 A person must ensure space allowance is sufficient to allow all birds to be able to sit at the same time.
+
+Stocking density
+
+SB 13.7 A person must ensure the maximum stocking densities for turkeys does not exceed those shown in Table 5.
+
+Table 5 Space allowance requirements for turkeys
+
+Note: Stocking density of other sheds should be less than the described controlled environment housing maximums. Controlled environment housing to be equipped with fans and foggers.
+
+A person in charge may use the maximum stocking densities described if additional monitoring steps are taken which must include:
+
+monitoring and recording the relative humidity, ammonia, and maximum temperature levels daily
+
+taking reasonable action to reduce stocking density if relative humidity, temperature, and ammonia levels consistently exceed over 3 or more consecutive days
+
+a relative humidity of 70%
+
+a temperature of 32°C
+
+ammonia levels of 15ppm
+
+and maintaining records of stocking density, relative humidity, ammonia, and maximum temperature levels for 2 years.
+
+If a person stocks at least 4 kg/m2 below the maximum for the relevant weight group, the additional monitoring steps are not required.
+
+Guidelines
+
+General guidelines that are recommended in Part A also apply to turkeys.
+
+Feed and water
+
+GB 13.1 Water intake should be monitored, and corrective action should be taken if found to be insufficient or excessive for their age.
+
+GB 13.2 Feed and drinking water should not be provided in the outdoor area.
+
+Housing
+
+GB 13.3 Part of the floor area for adult turkeys should be solid and, in case of adult breeding stock, the whole of the floor area should be solid.
+
+GB 13.4 A nesting area of at least 2700 cm2, per 5 breeding hens per nest should be provided.
+
+GB 13.5 A person should ensure effective environmental enrichment is provided to turkeys including foraging materials and cover for hiding.
+
+GB 13.6 Pop hole door height should be a minimum of 80cm high.
+
+Temperature
+
+GB 13.7 During brooding at day old, a temperature of 37°C measured 8 cm above the floor just under the rim of the brooder should be provided with general shed temperature of at least 21°C in the bird area.
+
+GB 13.8 With space-heated brooding systems, an environmental temperature of 33°C at day old should be provided.
+
+Lighting
+
+GB 13.9 Poults up to 7 days old should be provided with a minimum light intensity of 50 lux (measured at bird height level) across the full floor area of the brooding space to stimulate activity.
+
+GB 13.10 Lighting in sheds should provide a minimum period of 6 hours continuous artificial lighting per day (unless birds have access to natural daylight which provides at least the minimum required intensity) and a minimum period of 6 hours continuous darkness (with all lights off) to be provided at night, in every 24-hour period.
+
+Management practices
+
+GB 13.11 Before hens are mated naturally, they should be fitted with strong saddles (made from canvas, for example) to prevent injury to the backs and sides by the males.
+
+GB 13.12 The physical condition of birds should be monitored and recorded to enable future management decisions.
+
+Handling
+
+GB 13.13 When performing management procedures, the turkeys should be handled:
+
+by 2 legs with a minimal time upside down – for example, artificial insemination and weighing
+
+for breeder toms, by opposing wing and leg and protecting the breast for picking up at artificial insemination
+
+for vaccination in the back of the neck, by holding both wings very close to the body of the bird.
+
+GB 13.14 When catching poults (young turkeys), the catching technique should ensure:
+
+poults (young turkeys) are caught by both legs
+
+no more than 4 poults (young turkeys) per hand should be carried at once.
+
+GB 13.15 If catching into crates, approved methods for catching individual turkeys include:
+
+turkeys weighing 5 kg or less should be caught and carried by both legs with no more than 1 bird in each hand
+
+turkeys over 5 kg should be caught by grasping the shoulder wing furthest away from the catcher and using the other hand to hold both legs.
+
+GB 13.16 If catching into modules, turkeys should be caught by grasping the shoulder of the wing furthest from the catcher and using the other hand to hold both legs before lifting the bird up and into the drawer.
+
+GB 13.17 Turkeys should be placed onto the floor of the crate or module one at a time.

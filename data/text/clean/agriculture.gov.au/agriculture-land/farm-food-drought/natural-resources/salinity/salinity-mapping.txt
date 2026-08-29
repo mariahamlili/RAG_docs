@@ -1,0 +1,63 @@
+[expand all]
+
+The National Action Plan for Salinity and Water Quality (NAP)
+
+NAP was a joint Australian, state and territory government commitment to fund measures tackling salinity and water quality problems facing Australia’s rural industries, regional communities and environment. The plan targeted 21 priority regions that were most affected by salinity and water quality problems.
+
+The NAP committed $1.4 billion over seven years to June 2008 to support practical remedies, such as protecting and rehabilitating waterways, improving native vegetation, and undertaking engineering works and land and water use changes. Actions to tackle salinity and water quality problems in the priority regions included setting realistic and achievable regional targets for water quality and salinity; helping regional catchment management authorities develop and implement integrated natural resource management plans; and provide regional catchment management authorities and communities with advice and information for developing and implementing integrated management plans.
+
+To underpin and guide these activities, $21.4 million from the NAP funding was committed for stream sampling and salinity mapping in the Murray–Darling Basin. The Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) was charged with delivering the program and developed agreed funding priorities with the states and regional bodies in NAP priority regions in the Murray– Darling Basin. The program consisted of two elements, community stream sampling (for water quality, mainly salt content) and salinity mapping surveys using airborne electromagnetics technology.
+
+Airborne electromagnetics for natural resource management
+
+This website presents an overview of Airborne Electromagnetics (AEM) mapping surveys for natural resource management that were conducted across Australia over the past 10 years; mostly between 2001 and 2008 under the National Action Plan for Salinity and Water Quality. It also provides access to relevant reports and data products and presents the main findings in easily accessible summaries.
+
+See also Overview of airborne electromagnetics for salinity for a summary of what airborne electromagnetic surveys are, and Glossary for an explanation of technical terms used throughout this website.
+
+Salt and salinity mapping
+
+The National Land and Water Resources Audit’s dryland salinity assessment, in collaboration with the states and territories, defined the distribution and impact of dryland salinity across Australia. Best available estimates in 2000 showed that about 5.7 million hectares of land were within regions identified as being at risk of or affected by dryland salinity.
+
+Salt becomes a management issue when it threatens assets such as water resources, biodiversity, agriculture and infrastructure. Water can mobilise salt stored in the ground and transport it vertically and horizontally. Effective management of salinity requires an understanding of its causes, location and behaviour in the landscape. Accurate 3-D mapping of the landscape and pathways that control movement of water and dissolved salt is needed to understand what leads to salinity and to predict areas that could be at risk of salinity (Spies & Woodgate 2005).
+
+Airborne electromagnetic (AEM) surveys can map features below the ground surface . It is the only broadacre remote sensing technique that provides a reliable method of mapping salt and groundwater deeper than the root zone. AEM can also give complementary information on underground geological structures, such as palaeochannels, which control groundwater flow and therefore salinity. AEM survey is not, however, a standalone salinity mapping solution. To develop an accurate picture of an area’s salinity and hydrology, AEM survey results must be integrated with information derived from ground-truthing, calibration and validation and with other mapping methods (Spies & Woodgate 2005). An integrated methodology, using 3-D mapping of a landscape in combination with on-ground salinity and groundwater information will increasingly provide greater insight into salinity processes and salt store distribution.
+
+Location of salinity-related AEM surveys
+
+AEM surveys have been undertaken at a range of scales in New South Wales, Victoria, Queensland, South Australia, Western Australia and the Northern Territory. Below are maps that show the main study areas.
+
+Map 1: AEM survey areas, Australia
+
+         ![Map1: Australian Airborne electromagnetics (AEM) survey regions](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/natural-resources/airborne/map-1.gif) 
+
+Map 2: AEM survey areas in and adjacent to the Murray-Darling Basin
+
+         ![Map showing locations of airborne electromagnetics (AEM) surveys in and adjacent to the Murray Darling Basin](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/natural-resources/airborne/map-2.gif) 
+
+AEM surveys:
+
+New South Wales
+
+Map 3: AEM Survey Areas, Northern Australia
+
+![A map showing the Northern Australian AEM survey areas](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/natural-resources/airborne/map3.jpg)
+
+Northern Territory
+
+- Pine Creek (coastal saltwater intrusion)
+
+Overview of airborne electromagnetics for salinity
+
+AEM technology was originally developed for the mining industry where it continues to be used extensively. Subsequent technological innovation has developed and adapted AEM systems for natural resource management applications, with a number of recent AEM surveys focusing on environmental issues, such as salinity and water quality. Much recent development of AEM for natural resource management applications has been driven by the need for regional-scale mapping tools. Enhanced AEM data measurement systems and data processing have improved the quality of information derived from data and simplified AEM interpretation (Lane 2002).
+
+Interpreted AEM data provides a 3-D picture of where salt is stored in the landscape and the likely flow paths through which it could be mobilised. Subsurface salt can be mapped by measuring the bulk electrical conductivity of the ground.
+
+The bulk electrical conductivity signal that AEM measures is the combined effect and cumulative variability of water content, salinity, clay content and porosity of the ground. AEM surveys represent a snapshot in time of the bulk conductivity properties of the landscape. For more information on AEM read ‘What is Airborne Electromagnetics?’.
+
+Glossary
+
+Sources
+
+Lane R 2002, Ground and airborne electromagnetic methods. In: Papp E (Ed) 2002, Geophysical and Remote Sensing Methods for Regolith Exploration, CRC LEME Open File Report 144, pp 53-79.
+
+            view website.

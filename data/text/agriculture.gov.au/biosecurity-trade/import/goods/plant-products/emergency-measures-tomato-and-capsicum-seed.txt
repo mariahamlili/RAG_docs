@@ -1,0 +1,485 @@
+We are reviewing Australia’s policies for testing tomato and capsicum seed. As part of this process, we
+are making changes to existing testing requirements to reduce the risk of infected seed entering
+Australia. Phase 1 of this review focused on Tomato brown rugose fruit virus (ToBRFV) and Tomato
+mottle mosaic virus (ToMMV). We are now undertaking Phase 2, which reviews the testing
+requirements for Pepino mosaic virus (PePMV) and viroids.
+Phase 1 (Completed)
+Following the initially proposed changes and feedback received from stakeholders, we have updated our
+import conditions. The key changes include:
+laboratory authorisation - tomato and capsicum seed lots must be tested for ToBRFV and
+ToMMV by a department authorised laboratory
+updated diagnostic protocols (qPCR) for testing ToBRFV and ToMMV
+a defined threshold cycle/quantification cycle (Ct/Cq) cut-off value of 35 to determine the results
+of each of the qPCR tests
+updated information required on laboratory reports.
+The new requirements became mandatory import conditions on 12 November 2025.
+Phase 2
+We announced the commencement of Phase 2, a wider review of diagnostic testing requirements for
+tomato and capsicum seed, on 12 May 2026.
+Frequently asked questions – imported seed disease testing
+requirements
+Prior to 12 November 2025, we allowed all laboratories to conduct ToBRFV and ToMMV testing
+of tomato and capsicum seed lots. Under the new conditions, only laboratories authorised by us
+are permitted to perform these tests.
+Laboratories that are not yet authorised must apply for authorisation before testing tomato or
+capsicum seed for export to Australia.
+The list of authorised laboratories is available on our Department authorised seed testing
+laboratories webpage.
+The list is also linked to the applicable BICON cases import permit conditions for tomato
+and capsicum seed for sowing.
+The import conditions specify that, from 12 November 2025, only laboratories on this list
+are permitted to test tomato and capsicum seeds for ToBRFV and ToMMV
+Authorised laboratories are required to keep records of protocols and standard operating
+procedures, test results, and any decisions about potentially anomalous results.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+•
+
+Consignments that arrive on or after 12 November 2025 that did not meet the new requirements
+were offered onshore testing at an approved laboratory in Australia (at the importer’s expense),or
+export or disposal.
+In response to the detection of ToBRFV in Australia, we undertook a reviewing of our seed testing
+requirements for ToBRFV and ToMMV.
+The updated testing requirements aim to ensure that the risks presented by these viruses remain
+at an acceptable level, consistent with Australia's appropriate level of protection (ALOP).
+The updates also support improved assurance in offshore laboratory performance and enhance
+the diagnostic protocols used for seed testing.
+Changes to import conditions were communicated to industry via Import Industry Advice Notices
+and BICON alerts and updates to the Biosecurity Import Conditions (BICON) system.
+Laboratories that intend to test tomato and capsicum seed for export to Australia must register to
+be an authorised testing laboratory by completing a registration form confirming they will
+implement the revised testing requirements.
+The department published the list of authorised laboratories in advance of the new testing requirements
+commencing on 12 November 2025.
+Effective 12 November 2025, the following changes have been introduced to the testing protocols for
+tomato and capsicum seed:
+Specific qPCR protocols are approved for testing for ToBRFV and ToMMV.
+Authorised laboratories are required to use 2 of 3 approved qPCRs for each virus.
+A Ct (Cq) cut-off of 35 must be used to determine the results of each of the qPCR tests.
+The Alkowni et al (2019) and Levitzky et al (2019) end-point PCR tests are no longer approved for
+testing and have been removed from the list of approved protocols.
+These 2 end-point PCRs are no longer approved because they are less sensitive than the
+qPCRs and are not sufficiently sensitive to achieve the appropriate level of protection for
+Australia.
+Rules for retesting subsamples after potentially anomalous amplifications.
+Laboratories may retest a subsample seed-homogenate (seed slurry) or RNA extract
+following certain requirements.
+Only the approved qPCRs may be used for this retesting.
+Most of Australia’s requirements for tomato and capsicum seed importation remain unchanged. In
+particular:
+authorised seed testing laboratories will continue to determine the optimal reagents, cycle times
+and temperatures for each qPCR protocol
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+• 
+◦ 
+◦ 
+•
+
+no changes have been made relating to sampling, sample sizes, and nucleic acid extraction
+methods.
+The list of approved protocols and requirements for detecting ToBRFV and ToMMV are outlined
+at our Pathogen testing requirements webpage
+A common Ct cut-off value of 35 has been adopted to improve detection reliability and sensitivity,
+and to improve consistency between laboratories.
+Applying a common Ct threshold supports consistent result interpretation across different
+laboratories, leading to reliable regulatory decisions.
+The specified Ct cut-off of 35 balances the likelihood of detecting low levels of virus, while
+limiting the likelihood of false positives.
+Information from several sources informed this decision, including:
+Australian and international validation studies
+Australian laboratory experiences
+data and other information received from laboratories in response to the draft guidelines.
+Establishing a list of authorised laboratories has a number of benefits, including:
+Improved assurance of laboratory performance through the authorisation process
+Authorised laboratories are aware of the requirements and their responsibilities
+Test results from laboratories that have not been authorised will not be accepted as
+evidence to meet Australia’s biosecurity import conditions
+Targeted and consistent communication
+By establishing a list of authorised laboratories, communication with laboratories improves
+by ensuring relevant messages reach the relevant laboratories
+We are better able to consider specific concerns of laboratories
+More effective management of noncompliance
+Having a list of authorised laboratories allows us to remove laboratories that either are
+noncompliant or simply no longer interested in testing for the Australian market, with
+minimal ongoing engagement required
+Improved assurance of record keeping and documentation, aiding traceability
+For laboratories to be authorised, they are required to retain records of all testing
+performed for seed intended for export to Australia
+If potentially infected seed lots need to be traced, the retention of test results and other
+documentation is essential.
+There are 2 main reasons why the department requires 2 qPCR protocols for each virus:
+Minimising false negatives due to viral variations.
+Variations in viral genomic regions targeted by qPCR can disrupt primer and probe binding
+and compromise the test, potentially leading to false negatives. Virus variants that have not
+been recorded before may arise in the future and some existing variants will not have been
+isolated and sequenced.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+◦ 
+◦ 
+• 
+◦ 
+• 
+◦ 
+◦ 
+• 
+◦
+
+Employing 2 qPCR assays with distinct primer and probe sets significantly reduces the
+likelihood of detection failure due to genetic variations
+Enhancing diagnostic coverage by targeting different regions of the viral genome.
+The pairs of qPCRs selected for each virus are more likely to detect all the virus variants
+than any one of the qPCRs would if used on its own.
+The CaTa28 qPCR targets a region of the ToBRFV genome that differs from the region
+targeted by the CSP1325 and qs1/p1/qas2 qPCRs. Similarly, the CaTa9 qPCR targets a
+region of the ToMMV genome that differs from the region targeted by the CSP1572 and
+ToMMV2 qPCRs.
+Yes. We will accept test results from multiplex qPCRs provided that the laboratory has verified
+that the multiplex is as sensitive as the most sensitive of the 2 singleplex qPCRs and that each
+qPCR is working in the multiplex.
+The sensitivity and repeatability of the multiplex must be verified against the singleplex format.
+We may consider alternative proposals on a case-by-case basis, such as for the recognition of
+other qPCR primers and protocols, following the current review.
+Testing laboratories seeking approval to use alternative protocols to those approved must submit
+a detailed proposal to us that includes a validation report.
+Please send requests via email to imports@aff.gov.au (please title the subject line of the email
+‘Plant T2 - Seed for sowing’).
+We will only consider proposals when resources allow.
+PCR tests must be conducted on subsamples of no more than 400 seeds per test (i.e. 50 tests,
+each on 400 seeds). When the total sample size is 20,000 seeds, this is typically implemented as
+50 separate tests, each analysing 400 seeds.
+A larger subsample size may risk false negative test results. Increasing the subsample size may
+lead to reduced sensitivity of the PCR test, thereby increasing the risk of false negatives.
+While the 400-seed limit is maintained as a general requirement, we are open to considering
+proposals for increased subsample size on a case-by-case basis following the current review.
+Testing laboratories seeking approval to use larger subsample sizes must submit a detailed
+proposal to us. Please submit requests via email to imports@aff.gov.au (please title the subject
+line of the email ‘Plant T2 - Seed for sowing’).
+We will only consider proposals when resources allow.
+Only certain requirements for capsicum and tomato seed testing are being updated at this time.
+These changes apply specifically to the detection of ToBRFV and ToMMV
+All other testing requirements remain unchanged.
+Australia’s requirements for testing capsicum and tomato seed that remain unchanged include:
+Requirements for sample sizes and subsample sizes
+Requirements for reporting test results.
+Australia currently does not prescribe specific requirements for:
+RNA extraction methods for capsicum and tomato seeds
+qPCR cycle conditions (e.g. times and temperatures)
+◦ 
+• 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+◦ 
+◦ 
+• 
+◦ 
+◦
+
+Storage conditions for RNA extracts or seed homogenates.
+No. All laboratories that intend to test tomato and capsicum seed for export to Australia must
+submit a laboratory registration form, regardless of existing accreditation.
+We are communicating with every laboratory that applies to become authorised to understand
+their specific testing conditions.
+Yes. The list of authorised laboratories was published on our website on 1 October 2025, that
+provided a 6-week transition period before the import conditions became mandatory on 12
+November 2025.
+Consignments that arrived on or after 12 November 2025 that did not meet the new requirements
+were offered onshore testing at an approved laboratory in Australia (at the importer’s expense),
+export or disposal.
+Seeds that have been imported into Australia and released from biosecurity control prior to 12
+November 2025 are not affected by these changes.
+Import permits were varied by the department on 12 November 2025 to reflect revised import
+conditions.
+Yes. The pathway for testing tomato and capsicum seed at the Naktuinbouw laboratory will
+remain approved.
+We announced the proposed changes via an Import Industry Advice Notice and BICON alert on
+17 April 2025, and invited feedback from stakeholders.
+We carefully considered all feedback received and, where requested, held meetings with
+stakeholders to further discuss the proposed changes.
+On 3 September 2025, we issued a follow-up Industry Advice Notice and BICON alert to
+announce the final policy. We also notified stakeholders directly via email.
+On 16 September 2025 , we held 2 online webinars to explain the new policy and address
+stakeholder questions. Recordings of these sessions are available above.
+Background
+Emergency measures for tomato and capsicum seed
+The department implemented emergency measures for ToBRFV and ToMMV in March 2019 to
+address the increasing global distribution and threat to the Australian tomato and capsicum
+production industries.
+ToBRFV naturally infects tomato and capsicum, and ToMMV naturally infects tomato,
+resulting in unmarketable fruit.
+ToMMV infection has been observed to break resistance in cultivars resistant to the related
+Tomato mosaic virus.
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦
+
+Potentially at-risk Australian industries include tomato, capsicum and chilli with values of
+annual production of $570.6, $215.8 and $13.5 million, respectively during 2022/23 (total
+$799.9 million).
+Like other Tobamoviruses, there is no effective seed treatment option available for
+commercial quantities of ToBRFV or ToMMV infected seed.
+ToMMV is NOT known to be present in Australia.
+The new seed testing requirements that have been introduced on 12 November 2025 are an
+update to these existing emergency measures.
+The SPS Agreement permits Australia to implement emergency actions, including emergency
+measures, when a new or unexpected phytosanitary risk is identified.
+Ongoing need for the continuance of measures will be evaluated by a pest risk analysis as soon as
+possible, to ensure that the measures are technically justified.
+Yes, pooling - the process of combining 2 or more individual samples to form a single sample,
+which is then analysed with a diagnostic test - is permitted for small seed lots only.
+Small seed lots that are being pooled for testing must be pooled by the testing laboratory.
+If pooled seed lots fail testing, the individual seed lots from the pooled sample may be retested to
+determine the infected lot/s. This will require resampling 20% of each individual seed lot for
+testing. If the infected lot/s cannot be identified, the department will take action based on the
+initial pooled test results. i.e. all seed lots that made up the original pooled samples will not be
+permitted entry into Australia.
+Tomato brown rugose fruit virus (ToBRFV)
+ToBRFV is a member of the Tobamovirus genus:
+It is transmitted through propagation materials (seeds, plants for planting, grafts,
+cuttings), and spreads locally by contact (direct plant to plant contact, contaminated tools,
+hands, or clothing and by bees)
+It can remain infective in plant debris and contaminated soil for months
+It has plant disease resistance breaking capabilities for commercial cultivars of tomato
+ToBRFV naturally infects tomato and capsicum fruit resulting in unmarketable fruit:
+On tomato, foliar symptoms include chlorosis, mosaic and mottling with occasional leaf
+narrowing
+Necrotic spots may appear on peduncles, calyces and petioles
+Fruit show yellow or brown spots, with rugose symptoms rendering the fruits non-
+marketable
+Fruits may be deformed and have irregular maturation
+On capsicum, foliar symptoms include deformation, yellowing and mosaic. Capsicum fruits
+are deformed, with yellow or brown areas or green stripes.
+◦ 
+◦ 
+◦ 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+◦
+
+There is no risk to food safety or human health from eating tomatoes or capsicums with this
+disease.
+ToBRFV in tomatoes was first reported in southern Israel in 2014 and in Jordan in 2015.
+Subsequently, ToBRFV was later reported from more than 40 countries all over the world (across
+continents Africa, America, Asia and Europe).
+However, given the global nature of the seed production cycle, it is likely that the distribution of
+the virus may be greater than that reported in published records.
+The department implemented emergency measures for ToBRFV in March 2019 to address the
+increasing global distribution and threat to the Australian tomato and capsicum production
+industries.
+ToBRFV was detected for the first time in Australia in August 2024 in the Northern Adelaide
+Plains, South Australia.
+In January 2025 the virus was also detected at a single property in Victoria linked to a direct
+movement of tomato seedlings from South Australia.
+On 29 May 2025, the National Management Group (NMG) determined that it is no longer
+technically feasible to eradicate ToBRFV from Australia. For more information on the decision
+visit National Management Group Communiqué: Tomato brown rugose fruit virus – 29 May
+2025 - DAFF.
+The pest and regulatory status of ToBRFV in Australia is currently under review. For further
+information on the outbreak visit outbreak.gov.au and pir.sa.gov.au/tobrfv.
+ToBRFV has rapidly expanded its global distribution since it was first reported in 2014. The first
+outbreak of this virus was reported on tomatoes in Israel in 2014, and it has since been reported
+in Europe, the Middle East, China, Mexico, the USA and Australia.
+Global movement via seed appears to be the only credible explanation for the observed
+intercontinental movement of ToBRFV.
+ToBRFV is a member of the Tobamovirus genus. These viruses are known to be seed-borne, can
+remain viable in seeds for months, and are known to be associated with the seed coat and
+endosperm.
+Several tobamoviruses are recognised as economically important seed-borne quarantine pests,
+including Cucumber green mottle mosaic virus (CGMMV), Kyuri green mottle mosaic virus
+(KGMMV) and Zucchini green mottle mosaic virus (ZGMMV).
+The European and Mediterranean Plant Protection Organization (EPPO) advised in a recent alert
+that they consider ToBRFV to be seed-borne.
+Mexico has introduced phytosanitary measures for the testing of imported seed for sowing of host
+species and allege extensive positive test results on imported seeds originating from 14 countries
+across 3 continents, including Asia.
+Turkey implemented emergency measures in 2019, for the RT-PCR testing of imported tomato
+and capsicum seeds originating from Jordan, Germany, Israel, Italy and Mexico.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+New Zealand implemented emergency measures for imported tomato and capsicum seeds, in
+2019. Measures are that seeds be sourced from pest free areas or a 'pest-free place of production’
+or tested by ELISA and found free of ToBRFV.
+The emergency measures apply to imported tomato (Solanum lycopersicum) and capsicum
+(Capsicum annuum species complex) seed for sowing.
+The emergency measures on capsicum are applied to Capsicum annuum species complex (C.
+annuum, C. chinense and C. frutescens) because:
+ToBRFV is likely to be seed-borne in all 3 species, which are closely related
+hybrids of the three species are commonly bred and distributed globally
+seeds of the 3 species within the complex are similar in appearance and thus difficult to
+distinguish
+seed traders usually only identify seeds using the common name ‘capsicum’.
+Tomato mottle mosaic virus (ToMMV)
+ToMMV is a member of the Tobamovirus genus:
+It is transmitted through propagation materials (seeds, plants for planting, grafts,
+cuttings), and spreads locally by contact including direct plant-to-plant contact,
+contaminated tools, hands, or clothing and by bees
+Tobamoviruses can remain infective in seeds, plant debris and contaminated soil for
+months
+It has plant disease resistance breaking capabilities for commercial cultivars of tomato.
+ToMMV naturally infects tomato and capsicum resulting in unmarketable fruit:
+On tomato, symptoms include severe necrotic lesions, chlorosis, leaf distortion, mottle and
+systemic crinkling symptoms and fruit necrosis. Disease incidences of up to 87% have been
+reported
+On capsicum, symptoms include foliar mottle, shrinking and necrosis
+On eggplant, disease incidences of 20-40% have been reported. However, the symptoms
+observed (dark purple mottle on flowers, and mosaic and distortion on leaves) on eggplant
+were the result of a mixed infection involving ToMMV and TMGMV (Tobacco mild green
+mosaic virus) and symptoms caused by ToMMV alone on eggplant have not been reported.
+Chickpea has been reported as a natural host, but infections appear to be asymptomatic.
+At the time emergency measures were introduced by the department in 2019, ToMMV was known
+to be present in Brazil, Mexico, USA, China, Iran, Israel and Spain. Since then, ToMMV has been
+reported from Mauritius, India, Japan, Czech Republic, Germany, France and the Netherlands.
+However, given the global nature of the seed production cycle, it is likely that the distribution of
+the virus may be greater than that reported in published records.
+The emergency measures apply to imported tomato (Solanum lycopersicum) and capsicum
+(Capsicum annuum species complex) seeds for sowing.
+The emergency measures were applied on capsicum and tomato seeds because of detections of
+ToMMV on imported capsicum and tomato seeds for sowing, confirming ToMMV is seed-borne.
+• 
+• 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+◦ 
+◦ 
+◦ 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+• 
+• 
+•
+
+The emergency measures on capsicum are applied to Capsicum annuum species complex (C.
+annuum, C. chinense and C. frutescens) because:
+ToMMV is likely to be seed-borne in all 3 species, which are closely related
+Hybrids of the 3 species are commonly bred and distributed globally
+Seeds of the 3 species within the complex are similar in appearance and thus difficult to
+distinguish
+Seed traders usually only identify seeds using the common name ‘capsicum’.
+Growers are strongly encouraged to familiarise themselves with the symptoms of ToMMV
+infection on host crops and ensure that they have effective on-farm biosecurity practices in place,
+especially being vigilant for any unusual signs of virus infection on host crops.
+Growers are also advised to contact their seed suppliers to seek their assurance about what
+specific testing has been applied to batches of seeds and whether they have been appropriately
+tested for ToMMV.
+Reported symptoms of ToMMV infection include:
+On tomato, symptoms include severe necrotic lesions on both leaves and fruit, chlorosis
+and deformation of leaves, mottle and systemic crinkling symptoms and fruit necrosis
+On capsicum, symptoms include foliar mottle, shrinking and necrosis.
+Key Actions:
+Report immediately: Contact the Exotic Plant Pest Hotline at 1800 084 881 or through
+the DAFF website
+Check plants regularly: Look for unusual signs of disease, including those caused by
+ToBRFV or ToMMV
+Source seeds carefully: Purchase local seeds, seedlings, and graft material from reliable
+suppliers that are free of the virus
+Follow biosecurity advice: Implement measures like disinfecting tools and removing weeds
+that can host the virus.
+Report immediately: Contact the Exotic Plant Pest Hotline at 1800 084 881 or through the 
+Source: https://www.agriculture.gov.au/biosecurity-trade/import/goods/plant-products/seeds-for-sowing/emergency-
+measures-tomato-and-capsicum-seed
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+• 
+• 
+• 
+◦ 
+◦ 
+• 
+◦ 
+◦ 
+◦ 
+◦ 
+•

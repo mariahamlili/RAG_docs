@@ -1,0 +1,195 @@
+Environment’s Export Documentation System, you will need to include details of your product.
+
+Use our code lists to make sure you are entering the correct:
+
+product code
+
+cut code.
+
+Product codes are linked to the Australian Harmonised Export Commodity Codes (AHECC) by the
+
+Department of Immigration and Border Protection, to classify internationally traded goods as they
+
+enter and leave the country. AHECCs identify goods that must be accompanied by an export permit
+
+before entering the wharf or airport and being cleared for export.
+
+Product code list
+
+Egg products are grouped into two categories in EXDOC:
+
+whole eggs – product type code EGG
+
+processed eggs – product type code EGP.
+
+Cut code list
+
+Egg cut codes are used to identify the type of processed egg product.
+
+Check your egg cut code and description:
+
+Table of cut codes for egg products
+
+AHECC
+
+Cut code Product description
+
+04072100
+
+EC0001
+
+Whole eggs
+
+04089900
+
+EC0002
+
+Liquid egg
+
+04081900
+
+EC0003
+
+Liquid egg yolk
+
+35021900
+
+EC0004
+
+Liquid egg albumin
+
+04072100
+
+EC0006
+
+Boiled egg (in shell)
+
+04089900
+
+EC0008
+
+Poached egg (shell removed)
+
+04089900
+
+EC0010
+
+Egg omelette
+
+04089900
+
+EC0011
+
+Scrambled egg
+
+04089900
+
+EC0012
+
+Boiled and brined egg (shell removed)
+
+04072100
+
+EF0001
+
+Whole eggs
+
+04089900
+
+EF0002
+
+Liquid egg
+
+04081900
+
+EF0003
+
+Liquid egg yolk
+
+35021900
+
+EF0004
+
+Liquid egg albumin
+
+• 
+
+• 
+
+• 
+
+•
+
+04072100
+
+EF0006
+
+Boiled egg (in shell)
+
+04089900
+
+EF0007
+
+Boiled and brined egg (shell removed)
+
+04089900
+
+EF0008
+
+Poached egg (shell removed)
+
+04089900
+
+EF0010
+
+Egg omelette
+
+04089900
+
+EF0011
+
+Scrambled egg
+
+04089900
+
+EF0013
+
+Egg bakes
+
+04089900
+
+EF0014
+
+Egg fritters - cooked
+
+04089900
+
+EF0016
+
+Fried whole eggs
+
+04089900
+
+EF0017
+
+Egg frittatas
+
+04089100
+
+EU0001
+
+Dried egg powder
+
+04081100
+
+EU0002
+
+Dried egg yolk
+
+35021100
+
+EU0003
+
+Dried egg albumin
+
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/eggs/exporters/product-codes

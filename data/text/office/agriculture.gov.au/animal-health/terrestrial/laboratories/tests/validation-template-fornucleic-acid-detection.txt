@@ -1,0 +1,331 @@
+SCAHLS VALIDATION TEMPLATE FOR NUCLEIC ACID DETECTION (NAD) TESTS
+
+Validation is the process through which a test method is determined to be ‘fit for purpose’.  The assay development pathway must define the intended purpose of the assay.  Test validation is an incremental process and OIE chapter 1.1.6, ‘Principles and methods of validation of diagnostic assays for infectious diseases’, recognises four stages in the assay validation pathway (see Figure 1):
+Stage 1) Analytical characteristics (sensitivity, ASe, and specificity, ASp);
+Stage 2) Diagnostic characteristics (sensitivity, DSe, and specificity, DSp);
+Stage 3) Reproducibility; and
+Stage 4) Implementation – not assessed as part of SCAHLS validation template.
+Due to the incremental nature of data accumulation, a provisional recognition of an assay is possible once stages 1) and 2) have been completed satisfactorily.  Full recognition of assay validity requires stages 1-3 to be satisfactorily completed.
+Stage 4, implementation, is not assessed as part of the SCAHLS Validation Template.  Laboratories are encouraged to adopt and use the template as the standard reporting format for validation data, for both in-house tests and NATA accreditation, as appropriate.
+
+Proposals for submission to SCAHLS will be reviewed by a working group commissioned by the sub-committee according to their Policy.  Submissions should be forwarded for review to the SCAHLS secretariat ( HYPERLINK "mailto:animalhealthlaboratories@awe.gov.au" animalhealthlaboratories@awe.gov.au HYPERLINK "mailto:SCAHLS@daff.gov.au" ).
+
+
+FIGURE 1: Taken from OIE terrestrial Manual, Ch 1.1.6, Principles and methods of validation of diagnostic assays for infectious diseases.This template summarises the essential information required to assess the validation status of a nucleic acid detection test.  It is based on recommendations made in the OIE Terrestrial Manual, Chapters 1.1.6 ‘Principles and methods of Validation of diagnostic assays for infectious diseases’ and 2.2.3 ‘Development and optimisation of nucleic acid detection assays.’
+
+
+Assay Development – Background Summary
+
+A.1	Applicant details
+Name:
+Job Title:
+Organisation:
+Contact phone:
+ Yes ‘commercial in confidence’
+ Not commercially sensitive 
+If yes, then it is up to the submitter to arrange appropriate formal agreements if considered necessary
+
+
+A.2	Agreement to SCAHLS policy and procedures
+I have read and understood the SCAHLS New Test Development and Evaluation Policy and Procedure.  I accept that the information within this application will be reviewed by technical experts as determined by SCAHLS. 
+Signed by Applicant:
+Date referred:
+
+
+A.3	Test name and agent/gene target
+
+
+A.4	Intended purpose/s of assay
+For the detection of 	(specify pathogen/gene target)
+in 	(specify species and population type/s)
+for the purpose of	(select all that apply):
+1)    Investigation of clinical signs (confirmation of clinical cases)
+2)    Contribute to eradication/control from defined populations
+3a)  Population freedom (with/without vaccination)
+3b)  Population freedom (after outbreaks) 
+4)    Individual animal or product freedom from infection for trade or movement
+5)    Prevalence estimate (risk analysis for surveys, herd health status, disease control measures)
+6)    Surveillance in apparently healthy animals
+7)    Other, specify conditions
+
+This test will be used as a (tick all that apply):
+ Screening test.
+ Confirmatory test
+ Detection of a group of pathogens.  For example, the pan-pesti virus assay that detects several agents within the genus Pestivirus such as BVDV 1, BVDV 2, BDV, CSF
+ Detection of a single pathogen e.g. CSF assay
+ Subtyping
+ Adjunct test (this is an assay that is NOT used for diagnosis but is used for further characterisation) e.g. sequencing 
+ Other, specify
+A.5	Type of NAD assay
+ Real time PCR hydrolysis probe-based
+ Real time PCR intercalating dye (or similar)
+ Conventional PCR with sequencing
+ Conventional PCR without sequencing
+ Isothermal test e.g. LAMP
+ In-house design (provide any relevant references in B.2)
+ Published assay or adaptation of same (provide reference in B.2)
+ Commercial kit
+ Other, specify
+NOTE: If an assay is submitted that is designed to provide absolute quantitation of gene expression (eg genome equivalents) additional direction must be sought from SCAHLS, prior to submission of the validation dossier, on the type of data that may be appropriate for showing that the assay is fit for the purpose of reporting quantitative values for diagnostic samples.
+
+A.6	References 
+Provide relevant references including those on which the test was based, as well as any publications (published or submitted) resulting from the current validation work.
+
+
+A.7	Test method protocol 
+Attach protocol as Appendix 1, as it would appear in an ANZSDP or Institutional QA document prepared in compliance with ISO17025.
+As a minimum the protocol will include the selection of specimens/tissues, method of preparation/treatment of samples, extraction procedures, cut-off and threshold values and data interpretation.  The protocol must also include details of all quality controls used routinely in assay runs to ensure:
+reliability of sample preparation procedures,
+absence of contamination and
+integrity of results.
+
+
+NOTE: The criteria used to define positive/negative/indeterminate results, including threshold settings and cut-offs (if applicable), for all data presented in this validation dossier, must be those specified in the protocol provided as Appendix 1 to this dossier.
+
+Assay Validation - Analytical Characteristics (OIE Stage 1)
+
+
+Analytical specificity (ASp)
+ASp evaluates the differentiation of target agent from a range of other non-target but related infectious agents and other diseases with similar clinical presentations.  ASp evaluation is qualitative and should reflect the intended purpose of assay (as indicated in Background Summary above) and whether the assay is designed to be selective, exclusive or inclusive (OIE Ch 1.1.6).
+The panel of samples should contain:
+well-characterised isolates of the target pathogen, including isolates from a variety of geographical areas and hosts
+related organisms and pathogens which cause similar clinical syndromes.
+Selectivity- the extent to which a method can detect and quantify the target analyte in the presence of non-specific reactants, such as interferents and degradants (e.g matrix components, inhibitors of enzymes in the reaction mix).  Assessment of ASp should include use of relevant matrices for intended purpose, such as tissue, blood, inhibitory substances.
+Exclusivity (confirmatory assay e.g. AIV H5-assay) – detects a genomic sequence unique to the targeted organism.  Specificity testing should include known organisms or strains of the target organism that may cross-react. For example, an assay to detect AIV H5-subtypes should be assessed for cross reaction with non-H5 AIV subtypes.
+Inclusivity (screening assay e.g. AIV matrix assay) – detects a conserved genetic sequence of a species or genus.  Specificity testing should include target lineages, strains, species to be detected and then the assay should be evaluated for capacity to exclude related organisms such as non-pathogenic strains of intended target and pathogens that cause similar clinical syndromes. For example, an assay to detect AIV should be assessed for detection of HxNx subtypes and cross reactions with non-AIV pathogens.
+
+DATA PRESENTATION: Insert table providing description of:
+related infectious agents tested (agent, strain, isolate, subtype or serotype, if applicable)
+no. of replicates (if done), tissues assessed and result interpretation (positive/negative/indeterminate)
+in the case of cross-reacting samples that give indeterminate/positive results include mean cycle threshold (Ct), replicate Ct values (if done)
+Provide comment on off-target interference and indicate gaps in the data, such as missing targets and reason for omission (e.g. due to lack of access to agent or agent not relevant to testing context).
+
+
+Analytical sensitivity
+Synonymous with limit of detection, ASe is estimated using a dilution-to-extinction study whereby serial dilutions of a quantified target analyte are made in an appropriate sample matrix.  The dilution series must extend to at least one dilution past end-point (negative/not detectable).  There are two common approaches noted in OIE Ch 2.2.3:
+A dilution series of the target pathogen diluted in sample matrix (not buffer).  OIE recommend comparing a ‘new’ method with a standard method to yield a comparative measure of existing and new methods.
+A dilution series of plasmid or other synthetic construct containing the target sequence diluted in sample matrix and reporting genome copies detectable by the test method.  Several websites are available for calculation of copies of a template, e.g.  HYPERLINK "https://cels.uri.edu/gsc/cndna.html" https://cels.uri.edu/gsc/cndna.html.
+Other options include performing a dilution series (in appropriate matrix) on a positive field sample (instead of spiked sample) or amplifying and purifying an amplicon corresponding to the PCR gene target from a field sample and performing a dilution series on this to determine the LOD.
+Whichever method is used, the matrix used for the dilution series must be appropriate for the target tissue type and must be clearly stated.
+Several methods are available to quantitate the starting concentration of the analyte, such as Qubit, nanodrop, TCID50, EID50 etc.  Provide details of whichever method is used to establish the starting concentration of the analyte.
+
+DATA PRESENTATION: Insert table providing description of:
+analyte (e.g. virus, plasmid sequence, field sample);
+matrices/diluent used (e.g. buffer, negative DNA, negative tissue etc.);
+concentration (ng/ul, genome equivalents, TCID50 etc.) and method of quantitation (e.g. nanodrop, Qubit, tissue culture etc)
+dilution series (and expected concentration based on starting or highest concentration);
+Ct values for each replicate &/or mean Ct and Standard Deviation (SD) of replicates or coefficient of variation;
+briefly describe criteria used to define positive/negative/indeterminate results and end-point.  (For example: each dilution was tested in triplicate, all replicates must show 100% or 0% response to be classified as positive or negative, respectively; dilutions with disparate replicates will be classified as indeterminate; end-point is last dilution with all replicates classified as positive);
+Plot mean Ct vs log dilution and include trendline, equation and R2-value and PCR efficiency (%)
+
+Repeatability (OR PRECISION this is measured in a single laboratory using the same method)
+
+Repeatability is the measure of agreement between results both within and between runs, using the same test method in one laboratory (OIE Ch 2.2.3).  Repeatability is estimated by evaluating variation in results of replicates (OIE Ch 1.1.6).  OIE recommend the following procedure (see Ch 1.1.6 and 2.2.3):
+select a panel of 3-5 samples covering the operating range of the assay
+test each sample using the entire procedure, including independent nucleic acid extraction
+assess within (intra) assay variation using (at least five) replicates of each sample in one run (one operator)
+assess between (inter) assay variation by testing the panel of samples over several days, using 2 or more operators, minimum of 20 runs.
+Although the OIE recommendations are very thorough, they may also be impractical, in terms of sample preparation (a minimum of 100 homogeneous aliquots of each sample in the panel are needed) and deployment of personnel/reagent resources.
+
+Repeatability must test the entire assay PCR process, including nucleic acid extraction, as this can be a source of significant variability.  The following approaches are acceptable: 
+select a panel of 3 field samples (or experimental infections) from different animals covering the operating range of the assay, one strong, one medium and one weak; 30-40 (homogeneously mixed) aliquots of each sample will be required.
+test each sample in triplicate using the entire procedure, including independent nucleic acid extractions of each replicate
+within (intra) assay variation is assessed from the three replicates of each sample in one run (one operator)
+between (inter) assay variation is assessed by comparison of results from 2 or more operators testing the panel of samples (each in triplicate) over several days, minimum of 10 runs.
+
+Alternative 1: Where samples from different animals (field or experimentally infected) are not available, a single field/experimental sample may be used and diluted in suitable negative matrix to create a minimum of 3 samples covering the analytical range of the assay (essentially strong, medium and weak).  The volume of each dilution must be sufficient to permit replicate testing, 30-40 (homogenously mixed) aliquots of each sample are required.  Thereafter the method of testing follows points 2-4 above.
+
+Alternative 2: Where no field or experimental-infection samples are available, one (or more) isolates (e.g. cultured virus) can be spiked into suitable negative tissue to create a panel of 3 samples, one strong, one medium and one weak, covering the analytical range of the assay.  The volume of each dilution must be sufficient to permit replicate testing, 30-40 (homogenously mixed) aliquots of each sample are required.  Thereafter the method of testing follows points 2-4 above.
+
+Optional: In addition to the protocol above, repeatability testing of the PCR assay alone can be assessed by using plasmid or suitable synthetic construct.  Plasmid of known copy number is spiked into negative DNA followed by serial 10-fold dilutions (in negative DNA) to extinction (below the level of detection estimated from initial copy number).  Each dilution tested in replicate (3-5 reps).  This could be performed by a single operator and repeated independently by 2 or more operators for minimum of 5 runs.  Each operator must independently prepare dilution series for each run.
+
+DATA PRESENTATION: Insert data providing description of:
+number and type of analytes used in panel (e.g. virus, plasmid sequence);
+number of replicates and relevant preparation data, including matrix (diluent) used;
+extraction method (should be that from the SOP in Appendix 1)
+Ct values for each replicate & mean Ct +SD of replicates or coefficient of variation;
+criteria used to define positive/negative/indeterminate results 
+Assay Validation - Diagnostic characteristics (OIE Stage 2) 
+
+
+The diagnostic performance of an assay is commonly measured as sensitivity (DSe) and specificity (DSp) or combined measures of these that estimate likelihood ratios of positive and negative results.  Diagnostic specificity is determined by the proportion of samples from known uninfected reference animals that test negative in an assay.  Diagnostic sensitivity is determined by the proportion of samples from known infected reference animals that test positive in an assay.
+Methods and statistical models to estimate DSe and DSp will depend on several factors including the availability or absence of existing reference (standard) test/s for comparative analyses, the identification of suitable negative populations and the availability of confirmed positive samples.  For all intended purposes, the case definition for diseased populations must be clearly stated.  The selection of suitable animal populations can be problematic for both endemic diseases (identifying true negative populations) and exotic or rare diseases (identifying true positive populations).  Obtaining adequate numbers of suitable populations is crucial for estimating DSe and DSp the associated confidence intervals for these.  It is recommended that an epidemiologist and statistician be consulted prior to data collection to determine the most appropriate animal populations, numbers and analysis models to use to determine diagnostic characteristics.  A network approach may be required to obtain statistically robust results.
+The OIE test validation pathway provides for provisional recognition of candidate tests where critical benchmark parameters have been adequately assessed (ASe, ASp and repeatability) and preliminary assessments of DSp, Dse and reproducibility have been performed on well-characterised samples (Ch 1.1.6).  To ensure proper evaluation of diagnostic characteristics it is essential to provide detailed and transparent documentation of the animal populations, case definition and analysis model used.
+To determine the fitness-for-purpose of an assay diagnostic performance must be assessed on populations and samples that are suitable for the intended purpose, as diagnostic characteristics may vary with sample matrix, disease prevalence and level of viraemia.  Therefore, DSp, DSe and cut-off must be determined for each applicable clinical situation.
+
+Cut-offs/thresholds
+The cut-off points (decision limits) for defining positive, negative and indeterminate results must be clearly defined in the protocol in Appendix 1.  It may be appropriate to categorise as positive/suspicious/indeterminate any sample that produces a typical curve, regardless of Ct value.  The test protocol may also include suitable approaches (algorithms) to address suspicious/indeterminate results within the context of the clinical history and presentation.
+
+Sample numbers, case definition and analysis model
+The required number of known positive and negative samples will depend on the likely values of DSe and DSp of the candidate assay and the desired confidence level and permitted error margin.  For all intended purposes, it is essential that the case definition, used to identify positive populations, is clearly stated.  Tables of the theoretical sample numbers required to achieve the desired confidence are available from several sources including OIE Ch 1.1.6, however, it is recommended that an epidemiologist and statistician be consulted prior to data collection to ensure suitable reference samples and analysis models have been identified especially where no standard test exists and/or positive samples are in limited supply.
+
+Data presentation
+When results of the candidate assay are compared to a reference test data should be presented in 2x2 table with a confidence interval (ideally CI95%).  Latent class models may also be used where there is no reference test for comparison, or to compare candidate assays to an existing assay without assuming the existing test is ‘perfect’.
+
+In the following areas, indicate the purpose being assessed, provide as much population information as possible to establish the ‘fitness’ of the assay in the clinical context and describe the analytical approach.
+Sections 2.1-2.3 should be replicated to provide data for each specified ‘intended purpose’ and corresponding (relevant) animal population/s.
+
+2.1	Intended purpose/s of assay
+1)    Investigation of clinical signs (confirmation of clinical cases)
+2)    Contribute to eradication/control from defined populations
+3a)  Population freedom (with/without vaccination)
+3b)  Population freedom (after outbreaks) 
+4)    Individual animal or product freedom from infection for trade or movement
+5)    Prevalence estimate (risk analysis for surveys, herd health status, disease control measures)
+6)    Surveillance in apparently healthy animals
+7)    Other, specify conditions
+
+
+2.2	Define population/s used
+Provide as much relevant population information as possible to support the fitness of the assay for the stated clinical purpose.  Including, for example species, samples/tissue types, whether samples are derived from experimental infections (specify isolate/strain used for infection), field samples (specify isolate/strain detected), wild or farmed, numbers of animals in each category, sex/age (if known), pregnancy status (if known), vaccination status (specify isolate/strain used).
+
+
+2.3	Analysis model
+Describe the analysis model used.  Eg comparison of new assay to a reference method, Bayesian Latent Class Analysis (describe a priori assumptions etc).
+Insert 2x2 table or other analysis model used to determine Diagnostic characteristics
+
+
+2.4	Statement on fitness for purpose
+Provide conclusions regarding the fitness-for-purpose of the candidate assay for the intended purpose/s.  Provide specific recommendations on the populations and circumstances in which the test can be used.3.	Assay Validation – Reproducibility (OIE Stage 3)
+
+
+REPRODUCIBILITY is a measure of the ability of a test method to produce consistent results for the same samples tested in different laboratories, preferably in different regions or countries, using the identical assay (protocol, reagents and controls) (OIE Ch 1.1.6)
+At least three laboratories should test the same panel of samples (blinded) containing 10-20 samples.  About 25% of the samples should be negative and the remainder positive, with concentrations covering the operating range of the assay.  The panel composition should reflect the inherent variability of the target pathogen (different serotypes) and circulating or geographically relevant strains.
+In addition to the reproducibility panel, further evidence of reproducibility can be provided by use of an external quality control (EQC), such as the network quality control (NQC) issued to the LEADDR network.  Ideally this should be prepared as a weak control to accrue log-term data on assay reproducibility and laboratory proficiency.
+Any samples used for reproducibility studies must be homogeneous and stable for the period of use, whether that is a short period of time for a reproducibility study, or extended use for an external quality control.  For this purpose, it is useful to use samples prepared by an accredited proficiency testing provider in accordance with ISO17043, or where this is not possible, to have evidence that the samples are homogeneous and stable and thus fit-for-purpose.
+Provide details of on-going assay performance in participating laboratories via reproducibility studies, satisfactory performance of relevant proficiency testing and/or external quality assurance data.
+4.	Appendix 1 – ANZSDP protocol or Institutional QA procedure (SOP)
+THE FOLLOWING SECTIONS ARE FOR SCAHL OFFICE USE ONLY
+Record of review process
+5.1	List of experts
+List of experts consulted in the approval process and their institutional affiliation and area of expertise/background
+
+
+
+5.2	Review Result
+The new test development (NTD) working group may make one of three recommendations to the Chair based on their review of the validation dossier:
+Validation acceptable and the assay is fit for intended purpose/s; OR
+Provisional recognition of an assay as fit-for-purpose/s (that will be defined) but requiring further data (that will be described) to be submitted for consideration of full validation acceptance.  The use of an assay that has been provisionally recognised may be subject to restrictions which will be defined by the working group; OR
+Validation NOT acceptable.
+
+In the following area, the review results that do NOT apply should be deleted, leaving only the accepted review result of the new test development (NTD) working group.
+
+
+5.3	The SCAHLS molecular diagnostic NTD working group make the following recommendation:
+
+Validation acceptable:
+For the detection of 	(specify pathogen/gene target)
+in 	(specify species and population type/s)
+for the purpose of	(select all that apply):
+1)    Investigation of clinical signs (confirmation of clinical cases)
+2)    Contribute to eradication/control from defined populations
+3a)  Population freedom (with/without vaccination)
+3b)  Population freedom (after outbreaks) 
+4)    Individual animal or product freedom from infection for trade or movement
+5)    Prevalence estimate (risk analysis for surveys, herd health status, disease control measures)
+6)    Surveillance in apparently healthy animals
+7)    Other, specify conditions
+
+This test will be used as a (tick all that apply):
+ Screening test.
+ Confirmatory test
+ Detection of a group of pathogens.  For example, the pan-pesti virus assay that detects several agents within the genus Pestivirus such as BVDV 1, BVDV 2, BDV, CSF
+ Detection of a single pathogen e.g. CSF assay
+ Subtyping
+ Adjunct test (this is an assay that is NOT used for diagnosis but is used for further characterisation) e.g. sequencing 
+ Other, specify
+
+
+Provisional recognition and conditions of use:
+For the detection of 	(specify pathogen/gene target)
+in 	(specify species and population type/s)
+for the purpose of	(select all that apply):
+1)    Investigation of clinical signs (confirmation of clinical cases)
+2)    Contribute to eradication/control from defined populations
+3a)  Population freedom (with/without vaccination)
+3b)  Population freedom (after outbreaks) 
+4)    Individual animal or product freedom from infection for trade or movement
+5)    Prevalence estimate (risk analysis for surveys, herd health status, disease control measures)
+6)    Surveillance in apparently healthy animals
+7)    Other, specify conditions
+
+This test will be used as a (tick all that apply):
+ Screening test.
+ Confirmatory test
+ Detection of a group of pathogens.  For example, the pan-pesti virus assay that detects several agents within the genus Pestivirus such as BVDV 1, BVDV 2, BDV, CSF
+ Detection of a single pathogen e.g. CSF assay
+ Subtyping
+ Adjunct test (this is an assay that is NOT used for diagnosis but is used for further characterisation) e.g. sequencing 
+ Other, specify
+
+With the following conditions of use (specify the conditions of use relating to the intended purpose/s):
+Eg:  The assay can be used only for diagnosis/surveillance of EAD samples in labs x, y, z, or as a herd test.
+
+
+Specify the data required by the NTD working group for consideration of full validation:
+
+
+Validation not acceptable
+(specify reasons why dossier is not acceptable and what further data is required)
+
+
+
+5.3	Date of Decision and Reporting
+Decision: dd/mm/yyyy
+Reported: dd/mm/yyyy
+
+
+
+5.4	Process for Reporting the Recommendation
+ From Chair NTD working group
+ From Chair NTD working group directly to client through EO and Chair SCAHLS
+
+
+
+
+
+
+
+
+SCAHLS VALIDATION TEMPLATE FOR NUCLEIC ACID DETECTION (NAD) TESTS, VERSION 2, 24 AUGUST 2020
+Page |  PAGE   \* MERGEFORMAT 1
+
+
+Minimum required for Provisional Recognition
+
+Analytical specificity
+
+Candidate test compared with standard test method
+
+Repeatability and preliminary Reproducibility
+
+STAGE 1
+Analytical characteristics
+
+Analytical sensitivity
+
+Samples from reference animals or experimental animals (where used)
+
+Diagnostic specificity
+
+Provisional recognition
+
+Diagnostic sensitivity
+
+STAGE 2
+
+Diagnostic characteristics
+
+Cut-off determination
+
+Select collaborating laboratories
+
+Define evaluation panel
+
+Reproducibility
+
+Assay designated as “validated for the original intended purposes(s)”
+
+STAGE 3
+
+Reproducibility

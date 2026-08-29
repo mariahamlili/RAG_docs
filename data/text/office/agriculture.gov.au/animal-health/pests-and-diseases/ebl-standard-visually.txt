@@ -1,0 +1,428 @@
+STANDARD DEFINITIONS AND RULES  FOR ERADICATION OF ENZOOTIC BOVINE LEUKOSIS IN DAIRY CATTLE
+Endorsed by the Animal Health Committee and Dairy Australia
+Revised November 2012
+
+Contents
+
+ TOC \O "2-3" \H \Z \U  HYPERLINK \L "_TOC403459418" INTRODUCTION	 PAGEREF _TOC403459418 \H 4
+ HYPERLINK \L "_TOC403459419" DEFINITIONS	 PAGEREF _TOC403459419 \H 5
+ HYPERLINK \l "_Toc403459420" 2.1	GENERAL DEFINITIONS	 PAGEREF _Toc403459420 \h 5
+ HYPERLINK \l "_Toc403459421" 2.2	TESTS	 PAGEREF _Toc403459421 \h 6
+ HYPERLINK \l "_Toc403459422" 2.3	HERD STATUS	 PAGEREF _Toc403459422 \h 7
+ HYPERLINK \L "_TOC403459423" RULES	 PAGEREF _TOC403459423 \H 9
+ HYPERLINK \l "_Toc403459425" 3.1	DECLARATION OF COMPARTMENTS	 PAGEREF _Toc403459425 \h 9
+ HYPERLINK \l "_Toc403459426" 3.2	MAINTENANCE OF COMPARTMENTS	 PAGEREF _Toc403459426 \h 9
+ HYPERLINK \l "_Toc403459427" 3.3	TESTING FOR EBL	 PAGEREF _Toc403459427 \h 10
+ HYPERLINK \l "_Toc403459428" 3.4	MOVEMENT CONTROLS	 PAGEREF _Toc403459428 \h 10
+ HYPERLINK \l "_Toc403459429" 3.5	INCIDENTS IN A COMPARTMENT	 PAGEREF _Toc403459429 \h 10
+ HYPERLINK \l "_Toc403459430" 3.6	REPORTING INCIDENTS	 PAGEREF _Toc403459430 \h 11
+ HYPERLINK \l "_Toc403459431" 3.7	PROCEDURE FOR INVESTIGATING INCIDENTS IN PROVISIONALLY FREE AND FREE COMPARTMENTS	 PAGEREF _Toc403459431 \h 11
+ HYPERLINK \L "_TOC403459432" IMPORTATION OF CATTLE AND GENETIC MATERIAL INTO AUSTRALIA	 PAGEREF _TOC403459432 \H 11
+ HYPERLINK \l "_Toc403459433" 3.8	Considerations	 PAGEREF _Toc403459433 \h 11
+ HYPERLINK \l "_Toc403459434" 3.9	Conditions for imports	 PAGEREF _Toc403459434 \h 11
+ HYPERLINK \L "_TOC403459435" MISCELLANEOUS	 PAGEREF _TOC403459435 \H 11
+ HYPERLINK \l "_Toc403459437" 4.1	Animal Identification	 PAGEREF _Toc403459437 \h 11
+ HYPERLINK \l "_Toc403459438" 4.2	Compensation	 PAGEREF _Toc403459438 \h 12
+ HYPERLINK \l "_Toc403459439" 4.3	Fate of animals from an infected herd	 PAGEREF _Toc403459439 \h 12
+ HYPERLINK \l "_Toc403459440" 4.4	Fate of infected animals	 PAGEREF _Toc403459440 \h 12
+ HYPERLINK \l "_Toc403459441" 4.5	Herd status	 PAGEREF _Toc403459441 \h 12
+ HYPERLINK \l "_Toc403459442" 4.6	Identification of Infected animals	 PAGEREF _Toc403459442 \h 12
+ HYPERLINK \l "_Toc403459443" 4.7	Interstate notification	 PAGEREF _Toc403459443 \h 12
+ HYPERLINK \l "_Toc403459444" 4.8	New Herds	 PAGEREF _Toc403459444 \h 12
+ HYPERLINK \l "_Toc403459445" 4.9	Notification to owners	 PAGEREF _Toc403459445 \h 12
+ HYPERLINK \l "_Toc403459446" 4.10	Official herd history	 PAGEREF _Toc403459446 \h 12
+ HYPERLINK \l "_Toc403459447" 4.11	Owner records	 PAGEREF _Toc403459447 \h 12
+ HYPERLINK \l "_Toc403459448" 4.12	Introduced animals	 PAGEREF _Toc403459448 \h 12
+ HYPERLINK \l "_Toc403459449" 4.13	Heifer rearing herds	 PAGEREF _Toc403459449 \h 13
+ HYPERLINK \L "_TOC403459450" Appendix 1: EBL Herd Status Progression Post 1 July 2009	 PAGEREF _TOC403459450 \H 14
+ HYPERLINK \L "_TOC403459451" Appendix 2: Proforma Property Disease Eradication Plan for Infected Properties (VIC DPI)	 PAGEREF _TOC403459451 \H 15
+ HYPERLINK \L "_TOC403459452" Appendix 3: Qualification for and Maintenance of EBL Provisional Freedom and EBL Freedom in a Compartment	 PAGEREF _TOC403459452 \H 19
+ HYPERLINK \L "_TOC403459453" Appendix 4: Roles and Responsibilities	 PAGEREF _TOC403459453 \H 21
+List of Acronyms
+APAV 
+Accreditation Program for Australian Veterinarians 
+AHC 
+Animal Health Committee 
+ANZSDPs 
+Australian and New Zealand Standard Diagnostic Procedures 
+AQIS 
+Australian Quarantine and Inspection Service 
+BLV 
+Bovine Leukaemia Virus 
+BMT 
+Bulk Milk Test 
+CVO 
+Chief Veterinary Officer 
+EBL
+Enzootic Bovine Leukosis 
+ELISA
+Enzyme Linked Immuno-sorbent Assay
+IN
+Infected 
+MF 
+Monitored Free 
+NAHIS 
+National Animal Health Information System
+NLIS 
+National Livestock Identification System
+OIE 
+Office International des Epizooties 
+PC 
+Provisionally Clear 
+PF 
+Provisionally Free 
+SCAHLS 
+Sub-Committee on Animal Health Laboratory Standards 
+SDRs 
+Standard Definitions and Rules 
+
+
+INTRODUCTION 
+These Standard Definitions and Rules (SDRs) comprise the national standards by which States, Territories and industry formulate disease control programs to suit their circumstances, and have been prepared by the Animal Health Committee (AHC). 
+These SDRs were initially designed to assist disease control in a nationally coordinated manner, facilitating the dairy sector to become EBL free (OIE definition) by the end of 2012, as agreed with industry and government. Now, post-2012 (‘post freedom’) they are designed as the basis for the dairy industry to maintain freedom, and to manage a return to provisional freedom should that be the case.  The principles herein can also be used by the beef compartment, should it wish to do so.  They refer to other authoritative documents including the Australian and New Zealand Standard Diagnostic Procedures (ANZSDPs) and are rules drafted within the following parameters:  
+The aim is eradication of EBL from the national dairy herd which is considered a compartment under these SDRs (OIE definition).  
+The program guidelines have been formulated by AHC on the basis of valid technology and have been endorsed by the dairy industry. 
+Biosecurity measures have been introduced for dairy farms to protect the status of the national dairy herd.   
+The herd status should be determined by the “National post freedom coordinating industry body”. 
+Control and eradication programs provide dairy cattle producers with a mechanism to control EBL in, and eliminate EBL from a herd. They also provide dairy cattle breeders with a means of providing assurance of EBL disease status to purchasers of their stock. The principles of the programs can be adapted for use by beef producers should they decide to aim for freedom from EBL in the future. The outcome is for milk and dairy products from Australia to be marketed inside and outside Australia as free of bovine leukaemia virus (BLV).  
+International standards for EBL control have been considered in the development of these SDRs by incorporating key elements of the Office International des Epizooties (OIE) requirements for EBL eradication.  
+Detailed operating procedures for the implementation of programs are the responsibility of the “National post freedom coordinating industry body”. Building on successful state based programs under previous versions of these SDRs the Australian dairy industry and animal health authorities agreed in 2008 to eradicate EBL from the Australian dairy herd. As a result of these programs Provisional Freedom from EBL was achieved at the end of December 2009, and following further testing Freedom was achieved on 31 December 2012. 
+These definitions and rules have been reviewed in light of the establishment of EBL freedom. 
+DEFINITIONS 
+GENERAL DEFINITIONS 
+Approved eradication program 
+An official program developed with the herd owner and approved by the “National post freedom coordinating industry body” that enables eradication of EBL from a herd. Approved eradication programs should be based on a written undertaking to implement herd testing and management procedures that address the following issues: 
+identification of infected animals, 
+husbandry and management procedures to prevent infection of other cattle in the herd, 
+preventing spread of infection to other farms, and 
+prevent the introduction of EBL into the herd. 
+A proforma Property Disease Eradication Plan for Victorian herds is attached ( REF _Ref280267245 \h  \* MERGEFORMAT Appendix 2: Proforma Property Disease Eradication Plan for Infected Properties (VIC DPI)). This information can be used to create a PDEP proforma for use in other States. 
+Approved laboratory 
+A laboratory approved by the CVO of the State/Territory in which the laboratory is located to carry out diagnostic tests for the identification of EBL in cattle. 
+Approved monitoring program 
+A bulk milk test monitoring program that is approved by AHC.
+Australian and New Zealand Standard Diagnostic Procedures (ANZSDPs) 
+The standard diagnostic procedures for animal diseases as approved by the Sub-Committee on Animal Health Laboratory Standards (SCAHLS). The EBL procedures are located at (7 November 2012):  HYPERLINK ""  HYPERLINK "http://www.scahls.org.au/procedures/anzsdps" http://www.scahls.org.au/procedures/anzsdps 
+Australian Dairy Herd
+Comprises all dairy herds within Australia; synonymous with dairy compartment.
+Authorised officer 
+A suitably qualified person approved by the “National post freedom coordinating industry body”, or a government officer or other person approved to undertake control and/or eradication activities by the CVO.  This approval will involve specific duties prescribed under specific programs following appropriate training.   
+Dairy Herd 
+A dairy herd is a group of cattle as defined in  REF _Ref280267684 \r \h 2.1.10 that produces milk for dairy products for human consumption. 
+Eligible animals 
+Any cattle over 6 months of age are eligible animals for individual testing by a serological or milk test. Animals less than 6 months of age may have circulating maternal antibodies and testing for active infection may be inconclusive. 
+Enzootic Bovine Leukosis 
+For the purposes of this document, “enzootic bovine leukosis” is a disease of cattle or buffalo deemed to be caused by infection with bovine leukaemia virus (a type C retrovirus). 
+Herd 
+A herd is a group of cattle managed as a unit separate and discrete in terms of physical contact from other groups of cattle. For a particular property or farm all cattle grazed together at the same time on the same area under a common biosecurity management system are considered to belong to the same herd. 
+Herd Status 
+The EBL status of a herd assigned by the “National post freedom coordinating industry body” in accordance with these SDRs. 
+Incident 
+EBL infection occurring in any herd in a Provisionally Free Compartment or Free Compartment. 
+Infected animal 
+An infected animal is one that returns a positive test result to an approved test, unless after an investigation by an authorised officer, the result is found to be invalid. 
+Notification 
+Advice by meat inspectors, veterinarians or persons in charge of cattle or approved laboratories or others, of EBL infection or suspicion of EBL infection in accordance with the legislative requirement of the State or Territory concerned. 
+Quarantine 
+An order empowered by legislation restricting cattle, and on occasions, milk or other animal products to a certain location and requiring authorisation for movement to and from that location. 
+Reactor 
+An animal that returns a positive or suspicious reaction to an approved test. 
+Susceptible species 
+For the purpose of these SDRs, cattle are susceptible to natural infection with bovine leukaemia virus. 
+Suspect animal 
+An animal that the “National post freedom coordinating industry body” requires to be further tested or otherwise examined to determine whether it is an infected animal. 
+Trace-back 
+The identification of the property or properties of origin of animals identified as infected. 
+Trace-forward 
+The identification of the place of destination of animals that had potentially been in contact with infected animals. 
+Compartment 
+A compartment is defined by the OIE as: one or more establishments under a common biosecurity management system containing an animal subpopulation with a distinct health status with respect to a specific disease for which required surveillance, control and biosecurity measures have been applied for the purpose of international trade. For the purposes of these SDRs, the compartment is the Australian dairy herd.
+
+TESTS 
+Approved test 
+An EBL ELISA on serum or milk or any other test approved by the SCAHLS and published in the manual of ANZSDPs. 
+Bulk milk test (BMT) 
+The bulk milk test is a test of milk collected as one or more samples from a herd's on-farm bulk milk storage.  Methods of sampling and testing comply with standards prescribed by the ANZSDPs. 
+Herd test 
+A test of individual blood and/or milk samples collected from all eligible animals in the herd.  This will include all eligible beef cattle where dairy and beef cattle are considered to be a single herd by the “National post freedom coordinating industry body”. 
+Intensive bulk milk test 
+A sampling and testing regime to establish MF status where it is determined that the number of cows contributing to a vat sample is greater than the limit of detection of the BMT. In practice this means herds milking more than 200 cows any one time. 
+Negative herd test 
+An approved serological or milk test of all eligible animals without the detection of an infected animal.  
+Official test 
+All testing for EBL must be reported to the CVO of the State/Territory in which the herd is located.  This includes testing for shows, sales and movements and when testing of herds located in that State/Territory is carried out in another jurisdiction’s approved laboratory. 
+Positive herd test 
+A test at which one or more animals in a herd gives a positive reaction to an approved test. 
+HERD STATUS 
+Newly formed herds
+Newly formed herds may be assigned a herd status based on documentary evidence of the EBL status of the origins of all animals.  The herd EBL status shall be assigned the lowest status of the herds of origin if the contributing herds have different EBL statuses. 
+An example is that a newly formed herd, formed from animals all originating from Monitored Free properties, can be assigned Monitored Free status without the need for any further testing.  
+BMT Negative 
+A dairy herd with no suspicion of EBL infection becomes BMT negative after one negative bulk milk test.
+A BMT Negative herd can become MF by having two BMTs (including one intensive BMT for herds with greater than 200 cows) with consecutively negative BMT results. 
+Suspect 
+A suspect herd is one in which the “National post freedom coordinating industry body” determines there is sufficient epidemiological evidence to suspect the presence of EBL, such as: 
+A herd that has returned an inconclusive BMT and has not undergone a herd test; or 
+A herd that has had trace-forward contact with (received animals from) an infected herd(s); or 
+A herd that has had trace-back contact with (were the source herd of) an infected animal(s); or 
+A herd that contains calves fed unpasteurised milk from an infected herd; or 
+A herd that contains one or more animals with clinical signs consistent with EBL infection that remain unresolved; or 
+
+Suspect status can be resolved by the “National post freedom coordinating industry body” obtaining evidence to remove the suspicion of infection from the herd. One or more herd tests may be a necessary component of the process to remove suspicion. 
+Provisionally Clear (PC) 
+An Infected herd becomes Provisionally Clear (PC) when it has a negative herd test at least 4 months after all known infected animals are removed from the herd.  A further negative herd test at least four months after reaching PC status results in a MF status being achieved. 
+Monitored Free (MF) 
+A MF herd is a herd with a consecutive number of negative herd or bulk (including intensive) milk tests as required under previous versions of the SDRs. 
+Following provisional freedom, all existing and new MF herds will only require an annual BMT.  
+Infected (IN) 
+A herd in which one or more infected animals have been detected by individual tests or at the latest herd test OR a herd that has returned a positive BMT result and which has not undertaken a herd test. 
+An IN herd can attain MF status by implementing an approved eradication program and undertaking a series of herd tests.  After the initial herd test, any identified reactors are to be removed.  Four months after reactors are removed, two negative herd tests four months apart, will result in a MF status. 
+RULES 
+DECLARATION OF COMPARTMENTS 
+Animal Health Committee may declare a Provisionally Free or Free Compartment if satisfied that all of the requirements for that Compartment status have been met. Qualification and maintenance requirements for Provisionally Free and Free Compartment status is in  REF _Ref280274249 \h  \* MERGEFORMAT Appendix 3: Qualification for and Maintenance of EBL Provisional Freedom and EBL Freedom in a Compartment. 
+Provisionally Free Compartment 
+EBL is notifiable 
+An approved monitoring program is in operation and all positive monitoring results are investigated 
+Tracing and investigation of all known or suspected infection is undertaken 
+EBL is not known to exist in the compartment and there are no unrestricted Infected herds at the time of declaration 
+More than 99.8% of herds are MF 
+Eradication is compulsory 
+All Infected herds are placed in quarantine or movement controls on infected or suspect animals apply until they reach MF status. 
+
+Free Compartment 
+All of the conditions for a Provisionally Free Compartment apply, plus: 
+A Free Compartment may be declared when it has been a Provisionally Free Compartment for at least 3 years 
+There are no IN or PC herds that are not actively undertaking eradication in the Compartment at the time of declaration 
+An approved monitoring program continues indefinitely, with a frequency as determined by AHC 
+Infected herds must not dispose of or sell suspect or infected animals until the herds reach MF status or suspicion is resolved.
+Infected herds are tested immediately and infected animals slaughtered as soon as possible under the control of the “National post freedom coordinating industry body”. 
+Eradication must be achieved so that infected herds achieve MF status within the shortest possible time. 
+
+MAINTENANCE OF COMPARTMENTS
+Provisionally Free Compartment 
+Ongoing demonstration of EBL freedom in dairy herds in Australia is required as EBL has not been eradicated from the beef industry. Until 31 December 2012, to support a claim for Provisional Freedom or Freedom, all dairy herds had to annually demonstrate their freedom from EBL by regular bulk milk testing.  This would be required again should the dairy compartment return to this status. 
+Compliance could be achieved by either: 
+An annual individual milk or blood test of all adult female cattle in all herds or 
+An annual bulk milk testing regime 
+An approved test must be used.  
+The timing of tests should be decided by the industry and/or milk processing company in close consultation with the “National post freedom coordinating industry body” to ensure the likelihood that every milking cow in the herd has milk sampled.  Prior to 2009, herds have undergone 3 tests in a bulk milk testing year unless they have a very well defined seasonal calving period. Post 2009, one bulk milk test was required annually from each herd. In non-seasonally calved herds, the sample shall be taken when the majority of dairy cattle are in lactation. 
+Free Compartment 
+Ongoing demonstration of EBL freedom in the compartment is required through an annual milk or serological survey using an approved EBL test of dairy herds supplying milk for direct or indirect human consumption. The survey must provide a 99% level of confidence of detecting EBL if it is present at a prevalence rate exceeding 0.2% of the herds. All dairy herds must be tested at least once every 36 months. All introduced cattle must be demonstrated to be free of EBL.
+All dairy herds with serological or other evidence of EBL must be promptly notified to the “National post freedom coordinating industry body” and relevant CVO(s). Movement of cattle from infected herds must be restricted by quarantine or other movement control measures whilst the herds are managed to MF status in the shortest possible time using the Australian EBL SDRs.
+TESTING FOR EBL 
+Herd Test Interval 
+The minimum time between successive herd tests is 4 months. 
+Performance of tests 
+Laboratory testing must be performed at an approved laboratory. An approved laboratory is required to keep the records of all testing carried out for EBL for a minimum period of 5 years and to provide information to a government authorised officer as required. 
+Reporting of tests 
+Interpretation and reporting of tests will be done according to the ANZSDPs.  All testing for EBL must be reported to the CVO of the State/Territory in which the herd is located. 
+Retesting 
+Retesting of reactors with the same immunological test will only be permitted by the “National post freedom coordinating industry body” when: 
+the laboratory reports inconclusive results, or 
+a further sample is specifically requested by the laboratory, or 
+to clarify the identity of reactors, or
+sample quality is deemed to have likely resulted in a false positive test. 
+
+MOVEMENT CONTROLS 
+Eligibility for movement within a compartment 
+There are no restrictions on movement of cattle within a provisionally free or free compartment. 
+Eligibility for movement into a compartment of higher status 
+Cattle moving into the Provisionally Free or Free Compartment must originate from MF herds or have a negative EBL test.
+INCIDENTS IN A COMPARTMENT 
+Infection found in a Provisionally Free Compartment 
+Detection of an infected herd in a Provisionally Free Compartment will not initially affect the Compartment’s classification.  The herd will be quarantined or subjected to movement controls and an approved eradication program so that infected animals will be removed from the milk supply immediately after detection and no more than 30 days after a positive BMT result.  Movement controls or quarantine will be released when the herd status returns to MF.  Group classification will be re-assessed by AHC if the number of infected herds remains unacceptable. 
+Infection found in a Free Compartment 
+Detection of an infected herd in a Free Compartment will not initially affect the Compartment’s classification.  The herd will be subjected to an approved eradication program so that infected animals are removed from the milk supply immediately after detection and no more than 30 days after a positive BMT result Movement controls will be released when the herd status returns to MF.  The classification will be re-assessed by AHC if the number of infected herds remains unacceptable. 
+REPORTING INCIDENTS 
+Incidents should be reported as soon as possible, both to the CVO(s) of the affected state(s), and to NAHIS State/Territory Coordinators. 
+Reporting of Incidents in a Provisionally Free Compartment 
+Incidents in Provisionally Free Compartment are to be reported to AHC bi-annually. 
+Reporting of Incidents in a Free Compartment 
+Incidents in Free Compartment are to be reported to AHC within 7 days of confirmation.  
+PROCEDURE FOR INVESTIGATING INCIDENTS IN PROVISIONALLY FREE AND FREE COMPARTMENTS 
+The investigation by an industry or government authorised officer should aim to: 
+determine the source(s) of infection  
+determine whether it may have spread to other herds, and 
+determine whether infection has spread to other animals in the herd. 
+
+Full trace back and trace forward investigations are to be carried out.  Where it is determined that the infected animals originated from another property, tracing shall aim to determine, if possible, other herds in which the animals had been run (trace-backs).  Appropriate action should then be taken to reassess the status of these herds. 
+Herds that have received animals from the EBL incident herd since the infected animals were introduced (trace forward herds) are to be thoroughly investigated. 
+IMPORTATION OF CATTLE AND GENETIC MATERIAL INTO AUSTRALIA 
+The negotiation and development of importation protocols is the responsibility of the Commonwealth Government through AQIS.  The conditions detailed below are considered necessary to support a national EBL control and eradication program, consistent with these SDRs. 
+Considerations 
+EBL exists in other countries and introduction into the Australian dairy industry would hinder eradication and declaration of EBL freedom.  Cattle and genetic materials including semen, ova and embryos must be subjected to appropriate importation requirements so as to minimise the risk of introducing disease. Cattle and genetic material imported into Australia should be derived from populations or herds where the EBL status has been scientifically assessed. 
+Conditions for imports 
+Cattle and genetic material imported for unrestricted entry into the Australian dairy herd must: 
+originate from herds that have been assessed as equivalent to MF status; and 
+for live cattle in the country of origin, be subjected to an approved test with negative results on 2 occasions within 6 months of importation into Australia. The 2 tests must be separated by an interval of at least 4 months.  
+MISCELLANEOUS 
+Animal Identification 
+All cattle in a herd in an approved eradication program must be permanently and uniquely identified so that their identification within the herd can be verified by an authorised officer eg. legible tattoo, freeze brand, individual numbered ear tags or leg bands. Wherever possible, animal identification should be consistent with the National Livestock Identification System. 
+Compensation 
+Compensation will not be available unless provided for by either the relevant legislation in a State or Territory or an industry body. 
+Fate of animals from an infected herd 
+Untested animals from an infected herd should be consigned direct to an abattoir, consigned to a saleyard for sale for slaughter only or ordered for supervised destruction on the property or other place approved by the “National post freedom coordinating industry body”.   
+Fate of infected animals 
+Infected animals must be consigned directly to an abattoir for slaughter or consigned to a saleyard for sale for slaughter only, or ordered for supervised destruction on the property or other  place approved by the “National post freedom coordinating industry body”.  All progeny born to infected animals since their last test will also be culled for slaughter, unless the progeny are more than 6 months old and have been tested negative when the herd was tested.
+Herd status 
+Herds of the same status will be regarded as equivalent for the purposes of eligibility for movement. 
+Identification of Infected animals 
+Infected animals must be permanently identified in such a manner that their identity can be easily verified by an authorised officer at all times prior to their disposal for slaughter. 
+Interstate notification 
+Where, on the basis of trace-forward or trace-back investigations, there is reasonable suspicion that EBL could have spread to another State or Territory, the CVO of the destination State/Territory must be notified in writing within 30 days of the reasonable suspicion occurring.  The “National post freedom coordinating industry body” will analyse cases individually to determine if a reasonable suspicion is valid, and subsequently instigate investigations where there is a reasonable suspicion. 
+New Herds 
+New herds will be assigned a status equivalent to the lowest status of herds from which the cattle constituting the herd originated. 
+Notification to owners 
+Where a herd has been determined to have a status of Infected, the “National post freedom coordinating industry body” will ensure that the owner is notified in writing of the herd status, within 30 days of that determination. 
+Official herd history 
+All histories of herds should be held by the “National post freedom coordinating industry body” and only released to authorised officers. Owners can receive their herd history by applying in writing to the “National post freedom coordinating industry body” of the State/Territory in which their herd is located. 
+The release of herd EBL status information is dependent on privacy, disease control and other relevant legislation. 
+Owner records 
+An owner of a herd undertaking an approved eradication program must maintain accurate records of all animals in the herd and make available these records to an authorised officer on request. 
+Introduced animals 
+New stock introduced to a herd must be from a property having an equivalent EBL status or be tested EBL negative. 
+If it is necessary to introduce stock from a herd of unknown status (e.g beef bulls) the purchased cattle should be tested EBL negative prior to introduction. 
+Heifer rearing herds 
+Properties on which heifers are reared for sale to dairy herds shall be considered equivalent to MF status if all heifers are derived from MF herds and otherwise not in contact with untested cattle.  
+Appendix 1: EBL Herd Status Progression Post 1 July 2009
+
+
+
+
+ 
+Appendix 2: Proforma Property Disease Eradication Plan for Infected Properties (VIC DPI) 
+(Not all components of this PDEP will be relevant to all jurisdictions, eg compensation.) 
+[Owner Name:] [Address:]  [Property Address:] 
+[Date] 
+Dear [name] 
+PROPERTY DISEASE ERADICATION PLAN (PDEP) FOR THE ERADICATION OF ENZOOTIC BOVINE LEUKOSIS 
+
+The following plan has been developed in consultation with you, your processor and the [Department of Primary Industries (DPI)], and its components are agreed to by all parties. 
+The purpose of this PDEP is to: 
+Describe your herd and historical EBL testing results 
+Outline testing requirements to eradicate infection in your herd 
+Detail the agreed culling procedures of animals determined to be infected 
+Outline biosecurity practices to minimise spread within your herd and reduce the chances of introducing infection back into your herd 
+
+The plan will be updated following each testing round to ensure that you have up to date information and details of further requirements and options. 
+BACKGROUND INFORMATION 
+This PDMP has been prepared for: 
+Trading Name: 
+Business Address: 
+Manager Name: 
+Manager Address: 
+Manager Phone Number: 
+Manager Fax: 
+ABN: 
+PIC: 
+Dairy Food Safety Victoria Licence Number [or equivalent]: 
+Milk Factory Supplier Number: 
+Milk Factory:
+NATURE OF THE ENTERPRISE 
+Describe the enterprise (incl. herd details, historical establishment, processors supplied currently and over the last 24 months)  
+STOCK INVENTORY 
+(Details of cattle classes and numbers). 
+HERD RECORDS, IDENTIFICATION AND DOCUMENTATION 
+All cattle over the age of 6 months are to be permanently and individually identified to the satisfaction of the approved veterinarian responsible for collecting the samples. 
+Identify, by means of an official DPI ear tag, all cattle deemed to be EBL positive and retain these cattle on the property until culled for slaughter, which should be a soon as possible after detection. All reactors are to be consigned directly to an abattoir. 
+A copy of this PDMP, all EBL test results and a copy of the Section 17 Agreement for the eradication of enzootic bovine leukosis from a cattle herd should be kept in a file on your property. 
+
+EBL ERADICATION PROGRAM OUTLINE 
+Following the success of EBL control over the past 10 years, Australian animal health authorities and the dairy industry have agreed to a National EBL Eradication Program which seeks to achieve provisional freedom by the end of 2009 and confirm freedom by the end of 2012. Driven by the dairy industry and administered by the Department of Primary Industries this program aims to be able to market Australian dairy products as EBL free. 
+EBL HISTORY 
+Outline previous Bulk Milk, Herd and other testing, including dates of testing, details of removal of reactors and level of participation in past program (compile from DPI and farm records). Assessment of likely level of infection in the herd. 
+EBL TESTING REQUIREMENTS AND AGREEMENTS 
+Describe herd testing requirements and timeframes, document agreement with producer and development of the PDMP, detail how testing will be performed, by whom and when.  Incl. copy of s17 Agreement under the Livestock Disease Control Act 1994 (LDCA). 
+CULLING OF INFECTED ANIMALS AND CLAIM PROCEDURES 
+Culling of reactors from the herd is the most time critical element of the dairy industries endeavour to eradicate EBL from Australia. Subsequent testing on your property cannot be done until 4 months after the last reactor is removed from the herd. As such every day a reactor stays in the herd not only increases the chances of that cow passing the infection to another cow but also extends the period before testing can be repeated.  Reactor cattle will be identified by laboratory results received by the private veterinarian and the DPI. A member of DPI Animal health Field Services will visit your property and tag the reactor animal with an “EBL REACTOR” tag and get you to sign a compensation claim form. This tag is to identify the cow as livestock that must only be consigned directly for slaughter. Once the animal has been slaughtered at the abattoir you are to notify your DPI contact and provide them with evidence of slaughter and proof that you have paid stamp duty on previous sales of stock. You will then be payed your $300 compensation from the cattle compensation fund.  
+EBL PROGRAM PROGRESSION 
+[Detail herd progression to MF] 
+UNEXPECTED RESULTS 
+In the event that a cow returns a positive test result after a previously clear herd test, the herd will revert to an infected status and testing will continue. In the event that a cow returns an inconclusive test result the cow will be deemed to be infected. 
+
+KEY CONTACTS 
+Veterinarian Name and contact details: 
+Processor contact details: 
+DPI contact details:
+You must notify your processor if your status changes 
+BIOSECURITY MANAGEMENT 
+EBL infection can be transmitted by very small quantities of blood or milk, containing virus–infected lymphocytes. Typically, under Australian conditions, EBL becomes established in herds through management procedures that facilitate blood transfer between animals eg dehorning of groups of cattle using cutting or gouging tools, the reuse of hypodermic needles, rectal pregnancy testing without changing gloves between cows, and/or the use of tattooing or calving equipment contaminated with blood. Transmission of BLV from infected cows to calves via milk is possible, but has not been reported as a significant feature in the epidemiology of the disease in Victoria.   
+Recommendations for Management/Husbandry Practices;  Limit the spread of disease by preventing the transfer of infected blood or milk by:  
+Ceasing the use of cutting dehorners; use chemical dehorning or cautery 
+For any injections (including vaccinations) use disposable needles or needles sterilised by boiling between  animals 
+Clean and disinfect ear tattoo implements between animals 
+Wash stomach tubes and drenching guns between animals 
+Use separate gloves for each animal when pregnancy testing or doing AI 
+Thoroughly wash and disinfect all calving gear between cows or have separate gear for infected cattle. 
+Calve reactor cattle in paddocks away from non-reactors and keep them separate for at least three days or until there are no vaginal discharges or placental membranes present 
+Remove calves from cows within 24 hours of birth or as soon as they have a good drink of colostrum 
+Feed calves only milk from non-reactor cows or use milk replacer - if using milk from the vat, make sure that no reactors have been milked before milk is removed for the calves 
+Isolate EBL reactors that have discharging infections (which may contain blood cells) or clinical mastitis from EBL negative cattle 
+Test any introduced cattle before purchase or on arrival and keep isolated until the results are known; it is best to buy cattle from herds tested free of EBL. 
+
+Buying and Selling Cattle When purchasing replacement stock only stock from monitored free herds should be purchased. If you are selling cattle (other than for slaughter) or agisting cattle, you must advise prospective purchasers or agistors of the history of EBL in the herd and the existence of the Section 17 Agreement. This can be done via an EBL vendor declaration form. 
+MOVING PROCESSOR 
+If you change milk processors you must fully disclose your EBL status including faxing them a copy of your status notification. You must also notify the DPI of your intent to change suppliers and your new supplier number. These details should be amended on this form at the next herd test.  
+NON-COMPLIANCE 
+If for any reason you choose to do any of the following: 
+Refuse to sign a Section 17 Agreement 
+Refuse to engage an approved veterinarian to herd test your stock for EBL 
+Refuse or delay unreasonably the removal of EBL reactor cattle from the herd 
+Cease the testing program before your property gains a monitored free status.
+
+You may receive milk price penalties from your supplier and or your property may be placed under quarantine under the Livestock Disease Control Act. 1994. This quarantine will restrict movement of cattle and milk products off your property and would only allow this to occur with a written permit from the Department of Primary Industries. 
+GRIEVANCE PROCEDURE 
+If you have a grievance with your approved veterinarian, your DPI district veterinary officer or your milk processor to do with the administration of the EBL eradication program, please contact: 
+[name and contact details] 
+Please do not hesitate to contact me if you wish to discuss these recommendations or require further information about eradicating EBL in your herd.  
+I will be in touch on (insert date) to arrange your next testing.  
+Yours sincerely (signed: Private Veterinarian/Consultant or DVO)  
+ 
+Appendix 3: Qualification for and Maintenance of EBL Provisional Freedom and EBL Freedom in a Compartment 
+1. Qualification for Provisionally Free Status 
+To qualify as Provisionally Free from EBL, a Compartment must: 
+Demonstrate that at least 99.8% of the dairy herds which supply milk for direct or indirect, human consumption have a MF status. 
+All dairy herds with serological or other evidence of EBL must be promptly notified to the relevant CVO(s). Movement of cattle from infected herds must be restricted by quarantine or other movement control measures whilst the herds are managed to MF status in the shortest possible time using the Australian EBL SDRs. 
+The CVO(s) will review the production group records for compliance with the Australian EBL SDRs before accepting or rejecting the EBL provisionally free status.  
+2. Maintenance of Provisionally Free Status 
+To maintain a Provisionally Free status a Compartment must: 
+Conduct a milk or serological survey using an approved EBL test and an approved sampling strategy annually of all dairy herds supplying milk for direct or indirect human consumption. The survey must provide a 99% level of confidence of detecting EBL if it is present at a prevalence rate exceeding 0.2% of the herds. 
+All introduced cattle must be demonstrated to be free of EBL. 
+All dairy herds with serological or other evidence of EBL must be promptly notified to the relevant CVO(s). Movement of cattle from infected herds must be restricted by quarantine or other movement control measures whilst the herds are managed to MF status in the shortest possible time using the Australian EBL SDRs. 
+The Compartment will lose its Provisionally Free status if less than 99% of herds are MF at any time. 
+3. Qualification for Free Status 
+To qualify as Free from EBL, a Compartment must demonstrate that: 
+At least 99.8% of the dairy herds which supply milk for direct or indirect, human consumption have a MF status for a minimum of 3 years. 
+All dairy herds with serological or other evidence of EBL must be promptly notified to the relevant CVO(s). Movement of cattle from infected herds must be restricted by quarantine or other movement control measures whilst the herds are managed to MF status in the shortest possible time using the Australian EBL SDRs. 
+AHC will review the records for compliance with the Australian EBL SDRs before accepting or rejecting EBL free status.  
+4. Maintenance of Free Status  
+To maintain a Free status a Compartment must: 
+Conduct an annual milk or serological survey using an approved EBL test of dairy herds supplying milk for direct or indirect human consumption. The survey must provide a 99% level of confidence of detecting EBL if it is present at a prevalence rate exceeding 0.2% of the herds. Each dairy herds must be tested at least once every 36 months. 
+All introduced cattle must be demonstrated to be free of EBL. 
+All dairy herds with serological or other evidence of EBL must be promptly notified to the relevant CVO(s). Movement of cattle from infected herds must be restricted by quarantine or other movement control measures whilst the herds are managed to MF status in the shortest possible time using the Australian EBL SDRs, managed by the “National post freedom coordinating industry body”. 
+AHC will review the production group records annually for compliance with the Australian EBL SDRs before accepting, maintaining or rejecting EBL free status. 
+The Compartment will lose its Free status if less than 99% of herds are MF at any time and/or the management of the herds other than the MF herds is deemed to be inappropriate by AHC. 
+Appendix 4: Roles and Responsibilities 
+Note: These SDRs have been developed to reflect industry and government roles and responsibilities for the programs as follows: 
+Roles 
+“National post freedom coordinating industry body” – this body coordinates, manages and funds the post 2012 EBL freedom program.
+Chief Veterinary Officer of State/Territory (CVO) - The CVO or delegate in consultation with other CVOs and the dairy industry formulates the guidelines for the program and supports the ““National post freedom coordinating industry body”” where necessary. 
+Laboratory Officer in Charge (LOIC) - The LOIC ensures that all EBL tests are carried out according to approved procedures and reports results in a timely manner to submitters, the ““National post freedom coordinating industry body”” and the CVO. 
+Dairy Producer - Producers contribute to and agree to the guidelines through a consultation process and implement the guidelines in respect of quality assurance arrangements and the biosecurity of their herds. 
+Dairy Processor - Processors contribute to and agree to the guidelines through a consultation process and implement the guidelines in respect of their processing operations and quality assurance arrangements with suppliers. 
+Responsibilities 
+“National post freedom coordinating industry body” – this coordinating body is responsible for administering the EBL program post 2012, including working with industry quality assurance programs to assist the process, undertaking testing to demonstrate continuing freedom in line with these SDRs, investigation of suspect reactors, removal of infected animals, managing the resolution of infected statuses, information management, documenting freedom status and testing results as required, and funding these activities.  The operational aspects of the program may be delegated to other persons or bodies, including producers, private veterinarians and milk processing factories.
+Industry – The dairy industry drives the program through quality assurance arrangements. 
+Individual Producers – The final responsibility for introduction of disease-free cattle into a herd must rest with individual producers. EBL control and eradication programs should operate in conjunction with vendor declaration systems.  Under vendor declaration provisions, a purchaser can request a declaration from the vendor describing the status of the herd as defined by these SDRs.  The purchaser can then assess the risk of introduction of EBL and make an appropriate judgement.  The vendor carries the responsibility for the truthfulness of the declaration. 
+State/Territory responsibilities – State and Territory authorities shall be mindful that these SDRs were developed as the basis of an industry run national program for the eradication of EBL in dairy herds.  They will ensure that the results of all testing for EBL are recorded.  All testing is designated as “official” to facilitate this. They support the “National post freedom coordinating industry body” when it is unable to achieve voluntary compliance with producers resolving suspect or infected status.
+Laboratories – Testing procedures shall be of a consistently high quality to maintain confidence in the results.  All laboratories shall be approved by the CVO to carry out testing for this program.  SCAHLS will define and audit standard procedures for all laboratory techniques to ensure consistency is maintained. 
+Private Veterinary Practitioners – Private veterinary practitioners can have a key role in the program.  These veterinarians may be accredited under the Accreditation Program for Australian Veterinarians (APAV).  They must ensure they comply with these SDRs in order to maintain involvement with approved eradication programs and protect the interests of their clients. They will be provided with nationally consistent information about the program by Animal Health Australia. 
+
+
+
+
+
+
+
+
+ PAGE   \* MERGEFORMAT 2

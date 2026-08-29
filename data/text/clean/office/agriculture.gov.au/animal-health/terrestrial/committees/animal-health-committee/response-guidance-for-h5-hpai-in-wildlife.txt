@@ -1,0 +1,757 @@
+GUIDANCE FOR RESPONSE PLANS IN THE EVENT OF AN OUTBREAK OF H5 HIGH PATHOGENICITY AVIAN INFLUENZA IN WILDLIFE
+
+Date: June 2026
+
+Version: 1.1 (National Biosecurity Committee approved for publication March 2026).
+
+Purpose of this document
+
+This document provides guidance for government lead agencies responding to suspected or confirmed cases of H5 high pathogenicity avian influenza (HPAI) affecting wildlife. The guidance is to support development of individual response plans in the event of a H5 HPAI outbreak in wildlife. These plans will be supported by the relevant local legislation, which may include biosecurity, animal welfare, veterinary practice, environmental protection, public health and work health and safety legislation.
+
+This document is designed to be read in conjunction with the AUSVETPLAN Response strategy: Avian influenza and to complement other existing arrangements such as notification requirements and cost-sharing agreements. The current version of these documents should be accessed at the time of preparing a response plan.
+
+In Australia, infection with influenza A viruses in birds (including but not limited to H5 HPAI) is a notifiable animal disease both nationally and at the state/ territory level. Although not included on the national notifiable animal disease list, there is an expectation that infection with avian influenza viruses in atypical species (for example, marine mammals) would also be promptly nationally notified nationally, consistent with the Animal Health Committee Policy Decision 18-08. This is supported by state and territory legislation relating to notifiable animal diseases or prohibited matter. A summary of the notification pathway is available in part 8 of the AUSVETPLAN Overview.
+
+Response activities in wildlife during the incident definition phase will be managed in accordance with the Emergency Animal Disease Response Agreement (EADRA) regardless of whether the first detection of H5 HPAI in Australia is in wildlife or domestic animals. This allows formal confirmation of the detection of H5 HPAI and consideration of whether the outbreak can be contained or eradicated, consistent with article 6.1 of the EADRA. Once it has been agreed that H5 HPAI is present but not feasible to eradicate from wildlife, response activities in wildlife will be considered under the National Management Agreement – H5 HPAI in Wildlife (the H5 NMA), or will otherwise be managed on a case-by-case basis in the absence of cost sharing arrangements.
+
+Scope
+
+This document has been developed to provide guidance on the emergency response activities that may be implemented in the event of detections of H5 HPAI in captive native wildlife and free-ranging wildlife in Australia, including in Australian external territories in which the Biosecurity Act 2015 (Cth) applies such as Christmas Island, Cocos (Keeling) Island and Norfolk Island. Although outside the scope of this document, the principles may also be applicable in other external territories such as the Australian Antarctic Territory.
+
+Consistent with the definition in the H5 NMA, wildlife includes:
+
+native species (birds and mammals) that are free ranging and captive, see section 528 (definition of native species) of the Environment Protection and Biodiversity Conservation Act 1999 (Cth) (EPBC Act), and
+
+non-native species, including invasive species, that are free ranging independently of direct human supervision or control in Australia.
+
+This definition is different from the one used by AUSVETPLAN with respect to captive wild birds as it excludes captive wild birds that are not native to Australia. Information on management of captive wild birds that are not native to Australia can be found in AUSVETPLAN.
+
+The focus of the guidance is on emergency response activities relating to wildlife aimed at improving outcomes for biodiversity, the environment and social amenity. The state or territory government will develop a response plan to best address the specific requirements of an outbreak, which may not include all of the activities described in this guidance or may include other activities if deemed necessary. Activities will be undertaken by the state or territory government agency best suited to implement them, which may not always be the biosecurity agency.
+
+This guidance does not cover:
+
+responses to other avian influenza viruses in wildlife
+
+responses to suspected or confirmed cases of H5 HPAI in animals other than wildlife species
+
+responses to HPAI that are wholly covered by the EADRA
+
+responses to HPAI infection or exposure in humans
+
+prevention, preparedness and recovery arrangements.
+
+Human health
+
+This document does not address responses to H5 HPAI infection in humans. However, outbreaks of H5 HPAI in animals pose risks to public health and work health and safety, and people involved in a response should be aware of these risks and work to mitigate them.
+
+Human infections with H5 HPAI are rare, and typically occur after close, unprotected contact with infected birds, livestock, or contaminated environments. These situations may occur as a result of response activities as a work health and safety hazard or may apply to members of the public exposed to infected wildlife during outbreaks.
+
+Response activities and some business-as-usual activities for particular industries or community organisations (including veterinarians and wildlife rehabilitators) may carry increased risk of exposure of workers or volunteers. Appropriate risk mitigation measures should be planned and put in place, including use of personal protective equipment, to keep these workers safe. Detailed guidance on preparedness and risk mitigation measures for different situations is beyond the scope of this guidance, and the Communicable Diseases Network Australia (CDNA) National guidelines for avian influenza – protecting people who work with birds and wildlife and information on avian influenza risks from Safe Work Australia should be consulted for further information.
+
+State and territory public health authorities are responsible for responding to human exposures to avian influenza, including from exposures to infected wildlife and other animals. Mechanisms must be put in place during a response to ensure these authorities have information about detections to enable them to undertake these responsibilities.
+
+Animal welfare
+
+Outbreaks of H5 HPAI may impact the welfare of wildlife directly due to the clinical disease, indirectly due to reduced fitness associated with mild or subclinical disease (e.g. reduced ability to evade predators), or indirectly due to response activities.
+
+There is separate animal welfare legislation in each state and territory, and response activities need to comply with the relevant legislation for the location in which the activities will occur. Full consideration of animal welfare requirements is beyond the scope of this guidance.
+
+Aim and objectives of H5 HPAI disease response in wildlife
+
+The aim of a response to H5 HPAI in wildlife under the H5 NMA is to manage the immediate impacts of an outbreak on wildlife health and welfare, biodiversity and social amenity while establishing the necessary systems to transition to routine management as quickly and efficiently as possible.
+
+Objectives of a response in wildlife may include:
+
+limit impacts on human, animal and environmental health and social amenity
+
+protect biodiversity (particularly threatened, endemic species or significant populations)
+
+manage impacts of the disease and response measures on animal welfare
+
+identify the epidemiological and ecological context for the outbreak, including timing, location, species and cohorts involved, clinical characteristics and population level impacts
+
+eliminate or minimise work health and safety risks, as far as is reasonably practicable
+
+raise public awareness and understanding of the outbreak and response measures
+
+These should be adapted for the specifics of the outbreak and aligned to response objectives for any outbreaks in domestic species. It is assumed that any response activities involving wildlife that specifically relate to managing outbreaks of disease in poultry would form part of an emergency animal disease response plan that would be considered for cost-sharing under the EADRA.
+
+Affected states and territories (and the Commonwealth for Commonwealth places and Australian external territories) may implement strategies outlined in this guidance document as appropriate to the circumstances of the outbreak, powers under relevant Acts and related/subordinate legislation. This will require cross-agency cooperation and involvement. These strategies are aligned with current AUSVETPLAN manuals and other nationally agreed guidance.
+
+Susceptible wildlife species
+
+An initial assessment of the native species and locations most vulnerable to H5 HPAI has been developed by the Department of Climate Change, Energy, the Environment and Water (DCCEEW) and is available to relevant state and territory government agencies for planning purposes. States and territories have also undertaken detailed analysis to identify species of concern relevant to their context. AviFluMap is an online tool designed to support assessment of the risk of H5 HPAI in Australia’s wild bird populations and provides further support for planning. Assessments will be refined over time and may change as new evidence arises, particularly if an outbreak occurs in Australia.
+
+Wild birds (native and non-native species): it should be assumed that all wild bird species are susceptible to infection with H5 HPAI (noting that infection may not necessarily result in clinical disease). Overseas, wild birds commonly affected by H5 HPAI include waterfowl, shorebirds, seabirds and predatory or scavenging birds.
+
+Wild mammals (native and non-native species): mammals, especially carnivores, scavengers and marine mammals, are known to be susceptible to H5 HPAI.
+
+The Food and Agriculture Organization of the United Nations maintains a Global Avian Influenza Viruses with Zoonotic Potential situation update that lists bird and mammal species in which H5 HPAI viruses have been reported. Most new species added since 2021 have been infected with H5 HPAI.
+
+Clinical presentation in wildlife
+
+Wild birds
+
+Based on international experience, infected birds may show a wide range of clinical signs of disease, including:
+
+neurological signs (ataxia, paralysis, seizures, tremors, abnormal posture)
+
+respiratory signs (conjunctivitis, increased nasal secretions, oedema of the head, dyspnoea)
+
+gastrointestinal signs (diarrhoea)
+
+sudden or unexplained death, with or without previous clinical signs of disease (including “found dead” and mortality events).
+
+Some infected birds may be asymptomatic or show only very mild clinical signs of disease. In some cases, mass mortality events may occur. Clinical criteria for suspicion of H5 HPAI in Australian wild birds may be refined over the course of an outbreak as information about impacts on Australian species becomes available.
+
+Investigation of H5 HPAI should be considered based on risk assessment. H5 HPAI may be considered as a differential diagnosis in the following scenarios for wild birds, although a wider range of scenarios may need to be considered if an endemic transmission pattern is established:
+
+Groups of 5 or more sick or dead wild birds of all species.
+
+Less than 5 sick or dead wild birds for seabirds, waterbirds, shorebirds or birds of prey.
+
+Wild mammals
+
+Investigation of H5 HPAI should be considered based on risk assessment. H5 HPAI may be considered as a differential diagnosis in any events involving sick or dead wild mammals with signs of avian influenza virus infection as outlined below. Marine mammals and predator and scavenger mammal species are considered to be at higher risk of H5 HPAI infection and disease.
+
+Based on international experience, infected wild mammals may show a wide range of clinical signs, including:
+
+neurological signs (ataxia, paralysis, seizures and tremors)
+
+respiratory signs (increased nasal and oral secretions, dyspnoea or tachypnoea)
+
+sudden unexplained death, with or without previous clinical signs.
+
+Some infected mammals may be asymptomatic or show only very mild clinical signs. In some cases, mass mortality events may occur.
+
+Clinical criteria for suspicion of H5 HPAI in Australian wild mammals may be refined over the course of an outbreak as information about impacts on Australian species becomes available.
+
+Initial actions on suspicion and following first detection
+
+Laboratory diagnosis of index case
+
+Laboratory testing will be required to confirm initial detection in wildlife. Samples must be submitted in accordance with agreed state or territory protocols. Unless otherwise advised by the state or territory biosecurity agency, samples must initially be forwarded to the state or territory animal health laboratory for appropriate analysis, and assessment of whether further analysis will be required by the CSIRO Australian Centre for Disease Preparedness (CSIRO-ACDP), Geelong.
+
+Initial confirmation of an outbreak will involve screening by a real-time polymerase chain reaction (PCR) pan-influenza A assay, followed by a H5-specific assay. Further subtype-specific assays may also be run, if required. Sequencing is required to confirm that the virus is high pathogenicity. Phylogenetic analysis of sequence data is required to confirm the clade and potential origin of the virus. Sequencing also provides information on any mutations related to potential mammalian adaptation.
+
+A confirmed case requires detection of avian influenza virus of subtype H5, confirmed as high pathogenicity by genome sequencing, in a sample collected from Australian wildlife. Further phylogenetic genomic characterisation would be required to confirm the clade of the virus (such as clade 2.3.4.4b). Further information on case definitions is provided in Section 14.6.
+
+Further information, including guidance on packing and transport of samples and laboratory diagnosis, can be found in the AUSVETPLAN Management manual: Laboratory preparedness and AUSVETPLAN Response strategy avian influenza. If an outbreak is confirmed to be caused by an HPAI virus, this agent may also be classified as a security sensitive biological agent (SSBA), to which regulatory requirements (e.g. for handling and reporting) may apply. This may be the case if there is proven infection of humans and there is an outbreak of human disease. Emergency situations, including emergency animal disease outbreaks, may be exempt from some SSBA regulatory requirements, although this is not automatic. Clarification should be sought from the SSBA-responsible officer at the facility concerned.
+
+Tracing, investigations and surveillance
+
+It is possible that the index case (i.e. the first detected case) will not be the first infection in Australia given migratory, nomadic and vagrant wild bird movements, relative remoteness of some bird populations and low human population levels in large parts of the country. Tracing, as practiced for livestock and domestic species, is unlikely to be feasible for free ranging wildlife. Initial investigations should focus on developing a comprehensive epidemiological and ecological picture to assist in understanding the species and locations where infection may be present and the initial impacts of infection in Australian species. Advice from subject matter experts (e.g., wildlife biologists, ecologists, First Nations communities) will assist in planning these investigations.
+
+Ecological and epidemiological investigations should be considered following the first detection in Australia, or in a new location in Australia.
+
+Ecological investigations
+
+Ecological investigations should:
+
+document population details of wildlife, including species, life history traits relevant to the timing of the outbreak (e.g. nesting, non-breeding), range, estimated number of animals, estimated ages (e.g. adults, hatchlings, juveniles) for the affected species.
+
+where feasible, identify any recent or likely future movements of susceptible wildlife into or out of the area and their likely origin or destination and stop over locations (e.g. any recent incoming or likely outgoing migratory or nomadic bird movements).
+
+make observations of the environment, and (where possible) undertake predictive modelling of future trends, that may cause, contribute to or exacerbate the impact disease in a population (e.g. habitat, feed availability, climatic conditions, other environmental stressors).
+
+describe the ecological niche occupied by the affected species to infer potential routes of exposure (e.g. ingestion for scavenging species).
+
+identify threatened, culturally significant and ecologically important species in the area, as well as any that are likely to be important in maintaining and transmitting H5 HPAI virus.
+
+Reference to environment agencies’ existing priority native wildlife site- and species-specific planning and advice will be critical.
+
+A template ornithological investigation form which could help to structure these investigations is included (Appendix 1).
+
+Epidemiological investigations
+
+Epidemiological investigations should:
+
+document key information about the observed outbreak, including proportion of affected verses unaffected animals for each species involved, geographical distribution of affected animals and, where possible, an approximate timeline for the event.
+
+commence initial surveillance activities, including enhanced passive surveillance and targeted surveillance where relevant – see Appendix 2 for more information.
+
+coordinate any investigations in poultry or other susceptible domestic species in the area to understand other locations that are potentially affected.
+
+Identify recent human activities and/or movements that pose a risk of spreading disease.
+
+Assessing at-risk sites and populations in the vicinity
+
+There is considerable variation in the distribution, density and habitats of wildlife between and within regions in Australia, and this may change on a seasonal basis. State and territory environment agencies’ plans should detail locations of priority native species and sites for their own context and identify potential conservation actions that could be undertaken during a response, as well as actions to minimise the risk of spread. This detail should be integrated into response planning. Consultation with wildlife biologists, ecologists and First Nations communities may also be valuable.
+
+Considerations include:
+
+presence of species listed under the EPBC Act or equivalent state/ territory legislation such as threatened species, migratory species and marine mammals. Note that DCCEEW and state and territory environment departments have information on the distribution of these species.
+
+proximity to or involvement of nationally and internationally important places listed under the EPBC Act, such as Ramsar wetlands. DCCEEW has information on the relevant locations.
+
+proximity to or involvement of public land with high conservation value, aside from nationally and internationally important places. State and territory environment agencies have information on the relevant locations.
+
+presence of culturally important species, such as totems or food species, culturally important places, or Native Title arrangements.
+
+proximity to commercial poultry farms and other commercial livestock holdings of susceptible species. State and territory biosecurity agencies hold information on these properties.
+
+proximity to zoos, wildlife parks and captive breeding facilities that hold susceptible species. State and territory wildlife licensing agencies will have information on the location of such sites in the vicinity. The Zoo and Aquarium Association may be able to assist in identifying which of their members are in the vicinity.
+
+proximity to wildlife rehabilitation facilities, which may include the homes of wildlife rehabilitators. State and territory environment agencies are responsible for licensing carers and may be able to provide information about their locations.
+
+known or likely presence of backyard poultry, aviary or pet birds.
+
+presence of susceptible introduced and invasive species.
+
+level and type of human activity in the area.
+
+presence of large aggregations of susceptible wildlife, even if currently unaffected and not listed as threatened.
+
+Considering the feasibility of eradication
+
+It is considered highly unlikely that H5 HPAI could be eradicated from wildlife populations should it be established in wildlife in Australia. However, following the detection of H5 HPAI in wildlife in Australia, the Consultative Committee on Emergency Animal Diseases (CCEAD), would provide advice to the National Management Group (NMG) on whether the H5 HPAI would be eradicable, based on the specific circumstances of the outbreak.
+
+Due to the scale of expected impacts on biodiversity, livestock industries, public amenity, cultural values and the environment, and the potential for human health impacts, some response activities will be undertaken, aligned to the response objectives, regardless of the feasibility of eradication in wildlife. This may help to minimize immediate impacts while measures are put in place to manage the disease in the long term.
+
+Response activities
+
+A range of response activities, described in the following sections, may be implemented after confirmation of H5 HPAI in wildlife in Australia depending on the epidemiological situation, feasibility of implementation, animal welfare situation and assessed risks to human and animal health and biodiversity.
+
+Some activities may be continued as part of ongoing management after the initial emergency response stands down.
+
+Outbreaks of H5 HPAI in wildlife may occur in remote locations (including Australian Antarctic Territory or offshore territories) or may become so large or numerous that response resources need to be prioritised for protracted periods across dispersed locations.
+
+Biosecurity controls
+
+Biosecurity controls may be implemented under a legislative instrument, for example when the state or territory biosecurity agency implements a declared area or property status or may be put in place by personnel responsible for a facility or site to manage disease risks during outbreaks in the area (enhanced biosecurity; see section 5.2).
+
+First Nations communities should be involved in discussions about controls that could restrict access or activities on Country, such as controls on human movements on Country and use of traditional food species, including the potential for impacts on health and wellbeing. Engagement should occur as part of preparedness planning, as time is needed to develop trust and enable broad consultation within communities. Where possible, First Nations communities should be empowered to make decisions on and enforce their own controls on Traditional Lands.
+
+Access controls
+
+In some circumstances, public access to areas with active outbreaks may be controlled to promote public safety, avoid disturbance and dispersal of wildlife, prevent human-mediated spread of the virus to other areas and, where appropriate, allow response activities (such as carcass management) to occur. Depending on the location and situation, public access controls could be imposed by relevant state or territory authorities (e.g. decontamination requirements), public land management agencies (e.g. closure of national parks) or local governments. Public information activities can also be used to encourage voluntary compliance where legal instruments are not applicable.
+
+Biosecurity controls on activities
+
+There may be a need to reduce or prohibit certain activities at locations with active H5 HPAI outbreaks, where the activity has been assessed as high risk for the specific response objectives, and where access controls are not sufficient to prevent these activities. Activities that might require such consideration include:
+
+wild population monitoring or management activities e.g. bird banding, wildlife translocations
+
+research and environmental studies (with or without interaction with wildlife)
+
+environmental management e.g. pest animal control activities, tree health assessment
+
+commercial wildlife activities e.g. commercial wildlife harvesting or particular tourism activities
+
+recreational activities e.g. recreational hunting and associated activities
+
+taxidermy.
+
+A risk assessment and mitigation process should be used to determine which activities are continued and which require biosecurity controls. Where possible, beneficial activities should be facilitated via appropriate permits or exemptions and other risk mitigation measures.
+
+Enhanced biosecurity
+
+Enhanced biosecurity in captive wildlife
+
+Birds kept in zoological collections or captive breeding facilities, and wild birds temporarily in captivity for treatment or rehabilitation at veterinary hospitals or rehabilitation facilities, are considered captive birds for the purposes of the AUSVETPLAN Response Strategy: Avian influenza. These facilities may be subject to any response-related legal orders and other instruments that apply in their local area. They may be subject to premises classification or enhanced biosecurity requirements if H5 HPAI is detected or suspected in their populations or they are linked to another property that is suspected or confirmed to have infection. Further information about these biosecurity controls can be found in section 4.3.2 of the AUSVETPLAN Response Strategy: Avian Influenza.
+
+Facilities that hold captive wild birds and those that hold captive populations of susceptible mammalian wildlife should assess their biosecurity practices, conduct a risk assessment of their activities and have a documented and implemented biosecurity plan prior to an outbreak. They should apply stringent biosecurity to minimise the risk of virus introduction and spread, while ensuring animal welfare and conservation responsibilities are maintained. Care should be taken to prevent any direct/indirect contact between captive and local free-living wildlife populations. Biosecurity management of these facilities will depend on the epidemiological situation and populations at risk.
+
+Considerations that apply to particular facilities include:
+
+zoos and captive breeding facilities hold rare, iconic and/or genetically valuable animals and may already have mature biosecurity plans in place prior to an outbreak. They may be associated with a wildlife hospital or rehabilitation facility.
+
+veterinary hospitals and wildlife rehabilitation facilities perform an important role in the community, providing a public service for the assessment, treatment and rehabilitation of sick, injured and orphaned wildlife and contributing to improved animal welfare outcomes. They may also contribute to public safety by providing expertise in the capture, handling and care of wildlife to reduce exposure of less experienced personnel and the public to injury and zoonotic disease transmission from wildlife. Veterinary hospitals also support wildlife rehabilitators with veterinary expertise. These services will still be required in the event of an outbreak of H5 HPAI in wildlife but will be impacted by biosecurity controls and other response activities.
+
+in addition to sick or injured wildlife, veterinary hospitals may also treat pet birds, aviary birds and backyard poultry, which are included in the AUSVETPLAN Response Strategy: Avian influenza definition of captive birds. They will need to consider the risks of their wildlife caseload to their client-owned animals.
+
+Resources that may assist in developing biosecurity plans and management approaches for these facilities include:
+
+the WHA Risk Mitigation Toolbox for Wildlife Care Providers
+
+the Zoo Biosecurity Manual
+
+the National Wildlife Biosecurity Guidelines
+
+the Australian Veterinary Association Guidelines for Veterinary Personal Biosecurity
+
+the AUSVETPLAN Guidance document: Risk-based assessment of disease control options for rare and valuable animals
+
+the CDNA National guidelines for avian influenza – protecting people who work with birds and wildlife
+
+Safe Work Australia’s guidance on avian influenza.
+
+Enhanced biosecurity for free-living wildlife in important populations or sites
+
+There are limited options for preventing transmission or movement of H5 HPAI via wildlife in free-ranging populations. However, wildlife managers and land managers can still consider aspects of biosecurity that enable prevention of transmission or movement of H5 HPAI via people or fomites that are within their control. Further information can be found in the:
+
+WHA Risk Mitigation Toolbox for Wildlife Managers
+
+National Wildlife Biosecurity Guidelines
+
+National Guidelines for Management of Disease in Free-ranging Australian Wildlife.
+
+A well-documented biosecurity plan will assist biosecurity agencies to assess risks associated with certain activities at the site, potentially including some conservation interventions that could form part of the response.
+
+Declared areas
+
+Detections of H5 HPAI in poultry or other domestic animals are likely to result in implementation of declared areas, and captive wild birds will be subject to any restrictions, including movement controls that are in place within these areas. The decision to implement declared areas in response to the detection of H5 HPAI in wildlife populations will be at the discretion of the responding state or territory government. Due to the free-living nature of wildlife, it is difficult to control disease spread through implementation of declared areas. However, declared areas may be a useful legislative basis for biosecurity controls. Implementation of declared areas may impact the activities of facilities that hold captive wildlife. The movement controls referenced in the AUSVETPLAN Response strategy: Avian influenza have been developed for a response strategy for eradication of HPAI particularly in commercial poultry.
+
+The main consideration in deciding whether to implement a declared area is likely to be the need for legislative authority to support planned response activities, which may include attempts to eradicate infection from the commercial poultry industry or the need to protect certain populations, sensitive sites or humans.
+
+Restricted area
+
+A Restricted Area (RA) may be declared by affected state or territory government, if cases are detected in poultry or other domestic animals. Any movement controls, if implemented, would be guided by the epidemiological situation and the AUSVETPLAN Response strategy: Avian influenza.
+
+A premises in a RA that contains one or more live susceptible animals (including captive wildlife) may be considered an at-risk premises (ARP) by the responding state or territory, even if there is no evidence of infection on the premises at the time. In the case of outbreaks of H5 HPAI, this may include facilities such as zoos, captive breeding facilities, wildlife rehabilitation facilities and veterinary hospitals. Property owners or managers need to be aware of any disease control procedures, such as regular surveillance and movement controls, that apply based on their property being located in a RA. There is an ongoing heightened likelihood of infection of susceptible animals.
+
+Control area
+
+A larger Control Area (CA) may be declared around the RA, in particular if cases are detected in poultry or other domestic animals. Any movement controls will be implemented as outlined in the AUSVETPLAN Response strategy: Avian influenza. A premises in a control area that contains one or more live susceptible animals (including captive wildlife) could be considered premises of relevance (POR) by the responding state or territory, even if there is no evidence of infection on the premises at the time. In the case of outbreaks of H5 HPAI, this may include facilities such as zoos, captive breeding facilities, wildlife rehabilitation facilities and veterinary hospitals. Property owners or managers need to be aware of any disease control procedures, such as regular surveillance and movement controls, that apply based on their property being located in a CA.
+
+Infected area
+
+An infected Area (IA) classification may also be used in the event of H5 HPAI detections limited to wildlife, however state or territory governments may choose to utilise other declared areas or may choose not to implement declared areas at all.
+
+The IA may enable the implementation of operational response control activities on lands such as Commonwealth places, heritage sites and private lands if required.
+
+The size of any IA should reflect surveillance findings and ecology of the species demonstrated to be infected, as well as any other species sharing similar environments. Advice from species experts or ecologists may assist.
+
+Movement controls for wildlife
+
+Implementing movements controls, housing or containment requirements will not be applicable to free-living wildlife, however captive or hunter-killed wildlife would be subject to controls. For properties with susceptible animals (including captive wildlife) that are located in the RA or CA, many types of movement will be prohibited or only allowed under permit. The AUSVETPLAN Avian influenza: Response strategy provides information about movements that may be prohibited and expected permit conditions for any movements that are allowed under permit. However, it is important to note that movement controls referenced in the AUSVETPLAN Response strategy: Avian influenza have been developed for a response for eradication of HPAI particularly in commercial poultry. In many cases, permit conditions relate to prior risk assessment of the proposed movement, approved transport route and (single) destination, biosecurity procedures at the source and destination properties, appropriate decontamination of vehicles, monitoring and reporting of clinical signs. Documented and implemented biosecurity plans will assist facilities that hold wildlife to demonstrate that they can meet the necessary conditions and manage risks associated with the movement.
+
+Natural wildlife movements in and out of affected areas cannot be prevented beyond routine biosecurity measures (e.g., those that exclude wild birds from livestock housing or captive species enclosures).
+
+Euthanasia and destruction
+
+Destruction of wildlife
+
+Destruction of healthy, free-ranging native wildlife will not occur because it is considered an ineffective disease management tool for H5 HPAI and would be counterproductive to response objectives. There may be value in lethal control of invasive species where associated risks can be managed appropriately, provided this can be done without undue disturbance of native wildlife in the area.
+
+Euthanasia of captive wildlife may be warranted in some circumstances in facilities where H5 HPAI has been confirmed, transmission within the facility is likely and there is an unacceptable risk to human or animal health. Exemptions could be considered in accordance with the AUSVETPLAN Guidance document: Risk-based assessment of disease control options for rare and valuable animals when transmission risks can be managed. It is also recognised that owners or managers may make their own decision to euthanise affected animals.
+
+Euthanasia of wildlife
+
+Euthanasia of wildlife must be conducted under applicable state or territory legislation by authorised personnel with appropriate permits and training. No part of this document confers operational authority independent of state and territory law.
+
+Euthanasia of sick free-ranging wildlife for disease control is often impractical, may disturb populations, and is unlikely to limit spread of disease. It is therefore not a default response activity but could be considered under particular circumstances including to manage animal welfare. There should also be consideration of potential impacts on other wildlife in the area, for example by disturbance of breeding colonies of listed species. This may affect the decision to attempt field euthanasia, and the method selected if euthanasia is deemed necessary.
+
+If an assessment determines that euthanasia of free-ranging wildlife is necessary and feasible this may be implemented using an appropriate method as outlined in relevant standard operating procedures. Examples include:
+
+Standard Operating Procedure: Standard Operating Procedure: Euthanasia of animals under field conditions (WA)
+
+Standard Operating Procedure: Euthanasia of small stranded cetaceans (WA)
+
+Standard Wildlife Protocol: Field Euthanasia of animals (VIC)
+
+National Guidelines for Euthanasia of Stranded Large Whales.
+
+Local First Nations communities should be consulted prior to euthanasia of free-ranging wildlife, to ensure cultural protocols are observed where possible.
+
+Euthanasia may be considered for captive wildlife populations and should be performed in a timely and humane manner. Decisions about the euthanasia of captive wildlife on welfare or prognosis grounds can be made by, or in consultation with, a veterinarian. Euthanasia may be carried out by a veterinarian or an appropriately skilled and qualified person under veterinary direction.
+
+Disposal of wildlife carcasses, wildlife products and contaminated items
+
+The National Principles for wildlife carcass management - H5 bird flu event provides guidance on managing free-ranging wildlife that have died, possibly due to infection with H5 HPAI . This includes considerations about whether to and how to remove carcasses and appropriate disposal methods.
+
+The disposal of wildlife carcasses and products (e.g. harvested meat, eggs, feathers, nests or hides) should be informed by the current AUSVETPLAN Operational manual: Disposal, and be consistent with state/ territory environmental, biodiversity and biosecurity legislation, legal orders and standard operating procedures (SOPs). Special consideration may be required for items used, shared or traded by and among First Nations communities, for example whole carcasses, meat, animal parts or feathers from traditional hunting of wildlife.
+
+The disposal of contaminated materials and equipment (including fomites), if required, should be informed by the current AUSVETPLAN Operational manual: Disposal and consistent with state/ territory environmental, biodiversity and biosecurity legislation and SOPs.
+
+The disposal of laboratory waste should be consistent with the current version of the AUSVETPLAN Management manual: Laboratory preparedness.
+
+Decontamination and clean-up procedures
+
+Habitat destruction or broad-scale disinfection of natural environments are not considered appropriate H5 HPAI control measures in free-ranging wildlife populations. These activities may disturb or disperse wildlife populations and contribute to disease spread. There is also a risk of negative impacts through the contamination or alteration of natural environments which risk further impacts on affected species (e.g. impacts of chemical disinfectants on non-target animals, plants or microbes and water quality).
+
+For most environments, natural decontamination may be sufficient, although public access restrictions may be required for a period of time while this occurs. This serves the dual purpose of minimising public health risks and protecting resident native wildlife from further disturbance after they may have been exposed to H5 HPAI. The length of time needed for a H5 HPAI virus to degrade will vary depending on environmental conditions and other local factors. Available information about influenza virus viability under different environmental conditions is summarised in Appendix 3 of the AUSVETPLAN Response strategy: Avian influenza and can be used to inform decisions about duration of access restrictions.
+
+Decontamination may be required for facilities that hold captive wildlife when there have been confirmed or suspected cases of H5 HPAI and generally should be consistent with the current AUSVETPLAN Operational manual: Decontamination.
+
+Decontamination of vehicles, clothing, footwear and equipment that may be contaminated with H5 HPAI virus should be undertaken in accordance with the current AUSVETPLAN Operational manual: Decontamination. This may include items and vehicles used to respond to wildlife disease events (known or suspected to be caused by H5 HPAI), items in use in facilities in which H5 HPAI has been detected, and items and vehicles used to transport wildlife known or suspected to be infected with H5 HPAI (e.g. from the field to a wildlife care facility or veterinarian).
+
+Diagnosis, tracing and surveillance
+
+Diagnosis following the confirmation of the index case
+
+Information on available diagnostic tests can be found in AUSVETPLAN Avian Influenza: Response Strategy.
+
+The initial confirmation of the index case in each affected state or territory should occur at CSIRO-ACDP. Following the confirmation of the index case, state or territory government laboratories in the Laboratories for Emergency Animal Disease Detection and Response network may have a significant role in subsequent laboratory diagnosis, particularly if outbreaks become large or numerous or there are concurrent outbreaks in poultry or other domestic animals.
+
+Ongoing surveillance and risk management decisions may be informed by a range of approaches to diagnosis, including molecular testing, genomic analyses, serological testing, post-mortem examination, and non-laboratory methods such as clinical examination or mortality monitoring, depending on size and duration of the outbreak, resources available and refinement of response approaches over time. Proposed case definitions (Appendix 2) provide a means to consider potential transmission risks associated with individual animals without undertaking confirmatory diagnostic testing in every case. This may help in prioritising field and diagnostic laboratory resources in the event of an outbreak.
+
+Provisional diagnosis through private laboratories or point-of-care testing (if suitable options are available) may be permitted in later stages of an outbreak in accordance with any existing Animal Health Committee policies or CCEAD decisions at that time. This may support risk-based decisions about wildlife coming into care and facilitate surveillance and research in wildlife populations. All laboratories involved should understand and meet their obligations under relevant biosecurity legislation, the National Health Security Act 2007, National Health Security Regulations 2018 and the SSBA Standards.
+
+Any use of point-of-care tests (including rapid antigen tests for Influenza A) for early detection should be balanced with considerations for accuracy, cost and biosecurity. These tests are a supplementary tool which may complement laboratory diagnostics for rapid detection of influenza virus in field settings. These tests may help to identify high-risk situations where confirmatory laboratory testing should be expedited, or where containment measures should be implemented. Any proposed use of point-of-care tests must comply with the legislative requirements of the state or territory in which the test is to be conducted and relevant Animal Health Committee policies.
+
+Serology can indicate whether an animal has been exposed to an influenza virus and in some cases may be useful in investigating the hemagglutinin and neuraminidase type/s the animal was exposed to. Serological results do not indicate the time of exposure to the virus, whether clinical disease occurred, or the virulence of the virus (i.e. whether it was low pathogenicity avian influenza or HPAI) and have not been validated for many avian species.
+
+While initial confirmation of H5 HPAI is likely to involve genomic testing, this may not be necessary or possible for all subsequent detections. Where samples are suitable and resourcing allows, genomic testing should be undertaken to facilitate monitoring of virus evolution, detect markers of transmissibility in mammals and improve understanding of virus ecology.
+
+Existing arrangements will be used for the electronic reporting of laboratory results between laboratories and the relevant Chief Veterinary Officer (CVO). Other reporting pathways will need to be established for private laboratories and for point-of-care testing.
+
+Tracing
+
+Tracing animal movements is a key part of disease investigations for livestock and captive wildlife but is generally not possible in free-ranging wildlife populations. Where resources allow, ecological and epidemiological investigations may be undertaken as per Section 4.2.
+
+Tracing may be possible and useful for captive wildlife populations, wildlife products, personnel, vehicles and equipment. This will facilitate appropriate risk management strategies, including quarantine, surveillance and/ or destruction, disposal and decontamination. This will in turn protect human and animal health, particularly rare and valuable populations.
+
+People that have been exposed or potentially exposed to H5 HPAI virus must be identified and managed by public health authorities as per the CDNA National Guidelines for Public Health Units: Avian influenza in humans.
+
+Surveillance
+
+The H5 HPAI in wildlife – National wildlife surveillance guidelines (Appendix 2) provide a basic framework for planning surveillance in wildlife populations during a response to H5 HPAI. The activities described can be adapted for different circumstances and the level of resources available. Wildlife surveillance data may also be useful to inform response and preventative biosecurity measures in poultry, other domestic animals and humans.
+
+Vaccination
+
+If a suitable vaccine for wildlife is available to Australia at the time of an outbreak, vaccination may be considered as a supplementary measure to biosecurity and other control practices in specific situations to protect prioritised species and wildlife at prioritised sites. Use of avian influenza vaccine in wildlife will be in accordance with the AHC Policy Decision 25-01. This policy outlines the populations that are eligible to be considered for vaccination, and the requirements for record keeping and monitoring of outcomes. Mammals are not covered by this policy.
+
+Emergency conservation measures
+
+Increased levels of biosecurity should be implemented to protect existing captive populations of threatened and otherwise vulnerable species, particularly at captive breeding facilities. Any decisions about moving individual animals between populations, facilities, or releasing into the wild should be based on disease risk analysis and comply with legal orders (e.g. movement restrictions). Where there are active outbreaks in wild populations, it may be necessary to delay, cancel or modify planned activities.
+
+For rare, protected and valuable free-living individuals or species, symptomatic treatment in captivity of individuals suspected or confirmed to have H5 HPAI may be considered under certain specific circumstances, if risk mitigations and other conditions (including legislation and legal orders) can be met. A low success rate for treatment and return of animals to the wild is anticipated and this needs to be considered in any decision to attempt treatment. Treatment should not be relied upon as a means of supporting the resilience of threatened species.
+
+Where a risk assessment has identified an unacceptable level of risk to a particular threatened or otherwise vulnerable free-living species, healthy individuals may be taken from wild populations to be managed in biosecure captive facilities as insurance populations, provided certain risk mitigations and other conditions can be met. These conditions may include:
+
+establishment of an insurance population is aligned with existing conservation planning frameworks for the species or the population
+
+availability of appropriate facilities, knowledge and resourcing to maintain animals in captivity without compromising welfare
+
+legislation to support decision-making and permitting
+
+ability to quarantine individuals brought into captivity from the wild from any resident captive populations or collection animals at the facility
+
+completion of a disease risk assessment to guide risk management.
+
+The establishment of insurance populations will only be possible for a limited number of individuals from a few high priority species and will require significant planning in advance. Such planning should occur prior to outbreaks where possible. There must also be a feasible plan to return animals to the wild in a reasonable timeframe, or resourcing identified to support continued maintenance in captivity even after a cost-shared response stands down.
+
+Wild-to-wild translocations could also be considered but carry a risk of inadvertent transmission of H5 HPAI between wild populations. There is no guarantee that translocated individuals will not be exposed to outbreaks in the future. All decisions about translocations should be informed by a risk assessment and comply with legislation and current legal orders.
+
+Captive management may not be feasible for threatened and otherwise vulnerable species at immediate risk due to outbreaks of H5 HPAI. Biosecurity restrictions may be used as per Section 4.2 to provide some protection to free-ranging wildlife populations of these species. Conservation measures aimed at supporting populations in situ and reducing the impacts of existing threats where practicable may also afford these populations some support. This will typically involve strengthening the management of existing threats affecting these populations, potentially including lethal control of invasive species in the area.
+
+State and territory environment agencies’ site and species plans provide information on priority native species and potential conservation actions specific to the local context and are key reference documents for those preparing response plans.
+
+Production and dissemination of situation reports
+
+Lead agencies will produce and disseminate situation reports as per existing emergency animal disease response protocols and state/territory emergency management arrangements.
+
+National situation reports may be prepared, if warranted by the nature of the outbreak, and will be issued at appropriate intervals, and in synchrony with reporting by affected states and territories. These reports will be distributed to:
+
+Other stakeholders will be kept informed via national talking points, briefings and National Coordination Mechanism (NCM) meetings.
+
+International notifications
+
+Immediate notifications are not required under applicable international treaties relating to conservation and the environment (e.g. Ramsar Convention; migratory bird treaties). However, H5 HPAI may be included in status reports provided under these treaties.
+
+Indicative response budget
+
+An indicative response budget will be prepared by responding states/ territories and will be refined over the course of the response.
+
+Cost sharing
+
+The H5 NMA establishes a national arrangement for cost-sharing and governance of a coordinated national response to manage the impact of outbreaks of H5 HPAI in wildlife, where eradication or containment of the disease is not feasible, and where management of the impacts of the disease in wildlife is in the national interest.
+
+For an activity to be cost-shared under the H5 NMA it must be approved as part of a Response Plan. Eligible costs are only those costs that are above and beyond the resource costs of a jurisdiction that exist for, or are required to carry out, its Normal biosecurity commitments and Normal conservation commitments (including technical and operational requirements). More information is available in Schedule 3.
+
+Recognising that there are likely to be multiple concurrent requests for cost-sharing it is recommended that jurisdictions provide justification about the importance and value of the activity, to assist the NMG in prioritising funding requests nationally.
+
+Information about the operation of cost-sharing and obligations of parties wishing to apply for reimbursement of response costs during a cost-shared response to H5 HPAI are outlined in the agreement.
+
+Monitoring of expenditure
+
+In accordance with 6.5 of the H5 NMA the NMG may commit up to $30 million (in annual aggregate) towards the Eligible costs associated with all agreed National response activities under the agreement.
+
+Communication and engagement
+
+Response communication objectives
+
+During a confirmed H5 HPAI outbreak, national communication activities will focus on three core objectives:
+
+deliver rapid, accurate and nationally consistent information to the public, stakeholders and international partners
+
+maintain trust and confidence in the response through clear, calm and culturally appropriate communication
+
+support awareness of and compliance with response measures by ensuring messages are practical, actionable and reinforced through trusted channels.
+
+Alignment with national frameworks
+
+The strategy draws heavily on the Biosecurity Incident Public Information Manual, which sets out national public information management arrangements for biosecurity incidents. It adapts those arrangements to the specific challenges of H5 HPAI, particularly in relation to priority audiences, messaging and communication tactics.
+
+The strategy is also informed by behavioural insights research conducted in 2025 to better understand public attitudes, behaviours, and awareness gaps around H5 HPAI.
+
+Roles and responsibilities
+
+DHDA will lead communication if human-to-human transmission occurs. During animal-only outbreaks, or where animal to human transmission occurs, DHDA works closely with DAFF to align public health messaging with national animal health communication.
+
+DCCEEW provides communication support on biodiversity, conservation and environmental impacts, working with DAFF and state and territory agencies on relevant messaging.
+
+State and territory governments
+
+States and territories lead the operational response within their borders and are responsible for delivering communication locally. This includes engaging with local media, communicating directly with affected communities, and providing operational messaging to support on-the-ground activities. While they adapt national messaging to local contexts, alignment with the national position is maintained through the National Biosecurity Communication and Engagement Network and environment and health communication networks.
+
+Control centres
+
+Control centres (local control centres, state coordination centres and/ or national control centre) should be established following normal procedures for an emergency animal disease response in animals as described in the AUSVETPLAN Control centres management manuals – parts 1 and 2. Appropriate liaison officers and contributing teams should represent biosecurity, human health and environment agencies. Expertise should be sought from across different government and non-government agencies to fulfil roles including operational roles involving wildlife.
+
+Information systems and management
+
+Data and management of response information
+
+State and territory governments should use their usual information systems to capture response data and manage information and resources.
+
+A Memorandum of Understanding (MOU) is being developed to support sharing of surveillance data between government agencies for national situational awareness and coordination purposes.
+
+Other data
+
+A range of existing systems capture relevant information that may be useful during a response to H5 HPAI. These include:
+
+the National Animal Health Information System (NAHIS), administered by Animal Health Australia
+
+the electronic Wildlife Health Information System (eWHIS), administered by WHA
+
+the National Avian Influenza in Wild Birds (NAIWB) program database, administered by WHA
+
+the Biodiversity Data Repository, administered by DCCEEW
+
+citizen science platforms such as Birdata (Birdlife Australia) and Atlas of Living Australia.
+
+wild bird mortality reporting platforms such as SOS Wild birds, if implemented during a response.
+
+Not all of these sources are currently readily accessible in the event of an outbreak, and securing access to relevant data sources should be a focus of preparedness planning.
+
+Acronyms and abbreviations
+
+Appendix 1: Suggested information to collect – Ornithological Assessment
+
+Following the detection of avian influenza in poultry (specifically HPAI), the national agreed approach to the response in Australia is outlined in the AUSVETPLAN Avian Influenza: Response Strategy. As part of the response, an area (e.g. local government area), surrounding the infected property will be defined by the lead responding government agency (government department of biosecurity, primary industries or agriculture).
+
+Availability of ornithological expertise during an outbreak provides reassurance that epidemiological field assessments are undertaken in collaboration with people who can provide expertise on wild birds’ ecology and species.
+
+Activities would include a comprehensive field assessment at a few observation sites / locations within the area / local government area surrounding the infected property, selected in consultation with the government agency leading the response, if required.
+
+Observation sites include locations where concentrations of birds are observed, or the habitat looks suitable for ducks and other reservoir species (e.g. waders and gulls).
+
+At each stop an area of ~ 2-3 km2 is scanned for birds.
+
+Record species in high abundance with a focus on but not limited to avian influenza reservoir species (i.e. waterfowl, waders and gulls)
+
+Special focus also is required for wild bird species interacting with properties (for example sparrows seen frequenting buildings, birds on farm dams, etc.)
+
+The route could follow public roads with observations made from a vehicle.
+
+Suggested template for data collection:
+
+Appendix 2: H5 HPAI in wildlife – National Wildlife Surveillance Guidelines
+
+Purpose and Scope
+
+The purpose of this document is to support rapid development of harmonised surveillance plans for wildlife as part of state and territory response plans if H5 HPAI is detected in wildlife in Australia. This will assist in management of the disease in wildlife and can also inform preventative actions for other populations such as poultry, captive birds and humans. This document refers only to surveillance activities in captive and free-ranging wildlife (including terrestrial, marine and avian species) and does not consider surveillance in farmed, companion, or backyard animals. It also does not consider surveillance activities in humans. A complete surveillance picture can only be developed if information from all these sources can be brought together, however establishing the processes for this is beyond the scope of this document.
+
+The focus of this plan is the response phase, covering the period following first detection of H5 HPAI in wildlife to the stand down of cost-shared response measures under the H5 NMA if the agreement is invoked. Some surveillance objectives and activities may be continued into the routine management phase, which commences as the response phase finishes and is not covered by cost-sharing. These are briefly outlined at the end of the document.
+
+Other strains of low pathogenicity avian influenza are endemic in Australian wild birds. While monitoring these strains is important in understanding the epidemiology of avian influenza in Australia including genesis of HPAI outbreaks, they are not directly in scope for this draft surveillance plan. It is noted that H5 HPAI viruses overseas have reassorted (i.e. exchanged genes) with endemic low pathogenicity avian influenza viruses and knowledge about circulating low pathogenicity avian influenza viruses in wild birds may inform the epidemiology of the outbreak.
+
+Definitions
+
+Within this document, H5 HPAI refers to the causative agent, which may be present in wildlife hosts with or without accompanying clinical signs.
+
+Consistent with the definition in the H5 NMA, wildlife includes:
+
+native species (birds and mammals) that are free ranging and captive, see section 528 (definition of native species) of the Environment Protection and Biodiversity Conservation Act 1999 (Cth), and
+
+non-native species, including invasive species, that are free ranging independently of direct human supervision or control in Australia.
+
+Governance
+
+This draft plan has been developed as an appendix to the Guidance for response plans in the event of an outbreak of H5 High Pathogenicity Avian Influenza in wildlife (the Response Guidance), which is a supporting document of the H5 NMA.
+
+Governance and decision-making are outlined in the H5 NMA, but in brief, the CCEAD and the NMG provide coordination and governance in the event of an outbreak. This surveillance plan is intended to support and inform other response activities.
+
+Susceptible species and clinical signs of disease
+
+Susceptible species and clinical signs are described in the Response Guidance based on international experience. The information may be revised if Australia experiences outbreaks and develops more specific knowledge on local species and populations. Based on overseas experience some species may be sub-clinically infected, which is an important consideration for surveillance purposes.
+
+Case Definitions
+
+Case definitions will inform surveillance and risk management actions in the event of an outbreak of H5 HPAI in wildlife in Australia and may support harmonised interpretation of H5 HPAI detections in new wildlife species or locations. Table 1 proposes case definitions to guide response surveillance plans and is intended for use after the first confirmed detection of H5 HPAI in Australia. These definitions are intended to provide options for identifying animals that pose a greater risk of transmission based on different levels of available evidence, noting that confirmation of infection status may not always be possible. Case definitions may change throughout a response depending on need.
+
+A positive laboratory result from a sample not directly collected from an animal (e.g. a faecal environmental sample) may be considered a confirmed detection but not a case. All detections of H5 HPAI are important for surveillance purposes, regardless of clinical presentation.
+
+Table 1. Proposed case definitions for H5 HPAI in wildlife after first confirmed detection in Australia
+
+Epidemiological links may include:
+
+Free-ranging wildlife found within an ecologically relevant distance and time period of a confirmed case, with consideration of factors such as usual home range and movement patterns, and available information on incubation period for the species of the confirmed case.
+
+Free-ranging wildlife found on infected premises within 14 days of completion of destruction, disposal and decontamination of the livestock on the premises.
+
+Captive wildlife present in facilities where there has been at least one confirmed case during that case’s likely infectious period, including animals subsequently moved to another location or released into the wild.
+
+Surveillance during response
+
+Surveillance objectives
+
+Delimit the geographic extent of spread and proximity to priority populations and sites (including poultry production) at the time of first detection to guide initial management actions.
+
+Rationale: It is unlikely that the first detection of H5 HPAI will be the first case in Australia. It will be important to rapidly understand the geographic distribution of risk, with an initial focus on priority populations. This will enable urgent management actions to reduce risk to these populations.
+
+Describe risks to human and animal health from interactions with specific animals or populations and improve understanding of key aspects of the epidemiology of the virus to inform risk assessments and management decisions.
+
+Rationale: There is currently little evidence on the susceptibility of Australian wildlife, and information on clinical signs and severity is based on international experience. Understanding the infection status of individual animals or populations that might pose a transmission risk to others (including humans) and relating this to the presence or absence of clinical signs, will enable informed decisions about the management of these animals. This information is important for understanding risk and refining surveillance activities.
+
+Monitor geographic and temporal distribution of transmission and proximity to priority populations and sites (including poultry production) over time to inform dynamic changes to preventative management actions.
+
+Rationale: Understanding current and recent transmission provides early warning of changing risk and adaptive changes to risk mitigation strategies for wildlife, poultry, other potentially susceptible wild and domestic species and humans.
+
+Document the observed impacts of H5 HPAI on affected wildlife populations to inform the need for emergency risk mitigation measures or subsequent recovery planning.
+
+Rationale: H5 HPAI may have significant population level impacts on wildlife, potentially including threatened or otherwise vulnerable species. There is currently limited evidence about which species may be most severely impacted in Australia. Evidence on population-level impacts will also help inform management actions and prioritise subsequent population recovery efforts.
+
+Maintain awareness of the molecular epidemiology of the virus in wildlife, including molecular markers of transmissibility in mammals, to inform risk assessments and improve understanding of transmission and virus evolution.
+
+Rationale: Avian influenza viruses evolve over time and newly introduced viruses recombine with local strains. Monitoring of these changes can assist in understanding epidemiology and provide early warning of changing risk, particularly related to human health.
+
+Surveillance approaches
+
+The surveillance approaches discussed below provide a framework for considering the types of activities that may enable the surveillance objectives to be achieved and a way of organising the different information streams that may be available during an outbreak. Not all approaches may be needed in all areas or at the same time, and these decisions are at the discretion of the responding state or territory. Some approaches may require considerable planning and preparatory work before they can be implemented.
+
+Enhanced passive surveillance
+
+Description
+
+Enhancing passive surveillance (i.e. the identification, reporting and investigation of groups of sick or dead wildlife) will be important to support the response to H5 HPAI in wildlife. This surveillance approach aims to increase clinical monitoring in high-risk cohorts, specifically through the detection, reporting, investigation and laboratory testing of animals with clinical signs that are consistent with current knowledge of disease manifestation in Australian wildlife. Reports of sick or dead wildlife may be made through the EAD Hotline, response-specific or other platforms by members of the community for possible investigation by state or territory government biosecurity agencies, or may be reported via veterinary clinics, wildlife rehabilitation facilities, rangers or wildlife ecologists.
+
+Enhanced passive surveillance will need to be supported by communications campaigns to engage stakeholders. Outbreak communications plans developed at the national and state/ territory levels will include targeted messaging for key audiences and stakeholders (e.g. birdwatchers, veterinarians, wildlife carers, First Nations people, ecologists and researchers) and will support awareness H5 HPAI and reporting requirements.
+
+Why is this important?
+
+Investigation of wildlife with clinical signs consistent with H5 HPAI (including death) is likely to be the most sensitive and timely means of detecting areas of active transmission. Collection of a standard set of information about case animals and regions generates evidence-based data, which can assist to generate hypotheses regarding clinical impacts of infection. Submission of laboratory samples for testing will also provide material for molecular epidemiological investigations, such as phylogenetic analyses, which can inform potential sources of virus spread and identify features of altered transmission risk.
+
+How will it be measured?
+
+Number and location of disease investigations and their outcomes.
+
+Active, risk-based surveillance (targeted surveillance)
+
+Description
+
+Active risk-based surveillance may be undertaken through the targeting of specific wildlife populations according to risk. This may be because of the conservation or biodiversity risks of H5 HPAI in a particular species or location, risks to agriculture, and/or human health.
+
+Prospective risk-based surveillance may be undertaken in a number of circumstances, such as:
+
+Sampling of apparently healthy populations in the vicinity of confirmed cases, to investigate the range of species infected and the presence or absence of clinical disease. Such studies may also be useful to estimate point prevalence in some populations, however, may be resource intensive and require appropriate skills and planning to ensure animal welfare is not compromised.
+
+Sampling of locations and species of known risk (e.g. migratory bird arrival sites, shorebirds, potential reservoir species) but unknown infection status, for example by using the architecture and expertise of the NAIWB program
+
+Testing of wildlife entering veterinary or wildlife rehabilitation facilities regardless of clinical presentation (including illness, injury or orphan), to enable decisions about quarantine, euthanasia or treatment.
+
+Opportunistic sampling of hunter-killed animals if hunting is permitted in the area.
+
+Routine screening of all dead captive wildlife held by zoos, wildlife parks or rehabilitation facilities (including collection animals of susceptible species)
+
+Testing of free-ranging wildlife being considered for translocation or entry to captive populations, or captive populations being considered for release or transport between facilities.
+
+Testing of captive wildlife with epidemiological links to confirmed cases. The feasibility of each of these surveillance approaches varies according to available resourcing, reporting and data-collection pathways and availability of diagnostic testing (including policies to support the potential use of private laboratories or point-of-care tests). Some approaches provide opportunities to collect high-quality samples suitable for subsequent genomic analyses. Serological testing may provide useful ancillary information on the extent of exposure to influenza A in different populations. Results should be interpreted with caution as serology reflects historical exposure, cannot confirm active infection, and is limited because assays have not been validated in Australian wild birds and there is no comprehensive baseline seroprevalence data for H5 avian influenza.
+
+Why is this important?
+
+Prospective surveillance provides the opportunity to understand distribution of infection in the absence of observed disease, or in remote areas where there may have been no opportunity to observe disease if present. It can also allow timely risk-based decision-making for animals of unknown status or those that may have been exposed and provide confidence in understanding risks associated with planned transport of animals. It can also add to our understanding of the epidemiology of the virus in Australian wildlife. Submission of laboratory samples that undergo phylogenetic analyses may be used to monitor the molecular epidemiology of the virus, including potential sources of virus spread and identify features of altered transmission risk.
+
+How will this surveillance be measured?
+
+Number of animals tested and results, as well as information on species, locations, reasons for testing and clinical information.
+
+Genomic surveillance
+
+Description
+
+Genomic surveillance involves generation, analysis, interpretation and sharing of viral genetic sequence data from all infected species. It would utilise samples obtained from enhanced passive surveillance and active risk-based surveillance.
+
+This approach will be led through the appropriate laboratory committees and CSIRO-ACDP and is likely to be an important surveillance component for long-term monitoring.
+
+Why is this important?
+
+Results of molecular surveillance can be used to monitor genetic evolution including recombination events, development of molecular markers that may indicate changing risk, and make inferences about transmission dynamics and epidemiology. This information complements and adds value to the field information/epidemiology.
+
+How will this surveillance be measured?
+
+Number of sequences generated, percentage of H5 HPAI positive samples that proceed to genomic testing, spatial and temporal distribution of sequences generated and results of genomic analysis.
+
+Wildlife mortality monitoring
+
+Description
+
+Wildlife mortality monitoring involves collection of information about observed mortality events in wildlife, including location, date or date range, species involved and approximate numbers affected.
+
+This may include collection of information via citizen science platforms or via usual government notification pathways.
+
+Why is this important?
+
+Mortality monitoring can help to prioritise events for collection of samples for laboratory testing and understand trends in mortalities of any cause. While not all events may be investigated fully to determine cause, changing patterns of mortalities in wildlife may provide sufficient evidence to implement preventative measures in priority populations (including poultry). It may also provide a stream of evidence to understand population level impacts in priority wildlife populations.
+
+Note that in the absence of laboratory diagnosis, mortality monitoring should be considered as supporting evidence to other data streams.
+
+How will this surveillance be measured?
+
+Number of reports obtained through available platforms at the time of outbreaks.
+
+Wildlife population monitoring
+
+Description
+
+Wildlife population monitoring involves collection of information about a free-living wildlife population, including population size and demographics, distribution, dispersal and breeding success/recruitment. This may occur via a variety of methods including direct observation, capture-mark-recapture and indirect measures of population density.
+
+Why is this important?
+
+Monitoring the size, demographics and dynamics of populations may enable detection of indirect impacts of infection such as reduced breeding success in the absence of observed clinical disease or mortality events. This is particularly important for priority populations such as threatened or otherwise vulnerable species, which are particularly susceptible to the impacts of new threats.
+
+How will this surveillance be measured?
+
+Number of priority populations or specific populations at priority sites subject to effective monitoring and the outcomes of these programs.
+
+Retrospective laboratory-based surveillance
+
+Description
+
+This surveillance approach involves testing stored samples held by laboratories or other facilities (e.g. zoos, universities and wildlife rehabilitation facilities) to investigate possible transmission prior to detection. Participating laboratories should identify the number of samples available from susceptible wildlife species, high-risk locations and previous time points, which can then be prioritised for testing depending on the value of new evidence that could be provided, the quality of the stored sample and the suitability for laboratory definitive tests. Ideally, this would be guided by the need to answer specific questions about transmission of H5 HPAI.
+
+Why is this important?
+
+Retrospective testing of stored samples can be an efficient way of obtaining information about the infection status of species, locations and time points for which there is otherwise little or no evidence. It can provide some information about transmission prior to first detection. If stored samples are from disease investigations and testing for avian influenza was not already undertaken, results can contribute to the knowledge about clinical manifestation of infection.
+
+How will this surveillance be measured?
+
+Number of stored samples available, number prioritised for testing and test results.
+
+Continuing surveillance in routine management phase
+
+Routine management will commence as any cost-shared response stands down. Where cost-sharing is not invoked, the transition between response and routine management may be less clear. However, it is likely that several surveillance objectives from the response phase, and the surveillance activities that support them, may be continued in routine management with different intensity and prioritisation. This may include:
+
+Continued monitoring of the geographic distribution of transmission/disease events and proximity to priority populations and sites (including poultry production) over time to inform ongoing risk assessment and preventative actions.
+
+Continued documentation of the impacts of H5 HPAI on affected wildlife populations to inform the need for ongoing risk mitigation measures or recovery actions.
+
+Monitoring changes to key aspects of the epidemiology of the virus, to understand changes to risk over time.
+
+Monitoring the molecular epidemiology of the virus in wildlife, including virus evolution and development of molecular markers of transmissibility in mammals, to inform risk assessments and improve understanding of transmission.
+
+Data Management and Data Sharing
+
+Existing information systems are available to capture some surveillance data, but reporting pathways and data capture and management systems may need to be developed for others. Existing databases that may capture relevant surveillance data include:
+
+State and territory response and routine surveillance information systems
+
+Laboratory information management systems
+
+NAHIS
+
+eWHIS
+
+The NAIWB program database
+
+Citizen science platforms (such as Birdata and Atlas of Living Australia)
+
+Wild bird mortality reporting platforms such as SOS Wild Birds (currently in pilot stage).
+
+Where possible, key data on demographics, clinical signs and risk factors should be collected for animals that are tested for H5 HPAI, although it is acknowledged that this may not be feasible in all situations.
+
+Data governance arrangements will be needed to support data sharing between agencies, document agreed purpose of data sharing arrangements and protect the interests of all stakeholders. A MOU is under development to support sharing of confirmed detections amongst relevant government agencies. Platforms for sharing data are also under development.
+
+Periodic reporting of compiled data from all surveillance approaches with appropriate interpretation and caveats will ensure that the response can fully benefit from the information obtained. It provides the opportunity to assess the degree to which each surveillance objective has been achieved and refine surveillance activities to fill priority information gaps.

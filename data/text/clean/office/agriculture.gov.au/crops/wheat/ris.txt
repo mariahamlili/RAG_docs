@@ -1,0 +1,436 @@
+Regulation Impact Statement
+
+Mandatory Code of Conduct for Grain Export Terminals
+
+September 2014
+Contents TOC \o "1-4" \h \z \u 
+ HYPERLINK \l "_Toc402942749" 1. Background	 PAGEREF _Toc402942749 \h 3
+ HYPERLINK \l "_Toc402942750" 2. What is the problem being solved?	 PAGEREF _Toc402942750 \h 8
+ HYPERLINK \l "_Toc402942751" 3. Objectives of government action	 PAGEREF _Toc402942751 \h 12
+ HYPERLINK \l "_Toc402942752" 4. What policy options have been considered?	 PAGEREF _Toc402942752 \h 12
+ HYPERLINK \l "_Toc402942753" 4.1. Option 1: Status quo / take no action	 PAGEREF _Toc402942753 \h 13
+ HYPERLINK \l "_Toc402942754" 4.1.1. What are the benefits of this option?	 PAGEREF _Toc402942754 \h 14
+ HYPERLINK \l "_Toc402942755" 4.1.2. What are the costs of this option?	 PAGEREF _Toc402942755 \h 14
+ HYPERLINK \l "_Toc402942756" 4.2. Option 2: Introduce a mandatory code of conduct that is ‘one size fits all’	 PAGEREF _Toc402942756 \h 17
+ HYPERLINK \l "_Toc402942757" 4.2.1. What are the benefits of this option?	 PAGEREF _Toc402942757 \h 20
+ HYPERLINK \l "_Toc402942758" 4.2.2. What are the costs of this option?	 PAGEREF _Toc402942758 \h 20
+ HYPERLINK \l "_Toc402942759" 4.3. Option 3: Introduce a mandatory code of conduct that adjusts to competition	 PAGEREF _Toc402942759 \h 22
+ HYPERLINK \l "_Toc402942760" 4.3.1. What are the benefits of this option?	 PAGEREF _Toc402942760 \h 25
+ HYPERLINK \l "_Toc402942761" 4.3.2. What are the costs of this option?	 PAGEREF _Toc402942761 \h 27
+ HYPERLINK \l "_Toc402942762" 4.4. Option 4: Remove all industry specific regulation	 PAGEREF _Toc402942762 \h 29
+ HYPERLINK \l "_Toc402942763" 4.4.1. What are the benefits of this option?	 PAGEREF _Toc402942763 \h 30
+ HYPERLINK \l "_Toc402942764" 4.4.2. What are the costs of this option?	 PAGEREF _Toc402942764 \h 30
+ HYPERLINK \l "_Toc402942765" 5. Consultation	 PAGEREF _Toc402942765 \h 33
+ HYPERLINK \l "_Toc402942766" 6. Conclusion and recommended option	 PAGEREF _Toc402942766 \h 34
+ HYPERLINK \l "_Toc402942767" 7. Implementation and review	 PAGEREF _Toc402942767 \h 36
+ HYPERLINK \l "_Toc402942768" Post-script	 PAGEREF _Toc402942768 \h 37
+ HYPERLINK \l "_Toc402942769" Details	 PAGEREF _Toc402942769 \h 37
+ HYPERLINK \l "_Toc402942770" Impact on costings	 PAGEREF _Toc402942770 \h 37
+
+1. Background
+Wheat is by far the most important grain crop grown in Australia in terms of area sown, volume of grain produced and value of the crop. In 2012-13, Australia produced a total of 22.5 million tonnes, with the key wheat producing states being Western Australia, New South Wales, South Australia, Victoria and Queensland. 
+The Australian wheat industry is heavily export-oriented with about 75 per cent of annual production going to overseas markets. Australia is among the world’s top four wheat exporting nations, with 21.3 million tonnes of wheat shipped to more than 26 markets in 2012-13. Wheat exports contributed $6.8 billion to the economy in 2012-13, with export volumes forecast to increase in the medium term. While wheat may be exported in bags, containers or in bulk, the majority of wheat exported is in bulk in various sized bulk-carrier ships. Australian wheat competes with wheat grown in various countries, but as a seasonal crop, there are marketing advantages in shipping wheat before the northern hemisphere crop is harvested. This means that port capacity is not utilised for much of the year, reducing the return on investment. The Productivity Commission, in its inquiry into wheat export marketing arrangements, noted the benefits to bulk wheat terminal operators from maximising throughput at port terminals, because the global wheat market is highly competitive and many terminals have spare capacity. 
+Bulk grain shipments require specific port infrastructure and extensive logistical management to facilitate efficient loading of ships. A typical supply chain involves farmers, a bulk handler, a port terminal operator and an exporter. Farmers typically deliver their grain to a receival site close to the site of production for storage and subsequent transport to port, but may provide their own storage and arrange delivery directly to port. Much of Australia’s bulk export grain follows a supply chain where the bulk handler, port terminal operator and exporter are the same company. However, some farmers export their own grain either via a bulk handler’s logistic network or by delivering directly to port. Various sale, finance and risk management arrangements are used.  
+Figure 1 – History of consolidation in the Australian grain handling industry
+
+Regulatory arrangements for bulk wheat export marketing were further reformed in 2008 under the Wheat Export Marketing Act 2008 (the Act). The Act removed the previous single-desk marketing arrangements, and introduced competition for marketing of Australian bulk wheat exports for the first time. Marketing of other grains and non-bulk wheat, which ABARES forecasts will be valued at around $5.5 billion, is not subject to industry-specific regulation. 
+In transitioning to a more competitive environment, industry raised concerns that regional monopoly port terminal operators with associated wheat export businesses may be able to exercise control over access to key port infrastructure that would unfairly advantage their own operations at the expense of other exporters. To address these concerns, the Act requires port terminal operators with bulk wheat export businesses to pass an industry-specific ‘access test’ and have an access undertaking approved by the Australian Competition and Consumer Commission (ACCC) as a condition of export. These arrangements seek to ensure all exporters are able to gain access to crucial port infrastructure. 
+There are currently eight port terminal operators that handle bulk export wheat through 22 port facilities across Australia (see Figure 2). Four of these, which operate 18 of the ports, are regulated by industry-specific legislation that requires them to pass an ‘access test’ in order to export; the other four are not. Port terminal operators without an associated wheat marketing business and those that export commodities other than bulk wheat, such as other grains or minerals, are not captured by this requirement. There are also two additional bulk wheat export terminal developments which have been announced but are yet to begin exporting.
+Figure 2 – Grain terminal location and ownership
+
+The arrangements introduced in 2008 were reviewed by the Productivity Commission in 2010. The commission presented a number of findings and recommendations as part of its final report, which can be accessed via its website. In relation to port access arrangements, the commission found that the industry had successfully transitioned to a less regulated environment and that the access test had provided greater certainty for traders. The test assisted by making access easier, more timely and less costly than it would have been if traders had relied solely on general infrastructure declaration provisions under Part IIIA of the Trade Practices Act 1974 (now Competition and Consumer Act 2010, (CCA)). 
+The commission predicted, however, that the benefits of the access test would ‘rapidly diminish in the post-transitional phase, leaving only the costs’ and recommended that the Act in its entirety be removed on 30 September 2014. Access issues from this date would be governed by general competition law, supplemented by a voluntary code of conduct. It also recommended that all grain export terminals should voluntarily comply with the continuous disclosure rules, which require that a range of information about access policies and the daily status of loading ships are published.
+In 2012, legislative changes were introduced in the Australian Parliament to give effect to this recommendation and several others. The Wheat Export Marketing Amendment Bill 2012 was referred to two parliamentary committees for inquiry. During this period, many stakeholders expressed concern that the industry was not yet ready to transition to full deregulation and argued for some form of regulation to remain. Amendments to the Bill were subsequently made to require that a mandatory code of conduct, rather than a voluntary code, must be in place by 1 October 2014 to cause the repeal of the Act. The Bill was passed by both houses and received Royal Assent on 3 December 2012. 
+Specifically, the amended Act requires that the Minister for Agriculture not approve a code unless he or she is satisfied that the code will; 
+deal with the fair and transparent provision to wheat exporters of access to port terminal services by the providers of port terminal services
+require providers of port terminal services to comply with Continuous Disclosure Rules  
+be consistent with the operation of an efficient and profitable wheat export marketing industry that supports the competitiveness of all sectors through the supply chain; and
+be consistent with any guidelines made by the ACCC relating to industry codes of conduct.
+2. What is the problem being solved?
+In 2008, single-desk marketing arrangements were removed and an accreditation scheme and independent accreditation authority, Wheat Exports Australia, were introduced to provide regulatory oversight of bulk wheat exporters and to administer the access test. In 2012, the authority and accreditation scheme were removed, but the access test was retained. 
+The regulatory arrangements originally introduced in 2008 (and amended in 2012) were effective in assisting the industry to begin adjusting to a competitive marketing environment. Since that time, the industry has benefited from the presence of competition during periods of record wheat production. As the composition of the industry has evolved, there is now a risk that the benefits of the access test regulations no longer justify the high costs that they impose. Indeed, a number of stakeholders have criticised the current access test requirements as being administratively burdensome, inequitable, poorly targeted and restricting Australia’s competitiveness in the global market. Nevertheless, noting that new grain export port facilities will become available, for example at Bunbury (WA) and Port Kembla (NSW), the Australian Export Grain Innovation Centre found that as a proportion of the wheat export price, current export grain supply chain costs are less than what they were in the late 1980s. This is consistent with the positive effect that competition has had on supply chain efficiency.
+The Australian bulk wheat export industry has only been operating in a competitive marketing environment for the last six years. In this period, competition has developed in the industry. However, this has not been evenly distributed across the country and significant regions remain where there is no competitive constraint on port terminal operators that are also grain exporters. Due to the high cost of moving grain long distances over land, monopolies exist for port terminal services for bulk export of wheat grown in South Australia, north and south-west Western Australia and parts of Victoria, New South Wales and Queensland (refer to Figure 2). In addition, these monopoly port terminal service providers are also bulk grain exporters or associated with bulk grain exporters as an integrated business. This creates a scenario where these integrated port terminal service providers can use their market power to favour the export arms of their business. Where a port terminal service monopoly exists, the current regulation manages the risk of monopolistic behaviour, which could result in inefficient resource allocation, damage to non-integrated grain export businesses and, ultimately, lower returns to wheat growers. The Productivity Commission highlights this risk as a matter of concern for industries such as the bulk wheat export industry that use monopoly owned infrastructure.
+A number of industry stakeholders and the ACCC have raised concerns that these risks of monopolistic behaviour, by companies that control key port infrastructure, remain too high to permit full deregulation. However, it is recognised that the regulatory burden of current access arrangements could be effectively reduced from its current level without having a negative effect on the ability of independent bulk wheat exporters (i.e. those that don’t have an association with a port terminal service provider) to access the port terminal facilities of integrated port terminal service providers.
+Where wheat is grown in areas with cost-effective freight access to ports controlled by different port terminal service providers, there is competitive tension that reduces the likelihood of monopolistic behaviour. For example, wheat growers within a competitive port zone (e.g. Newcastle or Brisbane), benefit from being able to choose the most cost-effective port terminal to export their wheat from. The existence of this choice for growers is also beneficial in that it creates competition between the proximal port terminal service providers, which ensures competitive pricing for bulk wheat exporters for their product. Additionally, this competition should also encourage innovation by the port terminal service operators in the nature of services they provide to exporters, which will enable exporters to optimise the use of these facilities.
+There is the potential for the regulatory burden under the current access test arrangement to be reduced for integrated port terminal service providers that operate in a competitive port zone. Figure 2 on page five shows that there are several zones where multiple providers compete, including in Brisbane, Newcastle, Kwinana/Bunbury/Albany and Melbourne/Geelong. On 18 June 2014 the ACCC accepted an application from GrainCorp to vary its 2011 Port Terminal Services Access Undertaking for its Carrington Port in Newcastle on the basis that there was sufficient competitive constraint to prevent monopolistic behaviour. While competition assessments are complex and it is not possible to extrapolate, similar competition exists in other ports. The ACCC’s decision on the Carrington Port involved a significant reduction in the regulatory burden applied to that port; which competes with the Newcastle Agri-Terminal port in the Newcastle port zone. The ACCC made this decision following assessment of the degree of competitive restraint on GrainCorp’s Carrington terminal. This assessment involved consideration of the extent of competitive options available to exporters seeking port terminal access for either GrainCorp, Newcastle Agri-Terminal or the announced Qube Holdings Ltd facility are constrained by GrainCorp’s presence in the upstream market, as well as the overall competitive constraint GrainCorp experiences across all of the port zones in which it provides port terminal services. While this outcome was ultimately beneficial for GrainCorp, it required a resource intensive and lengthy process. Furthermore, as there are still some regulatory constraints on the Carrington port, it does not bring the facility onto a completely level playing field with Newcastle Agri-Terminal and Qube Holdings Ltd ports, which are, or expected to be, subject to no regulatory constraint excepting the CCA. A fairness problem, therefore, arises in that it is not possible to equally regulate port terminal operators that are effectively delivering the same service within a single port zone under the existing arrangements.
+In Figure 2 on page five, port terminal service providers circled in red are integrated providers and are currently subject to access test regulations. The port terminal service providers circled in yellow are not subject to the current access regulations. The majority of these yellow circled providers are relatively new businesses and this group includes announced investments that are yet to begin operation (for example VicStock and Quattro). While the number of ports circled in yellow appears positive in terms of introducing competition to the wheat export market, there are issues with the extent of the competition. For example, bulk wheat exports from the port at Bunbury began in July 2014. The port loader used is operated by WA Chip and Pulp Co, but Bunge Australia has built adjacent grain storage and connected it to the loader by conveyor. This appears to be providing beneficial competition in Western Australia for exporters who would otherwise have to export through either Kwinana or Albany; which are both serviced by CBH, an integrated port terminal service provider. However, Bunge has entered into contractual arrangements with WA Chip and Pulp Co which effectively exclude other exporters from accessing the Bunbury port terminal facilities. The scale of the Bunbury facility is also very much less than CBH’s proximal capacity. Therefore, the potential for benefits to flow from increased competition are limited. This business structure avoided the current access regulations. However, Bunge is able to take advantage of the regulated obligation on neighbouring CBH ports to provide it access, which allows Bunge to better manage its risk of having stock in excess of capacity so that maximum throughput is ensured. 
+The current regulatory arrangements distort the market because they only apply to operators with associated wheat export marketing businesses. While this was a definition that captured all bulk wheat terminal operators in 2008, that is no longer the case. Investments since that time have adopted business structures that have resulted in the regulation being avoided. In practice, many of these operations function in a similar way to vertically-integrated operations by securing exclusive agreements to third party infrastructure. As a result, these operators gain an advantage over regulated counterparts in the absence of compliance costs and unfettered business flexibility. 
+In recognition of the potential for such problems, amendments were made to the Act in 2012 for a mandatory code of conduct covering all ‘grain export port terminal operators’ to be in place by 1 October 2014 to trigger the repeal of the existing arrangements. To be valid, the code needs to meet several criteria, including publication requirements known as the ‘Continuous Disclosure Rules’. While this means that some businesses that are not currently regulated would be regulated, these requirements are generally considered good business practice because they provide potential clients with a good understanding of available capacity and transparency to the bulk wheat export market that enables efficient allocation of port capacity and resources.
+If a mandatory code of conduct is not in place by 1 October 2014, the Act will not be repealed and current access test regulations will continue. Therefore, the key problems being addressed by this Regulatory Impact Statement are as follows:
+Current access test regulations are administratively burdensome, inequitable, poorly targeted and restricting Australia’s competitiveness in the global market
+Businesses in the bulk wheat export supply chain are able to structure their business to avoid the current access test regulations , thus creating inequities in the market
+Some wheat production areas are serviced only by ports that are operated by vertically integrated business, which raises the risk of monopolistic behaviour in the market for port terminal services and/or grain export services.
+In the last two years, a number of new investments in port terminal infrastructure have provided, or are expected to provide, alternative pathways for wheat export. The ACCC has recognised the impact of new facilities and has acted to reduce the level of regulation on existing operators where it assesses that sufficient competitive constraint exists to negate the risk of anti-competitive behaviour. These are, however, very recent developments: the ACCC approved the first, and only, variation to reduce regulatory burden at GrainCorp’s Carrington facility in June 2014.  
+3. Objectives of government action
+The objectives of government action are to:
+promote the operation of an efficient and profitable bulk wheat export marketing industry that supports the competitiveness of all sectors through the supply chain; and
+provide a regulatory framework in relation to participants in the bulk wheat export marketing industry.
+It is important that the regulatory framework for port access arrangements provide certainty of access for all bulk wheat exporters. This certainty is critical to ensuring continued competition in the industry, which supports the viability and profitability of participants across the export supply chain. As discussed above, there is a need to improve transparency and equity in the application of regulation on port terminal operators to achieve this aim. 
+An additional and important objective of government action is to reduce unnecessary regulatory burden and to not discourage investment in port terminal services and related logistic networks. 
+4. What policy options have been considered?
+The government is considering the following options for regulation of an efficient, competitive and profitable bulk wheat export industry. 
+Option 1 - Maintain the status quo. No government action is taken.
+Option 2 - Introduce a mandatory code of conduct that is ‘one size fits all (based on recommendations of industry)
+Option 3 - Introduce a mandatory code of conduct that adjusts to competition (based on recommendations of industry and the ACCC)
+Option 4 - Remove all industry-specific regulation. The government would introduce legislation to repeal the Wheat Export Marketing Act 2008. Port terminal service providers only regulated under the CCA.
+The business community (including farming enterprises, exporters and port terminal operators) is the intended beneficiary of the proposed reforms and through this some benefit will also accrue to the broader community. This Regulation Impact Statement considers each option according to their respective impacts on business, including assessing the associated costs and benefits. 
+Table 1 Summary of options by port terminal service provider obligations
+
+Port terminal operators with associated wheat export business
+Port terminal operators without associated wheat export business
+Option 1
+Status Quo
+Required to have in place an access undertaking with the ACCC in order to pass the access test under the Act.
+No industry-specific regulatory obligations.
+Option 2 Code based on recommendations of industry
+Comply with all provisions of a mandatory code of conduct, with no option to reduce regulatory burden.
+Comply with all provisions of a mandatory code of conduct, with no option to reduce regulatory burden.
+Option 3 Code based on recommendations of industry and ACCC
+Comply with a mandatory code of conduct with option for ACCC exemption. ACCC will undertake an analysis, including public consultation, before making a determination. 
+12-month transition period to obtain ACCC exemption. If exempt, comply with publishing requirements only. If not exempt, comply with a mandatory code of conduct in full.
+Option 4
+Repeal the Act
+No industry-specific regulatory obligations.
+No industry-specific regulatory obligations.
+
+4.1. Option 1: Status quo / take no action
+Option 1 would be to take no government action and retain the status quo. The Act (as amended in 2012) requires port terminal operators that export wheat, or have an associated entity that does, to have an access undertaking in place with the ACCC as a condition of export. 
+An access undertaking is a legally binding agreement between the ACCC and the port terminal operator. In the case of bulk wheat exports, these agreements typically include;
+obligations on the port terminal operators not to discriminate or hinder access in the provision of port terminal services
+having clear and transparent port loading protocols for managing demand for port terminal services
+obligations on port terminal operators to negotiate in good faith with eligible wheat exporters for access to port terminal services
+the ability of wheat exporters to seek mediation or binding arbitration on the terms of access in the event of a dispute; and
+an obligation to comply with Continuous Disclosure Rules.
+There are currently four port terminal operators that have an access undertaking for this purpose: Co-operative Bulk Handling Ltd (CBH Ltd), Emerald Logistics Pty Ltd (Emerald), GrainCorp Operations Ltd (GrainCorp) and Viterra Operations Ltd (Viterra). Other port terminal operators involved in exporting bulk wheat are not subject to this requirement. 
+Impact on existing regulated operators: These operators would continue to require an access undertaking with the ACCC, renewed every three years. The annual cost compliance cost for each business is approximately $602 000 per year (see below).
+Impact on currently unregulated operators: There would be no impact on these operators. 
+4.1.1. What are the benefits of this option?
+Regulating access to critical infrastructure limits the opportunities for port terminal operators with significant market power to act in an uncompetitive manner, thereby creating competition for wheat. This competition provides an incentive for port terminal operators to become more efficient and to reduce the cost of their services, which translates into savings, some of which are passed on to farmers. 
+The existing regulation has been effective in assisting bulk wheat exporters gain access to critical infrastructure during the industry’s transition to a competitive marketplace. Application of the current regulation is limited to four port terminal operators, thereby not placing regulatory costs on those operators that do not have an associated wheat exporting business. 
+4.1.2. What are the costs of this option?
+As stated by CBH Ltd, compliance costs associated with the current arrangements include:
+Direct incurred external costs - solicitors, valuers, economists, travel etc.
+Direct internal costs – time occupied by internal staff in dealing with the matter when they could be doing other work or in increased internal resourcing to meet the demand. This is particularly the case for internal legal and compliance staff, together with training of affected staff to ensure an understanding of, and compliance with, regulations.
+Indirect costs – these are costs incurred by all of industry as a result of increased requirement for consultations and submissions as well as continuing to operate systems that may not be the optimal system but the benefit from changing does not exceed the process based costs or does not accrue to the port terminal operator. In this case, inefficiencies may remain in the industry as there can be little or no incentive to undergo the change process.
+Indirect costs – lost opportunity. These costs are incurred when there is a desire for change yet the inflexibility of the process inhibits change. For example, under the CCA, access undertakings applications (new undertakings, variations or replacements) provide that the ACCC has a 180 day time limit (not including requests which stop the clock). The ACCC is entitled to take that amount of time to assess any application a port terminal operator may make. Therefore CBH has to commence applications very early in order to attempt to ensure changes get through before the next harvest or it has to decide not to make the application. In practice, applications need to be made in about October or November to ensure that they can be in place for the harvest beginning in the following September. This makes responding to events in the current harvest very difficult. This inaction then becomes an opportunity cost for CBH and industry, sometime referred to as ‘regulatory chill’.
+Table 2 Direct compliance costs incurred by CBH Ltd under Option 1
+
+Source: CBH Ltd (2013) Submission to Productivity Commission: National Access Regime inquiry (p3).
+The major cost of the existing arrangements derives from the need to renew access agreements every three years, including the requirement for specialist legal consultants and resources. Undertakings are legally binding agreements between an individual business and the ACCC, and can take up to 9 months to finalise. The agreements are not uniform and requirements can vary between operators. 
+Industry consultation has resulted in direct compliance costs associated with the current arrangements of between $200 000 and $1 million per operator per year, depending on the circumstances. Using the CBH Ltd public data as a benchmark, the ongoing average annual cost is estimated at between $520 000 and $730 000 per operator per year (annualised over 5 years). Additional industry consultation supported this range, supporting a direct annual average compliance cost of approximately $602 000 per operator per year. While there are variances depending on the business cycle and complexity of changes required to be analysed by the ACCC, this figure is broadly representative over a ten year period. These costs are usually recovered through the provision of services, and passed along the supply chain. 
+In 2010, the Productivity Commission warned that the regulatory burden of the current access test arrangement would become increasingly onerous over time and that its benefits would diminish as the market adjusted to increased competition in the less regulated environment. Now, in 2014, there is a general consensus within industry that the regulatory costs of the current access test arrangements have become unnecessarily burdensome and there is strong evidence of increased competition in the market, with a number of significant new investments allaying fears of monopolistic behaviour in various regions. These developments make a strong case for the need to change the current regulatory framework. 
+Additionally, concerns have been raised regarding inequity in the application of the current access test arrangements. As discussed earlier in the Problem section, port terminal service providers that have recently entered the market have business structures that avoid access test regulation. Consequently, in some cases, port terminal service providers operating within the same port zone may be the subject to dramatically different regulatory compliance costs per operator ranging from $0 to around $602 000 per year, despite providing the same services. This is especially problematic in cases where the unregulated port terminal service provider adopts a business structure and arranges exclusive supply contracts in a way that delivers minimal benefit to independent bulk exporters as a whole.
+Furthermore, even though there are opportunities under the current arrangements for regulatory burden to be decreased for integrated port terminal service providers (e.g. the case of GrainCorp’s Carrington port discussed in the Problem section) the process that port terminal service providers must follow in order to attain acceptance from the ACCC to reduce the regulatory burden in these cases is resource intensive, lengthy and without a guarantee of a favourable outcome for port terminal service provider to off-set its costs.
+Retaining the current arrangements would allow the inequitable application of regulation between operators to persist, even in cases where there is sufficient competition to negate the risks of anti-competitive behaviour. This is the most costly option presented in this document, equating to an ongoing average annual compliance cost of $602 000 per business over ten years. This estimated average cost accounts for cyclical year-by-year fluctuations, where costs peak every three years when undertakings are renewed compared to intermediary years where costs are only incurred from compliance and possible minor changes to undertakings. Collectively, the average annual compliance cost over ten years for the four port terminal operators currently regulated by access undertakings is approximately $2.4 million. The ACCC has monitored compliance with undertakings since 2009, and estimates that it will continue to incur costs of approximately $1 million per year if the current arrangements are maintained. 
+4.2. Option 2: Introduce a mandatory code of conduct that is ‘one size fits all’ 
+The current arrangements will be removed automatically on 1 October 2014 if a mandatory code of conduct is in place before that date. 
+To do this, the government would need to make a regulation under the CCA to prescribe a mandatory code of conduct for all grain export terminals. As a regulation under the CCA, a breach of the code would be a breach of the CCA, which could result in significant penalties. This was a key consideration of the Australian Parliament when it passed amendments to the Wheat Export Marketing Amendment Bill in 2012 to require a mandatory code, rather than a voluntary one. A review of the code, at the direction of the Minister for Agriculture, would begin two years after its introduction.
+Option 2 would be to develop a mandatory code based on agreed industry principles, as provided to government by the Code Development Advisory Committee in mid-2013. The principles use key elements of the existing access undertakings and would apply to all operators equally. One key drawback of the industry’s preference for a one-size-fits-all approach provided for in this option is the inability for port terminal operators to have their regulatory burden reduced in situations where sufficient competition exists to justify such a reduction.
+Under Option 2, the following requirements would apply:
+Provision of access
+The provision of access to port terminal services must be under the terms of an access agreement. This requires that the port terminal operator and the exporter must enter into an agreement based on standard terms, or as negotiated. This applies to any exporter that meets prudential requirements. The agreement must be executed within five business days of the initial request and access must not be hindered by the operator unless the terms of the agreement have been breached.
+Negotiation of agreement
+All exporters that meet the prudential requirements are able to enter into negotiations for access with the port terminal operator. The agreement must be executed within five business days once agreed between the parties. 
+Capacity allocation
+Capacity allocation system is the method by which a port terminal operator offers export capacity. Under this principle, it would apply to all exporters equally. If the port terminal operator wanted to vary the system, it would need to publish the details of the intended variation on its website at least 20 business days in advance and allow for submissions from industry to be made. The aim of this requirement is to provide additional business certainty and maintain transparency in the way exporters may access available infrastructure.  
+Variations to standard terms and port terminal rules
+The port terminal operator may vary its standard terms, prices and port terminal rules as required. In doing so, it must provide at least 20 days notice on its website before applying the change. In the case of port terminal rules, stakeholders must also be provided with an opportunity to comment on the proposed changes. This provision improves business certainty and transparency for access seekers.  
+Publishing requirements
+Port terminal operators would be required to publish information on its website relevant to its activities at the port. Specifically:
+Standard terms and reference prices for services
+The process and timing under which an exporter may seek to negotiate amendments to the standard terms and reference prices
+Port loading protocols for the allocation of available export capacity
+Volume of capacity available to be acquired for export, per shipping window (updated weekly)
+Total volume of capacity available to be acquired for export for the up-coming season (updated annually)
+Key performance indicators;
+volume of capacity offered vs actual capacity delivered, and relevant commentary to explain variations
+Aggregate stocks information held at port (updated weekly);
+bulk wheat (and including the names of the three largest grades by volume)
+barley
+canola
+other bulk grains
+Port loading statement (also known as shipping stem, and updated daily) –
+if the port terminal operator knows the name of the ship—the ship’s name;
+the time when the ship is nominated to load grain using the port terminal service;
+the time when the ship is accepted as a ship scheduled to load grain using the port terminal service;
+the estimated time when the ship is to arrive at the port terminal facility through which the port terminal service is to be provided;
+the estimated time when grain is to start being loaded onto the ship;
+the estimated time when the ship is to leave the port terminal facility through which the port terminal service is being provided;
+the name of the exporter of the grain;
+the quantity of grain to be loaded onto the ship using the port terminal service;
+the type of grain to be loaded onto the ship using the port terminal service;
+if the grain has started to be loaded onto the ship, but the loading has not been completed—that fact;
+if the loading of grain has been completed—the time when the loading was completed.
+Record keeping
+Port terminal operators would be required to retain records of all vessel nominations and changes to those nominations for no less than two years. If a dispute is raised, records concerning that matter must also be retained for no less than two years regardless of outcome.
+Impact on existing regulated operators: These operators are expected to incur an average annual compliance cost of $160 000 per business (annualised over 10 years). Compared to the current arrangements, this option is estimated to reduce compliance costs by $440 000 per year per business. The major savings are made in removing the requirements to develop an access agreement with the ACCC and obtain its approval before varying capacity allocation systems. Both tasks require expert legal advice over a sustained period of time (for example, three to six months). 
+Impact on currently unregulated operators: These operators would incur regulatory compliance costs for the first time under a code. Major costs include establishing reporting systems and staff time to meet publishing requirements, estimated at $160 000 per business per year (annualised over 10 years). 
+4.2.1. What are the benefits of this option?
+By removing the access test, individual businesses would no longer need to develop binding undertakings every three years, nor draw on expensive external advice when amendments to that agreement are required. 
+In its simplistic design, a code based on Option 2 would also provide a benefit in terms of business certainty in compliance requirements for individual operators. As a regulation under the CCA, port terminal operators found in breach of the code may face considerable penalties, including court orders. The mandatory code, therefore, provides a significant incentive to comply with requirements to publish information and negotiate in good faith, and has a positive effect on the continued development of competition in the industry.  
+Another benefit of Option 2 is the introduction of an equitable level of regulation that applies to all port terminal operators. It would provide improved transparency and access for exporters to port terminal facilities by applying to all grain export terminals, not just some. The code would apply regulation to port terminal operators that are currently operating outside of the wheat export marketing regulatory system and would, therefore, improve transparency for exporters. There is, of course, an associated cost for these operators as described below. 
+4.2.2. What are the costs of this option?
+A code based on Option 2 would require all operators to comply with the code in its entirety and would, therefore, incur similar costs to all port terminal operator businesses regardless of size and respective abilities to abuse market power with anti-competitive behaviour. It is estimated that the ongoing average annual compliance cost for all port terminal operators would be $160 000 per year per business (annualised over ten years). Collectively, this would amount to an average annual regulatory burden of $1.6 million per year over ten years.
+The costs to comply with this code are a dramatic increase in regulatory burden for port terminal operators that are not currently subject to access test requirements and, therefore, do not currently incur any associated regulatory costs. As a result, it is possible that this option could discourage competition by acting as a disincentive to new investment, particularly for those operating on a smaller scale that may not be able to bear the high regulatory burden. While this option may present a more equitable solution compared to the current situation, it is likely that a code drafted on this basis would not address the issue that already exists at some ports, where the cost of regulation outweighs the benefit. 
+The most significant cost to businesses under this option derives from the need to negotiate and agree upon access agreements. Industry advice suggests that an average of 15 separate negotiations would be expected per port terminal operator per year. Industry advice also suggests that the staffing requirements for these negotiations would include specialist legal consultants, operational staff and managers, as well as an auditor/head of operations. The expected cost of completing negotiation requirements has, therefore, been calculated as an ongoing average cost of up to $90 000 per business per year over ten years.
+Another significant cost to businesses under this option derives from publication requirements, which include the publication of key performance indicators, standard terms and reference prices for services, port loading protocols for the allocation of available export capacity, and port loading statements (as explained previously). Accounting for the fact that publishing obligations under this option range in  terms of both complexity involved and frequency and would involve the time of staff at various pay levels, it is estimated that the ongoing average annual cost per business under this option would be up to $65 000 per business per year over ten years.
+Other costs to businesses under this option include establishing systems for new reporting obligations, developing port loading protocols and key performance indicators, and indirect costs associated with providing 30-days advanced notice for amendments to port loading protocols. Major compliance costs associated with these requirements would derive from staff time, contracted legal expertise.
+Additional staff time would be required for businesses to comply with regulations under this option. For example, for port terminal operators that are not subject to the access test, additional administration officer may need to be employed to meet publishing requirements necessary for compliance on either on a daily (e.g. loading statement), weekly (e.g. the amount of capacity available by shipping window, and stocks at port), monthly (e.g. remaining capacity available by shipping window, and variation to capacity), or yearly basis (the amount of capacity available for the remaining year), and as required (e.g. standard terms and prices).
+There may also be additional indirect industry costs in removing the option for exporters to have recourse to dispute resolution services, as is currently provided. While arbitration under the access agreements has yet to be used, its inclusion is likely to have acted as an incentive for industry to remedy disputes through alternative–often cheaper–mechanisms.
+4.3. Option 3: Introduce a mandatory code of conduct that adjusts to competition
+This would also involve making a regulation under the CCA to introduce a mandatory code of conduct for all grain export terminals. The code would take effect from 30 September 2014 to cause the repeal of the existing Act on 1 October 2014. 
+Under Option 3, the code would include the majority of requirements listed in Option 2, but would include additional provisions to address concerns about the effectiveness of the code. While there is an additional direct cost associated with these provisions, Option 3 provides a mechanism whereby the total regulatory impact of a code can be significantly reduced in port zones where sufficient competition exists to prevent anti-competitive behaviour. This approach aligns with a point made by the Productivity Commission that as different wheat export facilities have varying degrees of market power, differing degrees of regulation may be warranted.
+This model includes a pathway to limit regulation where it is needed by allowing the ACCC to exempt operators from having to comply with all code requirements at particular ports. This mechanism improves the flexibility of the regulation and provides an avenue for government intervention to reduce where market forces provide sufficient incentives for desirable behaviour. This option enables the ACCC to undertake an analysis to exempt port terminal operators from complying with the most burdensome aspects of code where the regulation is no longer needed. In making its decision, the ACCC would consider a range of factors similar to those considered for the recent decision to decrease the regulatory burden on GrainCorp’s Carrington port, including whether the terminal operator is controlled by growers that supply the port, whether it is an exporter or an associated entity of an exporter, the purpose of the code, the level of competitive constraint, presence of an exempt service provider within the grain catchment area and potential effects on up-stream and down-stream markets. While CBH Ltd is the only grower controlled port terminal operator, all operators are either wheat exporters or have a business association with an exporter. The level of potential competitive constraint varies from port to port (refer to Figure 2). There are currently multiple port terminal service providers at Brisbane and Newcastle ports. There are also new facilities proposed for Port Kembla in New South Wales and Albany in Western Australia, in addition to the existing GrainCorp and CBH Ltd facilities respectively. The port terminal service providers at Melbourne and Geelong draw grain from similar areas and Portland in Victoria overlaps with both of these and South Australian ports to some extent. The operator at Bunbury in Western Australia will draw grain from areas that would be exported via Fremantle or Albany.
+The code would also include a transitional period of 12 months for port terminal operators without an access undertaking in place on 30 September 2014. This period recognises the likely short-time period between the regulation being made and its commencement date, which may mean these operators are unable to establish systems and be compliant with the code by that date. The transitional period will also allow the ACCC to grant exemptions before the code applies to these port terminal service providers, thus avoiding them incurring unnecessary compliance costs while exemptions are considered.
+A code based on Option 3 is focussed on preparing and ensuring the industry is ready to transition to full removal of industry specific regulation in the short to medium term. As such, the code will require a review to begin three years after its introduction, consider evidence from the preceding marketing years and provide advice on an appropriate repeal date to complete the transition to an environment without industry-specific regulation.
+All operators, unless exempt, would need to comply with the following provisions:
+Provision of access
+As per Option 2. 
+Negotiation of agreement
+As per Option 2. 
+Dispute Resolution
+Port terminal operators must include a dispute resolution mechanism, such as mediation, in its standard terms. If, when negotiating an access agreement, a dispute between the operator and the exporter emerges, the parties may mutually agree to undertake mediation. If parties do not agree, an independent arbitrator may then resolve the dispute and rule on the terms of the agreement.  
+Non-discrimination
+Port terminal operators must comply with a non-discrimination clause to prevent port terminal operators discriminating in favour of their own marketing arm or that of an associated entity. 
+Capacity allocation
+The method of allocating capacity more than six months in advance must be approved by the ACCC. In making its decision, the ACCC must be satisfied the system will operate efficiently and fairly; provide sufficient information to exporters; provide flexibility and transferability of shipping slots; and contains mechanisms to ensure reasonable steps have been take so that capacity is not unused during peak periods. 
+Variations to standard terms and reference prices
+Variations to standard terms and reference prices must be published on the operator’s website at least 20 business days before the change commences.  
+Variation to port terminal rules 
+As per Option 2.
+Publishing requirements
+As per Option 2. In addition, additional information relevant to the number of demurrage days (which imposes a charge related to the failure to load or discharge a ship by an agreed time) and changes to vessel loading will also be required. This information is beneficial to gauge the efficiency of port terminal operations on a monthly basis.
+Record keeping
+Retained for six years in line with regulatory drafting practices and to ensure a records are able to be accessed by the ACCC for a sufficient period of time, should they be required. For example, records over a number of years may be needed during an inquiry to establish patterns of behaviour, or in the case of an audit. 
+Exempt port terminal operators would still need to comply with the code to provide transparency for exporters. Compliance requirements would be reduced, however, to remove unnecessary costs. The compliance level would be set at the minimum publishing requirements required by the Act, along with the need to publish standard terms and prices, and an obligation to deal in good faith (as described below). All operators, including exempt providers, would comply with these provisions.
+Good faith and publishing requirements
+All operators must adhere to the following provisions, including those that were granted an exemption by the ACCC or otherwise exempt from the code:
+Deal with exporters in good faith 
+Publish on its website;
+policies and procedures for managing demand, including capacity allocation, on its website
+standard terms and reference prices; and
+port loading statement (as described in Option 2).
+Impact on existing regulated operators: These operators are expected to incur an average annual compliance cost of $340 000 per business (annualised over ten years). This is a 44 per cent reduction in compliance costs when compared to the current arrangements. The major saving is made through removing the requirement for an access agreement with the ACCC which requires expert legal advice over a sustained period of time (for example, three to six months). Operators will also have the ability to further reduce regulatory burden where competitive constraint is present and acknowledged by the ACCC. 
+Impact on currently unregulated operators: These operators are competing against the existing bulk handling companies, as recognised by the ACCC in its decision at Newcastle. It is expected, therefore, that at least four operators will be granted exemptions, which would limit estimated regulatory compliance to less than $20 000 per year per operator (annualised over ten years). The major costs during this period would include establishing limited reporting systems and staff time to meet publishing requirements. These requirements are generally considered good business practice, therefore, the cost in addition to business as usual should be close to zero.
+4.3.1. What are the benefits of this option?
+Operators that are currently required to pass the access test should benefit from reduced compliance costs under this model representing a 44 per cent saving in average annual compliance costs. They would also have the opportunity to reduce the compliance burden to approximately $20 000 per year where competitive constraint allows. For those port terminal operators that are currently unregulated, a modest average compliance cost of less than $20 000 per year to meet publishing requirements would apply following ACCC exemption. The code would also include a transition period of 12-months for these operators to obtain an ACCC exemption and put in place the required systems. This transition period will not apply to operators with a current access undertaking in place with the ACCC as the required systems have already been established. It is expected that as additional new investments become operational, all operators will apply and be eligible for exemption by the ACCC. Until that time, exporters have the benefit of increased transparency and certainty of access to services.
+The ACCC has advised that in order to be effective, the code should include a non-discrimination clause to ensure third-party access to services. This requirement removes the ability for port terminal operators to favour their own marketing arm at the expense of third party exporters and thereby potentially lessening competition. The potential for self-preferential treatment is also guarded against through the requirement for ACCC to approve capacity allocation systems, which will ensure that fair and transparent systems of allocation are provided for all exporters equally. To recognise the transition towards an environment without industry-specific regulation, this requirement will only be necessary in instances where capacity is allocated more than six months in advance. In doing so, regulatory interference will be reduced for opportunistic exports, particularly those through multi-use port terminal services. While potentially smaller scale, these types of operations can provide alternative pathways for export and contribute positively in a competitive environment. 
+The ACCC also supports the inclusion of dispute resolution mechanisms, as is currently provided for through access undertakings. While the industry has not utilised arbitration, it is likely that its inclusion as an option for resolution has acted as an incentive to remedy disputes through alternative, often cheaper, mechanisms. The inclusion of alternative dispute mechanisms in the code, such as mediation, would provide potential savings to businesses when compared to costs incurred through court proceedings.  
+A review of the code within three years of its operation will ensure that the regulation placed on port terminal operators is appropriate. The review would also be required to consider and provide advice on an appropriate repeal date. 
+4.3.2. What are the costs of this option?
+Port terminal operators would be required to comply with similar provisions as discussed for Option 2, along with increased publishing requirements, the need to obtain ACCC approval when varying a capacity allocation system and dispute resolution mechanism. These additional provisions have been included following consultation with the ACCC and consideration of stakeholder submissions received during public consultation. 
+The additional publishing requirements relate to the number of demurrage days (which imposes a charge related to the failure to load or discharge a ship by an agreed time) and changes to vessel loading. This information is beneficial to gauge the efficiency of port terminal operations on a monthly basis, but is not currently publically reported. Additional staff resources would be required to comply with this requirement.
+The benefits accrued through dispute resolution and ACCC approval of capacity allocations systems is discussed above; however, there is also a cost. From previous industry experience, ACCC approval of capacity allocation systems would be expected to take between approximately three to four months and costs would include legal consultation fees, and the wages of staff ranging from middle to senior management levels. 
+This option would include a 12-month transition provision that delayed the application of the code to port terminal operators that are not currently regulated. The code, subject to any exemptions, would then apply to all operators. While it is not possible for a mandatory code of conduct under the CCA to place a requirement on the ACCC to conduct the assessments that would underpin its decisions regarding exemptions by a given time, the ACCC is aware of the importance of this work. The ACCC has advised that twelve months should allow it sufficient time to undertake the anticipated initial round of exemption assessments for all currently unregulated port terminal service providers (and also potentially from currently regulated service providers.) Where the ACCC grants an exemption, port terminal operators regulated at the lower level under this option would only need to comply with a set of publishing requirements which has been estimated at less than $20 000 per business per year (annualised over ten years). In light of the level of investment in the industry, and consistent with recent decisions of the ACCC, it is highly likely that four operators would receive an exemption in the first year. These savings are able to be offset against the additional compliance provisions of non-discrimination, ACCC involvement and dispute resolution as outlined above. 
+The total potential regulatory burden on businesses under this option is an average collective cost of $2.1 million per year over ten years. While this code would introduce new regulatory costs to some operators, the overall costs would be offset against reduced compliance costs for operators that were required to pass the access test. There is also significant potential for further regulatory savings to be made as operators are granted exemptions by the ACCC, which is not possible under Option 2. Given the ACCC’s decision on the Carrington Port, it is envisaged that as competition develops over time, ports will progressively become exempt from the higher compliance requirements. This is demonstrated in Table 3 below, through comparison of scenarios 2 and 3.
+Table 3 Projected regulatory costs to business for three scenarios of regulation under Option 3
+Scenario
+Average annual cost per business per year over ten years
+Collective average annual cost for all businesses over ten years 
+Probability
+1. No exemptions
+(10 port terminal operators at the highest level of regulation)
+$340,000
+$3.4 million
+Highly unlikely 
+2. Four businesses exempt (at lowest level of regulation) and six businesses not exempt (at highest level of regulation)
+$20,000 for 4 businesses
+$340,000 for 6 businesses
+$2.1 million
+Highly likely 
+3. All businesses exempt
+(10 port terminal operators at the lowest level of regulation)
+$20,000
+$200,000
+Unlikely to occur within first 12 months, but likely to occur in the future
+4.4. Option 4: Remove all industry specific regulation
+Option 4 is to repeal the Act without replacing it with further industry-specific regulation, such as a mandatory code. The government would be required to introduce a Bill to repeal the existing legislation which would leave port access arrangements to be governed by general competition law (i.e. part IIIA of the CCA). 
+Part IIIA of the CCA establishes the National Access Regime, which is a mechanism by which parties may gain access to monopoly infrastructure facilities. Under this framework, independent bulk wheat exporters would be able to seek access to port terminal services through a ‘declaration’ pathway. Under this pathway, private negotiations are prioritised as the mechanism to determine access agreements between third party exporters and port terminal operators. However, if these negotiations do not lead to agreement, the independent exporter can apply to the National Competition Council (NCC) to have particular port terminal infrastructure officially declared as critical market infrastructure according to a set of criteria specified in subsection 44G(2) of the CCA. The NCC would have 180 days to make a recommendation to the designated Minister on the matter, and then the designated Minister would have 60 days to decide on the declaration. If the designated Minister decides to declare the port terminal service as critical market infrastructure, then all exporters that use the port terminal service would have the right to arbitrate through the ACCC, if satisfactory access agreements are not obtained through private negotiations. If the designated Minister fails to announce a decision within 60 days of receiving advice from the NCC, the port terminal service will be deemed to not be a declared service and exporters will not have the right to arbitrate through the ACCC should private negotiations fail. Any appeals against such as decision would need to be addressed through a tribunal, with all costs borne by the appealing party. Therefore, this approach involves significant time, uncertainty and cost to exporters.
+Impact on existing regulated operators: Operators would not need to comply with industry-specific legislation, thereby removing the existing average annual regulatory compliance costs of $602 000 per business per year.
+Impact on currently unregulated operators: As these businesses currently operate outside of existing industry-specific legislation, there would be no regulatory impact. However, these businesses (and any new entrants) would have to compete with the four established port terminal operators in an open market. It would also expose those exporters not associated with a bulk handler to the risk of unfair competitive practices and in that event, increase the cost of services to wheat growers. 
+4.4.1. What are the benefits of this option?
+As discussed in Option 1, the current arrangements place a regulatory burden on particular port terminal operators that may inhibit investment in bulk wheat export facilities. Removal of regulatory costs may improve the cost-benefit equation for new investments by integrated service providers and create an incentive for such businesses to provide additional or improved services to the industry.
+As discussed above, industry-specific regulation is not necessarily needed to ensure third-party access to critical infrastructure is provided. However, there are issues associated with relying solely on the National Access Regime to ensure fair access to port terminal infrastructure for independent wheat exporters.
+4.4.2. What are the costs of this option?
+There are no expected compliance costs to business under this option. However, this option would incur indirect costs in that there would no longer be certainty regarding fair and transparent access to port infrastructure. If industry-specific regulation were to be removed, third-party (i.e. independent grain exporter) access would only be enforceable through existing provisions of the CCA. Compared to the handling of access disputes under the code proposed under option 3, this process would be extremely lengthy and resource-intensive, and the declaration is not guaranteed. 
+If there is a likelihood that integrated port terminal service providers that operate in regional monopolies would abuse their monopoly position to reduce third party access to port terminal facilities, option 4 would be a costly and undesirable option within this Regulation Impact Statement; due to the increased burden associated with resolving access issues under the CCA compared to resolving access issues under the code proposed in option 3.
+The ACCC has expressed concerns that there is a likelihood that this could occur under option 4. Given these concerns that integrated port terminal service providers that operate in regional monopolies could abuse their monopoly position to reduce third party access to port terminal facilities, and the significant costs that would therefore incur to independent bulk wheat exporters, option 4 presents an unacceptable level of risk and cost to the industry.
+This option is the only option that does not include an immediate and direct negotiate–arbitrate framework for independent wheat exporters seeking access to integrated port terminal services. In the first instance, all port terminal service providers would be non-declared services and exporters would, therefore, not have a right to access ACCC arbitration. To gain the right to ACCC arbitration, a lengthy and potentially expensive process would need to be undertaken to declare each individual port terminal service as critical under the National Access Regime. Following this process, declaration is not guaranteed and the costs associated with appealing a deemed non-declaration through the tribunal could pose a major barrier to independent exporters. A key advantage of the negotiate-arbitrate framework is that the threat of regulatory intervention supports the primacy of commercial negotiations and generally negates the need for the ACCC to set regulated access terms and conditions. Therefore, if option 4 were pursued and independent exporters did not have recourse to arbitration, uncertainty would be created and the time and cost barriers associated with gaining declaration under the National Access Regime could damage the market by reducing the viability of independent bulk wheat export businesses within Australia. 
+The current arrangements have provided a market where new entrants can have a regulatory advantage over existing companies and this has contributed to additional investment. This option would remove that advantage and possibly make new investments unviable.
+The absence of industry-specific regulation may create the potential for rent-seeking behaviour by port terminal operators where the operator is not subject to competition, with detrimental effects on other industry participants and farm-gate returns. The effect of monopolistic behaviour on farm-gate returns could be particularly significant given that wheat prices are largely determined by global supply and demand factors and farmers have little market power. The ACCC has previously expressed its concern about removing industry-specific regulation.
+The major indirect cost of this option would be expected to derive from a lessening of the benefits that result from market forces and competitive pricing thus increasing costs to growers and potentially making Australian grain less competitive internationally. An exporter that does not have control of port terminal operations, or is associated with a business that does, may no longer have confidence in being able to gain access to necessary port infrastructure. This may lead to a reduction in willingness to bid for grain and remove the existing benefits of competitive pricing along the supply chain.
+Another indirect cost under this option could be the cost of the duplication of port infrastructure. This is occurring under the existing regulation, in part because it is possible for port terminal service providers with particular business structures to avoid the requirements of the Act. Duplication of port infrastructure is likely to continue to occur in cases where unregulated port terminal operators with associated exporting businesses restrict access to non-associated businesses, creating an incentive for non-associated businesses to invest in alternative port infrastructure to enable access to infrastructure. Even if the creation of additional port infrastructure could be justified in terms of private benefits and costs, there might be a broader cost in terms of negative externalities in addition to the loss of (potential) efficiency of natural monopolies.
+Table 4 Summary of compliance costs for all options - Option 3 preferred 
+Average Annual Regulatory Costs (from Business as usual)
+Change in costs ($ million)
+Business
+Community Organisations
+Individuals
+Total change in cost
+Option 1
+$0
+$0
+$0
+$0
+Option 2
+-$0.81
+$0
+$0
+-$0.81
+Option 3
+-$0.31
+$0
+$0
+-$0.31
+Option 4
+-$2.41
+$0
+$0
+-$2.41
+
+Cost offset ($million)
+Business
+Community Organisations
+Individuals
+Total by Source 
+Not required
+$0
+$0
+$0
+$0
+Are all new costs offset? 
+∗ yes, costs are offset    ∗ no, costs are not offset      deregulatory, no offsets required
+Total (Change in costs - Cost offset) ($million)        -  $0.31
+5. Consultation
+As noted throughout, wheat exporting marketing arrangements, including port access, have been the subject of a number of reviews since 2008. Of note, the Productivity Commission’s inquiry report was completed in 2010, and two parliamentary inquiry reports were tabled in 2012.
+In examining the option of a code of conduct itself, the wheat export industry has been directly involved in its development since 2012. Farmer organisations, exporters and port terminal operators have regularly met through the CDAC to discuss potential compliance provisions under both a voluntary and mandatory option. 
+On 3 June 2014, the Minister for Agriculture released the early-assessment Regulator Impact Statement for public consultation. It was published, along with a draft code of conduct consistent with option 3 and consultation paper, at www.daff.gov.au/portcode.
+When grouped by sector of the supply chain, or geographic region, submissions gained by industry varied. For example, in Western Australian grower organisations and its major port terminal operator support removing the current arrangements without the introduction of a code. These stakeholders argue that regulation would impose costs that would not exceed the expected benefits. It is worth noting that the major bulk handler in Western Australia is a grower-owned co-operative. As such, growers have a direct influence on the management and operations of the business, which includes the provision of port terminal services. 
+The perspective from producers in the east, however, was very different. The majority of these grower organisations argue for continued regulatory oversight to guard against excessive rent-seeking and preservation of farm-gate returns through the presence of competition for grain. Bulk wheat exporters also supported a code that would be able to adjust to specific circumstances, based on the understanding that it would be a final transitionary step before all industry-specific regulation is removed within five years. There was a general view that regulatory costs were passed on through service fees, and a reduction in those costs may provide benefits to exporters through lower costs. 
+Generally, regulated port terminal operators were also supportive of removing the current arrangements in favour of Option 4. The benefits derived from this option focused on reduced regulatory compliance costs and increased business responsiveness, which would ultimately benefit exporters. Despite this, the majority of these operators expressed support of a code, provided that regulatory burden would decrease and transition to an environment without industry-specific regulation would occur within two to five years. New port terminal operators were broadly supportive of a code, as long as compliance requirements were not prohibitive to investment.
+There was widespread industry support to remove the current access test arrangements. While there are differing viewpoints, industry groups were pragmatic in their approach and generally agreed that a code which could adjust to competition and as a transitionary step toward an environment without industry-specific regulation would be appropriate. 
+6. Conclusion and recommended option
+The Australian wheat export industry is continuing to evolve in response to changing market demands. The current regulation (through the Act) aims to promote the operation of an efficient and profitable bulk wheat export marketing industry that supports the competitiveness of all sectors. Any changes to this level of regulation should, therefore, be consistent with this objective, and encourage, rather than inhibit, competition.  
+There is still a significant concern that market power may be abused by monopoly port terminal service providers to the detriment of wheat producers, through restriction of competition and bulk wheat exporters through more expensive access to ports. Given that the export-wheat price is determined by global markets, constricting competition will reduce the price growers receive for their grain relative to world prices. Notwithstanding the Productivity Commission’s view that regulation should be removed, regulatory intervention is still required to address this risk and a mandatory code of conduct is supported by the ACCC at this time. Option 4, therefore, is not recommended.
+The current regulatory arrangements affect only four operators but place a significant regulatory burden on industry, amounting to a direct cost $602 000 per operator per year. These arrangements are outdated and inflexible, as noted by the Productivity Commission and key stakeholders, and place operational impediments on businesses if they are to comply with the requirements of the undertakings they have given to the ACCC. As such, Option 1 is not preferred. 
+The requirement for all port terminal operators to publish certain information on their website was supported by the Productivity Commission and by the ACCC in its recent decision on GrainCorp’s port terminal facility in Newcastle. It is also a requirement of the Act to trigger its repeal. As such, the Continuous Disclosure Rules, along with standard terms and prices, are the only provisions that will apply to exempt operators. 
+In recognition of the government’s commitment to deregulation and the evolving nature of Australia’s bulk wheat exporting market, a review of the Code of Conduct will begin within three years of its operation. The review will be required to consider evidence from the four preceding marketing years and provide advice on amendment or repeal.
+A code based on Option 3 is expected to provide the greatest net-benefit as it will ensure that all exporters can have access to critical infrastructure on a competitive basis, while removing operational impediments, reducing regulatory burden and providing a pathway to reduce regulatory costs where competition is present. 
+7. Implementation and review
+The implementation of Option 3, as described in Part 4, would be achieved by the Minister for Agriculture making a regulation under the CCA to prescribe a mandatory code of conduct for port access. This regulation would need to be in place by 1 October 2014 to automatically repeal the Wheat Export Marketing Act 2008. 
+As noted above, it is intended that a review of the regulation begin three years after commencement. The review must advise the Minister on whether the regulation should be amended or repealed and if repealed, the date on which it should be repealed and therefore remove industry-specific regulation of export wheat marketing.
+Post-script
+Following the provision of the Regulation Impact Statement for the Mandatory Code of Conduct for Grain Export Terminals to the decision maker, changes to the code were made which have an effect on regulatory costs. These changes relate to Option 3 of the Regulation Impact Statement. 
+Details
+The code, as described in Option 3 of the Regulation Impact Statement, puts in place safeguards against anti-competitive behaviours, while providing mechanisms for regulation to be significantly reduced where warranted. A copy of the code is available at www.agriculture.gov.au/portcode. 
+The code includes additional provisions which enable the Minister for Agriculture to exempt port terminal service providers that are cooperatives from certain provisions of the code, provided a range of conditions are met. These conditions are explicit and include that the Minister is satisfied that the exemption would benefit grain producers within the relevant grain catchment area. If, at any time, the Minister is not satisfied that the conditions for exemption are being met, he may revoke the exemption.
+In granting this exemption, the Minister of Agriculture must be satisfied that the cooperative has:
+(a) grain producer members who represent at least a two-thirds majority of grain producers within the grain catchment area for the port concerned; and
+(b) sound governance arrangements that ensure the business functions efficiently and that allow its members to influence the management decisions of the cooperative.
+The Australian Competition and Consumer Commission (ACCC) also has a role in exempting port terminal service providers, which is separate to the Minister’s determination.
+Impact on costings
+The ongoing average annual cost to comply with the code is estimated at less than $340 000 per business per year over ten years. If an operator is exempt from the more onerous requirements of the code, however, this cost is expected to decrease to less than $20 000 per business per year.
+Based on current industry activities, the Regulation Impact Statement assumed that four operators would receive an exemption in the first year of the code’s operation. As the exemption criteria have since been expanded, an additional exemption is likely. There is currently one cooperative-owned port terminal service provider that is likely to satisfy the additional criteria, thereby increasing the number of likely exempt-operators to five.
+As a result of the additional exemption, the total average collective cost of the code will be reduced to an estimated $1.78 million per year over ten years (see Table 5). Accordingly, the average annual regulatory saving, when compared to business as usual costs, is projected to total $0.63 million.  
+Table 5 Projected regulatory costs to businesses based on likely exemptions
+Scenario
+Average annual cost per business per year over 10 years
+Collective average annual cost for all businesses over 10 years 
+Five businesses exempt (at lowest level of regulation) and five businesses not exempt (at highest level of regulation
+$20,000 for 5 businesses
+$340,000 for 5 businesses
+$1.78 million
+
+Table 6 Updated summary of compliance costs for all options 
+Average Annual Regulatory Costs (from Business as usual)
+Change in costs ($ million)
+Business
+Community Organisations
+Individuals
+Total change in cost
+Option 1
+$0
+$0
+$0
+$0
+Option 2
+-$0.81
+$0
+$0
+-$0.81
+Option 3
+-$0.63
+$0
+$0
+-$0.63
+Option 4
+-$2.41
+$0
+$0
+-$2.41
+
+Cost offset ($million)
+Business
+Community Organisations
+Individuals
+Total by Source 
+Not required
+$0
+$0
+$0
+$0
+Are all new costs offset? 
+∗ yes, costs are offset    ∗ no, costs are not offset    Ρ  deregulatory, no offsets required
+Total (Change in costs - Cost offset) ($million)        -  $0.63
+
+ABARES (2013) Agricultural Commodity Statistics 2013 
+ Ibid
+ Ibid
+ Ibid
+ Productivity Commission (2010) Wheat Export Marketing Arrangements, Report no. 51, Canberra.
+ www.parliament.nsw.gov.au/prod/parlment/hansart.nsf/V3Key/LC19920507028# (accessed 28/07/14)
+ Ibid
+ www.reuters.com/article/2009/05/19/us-viterra-abb-idUSTRE54I6ZO20090519 (accessed 28/07/14)
+ See www.pc.gov.au/__data/assets/pdf_file/0010/99559/05-chapter2.pdf (accessed 28/07/14)
+ See Qube Holdings Ltd (2014) Media Release - Further Investment in Grain Rail Haulage and Infrastructure (accessed 17/04/14): www.qube.com.au/downloads/announcements/Further_Investment_in_Grain_ Rail_Haulage_and_Infrastructure.pdf
+ Ports circled in red have access undertakings in place (noting that ACCC recently approved a variation to GrainCorp’s undertaking for Newcastle that includes minimal requirements. Ports circled in yellow do not have access undertakings.
+ http://pc.gov.au/projects/inquiry/wheat-export 
+ Productivity Commission (2010) Wheat Export Marketing Arrangements, Report no. 51, Canberra.
+ Ibid
+ See  submissions to House of Representatives Rural Affairs and Transport Committee, Inquiry into the Wheat Export Marketing Amendment Bill 2012 www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees?url=arff/wheat/subs.htm
+ Wheat Export Marketing Act 2008 (as amended), s12 ‘Minister to approve code of conduct’
+ Productivity Commission (2010) Wheat Export Marketing Arrangements, Report no. 51, Canberra.
+ Australian Financial Review (2014) ‘Grain handlers stymied by port regulation’, 2 May 2014
+ The cost of Australia’s bulk grain export supply chains - A postscript HYPERLINK "http://www.aegic.org.au/media/30985/140704%20aegic_supply_chains_report_postscript_hr.pdf"www.aegic.org.au/media/30985/140704%20aegic_supply_chains_report_postscript_hr.pdf (accessed 28/07/14)
+ Productivity Commission (2013) National Access Regime, Inquiry Report no. 66, Canberra.
+ Australian Bureau of Agricultural and Resource Economics and Sciences (2013), Agricultural commodity statistics 2013, Canberra.
+ Sims, R (2011) Speech to the Western Australia Chamber of Commerce and Industry, 15 November 2011 (accessed 10/07 2014): https://www.accc.gov.au/system/files/Competition%20and%20regulating%20monopolies%3A%20some%20perspectives%20from%20the%20ACCC%20-%2015%20November.pdf
+ Wheat Export Marketing Amendment Act 2012.
+ Organisation for Economic Cooperation and Development (2010), OECD Economic Report – Australia.
+ Australian Competition and Consumer Commission (2014) ‘Decision to accept GrainCorp Operation Limited’s application to vary the 2011 port terminal services access undertaking’ (available from https://www.accc.gov.au/system/files/Decision%20to%20accept%20re%20GrainCorp%20Application%20to%20Vary%20%28for%20website%29.pdf)
+ VicStock at Albany is expected to be operational later in 2014.  See www.farmweekly.com.au/news/agriculture/agribusiness/general-news/albany-plans-still-on-track-vicstock/2696333.aspx?storypage=0 (accessed 28/07/14)
+  Wheat Export Marketing Amendment Bill, Revised Explanatory Memorandum, 2012
+ Australian Competition and Consumer Commission (2014) Decision to Accept (accessed 10/7/2014) http://www.accc.gov.au/regulated-infrastructure/wheat-export/graincorp-operations-ltd-2011/variation#decision-to-accept 
+ Wheat Export Marketing Act 2008 (as amended), Objects
+ Newcastle Agri Terminal, Qube Logistics (Newcastle), WA Chip and Pulp Co (Bunbury) and Willmar Gavilon (Brisbane)
+ Co-operative Bulk Handling Ltd (2013) National Access Regime: CBH submission to Productivity Commission (accessed 13/03/14): http://www.pc.gov.au/__data/assets/pdf_file/0020/123374/sub047-access-regime.pdf
+ Australian Competition and Consumer Commission, Wheat Export Projects (accessed 09/07/14) www.accc.gov.au/regulated-infrastructure/wheat-export
+ GrainCorp (2014) Submission to Port Code Consultation Paper (www.daff.gov.au/portcode); CBH Ltd (2013) 
+ See Note 17
+ Productivity Commission (2010) Wheat Export Marketing Arrangements, Report no. 51, Canberra.
+ Productivity Commission (2014) Submission to the Agricultural Competitiveness Taskforce. p.15-18.
+ See http://www.graintrade.org.au/node/499
+ Wheat Export Marketing Act 2008, s9 Access Test
+ ACCC (2014) Submission to the draft Mandatory Port Access Code of Conduct consultation process (accessed 2/06/2014) via www.daff.gov.au/__data/assets/pdf_file/0008/2397734/accc.pdf 
+ Productivity Commission (2013) National Access Regime, Inquiry Report no. 66, Canberra.
+ Productivity Commission (2013) National Access Regime, Inquiry Report no. 66, Canberra.
+ Australian Competition and Consumer Commission (2014) ‘Decision to accept GrainCorp Operation Limited’s application to vary the 2011 port terminal services access undertaking’ (available from https://www.accc.gov.au/system/files/Decision%20to%20accept%20re%20GrainCorp%20Application%20to%20Vary%20%28for%20website%29.pdf)
+ Australian Competition and Consumer Commission (2014) Reinvigorating Australia’s Competition Policy: ACCC submission to the Competition Policy Review, p. 111-114.
+ www.daff.gov.au/portcode
+ Productivity Commission (2013) National Access Regime, Inquiry Report no. 66, Canberra.
+ ACCC submission to the PC’s inquiry into the National Access Regime
+ Australian Competition and Consumer Commission (2014) Reinvigorating Australia’s Competition Policy: ACCC submission to the Competition Policy Review, p. 111-114.
+ http://graintrade.org.au/grain-industry-codes
+ Competition and Consumer (Industry Code—Port Terminal Access (Bulk Wheat)) Regulation 2014, Clause 5 Exempt service providers
+
+PAGE   \* MERGEFORMAT 1

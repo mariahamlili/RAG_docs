@@ -1,0 +1,122 @@
+We work with overseas governments to implement eCert exchanges for exports. This includes
+phytosanitary and sanitary certificates for food and agricultural exports.
+Our goal is for export certification to be completely paperless. You can find out more about the benefits
+of eCerts and how we develop new exchanges with trading partners.
+You can also find out about eCert for imports to Australia.
+If an eCert exchange has not been established, paper certification continues to be required.
+Our eCert for export system
+We have an eCert export application that allows us to send electronic certificates (eCerts) directly to
+importing government agencies.
+These eCerts are generated from the data entered into either:
+We are able to send eCerts to importing government agencies that have established exchanges with us.
+The importing government agency receives our eCerts directly into their importing eCert system and
+will use the eCerts for import clearance. This process may vary between trading partners.
+Parallel eCert exchange
+In a parallel exchange the eCert and paper certificate are issued together. The eCert can be used for
+clearance and/or verification, but the paper certificate should be used if there are issues accessing the
+eCert.
+Paperless eCert exchange
+In a paperless exchange the eCert alone is used for import clearance.
+eCert web view application
+We also have an eCert web view application for trading partners to view certificates through a secure
+log-in. This is usually used as a first step when building a system-to-system eCert connection. Paper
+certificates will still be issued, but importing government agencies may also verify the eCert online.
+How exporters use eCert
+Where a paperless eCert exchange is in place, the Australian exporter will be provided with a certificate
+number, which is found on the certificate extract. The certificate number must be provided to the
+overseas importer/client for use in the import clearance process.
+
+The extract is only to be used for commercial purposes. It’s not to be used as part of the import
+clearance process. The extract does not contain enough information for clearance, and is not an official
+government certificate.
+The eCert will display the all the required information to meet importing country requirements and
+legislation. The eCert is considered the original government certificate, due to the government-to-
+government exchange.
+Exporters and freight forwarders do not have access to view the eCert, due to the government-to-
+government exchange. You will be notified through your software provider or through NEXDOC when
+an eCert has been generated.
+Country-specific information about how eCert works with our trading partners is published in:
+Relevant market access advice (MAA) notices
+MAA listed on the Micor meat page
+eCert export trading partners
+We’ve set up eCert export exchanges with many of our trading partners. These include paperless,
+parallel and web view verification exchanges. Details of the status of these exchanges are provided in
+the tables below.
+Paperless eCert
+This table shows the trading partners and commodities where we have established a paperless eCert
+export exchange.
+Trading partner Phytosanitary Edible
+Meat
+Dairy
+Fish
+Skins &
+Hides
+Wool
+Honey
+Canada
+Paperless
+European Union
+(EU) 1
+Paperless
+Paperless Paperless
+Paperless
+Japan
+Paperless
+Paperless
+Paperless
+Paperless
+New Zealand
+Paperless
+Paperless
+Paperless Paperless
+Philippines
+Paperless
+Paperless
+Paperless
+United States of
+America
+Paperless
+1 Our paperless eCert exchange with the EU includes:
+EU member states: Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark,
+Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg,
+Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden
+• 
+•
+
+Countries in the EU single market: Iceland, Lichtenstein, Norway, Switzerland
+Parallel eCert
+This table highlights the trading partners and commodities where we have established a parallel eCert
+export exchange.
+Trading
+partner
+Phytosanitary Edible
+Meat
+Dairy Fish
+Skins &
+Hides
+Wool
+Inedible
+meat
+China
+Parallel
+Parallel
+Parallel Parallel Parallel
+Parallel Parallel
+Hong Kong
+Parallel
+Parallel Parallel
+Indonesia
+Parallel
+Parallel
+Parallel
+Korea, Republic
+of 2
+Parallel
+New Zealand
+Parallel
+Parallel
+Singapore
+Parallel
+2 We have a paperless exchange with Ministry of Food and Drug Safety only. However, paper
+certification is still provided for Animal and Plant Quarantine Agency.
+Source: https://www.agriculture.gov.au/biosecurity-trade/market-access-trade/ecert/export

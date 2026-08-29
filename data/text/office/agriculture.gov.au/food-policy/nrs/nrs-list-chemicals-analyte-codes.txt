@@ -1,0 +1,659 @@
+## Sheet1
+List of chemicals tested in National Residue Survey (NRS) programs 2019-2024
+National Residue Survey , Department of Agriculture, Fisheries and Forestery
+Definitions
+Chemical code | The code to be used by labs in the .csv file reporting residue results to the IMS
+Chemical | Descriptive analyte name as appearing in the Test Method
+Disclaimer
+Although the Australian Government has exercised due care and skill in the preparation and compilation of this publication, it does not warrant its accuracy, completeness, currency or suitability for any purpose. To the maximum extent permitted by law, the Australian Government disclaims all liability, including liability in negligence for any loss, damage, cost or expense incurred by persons as a result of accessing, using or relying on any of the information or data set out in this publication. Before relying on the material in any matters, users should carefully evaluate its accuracy, currency, completeness and relevance for the purposes intended, and should obtain any appropriate professional advice relevant to their particular circumstances.
+Analyte Code | Analyte | Comments
+STNOH | 16-hydroxystanozolol
+DPARD | 2,2-DPA (2,2-dichloropropionic acid)
+PRTCP | 2,4,6-trichlorophenol (prochloraz metabolite)
+DCDPA | 2,4-D
+DBDPA | 2,4-DB
+DMPF | 2,4-dimethylphenylformamide
+DMPMF | 2,4-dimethylphenyl-methylformamidine(met amitraz)
+METAD | 2,6-dimethylaniline (as metabolite of metazachlor)
+FLUBM | 2-amino flubendazole
+PHOPP | 2-phenylphenol (parent)
+FLUYM | 2-trifluoromethyl benzamide (metab of fluopyram)
+DIURM | 3,4-dichloroaniline (as metabolite of diuron)
+LNROM | 3,4-dichloroaniline (as metabolite of linuron)
+CBOOH | 3-hydroxy carbofuran
+ACPHT | acephate
+ACEPR | acepromazine
+ACEQP | acequinocyl (parent)
+ACMP | acetamiprid-A (parent) | for Animal programs only, where the residue definition is complex
+DACMP | acetamiprid-A N-demethyl | for Animal programs only, where the residue definition is complex
+ACMPD | acetamiprid-P | for Plant programs only, where the residue definition is acetamiprid
+ACFLF | acifluorfen
+ACRYL | acrylonitrile
+AFIDO | afidopyropen (parent)
+AMHDN | AHD
+ALBDP | albendazole (parent)
+ALBDS | albendazole sulfone
+ALBDA | albendazole sulfone amine
+ALBDX | albendazole sulfoxide
+ALCBP | aldicarb (parent)
+ALCSN | aldicarb sulfone
+ALCSX | aldicarb sulfoxide
+ALDRN | aldrin (HHDN)
+ALMET | aluminium
+AMETR | ametryn
+AMICA | amicarbazone (parent)
+AMIDA | amicarbazone desamino
+AMIHD | amicarbazone isopropyl-2-hydroxy-desamino
+AMPYR | aminopyralid
+AMISB | amisulbrom
+AMTRP | amitraz (parent)
+AMTRL | amitrole
+AXCLN | amoxicillin
+AMOZN | AMOZ
+APCLN | ampicillin
+AMPTM | amprolium
+SBMET | antimony
+AOZDN | AOZ
+APMYC | apramycin
+PCBAA | arochlor 1254
+PCBBB | arochlor 1260
+ASIOG | arsenic (inorganic)
+ASMET | arsenic (total)
+ATRZN | atrazine
+ABABA | avermectin B1a
+AVILM | avilamycin
+AZMTH | azamethiphos
+AZAPE | azaperone
+AZNPM | azinphos-methyl
+AZXSB | azoxystrobin
+BNLXL | benalaxyl
+BNTZN | bentazone
+BENZO | benzocaine
+BZVDF | benzovindiflupyr
+BPCLN | benzyl G penicillin
+BMTSN | betamethasone
+BICYP | bicyclopyrone (parent)
+BFZNP | bifenazate (parent)
+BFZNM | bifenazate diazene
+BFTRN | bifenthrin
+BITRN | bioresmethrin
+BTTNL | bitertanol
+BIXAP | bixafen (parent) | for Animal programs only, where the residue definition is complex
+BIXAM | bixafen desmethyl | for Animal programs only, where the residue definition is complex
+BIXRR | bixafen-P | for Plant programs only, where the residue definition is bixafen
+BXLZN | bixlozone
+BLDNA | boldenone 17-alpha
+BLDNB | boldenone 17-beta
+BSCLP | boscalid (parent)
+BSCLM | boscalid metabolite (chlorohydroxybiphenylnicotin)
+BRGRN | brilliant green
+BDFCM | brodifacoum
+BCLRD | bromacil
+BRMDL | bromadiolone
+BMXNL | bromoxynil
+BPRMT | bupirimate
+BUPIV | bupivacaine
+BUPFZ | buprofezin
+BTFCL | butafenacil
+BTRXM | butroxydim
+CDMET | cadmium
+CADRD | cadusafos
+CPTFL | captafol
+CPTAN | captan
+CARAZ | carazolol
+CRBYL | carbaryl
+CRBDM | carbendazim - 2-aminobenzimadazole
+CRBDP | carbendazim (parent)
+CBOFN | carbofuran
+CBOFP | carbofuran (parent)
+CBOXN | carboxin
+CRFZN | carfentrazone-ethyl
+CEFRD | ceftiofur
+CFTFR | ceftiofur (desfuroylceftiofur)
+CFXIM | cefuroxime
+CPLNM | cephalonium
+CLPCL | chloramphenicol
+CLNPL | chlorantraniliprole
+CHLOR | chlorate
+CHLDO | chlordane - oxychlordane
+CHLDC | chlordane (cis)
+CHLDT | chlordane (trans)
+CFPYR | chlorfenapyr
+CLFVP | chlorfenvinphos (sum of isomers)
+CFZRN | chlorfluazuron
+CLMQT | chlormequat
+CTLNL | chlorothalonil
+CHLPM | chlorpromazine
+CLOPP | chlorpropham
+CLPYF | chlorpyrifos
+CPMRD | chlorpyrifos-methyl
+CLSFN | chlorsulfuron
+ECMET | chlortetracycline (epi)
+CLPAR | chlortetracycline (parent)
+CLTLD | chlorthal-dimethyl
+CRMET | chromium
+CMTRL | cimaterol
+CMTHY | cinmethylin
+CIPRO | ciprofloxacin
+CLBRL | clenbuterol
+CLTDM | clethodim
+CLDFA | clodinafop acid
+CLDFP | clodinafop-propargyl
+CLFTZ | clofentezine
+CLMZN | clomazone
+CPYLD | clopyralid
+CLOQA | cloquintocet acid
+CLOQM | cloquintocet-mexyl (parent)
+CLORS | clorsulon
+CLSTL | closantel
+CLTDN | clothianidin
+CXCLN | cloxacillin
+CUMET | copper
+CMPHP | coumaphos (parent)
+CMPHM | coumaphos oxygen-analogue
+CTLYL | coumatetralyl
+CRYVL | crystal violet
+CYNZN | cyanazine
+CYANT | cyantraniliprole
+CYCLA | cyclaniliprole
+CFRNR | cyfluthrin (sum of isomers)
+CHRNR | cyhalothrin (sum of isomers)
+CPTRR | cypermethrin (sum of isomers)
+CYNZL | cyproconazole
+CYPNL | cyprodinil
+CYRMZ | cyromazine
+DANOF | danofloxacin
+DDDPP | DDD (p,p')
+DDEPP | DDE (p,p')
+DDTOP | DDT (o,p')
+DDTPP | DDT (p,p')
+DECOQ | decoquinate
+DLMTR | deltamethrin
+DEMNS | demeton-S
+DEMSN | demeton-S sulfone
+DEMSX | demeton-S sulfoxide
+DRQTL | derquantel
+DMTSN | dexamethasone
+DIFTP | diafenthiuron (parent)
+DIFCM | diafenthiuron carbodiimide metabolite
+DIFUM | diafenthiuron urea metabolite
+DIAZN | diazinon
+DCMBA | dicamba
+DICBN | dichlobenil
+DICPP | dichlorprop acid (unconjugated)
+DICPR | dichlorprop-P
+DICLV | dichlorvos
+DICLA | diclazuril
+DCLFP | diclofop-methyl
+DCFOP | dicofol (o,p'-)
+DCFPP | dicofol (p,p'-)
+DCYLP | dicyclanil (parent)
+DCYLM | dicyclanil triaminopyridyl
+DLDRN | dieldrin (HEOD)
+DNSTL | dienoestrol
+DESBL | diethylstilboestrol
+DFNCM | difenacoum
+DFCZL | difenoconazole
+DFTHL | difethialone
+DIFLO | difloxacin
+DFBZN | diflubenzuron
+DFLCN | diflufenican
+DSMYC | dihydrostreptomycin
+DMTHP | dimethenamid-P
+DIMTD | dimethoate (parent)
+DMTMP | dimethomorph (sum of E and Z isomers)
+HMMNP | dimetridazole (parent)
+DINOT | dinotefuran
+DPCB | Dioxin-like PCBs Upper Bound
+DIOFU | Dioxins+Furans Upper Bound
+DIOXN | Dioxins+Furans+Dioxin-likePCBs Upper Bound
+DPLMN | diphenylamine
+DIQAT | diquat
+DSFTP | disulfoton parent
+DSFSN | disulfoton sulfone
+DSFSX | disulfoton sulfoxide
+DTHNN | dithianon
+DTCRB | dithiocarbamates
+DIURP | diuron (parent)
+DODIN | dodine
+DORMC | doramectin
+DXCYC | doxycycline
+EMABA | emamectin B1a
+ENSFA | endosulfan alpha
+ENSFB | endosulfan beta
+ENSFS | endosulfan sulfate
+ENDRK | endrin (Delta-keto)
+ENDRP | endrin (parent)
+ENROF | enrofloxacin
+EPXZL | epoxiconazole
+EPRMC | eprinomectin B1a
+EPTCA | EPTC
+ERMYC | erythromycin
+ETHIN | ethion
+ETFMS | ethofumesate
+ETHPP | ethoprophos
+SPINJ | ethyl-spinosyn J (major)
+SPINL | ethyl-spinosyn L (minor)
+ETFPX | etofenprox
+ETXZL | etoxazole
+ETDZL | etridiazole
+FMPHR | famphur
+FMPHO | famphur oxygen-analogue
+FNMPP | fenamiphos (parent)
+FNMPN | fenamiphos sulfone
+FNMPF | fenamiphos sulfoxide
+FNRML | fenarimol
+FNBDP | fenbendazole (parent)
+FNBDM | fenbendazole sulfone
+FENBU | fenbuconazole
+FNBNO | fenbutatin oxide
+FENHM | fenhexamid
+FENTR | fenitrothion
+FNXPE | fenoxaprop-ethyl (sum of isomers)
+FNXCB | fenoxycarb
+FPYRA | fenpyrazamine
+FNPXM | fenpyroximate
+FNTHP | fenthion (parent)
+FNTHO | fenthion oxygen-analogue
+FNTOS | fenthion oxygen-analogue sulfone
+FNTOX | fenthion oxygen-analogue sulfoxide
+FNTHS | fenthion sulfone
+FNTHX | fenthion sulfoxide
+FNVLR | fenvalerate (sum of isomers)
+FPRNP | fipronil (parent)
+FPRNA | fipronil sulfenyl
+FPRNB | fipronil sulphonyl
+FPRNC | fipronil trifluormethyl
+FLMPP | flamprop-M-methyl
+FLCMF | flocoumafen
+FLOAA | flonicamid-A (parent) | for Animal programs only, where the residue definition differs to the Plant residue definition
+FLONP | flonicamid-P (parent) | for Plant programs only, where the residue definition differs from the Animal residue definition
+FLASM | florasulam
+FLPCL | florfenicol
+FLPRP | florpyrauxifen-benzyl (parent)
+FLPRM | florpyrauxifen-benzyl XDE-848 acid metab
+FLZFP | fluazifop-p-butyl
+FLZNM | fluazinam
+FLZRN | fluazuron
+FLUBP | flubendazole (parent)
+FLBDP | flubendiamide (parent)
+FLUBD | flubendiamide iodopthalimide
+FLDXP | fludioxonil (parent)
+FLUES | fluensulfone
+FLUMQ | flumequine
+FLUME | flumethasone
+FLMTR | flumethrin
+FLMSM | flumetsulam
+FLXZN | flumioxazin
+FLNXN | flunixin
+FLUPI | fluopicolide
+FLUYP | fluopyram-A (parent) | for Animal programs only, where the residue definition is complex
+FLUOP | fluopyram-P | for Plant programs only, where the residue definition is fluopyram
+FLUPR | flupyradifurone
+FLQZL | fluquinconazole
+FLRLN | fluralaner
+FXYPR | fluroxypyr
+FSLZL | flusilazole
+FLTFL | flutriafol
+FLUV | fluvalinate (sum of isomers)
+FLUXA | fluxapyroxad
+FMSFN | fomesafen
+FCLFN | forchlorfenuron
+GATIF | gatifloxacin
+GTMYC | gentamycin
+GLFSP | glufosinate ammonium (as glufosinate free acid)
+GPHSM | glyphosate - AMPA
+GPHSP | glyphosate (parent)
+HALXF | halauxifen-methyl-P | for Plant programs only, where the residue definition differs from the Animal residue definition
+HLFGN | halofuginone
+HSLFM | halosulfuron-methyl
+HLXFP | haloxyfop
+HCBRD | HCB (hexachlorobenzene)
+HCHAA | HCH (alpha)
+HCHBB | HCH (beta)
+HCHDD | HCH (delta)
+HPCLP | heptachlor (parent)
+HPCLM | heptachlor epoxide
+HPCLX | heptachlor epoxide (endo)
+HXCZL | hexaconazole
+HXSTL | hexoestrol
+HXYTX | hexythiazox
+HMMNI | HMMNI (as metabolite of dimetridazole)
+HMMRO | HMMNI (as metabolite of ronidazole)
+MTDZM | hydroxymetronidazole
+IMZLL | imazalil
+IMZMX | imazamox
+IMZPC | imazapic
+IMZPR | imazapyr
+IMZQN | imazaquin
+IMZTR | imazethapyr
+IMDCA | imidacloprid (parent)
+IMDCH | imidacloprid 5-hydroxy
+IMDCO | imidacloprid olefin
+IMIDO | imidocarb
+INDAZ | indaziflam
+INDXC | indoxacarb
+IDSFN | iodosulfuron-methyl
+IXYNL | ioxynil
+IPCZL | ipconazole
+IPRDN | iprodione
+ISOFP | isofetamid-A (parent) | for Animal programs where the residue definition is complex
+ISOPT | isoprothiolane
+ISOPY | isopyrazam
+ISXBN | isoxaben
+ISXFP | isoxaflutole (parent)
+ISXFM | isoxaflutole metabolite
+IVEMC | ivermectin H2B1a
+KTPFN | ketoprofen
+KSXMM | kresoxim-methyl
+LSLCD | lasalocid
+PBMET | lead
+LCYVL | leucocrystal violet
+LMAGR | leucomalachite green
+LVMSL | levamisole
+LEVOF | levofloxacin
+LIGNO | lignocaine
+LCMYC | lincomycin
+LINDN | lindane (gamma-HCH)
+LNROP | linuron (parent)
+LOMEF | lomefloxacin
+MBTRL | mabuterol
+MDRMN | maduramicin
+MALGR | malachite green
+MLTHN | malathion (maldison)
+MANDE | mandestrobin
+MARBO | marbofloxacin
+MCPAA | MCPA
+MCPBA | MCPB
+MBNDZ | mebendazole
+MBNOH | mebendazole, 5-hydroxy-
+MFPYP | mefenpyr-diethyl-P (parent) | for Plant programs only, where the residue definition differs from the Animal residue definition
+MFTFC | mefentrifluconazole
+MELMN | melamine
+MELOX | meloxicam
+MEPIV | mepivacaine
+HGMET | mercury (total)
+MSTRN | mesotrione
+METAF | metaflumizone
+MTLXL | metalaxyl
+MTALD | metaldehyde
+METMI | metamitron
+METAP | metazachlor-A (parent) | for Animal programs only, where the residue definition differs to the Plant residue definition
+METAE | metazachlor-A ESA | for Animal programs only, where the residue definition differs to the Plant residue definition
+METAO | metazachlor-A OXA | for Animal programs only, where the residue definition differs to the Plant residue definition
+METPE | metazachlor-P ESA | for Plant programs only, where the residue definition differs from the Animal residue definition
+METPO | metazachlor-P OXA | for Plant programs only, where the residue definition differs from the Animal residue definition
+METPP | metazachlor-P PRO | for Plant programs only, where the residue definition differs from the Animal residue definition
+MTBTZ | methabenzthiazuron
+MTHCF | methacrifos
+MTMPS | methamidophos
+MTDRL | methandriol
+MTHDN | methidathion
+MTHCP | methiocarb (parent)
+MTHSN | methiocarb sulfone
+MTHSX | methiocarb sulfoxide
+TDCRM | methomyl (as metabolite of thiodicarb)
+MTMYP | methomyl (parent)
+MTPRN | methoprene
+MTXCL | methoxychlor
+MTOXF | methoxyfenozide
+MTBLU | methylene blue
+MPRED | methylprednisolone
+MTCLR | metolachlor
+MTSLM | metosulam
+METRA | metrafenone
+MTBZN | metribuzin
+MTDZP | metronidazole (parent)
+MTSFM | metsulfuron-methyl
+MVNPH | mevinphos
+MILBA | milbemycin A3
+MILBB | milbemycin A4
+MIREX | mirex
+MNNSN | monensin
+MONPS | monepantel sulphone
+MONCR | monocrotophos
+MRNTL | morantel
+MOXDC | moxidectin
+MOXIF | moxifloxacin
+MQCAM | MQCA (olaquindox marker residue)
+MYBTL | myclobutanil
+NALDX | nalidixic acid
+NPPMD | napropamide
+NRSIN | narasin
+NEMYC | neomycin
+MCBZN | nicarbazin (4,4'-dinitrocarbanilide)
+NIPPA | N-isopropylaniline (as metabolite of propachlor)
+NITRO | nitroxynil
+NORFO | norfloxacin
+NFLRZ | norflurazon
+NRTSA | nortestosterone 17-alpha
+NRTSB | nortestosterone 17-beta
+NOVAL | novaluron
+OLEYC | oleandomycin
+OMTHO | omethoate
+DOMTH | omethoate (as metabolite of dimethoate)
+ORBIF | orbifloxacin
+ORYZL | oryzalin
+OXDXL | oxadixyl
+OXFDZ | oxfendazole (fenbendazole sulfoxide)
+OXBDZ | oxibendazole
+OXOLI | oxolinic acid
+OXYCL | oxyclozanide
+OXYFL | oxyfluorfen
+OXYPH | oxyphenbutazone
+EOMET | oxytetracycline (epi)
+OTPAR | oxytetracycline (parent)
+PCBZL | paclobutrazol
+PRDCB | paradichlorobenzene
+PRQAT | paraquat
+PRTHN | parathion
+PRTHM | parathion-methyl
+PARBL | parbendazole
+PATUL | patulin
+PC101 | PCB#101
+PC138 | PCB#138
+PC153 | PCB#153
+PC180 | PCB#180
+PCB28 | PCB#28
+PCB52 | PCB#52
+PNCZL | penconazole
+PDMTL | pendimethalin
+PNFLF | penflufen
+PENCB | pentachlorobenzene
+PTHPY | penthiopyrad
+PMTRN | permethrin (sum of isomers)
+PHNTR | phenothrin (sum of isomers)
+PYBTZ | phenylbutazone
+PHRTP | phorate (parent)
+PHRSN | phorate oxygen analogue sulfone
+PHRSX | phorate oxygen analogue sulfoxide
+PHRTO | phorate oxygen-analogue
+PHRTS | phorate sulfone
+PHRTX | phorate sulfoxide
+PHSMP | phosmet (parent)
+PHSMM | phosmet oxygen-analogue
+PHOSU | phosphide unreacted
+PHOSA | phosphine absorbed
+PCLRM | picloram
+PCLFN | picolinafen-P | for Plant programs only, where the residue definition differs from the Animal residue definition
+PINOX | pinoxaden (parent)
+PPBUT | piperonyl butoxide
+PRCRP | pirimicarb (parent)
+PRCRD | pirimicarb-demethyl
+PRCRF | pirimicarb-demethylformamido
+PRPSM | pirimiphos-methyl
+PRZQT | praziquantel
+PROCN | procaine
+PROCP | prochloraz (parent)
+PRCYM | procymidone
+PRFFS | profenofos
+PHXDP | prohexadione (parent)
+PMTYN | prometryn
+PPIPA | propachlor (parent)
+PROPA | propamocarb
+PPRGT | propargite
+PPNZL | propiconazole
+PROPM | propionylpromazine
+PYZMD | propyzamide
+PQNZP | proquinazid-A (parent) | for Animal programs only, where the residue definition differs from the Plant residue definition
+PRSCB | prosulfocarb
+PRTZP | prothioconazole (parent)
+PRTZO | prothioconazole 3 hydroxy desthio
+PRTZH | prothioconazole 4 hydroxy desthio
+PRTZD | prothioconazole desthio
+PRTFS | prothiofos
+PYDIF | pydiflumetofen
+PYMTZ | pymetrozine
+PYCFS | pyraclofos
+PYSBA | pyraclostrobin-A | for Animal programs only, where the residue definition differs from the Plant residue definition
+PYSBN | pyraclostrobin-P | for Plant programs only, where the residue definition differs from the Animal residue definition
+PYRAP | pyraflufen-ethyl (parent)
+PYSFP | pyrasulfotole (parent)
+PYSFM | pyrasulfotole desmethyl
+PYTCA | pyrethrins - cinerin I
+PYTCB | pyrethrins - cinerin II
+PYTJA | pyrethrins - jasmolin I
+PYTJB | pyrethrins - jasmolin II
+PYTBA | pyrethrins - pyrethrin I
+PYTPB | pyrethrins - pyrethrin II
+PYDBN | pyridaben
+PYRML | pyrimethanil
+PYRIO | pyriofenone
+PYPXF | pyriproxyfen
+PYRSP | pyroxasulfone-P (parent) | for Plant programs only, where the residue definition differs from the Animal residue definition
+PYRSM | pyroxasulfone-P metabolite | for Plant programs only, where the residue definition differs from the Animal residue definition
+PYROX | pyroxsulam
+QCAMM | QCA (carbadox marker residue)
+QUIN | quinoxyfen
+QNTZS | quintozene - methyl pentachlorophenyl sulphide
+QNTZA | quintozene - pentachloroaniline
+QNTZP | quintozene (parent)
+QZFOQ | quizalofop free acid (propaquizafop metab)
+QZFPM | quizalofop free acid (quizalofop-ethyl metabolite)
+QZFTM | quizalofop free acid (quizalofop-P-tefuryl metab)
+QZFPP | quizalofop-ethyl (parent)
+QZFTT | quizalofop-P-tefuryl (parent)
+RCTPM | ractopamine
+RFXND | rafoxanide
+RNDRD | ronidazole (parent)
+SAFIP | saflufenacil isopropylsulfamide
+SAFUU | saflufenacil urea
+SAFLA | saflufenacil-A | for Animal programs only, where the residue definition differs from the Plant residue definition
+SAFLP | saflufenacil-P (parent) | for Plant programs only, where the residue definition differs from the Animal residue definition
+SLBTL | salbutamol
+SLNMY | salinomycin
+SARAF | sarafloxacin
+SEDAX | sedaxane
+SEMET | selenium
+SEMCZ | SEM
+SMDMY | semduramycin
+SXYDP | sethoxydim (parent)
+SIMZN | simazine
+SPNAA | spinosyn A
+SPNDD | spinosyn D
+SPTMP | spirotetramat (parent)
+SPMET | spirotetramat metabolite
+SPRRP | spiroxamine-A (parent) | for Animal programs only, where the residue definition differs from the Plant residue definition
+SPRXM | spiroxamine-P | for Plant programs only, where the residue definition differs from the Animal residue definition
+STNZL | stanozolol
+SPMYC | streptomycin
+SLCZN | sulfachloropyridazine
+SLDZN | sulfadiazine
+SLMOX | sulfadimethoxine
+SLDMD | sulfadimidine (sulfamethazine)
+SLDXN | sulfadoxine
+SLFZL | sulfafurazole
+SLMRZ | sulfamerazine
+SLMXL | sulfamethoxazole
+SLMDZ | sulfamethoxydiazine (sulfameter)
+SLPYR | sulfamethoxypyridazine
+SLPRD | sulfapyridine
+SLQXL | sulfaquinoxaline
+SLTZL | sulfathiazole
+SLXZL | sulfatroxazole
+SSFRP | sulfosulfuron (parent)
+SXFLR | sulfoxaflor
+BICYM | SYN503780 (bicyclopyrone metab)
+ZRLAB | taleranol (beta-zearalanol)
+TFLVN | tau-fluvalinate
+TBCDZ | tebuconazole
+TBFZD | tebufenozide
+TFPYD | tebufenpyrad
+TMPSP | temephos (parent)
+TMPSM | temephos sulfoxide
+TRBFP | terbufos (parent)
+TRBON | terbufos oxygen analogue sulfone
+TRBOX | terbufos oxygen analogue sulfoxide
+TRBFO | terbufos oxygen-analogue
+TRBFM | terbufos sulfone
+TRBFF | terbufos sulfoxide
+TRBTH | terbuthylazine
+TBTRN | terbutryn
+ETMET | tetracycline (epi)
+TTPAR | tetracycline (parent)
+TTDFN | tetradifon
+TTNRP | tetraniliprole
+TFNAA | TFNA-A metabolite of flonicamid | for Animal programs only, where the residue definition differs from the Plant residue definition
+TFNA | TFNA-P metabolite of flonicamid | for Plant programs only, where the residue definition differs from the Animal residue definition
+TFNG | TFNG-P metabolite of flonicamid | for Plant programs only, where the residue definition differs from the Animal residue definition
+THBDM | thiabendazole 5-hydroxy | for Animal programs only, where the residue definition is complex
+THBDP | thiabendazole-A (parent) | for Animal programs only, where the residue definition is complex
+TBZPP | thiabendazole-P | for Plant programs only, where the residue definition is thiabendazole
+TCLPD | thiacloprid
+TMTXP | thiamethoxam (parent)
+TMPCL | thiamphenicol
+THDZN | thidiazuron
+TDCRP | thiodicarb (parent)
+TFNAP | tiafenacil-A (parent) | for Animal programs only, where the residue definition is complex
+TFNCP | tiafenacil-P | for Plant programs only, where the residue definition is tiafenacil
+TLMCN | tilmicosin
+TCLFM | tolclofos methyl
+TLFMA | tolfenamic acid
+TOLTP | toltrazuril (parent)
+TOLSN | toltrazuril sulfone
+TOLSX | toltrazuril sulfoxide
+TOPRA | topramezone
+TOXAP | toxaphene
+TKXYD | tralkoxydim
+TBLNA | trenbolone 17-alpha
+TBLNB | trenbolone 17-beta
+TRDFN | triadimefon (parent)
+TRDMN | triadimenol
+TRDTR | triadimenol (as metabolite of triadimefon)
+TRILP | triallate (parent)
+TRIAM | triamcinolone
+TRIAC | triamcinolone acetonide
+TSLFN | triasulfuron
+TRZPH | triazofos
+TRBNR | tribenuron-methyl
+TRCFN | trichlorfon
+TCDZM | triclabendazole keto
+TRPYR | triclopyr
+TRFLP | trifloxystrobin (parent)
+TRFLM | trifloxystrobin acid metabolite
+TFDMZ | trifludimoxazin
+TRFMR | triflumuron
+TFRLN | trifluralin
+TRFRN | triforine
+TRIMP | trimethoprim
+TRXAM | trinexapac acid metabolite
+TRXPP | trinexapac-ethyl (parent)
+TRTDZ | triticonazole
+TLMYC | tulathromycin | for use when tulathromycin tested as full residue definition form
+TLMYP | tulathromycin (parent) | for use when tulathromycin parent only tested
+TYLSN | tylosin
+VBLUB | victoria blue B
+VBLUR | victoria blue R
+VBLUO | victoria pure blue BO
+VNCLZ | vinclozolin
+VINCL | vinyl chloride
+VIRGM | virginiamycin
+WRFRN | warfarin
+XYLAZ | xylazine
+ZRLAN | zearalanone
+ZRLEA | zearalenol alpha
+ZRLEB | zearalenol beta
+ZRLEN | zearalenone
+ZRLAA | zeranol (alpha-zearalanol)
+ZLPTL | zilpaterol
+ZNMET | zinc

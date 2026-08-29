@@ -1,0 +1,43 @@
+The exposure and sensitivity of Australian farms to drought
+
+Authors: Neal Hughes, Kevin Burns, Wei Ying Soh and Kenton Lawson
+
+![](https://www.agriculture.gov.au/sites/default/files/images/drought-flowchart-low-res-1-01.png)
+
+Summary
+
+Measuring drought risk
+
+In this report farm drought risk refers to the difference in farm outcomes (e.g., profits) between ‘normal’ and ‘drought’ conditions. Farm drought risk depends both on a farm’s exposure to climate variability and the sensitivity of its production systems to that variability.
+
+ABARES farmpredict is a bio-economic model of Australian broadacre farms which can simulate detailed farm outcomes (including production and profitability) at an individual farm business level conditional on prevailing climate conditions and commodity prices (Hughes et al. 2019a). The model based on a sample of over 40,000 farm observations drawn from ABARES broadacre farm survey, each linked to site-specific climate data (such as rainfall, temperature, and soil moisture). In this study, farmpredict is used to isolate the effects of climate variability from other factors that also affect farm outcomes, such as prices, technological change or farm characteristics.
+
+Using farmpredict, drought risk for each farm is measured as the difference in outcomes between a ‘drought’ year (1-in-10 poor climate year) and ‘normal’ year (5-in-10 / median year). Drought risk is assessed using two farm financial measures: farm profit at full equity (farm profit adjusted for change in stocks) and household income (farm cash income plus off-farm income).
+
+Drivers of drought risk
+
+Farm drought risk varies significantly across industries, with cropping farms more sensitive to drought than livestock farms. Crop yields are directly linked to weather conditions, leading to large, immediate declines in revenue during drought years. In contrast, livestock producers can smooth climate impacts over multiple years through increased turn-off (sales) of livestock in drought years, which helps maintain revenues in the short-term and offset lower prices received and higher costs. As a result, farm cropping intensity (the percentage of land devoted to crops) is a key driver of drought sensitivity and risk.
+
+Previous research has shown that larger farms tend to be more profitable than smaller farms. This study shows that farm profitability and incomes of larger farms are also less sensitive to drought than small farms. Similarly, farms with younger (less than 50 years of age) managers are also generally less sensitive to drought.
+
+The results reveal differences between larger, more ‘profit driven’ farm businesses and smaller farms. These smaller farms tend to have older managers and also rely on off-farm income to a greater degree. For these farms, profits are highly sensitive to drought, but household income is relatively stable due to their relatively high off-farm incomes.
+
+Agricultural commodity prices can also affect farm profit and income drought sensitivity through their effects on farm incomes and behaviour. In years of high crop prices, drought risk tends to increase as farmers plant more crops and apply more inputs in order to maximise potential profits. However, this also leaves farms more exposed to drought risk. Conversely, in years of high livestock prices farms are less sensitive to drought as any forced livestock sales generate higher revenue.
+
+Drought risk by region
+
+This study presents estimates of drought risk by ABARES farm survey regions. In general, regions with both a higher proportion of cropping activity (high sensitivity) and more variable climates (high exposure) tend to display greater drought risk. Some of the regions with the highest drought risk include central New South Wales, northern Victoria, as well as the South Australia Eyre Peninsula and the Western Australia North and East Wheat Belt regions.
+
+Other regions were identified as having relatively low household incomes, but limited drought risk (small differences in outcomes between ‘normal’ and ‘drought’ years’) including the New South Wales Coastal, Queensland South Coastal, and Queensland Central North regions.
+
+Trends in drought risk
+
+This report also presents trends in farm drought risk between 1988–89 and 2018–19 for different farming sectors, holding drought exposure fixed at the farm level (based on the climate conditions observed between 1950–51 and 2019–20). These results do not reflect changes in climate over time, but rather long-term changes in farm technology and in farm characteristics (e.g., size, location, mix of cropping and livestock) which affect farm sensitivity to drought.
+
+Over the period since 1988–89 improvements in technology and increases in farm scale have led to significant increases in average farm productivity and profitability. However, the results also show that farm drought risk has increased slightly over this period, driven in part by a trend towards greater cropping activity (a shift toward intensive crop farming and away from more diversified mixed cropping-livestock farm systems). In the cropping sector, farm drought risk has decreased in recent years, due largely to improvements in technology, along with some shifts in the location of cropping activity. Farm household income drought risk has remained stable over time, with increases in farm size helping to offset more variable farm profits.
+
+Limitations and future research
+
+The methodology developed for this study, drawing on the farmpredict model, offers a detailed understanding of the effects of drought on farms and the key trends and drivers. However, there remain some important limitations. Firstly, while the approach could be used to measure future trends in drought risk and sensitivity, it would not be able to isolate the effects of government programs (such as those related to the Future Drought Fund). In practice, this would require with more targeted analysis tracking the outcomes of specific interventions (this remains a potential subject for future research).
+
+Further, the drought resilience of farming communities depends not just on the sensitivity of farm outcomes, but also on regional adaptive capacity, including factors like the strength of the local economy, social networks, and access to services. Future research could examine community resilience by extending the methodology to include economic and social adaptive capacity indicators.

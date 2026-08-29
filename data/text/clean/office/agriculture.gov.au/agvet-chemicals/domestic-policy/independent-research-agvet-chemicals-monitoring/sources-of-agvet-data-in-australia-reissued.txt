@@ -1,0 +1,751 @@
+Sources of AgVet Data (Monitoring) in Australia
+
+A consideration of monitoring information, gaps in available data and future monitoring requirements.
+
+Reference ID: C09940
+
+Report Submitted To:
+
+Agvet Chemical Review and Projects Section
+
+Agvet Chemicals and Forestry
+
+GPO Box 858, Canberra ACT 2601
+
+28 October 2022
+
+Prepared by:
+
+Chris Lee-Steere
+
+Australian Environment Agency Pty Ltd
+
+Dr Rohan Rainbow
+
+Crop Protection Australia
+
+© Commonwealth of Australia 2023
+
+Ownership of intellectual property rights
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International License except content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+Cataloguing data
+
+This publication is available at agriculture.gov.au/agriculture-land/farm-food-drought/ag-vet-chemicals/domestic-policy.
+
+GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web agriculture.gov.au
+
+The content of this publication does not constitute advice to any third party. Although due care and skill has been applied in the preparation and compilation of the information and data in this publication, no reliance may be placed on it by any other party. No representation expressed or implied is made as to the currency, accuracy, reliability, completeness or fitness for purpose of the information contained in this publication. The reader should rely on its own inquiries to independently confirm any information and comment on which they may intend to act.
+
+The Commonwealth of Australia, its officers, employees, agents and the other parties involved in creating this report disclaim, to the maximum extent permitted by law, responsibility to any other party for any liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying upon any of the information or data in the publication.
+
+Acknowledgements
+
+Acknowledgement of Country
+
+We acknowledge the Traditional Custodians of Australia and their continuing connection to land and sea, waters, environment and community. We pay our respects to the Traditional Custodians of the lands we live and work on, their culture, and their Elders past and present.
+
+Amendments
+
+The Australian Environment Agency Pty Ltd reissued this document on 30 May 2023 to reflect comments received from the Queensland Government following its publication. The third paragraph on page 48 was revised to more accurately reflect the work of the Great Barrier Reef Catchment Loads Monitoring Program (GBRCLMP). Corresponding changes were also made to the summary of the Reef 2050 Water Quality Improvement Plan on page 76 of the report.
+
+Tables
+
+Table 1 National sediment sources	7
+
+Table 2 Queensland surface/groundwater sources	7
+
+Table 3 Queensland urban stormwater sources	8
+
+Table 4 Queensland drinking water sources	9
+
+Table 5 Queensland sediment sources	9
+
+Table 6 New South Wales surface/groundwater sources	10
+
+Table 7 New South Wales urban stormwater sources	10
+
+Table 8 New South Wales drinking water sources	11
+
+Table 9 New South Wales soil sources	11
+
+Table 10 Victorian surface/groundwater sources	11
+
+Table 11 Victorian urban stormwater sources	12
+
+Table 12 Victorian drinking water sources	13
+
+Table 13 Victorian soil sources	13
+
+Table 14 Victorian sediment sources	13
+
+Table 15 Victorian wildlife sources	14
+
+Table 16 Tasmanian surface/groundwater sources	14
+
+Table 17 Tasmanian wildlife sources	15
+
+Table 18 South Australian surface/groundwater sources	15
+
+Table 19 South Australian sediment sources	15
+
+Table 20 Western Australian surface/groundwater sources	16
+
+Table 21 Western Australian drinking water sources	16
+
+Table 22 Western Australian sediment sources	16
+
+Table 23 Western Australian wildlife sources	17
+
+Table 24 Summary of types of data held for different matrices from identified data sources	47
+
+Table 25 Summary of identified data sources containing produce residues monitoring by region	49
+
+Table 26 Summary of identified data sources containing environmental monitoring by region	49
+
+Table 27 Frequency of pesticides analysed for in data sources where n ≥10	50
+
+Table 28 Criteria for assessing reliability of data sources	58
+
+Table 29 Considerations for assessing relevance and representativeness of data sources	59
+
+Introduction
+
+The agricultural and veterinary (agvet) chemicals regulatory system aims to ensure that the agvet chemicals used in Australia are safe and effective. The department is currently investigating how they can better monitor the effectiveness of the agvet chemicals regulatory system and provide assurance that the controls on these products are effective and not leading to poor environmental or human health outcomes.
+
+The project consists of several stages:
+
+Identification of relevant sources of data on the use and fate of agvet chemicals in Australia;
+
+Assessment of the data sources to determine how relevant they are to the department’s requirements;
+
+Identification of gaps in the sources of data; and
+
+Provision of final recommendations to the department on which data sources should be included and where new data gathering programs should be developed.
+
+Initial identification of data sources
+
+The report covering identification of data sources in Australia is provided as Appendix 1: Research and analysis of pesticides and veterinary medicines data sources. In some cases, requests for information were sent to several areas within one overall organisation. The data sources that were considered acceptable for this project following assessment (see Section 3) are listed here. The full details for the monitoring programs and the links to the data sources are provided in Appendix 2: Reliability and representativeness of pesticides and veterinary medicines identified data sources.
+
+2009/2010 Pesticide Residue Water Sampling and Analysis Program: Emigrant Creek and Wilsons River Water Supply Systems.
+
+Allinson G, Allinson M, Myers J and Pettigrove V. Use of novel rapid assessment tools for efficient monitoring of micropollutants in urban storm water (SWF Project 8OS – 8100). Centre for Aquatic Pollution Identification Management (CAPIM). 2014. The University of Melbourne, Parkville, Victoria 3025, Australia.
+
+Allinson G, Zhang P, Bui A, Allinson M, Rose G, Marshall S and Pettigrove V. Pesticide and trace metal occurrence and aquatic benchmark exceedances in surface waters and sediments of urban wetlands and retention ponds in Melbourne, Australia. Environ Sci Pollut Res Int. July 2015; 22(13):10214-26.
+
+Allinson M, Zhang P, Bui A, Muyers J, Pettigrove V, Rose G, Salzman S, Walters R and Allinson G. Herbicides and trace metals in urban waters in Melbourne, Australia (2011–12): concentrations and potential impact. Environ Sci Pollut Res 2017. 24, 7274–7284.
+
+Allinson G, Allinson M, Bui A. et al. Pesticide and trace metals in surface waters and sediments of rivers entering the Corner Inlet Marine National Park, Victoria, Australia. Environ Sci Pollut Res 2016. 23, 5881–5891.
+
+Allinson G, Bui A, Zhang P. et al. Investigation of 10 Herbicides in Surface Waters of a Horticultural Production Catchment in Southeastern Australia. Arch Environ Contam Toxicol 2014. 67, 358–373.
+
+Burdekin Shire Council – Drinking Water Quality Management Plan.
+
+Campbell G, Mannetje A, Keer S, Eaglesham G, Wang X, Lin C, Hobson P, Toms L-M, Douwes J, Thomas K, Mueller J and Kaserzon S. Characterisation of glyphosate and AMPA concentrations in the urine of Australian and New Zealand populations. Science of the Total Environment. 15 November 2022. Vol 857, 157585.
+
+Catchment and Drinking Water Quality Micro Pollutant Monitoring program – Passive Sampling. Report 10 – Summer 2019. Queensland Alliance for Environmental Health Sciences, University of Queensland.
+
+Central Highlands Water - Water Quality Report.
+
+Coleambally Irrigation – Water quality monitoring results.
+
+Cooke R, Whiteley P, Jin Y, Death C, Weston M, Carter N and White J. Widespread exposure of powerful owls to second-generation anticoagulant rodenticides in Australia spans an urban to agricultural and forest landscape, Science of The Total Environment, 2022. Volume 819, 153024.
+
+Department of Water. A baseline study of contaminants in groundwater at disused waste disposal sites in the Swan Canning catchment. Water Science technical series Report No 4, December 2009. Government of Western Australia.
+
+Department of Water. A baseline study of contaminants in the sediments of the Swan and Canning estuaries. Water Science technical series Report No 6, February 2009. Government of Western Australia.
+
+Department of Water. A baseline study of organic contaminants in the Swan and Canning catchment drainage system using passive sampling devices. Water Science technical series Report No 5, December 2009. Government of Western Australia.
+
+EPA Victoria – Emerging contaminants assessment 2019-20: Summary of results. Publication 1879, September 2020.
+
+Flinders Shire Council – Drinking Water Quality Management Plan.
+
+Food monitoring programs (Department of Health, Government of Western Australia).
+
+Fredericks D and Palmer D. Assessment of Pesticides in Aquatic Organisms – Ord River WA. Department of Environment, Government of Western Australia, Water Resource 2008. Technical Series Report No 40.
+
+FSANZ, 25th Australian Total Diet Study.
+
+Hook S, Doan H, Gonzago D, Musson D, Du J, Kookana R, Sellars M and Kumar A. The impacts of modern-use pesticides on shrimp aquaculture: An assessment for north eastern Australia, Ecotoxicology and Environmental Safety, 2018, Volume 148 770-780.
+
+Kennedy K., Bentley C, Paxman C, Heffernan A, Dunn A, Kaserzon S and Mueller J. Final Report - Monitoring of organic chemicals in the Great Barrier Reef Marine Park using time integrated monitoring tools (2009-2010). The University of Queensland, The National Research Centre for Environmental Toxicology (Entox) 2010.
+
+Laicher D, Benkendorff K, White S, Conrad S, Woodrow R, Butcherine P and Sanders C. Pesticide occurrence in an agriculturally intensive and ecologically important coastal aquatic system in Australia, Marine Pollution Bulletin, 2022. Volume 180, 113675.
+
+Lettoof D, Bateman P, Aubret F. et. al. The Broad-Scale Analysis of Metals, Trace Elements, Organochlorine Pesticides and Polycyclic Aromatic Hydrocarbons in Wetlands Along an Urban Gradient, and the Use of a High Trophic Snake as a Bioindicator. Arch Environ Contam Toxicol 2020. 78, 631–645.
+
+Lohr M. Anticoagulant rodenticide exposure in an Australian predatory bird increases with proximity to developed habitat. Science of the Total Environment 2018. 643: 134-144.
+
+Marshal S, Sharley D, Jeppe K, Sharp S, Rose G and Pettigrove V. Potentially Toxic Concentrations of Synthetic Pyrethroids Associated with Low Density Residential Land Use. Frontiers in Environmental Science 22 November 2016, Vol 4 (75).
+
+Murray Irrigation – Compliance and monitoring.
+
+Murrumbidgee Irrigation – Water quality results.
+
+National residue Survey results and publication.
+
+Oliver D, Kookana R, Anderson J, Cox J, Fleming N, Waller N and Smith L, Off-site transport of pesticides from two horticultural land uses in the Mt. Lofty Ranges, South Australia, Agricultural Water Management, 2012, Volume 106, 60-69.
+
+Pay J, Katzner T, Hawkins C, Barmuta L, Brown W, Wiersma J, Koch A, Mooney N and Cameron E, Endangered Australian top predator is frequently exposed to anticoagulant rodenticides, Science of The Total Environment, 2021. Volume 788, 147673.
+
+Pesticide Water Monitoring Results (last updated July 2014) – Tasmanian Government.
+
+QLD Government – Reef 2050 Water Quality Improvement Plan.
+
+Rose G, Zhang P, Bui A, Allen D and Allinson G. Melbourne Water and DPI agrochemicals in Port Philip catchment project report 2009-10. A report to the Centre for Aquatic Pollution, Identification and Management (CAPIM), the University of Melbourne. Future Farming Systems Research, DPI Queenscliff Centre, Queenscliff, Victoria. 2011.
+
+Sánchez-Bayo F and Hyne R. Detection and analysis of neonicotinoids in river waters – Development of a passive sampler for three commonly used insecticides, Chemosphere, 2014. Volume 99, 2014, 143-151.
+
+Sidhu, J., Gernjak, W. and Toze, S. (Editors) (2012). Health Risk Assessment of Urban Stormwater. Urban Water Security Research Alliance CSIRO 2012. Technical Report No. 102.
+
+Smith R, Turner R, Vardy S, Huggins R, Wallace R and Warne M. An evaluation of the prevalence of alternate pesticides of environmental concern in Great Barrier Reef catchments: RP57C, 2016.
+
+Targeted AgChem Residue Program (Agriculture Victoria).
+
+The Bundaberg Regional Council (BRC) Drinking Water Quality Management Plan (DWQMP).
+
+The Pesticide Detectives: national assessment of pesticides in waters.
+
+Vic EPA - “Emerging contaminants in recycled water project, 2021”.
+
+Victoria EPA; Vic State Government: Bellarine Peninsula: Legacy and emerging contaminant sampling and analysis (2018–2019) – Publication 1870, May 2020.
+
+Vincente-Beckett V, Noble R, Packet R, Verwey P, Ruddle L, Munksgaard N and Morrison H. Pesticide, polycyclic aromatic hydrocarbon and metal contamination in the Fitzroy Estuary, Queensland, Australia. Cooperative Research Centre for Coastal Zone, Estuary and Waterway Management. 2006.
+
+Water Corporation (Western Australia).
+
+WaterNSW – Annual water quality monitoring report.
+
+Weaver T, Ghadiri H, Hulugalle N and Harden S. Organochlorine pesticides in soil under irrigated cotton farming systems in Vertisols of the Namoi Valley, north-western New South Wales, Australia, Chemosphere, 2012. Volume 88, Issue 3, 336-343.
+
+Wightwick A, Bui A, Zhang P. et al. Environmental Fate of Fungicides in Surface Waters of a Horticultural-Production Catchment in Southeastern Australia. Arch Environ Contam Toxicol 2012, 62, 380–390.
+
+Yoshikane M, Kay W, Shibata Y, Inoue M, Yanai T, Kamata R, Edmonds J and Morita M. Very high concentrations of DDE and Taxaphene residues in crocodiles from the Ord River, Western Australia: An investigation into possible endocrine disruption. Journal of Environmental Monitoring. 2006, Volume 8, 649-661.
+
+Assessment of data sources
+
+The data sources were assessed for their reliability, relevance and representativeness for the purposes of this project. Outcomes of this assessment were used to determine their suitability for monitoring the effectiveness of the agvet chemicals regulatory system.
+
+Summary of results
+
+The largest number of data sources are for environmental monitoring. However, only a small number of these represent long-term monitoring and the results available are generally for local scenarios (limited geographic range) and as a “snapshot” in time (limited by no temporal analysis available). The results are summarised in tabular form below. Currently, the most comprehensive monitoring program underway in Australia in terms of geographic area, linking to land use, sampling frequency and duration of the program is the QLD Government – Reef 2050 Water Quality Improvement Plan. However, this program only monitors a small number (n = 22) of pesticides. Some finalised monitoring programs in other states were more comprehensive in terms of the number of sites or the number of chemicals, but these programs were only performed for a short period of time.
+
+While there were only a small number of produce data sources identified, these tend to be quite comprehensive. The National Residue Survey is a very large and structured monitoring program with data available for a long period of time. It considers residues for >600 individual chemicals in a large range of plant and animal food matrices. The FSANZ 25th Australian Total Diet Study is comprehensive, assessing for >130 chemicals. These residue surveys also tested for veterinary medicines in meat products. It is also understood that industry undertakes routine monitoring of produce for contaminants (for example, Coles and Woolworths). While some private organisations were contacted, no further information was provided to this project.
+
+No suitable data sources were identified for monitoring agvet chemicals in humans. Work health and safety (WHS) laws require that workers health be monitored and WHS regulators be notified when workers are exposed to unsafe levels of hazardous chemicals, including agvet chemicals. However, WHS regulators were not able to provide useful information about workers exposure to agvet chemicals. Similarly, those public health authorities who responded to enquiries did not hold useful information about human exposure to agvet chemicals. Further work may be needed to engage these organisations, and make any data they hold reportable and usable. Alternatively, if the department wishes to obtain human health monitoring data directly it could consider initiating its own monitoring programs (see Section 4 – analysis of data gaps). The analysis of each data source that passed the screen for reliability, relevance and representativeness is provided in Appendix 2: Reliability and representativeness of pesticides and veterinary medicines identified data sources. The results are summarised in Section 3.2 below for the range of environmental monitoring data sources.
+
+Overview of environmental data sources
+
+National monitoring
+
+Table  National sediment sources
+
+Surface/groundwater – None identified
+
+Urban stormwater – None identified
+
+Drinking water – None identified
+
+Soil – None identified
+
+Wildlife – None identified
+
+Queensland
+
+Table  Queensland surface/groundwater sources
+
+Table  Queensland urban stormwater sources
+
+Table  Queensland drinking water sources
+
+Table  Queensland sediment sources
+
+Soil – None identified
+
+Wildlife – None identified
+
+New South Wales
+
+Table  New South Wales surface/groundwater sources
+
+Table  New South Wales urban stormwater sources
+
+Table  New South Wales drinking water sources
+
+Table  New South Wales soil sources
+
+Sediment – None identified
+
+Wildlife – None identified
+
+Victoria
+
+Table  Victorian surface/groundwater sources
+
+Table  Victorian urban stormwater sources
+
+Table  Victorian drinking water sources
+
+Table  Victorian soil sources
+
+Table  Victorian sediment sources
+
+Table  Victorian wildlife sources
+
+Tasmania
+
+Table  Tasmanian surface/groundwater sources
+
+Table  Tasmanian wildlife sources
+
+Urban stormwater – None identified
+
+Drinking water – None identified
+
+Soil – None identified
+
+Sediment – None identified
+
+South Australia
+
+Table  South Australian surface/groundwater sources
+
+Table  South Australian sediment sources
+
+Urban stormwater – None identified
+
+Drinking water– None identified
+
+Soil – None identified
+
+Wildlife – Non identified
+
+Western Australia
+
+Table  Western Australian surface/groundwater sources
+
+Table  Western Australian drinking water sources
+
+Table  Western Australian sediment sources
+
+Table  Western Australian wildlife sources
+
+Urban stormwater – None identified
+
+Soil – None identified
+
+Analysis of data gaps
+
+This project is being undertaken to determine how the department can better monitor the effectiveness of the agvet chemicals regulatory system and provide assurance that the controls on these products are effective and not leading to poor environmental or human health outcomes. The ability to link monitoring data to controls placed on active constituents and their chemical products during regulatory assessment is seen as one way of being able to monitor the effectiveness of the system.
+
+While a large number of data sources have been identified, it is apparent that there are significant gaps in terms of what has been monitored, matrices monitored and being able to link detections back to regulatory controls. To elucidate on reasons for this, gaps are considered both in terms of active constituents and monitored media; and in terms of the regulatory assessments themselves.
+
+Gaps in current existing data for agvet chemical surveillance
+
+The accepted data sources including information on their access and availability are described in more detail in Appendix 2: Reliability and representativeness of pesticides and veterinary medicines identified data sources. Several sources are from published literature and these often require subscriptions for access, or are required to be purchased. The department has obtained access for this project so holds all published literature data sources. Some sources owned by various state government departments/agencies require a request but will generally be made available. In some cases, the data may be held by the testing laboratories rather than the department/agency reporting the data. For data sources obtained during this project, no significant access issues were identified.
+
+Limitations in data described in data sources
+
+The data sources identified are only considered in this project in terms of the chemicals looked for, and the chemicals found. Detections of chemicals are not meant to imply that they pose a risk to humans and the environment, only that they are found outside their area of application and within a monitoring program. Contemporary controls such as runoff restraints and downwind buffer zones are not designed to prevent all chemical moving off site. They are designed to ensure the chemical does not move off site at an exposure level that exceeds an acceptable toxicity/ecotoxicity level. Findings in the data sources as reported do not correlate exposure with effects.
+
+While some data sources considered extensive suites of chemicals, there is no way of tracking back the products that were actually used in the monitored catchments over the monitoring period because no corresponding use data exist. Therefore, it is not clear (and can’t be identified) whether all active constituents would actually have been used during the monitoring program. A zero detection therefore, does not necessarily mean the substance will not move off-site. Conversely, it is not known if all active constituents used in a particular catchment over a monitoring period were actually monitored for. This increases overall uncertainty in results.
+
+Gaps in sources of data
+
+Gaps can be considered absolute or partial. Absolute data gaps are those where no sources of data were identified. These are as follows where no data sources in Australia over the last 20 years have been identified:
+
+Human biomonitoring (1 study only was obtained – See Appendix 2: Reliability and representativeness of pesticides and veterinary medicines identified data sources). In Australia, in certain circumstances, the model Worker Health and Safety (WHS) Regulations place duties on persons conducting business or undertakings (PCBUs) to provide health monitoring to workers. These requirements arise if the worker is carrying out work with hazardous chemicals including lead and asbestos. In addition, the work being carried out must be the kind of work specified in the WHS Regulations. A PCBU has the duty to determine if health monitoring is required. This can include pesticides, and, for example, Safe Work Australia provides a health monitoring guide for organophosphate pesticides. While only one study was obtained through this project for human biomonitoring, such information would be useful to monitor exposure from various activities including pest control operators (for example, mixing and loading chemical products; applying products), and for workers who may be exposed following application when working in treated crops.
+
+Veterinary medicines outside residues analysis in meat produce. While limited information is available on some veterinary medicines present in meat produce, other forms of contamination may be present. Exposure to land and water may occur from topical treatment to animals from wash-off, or from excretion following oral or injection treatment. Apart from potential residues in the target animal, assessment of such medicines considers exposure to soil, water and often, dung from treated animals. Some monitoring following veterinary treatments would help determine the suitability (or otherwise) of standard assessment assumptions.
+
+Environment – atmospheric monitoring. Pesticides can move through the atmosphere as spray (droplet) drift at the time of application, or in some cases, as vapour where they are sufficiently volatile to lift off the target area of application. This can have implications for human exposure and unintended off-target damage, for example, if volatile herbicides are exposed to non-target vegetation.
+
+Environment – all matrices (water, soil, sediment, air) generally associated with broadacre (dryland) cropping regions. There is a general lack of monitoring data in the different environmental matrices that can be used to link back to use in large acreage cropping, for example, cereals and pastures. Monitoring to fill this gap would be useful to support the need for reviews, or determine the suitability of standard exposure assessment assumptions depending on the substance being monitored and when monitoring is undertaken.
+
+With respect to human biomonitoring, while only one study was obtained for the 20-year time frame applied in this project, it is clear activity has been undertaken in the past. In their 2005 performance outcomes monitoring report, the APVMA has significant information related to monitoring public health impacts from agvet chemical use with data drawn from the Australian Bureau of Statistics, Poisons Information Centres. Data relating to calls related to pesticide use and data relating to hospital admissions held by the Australian Institute of Health and Welfare relating to admissions due to acute pesticide poisoning. The information was reported for the years 1997-2001.
+
+In a recent study, monitoring of cholinesterase in red blood cells (AChE) is reported. This was not reviewed as a data source because it did not directly measure for pesticides. However, AChE inhibition may be a symptom of organophosphate (OP) insecticide toxicity.
+
+Partial data gaps are considered for areas where data sources are identified, but gaps remain in the monitoring programs or their findings. This is a difficult issue to resolve because monitoring programs are undertaken generally for a specific purpose. The most comprehensive long term environmental monitoring program currently in Australia is the QLD Government – Reef 2050 Water Quality Improvement Plan. This program is designed to meet the requirements of the QLD government and the list of chemicals assessed for reflects this. However, for the purposes of the current DAFF project, the Reef 2050 Water Quality Improvement Plan only analyses samples for 22 pesticides which is a fraction of the number considered “priority” based on identified concerns for human health and the environment. The Reef 2050 Water Quality Improvement Plan provides excellent work linking detections back to land use, but only within the small suite of substances being analysed for, and within a specific geographic region.
+
+Monitoring that can’t be directly linked back to use patterns have limited use other than to note their presence and off-site movement and more fit for purpose data could be developed through targeted baseline monitoring (for example, to understand expected levels in humans, produce and the environment from current use patterns for particular substances) and operational monitoring (for example, to understand levels in different matrices following assessment and regulatory action). Such targeted monitoring can be undertaken on both spatial and temporal scales if needed. For substances where registration assessments pre-date current methodology, monitoring results do not allow an analysis of the effectiveness of contemporary regulatory assessments and may be difficult to interpret without the chemicals in question going through a chemical review.
+
+It is not surprising that none of the identified data sources, with the possible exception of the food residues monitoring programs, can directly be used by DAFF to assess the effectiveness of the regulatory system, because they were not specifically developed for this purpose. It is clear that some (generally published literature) were developed to prosecute the case for regulatory action, for example, monitoring anticoagulant rodenticides in predator wildlife or neonicotinoids in urban stormwater runoff.
+
+In terms of the number of sites monitored in different states, monitoring was dominated in Victoria and Queensland over the last 20 years (see Figure 1). In Victoria, there were >300 sites where sediment monitoring occurred. These were mainly around Melbourne and Port Phillip Bay, which also dominated the surface water and soil measurements taken in this state. There was one national program considering sediment sampling where approximately 110 sites were sampled around the country (not shown in Figure 2).
+
+Figure  Environmental monitoring – number of sites over 20 years for different matrices
+
+Apart from the national sediment monitoring program, no sediment sampling results were identified for NSW or TAS. Surface water monitoring results were identified in all states, but the number of sites was generally low, particularly in NSW, SA and WA, and these included drinking water catchments, not just sites linked to agricultural activities. Data sources with measurements in soil were generally low.
+
+While the overall number of sites may assist in understanding the scale of available monitoring, an important factor in further interpretation relates to the number of pesticides that were analysed. Generally, the overall number in a given monitoring program was relatively low. Around 55% of data sources for environmental monitoring analysed for <25 substances (see Figure 3), and many of these were not identified as having a concern to human health or the environment based on the list provided in Appendix A1.2 – List of agvet chemicals from international conventions and APVMA chemical review lists identified with known human health or environmental concerns. Future surveillance systems could take this issue into account in further prioritising substances for monitoring activities.
+
+Figure  Environmental monitoring – number of substances analysed for in different sources
+
+Approximately 77% of sources only analysed for up to 25 substances identified in Appendix A1.2 – List of agvet chemicals from international conventions and APVMA chemical review lists identified with known human health or environmental concerns (Figure 3).
+
+Figure  Environmental monitoring – number of listed* substances analysed for in different sources
+
+* Listed substances for this project as identified in Appendix A1.2
+
+Data sources that meet the criteria set out by the department
+
+The programs identified that analyse produce for residues, in particular the National Residue Survey with support from the FSANZ 25th Australian Total Diet Study, can be considered to meet the department’s needs for this project. The National Residue Survey is a nationwide monitoring program that analyses for >600 individual active constituents and is undertaken annually thereby providing long term results.
+
+No other single monitoring source could be identified as meeting the department’s needs for this project with the possible exception of the Queensland Government Reef 2050 – Water Quality Improvement Plan. However, the results from this program are limited in geographic range and in the number of pesticides analysed for.
+
+This finding is not surprising given monitoring programs are not generally not devised for this specific purpose. If the aim of a particular program is to support the veracity of the National Registration Scheme regulatory assessment process and effectiveness of regulatory controls, more targeted approaches are probably needed. These are expected to be most effective when performed for specific substances and in a number of local release scenarios. A possible exception may be where substances have concerns over volatility and wider exposure may require a more regional approach.
+
+Future work may consider the ability to apply data sources more holistically than in isolation. From the information obtained during this project, such an approach will not be easy because monitoring programs differ in their purposes and are generally not coordinated with other programs in different areas of the country. It will be difficult to consider findings around the country as a collective data source where programs are short lived and undertaken at different times in different regions.
+
+Importantly, the data sources identified may be useful in determining what substances have been detected in different matrices, but they generally are not suitable for issues important to DAFF in determining effectiveness of the regulatory scheme for the following reasons:
+
+Substances that are shown to be present are not able to be linked to risk. Regulatory assessments performed in the National Registration Scheme are risk-based meaning that a substance can be present but the risk remains acceptable if the level is below that deemed to result in a potential risk. Current monitoring results do not link exposure to effects, and the regulatory acceptable level is something determined during scientific assessment of a substance by the APVMA;
+
+The available monitoring, while often being able to associate presence of chemicals with overall land use, are generally not suitable for linking back to point sources. Further, the monitoring information represents a snapshot at the time of sampling. There is no information available on where and when substances detected were applied. For example, duration between application and sampling is unknown so actual levels determined can’t be correlated with application activities. Nonetheless, future work could initially benefit from a more detailed collation and analysis of the monitoring information identified in this report which may provide a starting point to deliver on some of the recommendations from the “Final Report of the Independent Review of the Pesticides and Veterinary Medicines Regulatory System in Australia”.
+
+There is no ability to assess the range of agricultural chemical products that were used in areas where sampling has occurred so if a monitoring program only assesses for a small number of substances, it is possible a larger number may have been applied during the sampling period but these substances are not being looked for.
+
+Further, without an understanding of the range of products used during a sampling program, the suite of chemicals assessed for may include a range of substances that were not actually used. Therefore, non-detects in such situations will not allow a conclusion that such substances will not be present off site following their use.
+
+Programs for potential response and resolution – point source contamination
+
+Programs that direct potential response and resolution to point source contamination issues, agricultural industry practices and stewardship are discussed in this section.
+
+Point source pesticide monitoring in key countries that Australian regulators, government and community consider reputable and adopting leading standards of regulation and pesticide monitoring are summarised as benchmarks for potential future programs in Australia.
+
+Produce monitoring systems
+
+Produce monitoring provides a measurable and traceable indicator of the type of pesticides used in agricultural production, while also providing evidence or absence of harmful pesticide residues in locally produced or imported food product. Produce monitoring can be used as a measurable indicator of pesticides and veterinary medicines used (often at trace or levels close to the limit of quantification) within a production or catchment area, regardless of the reported pesticide or veterinary medicine product use declared in reporting by producers. Crop and animal food products in most cases, can also be easily traced back to the point source of production, particularly with most Australian hoofed animal meat products supported through the National Livestock Identification System.
+
+Most grains, and animal meat products and some horticultural products exported from Australia are part of the National Residue Survey with results widely publicised, however the sources or location of products which test positive for pesticide residues is kept confidential and managed through internal commercial industry processes. In some countries such as the United Kingdom for example, there is considerable transparency around where food product is found with pesticide residues exceeding maximum residue limits (MRL).
+
+Netherlands - Conducts produce monitoring of fruit and vegetables. The residue monitoring focuses largely on the growing phase. Before harvest, samples of diverse types of fruit and vegetables are taken and checked for about 25 pesticides. The results of the residue analysis are used to determine when the crop can be harvested. About 20 per cent of the batches sampled in the cultivation phase are checked again after the harvest. A second round of sampling takes place on the auction floor and is intended as a method of monitoring the first sampling. Auction samples, unlike the samples taken in the cultivation phase, can be seen as representative of the products that enter the market.
+
+United Kingdom - Produce monitoring is carried out In the United Kingdom (UK) with specific product and site of sale breaches publicly tabled. In 2021 the Department for Environment, Food and Rural Affairs, Expert Committee on Pesticide Residues in Food (PRiF) program tested 397 different pesticides in each of the foods surveyed, with 1,085 samples of 25 different foods tested.
+
+USA – The United States (US) Food and Drug Administration (FDA) selectively tests a broad range of imported and domestic commodities for approximately 800 pesticide residues. FDA may also carry out focused sampling surveys for specific commodities or selected pesticide chemical residues of special interest. In addition, FDA monitors the levels of pesticide chemical residues in foods prepared for consumption in its Total Diet Study (TDS), an ongoing program that monitors contaminants and nutrients in the average US diet.
+
+Canada - The Canadian Food Inspection Agency (CFIA) residue-monitoring program provides assurance of the safety of supply of fresh produce. The most recent annual report covers 2018-2019. The proper use of pesticides is monitored through federal government evaluation programs which include residue testing. The National Chemical Residue Monitoring Program (NCRMP) is an annual CFIA regulatory surveillance program, which verifies compliance in foods to Canadian standards and guidelines for chemical residues and contaminants. Over 115,000 tests for residues of veterinary drugs, pesticides, metals, and contaminants were performed on approximately 16,800 NCRMP and Food Safety Oversight (FSO) monitoring samples.
+
+In addition to the published Australian National Residue Survey reports focussed on export product, local fruit and vegetable product testing is conducted. FreshTest is an Australian Chamber of Fruit and Vegetable Industries or Fresh Markets Australia (FMA) initiative to provide low cost MRL (chemical residue) and microbial testing for wholesalers and their growers in Australia’s central markets. These tests in contrast to overseas programs are however confidential and are used for verification for food safety and Quality Assurance systems. In addition, major Australian supermarkets conduct mandatory pesticide residue testing of food products as part of their supplier certification, however this residue testing is also confidential.
+
+Environment and water monitoring
+
+Environment and water monitoring for pesticides is characterised by government water regulators and agricultural authorities, which are generally structured surveys, such as in the case of the Netherlands, but in some cases unstructured such as in Canada.
+
+Netherlands – Water Boards monitor the use of pesticides in agriculture and horticulture. An integral task of water boards is to manage and maintain sufficient quality of surface water as a source for drinking water. Dutch water boards have a well-established program for monitoring pesticide contamination of surface waters. These results link the use of plant protection products to pesticide concentrations in surface water.
+
+The Dutch Board for the Authorisation of Plant Protection Products and Biocides (CTGB) assess whether plant protection products and biocidal products are safe for humans, animals and the environment before these products can be sold and used in the Netherlands. The Netherlands publicly publishes environmental survey findings in a Pesticide Atlas, which is updated following the release of the land use correlation. The Netherlands CTGB always uses the most recent monitoring data in order to ascertain whether there are exceedances of the authorization threshold.
+
+In the Pesticides Atlas, it can be found which active substances and metabolites occur in the Dutch surface waters, based on monitoring data of water managing bodies. The Pesticide Atlas contains information regarding exceedances of thresholds, long-term trends in concentration and the link with land use.
+
+European Union – The European Union (EU) funded H2020 FAIRWAY Project aims to review approaches for the protection of drinking water resources from pollution by nitrogen and pesticides. The program aims to: identify and further develop cost-effective and innovative measures and governance approaches that will protect drinking water supplies while increasing agricultural sustainability. FAIRWAY took a multi-actor approach to facilitate effective cooperation between actors from different sectors and levels including: farmers, advisors, drinking water companies, scientists and policy makers. The practical experiences from 13 case studies in 12 countries were analysed in five research themes to identify the barriers and success factors associated with achieving water quality targets.
+
+United Kingdom - Pesticides are actively monitored in UK drinking water and is reported annually by the Drinking Water Inspectorate. The reports cover water quality testing and results, public confidence in drinking water, events and technical audit activity. They also contain a summary of all results of the water companies regulatory sampling program and a list of all the cautions and prosecutions carried out by the Inspectorate. Published reports cover private water supplies in England and Wales. The Water Environment (Controlled Activities) (Scotland) Regulations 2011 (CAR) place controls on the storage of pesticides and their use in the proximity of the water environment in Scotland. The Scottish Drinking Water Protection Scheme targets specific areas for monitoring, including pesticide contamination within drinking water catchments.
+
+USA – The US EPA, along with US states, implements regulations that protect US drinking water from source to tap – EPA requires community water systems to deliver a Consumer Confidence Report, also known as an annual drinking water quality report, sent annually to their customers, providing information about local drinking water quality. This includes reports on specific pesticide contamination at identified water catchments and wells.
+
+Canada - Water catchment monitoring appears to have reduced in formal intensity since 2011 studies. The Pesticides Indicator (official name: Indicator of the Risk of Water Contamination by Pesticides) managed by Agriculture and Agri-Food Canada evaluates the relative risk of water contamination by pesticides across agricultural areas in Canada. It can be used to assess pesticide inputs to cropland and the amount of pesticide transported to surface and ground water. This indicator has tracked pesticide risk associated with Canadian agricultural activities from 1981 to 2011. The Canadian government has been unable to update this indicator for 2016, due to a delay in availability of proprietary data required by this model.
+
+The focus of these international water monitoring programs is on drinking water and associated water catchments. While much of the Australian water monitoring for pesticides is also focussed on drinking water catchments, in contrast there has been a considerable broader Australian environmental pesticide monitoring focus in key catchment areas such as the Great Barrier Reef. There is currently limited producer industry-levy funded and agricultural industry agency delivered environmental monitoring programs, with the AUSVEG EnviroVeg pilot project being an example of potential future programs.
+
+Producer pesticide use monitoring
+
+Users of pesticides and veterinary medicine products in most agricultural applications are regulated in most developed countries to record use, crop stage, key weather or animal health conditions when using products. In most countries, only manual hand-written records are required, however some countries, in particular the Netherlands and California USA require detailed reporting use of pesticide and plant nutrient inputs. There is considerable risk of inaccurate or falsified reporting by users and producers to surveys and reporting of use to regulators. In most countries, there is no regulatory requirement for recording or reporting of home garden use of pesticides except for certified pesticide application contractors.
+
+Netherlands – Producers must have a crop protection monitoring system and must keep track of all pesticide use measures taken each growing season. This includes recording the use of biological agents or mechanical weed control, crop rotation, choice of crops and basic planting material, emission reduction measures, and use of crop protection agents. These data are summarised in a comprehensive pesticide use survey conducted every few years.,
+
+United Kingdom - Pesticide usage monitoring forms part of an obligation under the Food and Environment Protection Act (1985) for post-registration monitoring of pesticides approved for use. FERA Pesticide Usage Surveys presents pesticide usage data relating to Great Britain from 1990 onwards and for the United Kingdom from 2010 onwards. The program of pesticide usage surveys is commissioned by the independent Expert Committee on Pesticides and funded by the charge on the agrochemicals industry. Data is collected by the Pesticide Usage Survey Teams at FERA Science Ltd, the Scottish Agricultural Science Agency and the Agri-Food and Biosciences Institute of Northern Ireland. Since 2010 the surveys have followed a biennial cycle with arable, potato storage, soft fruit and orchards being conducted in even years (2010, 2012, 2014, 2016 etc.) and outdoor vegetable and edible protected crops in odd years (2011, 2013, 2015, 2017 etc.). Surveys of grassland & fodder crops (last survey 2017) and amenity situations (last survey 2016) are conducted every four years. The Pesticide Usage Monitoring Group (PUMG) records the use of crop protection products in Northern Ireland. This cyclical program examines pesticide usage in all sectors of the agricultural and horticultural industries. Principally, the data collected provides information for consideration by the UK Expert Committee on Pesticides. The data may also be used by those involved in residue testing, environmental impact studies, public information, evaluation and regulation of trends in pesticide usage.
+
+USA - The National Agricultural Statistics Service (NASS) Agricultural Chemical Use Program is USDA’s official source of statistics about on-farm chemical use and pest management practices. Since 1990, NASS has surveyed US farmers to collect information on the chemical ingredients they apply to agricultural commodities through fertilizers and pesticides. On a rotating basis, the program currently includes fruits; vegetables; major field crops such as cotton, corn, potatoes, soybeans, and wheat; and nursery and floriculture crops. The program also collects information on the pest management practices farmers implement to reduce their dependence on agricultural chemicals (e.g., practices that make pesticides more effective or are an alternative to pesticides). Historically, data has also been periodically collected on chemicals used post-harvest and in livestock production. Detailed summaries of the volume of pesticide product use per crop is publicly available.
+
+California, USA – In 1990, California became the first state to require full reporting of agricultural pesticide use in response to demands for more realistic and comprehensive pesticide use data. Under the program, all agricultural pesticide use must be reported monthly to county agricultural commissioners, who in turn, report the data to the California Department of pesticide Regulation. California has a broad legal definition of "agricultural use" so the reporting requirements include pesticide applications to parks, golf courses, cemeteries, rangeland, pastures, plus along roadside and railroad rights-of-way. In addition, all postharvest pesticide treatments of agricultural commodities must be reported along with all pesticide treatments in poultry and fish production as well as some livestock applications. The primary exceptions to the reporting requirements are home-and-garden use and most industrial and institutional uses. Pesticide use summary reports are published annually, as well as GIS spatial data of pesticide use by township and section.
+
+Canada – Only limited pesticide use information has been nationally collected in the Canadian Farm Environmental Management Survey, the most recent from 2011. Pesticide use surveys in Canada are less structured, with some provinces such as Ontario conducting surveys of use in agricultural crops and Alberta publishing pesticide sales.
+
+Australian pesticide use reporting is limited to the annual report of product sales data by the APVMA generated by registrant reporting to the regulator. This is however de-identified and aggregated sales data that is categorised into agricultural or veterinary product types, each containing greater than 5 products to ensure individual product holders or companies are not identifiable in the publication of annual product sales data reports. There is clearly a considerable difference in the transparency of use of individual pesticide product in Australia compared with the USA and EU, however there is limited information available as a detailed national data set in Canada.
+
+Future surveillance delivery and reporting systems
+
+There is considerable global debate around reporting options to represent current practice and improvement of agricultural pesticides and veterinary medicines. Pesticide use frequency indices are being used in Europe as a measure of change or improvement in pesticide use. There has been discussion around the use of these indices in Australian agricultural sustainability frameworks, however the issues with these indices detailed below suggest they do not reflect or encourage change to best practice pesticide stewardship.
+
+Treatment frequency indices
+
+Treatment frequency indices (TFI) were developed by Denmark in 2008 and replaced the simple measurements of the applied pesticide volume as indicator. It has since been in use in several other countries worldwide as a national or regional indicator or as part of projects. The TFI is:
+
+Calculated by the theoretical number of pesticide treatments per hectare, based on standard dose rates of active ingredients, and the amount of pesticides sold yearly. An advantage of the TFI is that the indicator can be aggregated into a single value, e.g. a TFI of 1 is equivalent to one full dose applied on a certain agricultural area. As the TFI is not related to the active substances used, no relation can be established to elevated concentrations of single substances in raw water. One constraint of the TFI is that progress towards products with lower toxicity cannot be covered by the indicator: the TFI does not account for the chemical or toxic properties of some specific substances of the pesticide. Additionally, ecological effects or damages cannot directly be assigned to pesticide applications, since interactions and intermediate steps often have a major influence on pesticide environmental behaviour. Consequently, a reduction in treatment frequency is not sufficient to reach conclusions regarding trends in environmental and health risks, even though a correlation is commonly assumed.
+
+The French Indicator of Frequency of Treatment (IFT), which is similar to the Dutch TFI, is used to measure the use of pesticides on farms and its evolution over time.
+
+The Environmental Yardstick for Pesticides (EYP) has been developed as a tool for farmers in the EU to select pesticides with the least environmental impact and to quantify the impact of their use. For each pesticide the yardstick assigns environmental impact points for the risk to water organisms, the risk of groundwater contamination and the risk to soil. There are three EYP output values:
+
+Acute risk to water organisms (most sensitive organism); risk of groundwater contamination; acute and chronic risk to soil organisms. The potential risk is expressed in environmental impact points (EIPs). The more EIPs a pesticide gets, the higher its impact on the environment. The EIPs are based on the predicted environmental concentration (PEC) in a certain compartment and the maximum permissible concentration (MPC) set by the Dutch government. The EIP are initially assigned for a standard application of 1 kg active ingredient per hectare. For different rates of application, the number of EIP is multiplied by the actual dose.
+
+The score on the yardstick depends on chemical properties (persistence and mobility in soil, toxicity) of both active ingredient and principal metabolites, dose rate, organic matter content of the soil (influences transportation in soil), time of application (influences degradation and transportation in soil), method of application (influences the amount of emission to surface water) and distance to surface water (influences the amount of emission to surface water). The data on degradation rates, adsorption coefficients, toxicity to aquatic organisms and toxicity to soil organisms are drawn from data sheets compiled by the Dutch Regulatory Committee for agrochemicals.
+
+As the name indicates the EYP only considers environmental effects of pesticides. EYP is not as widely used, as for example as the Environmental Impact Quotient (EIQ), but has been applied to assess the impact of pesticide use in integrated and conventional potato production in the Netherlands. EYP calculates PEC values but rather than comparing these values to LC/LD/EC/ED50 and NOEC values they are multiplied by pesticide toxicity data to produce Environmental Impact Points.
+
+There has been significant Australian agricultural industry discussion and concern with the suggested use of a single multi-criteria indicator or TFI approach. A pesticide treatment frequency index (TFI) is not likely to be an appropriate path forward as an industry indicator as the agricultural industry will continue to use new generation safer and environmentally safe synthetic pesticides and the volume of product use could well increase with scale of industry expansion. Also, the type of pesticide, relative toxicity and environmental risks will change (i.e. it could either be a synthetic/natural/biological/biochemical pesticide used in either conventional or organic systems). For example, organic agriculture in the coming years is likely to see an increase in the use of natural and biological pesticides. It has been suggested that the ratio of control measures (mechanical, biological pesticides, genetic technology, natural or organic pesticides, synthetic pesticides etc) is a more appropriate indicator.
+
+Australian industry sustainability frameworks and pesticide use reporting
+
+There has been clearly identified Australian agricultural industry strategic intent to improve and report to stakeholders and markets on defined sustainability frameworks, including the use of agricultural pesticides and veterinary medicines.
+
+Grains - industry sustainability framework includes responsible stewardship throughout the value chain, caring for our environment and protecting Australia’s biosecurity underpin our productivity, profitability and global reputation. Core objectives include the industry being engaged in incentivised environmental stewardship programs, plus redesign, reduce and/or develop alternative chemical use whilst ensuring productivity, safety and environmental outcomes. Targets include: Demonstrate science-based best practices in pest, weed and disease control while ensuring productivity, safety and environmental outcomes. Desired outcome: Australian grain productivity and market access is enhanced by demonstrating best practice crop protection.
+
+It is noted industry submissions to the Independent review of the pesticides and veterinary medicines regulatory system in Australia that the grains industry and Australian state farming member organisations in-principle collectively support environmental pesticide monitoring based on agreed international scientific standards with effective solutions to identify cause of issues identified through monitoring. This includes consideration to industry funding support, as per the existing National Residue Survey model with capability to identify the source of a problem.
+
+Horticulture - industry sustainability framework includes ensuring movement of soil, nutrients and chemicals into the environment are minimised. Indicators include:
+
+Container production uses growing medium that minimises nutrient loss
+
+Use of erosion management strategies on drains and drainage areas in high risk run-off areas e.g. minimal slope, sealed or grassed or vegetated
+
+Use of systems to filter run-off water from container-grown production systems and packing sheds
+
+By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment
+
+Red Meat Industry - Australian beef and lamb producer’s industry sustainability framework has a veterinary medicine focus on antimicrobial stewardship, feedlots covered by an antimicrobial stewardship plan, compliance with antibiotic MRLs and vaccination rates for clostridial diseases. The outcome is maintaining the efficacy of antimicrobials so that infections in humans and animals remain treatable is of critical importance. This priority looks at industry use of antibiotics and surveillance programs to detect resistance to them. The particular surveillance focus is antimicrobial resistance of bovine respiratory disease pathogens.
+
+Integration with current and future pesticide user reporting systems
+
+Farm management software for use in business management is an essential component of best management practice. For example, over 90% of agronomists and over 80% of Australian grain production is managed using Agworld with 40+ million ha use globally.
+
+All major global tractor and agricultural equipment manufacturers have adopted the AgGateway Ag Data Application Programming Toolkit (ADAPT toolkit) to integrate machine control and software systems. The Australian developed cloud based farm software Agworld is just one of 240+ agricultural machine manufacturers and software providers working towards this common standard. ADAPT provides industry standard tools to simplify communication between growers, their machines, and their software partners. It is the product of many years’ work by more than a dozen companies and experts collaborating through AgGateway. This has clearly become the dominant global standard and it will be the platform on which all field sprayer control interfaces will communicate with farm management software and pesticide use recording and reporting systems in the future.
+
+AgGateway is also leading the Closed Loop Spray Charter which aims to support, farmers and contractors the best possible use and application of crop protection products. Principally to “help growers avoid mistakes,” to achieve “compliance and traceability,” and prove out good “stewardship of product usage.” “Closed Loop Spray” means “end-to-end documentation and resource identification” and not “real-time feedback-driven control.” It should be noted that AgGateway is now collaborating with the EU based ATLAS Agricultural Interoperability and Analysis System. The goal of ATLAS is the development of an open interoperability network for agricultural applications and to build up a sustainable ecosystem for innovative data-driven agriculture.
+
+The Closed Loop Spray Charter initiative is being led by AgGateway Europe, however the intended scope is global and is in the early stages of establishing an international working group. The aim is to support producers of chemical crop protection products, contractors, and farmers in the use and application of crop protection products. This approach will require elabels such as Syngenta’s proprietary Smart eLabel system to capture pesticide label information at the correct level of data to meet regulatory and stewardship needs.
+
+There are limited examples of digital data recording systems in animal health and application of veterinary medicine. Accurate weight is crucial for effective dosing of individual animals and for reporting antimicrobial usage. Automated weight and dose systems such as Automed are examples of integrated solutions. Smart ear tag sensors can track the feeding, temperature, behaviour and movement of livestock and monitor vital signs for early indications of illness. Animal ID, particularly with smart tags is a core component of supporting application and digital recording of veterinary medicine use in animals.
+
+These systems in development in the future will provide efficient and accurate automated recording of pesticide use in agricultural field operations and allow future opportunity for seamless and non-corruptible electronic reporting, particularly using block chain technologies, to demonstrate stewardship of best management practices and meet regulatory obligations. It is realistic to expect that these systems will start to become standardised and widely adopted in the next 5+ years.
+
+Future environmental surveillance options and technologies including near real-time sensor measurement of off-target environmental impacts
+
+Traditional laboratory-based analysis techniques do not currently provide fast and efficient technology frameworks to support real-time or near-real-time detection of pesticides. Current advances in pesticide detection sensors focus on improving sensitivity and selectivity through the use of nanomaterials, in sensor assemblies and new biosensors, including electrochemical, optical, nano-colorimetric, piezoelectric, chemo-luminescent and fluorescent techniques. In addition there has been considerable progress in development of micro gas chromatography for chemical detection and laser-induced breakdown spectroscopy to discriminate pesticide-contaminated products in a rapid manner. While there are no current commercial examples of field based real-time sensor based surveillance systems for agricultural pesticide detection, the following summary review of technologies highlights the opportunity for future development and deployment of sensor based pesticide detection in the atmosphere, water catchments and soil.
+
+Real-time pesticide detection in the atmosphere
+
+Off-target spray drift damage and potential impacts on food safety and trade issues affect all agricultural industries, across a broad range of pesticides. There is also wider environmental impacts on native remnant vegetation and vegetation adjacent to production systems. The financial impact on agricultural industry is also significant for off-target spraying, with phenoxy spray drift costing an estimated $18 million in annual cotton production losses, up to $7 million loss from a single drift event affecting vineyards and $1 million loss in tomato crops. Cotton, viticulture and horticulture crops are particularly sensitive to spray drift from Group 4 herbicides (phenoxy herbicides including 2,4-D) which are high value crops that if impacted can catalyse social license challenges for the grains industry. Therefore, there is a need for a technology that not only detects risks of herbicide spray drift from phenoxy herbicides such as 2,4-D, but also can be used as a tool to manage herbicide stewardship and protection of surrounding sensitive crops, and in turn strengthening industry social license.
+
+Direct contact off-target pesticide drift remains an issue that is principally managed through determination of spray buffer zones for a given sprayer setup. Vapour drift is however the final frontier in pesticide spray drift science. Conventional drift is relatively well understood to be a function of droplet size, release height, wind speed, influence of surface temperature inversions and to a lesser extent temperature, relative humidity, crop interactions and evaporation rates. Vapour drift on the other hand is not well understood and unlike droplet drift does not appear to be a generic phenomenon across all pesticides. Vapour drift management has been a challenge to all stakeholders for decades and there are no commercially available tools to measure this in real-time. Existing approaches involve sample collection and subsequent processing back at the laboratory, by which time impacts may have occurred at a landscape scale.
+
+Gas chromatography (GC) has been used for organic and inorganic gas detection with a range of applications including screening for chemical warfare agents, breath analysis for diagnostics or law enforcement purposes, and air pollutants/indoor air quality monitoring of homes and commercial buildings. Metal-organic frameworks (MOFs) as stationary phases for chromatography, the application of MOFs for one- and two-dimensional micro-gas chromatography (µGC and µGC × µGC) has demonstrated determination of the partition coefficients for toxic industrial chemicals, using µGC and µGC × µGC systems. Using these µGC sensors with capillary columns with the first using a 0.50-μm film of nonpolar dimethyl polysiloxane and the second using a 0.25-μm film of polar trifluoropropylmethyl polysiloxane, operated with atmospheric pressure air as the carrier gas enabled the complete separation of an 18-component vapour mixture of common solvents in air in 3.5 min.
+
+This µGC technology has developed further resulting in a small, consumable-free, low-power, ultra-high-speed comprehensive µGC×µGC system consisting of microfabricated columns, nanoelectromechanical system (NEMS) cantilever resonators for detection, and a valve-based stop-flow modulator is demonstrated. The separation of a highly polar 29-component chemical mixture in less than 7 seconds, and just over 4 seconds after the ensemble holdup time is demonstrated with a downstream flame ionization detector. The analysis time of the second dimension was 160 ms, and peak widths in the second dimension range from 10–60 ms. Data from a continuous operation testing over 40 days and 20000 runs of the µGC × µGC columns. The µGC × µGC -NEMS resonator system generated second-dimension peak widths as narrow as 8 ms with no discernible peak distortion due to under-sampling from the detector. This µGC × µGC -NEMS technology, which has primarily been developed for field detection of chemical weapons in a battlefield environment, has already been validated to detect more than 42 different security sensitive chemical compounds of interest in real-time to a limit of quantification (LOQ) equivalent to laboratory grade equipment.
+
+Alternatively, a hybrid, nanomaterial based gas-sensing array has also been developed for the detection of chlorpyrifos. Using a sensing array utilising nanoparticles (NPs) as the conductive layer of the device while four distinctive polymeric layers (superimposed on top of the NP layer) act as the gas-sensitive layer.
+
+Cavity ring-down spectroscopy (CRDS) is an established technique for gas sensing that is newly emerging in the field of optical biosensing, which has also been adapted for use in liquids, providing a highly sensitive method for quantitative real-time biosensing. CRDS technology has successfully been used to measure aerosol dispersion of copper chloride and has potential as a sensitive real-time analytical technique for aerosol detection and quantification. This technology has been commercialised by RingIR for real-time gas sensing, including detection of the chemical fumigants phosphine, methyl bromide and sulfuryl fluoride.
+
+Real-time pesticide detection in catchments and drinking water
+
+Chemical sensors are attractive instruments for real-time water quality and safety analysis. The optimal electrochemical or optical properties of such sensors will depend on the concentration of chemical analytes in a body of water. These types of sensors are already widely applied to the analysis of natural and potable water. Gas chromatography–mass spectrometry (GC–MS) has also been widely applied for pesticide monitoring because of its high sensitivity and specificity and for the potential of multi-residue and multi-class analysis.
+
+Real-time autonomous measurement of pesticides that combines continuous sampling and on-site measurements with a high-resolution mass spectrometer has been demonstrated in a small agricultural catchment, continuously measuring 60 pesticide compounds at 20 minutes resolution for 41 days during the growing season.
+
+A recent review of monitoring of pesticides in water matrices and the analytical criticalities details that; sample pre-concentration and extraction methodologies have advantages and limitations, but all require good operator preparation and almost always special tools involving a large combination of analytical techniques applied in multiple configurations. Increasingly necessary to develop multi-residual methods, reliable, safe for the operator, which request small organic solvent and sufficiently sensitive to reach the standards set by the specific regulations. However, PPPs with more specific chemical structures, such as glyphosate, are excluded from the multi-residual approaches, for which a particular and specific methodology is required. Liquid-liquid extraction (LLE) is a simple method usually used for water samples. The main advantage of this technique is the large availability of studies in the literature, which provide information on the proper selection of organic solvents, the pH and temperature conditions and the achievable LOD/LOQ. It is also a simple and relatively inexpensive method. The evolution of analytical techniques has seen, in recent years, the progressive diffusion of Solid-Phase Extraction (SPE) that uses columns or disks of different materials, able to retain the active substances present in water samples and then release them from the washing action of small quantities of suitable solvents. Similarly to LLE, also regarding SPE, the loss of the most volatile analytes during solvent evaporation can occur, affecting the overall analyte recovery.
+
+Use of fluorescence‐based biosensing has also been demonstrated for the detection of organophosphate (OP) pesticides in water samples and drinkable food using a mutant of the thermostable esterase‐2 from Alicyclobacillus acidocaldarius (EST2‐S35C) as a bioreceptor for OP pesticides.
+
+In addition, a sensor construct employing a universal FR-4 substrate gold interdigitated electrodes with active sensing elements based on selective antibodies (proteins) and polymeric network structures – poly(3,4-ethylenedioxythiophene) has successfully been developed to detect glyphosate and atrazine, with potential to perform combinatorial assessment and subsequently-multiplexed analysis of pesticide antigens.
+
+A recent detailed review of real-time water sensing technology shows that there are still many obstacles for having a one sensing approach that would satisfy different situations. The most successful systems based on chemical sensing or its combination with other methods rely on specificity of a coating material that is capable of accurate detection of certain water pollutants, with molecularly imprinted polymers providing an increased flexibility for the designing of those systems. Novel trends include using microwave spectroscopy and chemical materials integration for achieving a higher sensitivity to and selectivity of pollutants in water.
+
+There is exponential growth in the number of publications on real-time water quality monitoring with chemical sensors (Figure 4).
+
+Figure  Number of publications on “Real-Time Water Quality Monitoring with Chemical Sensors” in the last 50 years77
+
+Near real-time pesticide detection in soils
+
+Traditional soil measurement techniques are primarily laboratory-based analysis such as ion chromatography (IC), inductively coupled plasma-optical emission spectrometry/mass spectrometry (ICP-OES/MS), gas chromatography−mass spectrometry (GC-MS), and chemiluminescence.
+
+Electrochemical biosensors contain biological recognition elements (e.g., microorganisms and enzymes) that specifically reacts with the target of interest, and then converts such changes into electrical signals (e.g., current, voltage, and resistance). Biosensors can achieve low detection limits for contaminants due to the selective binding of the targets. One potential application of electrochemical biosensors in the soil environment is to detect agrochemicals, such as pesticides, herbicides and fertilizers. Specifically, biosensors have been used for the determination of organophosphate and carbamate pesticides based on the inhibition of cholinesterase activity. However, the analyte needs certain incubation period (e.g., minutes to hours) to inhibit the activity of the immobilized enzyme, resulting in steadily declining signals over time (e.g., hours).
+
+Using a paper-based substrate, namely, office paper plus a portable electrochemical connection, loading bio-hybrid nanosized probes (Prussian blue, carbon black, and butyrylcholinesterase), has successfully in situ measured pesticide contents in EU agricultural soils, up to 3 µg/mL, characterized by a low detection limit of 1.3 ng/mL, with good correlation in comparison with LC–MS analysis.
+
+Handheld instruments based on laser-induced breakdown spectroscopy (LIBS) are a promising sensor technique for the in-field determination of various soil parameters. LIBS could be used in many aspects, like soil, soil pollution, plant nutrients, cereals and seeds, fruits and vegetables, agri-foods, plant stressed by heavy metals, pesticide residues, etc. The pesticides chlorpyrifos, carbendazim, dimethoate, imidacloprid and cypermethrin have been successfully detected in in green leafy vegetable using LIBS.
+
+Surveillance options that enable targeted government and industry response to point source issues
+
+Atmospheric sensors such as µGC technology would be particularly useful in detecting chemical volatile trespass in the environment in real-time, such as integration with existing mesonet weather station and air-temperature inversion alert systems,, air stability or air-temperature inversions being a major factor in chemical trespass of pesticides, particularly volatiles inkling phenoxy herbicides. The potential deployment of µGC sensors could also be potentially combined with the recently commissioned super computing capability from the Bureau of Metrology to interpolate data between sensor towers and potentially triangulate a localised region of point source contamination. The technology could also be potentially used at field borders as a detection alert for sensitive crops or vegetation, with potential for automatic reporting of pesticide trespass. The µGC technology is also likely to be used as a surrogate sensor for monitoring downwind spray volatiles when using autonomous pesticide application systems.
+
+Sensors detailed above highlight that real-time pesticide detection in water is a realistic potential option, particularly if specific pesticide surveillance targets are defined. Some of these sensors in combination with detailed watershed modelling support could potentially be deployed with response teams following initial real-time detection to monitor upstream point source contamination of pesticides to a defined local area.
+
+Traditional laboratory based methods are likely to remain the mainstay for initial detection of pesticides in soils, delivering results with a high level of confidence. Most soils will also generally remain in-situ, aiding detection and point source contamination determination, except in circumstances of significant soil or water erosion. The use of rapid real-time sensor based pesticide detection systems will however support rapid detailed survey of contaminated or affected areas and technology such as LIBS enables simple collection of soil cores for contamination analysis of stratified depths.
+
+Recommendations
+
+Section 4.1.3 provides a discussion on data sources identified in this project that meet the Department’s requirements. Apart from residues analysis in meat and plant-based food product, the data sources are dominated by environmental matrices (surface water, sediment, wildlife). Assessment of these data sources has identified that, while many may be useful in determining what substances have been detected in different matrices, but they generally are not suitable for issues important to DAFF in determining effectiveness of the regulatory scheme for a number of reasons (see Section 4.1.3). The following recommendations are based around this determination.
+
+Potential development of new data gathering programs
+
+Recommendation 1: The department considers the discussion in Section 4.1.3 regarding gaps in the current Australian data sources; and the information provided in Section 4.2 with respect to international activities in different data gathering programs.
+
+Recommendation 2: The department considers, as a starting point for future work, and to deliver on some of the recommendations from the “Final Report of the Independent Review of the Pesticides and Veterinary Medicines Regulatory System in Australia”, undertaking a more detailed analysis of the monitoring information identified in this report. Such analysis will aid prioritising substances for future surveillance programs.
+
+Surveillance options enabling targeted government and industry response to point source issues
+
+Recommendation 3: The department considers the future surveillance delivery and reporting systems identified in Section 5 of this report.
+
+Recommendation 4: The department considers the future environmental surveillance options and technologies including near real-time sensor measurement of off-target environmental impacts identified in Section 6 of this report as potential options to inform future monitoring programs.
+
+Recommendation 5: The department recognises that there is no commercial near real-time sensor measurement technology currently available to measure the off-target environmental impacts identified in Section 6 and future deployment will require investment in development of this technology.
+
+Recommendation 6: The department undertakes targeted baseline monitoring to inform chemical review activities.
+
+It is considered possible to link the need for regulatory assessments to monitoring. Undertaking targeted monitoring, for example, in known use areas for substances prior to a chemical review commencing may assist in identifying whether the chemical of interest is in fact moving off site. Such monitoring could then be redone following implantation of controls at the end of the review.
+
+Recommendation 7: The department undertakes targeted operational monitoring to confirm effectiveness of regulatory controls
+
+For new chemicals no monitoring data will be available prior to a regulatory assessment being completed. The assessment will identify controls based on the data set and proposed use pattern. In order to confirm the effectiveness of these controls, it may be appropriate to undertake targeted monitoring in the first seasons of use following registration. Similarly, such targeted monitoring could be implemented in use areas following completion of chemical reviews to confirm or otherwise the effectiveness of regulatory controls identified during the review.
+
+Appendix 1: Research and analysis of pesticides and veterinary medicines data sources
+
+Methodology
+
+Sources were determined through two mechanisms. The first was a desktop review of available data sources (monitoring; volumes of use) from within Australia over the last 20 years.
+
+The second component included a survey by telephone and/or email potential holders of data (human biomonitoring, animal-based food sources, plant-based food sources, air, soil, surface water, ground water, wildlife) including relevant state and territory departments including those responsible for health, agriculture and environment., APVMA and research institutions.
+
+Through consultation (see Appendix A1.1: Contacts and organisations approach through survey consultation for list) a total of 64 contacts were approached covering government (state and federal), research institutions and private companies. In total, 44 different organisations were contacted.
+
+Responses from 19 contacts were received, representing 18 different organisations. This represents an organisation response of 41% with some additional responses received later.
+
+Sources of data at this stage were separated between literature reports and databases. Essentially, any government agency held information was allocated a “database” designation even if the data were only obtained from short term projects.
+
+The different sources of data were assessed only briefly for this component of the project. The region (down to state/territory level), matrix (see Table 24) and chemicals analysed for were recorded. In many cases, the full list of chemicals is not yet available as often only chemicals detected were reported. In the case of the National Residue Survey, the full list of chemicals has not yet been compiled due to the complexity of this program.
+
+A time frame of 20 years was agreed to base the analysis on as it was considered changes to farming practices in that period make data older than 20 years to lack relevance for this exercise. To date, 54 data sources have been identified that fall within the 20-year timeframe applied for the project.
+
+Chemicals to be considered
+
+The project aims to consider all agvet chemicals currently or previously used in Australia. Specific consideration is to be given to those agvet chemicals listed under the international conventions to which Australia is a party; and to agvet chemicals with known human health and environmental risks.
+
+A list has been developed therefore, for these priority chemicals taking into consideration of pesticides listed in the Rotterdam Convention (Priority Informed Consent chemicals) and Stockholm Convention (Persistent Organic Pollutants), and cross referenced to the APVMA chemical review list of chemicals including those identified in the 2015 consultation round. Chemicals are priorities for review by the APVMA based on health and/or environmental concerns and available monitoring data will also focus on substances in this list.
+
+In considering the APVMA lists, some priority substances were identified as groups, for example, 2nd generation anticoagulant rodenticides and triazole fungicides. The individual chemicals within these groups have been included in the list and groups themselves have been removed. For example, triazole fungicides have been listed individually as difenoconazole, metconazole, myclobutanil, propiconazole, prothioconazole, tebuconazole and triadimefon. There is some limited overlap between chemicals on these different lists. Through cross-referencing, a final list of 167 chemicals was identified for specific consideration. This list is provided at Appendix A1.2 – List of agvet chemicals from international conventions and APVMA chemical review lists identified with known human health or environmental concerns.
+
+Analysis of data sources identified at stage 1
+
+The sources were separated based on the type of data, eg, whether data related to human biomonitoring, residues analysis in food produce, or environmental sampling. These were further separated base on the matrix in which sampling occurred.
+
+For environmental sampling, sources have been assigned a “scale” to reflect whether monitoring has occurred in urban catchments, non-urban catchments, or mixed (both urban and non-urban). This is likely to be refined further in the next phase of the project, for example, to consider whether non-urban catchments relate to agricultural land uses or to drinking water catchments.
+
+The results of this initial investigation are reported in Table 24.
+
+Table  Summary of types of data held for different matrices from identified data sources
+
+It is seen from Table 24 that no data sources for human biomonitoring or atmospheric monitoring have been found. With respect to human biomonitoring, the APVMA and all relevant state OH&S agencies have been contacted with only two responses received. These were from the APVMA and SafeWork NSW. SafeWork NSW advised that they have undertaken compliance programs in the past to assess and assist agricultural and veterinary chemicals users meet their WHS regulatory obligations but have not undertaken any detailed exposure or health monitoring. Therefore, they do not hold any data sources with respect to monitoring data (including ongoing monitoring programs) for agricultural and veterinary chemicals that can be of assistance.
+
+Available sources are dominated by surface water monitoring. This includes sources from drinking water catchments, urban surface water (eg, stormwater runoff) and surface waters linked to agricultural land uses. Surface water data sets comprise 55% of those data sources identified to date. However, this does not give an idea of scale of monitoring programs. Further, while there are 5 data sets identified with respect to produce monitoring, the National Residue Survey is a large program with extensive data collected over a long period of time so a limited number of data sources should not be related to a general lack of data in a particular area.
+
+Apart from the National Residue Survey, probably the most comprehensive and structured monitoring program currently in Australia is Great Barrier Reef Catchment Loads Monitoring Program (GBRCLMP), which was established in 2006 for monitoring nutrients and total suspended solids, and expanded in 2009 to include pesticides, to assist in evaluating the progression towards the water quality targets of the Reef 2050 Water Quality Improvement Plan. This is an evolving program. The most up to date publication indicating the number of pesticide monitoring sites and basins covered by the GBRCLMP and South East Queensland Catchment Loads Monitoring Program (SEQCLMP) is the Pesticide Reporting Portal (PRP). That online publication provides data for 38 active sites, representing 35 catchments, 25 Basins, and 7 NRM regions (Cape York, Wet Tropics, Burdekin, Mackay Whitsunday, Fitzroy, Burnett Mary, South East Queensland). There are also data for approximately 13 historical sites that are not currently monitored. The 2020-21 GBRCLMP Condition Report provides site numbers for that monitoring year, and is the most recently published data for pesticide monitoring under the Reef 2050 Water Quality Improvement Plan. For that year pesticides were monitored at 22 end-of-catchment sites, 4 sub-catchment sites and 8 fine-scale monitoring sites.
+
+Table 25 and Table 26 provide an indication of regions (states and territories) from where monitoring activities have been undertaken. These are generally dominated in the eastern states of Queensland, New South Wales and Victoria. It was noted by some state authorities (SA EPA; TAS EPA) that funding for monitoring is not available. While these states used to undertake regular monitoring of water ways, these programs ceased between 2004 and 2014. Nonetheless, interrogation of the data sources for all monitoring does not indicate a discernible trend towards monitoring activities changing substantially over time – see Figure 5.
+
+Table  Summary of identified data sources containing produce residues monitoring by region
+
+1) From the National Residue Survey and FSANZ 25 Australian Total Diet Study where n = 2. The results do not differentiate between different states and territories but random sampling is assumed to cover all states and territories.
+
+Table  Summary of identified data sources containing environmental monitoring by region
+
+Figure  Number of data sources with monitoring undertaken in different years, 2002-2021
+
+Chemicals monitored within data sources
+
+From all sources, where possible, the range of chemicals analysed for have been included. This list is incomplete because some sources require additional information with only substances detected being reported in the primary source document, or the chemicals themselves not identified. Over 160 substances have been analysed from more than one data source, or in more than one matrix. There are more than 30 substances that have been analysed for in multiple data sources or in multiple matrices within the same data source. These are reported in Table 27.
+
+Table  Frequency of pesticides analysed for in data sources where n ≥10
+
+Appendix A1.1: Contacts and organisations approach through survey consultation
+
+Appendix A1.2 – List of agvet chemicals from international conventions and APVMA chemical review lists identified with known human health or environmental concerns
+
+Appendix 2: Reliability and representativeness of pesticides and veterinary medicines identified data sources
+
+Methodology
+
+Reliability
+
+The reliability of the data is a key initial consideration because without knowledge of how studies have been conducted all other considerations may be irrelevant. Screening for reliability can be done relatively quickly to filter out unreliable studies and enable the end users to focus further resources on those studies considered most reliable.
+
+The assessment approach is based on that suggested in OECD (2000). In undertaking this analysis, a pragmatic approach has been adopted and the following criteria have been modified to those identified in OECD (2000) to better reflect the required use of the monitoring data for the department’s objectives.
+
+Table  Criteria for assessing reliability of data sources
+
+A cut-off score of 16 was assigned to accept the reliability of a data set. However, a degree of flexibility has been applied. For example, data sets that do not specifically describe sampling methodology or identify limits of detection have generally been assigned a score of “Somewhat described” where laboratories performing analysis have been identified as these would be expected to have appropriate analytical methodology and reference chemicals.
+
+Of the data sources identified in phase 1 of this project, the majority were sufficiently described to pass the reliability assessment.
+
+Relevance/representativeness
+
+The relevance and representativeness of the data have been based on scientific judgement as there are no ranking criteria that can be listed as guidance for these attributes. In undertaking the analysis, the department’s main objective with respect to this project has been the most influential factor, that is, how data sources can be applied in monitoring the effectiveness of the agvet chemicals regulatory system and provide assurance that the controls on products are affecting and not leading to poor environmental or human health outcomes.
+
+The following attributes of the data sources were considered for this purpose:
+
+Table  Considerations for assessing relevance and representativeness of data sources
+
+From this analysis, data were considered relevant if they described monitoring results for pesticides regulated by the APVMA. Relevance was enhanced if the test list included chemicals identified in the priority list established for this project, however, it was not considered a requirement as there may be newer pesticides in a test suite of substances.
+
+Data sets were considered representative if they could readily be linked to a land use. It should be noted in this context, association with a land use does not allow particular sources of chemical exposure to be identified. For example, detections of fungicides in horticultural catchments in sampling locations identified by coordinates does not imply observed substances have come from farms adjoining the sampling point. However, it may be inferred that general chemical use for the agriculture in that catchment may be contributing. In general, specific sources of chemicals can’t be identified. The exception is for sampling undertaken in irrigation areas where irrigation drains are sampled. However, in these situations, the suite of pesticides analysed is generally quite small and dictated by environmental protection licenses.
+
+The analysis of the different data sources for those that met acceptance criteria for this project are provided below.
+
+Environment
+
+Water
+
+Non-urban surface waters
+
+1. https://apps.epa.nsw.gov.au/prpoeoapp/ViewPOEOLicence.aspx?DOCID=226027&SYSUID=1&LICID=5014
+
+1.https://static1.squarespace.com/static/5af3b1ae70e8023a6ac7a10b/t/5d2d16fbd83c2900011da3f7/1563236092745/EPL+4652+-+Coleambally+Irrigation.pdf
+
+1. https://apps.epa.nsw.gov.au/prpoeoapp/ViewPOEOLicence.aspx?DOCID=182989&SYSUID=1&LICID=4651
+
+1. https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/c65858f9-d7ba-4aef-aa4f-e148f950220f/pesticide-risk-baseline-project-report.pdf?ETag=a9665f53d62acabcddcc9fbe38e025b5;
+
+2. Spilsbury FD, Warne MSJ, Backhaus T. Risk Assessment of Pesticide Mixtures in Australian Rivers Discharging to the Great Barrier Reef. Environ Sci Technol. 2020 Nov 17;54(22):14361-14371. doi: 10.1021/acs.est.0c04066. Epub 2020 Nov 2. PMID: 33136377.
+
+1.https://www.academia.edu/23539827/Final_Report_Monitoring_of_organic_chemicals_in_the_Great_Barrier_Reef_Marine_Park_using_time_integrated_monitoring_tools_2009_2010_
+
+Source ID: 55. In the initial information gathering stage, the Environment Protection Authority, Victoria, advised on an “Emerging contaminants in recycled water project, 2021”. This project contains monitoring data from influent and effluent waters from 30 x wastewater treatment plants and includes pesticides, pharmaceuticals and personal care products, and endocrine disruption chemicals. The control and ownership rests with Vic EPA, contact Dr Minna Saaristo Senior Scientist – Emerging contaminants, Land and Waste Sciences, EPA Science (minna.saaristo@epa.vic.gov.au). However, it was noted that because this project is a collaboration between water corporations and EPA Science, releasing any data will need to be approved by the water corporations involved. The data are maintained in Microsoft Excel and PDF forms.
+
+Urban stormwater
+
+Drinking water
+
+1. https://www.bundaberg.qld.gov.au/water-services/water-supply/3#:~:text=The%20Bundaberg%20Regional%20Council%20(BRC,Safety%20and%20Reliability)%20Act%202008
+
+1. The University of Queensland, Queensland Alliance for Environmental Health Sciences, Catchment and Drinking Water Quality Micro Pollutant Monitoring Program - Passive Sampling 2019
+
+Groundwater
+
+Soil
+
+Sediment
+
+Wildlife
+
+1.https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/4013033cb21f13c1ee5fe0bf4825847900043329/$file/tp-3033.pdf
+
+Produce
+
+Appendix downloadable at: https://www.foodstandards.gov.au/publications/Documents/25th%20Australian%20Total%20Diet%20Study%20appendices.pdf
+
+Human biomonitoring
+
+One study only was identified. Campbell et al, 2022 characterised concentrations of glyphosate and its metabolite, AMPA in urine of Australian and New Zealand populations. Pooled urine samples from the Australian general population (n = 125 pools representing >1875 individuals) and individual urine samples (n = 27) from occupationally exposed New Zealand farmers were analysed. Glyphosate was detected above the LOD (0.20–1.25 µg/L) in 8% of the Australian population pooled urine samples with most detections in the 45–60 years age group. Furthermore, glyphosate (0.85 to 153 µg/L) and AMPA (0.50 to 3.35 µg/L) were detected in 96 % and 33 % of farmers, respectively.
+
+In a recent study, monitoring of cholinesterase in red blood cells (AChE) is reported. This was not reviewed as a data source because it did not directly measure for pesticides. However, AChE inhibition may be a symptom of organophosphate (OP) insecticide toxicity. The study explored integration of AChE monitoring into routine health checks for those at risk and also to examine any association between AChE activity and agrichemical use in a Victorian farming community in Australia. This was a prospective cohort study, where farmers and non-famers were compared on the levels of AChE at four time points of baseline, 3–4 weeks, 6-weeks and at 9-weeks. Study participants (N = 55) were residents from South West Victoria, aged between 18 and 75 years. Testing of AChE was repeated for all participants with a maximum of three times over 10 weeks. There was no significant difference in average AChE activity between farming and non-farming participants in the study. There was no significant difference between personal use of agricultural chemicals on farm and the levels of AChE at baseline (measurement 1) or any of the follow up periods. However, the mean activity of AChE was significantly lower within follow up periods. There was a significant reduction of AChE between the follow up at 3-weeks and 6-weeks period.

@@ -1,0 +1,148 @@
+The all livestock exports report includes exports by sea and air. The report is compiled from
+information on the export permit and health certificate issued by the department to exporters at the
+time of departure.
+Financial Year
+Species 2020/21 2021/22 2022/23 2023/24 2024/25
+Alpacas 107
+661
+401
+839
+1,463
+Buffalo
+10,999
+12,571
+8,574
+5,350
+4,820
+Camels
+0
+0
+13
+18
+99
+Cattle
+893,148
+612,565
+614,099
+746,819
+781,166
+Deer
+0
+0
+0
+0
+0
+Goats
+15,002
+3,120
+13,860
+16,499
+17,852
+Llamas
+0
+0
+12
+8
+18
+Sheep
+608,144
+478,781
+639,417
+519,531
+424,933
+Total
+1,527,400 1,107,698 1,276,376 1,289,064 1,230,351
+Calendar Year
+Species 2021
+2022
+2023
+2024
+2025
+Alpacas 669
+256
+838
+947
+846
+Buffalo
+10,827
+10,776
+6,237
+4,628
+7,384
+Camels
+0
+0
+31
+69
+42
+Cattle
+771,931
+600,024 676,583
+766,044 792,077
+Deer
+0
+0
+0
+0
+0
+Goats
+12,018
+4,869
+18,356
+14,749
+31,479
+Llamas
+0
+0
+12
+26
+0
+Sheep
+575,529
+502,758
+650,717
+433,098 334,491
+Total
+1,370,974 1,118,683 1,352,774 1,219,561 1,166,319
+The yearly figures are updated once all data has been received for the reporting period.
+The Excel spreadsheet will allow you to download data and develop your own reports. The figures
+provided in the spreadsheet are the total numbers (Head) exported by species, destination country and
+end use. The following fields have been provided to allow you to develop a variety of reports.
+State of export
+Port of export
+Destination country
+• 
+• 
+•
+
+Mode of export
+Species
+End use
+Quantity
+Month of export
+Year of export
+Financial year of export.
+The excel spreadsheet is updated monthly. Figures are subject to change as more data becomes
+available.
+To generate the data you are interested in, please download the Excel file and select the filter drop down
+arrow located in the grey highlighted header.
+Please note: you are able to use multiple filters at one time – for example:
+Select the drop down arrow in Mode and select AIR
+Select the drop down arrow in State and select NSW
+Select the drop down arrow in Year and select 2018.
+These filtered fields will then provide you with the months, load ports, species, end use, destination
+countries and quantity of livestock exported by air from NSW during 2018.
+To clear any filtered selections, click on Sort & Filter button in the top, right corner of the ribbon and
+then select Clear.
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/live-animals/live-animal-export-
+statistics/livestock-exports-by-market
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

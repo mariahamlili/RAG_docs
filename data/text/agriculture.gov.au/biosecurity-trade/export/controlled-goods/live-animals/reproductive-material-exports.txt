@@ -1,0 +1,153 @@
+The all reproductive material exports report includes total export numbers. The report is compiled from
+information on the export permit and health certificate issued by the department to exporters at the
+time of departure.
+Financial Year
+Species
+2020/21 2021/22 2022/23 2023/24 2024/25
+Bovine
+638,320
+394,246 393,005
+241,802
+230,603
+Canine
+1,172
+1,117
+956
+731
+788
+Caprine
+431
+1,101
+769
+2,116
+100
+Equine
+3,900
+4,481
+3,317
+4,198
+5,346
+Murine
+8,939
+12,962
+2,643
+2,089
+7,419
+Ovine
+17,723
+19 ,094
+27,029
+25,011
+17,229
+Porcine
+56
+308
+524
+900
+814
+Zoo animal 2,899
+1,560
+14
+21
+20,791
+Total
+673,440
+433,369
+428,257
+276,868
+283,090
+Calendar Year
+Species
+2021
+2022
+2023
+2024
+2025
+Bovine
+525,881 423,801 297,120 193,111 324,357
+Canine
+1,320
+900
+767
+886
+700
+Caprine
+1,532
+769
+381
+1,735
+323
+Equine
+4,652
+3,321
+4,076
+5,151
+3,736
+Murine
+11,390
+5,981
+3,050
+6,750
+1,636
+Ovine
+16,894 23,099 22,809 19,341
+22,259
+Porcine
+164
+376
+954
+588
+732
+Zoo animal 2,286
+974
+19
+20,011
+1,224
+Total
+564,119 459,221 329,176 247,573 354,967
+The yearly figures are updated once all data has been received for the reporting period.
+Figures represent number of reproductive units exported comprising Embryos, Semen, Pellets, Straws
+& Vials.
+The Excel spreadsheet will allow you to download data and develop your own reports. The figures
+provided in the spreadsheet are the total numbers exported by species, destination and type of
+containment unit. The following fields have been provided to allow you to develop a variety of reports:
+State of loading
+•
+
+Port of loading
+Destination country
+Species
+Unit
+Type
+Quantity
+Month of export
+Year of export
+Financial year of export.
+The Excel spreadsheet is updated monthly. Figures are subject to change as more data becomes
+available.
+To generate the data you are interested in, please download the Excel file and select the filter drop down
+arrow located in the grey highlighted header.
+Please note: you are able to use multiple filters at one time – for example:
+Select the drop down arrow in Species and select Equine
+Select the drop down arrow in Type and select Semen
+Select the drop down arrow in Unit and select Straws
+Select the drop down arrow in Year and select 2022.
+These filtered fields will then provide you with the number of equine semen straws that have been
+exported in 2022.
+To clear any filtered selections, click on the Sort & Filter button in the top right corner of the ribbon and
+then select Clear.
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/live-animals/live-animal-export-
+statistics/reproductive-material-exports
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•

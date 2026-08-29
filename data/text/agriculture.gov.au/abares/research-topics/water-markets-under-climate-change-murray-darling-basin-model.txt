@@ -1,0 +1,23 @@
+ABARES Working Paper
+Published: 22 December 2025
+Authors: Neal Hughes, Maruge Zhao, Andrew John, Avril Horne
+Introduction
+The Australian Murray-Darling Basin is home to one of the world’s most mature water markets. In
+recent decades, these markets have played a vital role in supporting adaptation to the effects of drought,
+climate change and environmental reform. This study introduces a new monthly economic model of the
+water market with an emphasis on biophysical detail and empirical performance.
+This model also contains significant economic structure, representing the stochastic and dynamic
+nature of water markets in storage-controlled rivers, including forward looking water users with
+rational expectations over future conditions. In this study, the model is applied to simulate the potential
+effects of climate change on water markets within the southern basin. The results show how markets
+support adaptation, with drier climates leading to increases in regional water trade volumes,
+particularly imports into the lower Murray.
+Drier scenarios are also associated with more conservative crop planting decisions, which increase
+storage reserves to maintain supply reliability. Under the driest future climates, the ability of markets to
+adapt is more limited, and the model simulates long-term declines in irrigation development. However,
+the future climate remains highly uncertain, with a majority of the projection ensemble involving
+increases in water supply and irrigation activity relative to recent conditions.
+In future, fully integrated hydro-economic models could help design water market institutions that are
+robust to a non-stationary and uncertain climate.
+Source: https://www.agriculture.gov.au/abares/research-topics/working-papers/water-markets-under-climate-change-
+murray-darling-basin-model

@@ -1,0 +1,84 @@
+Concern about exotic and emerging disease threats has prompted interest by animal health agencies
+involved in preparedness and planning to use decision support tools such as animal disease modelling.
+Foot-and-mouth disease (FMD) continues to represent the most serious threat to Australian livestock
+industries. An outbreak of FMD would seriously impact both Australia’s livestock sector and the
+economy as a whole. Potential consequences of a disease outbreak include the immediate loss of
+international market access, disruption of the domestic market for livestock and products, severe
+production and income losses in livestock and related industries, and the financial, political and social
+pressures of eradicating the disease. Recent estimates suggest that losses could vary from $7.1 billion
+for a small three month outbreak to $16 billion for a large 12 month outbreak (Matthews report, 2011).
+Disease planning and preparedness are key components to reducing the risk of FMD introduction and
+spread in Australia.
+Decision support tools including disease models can offer valuable insights in understanding the risks
+of FMD spread and control in the event of an outbreak. They can be used to test the effectiveness of
+different control strategies and assess the effectiveness of resource constraints and limitations. The
+findings from modelling studies can be used to assist with emergency animal disease planning and
+preparedness.
+The Australian Government Department of Agriculture, Fisheries and Forestry uses a regional FMD
+simulation model, AusSpread, to model the spread and control of FMD in Australia (Garner and
+Beckett, 2005). AusSpread is a stochastic spatial simulation model that simulates the spread and
+control of FMD in livestock populations in various regions in Australia. AusSpread has been used
+extensively both in Australia and internationally (Roche et al, 2014, Sanson et al 2007). In addition to
+its regional modelling capabilities, the department has recently developed a national scale simulation
+model, the Australian Animal Disease Spread model (AADIS), capable of spreading and controlling
+disease across Australia (Bradhurst et al., 2015). This model is in its final stages of development and
+testing.
+Regional models
+AusSpread is a regional model, where disease spread and control is modeled in various regions of
+Australia as defined by natural or geopolitical boundaries. The rationale for a regional approach is that
+each region is characterized by reasonably homogenous animal production systems and environmental
+conditions. For a continent such as Australia, with diverse environmental and production systems,
+regions represent the most appropriate scale at which to assess control or eradication strategies (Fig 1).
+
+Figure 1 Twelve Australian agricultural regions
+AusSpread uses polygon or point location data to represent a farm, the epidemiological unit of interest.
+Data on the Australian farm population is synthesised and derived from agricultural census statistics,
+industry reports and data, and land use information. Disease spread is modelled in daily time steps and
+events occur stochastically. Five spread pathways are implemented in AusSpread, including live animal
+movements, fomite/equipment/human movements, aerosol transmission, local spread around infected
+premises, and saleyard spread. Australian contingency plans provide the framework for control
+measures. Model parametrisation is highly configurable, allowing 'what-if' scenarios to be trialled and
+control strategies tested.
+The model is unique in that it has been developed within a geographic information system (GIS)
+environment. This provides ready access to sophisticated spatial functions and mapping capabilities
+(Figure 2), and allows for easy incorporation of spatial data layers, such as roadways, waterways, urban
+centres and elevation.
+
+Figure 2 AusSpread map outputs
+National models
+A joint research venture between the DA and the University of New England has led to the development
+of Australia’s first national-scale model of livestock disease spread, AADIS (Bradhurst et al., 2015).
+AADIS builds on the key features of AusSpread including the use of five spread pathways, stochastic
+processing, and flexibility in resource allocation and options for control, with a number of notable
+differences. AADIS uses a herd as its epidemiological unit of interest, where one farm comprises one or
+more herds. This captures the heterogeneity of production systems that manage species or production
+classes differently on a farm.
+Disease spread is modelled both within and between herds, and across Australia (Fig 3). Despite the
+large datasets required for such a model to run, AADIS runs extremely efficiently on a desktop
+computer. Efficiency is achieved through the use of a novel fusion of equation-based and agent-based
+modelling approaches. AADIS blends simple mathematical modelling of within-herd spread, with
+stochastic agent-based spatial modelling of between-herd spread. This overcomes the complex
+challenges of modelling diverse environments, varied farming and management practices, large
+datasets, and execution of control across several jurisdictions. AADIS efficiently models complex large-
+scale simulations across a national dataset of over 235,000 herds. Computational efficiency is
+important as a particular epidemic scenario may need to be re-run many hundreds of times to allow
+trends to emerge from the underlying stochastic mechanisms.
+
+FMD is employed as the test case for AADIS, however, the model is flexible to accommodate other
+pathogens.
+Figure 3 AADIS model outputs
+References
+Bradhurst, R.A., Roche, S.E., East, I.J., Kwan P., and Garner M.G. (2015). A hybrid modelling approach
+to simulating foot-and-mouth disease outbreaks in Australian livestock. Frontiers in Environmental
+Science, 3(17), doi:10.3389/fenvs.2015.00017.
+Garner, MG and Beckett, SD (2005) - Modelling the spread of foot-and-mouth disease in Australia.
+Australian Veterinary Journal 83(12), 758-766.
+Roche, SE, Garner, MG, Wicks RM et al (2014) How do resources influence control measures during a
+simulated outbreak of foot and mouth disease in Australia? Preventive Veterinary Medicine 113,
+436-446.
+Sanson, RL, Harvey, N, Garner, MG et al (2011) Foot and mouth disease model verification and ‘relative
+validation’ through a formal model comparison. Rev. Sci. Tech. Off. Int. Epiz. 30, 527–540.
+Matthews, K (2011) A review of Australia’s preparedness for the threat of foot and mouth disease.
+Australian Government Department of Agriculture, Canberra.
+
+Source: https://www.agriculture.gov.au/animal/health/modelling/fmd

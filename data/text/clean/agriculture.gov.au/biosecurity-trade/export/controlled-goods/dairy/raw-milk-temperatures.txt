@@ -1,0 +1,125 @@
+Food Standards Australia New Zealand (FSANZ) guidelines for raw milk collection advise milk should
+be cooled on farm to 5ºC within 3.5 hours from the start of milking. FSANZ guidelines also allow
+manufacturers to collect milk at times and temperatures other than 5ºC after 3.5 hours provided the
+manufacturer undertakes a risk assessment of the milk and processes it accordingly to ensure its safety.
+Validation of food safety for early collection of raw milk
+Milk may be picked up from farms earlier at a higher temperature provided you are able to manage the
+food safety risks.
+The scientific modelling work supports that milk can be picked up earlier, at a higher temperature, as
+long as it is on or below the time-temperature curve in either of these two diagrams.
+Where milk is collected at time-temperature that does not meet the FSANZ guidelines or does not meet
+the milk cooling curves, a risk assessment to ensure the safety of the milk must be conducted. Tables 1
+and 2 provide a validated example of how to do this risk assessment.
+Evidence you must have to support the risk assessment includes:
+time after milking commenced
+temperature of milk at collection
+initial bacterial load (e.g. B. cereus) in the vat at milk collection or information that can be used to
+determine/correlate to the growth of bacteria of concern.
+Milk cooling curve
+The University of Tasmania undertook scientific modelling work for the Australian dairy industry in
+2014 to assess the food safety of milk collected at times and temperatures outside the FSANZ
+guidelines.
+When raw milk is collected from a dairy farm before it is cooled to 5ºC within 3.5 hours, or 8ºC within 2
+hours for the EU, diagrams 1 and 2 can be used to assess whether the milk is acceptable within food
+safety parameters. Provided the milk temperature and time of pick up falls below the curves, the milk
+cooling curve determines the product as safe and no further assessment is needed.
+If the milk temperature doesn’t fall within these parameters, your establishment must separately
+validate the safety of milk and have records to support the decision.
+Food Standards Australia New Zealand (FSANZ) guidelines
+The cooling envelope assumes the average time to milk a herd is 2 hours and the maximum time
+available for cooling after milking is therefore 1.5 hours to meet the FSANZ guidelines for milk to be
+cooled to 5°C by 3.5 hours from the commencement of milking.
+
+Diagram 1: Post milking cooling envelope to meet FSANZ guidelines for milk
+European Community (EC)/Codex for heat treated milk products
+The EC/Codex requirement is milk shall be cooled to 8°C within 2 hours after milking. Diagram 2 is
+based on an assumed maximum temperature of vat milk of 20ºC at the end of the first milking and
+14ºC at end of the second milking.
+Diagram 2: Post-milking cooling envelope to meet EC/Codex requirements for heat
+treated milk products
+Assessing the safety of milk that doesn’t fit the curve
+Milk collected at temperatures higher than regulatory requirements or which sits outside the milk
+cooling envelopes may be safe as bacterial load may not have increased to a point where pathogen levels
+
+or spoilage organisms will cause illness in humans (105 cells/ mL for B. cereus or 107 cells/ mL for
+Pseudomonas).
+Note: The data in tables 1 and 2 assume milk is held at the same temperature from the time of pick-up.
+Milk processors/dairy manufacturers can compare their information to these tablesto decide from
+which farm milk can be picked up early or on a case by case basis. The safety of the milk can be assessed
+to determine the bacterial growth over a period of time at a given starting temperature.
+To be able to do a risk assessment about the potential growth of pathogens and spoilage organisms, you
+must have data on the level of bacteria at time of milk collection, the time milk has been held since
+milking and milk pickup temperature.
+Table 1: Estimated time (hours) before the threshold level is reached for B. cereus based
+on initial concentration (cells/ mL) measured as a logarithmic phase
+Temperature (˚C) at time of collection 1 log
+2 log 3 log 4 log
+20
+15.5
+11.6
+7.7
+3.9
+29.1n 21.8
+14.5
+7.3
+73.3n 55.0n 36.6n 18.3
+125.3n 94.0n 62.7n 31.3n
+261.5n 196.1n 130.7n 65.4n
+n time (hours) before milk at the specified temperature would reach the concentrations of (105 cells/
+mL for B. cereus), assuming an initial concentration in the vat at the time of milk pick-up of 1 log B.
+cereus in the first column increasing to 4 log in the final column.
+Table 2: Estimated time (hours) before the threshold level is reached for Pseudomonas,
+based on initial concentration (cells/ mL) measured as a logarithmic phase
+Temperature (˚C) at time of collection 1 log 2 log 3 log 4 log
+20
+18.6
+14.9
+11.2
+7.5
+
+27.3n 22.2
+17.0
+11.9
+44.8n 36.8n 28.7n 20.7
+57.0n 46.9n 36.8n 26.7n
+74.9n 61.9n 48.8n 35.7n
+n time (hours) before milk at the specified temperature would reach the concentrations of concern (107
+cells/ mL for Pseudomonas), assuming an initial concentration in the vat at the time of milk pick-up of 1
+log Pseudomonas in the first column increasing to 4 log in the final column.
+Non-compliant farm milk
+Corrective action must be taken in accordance with your documented procedures. Advise the farm of
+the unsatisfactory result and ensure action is taken to correct the problem. You may decide ongoing
+failures by the farm will result in the milk not being collected. If so, a policy of this nature needs to be
+fully detailed in your approved arrangement (AA).
+Your procedures must also ensure corrective action is demonstrated when high temperatures are
+identified and steps are taken to verify the corrective action has been effective. These procedures must
+be documented in your AA will be subject to audit.
+Ineligible for export
+If the milk or ingredients do not comply with raw milk collection time and temperatures, the milk
+cooling curve or further validation then they must be excluded from export and your declaration of
+compliance and transfer declarations must indicate the goods are not export eligible.
+Demonstrating compliance
+The minimum procedures that should be documented in the AA include:
+temperatures under which raw milk will be collected from farms (FSANZ guidelines, importing
+country or milk cooling curve limits)
+temperatures under which milk will be received at the establishment
+triggers for corrective action when limits are exceeded and what corrective action will include
+how non-compliant milk will be managed
+how export ineligible milk is identified in the system.
+
+Records that must be kept include:
+temperature of raw milk collected at farm and received at the establishment
+final product declarations of compliance and transfer declarations including a statement about
+specific country eligibility or otherwise.
+Requirements for dairy ingredients and milk received from
+another establishment
+Export eligible establishments must ensure their systems demonstrate the dairy ingredients used to
+produce milk and milk products for export:
+met temperature requirements for the raw milk component stage of production. This includes
+imported ingredients or those used as part of contract manufacturing arrangements.
+When sourcing dairy ingredients or liquid milk from another establishment or overseas:
+obtain evidence from the supplier indicating the milk used in the production of dairy products
+complies with the specific importing country requirements for temperature.
+If you cannot obtain or verify this information the products you produce are not eligible for export.
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/dairy/registered-establishment/raw-milk-
+temperatures

@@ -1,0 +1,41 @@
+Authors: Ahmed Hafi, Daniel Spring, Luke Croft, Tom Kompas and Kristopher Morey
+
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/biosecurity-red-fire-ant.png) 
+
+![](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/abares/biosecurity-red-fire-ant-nest.png) 
+
+In this report, Cost-effectiveness of biosecurity response options to red imported fire ants in South East Queensland, ABARES compares the cost-effectiveness of 14 control scenarios for red imported fire ants (RIFA) (Figure 1), an invasive ant species that is currently contained within South East Queensland but has the potential to spread throughout Australia if left unchecked. The control scenarios considered include two different budgets for surveillance and treatment ($10.5 million and $21 million a year), the share of the budget allocated to remote sensing activities, and assumptions of high and low sensitivity of new remote sensing technology introduced to improve surveillance and nest detection.
+
+In the absence of publicly funded control measures, the total area of infestation was estimated to increase to 6 million square kilometres in 70 years, representing almost 80 per cent of Australia’s land area, with losses over the 70-year period estimated at $8.5 billion (in 2012 dollars).
+
+When the surveillance and treatment budget was set at $10.5 million a year, the ants were eradicated in about ten years, but only when the sensitivity of the remote sensing technology used to detect ants was high. The most cost-effective outcome was achieved when 90 per cent of the budget was allocated to remote sensing surveillance and 10 per cent to treatment. This scenario generated the highest estimated benefit-cost ratio of 66 to 1 because RIFA were eradicated with a lower program budget (Table 1).
+
+Table 1 Summary of most cost-effective red imported fire ant eradication program outcomes
+
+| Budget ($m) a | Remote sensing sensitivity | Budget allocation b | Outcome |  |  | 
+
+|---|---|---|---|---|---|
+
+|  |  |  | Probability of eradication | Expected Program duration (years) c | Benefit-cost ratio | 
+
+| $10.5 | High | 90:10 | >.99 | 10.4 | 65.5 | 
+
+|  | Low | 10:90 | 0.2 | 15.3 | 27.9 | 
+
+| $21.0 | High | 90:10 | >.99 | 4.6 | 49.6 | 
+
+|  | Low | 50:50 | >.99 | 8.6 | 34.9 | 
+
+Note: a Budget for surveillance and treatment. b Budget allocation between surveillance and treatment. c Average time to eradication.
+
+When the budget was set at $21 million a year, the ants were eradicated with a high degree of confidence in about five to ten years in six out of seven scenarios. This finding was robust, regardless of whether the remote sensing technology had high or low sensitivity and, in all but one scenario, regardless of the share of the budget allocated to remote sensing.
+
+For 13 of the 14 distinct control scenarios considered, RIFA were eradicated within 20 years, with the majority of nests being identified and treated in the first two to three years of the simulation. The benefits of eradication (or avoided losses) for these control scenarios were estimated to be in excess of $5.3 billion (in 2012 dollars). The corresponding net present value (NPV), defined as benefits less program costs, was estimated to be in excess of $5.1 billion (in 2012 dollars).
+
+The modelling results show that with an annual surveillance and treatment budget of $10.5 million, the sensitivity of the remote sensing technology is critical when choosing the most effective strategy, and thereby significantly influencing the likelihood of successful eradication. Specifically, if sensitivity is low, a budget of $10.5 million provides only a small chance of eradication being achieved. Fortunately, recent test results show that remote sensing surveillance technology is capable of detecting 75 per cent of nests present, and as such with only a $10.5 million budget available for surveillance and treatment, the allocation of 90 per cent of this budget to search by remote sensing and 10 per cent to treatment appears to be the most cost-effective control strategy to use.
+
+Download the full report
+
+- Cost-effectiveness of biosecurity response options to red imported fire ants (RIFA) in South East Queensland - PDF
+
+- Cost-effectiveness of biosecurity response options to red imported fire ants (RIFA) in South East Queensland - Report - DOC

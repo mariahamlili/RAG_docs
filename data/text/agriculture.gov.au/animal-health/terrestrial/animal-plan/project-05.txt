@@ -1,0 +1,26 @@
+Overview
+This project redeveloped the CSIRO Sample Tracking and Reporting System (STARS) network. This
+aimed to enhance biosecurity and laboratory management system interoperability at both national and
+jurisdictional levels.
+The enhanced STARS network led to an improved national coordination of disease testing and
+surveillance to most of Australia’s government animal health laboratories (integration to some labs
+remains ongoing).
+Upgrades in technology and enhanced code performance ensures the system can support diverse
+datasets and handle large amount of data. This expands the capabilities of the system to ensure it will
+perform as expected during an outbreak.
+The expanded capabilities of the new STARS system ensure easier and more efficient deployment
+pathways. This allows existing and new users a streamlined path to integration.
+Project Lead: Australian Centre for Disease Preparedness
+Project Contact: animalhealthlaboratories@aff.gov.au
+Project Status: Completed
+Project Date: Completed in November 2023
+Objective alignment:
+2 – Improve Australia’s surveillance and diagnostic capacity for animal pests and diseases.
+Activity alignment:
+2.1 – Implement actions under National Animal Health Surveillance Business Plan and National
+Animal Health Diagnostic Business Plan.
+See more
+See past updates on the National Animal Health Diagnostic Business Plan.
+Source: https://www.agriculture.gov.au/agriculture-land/animal/health/animal-plan/project-05
+• 
+•

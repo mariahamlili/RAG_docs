@@ -1,0 +1,239 @@
+Calculators
+
+While there are many other calculators, some of which are below, the logic of the original GAF tools (developed by the Primary Industries Climate Challenges Centre and the University of Melbourne) sits under many of them. All the calculators below are free to use unless otherwise indicated. This is not a comprehensive list of available calculators.
+
+Australian Dairy Carbon Calculator
+
+The Australian Dairy Carbon Calculator was developed by the Tasmanian Institute of Agriculture and Dairy Australia. The calculator is a spreadsheet to provide an understanding of GHG emissions under current management practices and to explore potential management practices to reduce on-farm GHG emissions. These practices include the management of herds, feed and soil, and reducing energy use and switching to renewables.
+
+Australian Wine Carbon Calculator
+
+The Australian Wine Carbon Calculator was developed by the Australian Wine Research Institute. It is a spreadsheet for estimating scope 1 and 2 emissions of vineyards and wineries. It also provides information on calculating scope 3 emissions, but it does not include them in calculations. The institute provides advice about carbon accounting (PDF 520 KB) in viticulture and additional links to information about vineyard soil health, soil analysis, salinity and management practices to improve soil structure and grapevine nutrition.
+
+DairyBase
+
+DairyBase, developed by Dairy Australia, helps dairy farmers and advisers measure and compare farm business performance over time. Dairy farmers already using DairyBase can estimate their GHG emissions using pre-populated data from their DairyBase farm dataset. The calculator is only accessible to registered users. The website has guides to using DairyBase.
+
+MLA Carbon Calculator
+
+The MLA Carbon Calculator enables farmers to calculate total enterprise GHG emissions and emissions intensity for beef, sheep, goat, wool, feedlot and crops. The MLA has digitised the Sheep and Beef Greenhouse Accounting Framework (SB-GAF) (XLSX 2.6 MB) and the Grains Accounting Framework (G-GAF) (XLSX 2.5 MB). MLA provides a Carbon accounting technical manual (PDF 1.8 MB) and a video about how to use the calculator.
+
+Platform for Land and Nature Repair
+
+Ruminati
+
+The Ruminati calculator is managed by a group of industry experts and has BASE and PRIME versions that help estimate a farm’s GHG emissions and carbon storage. Ruminati PRIME, an enhanced, purchasable version, allows for modelling of GHG abatement options, creating emissions reduction plans and sharing emissions-related information with other organisations in their supply chain.
+
+Carbon calculator summary
+
+The following information summarises the applicability and requirements of the carbon calculators discussed in this topic, to help farmers and land managers consider calculators that may meet their particular needs and circumstances. Notes below the summary provide more details.
+
+Carbon calculator summary (PDF 204 KB)
+
+Carbon calculator summary (DOCX 89 KB)
+
+- Sector or land use: dairy.
+
+- Type of estimate or analysis: GHG emissions and abatement estimates.
+
+- Data required: property information, livestock, cropping, vegetation, waste management and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock, vegetation and other (renewable energy and manure management).
+
+- General description: used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees and explore different management actions. Based on Dairy GHG Accounting Framework (D-GAF).
+
+- Sector or land use: viticulture and winemaking.
+
+- Type of estimate or analysis: GHG emissions.
+
+- Data required: cropping, waste management and consumables usage.
+
+- Relevant carbon farming categories: soil and other (renewable energy and energy-efficient irrigation systems).
+
+- General description: used to estimate GHG emissions from vineyards and wineries and impacts of management activities on GHG emissions.
+
+- Sector or land use: blue carbon.
+
+- Type of estimate or analysis: ACCU Scheme and abatement estimates.
+
+- Data required: property information, cropping, vegetation, consumables and external (tidal ranges).
+
+- Relevant carbon farming categories: blue carbon.
+
+- General description: used to estimate abatement for projects under the ACCU Scheme Tidal Restoration of Blue Carbon Ecosystems method.
+
+- Sector or land use: dairy.
+
+- Type of estimate or analysis: GHG emissions and abatement estimates.
+
+- Data required: property information, livestock, cropping, vegetation, waste management and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock, vegetation and other (renewable energy and manure management).
+
+- General description: used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees and explores different management actions. Based on D-GAF.
+
+- Sector or land use: Beef (feedlot), beef (pasture), buffalo, deer, goats, poultry (broiler), poultry (layer), pork, sheep, cotton, cropping (grains), horticulture, rice, sugar, wild sea fishery, wine, eggs, aquaculture.
+
+- Type of estimate or analysis: GHG emissions.
+
+- Data required: property information, livestock, cropping, vegetation, fisheries, waste management and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock, vegetation and other (renewable energy and manure management) and Savanna fire management
+
+- General description: Calculator used to estimate GHG emissions at a commodity or whole of enterprise level, impacts of management activities on emissions and carbon storage in trees.
+
+- Sector or land use: forestry, cropping, grazing and non-agricultural land use.
+
+- Type of estimate or analysis: GHG emissions, ACCU Scheme and abatement estimates.
+
+- Data required: property information, cropping and vegetation.
+
+- Relevant carbon farming categories: soil and vegetation.
+
+- General description: used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in soil and vegetation. Also used to estimate abatement for some vegetation and soil carbon methods under the ACCU Scheme.
+
+- Sector or land use: beef (feedlot), beef (grazing), buffalo, dairy, deer, goats, poultry, pork, sheep, cotton, cropping, horticulture, rice and sugar.
+
+- Type of estimate or analysis: GHG emissions and abatement estimates.
+
+- Data required: property information, livestock, cropping, vegetation, waste management and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock, vegetation, other (renewable energy and manure management) and savanna fire management.
+
+- General description: individual sector-specific calculators used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees.
+
+- Sector or land use: agricultural and non-agricultural land use.
+
+- Type of estimate or analysis: abatement estimates.
+
+- Data required: property information, cropping, vegetation and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock and vegetation.
+
+- General description: used to produce indicative estimates of potential abatement under some ACCU Scheme methods, for a specified land area and time period.
+
+- Sector or land use: beef (feedlot), beef (grazing), goats, sheep and cropping.
+
+- Type of estimate or analysis: GHG emissions and abatement estimates.
+
+- Data required: property information, livestock, cropping, vegetation and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock, vegetation, other (renewable energy) and savanna fire management.
+
+- General description: used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees and explore different farm management actions. Built on Sheep and Beef Greenhouse Accounting Framework (SB-GAF) and Grains Accounting Framework (G-GAF). Emissions estimates include consumables usage and feedlots which are not included in the MLA QuickStart calculator (explained below).
+
+- Sector or land use: beef, sheep and cropping.
+
+- Type of estimate or analysis: GHG emissions and abatement estimates.
+
+- Data required: property information, livestock, cropping and vegetation.
+
+- Relevant carbon farming categories: soil, livestock and vegetation.
+
+- General description: used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees.
+
+- Sector or land use: beef, sheep, dairy, pork, poultry, cropping, forestry, horticulture and non-agricultural land use.
+
+- Type of estimate or analysis: GHG emissions, abatement estimates and biodiversity.
+
+- Data required: property information, livestock, cropping, vegetation and consumables usage.
+
+- Relevant carbon farming categories: soil and vegetation.
+
+- General description: used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees. PLANR also estimates biodiversity condition and can support planning of vegetation projects under the ACCU Scheme.
+
+- Sector or land use: beef (feedlot), beef (grazing), sheep and cropping.
+
+- Type of estimate or analysis: GHG emissions and abatement estimates.
+
+- Data required: property information, livestock, cropping, vegetation and consumables usage.
+
+- Relevant carbon farming categories: soil, livestock, vegetation and other (renewable energy).
+
+- General description: BASE (free) and PRIME (paid) versions are used to estimate GHG emissions, impacts of management activities on emissions and carbon storage in trees. Based on GAF tools. Ruminati PRIME can estimate emissions from feedlots and can be used to explore different management actions.
+
+- Sector or land use: agricultural or non-agricultural land use.
+
+- Type of estimate or analysis: abatement estimates.
+
+- Data required: property information, vegetation and external (vegetation map of project region).
+
+- Relevant carbon farming categories: savanna fire management.
+
+- General description: used to estimate abatement for projects under the ACCU Scheme Savanna Fire Management methods.
+
+The presentation of material in this summary does not imply the expression of any opinion, and the mention of specific companies or calculators does not imply that these have been endorsed or recommended by DAFF. Every effort has been made to ensure the information on calculators is accurate and linked to the most recent version of the calculator at the time of publication.
+
+Supporting information
+
+Calculator: name and responsible organisation. Some products include functions other than calculations; all are referred to as calculators for simplicity. A carbon calculator can be custom-made software or a spreadsheet (usually in Microsoft® Excel®) that can be used to conduct activities including estimating quantities of GHGs emitted and providing abatement estimates.
+
+Sector or land use: agricultural and non-agricultural sectors or land uses that a calculator relates to.
+
+Type of estimate or analysis: types of estimates or analyses the calculators can be used for.
+
+- GHG emissions: calculator can be used to estimate GHG emissions, which may include scope 1, 2 and 3 emissions, and could be for an operation (e.g. a farm or winery), a land area, or an activity.
+
+- ACCU Scheme: calculator is specified in an ACCU Scheme method for estimating abatement from projects conducted under the method.
+
+- Abatement estimates: calculator can be used to estimate abatement (emissions avoided or reduced or carbon stored) from activities. May provide for forecasts of abatement and/or estimates of abatement already achieved.
+
+- Biodiversity: tool can be used to examine biodiversity condition.
+
+Data required: types of input data that may be required.
+
+- Property information: may include area boundary, property name and size, location/region, annual rainfall, workforce, ownership status and distribution of land use activities on property. The calculator may include a geospatial tool to define an area boundary.
+
+- Livestock: may include livestock numbers, seasonal liveweights, animal sexes, liveweight gain, crude protein, dry matter digestibility, livestock purchase and sale inventory, milk production and supplementary feed use (e.g. hay, grain, cotton seed).
+
+- Cropping: may include crop varieties grown, area sown, average/yearly pasture and crop yields, soil properties (e.g. soil organic carbon), fertiliser usage and herbicide and pesticide usage.
+
+- Vegetation: may include species of trees, soil type, area of trees, age of trees, vegetation management actions, and fire management.
+
+- Waste management: may include solid waste (e.g. packaging), wastewater and organic waste (e.g. manure and vines). May also include how waste is managed (e.g. how much solid waste is recyclable or how much manure is drained to the paddock).
+
+- Consumables usage: may include water usage (e.g. irrigation types, water sources), fuel consumption (e.g. petrol, diesel, natural gas, liquified petroleum gas, biodiesel), vehicle types and farm transport data, and electricity usage (e.g. how much energy used has been purchased or generated) and winemaking products (e.g. CO2 and synthetic refrigerant).
+
+- External data: refers to specific information required by a calculator which is obtained from an external source.
+
+Relevant carbon farming categories: guidance on relevant carbon farming groups/activities, as identified in Topic 2.
+
+- format of calculator: Microsoft® Excel® spreadsheet or online platform
+
+- online or offline use: downloadable for offline use; or online only, and internet required
+
+- user fees and accounts: free and no account required; free and account required; free and account optional (calculator can be used without account but account needed to save calculations); free and paid options (users are required to pay a fee to access the full content of the calculator).
+
+General description: outlines the main features of each calculator. For consistency, descriptions have been based on whether:
+
+- the calculator estimates GHG emissions and/or carbon storage
+
+- the calculator explores the effect of different management practices on GHG emissions and explores management actions
+
+- the calculator is based on a GAF calculator
+
+- the calculator is used in an ACCU Scheme method.
+
+The calculators may have more functions than those described. Users of the summary table are encouraged to click on the link for each calculator to explore all available functions, and any recent or upcoming updates to the calculator.
+
+Other materials
+
+Understanding carbon co-benefits (Indigenous Carbon Industry Network)
+
+Chapter 10. Understanding Co-Benefits (PDF 844 KB) from the downloads page of the Indigenous Carbon Industry Network provides information about co-benefits from carbon farming practices for First Nations farmers and land managers.
+
+Evaluation of potential indicators for the co-benefits of carbon farming (New South Wales Department of Primary Industries and Regional Development)
+
+Potential indicators for the co-benefits of carbon farming (PDF 2 MB) is a report from a workshop hosted in 2019 on indicators relating to the potential co-benefits of carbon farming by the New South Wales Department of Primary Industries and Regional Development in collaboration with the University of New South Wales and the University of Technology Sydney.
+
+Life Cycle Assessments (AgriFutures)
+
+Life Cycle Assessments: A Useful Tool for Australian Agriculture (PDF 864 KB) is a booklet by the entity formerly known as the Rural Industries Research and Development Corporation, now called AgriFutures, that explains the main aspects of assessments, including the methodology for conducting one. It also provides several case studies of life cycle assessments.
+
+What is a life cycle assessment? (Australian Pork Limited)
+
+Life Cycle Assessment (PDF 4 MB) is a fact sheet produced by Australian Pork, explains life-cycle assessment, its difference from a carbon footprint and the different scopes of emissions included in a life cycle assessment.
+
+Calculating net emissions and reduction strategies for a broadacre farm (Grains Research and Development Corporation)
+
+Carbon Neutral Grain Farming by 2050 – an example in calculating net emissions for a broadacre farm and strategies to reduce net emissions is a Grains Research and Development Corporation report that looks at example GHG accounts from Western Australian cropping enterprises.

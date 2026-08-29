@@ -1,0 +1,59 @@
+Authors: Neal Hughes, Mihir Gupta, Wei Ying Soh, Chris Boult, Kenton Lawson, Michael Lu, Tim Westwood
+
+Summary
+
+The Agricultural Data Integration Project (AgDIP) is a long-term collaboration between ABARES and the Australian Bureau of Statistics (ABS) to develop, integrate and analyse new large-scale farm level agricultural data sets. During 2019-20 the project was supported by the Data Integration Partnership of Australia (DIPA).
+
+The AgDIP establishes a new national database of Australian farms, including information on agricultural production, business financial outcomes, weather conditions and commodity prices over the period 2000-01 to 2017-18. This database has significant long-term value to government and could inform a wide range of agricultural and environmental issues of relevance to Australian farms.
+
+The key achievements of the AgDIP to date include the construction of the Farm-level Longitudinal Agricultural Dataset (FLAD), the integration of FLAD with the ABS Business Longitudinal Agricultural Data Environment (BLADE) and the development of new predictive models linking farm outcomes with climate conditions.
+
+The Farm-level Longitudinal Agricultural Dataset
+
+The FLAD combines farm-level micro-data from all ABS Agricultural surveys and census’ undertaken between 2000–01 and 2017–18. The construction of FLAD accounts for variation in ABS collections over time, to provide consistent information on the production of a wide range of agricultural commodities (including dryland and irrigated crops and horticulture). FLAD also contains information on water use, livestock holdings and farm characteristics (e.g., land area and location). The FLAD contains more than 200 individual data items (variables) and nearly 800,000 sample points between 2000-01 and 2017-18, typically covering more than 90% of farms (around 100,000) in census years and 20% (around 20,000) in non-census years.
+
+Integrating with the BLADE
+
+The ABS BLADE provides detailed information on all Australian businesses including Australian Tax Office (ATO) administrative data drawn from Busines Activity Statement (BAS) and Business Income Tax (BIT) filings. For this project FLAD was integrated with the BLADE for the period 2005-06 to 2016-17, predominantly through simple matching of Australian Business Numbers (ABNs). The resulting FLAD-BLADE database can be applied to generate farm level information on production and financial outcomes for essentially every farm business in Australia.
+
+New farm-scale predictive models
+
+This FLAD-BLADE database was combined with climate and commodity price data to develop new statistical models, which can predict agricultural production at a farm-scale given information on prevailing climate conditions (e.g., rainfall and temperature), commodity prices and farm characteristics (location, size etc.). The methodology applied to develop these models follows that of ABARES farmpredict model (Hughes et al. 2019). To date, modelling has focused on two sectors: Australian cropping farms and irrigation farms in the Murray-Darling Basin.
+
+Case studies
+
+Five illustrative case studies are presented to demonstrate the potential of the AgDIP data / models. In each case more research would be required to confirm, test and expand the results.
+
+Trends in Australian crop production
+
+In this case study, trends in the area planted and yields for major Australian crops are presented, controlling for the effects of climate variability. This analysis replicates recent ABARES research (Hughes et al. 2017) but covers a wider range of crops and offers higher spatial resolution.
+
+Small area statistics for WA wheat
+
+This case study demonstrates how the AgDIP data and models could be applied to generate experimental small-region crop statistics for public release, overcoming limitations in current public statistics.
+
+Effects of drought on cropping farms
+
+In this case study, the AgDIP data and models are applied to quantify the effects of drought on the production and revenue of Australian cropping farms. This analysis replicates some recent ABARES research (Hughes et al. 2019) but again offers higher spatial resolution.
+
+Index-based drought insurance for cropping farms
+
+This case study provides an illustration of index-based farm insurance and how it could be applied to mitigate drought risk for cropping farms. The case study provides estimates of insurance pay-outs for a hypothetical insurance scheme and shows how these vary across regions and over time.
+
+Water productivity in the Murray-Darling Basin
+
+In this case study trends in water productivity (crop output per unit of water used) are presented for a range of irrigation crops in the Murray-Darling Basin, controlling for annual variability in climate and water prices.
+
+Future development and applications
+
+There are a number of opportunities for further development of the FLAD-BLADE datasets, including improvements to data quality and the continual addition of new years of data as they become available. There also remains significant potential to improve both the performance and coverage of the predictive models developed in this project.
+
+The FLAD / BLADE data sets do have some gaps and limitations which mean they are not a ready-made replacement for existing farm survey-based data collections. Nevertheless, the AgDIP datasets and related models have many potential applications. In the medium term, further refinement of the cropping farms models, could enable small area crop statistics to be produced on a national scale for all major crops. These models could also be linked with BOM seasonal outlook data to generate annual crop production forecasts.
+
+In the longer-term, these data sets could be used to help improve agricultural statistics, support government policy analysis and inform the agriculture and rural finance sectors in a wide range of ways. In particular, these data sets could support detailed evaluations of government policy programmes (i.e., measuring farm-level ‘treatment’ effects of specific government interventions). The datasets could also be applied to support the development of drought insurance markets.
+
+Download the report
+
+The Agricultural Data Integration Project (PDF 4.4 MB)
+
+The Agricultural Data Integration Project (PDF 3.6 MB)

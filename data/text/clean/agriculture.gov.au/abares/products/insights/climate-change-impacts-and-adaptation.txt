@@ -1,0 +1,371 @@
+Authors: Neal Hughes and Peter Gooday
+
+![Blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-image-1-01.png)
+
+Introduction
+
+In recent decades, Australia has seen a shift towards higher temperatures and lower winter rainfall, which has had significant effects on many farmers. Despite these trends there remains much uncertainty over the long-run effects of climate change on farm businesses. This article presents ABARES latest modelling, examining the effects of recent and possible future changes in climate on the profitability of Australian farms. Productivity trends are also presented, showing how farm adaptation has helped to offset the effects of hotter and drier conditions to date.
+
+![Blank](https://www.agriculture.gov.au/sites/default/files/images/climate-change-impacts-aus-farmers-infographic-1-01.png)
+
+[expand all]
+
+Recent changes in seasonal conditions have affected the profitability of Australian farms
+
+As detailed in the 2020 State of the climate report (BOM and CSIRO 2020), Australia’s climate has warmed on average by 1.4°C since 1910, with most of this occurring since 1950. There has also been a decline in winter season (April to October) rainfall in south-western Australia (20% since 1970) and south-eastern Australia (12% since 2000, BOM and CSIRO 2020).
+
+Previous ABARES research (Hughes, Galeano and Hatfield-Dodds 2019) has estimated the impacts of these changes in conditions on Australian broadacre farms, by applying the farmpredict model (Hughes et al. 2019) to simulate the effects of rainfall and temperature changes holding all other factors (including commodity prices, farm technology and size) constant.
+
+ABARES latest modelling (Hughes, Lu et al. 2021, presented in Figure 1 and Table 2) estimates that changes in seasonal conditions over the period 2001 to 2020 (relative to 1950 to 2000) have reduced annual average farm profits by 23%, or around $29,200 per farm. These impacts have been most pronounced in south-western and south-eastern Australia (Figure 1), with northern Australia and the coastal higher rainfall zones tending to be less affected.
+
+Conditions during the post-2000 period have also contributed to increased risk in terms of more variable cash income and profits. In the 20 years since 2000, the risk of very low farm returns (due to climate variability) essentially doubled (relative to the period 1950 to 2000), increasing from a 1 in 10 frequency to more than 1 in 5 (Hughes, Galeano and Hatfield-Dodds 2019).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-1-01-low-res.png)
+
+Notes: Simulated broadacre farm profit with current (2015–16 to 2018–19) farms and commodity prices and recent (2000–01 to 2019–20) climate. Map presents interpolated farm-level percentage changes (relative to 1949–50 to 1999–2000 climate), calculated using a Symmetric Mean Absolute Percentage Error (SMAPE) metric.
+
+Source: ABARES farmpredict model (Hughes, Lu et al. 2021)
+
+Future changes in climate could make conditions tougher for Australian farms
+
+Climate model projections provide some insight into the possible climate futures farmers may face over the longer-term. For this study, projections for rainfall and temperature by 2050 were obtained from Climate Change in Australia (CSIRO and BOM 2015). These projections cover two Representative Concentration Pathways (RCPs): RCP4.5 and RCP8.5 and a range of Global Circulation Models (GCMs).
+
+The RCP8.5 scenario assumes limited curbing of global emissions, such that CO2 concentrations reach around 540 ppm by 2050. Under RCP4.5 global emissions peak by 2040, and CO2 concentrations reach around 485 ppm by 2050 (for more details see the methods section).
+
+For each emission scenario a wide range of possible outcomes are projected across each of the different GCMs, particularly for rainfall. For example, under RCP4.5 average declines in winter (April to October) season rainfall for Australian farmers of between 2.7% and 20.6% are projected for 2050, compared with an observed decline since 2001 of 16.2%. Larger reductions are projected under RCP8.5 of 6.1% to 30.1% on average (Table 1).
+
+These climate projections are combined with ABARES farmpredict model to simulate the potential impacts of future climate change on the profits of Australian broadacre farmers (see methods section for more detail). Importantly, this analysis does not account for the offsetting positive effects of farm adaptation or technological improvement (or any changes in global commodity prices). As such, the results are not projections of likely outcomes in 2050, but rather estimates of ‘adaptation pressure’: identifying which regions, sectors and farm types are likely to be under more pressure to adapt to climate change.
+
+Results are shown in Table 2 (and Figures 2 and 4) for seven major farming region and industry groupings (defined in Figure 3). The results show a wide range of outcomes, with simulated changes in average farm profits under the Future (RCP4.5 2050) scenario ranging from -31.9% to -2.0%, and for the RCP8.5 scenario ranging from -49.9% to -10.7% (Table 2).
+
+While much uncertainty remains, the results suggest that climate change could make conditions tougher for Australian farmers and will require significant adaptation responses. However, the projected results vary considerably across farming regions and industries.
+
+Source: CSIRO and BOM 2015, Hughes, Lu et al. (2021)
+
+| Industry group | Historical (mm/month) | Recent (2001–2020) | Future (RCP4.5 2050) |  |  | Future (RCP8.5 2050) |  |  | 
+
+|---|---|---|---|---|---|---|---|---|
+
+|  |  |  | min | mean | max | min | mean | max | 
+
+| Beef – Northern | 36.6 | –19.1 | –20.7 | –0.8 | +8.5 | –33.4 | –13.3 | +6.1 | 
+
+| Beef – Southern | 71.7 | –13.3 | –18.8 | –7.4 | –3.6 | –26.6 | –12.3 | –8.0 | 
+
+| Sheep – Lamb | 58.9 | –15.8 | –18.8 | –5.1 | –2.2 | –29.0 | –11.4 | –4.1 | 
+
+| Sheep – Mixed | 53.9 | –17.4 | –18.3 | –3.9 | –1.5 | –28.6 | –10.3 | –4.1 | 
+
+| Cropping – Northern | 41.9 | –21.1 | –17.0 | +0.1 | +3.0 | –28.7 | –8.2 | +0.6 | 
+
+| Cropping – Southern | 45.3 | –15.3 | –27.5 | –3.3 | +1.3 | –35.0 | –9.4 | –3.1 | 
+
+| Cropping – Western | 44.6 | –16.3 | –33.3 | –20.1 | –8.7 | –43.1 | –30.3 | –13.0 | 
+
+| All farms | 52.5 | –16.2 | –20.5 | –4.4 | –2.7 | –30.1 | –11.2 | –6.1 | 
+
+Source: ABARES farmpredict model (Hughes, Lu et al. 2021)
+
+| Industry group | Historical (1950–2000) ($) | Recent (2001–2020) | Future (RCP4.5 2050) |  |  | Future (RCP8.5 2050) |  |  | 
+
+|---|---|---|---|---|---|---|---|---|
+
+|  |  |  | min | mean | max | min | mean | max | 
+
+| Beef – Northern | 152,815 | –3.1 | –22.1 | –11.7 | –3.0 | –54.5 | –27.6 | –16.3 | 
+
+| Beef – Southern | 20,968 | –22.5 | –26.6 | +0.5 | +10.3 | –63.8 | –18.0 | –2.7 | 
+
+| Sheep – Lamb | 108,234 | –14.9 | –16.6 | –5.8 | –0.1 | –31.6 | –12.9 | –5.6 | 
+
+| Sheep – Mixed | 58,817 | –26.7 | –37.3 | –13.2 | –6.3 | –66.3 | –28.1 | –15.9 | 
+
+| Cropping – Northern | 212,491 | –36.2 | –23.7 | 9.8 | –3.6 | –43.1 | –20.1 | –4.8 | 
+
+| Cropping – Southern | 179,423 | –21.7 | –27.7 | –3.3 | +11.5 | –30.8 | –8.5 | +4.1 | 
+
+| Cropping – Western | 437,227 | –26.8 | –55.9 | –31.6 | –5.1 | –68.1 | –50.5 | –7.3 | 
+
+| All farms | 129,187 | –22.6 | –31.9 | –4.4 | –2.0 | –49.9 | –25.6 | –10.7 | 
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-2-01-low-res.png)
+
+Source: ABARES farmpredict model (Hughes, Lu et al. 2021)
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-3-01-low-res.png)
+
+Cropping farms in western Australia are more heavily impacted than other regions under most climate scenarios, due largely to the more substantial projected declines in winter rainfall and the resulting effects on crop yield. For these farms, declines in profit under the 2050 projection scenarios are (on average across the 6 GCMs) larger than those observed over the recent period (for both RCP4.5 and RCP8.5).
+
+In the beef and sheep sectors projected impacts under RCP4.5 remain relatively modest, such that for most scenarios changes in profit are smaller than those observed under the recent climate period. However, impacts in the livestock sector become much more significant under the RCP8.5 due to the larger projected temperature increases.
+
+In general, more severe farm effects are observed in the ‘marginal’ (lower rainfall / in-land) sections of the Australian agricultural zone (Figure 4 and 5). The largest impacts are estimated for the northern edge of the Western Australian cropping zone, parts of western NSW and central Queensland. Relatively mild impacts are simulated in Tasmania and in many coastal high-rainfall locations on the mainland.
+
+![](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-4-01-low-res.png) 
+
+Notes: Simulated broadacre farm profit with current (2015–16 to 2018–19) farms and commodity prices and Future RCP4.5 2050 climate. Map presents interpolated farm-level percentage changes (relative to 1949–50 to 1999–2000 climate), calculated using a Symmetric Mean Absolute Percentage Error (SMAPE) metric.
+
+Source: ABARES farmpredict model (Hughes, Lu et al. 2021)
+
+![](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-5-01-low_res.png) 
+
+Notes: Simulated broadacre farm profit with current (2015–16 to 2018–19) farms and commodity prices and Future RCP8.5 2050 climate. Map presents interpolated farm-level percentage changes (relative to 1949–50 to 1999–2000 climate), calculated using a Symmetric Mean Absolute Percentage Error (SMAPE) metric.
+
+Source: ABARES farmpredict model (Hughes, Lu et al. 2021)
+
+Modelled future impacts for cropping farms in eastern Australia (Southern and Northern cropping regions) are relatively modest, in comparison to the effects of the recent climate period. However, there remains significant uncertainty over future rainfall projections in eastern Australia, with limited agreement among GCMs (CSIRO and BOM 2015), and a disconnect emerging in some regions between projections and observations, with recent trends tracking the extreme dry end of the projected range (see BOM and CSIRO 2020, page 23). This uncertainty over future climate remains a potential constraint on adaptation in the farm sector as discussed in the next section.
+
+Simulation results also project increases in average Australian prices for major grain crops (wheat, barley and sorghum) ranging from 3% to 24% (Hughes, Lu et al. 2021). This represents climate change increasing the frequency and severity of drought induced grain shortages and related price spikes, similar to those observed in Australia during the 2018–19 and 2019–20 droughts (Hughes, Soh et al. 2020). These higher grain prices help to limit the impacts of climate change on cropping farms, but pass additional costs onto grain consumers, including sectors not modelled here such as intensive livestock businesses (e.g., cattle feed-lots, poultry and pig production) and food manufacturing.
+
+Farmers are adapting
+
+Productivity gains are helping to offset climate effects
+
+There is already evidence of strong farm adaptation responses to the recent climate shifts with improvements in technology and management practices helping to increase farm productivity (see Hochman et al. 2017; Hughes et al. 2017).
+
+Figures 6 and 7 present estimates of farm Total Factor Productivity (TFP) which measures the performance of the industry over time, including gains achieved through the adoption of new technologies.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-6-01-low-res.png)
+
+Source: ABARES AAGIS data, ABARES farmpredict model, Chancellor et al. (2021)
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-7-01-low-res.png)
+
+Notes: Climate-adjusted productivity under average of 1988–89 to 2019–20 climate conditions.
+
+Source: ABARES AAGIS data, ABARES farmpredict model, Chancellor et al. (2021)
+
+Farm TFP estimates are strongly affected by climate variability (see Figures 6 and 7) and these climate effects can obscure underlying trends in farm performance. This is a problem when measuring productivity growth over the recent period (1989 to 2020) given the strong trends in average rainfall and temperature.
+
+Recently, ABARES has developed a methodology to produce ‘climate-adjusted’ estimates of farm TFP, which estimate productivity under long-run average climate conditions (see the methods section or Chancellor et al. 2021). These climate-adjusted estimates provide a clearer picture of farm performance gains, driven by new technologies and management practices and in-turn research and development (R&D) investment.
+
+Climate-adjusted TFP estimates show an increase in farm productivity across the broadacre sector of around 28% since 1989, with much larger gains in the cropping sector (68% since 1989). These gains in productivity have offset the negative effects of climate over the last 30 years, such that actual industry productivity levels have still increased or at least remained stable (see Hochman et al. 2017; Hughes et al.
+
+In addition, farmers have also experienced improvements in commodity prices in recent years, particularly for livestock products. A combination of productivity growth, better prices and increases in farm size have resulted in an upward trend in farm profits over the last decade, at least until the droughts of 2018–19 and 2019–20 (Figure 8).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-8-01-low-res.png)
+
+Notes: Climate-adjusted profits under average of 1988–89 to 2019–20 conditions. Climate-adjusted series is a 3-year moving average.
+
+Source: ABARES AAGIS data, ABARES farmpredict model
+
+Farmers are getting better at handling dry conditions
+
+Much of the adaptation effort on farms has been directed towards improving performance under dry conditions (Hughes et al. 2017). Within the cropping sector for example there have been a variety of management practice changes implemented in recent decades (including conservation tillage and soil amelioration) focused on preserving soil moisture as an adaptation to reduced growing season rainfall.
+
+In recent research ABARES has applied farmpredict to construct indicators measuring the effects of drought on Australian farms. The farm drought risk indicators measure the change in farm outcomes between a ‘normal’ (median) year and a drought (10th percentile) year (see Table 3). These indicators help to assess how the sensitivity of Australian farms to drought has changed over time (see the methods section or Hughes, Burns, et. al. 2020).
+
+Notes: drought risk is the percentage change between a normal (median) climate year and a drought (10th percentile) year.
+
+Source: ABARES farmpredict model (Hughes, Burns, et al. 2020).
+
+| Farm profit ($'000) | 1988–89 to1992–93 | 2015–16 to2019–20 | Change (%) | 
+
+|---|---|---|---|
+
+| Normal year | 134.6 | 164.9 | –23% | 
+
+| Drought year | 107.8 | 103.7 | –4% | 
+
+| Risk (%) | 19.9 | 37.1 | 86% | 
+
+| Farm household income > 50,000 (%) |  |  |  | 
+
+| Normal year | 79.6 | 75.8 | –5% | 
+
+| Drought year | 75.8 | 71.9 | –5% | 
+
+| Drought year | 4.9 | 5.1 | 5% | 
+
+| Wheat yield (t/ha) |  |  |  | 
+
+| Normal year | 2.1 | 2.4 | 13% | 
+
+| Drought year | 1.4 | 1.7 | 21% | 
+
+| Risk (%) | 32.5 | 28.1 | –14% | 
+
+| Beef cattle net birth rate (%) |  |  |  | 
+
+| Normal year | 28.5 | 29.3 | 3% | 
+
+| Drought year | 27.9 | 28.7 | 3% | 
+
+| Risk (%) | 2.3 | 1.9 | –15% | 
+
+Figure 9 presents estimates of average wheat yield drought risk for Australia and illustrates how drought risk has changed over time. Wheat yield drought risk shows a strong improvement since 2007–08, as technology and management practice changes have helped farmers improve crop yields under dry conditions. Since 2007–08 wheat yields under dry conditions have increased by 14%, more than double the gains in yield under normal conditions over the same period.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-9-01-low-res.png)
+
+Notes: Farm production (wheat yield) drought risk, by farm / technology year for a fixed climate sequence (1949–50 to 2019–20). Wheat yield drought risk is the % reduction in yield in a drought (1 in 10 poor climate) year relative to a normal (median) year.
+
+Source: ABARES farmpredict model (see Hughes, Burns, et al. 2020)
+
+This trend is also partly due to changes in the location of cropping activity, including a shift towards increased cropping in higher rainfall areas relative to more ‘marginal’ or drought exposed parts of Australia (see Hughes et al. 2017 and Figure 12).
+
+The increased ability of cropping farmers to withstand dry conditions has been highlighted recently with the 2020 winter crop harvest in Western Australia far exceeding expectations given the seasonal conditions experienced (see ABARES 2021).
+
+Farm profits have become more sensitive to drought impacts
+
+Despite these improvements Australian farm profits have become more sensitive to drought impacts overtime. That is, while average farm productivity and profits have increased, the difference between profits in normal and drought years has widened.
+
+Table 3 presents estimates of farm drought risk, including farm business profit drought risk: the percentage reduction in farm profits in a drought year relative to a normal year. Farm profit drought risk has increased consistently since 1989 (Figure 10), due largely to structural changes in the agricultural sector, including a shift towards increased cropping activity (and away from livestock farming), which is subject to relatively higher drought risk.
+
+As shown in Figure 11, the proportion of Australian farmland devoted to cropping has increased dramatically over the last 30 years. This trend has slowed, with signs of a decline in cropping activity in recent years, driven predominantly by declines in parts of New South Wales and South Australia (Figure 12).
+
+These trends reflect adjustment within and across farms in response to economic and climate drivers, as farmers manage trade-offs between risk and return. For example, the trend towards cropping occurred largely in response to declines in wool and sheep prices in the early 1990s (see Hughes et al. 2017, Hughes, Burns et al. 2020).
+
+The more recent reversal reflects a shift away from cropping in some more ‘marginal’ parts of the Australian cropping zone (see Figure 12 and Hughes et al. 2017, AEGIC 2016, Chen et al. 2020), which likely reflects both the long-term shift in rainfall patterns and more recent increases in livestock prices.
+
+Despite the recent falls in cropping area, farm profit drought risk has continued to increase due to an increase in drought sensitivity within the livestock sector. This reflects an extended run of poor conditions in many livestock areas since 2015–16, which has reduced livestock herds and hay and grain stocks: increasing the drought risk faced by these farms in the short run (see Hughes, Burns et al. 2020).
+
+While farm profit drought risk has been increasing, farm household income drought risk (change in the proportion of farm households with income less than $50,000 between normal and drought years) has remained relatively stable over time. This is largely because, on average, farm household financial stress is only weakly related to drought impacts and is driven more by factors such as farm size and off-farm income (Hughes, Burns et al. 2020).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-10-01-low-res.png)
+
+Notes: Farm profit drought risk, by farm / technology year for a fixed climate sequence (1949–50 to 2019–20). Farm profit drought risk is the % reduction in profit in a drought (10th percentile) year relative to a normal (median) year.
+
+Source: ABARES farmpredict model (Hughes, Burns et al. 2020)
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-11-01-low-res.png)
+
+Source: ABARES AAGIS
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/1ccia-aus-farms-12-01-low_res.png)
+
+Notes: Excludes beef farms and farms with less than 10% of land area set-up for cropping. Average of 2015–16 to 2019–20 compared to 2005–06 to 2009–10. Areas in-land of the 220mm rainfall contour received less than 220mm average rainfall per year during the period 1950 to 2020.
+
+Source: ABARES AAGIS data
+
+![Blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-image-2-01.png)
+
+Adaptation will help offset future climate impacts
+
+Improvements in technology will be important
+
+Scenario results show a wide range of outcomes for Australian farms, due mostly to uncertainty across climate projections, particularly for rainfall. While the most severe projections show large reductions in farm profits (up to 50% nationally) these results do not account for any adaptation. In practice, climate impacts will induce strong adaptation responses, reducing impacts on farm incomes.
+
+Recent industry trends demonstrate the potential for gains in technology to help mitigate the effects of drier and hotter conditions. A continuation of long-run historical productivity trends would be sufficient to prevent any decline in broadacre farm production by 2050 even under the most severe climate projections (Hughes, Lu et al. 2021).
+
+However, it remains hard to predict future productivity growth, particularly the extent to which new technologies can improve the water use efficiency of crop and pasture systems beyond current levels. Further, while productivity gains may offset climate impacts, climate change could still reduce the international competitiveness of Australian farmers relative to other nations, particularly if Australia’s main competitors are not affected by climate change to the same extent.
+
+Climate change could accelerate farm structural change
+
+While it remains difficult to quantify the long-term consequences of climate change for Australian agriculture, recent trends suggest that a number of structural changes are possible. One response could be a shift away from cropping towards livestock and mixed farming, particularly in lower rainfall areas of the traditional Australian cropping zone. Already there is evidence of a shift in some regions over the last decade (see Figure 12, Hughes et al. 2017, Hughes, Gupta, et al. 2020).
+
+Climate change could also lead to continued increases in average farm size, and consequent reductions in farm business numbers. Farm survey data consistently show higher productivity and profit levels among larger farm businesses (Boult and Jackson 2019; Jackson et al. 2020), while larger farms are also less sensitive to drought risk (Hughes, Burns et al. 2020). Given their lower profit margins, smaller farms are likely to face greater pressure from climate change which could hasten farm consolidation trends.
+
+Infrastructure investment patterns could also be affected. For example, increased investment in on and off-farm grain storage, and / or grain import supply chains, could occur as industry seeks to limit the frequency and severity of drought induced grain shortages and related price spikes.
+
+Climate change could lead to ‘transformational change’
+
+In the long-term, there may be pressure for more transformative change, at least where productivity growth is insufficient to offset the effects of climate change. This could include the emergence of new land use activities such as carbon abatement, biodiversity conservation, or renewable energy generation as complements to traditional farming (Bryan et al. 2016). However, it is difficult to predict the likely extent of such changes given uncertainties over climate, technological progress, global commodity prices and incentive structures associated with new activities, such as carbon abatement and biodiversity conservation.
+
+The future is highly uncertain, preparation is essential
+
+Better information
+
+Uncertainties faced by farmers over the future climate have the potential to constrain adaptation, particularly adaptation requiring long-term investment. Here the development of climate information remains crucial in supporting adaptation. Advances in short and long-term weather forecasting and climate change projection and attribution studies could all help farmers to adapt to climate change more decisively.
+
+Another challenge is effectively communicating available climate information in a clear and simple way for farmers and other stakeholders. Ongoing projects under the Future Drought Fund (FDF) including Climate Services for Agriculture (CSA) and Drought Resilience Self-Assessment Tool (DRSAT) could play an important role, as could the recently established Australian Climate Service.
+
+Improvements in data could also support the development of drought insurance markets. Effective drought insurance could help farmers to manage their exposure to drought risk, while encouraging long-term adaptation to climate change (Hughes, Lu et al. 2020, Hughes 2018). Drought insurance markets have struggled to achieve commercial viability to date, however improvements in data could support new approaches including parametric or ‘index-based’ insurance (Hughes, Lu et al. 2020, Hughes 2018).
+
+Research and development
+
+Agricultural research and development (R&D) is another way governments support adaptation, by promoting the development and adoption of new technologies. This includes a continuation of existing efforts to improve agricultural productivity and manage climate variability through the agricultural R&D corporations (RDCs).
+
+Australia’s commodity based RDC system is well placed to research incremental adaptation to improve traditional crop and livestock production systems. However, research effort also needs to be devoted to more transformational responses, to investigate new commodities or non-traditional farming activities.
+
+Here more recently developed initiatives including Agricultural Innovation Australia (AIA) and the Future Drought Fund could play an important role. Ongoing research into carbon and biodiversity farming could also assist (including the Agriculture Biodiversity Stewardship Pilot and related initiatives) particularly where it can provide more clarity around future incentive structures for these new activities.
+
+Drought policy
+
+Climate change has the potential to increase the frequency and severity of drought events (BOM and CSIRO 2020) and Australian farmers have observed an increase in drought over the last 20 years.
+
+Climate change is also beginning to challenge conventional definitions of drought (which rely on comparisons against long-run historical reference periods, see Hughes, Soh et al. 2020). Already, there is evidence that Australian farmers have revised their own perception of drought in line with the changes in climate observed in recent decades (Hughes, Soh et al. 2020).
+
+How farm businesses manage any increase in drought risk, by improving their physical and/or financial resilience, will be central to future outcomes in the agricultural sector. Promoting this drought resilience is the central aim of the Future Drought Fund.
+
+Climate change presents a challenge for governments given the possible tension between short-term drought relief and the promotion of long-term drought resilience (see Hughes and Hatfield-Dodds 2018, Hughes, Galeano Hatfield-Dodds, 2019). It will be important to continually monitor and evaluate drought support programs to ensure they do not inhibit farm adaptation and structural adjustment in response to a changing climate.
+
+![Blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-image-3-01.png)
+
+Methods and data sources
+
+ABARES farmpredict model
+
+ABARES farmpredict is a statistical model developed using historical farm data from ABARES Australian Agricultural and Grazing Industry Survey (AAGIS) along with climate data from the Bureau of Meteorology (BOM). The farmpredict model draws on over 40,000 farm observations to predict, or simulate, over 50 physical and financial farm variables.
+
+This includes simulation of the production of farm outputs (e.g. wheat, beef cattle, wool etc.), the use of farm inputs (e.g., fuel, fertiliser, labour etc.) and changes in farm stocks (e.g., livestock and grain), given information on farm fixed inputs (e.g., land and capital), input and output prices and prevailing climate conditions (Figure 13). farmpredict provides coverage of all major broadacre farming regions and industries, including extensive cropping and livestock (beef and sheep) and mixed farming types. For a detailed description of the data and methods underlying the farmpredict model see Hughes et al. (2019).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/ccia-aus-farms-13-01-low-res.png)
+
+Source: ABARES
+
+Future climate scenario assumptions
+
+Climate projection data are taken from Climate Change in Australia (CSIRO and BOM 2015). Specifically, this study makes use of downscaled rainfall and temperature projections, using the delta change method with quantile scaling (CSIRO and BOM 2015).
+
+CSIRO and BOM (2015) provide this data for 8 of the 40 GCMs in Climate Model Intercomparison Project 5 (CMIP5), and only for two emission scenarios (RCP4.5 and RCP8.5). In this study, 6 of these 8 GCMs are included (ACCESS1.0, CESM1-CAM5, CNRM-CM5, GFDL-ESM2M, HadGEM2-CC, CanESM2) with NorESM1-M and MIROC5 omitted due to their low skill for historical Australian rainfall (see CSIRO and BOM 2015, Hughes, Lu et al. 2021).
+
+CSIRO rainfall and temperature projections are combined with ABARES farmpredict model to simulate potential outcomes under future (2050) climate conditions. Farms sampled in AAGIS between 2015–16 to 2018–19 are taken as the basis for all model simulations. This sample consists of 6,312 observations providing representative coverage of the broadacre farming sector across a wide range of locations and farm sizes. The model simulations take farm characteristics (e.g., land area, capital and opening stock holdings and other control variables) as observed in the survey data during these years.
+
+Farm input and output commodity prices are set at recently observed (2015–16 to 2018–19) levels. While global commodity prices are assumed fixed at current levels, grain output (wheat, barley and sorghum) and fodder input prices are adjusted in the model simulations to account for the potential effects of climate on domestic Australian grain and fodder markets (i.e., domestic price spikes in drought years), following an approach developed by Hughes, Soh, et al. (2020).
+
+For further information on the future climate simulations presented in this report see Hughes, Lu et al. (2021).
+
+Climate-adjusted productivity
+
+Climate-adjusted estimates of farm Total Factor Productivity (TFP) presented in this report use the methods developed in Chancellor et al. (2021). The farmpredict model is used to simulate farm inputs and farm outputs under a range of climate conditions based on the historical climate sequence 1988–89 to 2019–20. Using this simulated data ABARES TFP indexes are generated for each climate year following ABARES standard TFP methodology (Zhao et al. 2012). Climate-adjusted productivity is then defined as TFP under long run average conditions (the average of 1988–89 to 2019–20 conditions).
+
+Farm drought risk
+
+Estimates of farm drought risk follow the methodology developed in Hughes, Burns, et al. (2020). The farmpredict model is applied to simulate farm profits under a range of climate conditions (1949–50 to 2019–20). Drought risk is then defined as the percentage change in farm outcomes between a median and a 10th percentile year. Farm profit drought risk indicators are based on the AAGIS profit at full equity measure and farm household income measures are based on the proportion of farms with household income (farm cash income plus off-farm income) less than $50,000 (see Hughes et al. 2020 for more detail).
+
+References
+
+AEGIC 2016, New Australian climate developing, Australian Export Grains Innovation Centre, Perth.
+
+Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) Australian Crop Report, February 2021.
+
+Bryan, B.A., M. Nolan, L. McKellar, J.D. Connor, D. Newth, T. Harwood, D. King, J. Navarro, Y. Cai, L. Gao, and others. 2016. Land-use and sustainability under intersecting global change and domestic policy scenarios: Trajectories for Australia to 2050. Global Environmental Change 38, 130–152.
+
+Bureau of Meteorology and CSIRO 2020, State of the climate.
+
+Chancellor, W, Hughes, N, Zhao, S, Soh, W, Valle, H, and Boult, C, 2021, Controlling for the effects of climate on total factor productivity: a case study of Australian farms, Food policy.
+
+Chen, C, Fletcher, A, Ota, N, Lawes, R, Oliver, Y, 2020, Has historic climate change affected the spatial distribution of water-limited wheat yield across Western Australia?, Climatic change, Vol. 259.
+
+CSIRO and Bureau of Meteorology 2015, Climate Change in Australia Information for Australia’s Natural Resource Management Regions: Technical Report.
+
+Hughes, N, Burns, K, Soh, W, and Lawson, K, 2020, Measuring drought risk: the exposure and sensitivity of Australian farms to drought, ABARES research report.
+
+Hughes, N, Galeano, D, Hatfield-Dodds, S, 2019, The effects of drought and climate variability on Australian farms, ABARES insights report.
+
+Hughes, N, Gupta, M, Soh, W, Boult, C, Lawson, K, Lu, M, and Westwood, T, 2020, The Agricultural Data Integration Project, ABARES research report.
+
+Hughes, N and Hatfield-Dodds, S, 2018, Helping farmers in distress doesn’t help them be the best: the drought relief dilemma, The Conversation.
+
+Hughes, N, 2018, Better data would help crack the drought insurance problem, The Conversation.
+
+Hughes, N, Lawson, K, and Valle, H, 2017, Farm performance and climate: Climate-adjusted productivity on broadacre cropping farms, ABARES research report.
+
+Hughes, N, Lu, M, Soh, W, Lawson, K, 2021, Simulating the effects of climate change on the profitability of Australian farms, ABARES working paper.
+
+Hughes, N., Soh, W, Boult, C, Lawson, K, 2020, Defining drought from the perspective of Australian farmers, ABARES working paper.
+
+Hughes, N., Soh, W, Boult, C, Lawson, K, Donoghoe, M, Haydn, V, and Chancellor, W, 2019, farmpredict: A micro-simulation model of Australian farms, ABARES working paper.
+
+Zhao, S., Sheng, Y. and Gray, E.M., 2012. Measuring productivity of the Australian broadacre and dairy industries: concepts, methodology and data. Productivity growth in agriculture: an international perspective, pp.73-108.
+
+Download the report
+
+ABARES Insights: Analysis of Climate change impacts and adaptation on Australian farms – PDF
+
+ABARES Insights: Analysis of Climate change impacts and adaptation on Australian farms infographic – PDF
+
+Other resources
+
+ABARES working paper - Simulating the effects of climate change on the profitability of Australian farms
+
+The Conversation – Australian farmers are adapting well to climate change, but there’s work ahead

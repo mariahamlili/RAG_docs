@@ -1,0 +1,270 @@
+The Australian Standards for the Export of Livestock (ASEL) requires exporters to provide an End of
+Journey report to the department for every livestock consignment exported by air. The Livestock
+exports by air report is compiled from information in the End of Journey reports and includes statistics
+on mortalities (current as at 31 July 2026).
+Financial Year
+Export of Livestock 2020/21 2021/22 2022/23 2023/24 2024/25
+Alpacas Exported
+107
+661
+401
+839
+1,463
+Alpacas Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+Buffalo Exported
+0
+0
+0
+0
+0
+Buffalo Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+Camels Exported
+0
+0
+13
+18
+99
+Camels Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+Cattle Exported
+5,184
+3,662
+2777
+2,533
+3,233
+Cattle Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+Goats Exported
+15,002
+3,120
+13,866
+16,496
+17,912
+Goats Mortalities
+2
+1
+0
+0
+0
+Total Mortality Rate
+0.01%
+0.03%
+0.00%
+0.00%
+0.00%
+Llamas Exported
+0
+0
+12
+8
+18
+Llamas Mortality
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00%
+0.00%
+0.00%
+0.00%
+0.00%
+Sheep Exported
+32,357
+14,117
+18,887
+16,642
+17,443
+Sheep Mortalities
+3
+0
+2
+3
+80
+Total Mortality Rate
+0.01%
+0.00%
+0.01%
+0.02%
+0.46%
+Calendar Year
+Export of Livestock 2021
+2022 2023 2024 2025
+Alpacas Exported
+669
+256
+838
+947
+846
+Alpacas Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00% 0.00% 0.00% 0.00% 0.00%
+Buffalo Exported
+0
+0
+0
+0
+0
+
+Buffalo Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00% 0.00% 0.00% 0.00% 0.00%
+Camels Exported
+0
+0
+31
+69
+42
+Camels Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00% 0.00% 0.00% 0.00% 0.00%
+Cattle Exported
+5,290 2,845 2,844 3,633
+2,593
+Cattle Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00% 0.00% 0.00% 0.00% 0.00%
+Goats Exported
+12,018 4,869 18,359 14,809 32,688
+Goats Mortalities
+2
+0
+0
+0
+0
+Total-Mortality Rate
+0.02% 0.00% 0.00% 0.00% 0.00%
+Llamas Exported
+0
+0
+12
+26
+0
+Llamas Mortalities
+0
+0
+0
+0
+0
+Total Mortality Rate
+0.00% 0.00% 0.00% 0.00% 0.00%
+Sheep Exported
+22,572 16,435 18,304 14,357 16,273
+Sheep Mortalities
+1
+1
+1
+83
+0
+Total Mortality Rate
+0.01% 0.01% 0.01% 0.58% 0.00%
+The yearly figures are updated once all data has been received for the reporting period.
+The Livestock exports by air report will allow you to download data and develop your own reports. The
+figures provided in the spreadsheet are the total numbers (Head) exported – by species, destination
+country and end use. The following fields have been provided to allow you to develop a variety of
+reports.
+State of export
+Port of export
+Species
+End Use
+Destination Country
+Quantity
+Mortality
+Mortality Rate
+Month of export
+Calendar Year of export
+Financial Year of export.
+The excel spreadsheet is updated monthly. Figures are subject to change as more data becomes
+available.
+To generate the data you are interested in, please download the Excel file and select the filter drop down
+arrow located in the grey highlighted header.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+•
+
+Please note: you are able to use multiple filters at one time – for example:
+Select the drop down arrow in Species and select Sheep
+Select the drop down arrow in Country and select Indonesia
+Select the drop down arrow in End Use and select Breeder
+Select the drop down arrow in Year and select 2018.
+These filtered fields will then provide you with the number of breeder sheep exported to Indonesia in
+2018.
+To clear any filtered selections, click on the Sort & Filter button in the top right corner of the ribbon and
+then select Clear.
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/live-animals/live-animal-export-
+statistics/livestock-exports-by-air
+• 
+• 
+• 
+•

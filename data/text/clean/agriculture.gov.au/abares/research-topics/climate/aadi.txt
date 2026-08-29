@@ -1,0 +1,27 @@
+AADI is designed to take historical and forecast climate data as inputs to a number of economic and biophysical agricultural simulation models, to provide short-term forecasts for a range of agricultural outcomes including:
+
+- Crop yields – provides an indication of the effect of forecast weather conditions on winter crop and summer crop yields
+
+- Pasture growth – simulated pasture growth provides an indication of the effects of weather conditions on the amount of new grass available for livestock.
+
+- Farm profit – provides an indication of the overall effects of forecast weather conditions and prices on annual farm business profits.
+
+![The Australian Agricultural Drought Indicator (AADI) system translates spatial climate data and forecasts into predictions of local agricultural outcomes. The AADI system takes gridded historical and forecast climate data as inputs to agricultural simulation models; given other data and assumptions on the types of soil, pasture and agricultural activity prevailing at each grid cell, these models predict agricultural outcomes including pasture growth via the AussieGRASS system (Carter et al., 2000) and the GrassGro model (Moore et al., 1997; Donnelly et al., 2016), winter and summer crop yields via APSIM (Holzworth et al., 2014), and farm business profits via the farmpredict model (Hughes et al., 2022b). The simulated agricultural outcomes are presented on the AADI user interface as percentile statistics for a range of indicators including pasture growth, winter crop yield, summer crop yield and farm profit.](https://www.agriculture.gov.au/sites/default/files/images/australian-ag-drought-indicators-infographic.png) 
+
+Publications
+
+The Australian Agricultural Drought Indicators: Progress report
+
+Published: 23 April 2024
+
+Monitoring agricultural and economic drought: the Australian Agricultural Drought Indicators
+
+Published: 17 September 2025
+
+Drought events can have significant agricultural and economic impacts, and in many parts of the world their intensity appears to be increasing with climate change. However, drought measurement remains a highly contested space, with a multitude of indicators across both research and operational settings. This article presents a new drought monitoring and forecasting system: the Australian Agricultural Drought Indicators (AADI).
+
+Forecasting agricultural drought: the Australian Agricultural Drought Indicators
+
+Published: 21 October 2025
+
+Drought is a recurrent and significant driver of stress on agricultural enterprises in Australia. AADI (Australian Agricultural Drought Indicators) was recently developed to monitor and forecast drought for upcoming seasons using biophysical and agro-economic models, including crop yields, pasture growth and farm profit. Here, we evaluate the skill of drought indicator forecasts driven by the ACCESS-S2 dynamical global climate model over a hindcast period from 1990–2018.

@@ -1,0 +1,451 @@
+Aquatic animal diseases significant to Australia: identification field guide 5th edition
+
+March 2020
+
+© Commonwealth of Australia
+
+Ownership of intellectual property rights
+
+Unless otherwise noted, copyright (and any other intellectual property rights, if any) in this publication is owned by the Commonwealth of Australia (referred to as the Commonwealth).
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+Inquiries about the licence and any use of this document should be emailed to copyright@agriculture.gov.au.
+
+Cataloguing data
+
+This publication (and any material sourced from it) should be attributed as: Department of Agriculture, Water and the Environment 2020, Aquatic Animal Diseases Significant to Australia: Identification Field Guide, 5th Edition, Australian Government Department of Agriculture, Water and the Environment, Canberra. CC BY 4.0.
+
+ISBN	978-1-76003-235-7
+
+Internet
+
+Aquatic Animal Diseases Significant to Australia: Identification Field Guide, 5th Edition is available at agriculture.gov.au/aadfieldguide
+
+Inquiries regarding the licence and any use of this document should be sent to copyright@agriculture.gov.au.
+
+The design concepts were developed and produced by Government Division, Australian Government Department of Agriculture, Water and the Environment, with scientific editing by DigsFish Services Pty Ltd.
+
+Copies of the USB are available by contacting the Department of Agriculture, Water and the Environment Aquatic Animal Health Program.
+
+Disclaimer
+
+The Australian Government acting through the Department of Agriculture, Water and the Environment has exercised due care in the preparation and compilation of the information in this publication. Notwithstanding, the Department of Agriculture, Water and the Environment, its employees and advisers disclaim all liability, including liability for negligence, for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying upon any of the information in this publication to the maximum extent permitted by law.
+
+Foreword
+
+The Australian Government Department of Agriculture, Water and the Environment is pleased to introduce the fifth edition of this field guide.
+
+The field guide and its accompanying phone application aims to help people recognise diseases of significance to aquaculture and fisheries in Australia. This edition incorporates new and updated information gathered from an extensive review of the fourth edition. It now covers 53 aquatic animal diseases of significance to Australia that affect species of finfish, crustaceans, molluscs and amphibians.
+
+Early recognition and reporting of suspected disease outbreaks is critical to protecting our unique aquatic biodiversity, and fisheries and aquaculture sectors. It can permit a rapid disease response to contain outbreaks, increasing the opportunity for disease eradication and thereby limiting potential impacts on aquatic animal industries and the environment. People who work closely with aquatic animals are usually the first to notice signs of a significant disease event. This field guide provides guidance for these people—aquaculture workers, commercial fishers, recreational fishers, quarantine staff, scientists, conservationists and students—to recognize significant aquatic animal diseases, should they occur.
+
+Many people and institutions have contributed to the field guide, including fish health experts from industry, research organisations, state and territory governments, and government agencies of the Asia–Pacific region (including New Zealand), Canada, Denmark, Norway, the Netherlands, the United Kingdom and the United States of America.
+
+Drawing extensively on experience and research activities in aquatic animal health management, both in Australia and abroad, the guide and its phone application complements the growing body of practical knowledge published for aquaculture and fisheries in Australia. On behalf of the Australian Government, I thank all contributors to this production for their efforts and commend this field guide to you.
+
+Dr Mark Schipp
+
+Australian Chief Veterinary Officer
+
+Acknowledgements
+
+The department would like to thank all contributors of new material to this fifth edition of the field guide, including Dr Craig Boys (NSW Department of Primary Industries), Dr James Brock (Aquatic Farms, Hawaii), Dr Ryan Carnegie (Virginia Institute of Marine Science), Dr Ben Diggles (DigsFish Services), Dr Ha Thanh Dong (King Mongkut’s University of Technology, Thailand), Professor Tim Flegel (Mahidol University, Thailand), Dr Melinda Gabor and Dr Cheryl Jenkins (NSW Department of Primary Industries), Justin Graham (HuxburyQuinn), Dr Ian Jerrett (Agriculture Victoria Research), Professor Lester Khoo (Mississippi State University), Dr An Martel and Dr Frank Pasmans (Ghent University), Dr Juhasz Tamas (Budapest, Hungary), and Dr Trude Vrålstad (Norwegian Veterinary Institute).
+
+The current publication has built upon the contributions made to previous editions of this guide and we recognise and thank all who have contributed information in the past, including Dr Rob Adlard (Queensland Museum), Dr Ellen Ariel and Dr Lee Berger (James Cook University), Dr Franck Berthe (IFREMER), Dr Rachel Bowater (Queensland Department of Primary Industries and Fisheries), Dr Susan Bower (Fisheries and Oceans Canada), Dr Tracey Bradley (Victorian Department of Primary Industries), Dr David Bruno (Marlab, Aberdeen, Scotland), Dr Nicky Buller (Department of Agriculture and Food, Western Australia), Dr Jeremy Carson (University of Tasmania), Dr Supranee Chinabut (Thailand Department of Fisheries), Dr Mark Crane (CSIRO Australian Animal Health Laboratory), Dr Melanie Crockford (Department of Agriculture and Food, Western Australia), Dr Marty Deveney (South Australian Research and Development Institute, South Australian Government), Dr Ben Diggles (DigsFish Services, Australia), Dr Ralph Elston (Aqua Technics Inc., United States of America), Dr Kevin Ellard and Dr Judith Handlinger (Tasmanian Department of Primary Industries, Parks, Water and Environment), Dr Susan Gibson-Keuh (Murdoch University), Dr Jeffrey Go (University of Sydney), Professor Larry Hanson (College of Veterinary Medicine, Mississippi State University), Dr Ron Hedrick (University of California, Davis), Dr Paul Hick (New South Wales Department of Primary Industries), Professor Brian Jones (Western Australia Department of Fisheries), Dr Michael Kent (Oregon State University), Dr Cedric Komar (Intervet Norbio Singapore), Dr Malcolm Lancaster (Primary Industries Research Victoria), Professor Bob Lester (University of Queensland), Professor Don Lightner (Arizona State University), Dr Tor Atle Mo (National Veterinary Institute, Oslo), Dr Nick Moody (CSIRO Australian Animal Health Laboratory), Dr James Moore (California Department of Fish and Game), Dr James Munro (University of Adelaide), Dr Kazuhiro Nakajima (Fisheries Research Agency, Japan), Dr Niels Jørgen Olesen (Danish Veterinary Institute), Dr Shane Raidal (Murdoch University), Dr Melba Reantaso (Food and Agriculture Organization of the United Nations), Dr AS Sahul Hameed (Abdul Hakeem College, India), Dr Glenn Schipp (Department of Resources—Fisheries, Northern Territory Government), Dr Lee Skerratt (James Cook University), Dr Fran Stephens (Murdoch University), Dr M Sano (National Research Institute of Aquaculture, Japan), Dr Michael Snow (Department of Fisheries, Western Australia), Dr David Stone (Centre for Environment, Fisheries and Aquaculture Science), Dr Peter Walker (CSIRO Australian Animal Health Laboratory), Professor Richard Whittington (University of Sydney), Dr Jim Winton (United States Geological Survey) and Dr Shi Zhengli (Chinese Academy of Sciences, People’s Republic of China).
+
+Members of the Australian Government Department of Agriculture—Aquatic Animal Health Program coordinated the production of this fifth edition including Dr Cian Foster-Thorpe and Dr Ingo Ernst. Alistair Herfort is recognised as co-ordinator of the first three editions of the field guide.
+
+International photographic contributors
+
+Dr David Alderman (Centre for Environment, Fisheries and Aquaculture Science, United Kingdom)
+
+Dr Isabelle Arzul (French Research Institute for Exploration of the Sea—IFREMER)
+
+Dr Jerri Bartholomew (Oregon State University)
+
+Dr Susan Bower (Fisheries and Oceans Canada)
+
+Dr Sandra Bravo (Universidad Austral de Chile)
+
+Dr James Brock (Aquatic Farms, Hawaii)
+
+Professor Eugene Burreson (retired—Virginia Institute of Marine Science)
+
+Dr Ryan Carnegie (Virginia Institute of Marine Science)
+
+Dr Ha Thanh Dong (King Mongkut’s University of Technology, Thailand)
+
+Dr Dianne Elliott (United States Geological Survey)
+
+Professor Tim Flegel (Mahidol University, Thailand)
+
+Dr John Fryer (deceased—Oregon State University)
+
+Dr AS Sahul Hameed (Department of Zoology, C Abdul Hakeem College, Tamil Nadu, India)
+
+Professor Larry Hanson (College of Veterinary Medicine, Mississippi State University)
+
+Professor Tore Håstein (National Veterinary Institute, Oslo)
+
+Dr Naoki Itoh (Tohoku University, Japan)
+
+Dr Huang Jie (Yellow Sea Fisheries Institute, China)
+
+Dr Brian Jones (retired—Western Australia Department of Fisheries)
+
+Dr Erik Johnson (Private Practitioner, Johnson Veterinary Services, Georgia)
+
+Dr Somkiat Kanchanakhan (Department of Fisheries, Thailand)
+
+Professor Lester Khoo (College of Veterinary Medicine, Mississippi State University)
+
+Dr Gael Kurath (United States Geological Survey)
+
+Professor Don Lightner (retired—University of Arizona)
+
+Dr An Martel (Ghent University)
+
+Professor Tor Atle Mo (National Veterinary Institute, Oslo)
+
+Dr James Moore (California Department of Fish and Game)
+
+Dr Kazuhiro Nakajima (Fisheries Research Agency, Yokohama)
+
+Dr Ronald Pascho (Western Fisheries Research Center, Seattle)
+
+Dr Frank Pasmans (Ghent University)
+
+Dr Trygve Poppe (Norwegian School of Veterinary Science, Oslo)
+
+Dr Liang Qiu (Yellow Sea Fisheries Institute, China)
+
+Dr Sarah Ridgeway (née Kleeman; formerly Australian Government Department of Agriculture, Water and the Environment)
+
+Dr Hans Jürgen Schlotfeldt (European Association of Fish Pathologists)
+
+Dr Juhasz Tamas (Budapest, Hungary)
+
+Dr Trude Vrålstad (Norwegian Veterinary Institute)
+
+Dr Jim Winton (United States Geological Survey)
+
+Dr Oded Zmora (University of Maryland, Baltimore)
+
+Australian photographic contributors
+
+Dr Stella Bastianello (Gribbles Veterinary Pathology)
+
+Dr Lee Berger (James Cook University)
+
+Dr Rachel Bowater (Queensland Department of Primary Industries and Fisheries)
+
+Dr Craig Boys (NSW Department of Primary Industries)
+
+Dr Richard Callinan (formerly New South Wales Department of Primary Industries)
+
+Dr Jeremy Carson (University of Tasmania)
+
+Dr Ben Diggles (DigsFish Services)
+
+Dr Kevin Ellard (Tasmanian Department of Primary Industries, Parks, Water and Environment)
+
+Dr Melinda Gabor (NSW Department of Primary Industries)
+
+Dr Jeffrey Go (University of Sydney)
+
+Dr John Humphrey (retired—Northern Territory Department of Industry, Fisheries and Mines)
+
+Dr Cheryl Jenkins (NSW Department of Primary Industries),
+
+Dr Ian Jerrett (Agriculture Victoria Research)
+
+Dr Clive Jones (Queensland Department of Primary Industries and Fisheries)
+
+Dr Matt Landos (Future Fisheries Australia)
+
+Professor Barry Munday (deceased—University of Tasmania)
+
+Professor Leigh Owens (James Cook University)
+
+Dr Mark Porter (University of Tasmania)
+
+Dr Howard Prior (Queensland Department of Primary Industries and Fisheries)
+
+K Scott
+
+Dr Rick Speare (deceased—James Cook University)
+
+Dr Greg Storie (Queensland Department of Primary Industries and Fisheries)
+
+Dr Patrick Tully (New South Wales Department of Primary Industries)
+
+Professor Richard Whittington (University of Sydney)
+
+Staff at the CSIRO Australian Animal Health Laboratory
+
+Staff at New South Wales Department of Primary Industries
+
+Staff at The University of Sydney
+
+Staff at Victorian Department of Primary Industries
+
+Contents
+
+Foreword	iii
+
+Acknowledgements	iv
+
+Introduction	1
+
+Using the field guide	3
+
+Signs of disease	4
+
+Host range	5
+
+Presence in Australia	5
+
+Epidemiology	6
+
+Differential diagnosis	6
+
+Appendix A: Scientific names	7
+
+Appendix B: Reporting suspected disease	15
+
+Appendix C: Further reading	16
+
+Introduction
+
+This field guide provides ready access to information on the aquatic animal diseases significant to Australia. These diseases have potential to disrupt Australia’s aquatic animal biodiversity, fisheries and aquaculture productivity, and international trade.
+
+The diseases covered here are in Australia’s national list of reportable diseases of aquatic animals, which includes those reportable through the regional Quarterly Aquatic Animal Disease reporting program (managed by the Network of Aquaculture Centres in Asia-Pacific, the Food and Agriculture Organization of the United Nations and World Organisation for Animal Health), as well as other diseases of national significance.
+
+The field guide is aimed at fishery and aquaculture managers, their field staff, veterinary workers and students of aquatic animal health. The publication is also relevant to people in the seafood processing and retail industry, recreational and commercial fishers, and the general public. For people participating in national surveillance and monitoring for aquatic animal disease, the field guide is a valuable disease reference. For the casual reader, the field guide gives an informative and often graphic account of the diseases and organisms that threaten Australia’s fisheries and expanding aquaculture industries.
+
+The marine and freshwater environments in Australia are rich with many types of animals. The field guide focuses on fish, molluscs (such as oysters), crustaceans (such as prawns) and amphibians (such as frogs). It is not possible to list every disease for every species in a publication of this type. The emphasis is on infectious diseases found on Australia’s National List of Reportable Diseases of Aquatic Animals, significant to our aquaculture industries, fisheries and environment.
+
+Nature of disease
+
+The diseases described in this field guide are caused by infectious agents—viruses, bacteria, fungi or parasites. Diseases with non-infectious causes are outside its scope. Non-infectious causes of disease in the aquatic environment are often attributable to the environment itself: morbidity and mortality can result from natural or human influenced events that lead to oxygen depletion, production of aquatic toxins, or changes in water temperature or salinity. However, disease will not occur simply because an infectious agent is present. The likelihood of disease being expressed is determined by the specific interactions between the host (the aquatic animal), the infectious agent or pathogen, and the environment (Figure 1).
+
+Figure 1 Relationship between host, pathogen and the environment in disease outbreaks
+
+Laboratory tests and sampling
+
+Photographs of gross disease signs, such as those in this field guide, can help an investigator to create a preliminary list of possible disease agents (differential diagnosis list) for the case under investigation. However, although gross signs narrow the search for possible agents, they are not adequate for definitive diagnosis; representative samples from the diseased animal(s) and the environment in which they live need to be taken for analysis. Several publications offering information about sampling are available.
+
+The World Organisation for Animal Health (OIE) Manual of diagnostic tests for aquatic animals provides standard diagnostic methods for OIE-listed diseases.
+
+Asia diagnostic guide to aquatic animal diseases provides diagnostic guidelines for the pathogens and diseases listed in the Quarterly Aquatic Animal Disease Reporting System.
+
+The website of the Australian Government Department of Agriculture, Water and the Environment (DAWE) provides information on the management of inland water quality.
+
+Reporting disease
+
+Fishery and aquaculture industry managers, as well as farmers and their staff, should be aware of their responsibilities to rapidly report any suspicion of diseases on Australia’s national list of reportable diseases of aquatic animals to local authorities.
+
+To prepare for possible disease incursion, fishery and aquaculture industry managers should develop an emergency management plan, in consultation with farmers and appropriate extension staff.
+
+If you identify signs of disease in a culture system, contact your aquatic animal health officer. If your observation is of wild aquatic animals, contact a wildlife or fisheries officer.
+
+A national emergency animal disease watch hotline number has been established to assist early reporting of suspicious disease events. Call 1800 675 888 (free call and available 24 hours).
+
+Current contact details for state and territory governments are provided in appendix B. Call to report your find or ask further questions on the observations you have made. You will be directed to an expert on diseases of aquatic animals within your state or territory.
+
+Follow the directions and advice provided by the officer you contact. This field guide will help you find the information the officer needs.
+
+Using the field guide
+
+This field guide begins with coverage of the anatomy (section 1) of finfish, molluscs, crustaceans and amphibians, including images and illustrations. These are to help the reader describe lesions when reporting a suspected disease. It follows with descriptions for each infectious disease present in Australia’s national list of reportable diseases of aquatic animals. These are presented alphabetically, and classified into infectious diseases affecting finfish, molluscs (such as oysters), crustaceans (such as prawns) and amphibians (such as frogs).
+
+This field guide is available both as a PDF document and as a downloadable phone app. The field guide phone app (listed as the Aquatic disease field guide) can be downloaded free for iOS and android devices at the relevant iTunes or app store outlets. For more information, see the Aquatic animal diseases significant to Australia: Identification field guide mobile application introductory video.
+
+In both the PDF document and phone app, each disease page describes the:
+
+signs of disease (at the farm/tank/pond level and gross and microscopic pathological signs)
+
+disease agent
+
+host species that carry the disease agent
+
+presence of the disease in Australia
+
+epidemiology of the disease
+
+other diseases in the field guide that may have similar signs
+
+sample collection and reporting of disease outbreaks.
+
+The disease pages also include photographs of animals with gross signs of disease and/or histological images detailing the typical tissue changes present.
+
+Diagnosing diseases of aquatic animals is a structured process, which begins with making detailed observations, then asking the right questions. The primary aim of this process is to create a broad list of possible diseases that may account for the observed signs. This list can be further refined by targeted questioning and diagnostic tests.
+
+Questions to ask may include:
+
+Which species, age class, sizes and sex of animals are involved?
+
+What specifically have you observed—for example, behavioural changes, changes in feed intake (reduced or increased), changes in faecal output?
+
+Are there obvious gross lesions (such as colour changes, ulcers or spots)?
+
+Does disease result in morbidity only, or are there mortalities?
+
+What level of mortality has been observed?
+
+Do animals show signs of recovery?
+
+At what rate did you observe disease (sudden death or chronic progression of disease)?
+
+Is this the first occurrence of disease with this presentation in your facility?
+
+Are any neighbouring properties or facilities reporting diseases?
+
+Have there been recent introductions to the facility or any changes in practice?
+
+After making your initial observations, go to the ‘signs of disease’ section of the disease entries. Look up the diseases listed that match your observations, and you will find photographs and further information to help you narrow the search for the cause of the disease. For example, you might have observed disease in a marine fish, but then find that the listed disease with similar presenting signs affects only freshwater species—in this way, you can eliminate the unlikely, and your list of differential diagnoses will be shorter. In all cases, however, laboratory tests would be required for a definitive diagnosis. Local authorities with responsibility for aquatic animal health can advise on further courses of action should you suspect any disease listed in the field guide.
+
+Signs of disease
+
+Diagnostic information based on disease signs at the farm, tank or pond level, and gross pathological signs (abnormalities that can be seen with the naked eye) are important. However, in most cases, it is impossible to arrive at a definitive diagnosis on the basis of these signs alone. Although some users will not have experience in histological examination, or the equipment required for such examination in the field, the field guide also lists microscopic pathological disease signs.
+
+Mass mortality
+
+A fish kill involving a range of species is more likely caused by an environmental problem, such as toxicity or oxygen depletion. Deaths limited to one species (where other species are also present) are more likely a result of an infectious agent.
+
+Behavioural changes
+
+All species of aquatic animals have characteristic protection, food-gathering and breeding behaviours. Abnormal behaviour, such as a decrease in feeding, could indicate stress from disease. Some behavioural changes can occur across groups of species, or even across different phyla. In molluscs, few behavioural differences are observed such as gaping or delayed closing (in oysters) and decreased feeding or adhesion to vertical surfaces (in abalone). Finfish often gather at water inlets or gasp for air at the surface if the water is depleted of oxygen. If irritated by skin parasites, they may scrape themselves on hard surfaces. Whirling or ‘corkscrew’ swimming could indicate disease from an infectious agent or aquatic toxins. In both finfish and crustaceans, gathering at the surface or pond edges can often be a sign of disease.
+
+Gross signs
+
+Gross pathological changes may indicate the presence of infectious disease. Careful observation and further laboratory investigation is required to make a definitive diagnosis because many of the signs are not singularly pathognomonic (characteristic for a specific disease) and may be common pathological changes associated with multiple infectious agents. The table below describes some of the more commonly observed visible signs and the groups of aquatic animals dealt with in this field guide for which these are most often observed.
+
+Table 1 Potential gross signs of disease
+
+* Potential gross sign of disease. na Sign is not applicable to the taxonomic grouping.
+
+Host range
+
+A list of species known to be susceptible to the infectious agent is provided. Species are further classified as either naturally susceptible (diseased animals have been identified in the wild) or experimentally susceptible. Lists of susceptible species reflect the information available at the time of publishing. However, with further understanding and sampling, it is expected that such lists will expand and/or require refining. Both common and scientific names for hosts are provided.
+
+Presence in Australia
+
+Information on the national distribution of diseases listed in the field guide is based on formal reporting through the regional Quarterly Aquatic Animal Disease reporting program. This program is managed by the Network of Aquaculture Centres in Asia–Pacific (NACA), Food and Agriculture Organisations of the United Nations (FAO) and the World Organisation for Animal Health (OIE). Australia has been an active participant since 1998.
+
+Where a listed disease has been reported under the program to have been present, a map illustrating where it occurred in Australia is included. States or territories having reported disease are listed, and shown in orange in the distribution map. It is important to note that, although a map may identify a state or territory as having reported a disease, this implies neither that it is present at the time of publication nor that it occurs across the entire state or territory.
+
+Readers should consult the World Animal Health Information Database (WAHID) interface for current information on global distribution of diseases outside Australia.
+
+Exotic diseases
+
+Diseases in this field guide described as exotic are those that do not occur in Australian aquatic animal populations. Diseases present in Australia may still be listed as exotic if they are subject to an ongoing emergency disease response to contain and eradicate the disease.
+
+Endemic diseases
+
+Endemic (enzootic) diseases are those that have established in Australian aquatic animal populations. They might be native to Australia or might have been introduced in the past.
+
+Epidemiology
+
+The field guide describes epidemiological factors that are important to each disease. The key to describing the epidemiology of a disease involves understanding the relationship between the infectious agent, the host/s and the environment. Factors relating to the infectious agent include its life cycle (direct transmission or a requirement for intermediate host stages), survival outside the host (carriage on fomites, passage in wastewater) and sensitivity to certain temperatures or salinities.
+
+Host factors may include the susceptible species, ages, sexes and sizes involved. Environmental factors include seasonal and non-seasonal variations in temperature, food availability, salinity, available oxygen, species movement and exposure to different environments (for example, migrations or gathering for breeding). These factors can affect disease agent survivability and host immune competence.
+
+Differential diagnosis
+
+The list of similar diseases at the bottom of each disease page refers only to the diseases covered by this field guide. Gross signs observed might well be representative of a wider range of diseases not included here. Therefore, these diagnostic aids should not be used as a guide to a definitive diagnosis, but rather as a tool to help identify the diseases included in this field guide that most closely account for the observed gross signs. Further diagnostic testing will be required to confirm either presence or freedom from a suspected disease.
+
+Appendix A: Scientific names
+
+Appendix B: Reporting suspected disease
+
+If you see any unusual symptoms in wild or farmed aquatic animals, play it safe and report it immediately. Don’t worry about how insignificant it may be—small signs may be an early indication of a serious disease problem.
+
+National 24 hour emergency animal disease watch hotline: 1800 675 888 (freecall)
+
+Each state or territory can also be contacted if you suspect a disease. Table 2 shows the state and territory government agencies responsible for aquatic health, and provides points of contact.
+
+Table 2 State and territory government contact details for reporting aquatic animal disease
+
+Appendix C: Further reading
+
+These hyperlinks were correct at the time of publication.
+
+General
+
+CABI Invasive Species Compendium (search by disease)
+
+CEFAS International Database on Aquatic Animal Diseases
+
+Department of Agriculture, Water and the Environment AQUAVETPLAN disease strategy manuals
+
+World Organisation for Animal Health Manual of diagnostic tests for aquatic animals
+
+Finfish
+
+Biosecurity Australia 2014, Importation of freshwater ornamental fish: review of biosecurity risks associated with gourami iridovirus and related viruses—provisional final import risk analysis report
+
+Camus, AC 2004, Channel catfish virus disease, Southern Regional Aquaculture Centre
+
+Elwell LC, Stromberg KE, Ryce EK, Bartholomew JL 2009, ‘Whirling disease in the United States: a summary of progress and research and management 2009’, Trout Unlimited
+
+Fu X, Li N, Liu L, Lin Q, Wang F, Lai Y, Jiang H, Pan H, Shi C, Wu S 2011, ‘Genotype and host range analysis of infectious spleen and kidney necrosis virus (ISKNV)’, Virus Gene
+
+Glenn RA, Taylor PW, Pelton EH, Gutenberger SK, Ahrens MA, Marchant LM, Hanson KC 2015, Genetic evidence of vertical transmission and cycling of ‘Yersinia ruckeri’ in hatchery-origin fall chinook salmon ‘Oncorhynchus tshawytscha’, Journal of Fish and Wildlife Management.
+
+Hazeri M, Hassan MD, Abba Y, Omar AR, Allaudin ZN, Soltani M, Hamdan RH, Mohamad NF 2017, Molecular characterisation of grouper iridovirus isolates from Peninsular Malaysia, Journal Veterinar Malaysia
+
+Jansen MD and Mohan CV 2017, Tilapia lake virus (TiLV): Literature review, Penang, Malaysia: CGIAR Research Program on Fish Agri-Food Systems
+
+Kumar G, Menanteau-Ledouble S, Saleh M, El-Matbouli M 2015, ‘Yersinia ruckeri’, the causative agent of enteric red mouth disease in fish, Veterinary Research.
+
+Ma H, Peng C, Su Y, Feng J, Guo Z 2016, ‘Isolation of a Ranavirus-type grouper iridovirus in mainland China and comparison of its pathogenicity with that of a Megalocytivirus-type grouper iridovirus’, Aquaculture
+
+Menanteau-Ledouble S, Kumar G, Saleh M, El-Matbouli M 2016, ‘Aeromonas salmonicida’: updates on an old acquaintance, Diseases of Aquatic Organisms
+
+Network of Aquaculture Centres in Asia–Pacific Epizootic ulcerative syndrome: disease card
+
+Network of Aquaculture Centres in Asia–Pacific Grouper iridoviral disease: disease card
+
+Network of Aquaculture Centres in Asia-Pacific Tilapia Lake Virus (TiLV)—A novel orthomyxo-like viru: disease card
+
+Whittington RJ, Djordjevic SP, Carson J, Callinan RB 1995, Restriction endonuclease analysis of atypical ‘Aeromonas salmonicida’ isolates from goldfish ‘Carassius auratus’, silver perch ‘Bidyanus bidyanus’, and greenback flounder ‘Rhombosolea tapirina’ in Australia, Diseases of Aquatic Organisms
+
+Molluscs
+
+Australia and New Zealand standard diagnostic procedure Bonamiosis in Australian ‘Ostrea angasi’
+
+European Union Reference Laboratory for Molluscs Diseases ‘Marteilioides chungmuensis’
+
+European Union Reference Laboratory for Molluscs Diseases ‘Mikrocytos mackini’
+
+Fisheries and Oceans Canada ‘Marteilioides chungmuensis’ of oysters
+
+Fisheries and Oceans Canada Gill disease of Portuguese oyster
+
+Fisheries and Oceans Canada Oyster velar virus disease
+
+Crustaceans
+
+Network of Aquaculture Centres in Asia-Pacific ‘Monodon’ slow growth syndrome and Laem-Singh virus retinopathy: disease card
+
+Network of Aquaculture Centres in Asia-Pacific Acute hepatopancreatic necrosis: disease card
+
+Network of Aquaculture Centres in Asia-Pacific Hepatopancreatic microsporidosis caused by infection with ‘Enterocytooon hepatopenaei’: disease card
+
+Poornima, M, Seetang-Nun, Y, Alavandi, SV & Dayal, J 2012, Laem-Singh virus: A probable etiological agent associated with Monodon slow growth syndrome in farmed black tiger shrimp (‘Penaeus monodon’), Indian Journal of Virology, vol. 23.
+
+Amphibians
+
+Department of the Environment and Energy Infection of amphibians with chytrid fungus resulting in chytridiomycosis (2016)
+
+European Food Safety Authority Scientific and technical assistance concerning the survival, establishment and spread of ‘Batrachochytrium salamandrivorans’ (Bsal) in the EU
+
+Imperial College London Global Bd mapping project
+
+Wildlife Health Australia Ranaviral disease in wild Australian amphibians
+
+World Organisation for Animal Health, ‘Batrachochytrium salamandrivorans’ disease card

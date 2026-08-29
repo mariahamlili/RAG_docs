@@ -1,0 +1,1205 @@
+and Forestry
+
+Independent scientific literature review on
+
+animal welfare considerations for virtual
+
+fencing
+
+Andrew Fisher BVSc (Hons) PhD FANZCVS
+
+Amelia Cornish BA/BSc, MBus (S&T), PhD
+
+Prepared December 2022
+
+Updated November 2023
+
+Care has been taken by the authors to ensure the accuracy of the information contained in this publication. However, as this was scoped as a desktop review and analysis, information on the various virtual fencing systems was sourced from published information and from the manufacturers themselves. Accordingly, the authors cannot accept responsibility for the accuracy or completeness of the information or opinions contained in the publication and circumstances may change as more information becomes available.
+
+1 Executive Summary
+
+Virtual fencing commonly refers to a system of containment of animals whereby the fenceline is a non-physical boundary that is enforced by giving the animal a warning cue followed by an electrical shock, administered by a device worn by the animal. The purpose of this commissioned review was to examine the animal behavioural and welfare aspects of virtual fencing, with a view to informing jurisdictional requirements and regulatory decisions on this emerging technology.
+
+The understanding of the animal factors that enable effective and minimal-stress virtual fencing has advanced significantly in the past 10 years, along with developments in the technology itself and the understanding of how to deploy it and train human operators. In the Australian context, these processes and associated animal welfare safeguards are much more advanced for cattle than for sheep or other animals.
+
+A virtual fencing technology and deployment that minimises welfare impacts needs to have the following characteristics:
+
+• Secure, physical outer fence boundaries that contain the animals and prevent them from
+
+straying onto roads, railway lines, or neighbouring properties (may not apply for northern rangelands where there may be few fences currently)
+
+• Collars/neckbands or similar attachment devices that are designed and fitted to minimise
+
+the risks of constriction, strangulation, entrapment, rubbing, pressure sores and animal fatigue
+
+• Adequate training of human personnel
+
+• Safeguards that:
+
+o Minimise the risk of deliberate misuse (e.g., locked settings, automated operation) o Prevent inappropriate boundary delineation
+
+o Provide cut-offs to prevent animals from receiving excessive shocks within a short
+
+period of time and to minimise the risks to animals that display excessive behavioural reactions
+
+o Provide alerts to the operator of any such animal welfare risks for individual animals
+
+associated with the deployment of the technology
+
+o Provide alerts to the operator if there are systemic or network failures
+
+• Use a behaviourally-based algorithm that enables associative learning by the animal of the
+
+relationship between the non-aversive (audio) and aversive (electric shock) cues
+
+• Enable the rapid identification of animals that either apparently fail to learn or choose to
+
+repeatedly push through the virtual fence boundary, so that these animals can be removed
+
+• Use electric shock cues that are of the minimum impact necessary to be aversive but not
+
+harmful or provoking excessive stress responses
+
+• Enable the animal to have predictability and controllability of its situation
+
+• Have safe-guard settings that do not result in excessive shocks to animals that enter
+
+exclusion zones
+
+• Are not deployed with rapidly moving boundaries
+
+• Be weather-proof and not require frequent battery changes
+
+• Ensure continual access to drinking water points within virtually fenced areas
+
+• Not be deployed on juvenile animals
+
+2 Introduction
+
+Virtual fencing (VF), when applied to livestock, commonly refers to a system of containment of animals whereby the fenceline is a non-physical boundary that is enforced by giving the animal a warning cue followed by an electrical shock, administered by a device worn by the animal. (Thus, although there exists technology which is used to deter wildlife from crossing roads and which does not employ electronic collars, this is separate from the consideration of this review.)
+
+In VF, the boundary may not be visible, although in some cases visual cues may be used, or the animal may associate certain topographical features or physical objects with the boundary. Although VF is used to some extent to contain companion animals such as dogs, there is a growing commercial focus on its potential to replace physical barriers or electrical fencing for farmed livestock. From initial research conducted in the 1980s and 1990s, developments have led to several VF products for both large and small ruminant livestock that are at or near commercialisation.
+
+At the same time, existing regulations in many Australian State and Territory jurisdictions limit or prevent the deployment of VF, due to restrictions on the use of devices that can deliver electrical shocks being applied to animals. In some cases, these regulations may also prevent research aimed at VF development and animal welfare evaluation.
+
+Accordingly, the purpose of this commissioned review was to examine the animal behavioural and welfare aspects of VF, with a view to informing jurisdictional requirements and regulatory decisions on this emerging technology.
+
+3 Terms of Reference
+
+3.1 Background and scope
+
+Virtual fencing technology involves livestock wearing a wireless device that delivers a combination of
+
+sensory cues such that animals learn not to approach or cross a virtual boundary. The technology is in the early stages of commercialisation in Australia and may be applicable to a range of livestock animal industries.
+
+A subgroup of the Animal Welfare Task Group (AWTG), which works to the Agriculture Senior Officials’ Committee, is examining the issues related to virtual fencing technology, with a view to harmonising regulation across jurisdictions. There are a range of mechanisms to achieve harmonisation which may include criteria for the assessment of individual products and best practice guidelines for end users.
+
+In Australia, the use of this technology is regulated separately by each jurisdiction. A nationally consistent approach to ensuring good animal welfare outcomes in relation to virtual fencing has potential benefits for stakeholders.
+
+An independent literature review of relevant scientific research, international standards and policies and existing industry standards and practices is needed to support the development of evidence- based policies. The review will cover in its scope research conducted in Australia and overseas. It will focus on cattle and sheep but also consider other species such as goats and horses. All wearable devices that are intended to control livestock movement without conventional fencing will be included. The technology potentially has a range of short- and long-term animal welfare impacts,
+
+both positive and negative, which will be the focus of the review. Other impacts of the technology including asset protection, natural resource management, biosecurity, and labour savings, whilst important considerations, do not form part of this review as they fall outside the purview of this group.
+
+3.2 Audience and use of findings
+
+It is expected that the report will inform the activities of the AWTG Virtual Fencing Subgroup and its
+
+Stakeholder Reference Group.
+
+3.3 Research objective
+
+To produce an up-to-date critical analysis of existing literature on the animal welfare impacts of
+
+virtual fencing technology that covers both product design characteristics and end usage. The analysis will integrate and build on the existing work carried out by Western Australia and New South Wales.
+
+3.4 Research issues
+
+3.5 Roles and Responsibilities
+
+a) Build on the existing reviews provided by the AWTG Virtual Fencing Subgroup.
+
+b) Critically analyse all relevant and reasonably accessible published scientific research findings,
+
+literature reviews and other published material on the use of virtual fencing technology
+
+from Australia and overseas that are published in English or if a translation is available.
+
+c) Critically assess any related Australian animal welfare regulations, international regulations
+
+and standards, and industry practices both in Australia and overseas on the use of virtual fencing technology to identify whether the regulations allow for:
+
+i. Prevention/minimisation of negative impacts
+
+ii. Realisation of positive impacts.
+
+d) Review all additional materials provided by the AWTG Virtual Fencing Subgroup which may
+
+include commercial-in-confidence information on research trials and product development. e) Produce an initial draft for the AWTG Virtual Fencing Subgroup to review, provide written
+
+responses to any feedback received and amend the report as needed.
+
+f) Provide a detailed final written report to the AWTG Virtual Fencing Subgroup.
+
+g) Provide unbiased advice which is not subject to pressure from governments, industry, or
+
+animal welfare lobby groups.
+
+h) Keep accurate and detailed records of any consultation with stakeholders.
+
+3.6 Key outputs of the written report
+
+a) A detailed literature review of all existing research that builds on the reviews already
+
+conducted; this includes a re-examination and incorporation of the papers in the existing reviews, and critical assessment of papers not identified in the bibliographies provided and research published after the reviews were completed.
+
+b) A critical assessment of the management of animal welfare outcomes by Australian and
+
+international regulations, standards, and industry practices.
+
+c) Consideration of all animal welfare impacts noted in Section 3.4: Key issues.
+
+d) A risk management table which identifies animal welfare risks, applies likelihood,
+
+consequence, and overall risk ratings and where possible, provides recommendations for management.
+
+e) A summary of knowledge gaps which require further research.
+
+4 Methods
+
+4.1 Literature search and compilation
+
+Relevant scientific literature databases (such as CABI and Web of Science) were used to identify
+
+relevant scientific papers, in addition to those utilised by the existing brief reviews supplied at the outset.
+
+In addition to searches based on keywords, and identification of papers from references used in those journal papers already sourced, searches were based on known/key authors in the area (such as Dean Anderson, Caroline Lee, Dave Swain, Greg Bishop-Hurley, Dana Campbell) and the commercial entities developing the technology (Halter, Vence, Nofence, eShepherd/Gallaghers, Boviguard).
+
+Subsequently, PDF versions of papers were sourced, annotated, and categorised according to relevance to the key topic areas (noting that some papers were relevant to more than one topic).
+
+4.2 Technical information on existing technologies
+
+With the support of Departmental officials, representatives of the main commercial entities
+
+developing VF technologies for livestock were contacted and requested to provide relevant information on their products/prototypes in relation to animal welfare and the review terms of reference.
+
+Currently available VF uses collar/neckband-mounted GPS devices to confine animals or exclude animals' access to certain areas, as well as to move animals, all without using fixed fences. The neckbands are generally solar-powered and supported by a software system that allows a user to define and move virtual fencelines of any geometric shape. The systems deliver a combination of sensory cues such that animals learn not to approach or cross a virtual boundary.
+
+VF technologies have been in development since the 1970s, with VF used to control livestock for the first time in 1987 (Anderson, 2007). The technology is in the early stages of commercialisation in Australia and may apply to a range of livestock animal industries. Today, there are five VF products (commercial or pre-commercial) available around the world: eShepherd by Gallagher (formerly Agersens) in Australia (https://www.gallagher.com); Halter in New Zealand (https://halterhq.com); Vence in the United States of America (USA) (https://vence.io); Nofence in Norway (https://www.nofence.no); and Boviguard by Agrifence which is developed in France but commercially available in the United Kingdom (UK) (https://agrifence.co.uk). There are numerous characteristics of each VF product and their maintenance that have the potential to impact animal welfare which is discussed in the report.
+
+4.3 Review drafting and compilation
+
+The review was drafted, and references were cited using Mendeley reference management software
+
+integrated with MS Word.
+
+5 Part A: Characteristics of virtual fence usage that may impact animal welfare.
+
+5.1 Sensory cue attributes
+
+VF approaches for the containment of livestock typically deploy two types of sensory cues – a non-
+
+aversive stimulus that is aimed at warning the animal that it is approaching a boundary and an aversive (typically electrical) stimulus that is designed to turn the animal back from the virtual boundary if it has not responded to the non-aversive stimulus.
+
+5.1.1 Audio/Non-aversive cues
+
+The associative learning characteristics of the non-aversive sensory cues and consequent
+
+implications for animal welfare are covered in the following section (Part B). There is very limited published information on the animal welfare impacts of the stimuli used as non-aversive cues per se. Most systems researched or in commercial development have used audible signals, and although it is feasible that these could have animal welfare implications, for example if they are either i) at a volume or frequency that causes a problem, or ii) startle the animal causing a welfare problem, this is considered unlikely. Overall, if the signal had negative impacts on the animal’s welfare, such as in the two examples provided, it would defeat the intent of them being non-aversive signals to the animal of the impending boundary. In earlier work, Lee et al., (2009) examined the responses of cattle to audio (non-aversive) and electrical (aversive) cues, using a 2-second tone at a frequency of 784 Hz delivered from two collar-mounted speakers just behind the animals’ ears. The study did not report on particular behavioural responses to the audio cues per se. In later research, Campbell et al., (2018) used a collar emitting an audio signal specified in terms of duration, frequency, and volume (2.5 seconds, 785 ± 15 Hz, 58 dB) as the non-aversive cue. In this study, the cattle behavioural responses to the audio cue were classified and included stopping, walking forward, turning around, and running back, and – less commonly – running forward, turning around, and walking back, trotting forward, turning around, and trotting back and turning. However, it is important to appreciate that these responses to the audio cue are influenced by the animals’ associative learning and the anticipation of the potential of the aversive electrical stimulus that may follow. Accordingly, it is not possible to fully separate the impacts of the audio cue alone, only to reasonably surmise that it is designed to be a signal to the animal that is low impact in itself.
+
+5.1.2 Electric/Aversive cues
+
+5.1.2.1 Strength
+
+Much more relevant to animal welfare is a consideration of the welfare impacts of the electrical stimulus used as the aversive cue. The challenge here is that an aversive stimulus by its nature represents a challenge to an animal’s welfare, but it ought not to be so extreme that it is noxious or harmful. There are of course some analogous elements with a conventional electrical fence, whereby the physical structure of the fence (particularly if deployed in temporary ‘tape’ form) is no impediment to an animal pushing through the barrier, but the electrical shock received upon touching the tape is sufficiently aversive for the animal to then back off. This section will examine the physical nature of the electrical stimulus used in varying VF reports and the direct impact upon the livestock animal’s physiological and behavioural stress indicators, and the following section (Part B) will review the impact of the aversive electrical stimulus being repeatedly received, such as during the learning phase of VF.
+
+There have been some fundamental studies examining the stress responses of livestock to varying levels of electrical shock. Lefcourt et al., (1986) examined the physiological and behavioural responses of dairy cows to the application of electrical shocks of increasing intensity. In the study,
+
+10-second single electrical shocks were applied to the front and rear legs on the right side of the animal. The currents applied were 0, 2.5, 5.0, 7.5, 10.0 and 12.5mA. Although the paper indicated that the voltage was monitored, this was not specified other than the shocks being derived via a 117 V AC transformer in conjunction with a variable resistor. This makes the energy value of the electrical shocks applied difficult to equilibrate against those commonly applied in VF published data, although importantly the current value can be compared (e.g., 600 V and energy level of 250 mW, Lee et al., (2009) equating to a current of 0.4 mA). Note that Power (watts) = Voltage (V) x Current (amps). The total energy delivered by an electrical shock is a function of the power multiplied by the duration of the shock – thus Energy (joules) = Power (watts) x Time (seconds).
+
+The sensation perceived by the animal is thought to be largely proportional to the current of the stimulus, based on studies of humans as cited by Schulze et al., (2016). In humans, a current of 1 mA is reported as a tingling sensation, whereas more than 1 mA (and in research studies up to 4 mA) is reported to be painful. Above 6 mA, humans are unable to ‘let go’ from electrical contact due to muscle immobilisation (Whiting, 2016). Cattle have a lower electrical resistance than humans, meaning that the current values are higher for the same voltage (Lefcourt et al., 1986). In this original research, animal behavioural responses were the most indicative of the application of the electric shock and increasing current values. Noting that there was some individual variation among cows, the 2.5 mA current produced little or no response (apart from one animal that exhibited greater responses), whereas a current of 5.0 mA produced jumping responses in two cows, lifting of the leg or tensing of the body in four cows, and multiple responses in the same cow that were most sensitive to 2.5 mA. The experiment was terminated for all cows after either 10 mA or 12.5 mA current was applied, due to the severity of the behavioural responses elicited. Interestingly, although there was a ~2-minute increase in heart rate in response to all treatments (and this was proportional to the current applied), there were no changes in measures of plasma glucocorticoids, prolactin, adrenalin, or noradrenalin, except for an adrenalin increase recorded in two cows that exhibited extreme behavioural responses to 10 mA (Lefcourt et al., 1986).
+
+The concept that low-current electrical shocks applied to livestock may cause aversive responses (temporary discomfort or pain and behavioural agitation) but not noxious effects, is supported by the findings of a review by Schulze et al., (2016). With a focus on electrical accidents and lightning strikes, the authors concluded that the flow of current represented the main risk of injury due to i) trans-cardiac current overriding the physiological regulation of the heart rhythm; ii) cell membrane damage due to electroporation; and principally iii) electrothermal injuries to the skin and internal organs (when current flows internally). In addition to the current itself, the longer the duration of contact/current flow then the more energy is contributed to electrothermal heating. The size of the contact area is inversely proportional to the risk of thermal necrosis at the skin level. Accordingly, leaving aside the issue of current, the theoretical risk of injury from closely positioned skin contacts such as used in VF on-animal devices is lessened by the short duration of electrical shocks applied, and increased by the relatively small surface area of contact. Having stated this, it should be pointed out that the current flows achieved in the operation of VF devices are less than those indicated as causing noxious effects (Lefcourt et al., 1986; Schulze et al., 2016).
+
+If the current applied through a VF device is sufficient to be aversive (due to sudden pain/discomfort and consequent evidence of behavioural startle and agitation) but is insufficient in a single application to cause tissue damage, then considerations of duration and time-outs/frequency of application remain relevant to a consideration of welfare.
+
+5.1.2.2 Duration, time-outs, and frequency
+
+The study by Lefcourt et al., (1986), which examined the stress responses of cows to electric shocks, used applications of 10 seconds in duration – much longer than the electric shock application in published studies of VF research and development (Table 1). Note that there are several published studies where the relevant shock characteristics were not specified in any detail, often due to stated
+
+‘commercial-in-confidence’ reasons (e.g., Lomax et al., 2019; Langworthy et al., 2021; Verdon et al.,
+
+2021). Information on the upper thresholds of the number of shocks was sought from the commercial VF providers and developers, and this information is presented later in the report.
+
+Table 1. Characteristics of electric shock used in published studies of virtual fencing R & D (where specified).
+
+From the information presented in Table 1, it can be seen that more recent studies on VF research and development have tended to utilise electric shock applications around 0.5 to 1 second in duration. At the energy levels deployed, a duration of this magnitude (or even rather longer) is not going to cause thermal tissue damage or animal welfare problems for the animal other than those caused by the behavioural stress and agitation of the sudden, aversive stimulus (cf Lefcourt et al., 1986 and Schulze et al., 2016). Similarly, most studies have, where specified, imposed an upper limit of around five shocks before cessation (if the animal remained outside the boundary) or re-set (if the animal returned to the enclosed area). There is no specific evidence around the selection of this threshold, and presumably, animal ethics considerations have prevented studies to examine the effects of ever-increasing numbers of shocks delivered in sequence. The upper threshold appears to have been selected based on the experience or assessment of the developers and researchers that an animal that has not responded to four or five shock applications by retreating back from the boundary is not likely to do so if more shocks are applied. This issue in the context of repeated shocks during learning is covered in more detail in Section B. There is very little specific evaluation around the benefits or effects of ‘time-outs’ before the equipment re-sets itself. As described in the review of currently available devices (and those nearing commercialisation), these systems will not re-set if the animal remains outside the boundary once the maximum shock threshold has been reached but will typically alert the operator that an animal has ‘escaped’ the boundaries of the virtual fence.
+
+5.2 Inbuilt limits/safety features and animal welfare
+
+Where there is a conventional electric fence, particularly that consisting of a single-strand movable
+
+tape, if the animal comes into contact with the fence, the animal receives a shock or several shocks. If it then continues pushing through the fence and beyond the boundary, it is usually the case that the animal will no longer be in contact with the current-carrying part of the fence and will no longer receive any shocks. For VF, the continued application of aversive stimuli has the potential to cause panic and fear in an agitated animal, and potentially reduce the likelihood of the animal retreating back behind the virtual boundary. For example, Brunberg et al., (2015) found that of 24 ewes subjected to a VF system, five animals were removed from the study due to a severe reaction to the experimental methodology, such as running in an uncontrolled manner due to the electric shocks applied and/or separation from flock mates (in the experiment it was not possible to distinguish).
+
+Focusing on recent published scientific papers examining the development and performance of automated VF prototypes or technologies, where this information is specified, there is consistent incorporation of a cut-off for the number of aversive stimuli applied, particularly once animals have penetrated beyond the VF boundary. In some papers, this information is not presented, sometimes due to ‘commercial in confidence’ reasons, other times there is no information on whether it is present or not.
+
+Table 2 presents a compilation of studies examining the use of commercial or near-commercial prototype VF technologies, with a focus on inbuilt limits to the application of the aversive electric shock stimulus.
+
+Table 2. Automated virtual fencing technologies and incorporation of limits to safeguard animal welfare. Excludes experimental and dog collar devices.
+
+The key criteria for providing some protection for animal welfare concerning safeguard limits on VF devices would reasonably be assessed as i) having an upper threshold for the number of consecutive shocks before the device enters some sort of stand-by mode, and ii) not applying electric shocks to an animal that is running. The upper threshold of shocks prevents an animal from becoming increasingly agitated or distressed as it receives multiple shocks - with the fact that it is in line to receive multiple shocks suggesting that it has not perceived why it is receiving the shocks or cannot do anything to change this status. If an animal has not moved back from the virtual boundary after a certain number of shocks, then further shocks would reasonably seem unlikely to induce it to do so and will increase the risk of animal distress and potential panic. Similarly, an animal that is already running may be in a state of agitation that is not conducive to it responding to the aversive stimulus based on its prior associative learning, but rather it may respond to the additional shocks by running faster.
+
+It is not possible from the evidence available to conclude exactly what the relevant thresholds should be, as these were not often specified in the published studies. It is a decision for regulators therefore as to whether some thresholds should be specified (in consultation with VF technology companies), or whether simply having the relevant but unspecified thresholds in place is viewed as sufficient, in conjunction with information on device performance in the field.
+
+It is not clear why some of the studies mentioned a (non-specified) lower animal velocity threshold for non-deployment of the electric shock – it may be that an animal moving extremely slowly (in terms of its velocity vector towards the boundary) may not perceive that it is its movement/direction that has triggered the aversive stimulus.
+
+5.3 Characteristics of wearable devices and their maintenance that may impact animal welfare.
+
+5.3.1 The weight and material of the device
+
+A primary consideration of VF technology relevant to animal welfare is that an animal must carry the device (Umstatter, 2011). Table 3 below provides information on the weight of each device currently available. If any future increases in collar weight are to occur, it should be subject to welfare review.
+
+Table 3. A summary of the weight and materials of each available product.
+
+5.3.1.1 eShepherd
+
+The eShepherd device has a neckband made up of a nylon strap and a hanging counterweight fitted to the neck of an animal, with a combined weight of approximately 1.4 kg. It also includes the VF device unit that is positioned on the top of the animal’s neck, with an approximate weight of 725 g
+
+and dimensions of 17 cm long X 12 cm wide X 14 cm high. Overall, the total weight to be carried by the animal is approximately 2.1 kg (Campbell et al., 2021). The neckband is designed to have smooth surfaces and fit comfortably around the animal’s neck (Gallagher, 2022; NSW DPI, 2021).
+
+5.3.1.2 Halter
+
+Each collar weighs 1.420 kg, including the counterweight. The collars are made of various materials, including polyester, foam, metal, and plastic (Piggott, personal communication, September 27, 2022).
+
+5.3.1.3 Vence
+
+The Vence device is called the ‘Cattle Rider V2.5 Chain Collar’ and altogether including the battery it weighs approximately 1.13kg. The collar housing is made from moulded plastic and contains a printed circuit board (PCB) and a lithium-ion battery. The chain is stainless steel, and the chain bridge links (used for larger animals) are plastic. Twist-locking carabiners are used to clip the chain around the animal’s neck. The collar bridge sits at the top of the animal’s neck, the chain goes around the animal’s neck and the cattle rider housing hangs underneath the animal facing forward away from the body of the animal.
+
+5.3.1.4 Nofence
+
+The Nofence system has two devices available: one for cattle, and one for sheep and goats. The collar unit hangs below the animal’s neck and a chain goes around the animal’s neck. The total weight of the cattle collar carried by an animal is 1.446 kg (the collar unit is 858 grams, the battery is 450 grams, and the neck strap is 138 grams). The total weight of the sheep and goat collar carried by an animal is 505 grams (the collar unit is 292 grams, the battery is 192 grams, and the neck strap is 21 grams) (Nofence, 2022).
+
+5.3.1.5 Boviguard
+
+The Boviguard device that is worn by the animal is made of a strap that goes around the animal’s neck and a receiver unit that sits at the top of the neck. The device is available in three sizes: small (50-70cm); medium (70-90cm); and large (80-100cm). The device weighs approximately 1 kg (Agrifence, 2022).
+
+5.3.2 The prevention of pressure lesions and strangulation
+
+5.3.2.1 eShepherd
+
+Initially, to fit the eShepherd device, an animal is restrained in a crush and the neckband is fitted around the neck of the animal. Trials on up to 500 animals found that some animals reacted to the initial fitting of the collars with behaviours such as spinning, head shaking and bucking, but this ceased after 10 minutes (NSW DPI, 2021). Appropriate fit and continuous monitoring are essential to prevent pressure lesions and possible strangulation. The eShepherd device is designed to ensure the electrodes used are low profile and elongated across the neck. This safeguards against the risk of lesions by ensuring any pressure is spread over a larger surface area (Lees, personal communication, October 21, 2022). An appropriately fitted neckband has not caused rubbing or chafing during continued wear in large-scale, longer-term trials in Queensland (which included 249 Bos indicus x steers over 37 days) and Waipori, NZ (which included 100 Angus cows over 4 months) (Haynes, personal communication, 2020, as cited in WA DPIRD, 2020).
+
+Furthermore, the buckles are designed to release under a load of 150 kg, providing the animals with the ability to break free from the neckband if it becomes caught on something such as a tree branch, fence, or other objects, thus minimising the risk of entrapment, choking or strangulation (Lees, personal communication, October 21, 2022). The appropriate fit of the device is comprehensively addressed in the User Manual and customers receive on-site training by a qualified Gallagher representative (WA DPIRD, 2020).
+
+5.3.2.2 Halter
+
+The Halter collars weigh 1.42 kg and are designed to fit comfortably on each cow. The collars feature breakpoints to ensure that if the collar snags on vegetation or anything else, it will release the animal. The breakpoint is approximately 370kg, and according to the manufacturer, this has been developed and verified through testing in-house and on-farm, in order to balance the need to ensure the collars do not come off unnecessarily, whilst also allowing an animal to become free if snagged. According to Halter, there is no evidence of musculoskeletal issues on cattle fitted with Halter collars. Halter encourages farmers to conduct regular collar inspections, including checking collar fit and inspecting for rubbing. Instances of skin issues caused by wearing the collars are extremely rare (estimated at less than 0.1% of cows) and can be remedied by the farmer with standard treatment options, including zinc cream (Piggott, personal communication, September 27, 2022).
+
+5.3.2.3 Vence
+
+Vence provides comprehensive collar attachment guidelines within its training materials. The plastic chain bridge which sits at the top of the animal’s neck is designed to be the weakest link, with a load rating of approximately 360 kg, thus it would break under excess pressure to avoid strangulation.
+
+5.3.2.4 Nofence
+
+The Nofence collar is fitted around the animal’s neck with two metal link chains that are held together by a rubber neck strap. While the chain is conductive and durable, the neck strap provides a predetermined breaking point. Before breaking, the rubber neck strap will expand. For the cattle collars, the breaking load of the neck strap is approximately 200 kg, after an elongation of 30 cm. For the sheep and goat collars, the breaking load is at approximately 75 kg, after an elongation of 50 cm.
+
+Furthermore, the Nofence algorithm can detect a lack of movement and alert the customer. This alarm is triggered after only 4 hours and primarily serves the purpose to find collars that have fallen off. Earlier notifications about lack of movement triggered too many false positives from sleeping and resting animals. However, future technological developments are aimed to allow for more sensitive time frames. Currently, Nofence is working on utilising the built-in 3D gyroscope to detect unusual movements, such as animals being stuck and trying to free themselves.
+
+To avoid strangulation and injuries as well as to guarantee the proper functioning of the collar (transmission of the electric pulse), Nofence advises customers to fit the collar tightly around the animal’s neck. Information is provided in the User Manual as well as instructional videos. Nofence is
+
+also exploring the detection of collars fitted too tightly, which will aid in improving animal welfare monitoring (Grinnell, personal communications, August 30, 2022).
+
+5.3.3 Protection from electrical components and electrical faults.
+
+5.3.3.1 eShepherd
+
+The eShepherd VF system entails a device that is positioned at the top of the animal which contains a microprocessor unit that is fully sealed. The unit has been manufactured following international standards covering the development of medical devices for human use (ISO 13485, FDAQSR 820). The eShepherd neckband is manufactured and certified to the international standard IEC 60335-2-76 Household and similar electrical appliances – Safety – Part 2-76: Particular requirements for electric fence energizers, and IEC 60479-1/2: Effects of current on human beings and livestock, meaning that all voltage and current outputs are kept within safe limits for people and livestock (Haynes, personal communications, 2020, as cited in WA DPIRD, 2020). The neckband package has been designed to meet the mechanical, electrical, and electromagnetic emission safety standards that exist for electric fences and other livestock products (WA DPIRD, 2020). Most importantly, the device is designed to ‘fail safe’, meaning that in the case of an electrical or electronic failure, this cannot lead to electrical stimulus to the animal. There are both firmware and hardware safeguards in place that prevent any unintentional stimulus application (Lees, personal communications, October 21, 2022).
+
+The intensity of the stimulus delivered by the neckband is reported to be lower in energy than an electric fence, although not entirely comparable due to different delivery methods (Campbell, Lea et al., 2019). The stimulus delivered by eShepherd has been specifically designed to pass through the subcutaneous layer of the skin very briefly at the top of the animal’s neck. This design was aimed to protect animal welfare by preventing injury, burns and cardiac arrest which have been associated with electric shocks, electric fences and lightning strikes that follow a circuit path through the body to the ground (Chaffey, personal communication, 2021, as cited in NSW DPI, 2021).
+
+VF technology that entails the use of electric stimuli such as the eShepherd product must ensure that electric faults or other errors that result in accidental repeated electric stimuli to the animals do not occur (Umstatter, 2011). The eShepherd device has a safety shutdown feature built into the operating algorithm that prevents an animal from receiving an excessive number of electric stimuli. If an individual animal receives a specified number of stimuli within a specified time frame, for example, 10 stimuli within 5 minutes, the device enters standby mode where stimuli are not applied for a specified time frame and customers are alerted (Lomax et al., 2019). If the movement was above or below a specified velocity (Lomax et al., 2019), for example, if an animal takes fright or flight through a virtual fence into an exclusion zone, stimuli are not applied, and customers are alerted. Customers are also alerted if an animal remains more than 50 metres inside the exclusion zone for more than 30 minutes (WA DPIRD, 2020). Also, if a neckband device fails to communicate with the base station for 12 hours or another pre-defined period, the neckband is deactivated, and the customer is notified so that an intervention can be made. The system can rapidly identify any device or system malfunction through analysis of cloud data, which occurs daily at a minimum delay time of 10 minutes (WA DPIRD, 2020).
+
+Additionally, grazing behaviour can mimic a cow correctly responding to audio cues (i.e., movement forward followed by stopping at an audio cue), therefore, the system has an inbuilt grazing function within the algorithm. This means that if an animal gradually approaches the exclusion zone by grazing (slow forward movement forward with continuous stopping), an electrical pulse is only applied after 3 consecutive audio tones (Langworthy et al., 2021; Lomax et al., 2019).
+
+5.3.3.2 Halter
+
+Whilst the maximum strength of the pulse is 0.18 joules, Halter reports that the actual energy pulse delivered is typically lower, based on an internal algorithm that adjusts for an individual animal’s responses in terms of tolerance to the pulse and their determination to push boundaries. This is viewed by the manufacturer as an important feature for animal welfare, given that individual cows have different thresholds to push boundaries (personal communication: Halter, 2023).
+
+Whilst humans determine the destination of animal movements in the Halter app (e.g. through setting a new pasture break), humans never have direct control over the guidance cues sent to animals, and the only inputs to determine the cues are the animal’s behaviour and location (Halter 2023). The Halter collar design insulates the electric components from wear and tear, ensuring they are not accidentally exposed. This prevents a defective collar from giving a cow an unintentional pulse. The system has in-built monitoring to detect key component failures and deactivates the system if required. The system does not attempt to guide animals if the collar is not operating according to its functional design. This feature is to protect the animals by ensuring there is no application of a pulse when they do not expect it (Piggott, personal communication, September 27, 2022).
+
+5.3.3.3 Vence
+
+The lithium-ion battery and the printed circuit board (PCB) within the Vence device are fully enclosed within the collar housing, which has an o-ring sealed battery door that is attached by two screws. The specifications of the Vence Cattle Rider device are detailed In Table 4 below as provided by the manufacturer.
+
+Table 4. Vence product characteristics.
+
+The Vence device follows a stimulus pattern, where firstly a sound is applied for 0.5 seconds; followed by a delay of 1.5 seconds (no stimulus); if the animal dwells in the exclusion zone the stimuli are escalated to an electronic stimulus which is also applied for 0.5 seconds; followed by 2.5 seconds of delay (no stimulus). This pattern will continue for 100 seconds (a total of 20 stimulus events). However, after 100 seconds, there will be a “cool down period” of 180 seconds (no stimulus). The stimulus pattern will then repeat. If the stimulus continues for a total of 80 applied events, the stimulus will be permanently disabled until user intervention. This corresponds to a duration of a max of 40 seconds of electronic pressure over 15 minutes of pressure patterns before the pressure is completely disabled.
+
+The device has several safety mechanisms built into its algorithms which automatically disable virtual fencing under erroneous conditions such as extended loss of network communications, low-battery condition, and exceeding pre-set stimulus thresholds (as noted above).
+
+5.3.3.4 Nofence
+
+The Nofence collar shell consists of non-conductive material that is built to be waterproof. Furthermore, to ensure an animal never receives excessive shocks, the Nofence system will only ever apply a maximum of three electric pulses following the audio cue. If the animal remains outside of the border of the virtual fence after receiving the third pulse, it is considered "escaped" and the fence function is deactivated and the farmer is notified (Grinnell, personal communications, August 30, 2022).
+
+5.3.4 Interactions of the device with an animal’s hair or wool.
+
+5.3.4.1 eShepherd
+
+The eShepherd neckband has a smooth surface and is designed to fit around the animal’s neck to ensure that there are no sharp edges or catch points for hair to be trapped (Lees, personal communications, October 21, 2022). The contact points used to deliver the electrical pulse are smooth with a large surface area, which minimises skin or hair rubbing. The long-term wearing of the collars produced no skin rubbing or hair loss, and only minor hair rubbing (NSW DPI, 2021). Furthermore, although it is not specifically designed to deal with ‘wool’ on sheep, some research trials conducted by the CSIRO using the eShepherd Neckband, have shown that the device can be safely used on sheep (Lees, personal communications, October 21, 2022).
+
+The interaction with an animal’s hair or wool impacts the resistance of the electrical current that travels from the electrode to the electrode via the animal’s skin. Wet skin reduces the resistance or impedance to the current, and thick hair or wool (for sheep) increases the resistance (Schulze et al., 2016).
+
+5.3.4.2 Halter
+
+The Halter collar is smooth and rounded to prevent any pinching or pulling. The collar enables airflow through the polyester webbing to assist with thermal comfort. The materials feature chemical and microbial resistance and are robust to interactions with cattle (Piggott, personal communications, September 27, 2022).
+
+5.3.4.3 Vence
+
+The Vence device entails a lightweight plastic bridge and stainless-steel chain that have minimal contact with an animal’s hair or wool. The collar housing has a smooth moulded plastic surface. There are no materials in the device that are considered to react adversely with hair or wool.
+
+5.3.4.4 Nofence
+
+The Nofence collar was developed with a twofold purpose: The device should not cause wounds or injury to the animal, but the animal should be able to experience the aversive signal (electric pulse) (Grinnell, personal communications, August 30, 2022).
+
+5.3.5 Species and breed-specific considerations.
+
+5.3.5.1 eShepherd
+
+The eShepherd system has been developed specifically for cattle. While breed differences occur (e.g., Bos taurus and Bos indicus), the product is transferable between all breeds (Lees, personal communications, October 21, 2022). The technology can be used in large-scale managed beef grazing systems. The breed and class of stock are considered as part of the customer selection property survey undertaken by Gallagher (WA DPIRD, 2020).
+
+5.3.5.2 Halter
+
+The Halter device is primarily used on cattle in pasture-based grazing dairy systems (Halter, 2022). Halter is currently deployed in a commercial capacity across 150,000 cows in New Zealand and Tasmania. The vast majority of customers are dairy farms, and Halter also serves a small number of beef farms.
+
+5.3.5.3 Vence
+
+The Vence product is currently only available for use with cattle. The solution is currently deployed within large-scale operations with over 500 animals and on various breeds. However, trials are underway on other species and the product is reported by the manufacturers to have been shown to be effective beyond cattle, in particular sheep, bison, and goats.
+
+5.3.5.4 Nofence
+
+Nofence is currently available for use on cattle, goats and sheep within forests and intensive grazing systems (Nofence, 2022).
+
+5.3.5.5 Boviguard
+
+The Boviguard technology is stated as being available for cattle and ponies within small-scale, woodlands, and sand dunes (Agrifence, 2022)
+
+5.3.6 The management of growing animals.
+
+5.3.6.1 eShepherd
+
+When the neckband is fitted, Gallagher recommends that adequate space is left between the side of the neck and the strap. This is measured as the ability to easily fit a person’s fist in the space. They advise that it is the responsibility of the farmer to ensure the tightness of the neckbands is monitored regularly and adjusted as required (Lees, personal communications, October 21, 2022).
+
+In the instance when animals are growing, Gallagher recommends that the eShepherd
+
+neckband is checked at regular intervals, such as every 4-5 weeks to ensure it remains fitting correctly. The correct fit is extensively covered in the User Manual and customers receive on-site training by a qualified Gallagher’s representative. It is also not advised that young calves require a neckband when they are running with their mothers, as indicated in the cow-calf trial in Waipori, NZ (Chaffey, personal communications, 2020, as cited in WA DPIRD, 2020).
+
+5.3.6.2 Halter
+
+The Halter collars have a range of fitment options to suit cattle of all shapes and sizes. Collars are designed to optimise the comfort and safety of animals. The collars are also adjustable to ensure they fit properly and comfortably as cows grow. Halter advises farmers that for optimal fitment, they should be able to fit their hand comfortably between the top of the cow's neck and the collar when their head is in a neutral position. This is to ensure the collar fits well and allows room for growth. Halter also advises farmers to inspect collar fitment at key times of the year, particularly at times when body condition can fluctuate.
+
+Halter recommends farmers only collar animals 12 months of age and over. Dairy heifers are typically collared at 22 months of age when they return to the milking platform for calving. In general, beef animals are collared at various ages from 12 months old (Piggott, personal communications, September 27, 2022).
+
+5.3.6.3 Vence
+
+Guidelines for fitting the Vence device on growing animals are outlined within the Assembly and Installation documentation. Vence advises that for younger animals, particularly where skull growth has not been completed and neck size is expected to grow, customers allow for some slack when fitting the chain around the animal’s neck. Vence further recommends periodic visual observation/inspection of animals that are experiencing significant growth. Collars should be resized as appropriate to accommodate growth.
+
+5.3.6.4 Nofence
+
+The Nofence system advises that calves, kids, and lambs must have reached an adequate physical size before they can wear a collar. The animal must have an adequate size and build to carry a collar without it interfering with its natural behaviour. Nofence acknowledges that there are large variations between species, breeds, and individuals and does not provide exact advice about when animals are big or mature enough to start wearing a collar. However, when using Nofence on small animals, it is advised to ensure that the chain is in contact with the animal’s neck. If the neck is too small in relation to the length of the neck strap, the contact points will come too far down, and the animal may not feel the electric pulse. Efficient delivery of the electric pulse ensures that the animals learn how the system works, and remain within the Nofence boundary (Nofence, 2022)
+
+5.3.7 The impact of weather and climate.
+
+5.3.7.1 eShepherd
+
+The eShepherd device should not be impacted by weather or climate as the device is designed to work across a wide variety of climates and has a weatherproof design, with the microprocessor unit attached to the neckband being fully sealed (following international standards covering the development of medical devices for human use, ISO 13485, FDA QSR 820) (Lees, personal communication, October 21, 2022). The neckband package has been designed to meet the mechanical, electrical, and electromagnetic emission safety standards that exist for electric fences and other livestock products (WA DPIRD, 2020).
+
+The efficacy of the product has been tested across multiple climatic zones. Furthermore, they are also conducting accelerated life testing of the neckbands to ensure they are stable over time (Lees, personal communications, October 21, 2022).
+
+5.3.7.2 Halter
+
+The Halter collars are designed to not be impacted by weather or climate. Halter has had collars on cows for several years throughout New Zealand’s weather conditions including high temperatures in summer and sub-zero, snowy conditions in winter. The collar includes a hardware safeguard to prevent it from accidentally applying a pulse, even if the collar is damaged or submerged in water. Continuous monitoring is in place to disable guidance cues for an entire mob if a subset of the mob fails to respond to the guidance cues (for example, if a mob is blocked from moving down a race by a fallen tree). The solar panels supplying the collars’ power are designed to last up to 25 days (from full charge) during a storm when solar power generation is low. Additionally, the collars are designed to work effectively through winter in the most southern farming region of New Zealand (Southland) when sunlight hours are reduced (Piggott, personal communications, September 27, 2022).
+
+5.3.7.3 Vence
+
+The printed circuit board (PCB) and battery within the Vence device are contained within a plastic- sealed enclosure that protects them from the elements. The device has an operating temperature of -40C to 85C (up to 100% RH).
+
+5.3.7.4 Nofence
+
+The Nofence cattle collar has an Ingress Protection rating of IP67 (@ 0,25m depth in 0,5 hrs). The device also has a temperature range of -25 to +65℃ (Operating and storage). The sheep and goat collar has an Ingress Protection rating of IP67 (@ 0,25m depth in 0,5 hrs). The device also has a temperature range of -25 to +65℃ (Operating and storage) (Nofence, 2022).
+
+5.3.8 Monitoring of the animals.
+
+5.3.8.1 eShepherd
+
+The eShepherd system continuously monitors where each animal is located and reports on animal location as frequently as every 30 minutes. The system supplies automated alerts and notifications
+
+that identify animal location, behaviour and stimulus delivery within specified thresholds that may indicate a risk to animal welfare. These alerts and notifications are provided to the customer who can check the status of the animal via the web app and/or in the field and immediately intervene by deactivating a virtual paddock (NSW DPI, 2021). However, it should be noted that the system does not monitor animals in ‘real time’ as the base station requires at least a 10-minute window to communicate with up to 1000 neckbands if they are all in range. In the case when an unsuccessful communication between the base station and an animal neckband occurs for more than 12 hours or another pre-defined period, the neckband is deactivated, and the customer is notified so that an intervention can be made. In most cases an unsuccessful communication between the base station and an animal neckband may be due to loss of line of sight (for example an animal being behind an object), the animal being ill or dead or stolen, or the animal has wandered too far from the base station for the collar to be in contact (Gallagher, 2022; WA DPIRD, 2020).
+
+5.3.8.2 Halter
+
+The Halter system operates using an algorithm (termed ‘Cowgorithm’), which is able to monitor cow behaviour and alert farmers to potential signs of illness and when cows are on heat. The collars are GPS-enabled, providing remote management and location monitoring of cow herds on dairy farms. Halter indicates that its technology allows farmers to automate herd movements, operate VF, manage multiple mobs, monitor cow behaviour, and detect when cows are on heat (Piggott, personal communications, September 27, 2022).
+
+The system provides 24/7 monitoring of the behaviour of each cow. Halter continuously monitors each cow’s grazing, rumination, resting, movement, and location. The Halter app displays each cow’s real-time and historical data across these behaviours. The system compares each cow’s actual behaviour against her historic or ‘usual’ behaviour and that of her mob. The farmer has access to this data in real-time.
+
+Farmers can also receive proactive health alerts of cows showing early signs of poor health. This helps farmers be proactive at managing and maintaining animal health. Farmers can create a ‘resting’ or ‘sick’ mob for close monitoring and treatment, in response to a health alert (Halter, 2023).
+
+5.3.8.3 Vence
+
+The Vence ‘Cattle Rider Collar’ contains a GPS and other sensors to detect animal movement in real-time and to proactively monitor the well-being of the animals.
+
+5.3.8.4 Nofence
+
+Nofence uses GPS to locate and monitor animals in real-time (Nofence, 2022). Data on animal movement is collected from the built-in 3D gyroscope. Temperature and humidity sensors monitor the collar but are not used to monitor the animal (Grinnell, personal communications, August 30, 2022).
+
+5.3.9 The energy efficiency of the device.
+
+5.3.9.1 eShepherd
+
+The sustainability of the energy source utilised by the collars is critical to the efficiency of the system. Dependence on regular batteries would be very labour-intensive to be tenable for free- ranging animals (Umstatter, 2011). Furthermore, battery changes require livestock to be gathered and restrained, which causes stress. Increasing battery charging capacity reduces the need for livestock to be gathered for battery changes.
+
+The eShepherd device is solar-powered eliminating concerns around access to power for the system to function efficiently (Gallagher, 2022). The system is also fully automated and does not require a WiFi connection to operate and continues to operate if the internet is down (NSW DPI, 2021), which ensures continued use of the system to monitor animals.
+
+5.3.9.2 Halter
+
+The Halter device is solar-powered and requires no battery changes (Halter, 2022).
+
+5.3.9.3 Vence
+
+The Vence device requires regular battery changes, and the change time is dependent on how actively farmers manage their animals, and the size of the land being managed, amongst other factors (Vence, 2022).
+
+5.3.9.4 Nofence
+
+The Nofence device is solar-powered and in the grazing season, the batteries are charged by solar panels. The cattle collar’s battery lasts the whole grazing season within larger pastures. The collars have solar panels which are 50% bigger than the collar for sheep and goats and these charges the batteries (20Ah). On smaller pastures, where the animals are typically within 30 metres of the fence boundaries for longer periods, the batteries drain faster. This is because the collars have a much higher requirement for GPS precision close to the boundary than far from the boundary. Battery time is also affected by factors like connectivity blind spots, weather conditions or when the animals are in shade (i.e., forest).
+
+The goat and sheep collar’s battery can last the whole grazing season within larger pastures. The collars have solar panels that charge the batteries (10Ah). As for cattle, on smaller pastures, where the animals are typically within 30 metres of the fence boundaries for longer periods, the batteries drain faster. This is because the collars have a much higher requirement for GPS precision close to the boundary than far from the boundary. Battery time is also affected by factors like connectivity blind spots, weather conditions or when the animals are in shade (i.e., forest) (Nofence, 2022).
+
+5.3.9.5 Boviguard
+
+The Boviguard device takes four AA batteries and has a life of approximately 12 months (Agrifence, 2022), noting that the system does not use GPS, but instead receives a signal from a ground-based wire, which may require less power consumption.
+
+6 Part B: Animal welfare impacts in relation to animal learning and virtual fencing.
+
+6.1 Learning phase impacts
+
+The learning phase is important to any animal welfare consideration of VF because until the animal
+
+learns to associate the non-aversive cue with its movement/location and the risk of a subsequent aversive stimulus, it will continue to receive electric shocks without having any agency over this situation.
+
+There is some analogy with livestock learning about a conventional electric fence, such as a single- strand tape. Initially, the animal will touch the fence and receive a shock. This may occur several times until the animal learns to avoid the aversive unconditioned stimulus (shock) because of associative learning with the non-aversive conditioned stimulus (the visual appearance of the fence).
+
+In VF, the goal is to have the animal (as quickly as possible) associate the non-aversive audio cue with the aversive electric shock, and thus respond to the conditioned stimulus (audio cue) alone (Lee et al., 2009). The learning required is more complex than that for an electric fence, however, because there is no visual barrier, and the animal needs to learn that it is its movement/location that has triggered the audio cue and thus respond appropriately to avoid the subsequent aversive electric shock.
+
+There is some data on how quickly animals learn about electric fences (and thus how many involuntary shocks they receive). When McDonald (1981) introduced a naïve group of 19 mixed- breed beef cattle (cows, heifers, and steers) to an electric-fenced boundary, the results suggested that those animals that touched the fence and were shocked then learned quickly, with no animal receiving more than three shocks and with the majority of shocks occurring on the first day. Interestingly, despite continuous observation via video camera, almost half the herd (47%) received no shocks, suggesting socially-facilitated learning among the herd. In another group, previous exposure to an electric fence resulted in only one animal receiving a shock when cattle were later released into another environment contained by an electric fence (McDonald et al., 1981). Having stated this, it is of course known that cattle will respect an electric fence tape based on its visual appearance alone, but that animals will eventually push through such a fence that is unpowered, because animals have either chosen to ‘test’ the fence and risk a shock or because another animal has pushed a herd mate against the fence. The period involved may range from hours to days, depending on the animals involved and the incentive to test the boundary (e.g., McDonald, 1981).
+
+For virtual fences, as described above, the learning challenge is usually greater, because there is typically no visual cue to alert the animals to the boundary (enabling the animals to associate the audio cue with their nearness to the boundary markers). It should be noted that the presence of a visual cue (which may be deliberate or inadvertent) may enable quicker learning by the animal of the virtual fence boundary at that location but is likely to slow learning by the animal of a boundary that has changed position – resulting in an increased likelihood of shocks being received.
+
+Because of the importance of the issue, several published researched studies have examined the frequency and total of shocks received by livestock during the learning phase of VF. In reviewing these papers, the authors have endeavoured to focus on the more recent studies, as the VF algorithms used in these are closer (if not identical) to those used in the related commercial products or prototypes, noting that the actual algorithm used is typically a commercial secret.
+
+In a recent series of studies with dairy cows, Langworthy et al., (2021) and Verdon et al., (2021) deployed eShepherd VF collars on 30 dairy cows in Tasmania, utilising a 3-day training period with a static, single boundary in a single 2.2-ha paddock, followed by a 10-day deployment period with daily pasture allocations and movements. In the presentation of findings from the learning period, Langworthy et al., (2021) reported that cows on average required 3 stimulus events (audio + electrical) to form an association between the audio cue and the electrical stimulus, and approximately 5 events to complete their learning.
+
+Following the full deployment of VF for the same group of cows, Verdon et al., (2021) recorded that there were several ‘ineffective’ deployments of the audio cue (i.e., ‘ineffective’ in that the audio cue was required to be followed by a subsequent stimulus). Of the total number of such ‘ineffective’ audio cue deployments, 57% were reported on Day 1 of the 10-day deployment, 27% on Day 3, and 8% on Day 5. These data suggest that the cows had to learn about the operation of the VF system in a new (and changeable) situation compared with the static training boundary used in the initial 3- day period. The actual numbers of ‘ineffective’ audio deployments during the main 10-day period among the 30 cows were 21 on Day 1, 10 on Day 3 and 6 on Day 5.
+
+It should be noted that we have placed the inverted commas around ‘ineffective’ for these audio cue deployments because although it is the case that these audio signals were ineffective at preventing the need for subsequent stimuli, it is possible that in some of these instances the cows were aware of the meaning of the initial audio cue but chose to keep moving forward – particularly later in the main deployment period. Finally, it should also be noted that not every ‘ineffective’ audio cue was followed by an electric shock – the numbers of shocks delivered across the 30 cows were 6 on Day 1, 4 on Day 3 and 3 on Day 5. The reason for this discrepancy is likely linked to the algorithm of the VF technology used, whereby the slow-moving grazing behaviour of the animal resulted in three audio cues being deployed before an electric shock (Verdon et al., 2021).
+
+A slightly earlier study Campbell et al., (2018), also using a (prototype) eShepherd collar, reported on the responses of 12 Angus beef heifers to VF. The animals were individually tested with a single virtual fenceline across a paddock preventing them from accessing a bale of hay. Testing occurred over 3 consecutive days, but little testing was performed on Day 3 as most of the heifers had stopped moving towards the hay. The results showed that most animals learned relatively quickly, in that with each interaction with the approaching fenceline, an animal was 28% more likely to respond to the audio cue alone. Typically, after 10 interactions, the number of animals approaching the fenceline (and thus receiving an audio cue) declined rapidly. There was some individual variation, and this is discussed below.
+
+In a subsequent study using the pre-commercial eShepherd technology with grazing groups of eight Angus steers (Campbell, Lea et al., 2019), the researchers deployed VF (single boundary across a paddock) for 27 days and recorded learning responses, as well as other variables. The steers received an average of 2.5 (range 1 to 6) audio + electrical stimulus combinations before the animals started to respond to the audio cue alone. Across the duration of the study, 71.5% of all cues were audio only and the number of electric shocks received declined after the first week. Interestingly, the proportion of audio-only cues did not remain constantly at the minimal level throughout the study – for example, one grazing group of animals showed an increase in the proportion of electrical cues received in Week 5 of the study. This may suggest an increase in the motivation of the animals to access the ungrazed areas of the paddock as feed availability declined within the virtually fenced portion.
+
+In another cattle study, but using NoFence technology, Aaser et al., (2022) examined the learning responses of twelve Angus cows, managed initially with a single virtual fenceline applied across a paddock. Over the 14 days of the study, classified by the authors as the learning period, the herd received 301.5 audio cues and 50.5 electrical shocks per week, compared with 54.5 audio cues and 1.4 electrical shocks per week during the subsequent 8.5 weeks. These data correspond to 3.6 audio cues and 0.6 electrical shocks per cow-day for the learning period and 0.6 audio cues and 0.02 electrical shocks per cow-day during the subsequent period. These results suggest effective learning as well as some social facilitation among the cows, although it is interesting that there was a slight increase in the number of electric shocks received in the later (and final) 9 weeks of the study (data not presented here). This again would suggest an increase in the level of ‘testing the boundary’ by the cows in the latter stages of the study.
+
+A study by Lomax et al., (2019) assessed the learning process of non-lactating dairy cows to a changing virtual fence boundary, as typically used in dairy strip-grazing. The study deployed prototype eShepherd VF collars on 12 Holstein-Friesian cows that were confined by an initial virtual fenceline within a larger paddock for 3 days, followed by the virtual fenceline being placed further down the larger paddock for the subsequent 3 days. Firstly, there was a decline in the proportion of electrical shocks (compared with audio cues) received over the initial 3 days, and cows received an average of 4.2 shocks on Day 1 compared with 2.8 on Day 2. The learning appeared to carry forward once the boundary was moved, with an average of 1.9 shocks on Day 4, 1.3 on Day 5 and 1.2 shocks on Day 6 (all data are model-predicted means from the statistical analysis).
+
+There are fewer studies examining sheep learning of VF. Brunberg et al., (2015) deployed the Nofence VF technology in two experiments – firstly with individual animals approaching a virtual boundary protecting a feed attractant in a test paddock, and secondly with virtual fencelines across two boundaries of a paddock containing a group of sheep. In Experiment 1, Norwegian breed ewes (n=24) were fitted with VF collars and individually placed in a test paddock with a feed attractant at one end, protected by a virtual fenceline. It was intended that each sheep be tested three times to see if they could learn to associate the audio cue with the impending electric shock if they continued forward. In this study, only 9 of the 24 ewes demonstrated associative learning and a number were removed from the study before completing three trials due to excessive behavioural reactions to the electric shock. Some of the problems seen in this study may be caused by the sheep being tested individually (as noted by the authors).
+
+In Experiment 2, the nine ewes that demonstrated associative learning in Experiment 1 were placed in a group in a test paddock with a virtual boundary placed at one end. The training was facilitated by placing this boundary near the corresponding physical boundary of the paddock (Days 1 to 3), followed on Day 4 by a virtual boundary in the same location with no physical boundary adjacent, followed by a moving virtual boundary on Day 5. Analysis of results showed that the ewes received more electric shocks on Day 2 compared with Days 3 and 4, and also more audio cues on Day 2 compared with Day 3, suggesting that the sheep had learned.
+
+A subsequent study using the Nofence technology by Brunberg et al., (2017), examined the learning responses of Norwegian breed ewes to virtual fence boundaries when grazed with their lambs at foot. In Experiment 1, 9 ewes and their 16 lambs were tested in a situation very similar to that of Experiment 2 described by Brunberg et al., (2015) above, except that in this case, the ewes were naïve to VF. Only the ewes had VF collars, and the results were difficult to interpret because several ewes appeared to ‘ignore’ the electric shocks emitted by the collars as the ewes followed their lambs into the exclusion areas. In Experiment 2, 32 naïve ewes with lambs at foot were grazed in groups of eight ewes in several (rectangular) VF configurations. Similar to the results for Experiment 1, only one of the four ewe groups reached the set learning threshold on Day 1 of the experiment, and none on Day 2, after which the study was terminated early to avoid excessive shock deployment.
+
+Finally, Marini et al., (2018) used a manual collar-based system to test the concept of associative learning for VF in sheep. The study aimed to train 30 Merino-cross ewes to associate an audio cue with a subsequent electric shock as they approached a feed attractant. Sheep were tested individually after progressive habituation to the test environment and decreasing group number. Each test ended after 5 minutes or 5 electric shocks deployed, and the ewes were tested every day for 5 days. After 5 interactions with the cues 10 out of 15 ewes that approached the feed attractant turned away in response to the audio cue alone, and out of the 30 animals tested, 63% responded to the audio cue alone during the testing process. These data indicate that sheep can learn associative learning in the context of VF, but that there is considerable individual variation (see below).
+
+6.2 Individual animal differences in learning and temperament.
+
+It is broadly recognised that cattle and sheep and other farmed livestock can exhibit individual variations in their learning abilities and cognition, as well as in their inherent behavioural responses to a stimulus (i.e., their temperament). Various studies of VF have either examined such individual differences directly or noted these effects among their study animals.
+
+In their study deploying prototype eShepherd automated VF collars, Campbell et al., (2018) studied the behaviour of 12 naïve Angus heifers as the technology was deployed to prevent the animals from accessing a bale of hay at one end of a paddock. Across 3 days of individual testing, animal learning profiles ranged from one animal learning on the first day (3 trials conducted), to two animals that were receiving electrical shocks on the third day in a manner suggesting that they had not achieved the desired associative learning (i.e., the audio cue deployment was always followed by an electric shock). The authors also noted a range of behavioural responses to the cues, including running forward, walking forward, turning around, and running back, as well as the more desirable stopping and turning/walking.
+
+The study by Campbell et al., (2018) tested animals individually, and there is some suggestion from the literature that individual variations in animal learning and response may be reduced (although still present) when VF is deployed in groups. In their study, Lomax et al., (2019) used pre-commercial eShepherd VF collars on 12 non-lactating dairy cows that were strip-grazed using a virtual fence as the movable barrier, with an initial allocation on Days 1 to 3 and then a further allocation on Days 4 to 6. The researchers recorded that overall, the small herd spent less than 1% of the time in the exclusion zones (despite the incentive of fresh pasture) and that the ratio of electrical cues: to audio cues declined after Day 1. The individual cow ratio of electrical cues: audio cues varied from 10% to 26%, and one-third of the cows received more than three electrical shocks per day across the 6 days of grazing. This variation was observed to be associated with cows that spent more time grazing close to the virtual boundary and may be related to individual variation in ‘testing the boundaries’ as opposed to a failure to learn.
+
+The longer-term study deploying the NoFence technology on a group of 12 Angus cows by Aaser et al., (2022) undertook statistical analyses on its dataset specifically to examine inter-individual differences. These analyses showed that although all cows learned to avoid the virtual border (receiving fewer audio and electrical cues over time) there was a statistically significant individual variation present in both the number of audio cues and the number of electrical shocks received, across the study (139 days). The study authors suggested that there was a need to investigate such variability further, including whether the lead or dominant cows were more likely to explore the boundary, and that further research should examine this effect, along with differences between breeds and the effect of the presence of bulls.
+
+In sheep studies, Brunberg et al., (2015) found large individual differences among the sheep tested individually (using the NoFence system), such that 9 out of 24 ewes achieved the associative learning criterion after the (admittedly challenging) threshold of three trials. Five animals were removed early from this phase of the study due to ‘running out of control’, with the authors speculating that this may have been due to the individual testing environment, receiving the electric shock, or a combination of both factors. When tested as a group, Brunberg et al., (2015) found that the ewes that ‘passed’ the individual testing were unsurprisingly relatively consistent, with all animals except one receiving no electric shocks after Day 1. The authors commented that the apparent variation in the individual responses of sheep during the learning stage of VF deployment meant that any sheep experiencing the technology for the first time would need to be carefully supervised.
+
+In their study using a manual collar-based system with 30 Merino-cross ewes, Marini et al., (2018) first tried to habituate their animals to the individual testing environment and then examined variation in sheep responses. The authors found that although learning started to occur after the third interaction with the technology, there was significant variation, with one animal still receiving an electric shock in its 9th and final test. Although the authors posited that some of this variation may have been due to the stress effects of being tested individually, further research was suggested to overcome some of the challenges noted in achieving consistent learning.
+
+Accordingly, a subsequent study by Marini et al., (2019) examined both the capacity of sheep to undertake associative learning (by comparing sheep responses to a manual VF setup with either audio then electrical cues, or just electrical cues alone as the sheep encountered the boundary), as well as the effects of individual temperament and apparent learning ability. This latter evaluation was achieved by separating the sheep that were trained using audio then electrical cues into two sub-groups and then testing these in small groups in a new situation to see how they responded to audio cues – the two sub-groups were separated based on the individual ratio of electrical to audio cues during the preceding phase. The findings of the study were that i) the results of individual sheep temperament testing before the study were not associated with differences in either interaction with the boundary of behavioural responses to the electrical cues; ii) sheep were capable of learning the association between the audio and electrical cues, as shown by the audio + electrical animals decreasing the severity of their behavioural responses over time (whereas the electrical only animals did not); and iii) that the two sub-groups separated based on individual ratio of electrical to audio cues performed equally well in the subsequent audio cue test – suggesting that it was not differences in learning but differences in individual willingness to test the boundary that was responsible for the differing proportion of electrical cues received during the preceding phase (Marini et al., 2019).
+
+6.3 Effects of age and breed.
+
+Most developers of VF technologies recommend that it not be deployed on juvenile animals, and there is a lack of evaluation in the literature on the effects of age on the learning and welfare of livestock subjected to VF.
+
+It is recognised that there are some consistent differences in behavioural responses among livestock breeds of the same species – for example between taurus and indicus type cattle, and between Merino sheep and the British breeds. It would be reasonable therefore to anticipate that there may be some differences in the way in which widely differing breeds may respond to VF, especially when encountering it for the first time. However, across the published literature reporting on studies involving current or near-current VF technologies, we were unable to find any that specifically used different breeds within the same study and compared animal learning and responses to test for consistent breed effects.
+
+There are several different breeds used across published VF studies, for cattle typically both common dairy breeds (Holstein-Friesian, Holstein-Friesian x Jersey) and beef breeds (most frequently Angus). We were not able to identify studies that specifically used indicus type cattle, other than early work by CSIRO that utilised Belmont Red (indicus x taurus) cattle and a basic automated algorithm (Bishop-Hurley et al., 2007), and a more recent study with Santa Gertrudis (indicus x taurus) cattle (Campbell et al., 2020). In the first study, cattle were able to learn to respond to a collar-based audio + electrical cue system, although the authors reported considerable variability among animals. The study by Campbell et al., (2020), using recent eShepherd technology, found that the cattle readily learned the VF cues.
+
+Most VF studies with sheep have used Merinos, although a few other breeds are reported (e.g., Norwegian breeds).
+
+Unfortunately, methodological differences between studies mean that trying to draw meaningful inferences about breed effects is not sensible, other than to state that for cattle both the dairy breeds and the beef breeds (usually Angus) studied were able to learn the necessary responses to the VF cues. As outlined later in Section H, variation has been shown between beef (Campbell et al., 2017; Lee et al., 2009) and dairy cows (Lomax et al., 2017) in associative learning of the audio and electrical stimuli involved in VF technology, however, this may also be influenced by the differing experiences typical of the two breeds, with dairy cattle typically being more frequently handled, and with greater experience of conventional electric fences.
+
+For sheep, there appeared to be as great a variation in learning within studies as across studies, suggesting that some basic methodological challenges needed to be addressed for the species as a whole (e.g., avoidance of the stress of individual learning and testing trials), before any breed effects, may become relevant.
+
+Table 5 presents the breed used in relevant livestock VF studies, along with an indication of the ‘success’ of animal learning and VF deployment.
+
+Table 5. Livestock breed types used in virtual fencing studies
+
+6.4 Effects of group size and previous experience.
+
+It is hard to draw many conclusions from the literature about the effects of group size on VF effectiveness and animal welfare, due to a lack of systematic comparisons within the same study and the fact that most research has been done with relatively small groups (typically around 6 to 12 animals). Working with 12 Angus cows, Aaser et al., (2022) noted that during the learning phase of the VF system, the event of one animal receiving an electric shock induced the rest of the herd to position themselves further from the virtual boundary. The authors suggested that further research should be conducted including exploring whether every animal in a larger group needed to have a VF collar to effectively contain a herd.
+
+Working with larger group sizes may enable important social dynamics within a herd to be better understood in the context of VF. Working with groups of 8 steers, Keshavarzi et al., (2020) observed that around 75% of interactions with the VF boundary were initiated by three individual animals and that the rest of the group often responded in concert with the cues received by these leading animals.
+
+Merino sheep, which have a strong flocking instinct compared with other breeds, were used for a study on the influence of social cohesion on VF by Marini et al., (2020). When tested over 2 days for 6 hours per day, the researchers found that placing VF collars on 6 out of 9 animals was as effective as collaring 100% of 9 sheep in terms of keeping the small groups out of an exclusion zone. Deploying the VF collars on 3 out of 9 sheep was not effective.
+
+Previous experience has shown to be important for animal responses to VF. The data described above showing the decrease in the ratio of electrical cues: to audio cues over time demonstrates the learning benefits for experienced animals compared with those naïve to VF. There is also evidence that sheep, once they have learned, retain their learning of VF for at least a year (Jouven et al., 2012). More interestingly, there is evidence that dairy heifers with experience in conventional electric fencing are faster to achieve associate learning when exposed to VF for the first time (Verdon et al., 2020). Specifically, heifers that previously encountered an electric fence received a lower proportion of electrical cues and had a greater number of effective behavioural responses to the audio cue. Moreover, the more intentional interactions an animal had with the electric fence originally, the lower its proportion of electrical cues during exposure to VF (Verdon et al., 2020).
+
+Some aspects of the prior experience have been shown to hinder effective animal learning for VF. In a study by McSweeney et al., (2020), the researchers first facilitated cow learning to a VF by placing a visual indicator on the ground. The VF process also used typical audio and then electrical cues. Although the cows effectively learned to avoid the VF boundary when it was marked by the visual cue, its subsequent removal (and the later relocation of the VF boundary) significantly increased the proportion of electrical shocks received by the animals. Providing a visual cue may be of benefit if the VF boundary is intended to be permanent, but this removes some of the benefits of VF – its flexibility of reconfiguration and freedom from the need for boundary infrastructure.
+
+7 Part C: Assessment of long-term animal welfare impacts, during use and when not in use, and likelihood of chronic stress.
+
+Understandably, because of the concerns for the welfare of animals receiving electric shocks from collar-based devices, many studies have attempted to quantify the stress and welfare impacts of VF.
+
+Potential welfare impacts are likely to arise, both from the electric shock itself (which is designed to be aversive) and from the controllability (or otherwise) of the system from the animal’s perspective.
+
+Conceptually, animals that are fearful of receiving electric shocks that are unexpected and uncontrollable by them, will be much more likely to be in a state of reduced welfare and (chronic) stress. Other welfare impacts may arise from the design and weight of the collars, the potential for pressure sores, and the risk of entrapment or strangulation, and these are examined in Part A of this report. However, appropriately fitted eShepherd neckbands have not caused rubbing or chafing during continued wear in large-scale, longer-term trials in Queensland (249 Bos indicus x steers over 37 days) and Waipori, NZ (100 Angus cows over 4 months) (Haynes, personal communication, 2020, as cited in WA DPIRD, 2020). Nonetheless, regular checking of the neckbands, especially when
+
+animals are growing, is vital to ensure an appropriate fit.
+
+In a paper outlining a welfare assessment framework that could be applied to emerging technologies including VF, Lee et al., (2018) proposed an evaluation that was based on the predictability and controllability of the technology from the animal’s perspective. This seems sensible and requires that for any VF technology and deployment to have a chance of meeting acceptable welfare criteria, the animals must have been able to learn the association between the audio cue and a subsequent potential electrical cue and understand what they need to do behaviourally in response to the audio signal to avoid the electric shock. Thus, any VF system or deployment where the animals fail to learn (or the operators fail to remove those animals that are not learning) is destined for failure on welfare grounds.
+
+Beyond this, other published studies have taken an empirical approach to welfare evaluation, measuring behavioural and physiological indicators that are relevant to reduced welfare and increased animal stress. Most of these studies have been conducted with cattle, probably because the development of VF for sheep has mostly been focused on the foundational work around ensuring effective learning. The range of animal welfare indicators that may apply to the evaluation of VF was outlined by Lee & Campbell, (2021). These are presented in Table 6.
+
+Table 6. Measures of animal welfare applicable to the evaluation of virtual fencing.
+
+Adapted from Lee & Campbell, (2021)
+
+Some of these measures have been used in welfare evaluation studies of VF. In beef cattle, Campbell, Lea et al., (2019) compared small groups of Angus steers confined by either conventional electric or virtual fences for 4 weeks across two cohorts. Measurements included faecal cortisol metabolites, behavioural time budgets, electrical: audio cues (in the VF groups only) and body weight. The authors reported that cattle were contained by both fence types, with 72% of cues for the VF animals being audio only. The electric fence cattle in cohort 1 showed a greater increase in body weight over 4 weeks than the virtual fence groups but this difference was not present in cohort 2. Cattle contained by the virtual fence showed a smaller daily lying time (11.57 vs. 11.84 hours), although this difference equated to 16 min per day in the context of an overall lying time comfortably greater than that thought necessary for adequate rest (approximately 8 hours). There were no differences in faecal cortisol metabolite concentrations. The authors concluded that the welfare status of the virtually fenced cattle was at least comparable to those contained by the conventional electric fence, across the 4 weeks of the study.
+
+Also working with beef cattle, in a study designed to evaluate the effectiveness of VF at protecting sensitive vegetation, Campbell et al., (2020) recorded time budgets and found that lying times across the 44 days (6.3 weeks) of the study were within expected parameters and thus not a cause for a welfare concern.
+
+In dairy cattle, Verdon et al., (2021) examined cow behaviour and other welfare-related responses in cows grazed in a paddock with an electrical tape front fence (Days 1 to 10), followed by a virtual front fence (Days 14 to 23 = 1.4 weeks). Measures included milk production, milk cortisol concentrations, grazing and ruminating times, cow behavioural activity and time budgets. Noting that the cows were naïve to VF, and thus the effects measured would include the learning period and acute phase effects, as well as any potential ‘steady state’ responses to the virtual fence, the results suggested that there were few differences between the two phases in the variables measured. Specifically, during the first 3 days of exposure to VF, there were no differences in milk yield, milk cortisol, body weight change, or time spent lying, grazing, and ruminating compared with the comparable electric fencing phase. Cows required an average of three events to form an association between the audio and electrical cues, suggesting that they relatively quickly achieved a state of controllability over their interactions with the boundary. During days 4 to 6 of exposure to the virtual fence, there were some differences recorded, whereby milk cortisol was elevated on day 5 of the virtual fence, although there was also an increase on day 6 of the electric fence. There were also some small behavioural effects, with time spent grazing lower and time spent ruminating higher for the virtual fence cows during this period. For the equivalent periods, time spent grazing was ~33% of time spent in the paddock for cows when behind the electric fence tape and ~27% when behind the VF boundary. The authors concluded that there were no detectable behavioural or welfare implications during the initial phases of their study, but that further research may be useful to fully quantify the longer-term effects of VF (Verdon et al., 2021).
+
+Working with sheep, Kearton et al., (2020) examined the influences of predictability and controllability in short-term VF deployment. By setting up different situations using manual remote- controlled audio/electrical cue collars, the researchers showed the importance of these features to achieve acceptable animal welfare. Using measurements of plasma cortisol, body temperature and behavioural responses (e.g., running) the researchers found that sheep subjected to VF in a predictable and controllable treatment showed no behavioural or physiological differences from the control treatment. Sheep that received electrical stimuli in a predictable but uncontrollable manner showed higher body temperature and cortisol responses and spent more time running, indicative of reduced welfare.
+
+Also working with sheep, Kearton et al., (2019) aimed to evaluate the welfare impacts of the electrical stimulus typical of VF, in comparison with other stimuli relevant to sheep husbandry and VF, including manual restraint by a person, the sound of a dog barking and an audio beep typical of a VF cue. Measurements included plasma cortisol, body temperature and behavioural responses. The audio beep had minimal impact, and the electrical shock was aversive, although less so than manual restraint by a human.
+
+The potential welfare impacts when VF is not in use have not been studied in the published literature. From a conceptual basis, these effects probably depend at least in part on whether the animals are wearing the collars or not, as it is highly likely that most livestock will associate the electric shocks with the collars. Thus, animals that are fearful or anxious about VF are likely to continue to be so once the collars are turned off, at least until such time as the animals test the boundary (deliberately or otherwise) and find that no cues are forthcoming.
+
+The published literature does not include studies where welfare evaluation has been conducted over truly long-term VF deployment. The detailed welfare study by Campbell, Lea et al., (2019) extended to 4 weeks of measurement, and although the study by Aaser et al., (2022) extended to 139 days (~20 weeks), the main measures were the numbers and ratio of electrical and audio cues. The results from Aaser et al., (2022) showed that effective learning was achieved and maintained, and although there was an increase in the proportion of electrical cues during the final 9 weeks of the study, this may have been due to animals electing to test the boundary, rather than any regression of learning.
+
+For long-term evaluation of animal welfare in response to VF, production measurements such as weight gain or milk yield are likely to be the most useful, perhaps supplemented with some behavioural measures (e.g., time budgets), electrical: audio cue ratio, and faecal stress hormone metabolites. Production measures over the long term have the advantage in that they are highly integrative (of other bodily changes and impacts) and are relevant to farmers’ interests in adopting new technology.
+
+8 Part D: Best management practices for using animal welfare monitoring indicators to minimise stress during acclimatisation, training and ongoing use
+
+The animal welfare indicators proposed and used in Section C are in part unsuitable to be used for everyday deployment of VF. This is because some require either specialised sample collection and analysis (e.g., stress hormones such as cortisol) or additional equipment fitted to the animal (e.g., body temperature, heart rate). It is relevant also to appreciate that with a well-developed and validated VF technology and algorithm, the greatest training and monitoring need is probably around the human user, more than the animals involved. The most appropriate animal welfare monitoring criteria during the acclimatisation and training phases are thus likely to include: i) collar checks for fit and tightness; ii) gross observations of animal location and behaviour; iii) automated information captured by the VF devices and relayed to the operator.
+
+The gross observations of animal location and behaviour may include:
+
+• Animal responses to entering the exclusion zone and receiving cues
+
+o Undesired behaviours such as: Vocalising, Running, Jumping
+
+o Desired behaviours such as: Turning; Walking, Resuming grazing
+
+• Presence and (approximate) level of normal behavioural activities: Grazing, Lying,
+
+Ruminating, Social interactions
+
+• Animal location:
+
+o Strong (distant) avoidance of the VF boundary (less desirable as it suggests a fear
+
+response and incomplete learning of the meaning of the audio cues) o Presence in the exclusion zone
+
+o Distribution over the inclusion zone
+
+Automated information can be captured by the device and relayed to the human operator – for example being accessible via a smart device and app. Relevant information could include the number of shocks received for individual animals, the electrical: audio cue ratio, device time-outs (because the animal has persistently penetrated the exclusion zone); rapid animal movement alerts captured via location tracking (i.e., running behaviour).
+
+As a specific example, during deployment of the eShepherd system, as it is at an early stage, the company accepts selected customers who are engaged under a ‘Beta Trial Partnership’. The selection process includes an assessment of the farm, handling facilities and animal husbandry practices. The customers are then trained in the correct use of the system, and the system is configured to send animal welfare alerts directly to their mobile phones. These alerts are also monitored by the company’s support team.
+
+For ongoing use of VF technology, the same automated alerts are also relevant, along with checks on animal productivity, collar fitment and the usual observational inspections that ought to be made for any farmed livestock – gross behaviour and location, access to water and so forth.
+
+It seems likely that the wearable VF technologies will be enhanced over time to include additional animal monitoring capabilities, and that these can both enhance ongoing animal welfare monitoring in relation to VF itself, as well as providing general animal health and welfare alerts. As an example, eShepherd hopes to operate as a larger farm management system in the future, with the ability to inform producers of the health, well-being, and production indicators of their stock (Lees, personal communication, October 21, 2022).
+
+9 Part E: The product/company approach to customer selection, training, and ongoing monitoring and user support aimed at improving animal welfare outcomes:
+
+9.1 eShepherd
+
+At this early stage of market engagement, customers are carefully selected and engaged under a Beta Trial Partnership, enabling Gallagher to fully support the user in their application of the eShepherd system. The selection process includes an assessment of the farm, handling facilities and animal husbandry practices. Customers are trained in the correct use of the system, and the system is configured to send animal welfare alerts directly to their mobile phones. All animal welfare alerts are also monitored by the eShepherd support team to ensure the best animal welfare outcomes (Lees, personal communications, October 21, 2022).
+
+9.2 Halter
+
+Halter selects and engages with its customers, as the Halter device is best suited to farms operating
+
+a pasture-based system to maximise the productivity benefits of Halter’s features. Deployment of Halter on a farm to new customers involves extensive education of farm staff, including initial training, followed by continual assistance and support available 24/7 through the app and other means (Piggott, personal communications, September 27, 2022). Training is a core component in Halter’s packages and is mandatory for farmers and their cows. Precise and effective training of animals is viewed by Halter as essential to protect the welfare of virtually fenced animals.
+
+According to Halter, cattle generally show significant progress in their understanding of primary and secondary cues within the first 24 hours of training. However, Halter prescribes a full training program of 7 days, with specific daily monitoring and training modules assigned to farm staff to follow. Halter’s training program is overseen by Halter staff with dairy farming and animal management experience.
+
+9.3 Vence
+
+The Vence device is only available through a direct sales channel with the company and not available through retail distribution. This allows Vence to select its customers, including providing training during the onboarding process. Vence has a ‘Customer Success team’ which provides free continuous technical support and product application guidance throughout the life of the product, as well as facilitated weekly customer forums to provide ongoing guidance and support.
+
+9.4 Nofence
+
+Nofence has developed a Standard Operating Procedure (SOP), describing the responsibilities and procedure for overseeing the correct use of Nofence Grazing Technology by members of their customer support team. As part of this SOP, every potential customer (or person/s who has asked for a quote) is contacted by phone to discuss the suitability of the Nofence technology for their production system. The three key questions posed to every potential user are listed below:
+
+1. Type of operation: Nofence grazing technology is not suitable for every type of livestock
+
+production system. In cases where Nofence is used to guide animals through intricate
+
+geometries to reach the desired grazing location, the size of the virtual paddock/pathway may be too small for the system, possibly causing wrongful signals.
+
+2. Mobile coverage on premises: A secure connection to the cellular network must always be
+
+granted for all collars to ensure the proper functioning of the communication between the collar and the app.
+
+3. The number of animals: The number of adult animals should equal the number of collars, as
+
+every adult animal in a herd is recommended to wear a collar. This information must be transferred to the customer.
+
+During the onboarding process, customers are provided with information material on different channels. Nofence has created several instructional videos that are publicly available on Youtube.com for users to watch. Further, the Nofence User Manual serves as an instructional guide, containing all information in written form. Finally, the Nofence app provides a guide and links to the instruction videos.
+
+Monitoring of pulses and audio signals by the support team ensures the safety and welfare of animals in up-and-running systems with Nofence. The SOP guides Nofence employees on how to effectively monitor customers and animals - e.g., a list is provided that shows the number of signals emitted by each collar sorted by the number of pulses for a great overview of pulse numbers. The Nofence support team is available via email to all customers. Internal protocols ensure efficient handling of issues. Further, in the case of unusually high signal applications or other discrepancies from the norm, customers may be contacted by the support team according to the SOP. If it is not possible to contact the customer, Nofence may deactivate collars remotely. However, any remote interference by Nofence is a last resort only and animal safety and welfare must be secured beforehand. To this day, Nofence has not remotely deactivated a collar.
+
+In the collar firmware, a teaching mode ensures safe and quick learning, followed by the fence mode to ensure secure containment within the virtual boundary. Teach mode and fence mode to differ in the definition of the appropriate response. In teach mode, the appropriate response to the audio cue is stopping and not continuing to exit the virtual paddock. In fence mode, the appropriate response is defined as returning to the virtual paddock. The collar automatically changes from teaching mode to fence mode once the animal has shown the appropriate response to the audio cue 20 times. Every time an animal is assigned a new pasture, the collar reverts to teaching mode (Grinnell, personal communications, August 30, 2022).
+
+10 Part F: Animal welfare impacts during routine usage for stock movement control including food/water provisions, access to hazards such as waterways or roads/railways, limitations on fence dimensions and shape, device malfunction or system failure and ongoing monitoring of welfare indicators. Welfare comparison to traditional electric fencing and other animal movement control methods such as quad bikes, horses, dogs, and helicopters.
+
+In terms of published research, there is only information available for this section in relation to comparisons of animal responses for VF and conventional electric fencing, and for evaluating animal responses when VF is used to move animals over time. In addressing parts of this section, therefore, the report will need to undertake some commentary that will be informed by the work published and provided on VF but will not be directly derived from such evidence.
+
+As described earlier in this report (Section C), studies have been undertaken to compare the welfare responses of cattle contained by VF in comparison with electric fencing. In dairy cattle, Verdon et al., (2021) examined cow behaviour and other welfare-related responses in cows grazed in a paddock with an electrical tape front fence (Days 1 to 10), followed by a virtual front fence (Days 14 to 23). During the first 3 days of exposure to VF, there were no differences in milk yield, milk cortisol, body weight change, or time spent lying, grazing, and ruminating compared with the comparable electric fencing phase. During days 4 to 6 of exposure to the virtual fence, there were small differences recorded, for milk cortisol and a reduction in grazing time.
+
+In beef cattle, Campbell, Lea et al., (2019) compared small groups of Angus steers confined by either conventional electric or virtual fences for 4 weeks across two cohorts. The electric fence cattle in cohort 1 showed a greater increase in body weight over 4 weeks than the virtual fence groups but this difference was not present in cohort 2. Cattle contained by the virtual fence showed a smaller daily lying time (11.57 vs. 11.84 hours), although this difference equated to 16 min per day in the context of an overall lying time comfortably greater than that thought necessary for adequate rest (approximately 8 hours). There were no differences in faecal cortisol metabolite concentrations. The authors concluded that the welfare status of the virtually fenced cattle was at least comparable to those contained by the conventional electric fence, across the 4 weeks of the study. There are no data on the truly long-term welfare measures in response to VF, in comparison with conventional electric fencing.
+
+In terms of using VF to move or herd animals, it should first be stated that there have been no applications of VF that have aimed to move animals as quickly as a conventional stock movement – such as via human stock handlers on foot or vehicle, or with the use of herding dogs. Indeed, it would likely be problematic to attempt to do so, and result in potential adverse animal welfare outcomes, in line with similar concerns over older technologies such as electrified backing gates. In the future, it may be that drones or similar contribute to animal herding, with VF perhaps playing an ancillary role, such as in setting the side boundaries for the overall movement.
+
+There has been research on evaluating the animal responses to VF being used to move livestock over time. This is covered in the following Section G.
+
+Beyond this, it is difficult to draw conclusions about (theoretical) comparisons between the use of VF to move animals and other animal movement control methods such as quad bikes, horses, dogs, and helicopters. These other methods can muster and move animals quite quickly, but can also, depending on the livestock and the application of the method used, result in substantial increases in animal arousal and physiological stress responses. The deployment of VF to move animals over time may have advantages in that it can be done slowly but with little labour requirement, however, there are no published data on the animal stress responses to such movement including in comparison with conventional mustering.
+
+In relation to fence dimension and shape, research thus far has essentially deployed VF as a front and/or back boundary to an otherwise conventionally fenced paddock (e.g., Lomax et al., 2019), or for simple polygons with no acute corners (e.g., Umstatter et al., 2015). Without visual cues to assist, a virtual enclosure with an acute corner is likely to be problematic for livestock, as turning away may simply be moving into another part of the exclusion zone and result in animal confusion and stress. This is recognised in the emerging commercial technologies, such as for eShepherd in which the app warns the farmer if they are creating ‘invalid boundaries’, such as being too small, too sharp- cornered or with unnavigable corridors – such invalid virtual paddocks cannot be switched on (Lees, personal communication, October 21, 2022). There is also the requirement to pre-set the essential features of the farm, and this is also used to identify invalid zones – for example, if there are no watering points available to the animals. This would also cover major hazards such as railways, whilst noting that proponents of VF are usually quick to emphasise that a virtual fence is not a substitute for a physical barrier when it is critical to keep livestock excluded (e.g., Anderson, 2007; Umstatter, 2011). VF has been proposed as a means of keeping livestock from straying onto railway lines in very extensive parts of Australia where fencing of the lines is not feasible (e.g., northern areas of Western Australia and the ore-carrying railway lines there).
+
+11 Part G: Animal welfare impacts of extension applications such as efficient pasture utilisation, dynamic herding and group segregation, in particular consideration of social behaviour and motivation to broach fencing due to hunger and frequency/speed of fencing changes
+
+There is little published data that specifically addresses the pre-defined topic areas here. Moreover, there is little evidence directly addressing the issue of pasture utilisation within the virtually enclosed grazing area, however, some inferences from the data can be made. When livestock effectively achieves the necessary associative learning between the audio and electrical cues, they are more likely to graze closer to the virtual boundary and thus achieve greater utilisation of the available area. The GPS plots of pasture utilisation published in the study by Campbell, Lea et al., (2019) illustrate this effect. Conversely, when livestock is fearful of the risk of electric shock and has a questionable or imprecise understanding of the VF situation, they may avoid the areas near the boundary (e.g., Brunberg et al., 2015).
+
+There have been studies examining the use of moving VF boundaries that either directly relates to animal herding or allow relevant inferences to be made. The study by Campbell et al., (2021) showed that groups of 12 Angus cows could be moved sequentially down a 344-m paddock using sequential VF placements, with the timing of fence movement determined by the behaviour and placement of the animals. Typically, the movement was completed in 1 to 2 hours, although some herding strategies were more successful than others – the most effective being a single line back fence across the width of the paddock that ‘followed’ behind the group of animals. The same study also demonstrated (using manual collars) that sheep could be ‘herded’ from one end of a 140-m long paddock to the far end and then back again, typically over the course of 1 to 2 hours and using the moving back fence approach that was most successful for the cattle (Campbell et al., 2021).
+
+Although not strictly ‘herding’, the paper by Campbell et al., (2017) used a series of VF boundary changes over 22 days to reduce and then enlarge the paddock size in one direction and then narrow it in the other dimension as well, successfully containing and guiding the group of 11 Angus heifers.
+
+All these studies are a long way from conventional herding of animals, and it may be that VF technologies will be useful at moving animals from one part of an extensive farm to another, but less useful for herding activities such as mustering unless performed slowly under extensive conditions and complemented by supporting approaches in the final stages.
+
+Our farmed livestock are social animals, and it is not surprising that social behaviours can influence VF deployment. When ewes were fitted with VF collars but not their lambs in the study by Brunberg et al., (2017), several ewes followed their lambs into the exclusion areas and appeared to ignore the electric shocks emitted by the collars. Similarly, Jouven et al., (2012) found that some ewes would readily cross a VF boundary when their peers were used as the test attractant, as opposed to feed or no specific attractant being present. As described earlier, such social gregariousness in sheep has been shown to be able to retain animals within the inclusion zone when not all sheep were collared (Marini et al., 2020).
+
+In cattle, it was observed by Colusso et al., (2021) that social dominance can play a role, with dominant cows regularly seen pushing subordinate animals towards the VF boundary and observing them receiving a shock. This can also occur with conventional electric fences, and the reason that a farmer may find that a single-strand tape has been broken through by the herd may not be related to an individual dairy cow testing the fence, but because a dominant cow has pushed a conspecific into the fence, resulting in the fence falling over.
+
+It seems feasible that both significant pasture availability gradients across a virtual fenceline and rapid fence movements can result in breaches into exclusion zones by livestock, although there are no systematic data that we could identify to verify these effects. More broadly, the likelihood of an animal or animals challenging a virtual fence boundary is likely to be proportional to their incentive to do so – thus a virtual fence that restricts access to something that is highly motivating (for example lush pasture separated from feed-restricted animals) would increase the motivation for animals to approach the boundary. On the other hand, the flexibility of creating and modifying virtual boundaries means that the technology could more easily be applied for goals such as pasture rotation, environmental protection, and feed management – thus allowing for animals to be excluded from highly attractive resources more readily and dynamically than traditional fencing.
+
+12 Part H: Assessment of differing animal welfare considerations in the livestock industries which may use the technology.
+
+The use of VF technology presents various animal welfare concerns depending on the livestock systems they are applied. Comprehensive welfare assessments of VF within livestock systems require a multi-disciplinary approach to properly capture the various acute and longer-term measures of welfare that account for the complexity of the animal’s learning and interaction with the technology (Lee & Campbell, 2021).
+
+12.1 Rangeland beef
+
+In traditional rangeland systems, the animals are generally managed during the day, allowing animals to be placed within certain areas to meet their grazing or nutritional needs while limiting their access to other areas to rest and regenerate the land. Then at night, they may be enclosed for protection from predators. However, due to changing climates and increasing labour costs, some rangeland systems have little or no human supervision for much of the year (Rutter, 2014). In such systems where the animals are not seen by humans for days or weeks at a time, the ability for intervention and treatment when animals become ill poses a severe risk to welfare (Bailey et al., 2018). Moreover, there has been a recent shift towards intensification of livestock management with the use of highly productive, specialised breeds, mainly Angus beef cattle. Yet such breeds threaten sustainable land use as they have been demonstrated to produce twice as many hotspots (mass urine and faecal deposition sites), and to utilise less native food supplies (Spiegal et al., 2019, as cited in Stevens et al., 2021).
+
+Climate change has been identified as a major issue for rangelands around the world (McKeon et al., 2009). VF technology poses an opportunity to address some of the difficulties imposed on livestock management to adequately maintain animal health and nutrition within Australia’s existing hot, dry, and variable climate, as well as difficulties with wildlife management and regeneration after wildfires. Disease transmission between livestock and wildlife is also a threat to the health and well- being of livestock, wildlife, and local communities, as well as a cause of significant economic loss (Wiethoelter et al., 2015). VF technology provides users with information on animal locations and provides the potential for farmers to minimise wildlife–livestock encounters and in turn limit the possibility of disease transmission.
+
+Boyd and colleagues (2022) suggest that VF can provide increased management options for controlling rangeland livestock grazing distribution that can vary in space and time such as the use of exclusion zones to avoid areas known to contain seasonal poisonous plants. VF also offers the potential to improve the management of cattle around riparian zones and other environmentally sensitive areas where physical fencing is not generally possible. For example, Campbell et al. (2019) were able to exclude cattle (n=10) from a riparian zone that was greater than 10 hectares and included a river although the cattle had previously had access to it for 3 weeks. The animals were effectively contained by the virtual fence for 10 days except for three days after the fence was activated when four animals crossed into the exclusion zone for approximately 30 minutes. Also, following deactivation, cattle were seen to freely re-enter the previously excluded zone within two hours (Campbell, Haynes et al., 2019). In a later study, Campbell, and colleagues (2020) effectively excluded cattle (n=20) 99.8% of the time from an area with regenerating tree saplings for 44 days, despite the exclusion zone having a higher forage availability. This study was unique in its ability to show that cattle can be successfully contained by a complex and contoured virtual fenceline (Campbell et al., 2020). Furthermore, VF technology was also shown to successfully exclude cattle (n=18) from burned areas within sagebrush steppe vegetation, despite the animals showing a strong preference for the burned areas (Boyd et al., 2022).
+
+VF technology could provide rangeland livestock farmers with the ability to remotely monitor and move cattle, as well as to remotely monitor livestock welfare and behaviour and to be notified in real-time (or near-real-time) when an animal requires intervention. For example, the lack of movement in a device on an animal that cannot be readily seen can aid in early disease detection. Also, better insights into rangeland livestock behaviour provided via the VF technology could help producers select cattle for improved grazing distribution (Bailey et al., 2018; Rutter, 2014), which could have potential welfare benefits for animals to be better suited to their environment, as well as productivity benefits for farmer with improved production metrics. Bailey et al., (2004) demonstrated that cattle can have very different grazing patterns, in particular, hill-climbing cows naturally used higher elevations, steeper slopes, and areas far from water, whereas bottom-dwelling cows used gentle terrain near water.
+
+12.2 Extensive pastoral beef herds
+
+VF technology has been widely demonstrated in extensively grazed beef cattle settings (e.g., Campbell et al., 2017, 2018, 2019; Lee et al., 2007, 2009; Markus et al., 2014; Umstatter et al., 2015). Markus et al., (2014) assessed the behavioural outcomes of yearling Hereford Angus crossbred beef heifers (n=6) during movement within a VF system compared to an electric fence system. The study found cattle trained in a VF system showed greater avoidance of the location where aversive stimuli were received than those trained in an electric fence system. Animals are known to be aware of their surroundings and have been found to associate cues with landscape objects. Cattle trained in the VF system were found to avoid an area where they had previously received electric stimuli for four days after the system was deactivated. Comparatively, the cattle in the electric fence system immediately travelled through previously excluded areas. Grazing and pasture consumption are essential to not only the welfare of the animals but the profitability of the system (Langworthy et al., 2021). Reduced environmental predictability is known to be associated with negative animal welfare implications (Lee et al., 2018). As such, the findings of Markus et al., (2014) suggests that the use of VF systems where boundaries are periodically moved may negatively impact the animal’s welfare, movement, and behaviour due to the animal’s memory of locations where previous aversive stimuli were received (Markus et al., 2014). However, any negative animal welfare impact of an animal management system such as a virtual fence can be minimised by ensuring the cues are predictable, for example, an animal can predict the occurrence of the negative stimulus, and controllable, for example, an animal has agency to control or avoid the stimulus (Lee et al., 2018).
+
+Campbell et al., (2017) demonstrated positive findings for farmers that wish to implement short- term temporary fences. In their study, they were able to successfully restrict Angus heifers (n=6) using VF technology when fencelines were periodically shifted to restrict the animals to 40%, 60%, and 80% of the paddock area width ways and 50% lengthways across a 22-day period. Animal body weight was found to increase across the trial period and there were no differences in time spent standing, number of steps, or time spent lying between the different fence location periods. More lying bouts were observed during the 80% and lengthways inclusion zone periods compared with the baseline (or time where no fence was set) which could indicate some distress or unsettlement while adapting to the changes in the environment, yet these variations in lying times were incremental across the different inclusion zone periods and total lying times did not change. During the study, animals showed a preference for resting under the tree line at the top right end of the paddock and the authors postulated that the 80% fence was close enough to the tree line that the cattle were frustrated they could not reach it, and likewise, while the lengthways fence zone provided access to the trees it was not their preferred corner. Such findings suggest future research is warranted to assess how animal preferences for specific vegetation or area that occurs in an exclusion zone could impact interactions with virtual fencelines (Campbell et al., 2017).
+
+Additionally, Campbell et al., (2019) compared behavioural and welfare outcomes of 12–14-month- old Angus beef steers (n=8) within VF systems compared to electric tape fences over four weeks. While all animals exposed to the VF system learned to respond to the audio cue to minimise receiving electrical stimuli, a high variation in individual learning was evident. Both groups used all accessible areas of the paddocks indicating no avoidance of the locations of either type of fenceline. However, the animals subjected to the virtual fence exhibited statistically less lying time than those subjected to the electric tape fence which could be considered an indication of discomfort and stress, but these findings were within typical cattle lying time ranges. Additionally, the animals contained by the electric tape fence showed a greater body weight increase than the virtually fenced animals, however, this was not confirmed in the second cohort and may have been related to variation in paddock feed availability (Campbell, Lea et al., 2019).
+
+12.3 Pasture-based dairy
+
+Although VF systems have been more readily applied to grazing beef cattle (e.g., Campbell et al., 2017, 2018, 2019; Lee et al., 2007, 2009; Markus et al., 2014; Umstatter et al., 2015), there is a growing body of research extended to pastoral dairy systems (Lomax et al., 2019; Verdon et al., 2020). In Australia and New Zealand, almost all (95%) of dairy systems are pasture-based. Pasture- based dairy farming requires more intensive pasture allocations compared to beef systems as it relies on the efficient conversion of pasture into milk and milk production is energetically demanding resulting in dairy cattle having high energy requirements (Colusso et al., 2021). Such systems are labour-intensive and for efficient pasture management fences need to be regularly shifted to enable proper grazing management and habitat conservation (Lomax et al., 2019). VF systems have the potential to provide pasture-based dairy farmers with the ability to more easily and efficiently allocate pasture via real-time automation of grazing management to enable more complex grazing systems which will bring significant health, welfare and productivity benefits to dairy herds, such as improving pasture and cattle management, as well as financial gains and improved quality of life for farmers by reducing labour requirements (Anderson, 2007; Anderson et al., 2014; Lomax et al., 2019).
+
+Variation has been shown between beef (Campbell et al., 2017; Lee et al., 2009) and dairy cows (Lomax et al., 2017) in associative learning of the audio and electrical stimuli involved in VF technology. Previous experiences as well as individual temperament impact responses to such stimuli. Verdon et al., (2020) showed that heifers with experience in electric fencing displayed more rapid learning of the VF technology than those that had no exposure to electric fencing during rearing. Additionally, the more interactions an animal had with the electric fence during the treatment period, the lower the proportion of electrical stimuli she received during training. Dairy cows are generally more likely to have experienced an electrical stimulus from an electric fence during day-to-day management than beef cattle (Verdon et al., 2020). Thus, dairy cattle may be primed to accept VF technology more rapidly. Moreover, individual temperament, such as fearfulness, has been found to impact learning in calves (Webb et al., 2015). Verdon and Rawnsley (2020) also found that heifers learnt the VF technology better as they became older, specifically closer to calving age (i.e., 20-22 months of age) rather than younger (less than 12 months). Lomax and colleagues (2019) assessed individual learning of Holstein-Friesian non-lactating multiparous dairy cows (n=12) using VF and found that the area closest to the fence was underutilised by the animals for grazing, compared to other locations within the inclusion zones. This was found to decrease over time. Lomax et al., (2019) proposed that this finding could suggest stimuli learning or could be due to depletion in the pasture across days of grazing, creating motivation for cows to graze closer to the virtual fence barrier. This poses negative implications for the “affective state of
+
+the animals, where the motivation to access fresh pasture may be competing with aversion to the stimuli” (Lomax et al., 2019, p.8).
+
+Colusso et al., (2021) studied the influence of hunger on cow’s response to VF technology using a more practical and common strip grazing scenario. In the study, non-lactating Holstein-Friesian dairy cows (n=10) were trained to use a VF system for 6 days before strip grazing a 1.2 ha paddock. Over 10 days the cows grazed 8 pasture allocations and each day, except days 5 and 10, the VF line was moved forward to provide new pasture allocation. On days 5 and 10, the virtual fenceline was not shifted, and cows were only offered the previous allocation’s residual pasture. While cows spent 89% of their time within the inclusion zone, significant peaks were shown on days 5 and 10. The results suggest that if animals are hungry, they are more likely to test the virtual fence and move into the exclusion zone.
+
+12.4 Intensive grazed dairy
+
+Langworthy et al., (2021) compared the success of an electric fencing system and the eShepherd VF systems to contain lactating dairy cows (n=30) within the boundaries of their daily (24 h) pasture allocation (inclusion zone). This is the first experiment on VF technology to manage grazing lactating dairy cows (Verdon et al., 2021). This study involved higher stocking densities than most previous studies, as well as increased regular changes to the virtual fence location by means of daily paddock change which was aimed to resemble what the use of VF would look like in intensive grazing systems. While Langworthy et al., (2021) found that pasture depletion within the inclusion zone reduced the efficacy of the virtual fence in preventing cows from entering the exclusion zone, the effect of this was insignificant. This study contained dairy cows successfully behind the virtual front fence for 10 days more than 99% of the time (Langworthy et al., 2021). There were some indications of stress and disruption of behaviour shown from day four, yet milk production was unaffected, suggesting a longer study would be required to fully evaluate the long-term welfare implications (Verdon et al., 2021).
+
+12.5 Sheep
+
+In 2012, Jouven and colleagues conducted the first series of experiments in France testing VF to control the distribution of grazing sheep (n=5 or 32) with promising findings (Jouven et al., 2012). However, subsequent studies by Brunberg and colleagues in Norway found sheep to be slower and more inconsistent to train within a VF system compared to cattle (Brunberg et al., 2015, 2017). An Australian study by Kearton et al., (2019) compared the stress response of Merino ewes (n=80) exposed to five different treatments: no stimuli (control); beep; dog bark; manual restraint; and electrical stimulus (n= 16 animals per treatment) and found sheep experience the first exposure to the VF stimuli as less aversive than a commonly used restraint procedure. More specifically, the study found the stimuli could be ranked from least aversive to most aversive as follows: control; beep; dog bark; electrical stimulus; restraint (Kearton et al., 2019). Later, Kearton et al., (2020) tested the influence of predictability and controllability on stress responses in sheep in an experiment involving eighty Merino ewes subjected to one of four treatments which were: control (no training and no stimuli in testing); positive punishment training with an audio stimulus in testing; classical conditioning training with only an audio stimulus in testing; and classical conditioning training with an audio stimulus followed by electrical stimulus in testing. The stress responses by
+
+sheep were measured as plasma cortisol, body temperature and behaviours (locomotor activity, exploratory behaviours, vigilance, and avoidance behaviours). The study found no differences in behavioural and physiological responses in the sheep that had undergone the predictable controllable treatment compared to the control group (no stimuli), which suggests that the sheep perceive this cue as benign once they have learnt how to respond to it. Comparatively, a stronger behavioural response (increased running and turning) compared to all treatments and a higher cortisol and body temperature response compared to the control, was seen by the sheep subjected to predictable but uncontrollable treatment, implying that predictability without controllability was perceived as stressful by sheep (Kearton et al., 2020).
+
+Sheep farming can often involve large flock sizes and Marini et al., (2020) explored the ability of VF to control sheep when differing percentages of the group were exposed to the VF systems. Group movement order was used to identify sheep position within a flock as leaders, middle or followers and sheep were allocated to group balanced for order, i.e., each group had at least one sheep from each subgroup (leader, follower and middle) subjected to the VF system. Then the efficacy of a VF system to contain sheep within an inclusion zone by placing collars on 100% (n=9), 66% (n=6), 33% (n=3), and 0% (no VF; free to roam the paddock) of the group was tested. The study found that the 100% and 66% groups were successfully prevented from entering the exclusion zone (50% of the north side of the paddock) while having only 33% of the flock exposed to the virtual fence was not successful in containing the sheep (Marini et al., 2020).
+
+12.6 Goats and Horses
+
+While there is little peer-reviewed published research on the use of VF on goats, the potential appears to exist, but the available data is far less advanced than for cattle. Eftang, Vas, Holand, & Bøe, (2022) conducted 3 studies across 8 commercial goat farms over 5 days in Norway using the Nofence VF system. Firstly, naïve goats (n=53, divided into 6 groups) were introduced to and enclosed by a virtual fenceline and results showed naïve goats adapted to the VF system within a few days, with 22 goats reported to have escaped on day 1, compared to none on day 4 and 5. In the second study, goats already accustomed to VF (n=92, divided into 10 groups) were confined to their regular pasture areas by a virtual fenceline. In the last study, goats accustomed to VF (n=45, divided into 4 groups), were moved to or given new rangeland areas enclosed by a virtual fenceline. The accustomed goats and accustomed and moved goats showed similar success ratios, however large individual and group variation regarding the number of audio cues and electric stimuli received was shown.
+
+The study of VF use with horses is even less well explored than for goats. Furthermore, the strong flight response of horses to threatening stimuli would appear to pose additional challenges to the successful deployment of VF, compared with livestock species such as cattle. However, one study worth noting was conducted by Janicka et al., (2022) utilising horses (n=30) moved individually through a designated corridor towards either food or social reward when a sound was played at one of three distances (30, 15 or 5 m) from a defined line. The virtual barrier had an 80% success rate when food was offered with horses displaying flight, going away, or stopping behaviours. However, when social interactions were offered, the efficacy of the virtual line dropped to only 20%. This study is unique in that it offered sound alone (Janicka et al., 2022).
+
+12.7 Livestock sectors – Summary
+
+In summary, the animal welfare implications of VF can vary depending on the livestock system and factors such as the species, herd size, pasture size and quality, access to water, interaction with humans, as well as individual animal temperament, learning ability and previous experience. Cattle are social animals and socially facilitated learning occurs (Campbell, Haynes et al., 2019; Keshavarzi et al., 2020). The stocking densities of the system impact welfare, with higher numbers of animals having been shown to increase the probability of animals interacting with virtual fences (Langworthy et al., 2021). Also, the nutritional needs of the animals need to be considered. For example, lactating cows are generally much hungrier and require more feed than a heifer or dry cow and hunger has been shown to drive animals to move into the exclusion zones (Colusso et al., 2021). Similarly, pasture depletion within the inclusion zone reduces the efficacy of the virtual fence barriers as animals become motivated to access fresh pasture (Lomax et al., 2019). Cattle preferences for certain areas such as tree lines have also been suggested to impact behaviour and interactions with virtual fencelines (Campbell et al., 2017). These issues indicate a potential increased risk to the welfare of the animals whereby an individual’s hunger or preferences contends with their aversion to the electric stimuli, resulting in potential stress and a negative affective state (Langworthy et al., 2021; Lomax et al., 2019).
+
+The long-term ability of animals to predict and control their situation is strongly related to welfare outcomes. The variety of livestock systems that can use VF also differ in how often fence barriers are changed or moved, as well as how often animals are gathered for husbandry practices. Most studies conducted to date have involved relatively small sample sizes and inclusion zones, whereas some livestock management, particularly in commercial situations, could include inclusion zones beyond hundreds or thousands of hectares and herd numbers exceeding thousands of individuals, suggesting further study using commercially relevant group sizes is required before we can generalise to such settings (Campbell et al., 2017). Increases in sample sizes, study periods and fenceline complexity are needed. Additionally, monitoring the application of VF over even longer periods of time would be beneficial to explore not only acute but chronic indicators of stress in animals (Lee & Campbell, 2021).
+
+13 Part I: Management of animals that cross the virtual barrier, including returning to the herd using dynamic fencing strategies and animal welfare impact of these strategies.
+
+The published research papers identified did not include a systematic evaluation of strategies for when animals cross into the exclusion zone. Although dynamic fencing strategies have been mooted in order to move animals back toward the inclusion zone, and the effect of the behaviour-based algorithms (e.g., eShepherd) to guide animal movement does address this, the main barrier to consistently moving an animal back would appear to be the animal welfare ‘cut-offs’ that are incorporated within the technologies.
+
+For example, the current version of the eShepherd algorithm allows the animal to receive a maximum of 10 electric shock cues over a 5-minute period, after which the device will switch to ‘simulation mode’ for 10 minutes. In simulation mode, no audio or electrical stimulus will be delivered and so the animal is essentially free to roam. Before that threshold occurs, if an animal
+
+does venture into the exclusion zone, it can avoid further electrical cues by facing and moving back towards the inclusion zone. Other technologies available (e.g., Halter) use similar approaches - see Part A of this report for further details on the specific characteristics of the available VF technologies.
+
+The animal welfare impacts of these approaches would appear to be limited and defined by what one considers an ‘acceptable’ number of electric shocks before a cut-off occurs. This level of detail was not received from every company from whom it was requested.
+
+14 Part J: Considerations for vulnerable animals such as young at foot, and ill or injured animals.
+
+There are no published papers systematically examining the appropriate age threshold of animals to use VF, nor on what happens when an animal becomes ill or injured. Discussions with VF technology companies indicate that they place a limit on the age of animals for the use of their products – e.g., 12 months for cattle in the case of Halter. For dairy cattle, VF is unlikely to be deployed until animals are entering the milking herd at around 2 years of age. Studies involving the deployment of VF on sheep with lambs at foot have suggested that the incentive for ewes to be close to their lambs can overcome the virtual boundary (Brunberg et al., 2017). Based on most VF guidelines combined with a lack of research, it could be argued against the use of VF being directly applied to juvenile livestock and that there is more to be learned about the risk of dams following their offspring into exclusion areas and thus getting shocked.
+
+In terms of ill or injured animals, the deployment of VF ought not to remove or lessen the obligations of a stock person responsible to inspect and check on the welfare of livestock under their care, although basic animal health alerts do exist (e.g., if an animal stops moving the eShepherd system notifies the farmer).
+
+An ill or injured animal may be less likely to test or cross a VF boundary due to reduced mobility, and so the main potential problem arises if the VF boundary is moved, and the animal is unable to move accordingly. This may be managed by i) the requirement for farmers to check their stock as always, and ii) the system viewing as invalid a boundary that is drawn beyond where an animal is currently located (thus immediately placing it in the exclusion zone). The ‘herding’ studies thus far have operated within this requirement by moving the boundary behind the animals (Campbell et al., 2021).
+
+15 Part K: Strategies for managing animal welfare during adverse events such as fire, flood, or storms.
+
+The occurrence of severe adverse weather events or natural disasters, such as fire, flood, or storms, can negatively impact animal welfare within livestock farming. Due to climate change, Australia is positioned to see an increase in the frequency and severity of many such extreme weather events. In Australia, heat waves have become longer and hotter and the number of recorded hot days has doubled in the past 50 years (Steffen et al., 2014). Extreme rainstorms that trigger flash floods and
+
+urban flooding are also increasing (Guerreiro, 2018). VF technology provides many advantages over physical fences in the instance of such adverse events. Virtual fencelines are essentially unaffected by natural disasters, whereas physical fences that are fixed in space cannot be readily adapted to changing or severe circumstances. Additionally, confined animals can become trapped in fenced areas, resulting in serious injury and possible death.
+
+VF systems provide the possibility to adapt quickly and have the boundaries of the permitted areas quickly, cheaply, and remotely changed or deactivated. In the situation when extreme weather events can be predicted, customers of VF systems can plan and remotely move their animals to a safer location, whether that is shelter, shade, or a new location. However, in circumstances where sufficient warning or planning is not available, the virtual fence boundary can be immediately deactivated remotely by the customer, and animals can move themselves to safety. It is also worth noting, deactivated VF technology is not always beneficial in an adverse weather event emergency (see below Part L for more details on when the absence of any fencing can be a welfare risk), however, until technological advancements are made to address such emergencies, deactivation of VF technology may be the best option to minimise welfare implications for acute periods of time.
+
+Once the adverse event has concluded, the GPS technology within the system can assist with the tracking and relocation of the animals (Umstatter, 2011). In addition to increasing the rate of a successful recovery of stray animals still in range of the base station, the VF technology will be able to identify the last recorded location of those animals who have strayed further away.
+
+16 Part L: Considerations of animal welfare issues unique to permeable fences including straying, risk of predation or trespass.
+
+Within livestock farming, animals may stray for various reasons including in search of food or water, particularly during dry conditions, as well as seeking company or satisfying an urge to roam. The wandering or straying of animals can cause serious animal welfare risks. Straying animals can be seriously injured or even killed and because they are outside the boundary of a paddock, it is unlikely that farmers will be able to readily intervene, leading to the potential for prolonged suffering. Straying animals can also cause serious public safety risks, especially if they wander near or onto roads; human lives have been lost from vehicle collisions with livestock on roads. The primary objective of VF technology is to keep livestock within a predefined area, with animals that wander, or stray subjected to audio cues as a warning and if they continue to approach the excluded areas, electric stimuli are emitted from the collars. While this is intended to stop an animal from straying the boundaries, research has shown individual differences in learning and behaviour that can result in certain animals continuing to cross the virtual fence into the excluded areas. Given this, as well as the fact that collars can run out of battery or malfunction, until advancements are made or more research is available, VF is not a suitable alternative to a pre-existing physical fence when cattle must always remain enclosed, but it does provide a viable option where physical fencing is not an option. However, a chief advantage of VF over physical fencing, is that if an animal crosses the virtual barrier, the systems technology means customers can be alerted in real-time (or near real-time) regarding animal location, behaviour, and stimulus delivery. Therefore, customers can check the status of the animal via the web app and/or in the field and immediately intervene, if necessary.
+
+VF technology is limited in its ability to protect cattle from predators, such as dingoes, and this poses a clear disadvantage in areas with an increased risk of predation. The absence of physical barriers such as traditional fences means that nothing is stopping predators from entering paddocks and accessing livestock. However, virtually fenced animals possess the ability to more readily escape if frightened or attacked by predators (Herlin et al., 2021). Additionally, in systems such as eShepherd, if an animal is exhibiting what can be considered distressed behaviour, such as being chased by a predator, the electrical pulses will cease until the animal calms. It is then directed back towards the inclusion zone via receiving cues if it heads away, and no cues as it heads back towards where it is meant to be (NSW DPI, 2021).
+
+While not as directly related to the effect on welfare, it is interesting to note the potential impact of VF on stock theft. VF cannot protect against trespassing into paddocks, however, in the instance when the aim of trespassing is cattle theft, the real-time (or near real-time) monitoring of animals provided by the technology can be used to reduce the incidence of stock theft. For example, animal movement patterns that are more linear and less sinuous can often indicate animals being gathered and moved. Customers can be alerted when tracking data indicate livestock are being herded and in cases when the herding was not authorised, the customers have the potential to intervene before stock theft occurs (Bailey et al., 2018). Cattle theft poses negative welfare implications for the animals, such as increased stress and suffering whereby the stolen animals are not handled, transported, and slaughtered with their welfare in mind.
+
+17 Part M: Strategies to mitigate deliberate misuse of the virtual fencing technology to negatively impact animal welfare.
+
+The VF systems currently available incorporate safeguards to protect against deliberate misuse of the systems which may result in negative welfare impacts. However, effective, and efficient use of this technology, ensuring satisfactory animal welfare outcomes, depends on both the features of the technology itself and how it is used.
+
+17.1 eShepherd
+
+Gallagher has put in place various precautions aimed at mitigating against misuse of the system, which include an initial training program for the customer and the cattle. Animals are trained using a built-in algorithm, and it cannot be overridden by the user. The eShepherd system is designed such that a farmer can set virtual paddocks and add or remove animals from those paddocks. There is no capability of the user to alter the VF algorithm and change settings such as pulse strength or timing. Gallagher also carries out ongoing reviews of performance statistics (Lees, personal communications, October 21, 2022).
+
+The eShepherd system also responds to behaviour and not the location of an animal, so the animal is always in control. If an animal does venture into the exclusion zone, it can avoid stimulus by slowly facing and moving back towards the inclusion zone (Lees, personal communication, October 21, 2022). If an animal is lying down, standing, moving in parallel close to the fence, within the virtual paddock, or resting, moving in parallel or heading towards the fence from the exclusion zone, it will not receive a cue. In addition, if an animal is exhibiting distressed behaviour, such as being chased by a predator, the pulse will cease until the animal calms. It is then directed back towards the inclusion zone via receiving cues if it heads away, and no cues as it heads back towards where it is meant to be. The current version of the algorithm allows the animal to receive a maximum of 10 pulses over a 5-minute period, after which it will switch to ‘simulation mode‘ for 10 minutes. In simulation mode, no audio or pulse stimulus will be delivered (Lees, personal communication, October 21, 2022). The system is fully automated and does not require a WiFi connection to operate. This means that it continues to operate if the internet is down, and it cannot be manually activated by the operator to deliver pulses either inadvertently or deliberately (NSW DPI, 2021).
+
+In the scenario that a user misuses the product (for example sets an unreasonable virtual paddock), the product has safety features to protect animal welfare:
+
+1. Timeout/relief period: if the animals receive too many pulses, the neckband will go into a
+
+‘timeout’ mode to give the animal some relief. Customers are informed via notifications.
+
+2. Invalid virtual paddocks: The eShepherd apps warn the farmer if they are creating invalid
+
+boundaries, such as being too small, or too sharp/unnavigable corridors. Invalid virtual paddocks cannot be turned on.
+
+3. Access to water: The eShepherd apps warn the customer if there are no watering points in
+
+the active virtual paddock.
+
+4. Network outage: Should there be a communication outage, the animals will remain fenced
+
+for 12 hours and become unfenced/free to roam after that (Lees, personal communication, October 21, 2022).
+
+17.2 Halter
+
+The AgResearch Animal Ethics Committee in New Zealand approved research projects associated with the development of the Halter product. Whilst humans determine the destination of animal movements in the Halter app, humans never have direct control over the guidance cues sent to animals, and the only inputs to determine the cues are the animal’s behaviour and location. Halter has multiple automatic safeguards and disabling features in place to ensure animal welfare is protected when training, containing and guiding animals with virtual fencing technology (Piggott, personal communications, September 27, 2022).
+
+17.3 Vence
+
+Vence provides customers with extensive training and animal welfare guidance during the onboarding process. It also has inbuilt failsafe mechanisms with the software to protect animals from receiving too many stimuli from the collars. These animal-welfare mechanisms are not accessible to customers to prevent them from being inadvertently or deliberately altered or overridden (Slinkert, personal communications, August 20, 2022).
+
+17.4 Nofence
+
+Nofence can monitor all collars and has a standard operating procedure (SOP) in place to monitor the application of signals to the animal. Farmers whose animals experience unusually high numbers of signals (audio or pulse) are contacted by Nofence employees, and Nofence reserves the right to shut off collars remotely if they are considered to be misused. However, to this day this has not occurred (Grinnell, personal communications, August 30, 2022).
+
+18 Part N: Potential positive animal welfare impacts of usage such as movement control during extreme weather and better feed management. Assessment of value proposition of capacity to include additional capabilities such as remote health and welfare monitoring systems in the wearable device.
+
+Because of the reduced labour and minimal fixed infrastructure requirements for VF, and its inherent flexibility in setting and then re-setting boundaries, the technology offers many potential advantages for achieving positive impacts for animal management. These include the protection of riparian zones or environmentally sensitive areas – as used by (Boyd et al., 2022; Campbell et al., 2020; Campbell, Haynes et al., 2019). More broadly, VF has the potential to enable more efficient rangeland management – thus minimising overgrazing in some areas while promoting grazing in others- as described by (Umstatter, 2011; Anderson et al., 2014).
+
+The capacity for VF to move animals to shelter from extreme weather events or impending disasters has yet to be determined and is likely to depend very much on the urgency of the issue, the topography of the area and the distance to be moved. There may well be some positive welfare benefits in this area, but they are yet to be fully calculated or applicable, with herding studies largely confined to straightforward movements on simple topography (e.g., Campbell et al., 2021).
+
+The incorporation of health and welfare monitoring systems offers the prospect of a beneficial add- on to VF technologies once they are established. The capacity to use animal behaviour and location to provide information on health and welfare has long been recognised. Typical VF collars already track animal location and thus movement, and algorithms that calculate variables such as separation from the herd and reduced (or increased) movement may offer valuable health and management (e.g., oestrus) alert delivered remotely to the farmer, as recognised by Umstatter (2011).
+
+Furthermore, the VF collar and platform may provide a base for the addition of other monitors and sensors that can provide additional health and welfare information, such as rumination, grazing, body temperature and rumen pH (see outlines by Rutter, 2014 and Herlin et al., 2021).
+
+Companies developing VF technologies are aware of this potential and have indicated that they are working towards it – for example, developers have indicated that they intend eShepherd to become one part of the larger farm management system, with the ability to inform producers of the health, wellbeing, and production indicators of their stock (Lees, personal communication, October 21, 2022).
+
+19 Part O: The animal welfare impacts of virtual fencing on non-target species including native wildlife.
+
+Fencing as part of livestock management can have many unintended welfare implications for non- target species (i.e., species for which the fence was not intended to control) such as native wildlife (Hayward & Kerley, 2009). Traditional fences create a fixed, physical barrier and while fences can be effective at keeping livestock in, they can also become a problem for native wildlife. Comparatively, VF technology provides the ability to restrict and control livestock movement without the creation of physical barriers, which in turn can provide indirect welfare benefits over traditional fences for non-
+
+target species. A primary welfare concern with physical fences is fence-related injury, entanglement, and mortality, for example, due to deadly collisions (Stevens et al., 2012). Native wildlife, as well as livestock, can also become trapped by fences during natural disasters such as fires. Also, damage to fences by wildlife can require ongoing construction, maintenance and/or removal of fencing which causes continual disruption to the animal’s natural habitat (Jachowski et al., 2014).
+
+Physical fences can unintendedly create barriers that cause welfare problems for wildlife by restricting their movement. When native wildlife encounter fences, they need to find a means to cross the barrier or risk remaining trapped by it. Fences can block animals from accessing important habitats or migration routes which can have population-level consequences (Gates et al., 2012; Jachowski et al., 2014). Alternatively, the lack of a physical barrier within VF means native animals can readily cross the invisible barrier and maintain ecological connectivity (Jachowski et al., 2014).
+
+There are also fence-related edge effects caused by physical barriers which include increased risk of predation and over-grazing along traditional fence edges (Jachowski et al., 2014). Physical fences prevent the natural dispersal of animals from populations due to limited resources and can lead to the overuse of resources within certain areas. Additionally, predation risk is higher along physical barriers, often due to the ability of predatory animals to utilise such man-made structures within hunting behaviour (Hayward & Kerley, 2009).
+
+Riesch et al., (2021) reviewed the literature on the potential of VF technology to facilitate more environmentally friendly livestock farming. Although conservation was rarely the primary focus, they found a total of 27 papers that addressed the benefits of VF from a conservation point of view. Interestingly, the majority of these studies were conducted in Australia. The benefits reported included the protection of environmentally sensitive areas, such as riparian areas; increased habitat heterogeneity and protection of rare species; other nonspecific ecological benefits, improved natural resources management; and being wildlife-friendly (i.e., no fence-related mortality and no habitat fragmentation) (Riesch et al., 2021).
+
+VF technology provides the opportunity for livestock management to utilise alternative grazing techniques, such as rotational grazing, spatial grazing, or temporal exclusion, that are difficult to achieve within current grazing systems that require physical fences because of the additional effort or resources required. Allowing some areas of land to rest could be beneficial to non-target animals. For example, ground-nesting birds are particularly vulnerable to being trampled by cattle and paddocks that are rested or skipped can provide essential nesting habitat for birds (Perlut & Strong, 2011).
+
+20 Part P: Assessment of any other issues or gaps identified in the literature review.
+
+Other issues regarding the widespread use of VF in Australia that have been identified within this literature review and that require further research include:
+
+20.1 The management of animals that show an inability to learn
+
+Most VF trials report to contain the animals within the predetermined areas with high efficiency, upwards of 99% of the time (e.g., Langworthy et al., (2020) for dairy cows and Campbell et al., (2020) for beef cattle). However, differences in individual learning rates are evident and it is well understood that animals show individual variations, such as temperament, in the way they respond to environmental challenges (Campbell et al., 2017; Koolhaas & van Reenen, 2016). As a result, it is necessary to consider what should be done with individual animals within a herd or system that consistently shows an inability to learn to associate the audio cue with the electric stimuli. Within a VF system, the result of an individual animal failing to learn the association of stimuli is helplessness which negatively impacts welfare (Lomax et al., 2019). The variability in animal learning found in VF trials raises the concern that a small number of animals do not learn to avoid the virtual fence and do not remain with their herd mates within the predetermined area and thus, they are continually penalised for this inability. Lee & Campbell (2021) suggested that individual learning should be measured within the system to ensure all animals are learning and have reached set thresholds within a certain number of interactions with the virtual fence. When animals are not learning (as indicated by an audio cue always being followed by an electrical pulse), such animals can be identified and if necessary, removed (Lee & Campbell, 2021). For example, in the unlikely case where a cow is unable to be successfully trained, based on data that would indicate that a particular cow does not respond to cues, Halter would alert the farmer and recommend that the cow not be managed with Halter (Piggott, personal communications, September 27, 2022). Similarly, during research trials, Gallagher reported removing animals that did not respond to pulses (Lees, personal communication, October 21, 2022).
+
+20.2 Mounting a device on only the lead animals within a herd
+
+Another area requiring exploration is the use of animal behaviour and the notion that for example in the case of cattle, every herd has a leader and a social order, and thus there is the potential that it could be sufficient to obtain cooperation by utilising this social hierarchy and focusing on training leaders or putting collars only on certain lead animals. Tiedemann et al. (1999) found cattle were likely to follow the behaviours of lead animals. In their study, they found that when ear tags on lead animals became inoperable and those individual animals were able to freely move into the exclusion zone, other animals endured the stimulus to join them (Tiedemann et al., 1999). Such findings also highlight the importance of the safety shut-off features within the systems to safeguard less dominant animals that follow lead animals into exclusion zones.
+
+Campbell et al., (2019) found that although all individuals were first to approach the virtual fence boundary on at least one occasion, there was individual variation in the likelihood of being first to interact with the virtual fence and while no distinct leader was identified, two individuals comprised over one-third of all first interactions (Campbell, Haynes et al., 2019). Keshavarzi et al., (2020) reported that cattle as social animals stayed within the inclusion zones based on the behaviour of conspecifics (animals of the same species) in the herd. The study involved eight groups of eight 12- to 14-month-old Angus steers (n=64 animals) and found that approximately 75% of events on average were led by three individuals within each group with more consistent patterns in some groups over others (Keshavarzi et al., 2020). Both these studies suggest that rather than only putting a collar on one leader, it could be more beneficial to collar several leaders within a herd.
+
+20.3 Ethical considerations.
+
+It is beyond the scope of this review to undertake an ethical analysis of VF, although it is hoped the factual information provided will be useful in coming to decisions that also have an ethical component. Notwithstanding this, it needs to be acknowledged that some people and animal advocacy groups have inherent concerns from an ethical standpoint on the application of wearable devices to animals that deliver an electric shock.
+
+As an example, illustrating some of these viewpoints, Grumett & Butterworth (2022) published an ethical critique of all technologies that use electric shock on farm animals, including VF and conventional electric fencing. It was proposed that the primary consideration in all cases ought to be the immediate pain caused to the animal. On this basis, the authors argued that conventional electric or VF may be justified in situations where it delivers a welfare benefit to the animals that could not be delivered by a physical barrier, but that otherwise, a ‘well-constructed physical barrier of appropriate height and materials can contain animals as well as, or better than, fixed, movable or virtual electric fencing, even though such a barrier may well be more difficult and more costly to construct’. The ethical analysis for VF also argued that more information on welfare assessment and animal learning was warranted, to better understand its benefits and impact (Grumett & Butterworth, 2022). Other positions are more forthright, for example, RSPCA Australia states that it is opposed to the use of electronically activated devices that deliver an electric shock to animals.
+
+Without getting into the detail of such ethical analysis, with conventional electric fencing a reality in Australia, and the potential for VF also to be deployed, any ethical acceptance of technologies that can deliver an electric shock would seem to depend on i) a rapid and effective learning process with as few shocks received as possible before learning occurs, and then ii) the animal having agency over whether it chooses to test the system and thus risk receiving an electric shock.
+
+21 Assessment of any related Australian animal welfare regulations, international regulations and standards, and industry practices both in Australia and overseas on the use of virtual fencing technology
+
+The following section reports on the regulation and industry practice of VF technology in Australia and some relevant overseas countries.
+
+21.1 Australia
+
+In Australia, the use of electronic dog collars is illegal in the Australia Capital Territory (ACT); New South Wales (NSW); South Australia (SA); and Western Australia (WA). Such collars remain legal in Northern Territory (NT); Queensland; Tasmania; and Victoria, despite much public outcry (Kotaidis, 2021).
+
+The commercial use of VF technology for livestock in Australia is also covered under each state or territory government animal welfare legislation. As of December 2022, VF technology is only commercially available in Queensland and Tasmania. The sale and use of the collars are not freely available in Victoria, NSW, SA, WA, NT, and the ACT. See Table 7 below for more details.
+
+In 2020, a 4-year, $2.6 million-dollar, Australian research project into the VF system eShepherd ended. The project was titled “Enhancing the profitability and productivity of livestock farming through virtual herding technology” and included trials on farms in Queensland, New South Wales, and Tasmania. The project involved a partnership between the major livestock industries of dairy, beef, wool, and pork, and led by Dairy Australia in conjunction with Meat and Livestock Australia, Australian Wool Innovation and Australian Pork Limited, alongside research partners; CSIRO, University of Sydney, University of Tasmania, University of New England and the University of Melbourne, and the commercial partner, Agersens, Pty Ltd (now Gallagher). Many of the findings from this project have been discussed throughout this review.
+
+Table 7 below provides a summary of the current animal welfare legislation governing VF technology in each Australian state or territory and whether it ensures the prevention/minimisation of negative impacts, as well as whether it allows for the realisation of positive impacts.
+
+Table 7: Current as of December 2022. Summary of the current animal welfare legislation governing virtual fencing technology in each Australian state or territory and whether it ensures the prevention/minimisation of negative impacts, as well as whether it allows for the realisation of positive impacts.
+
+In Australia, the welfare of livestock has been supported by a series of Model Codes of Practice for the Welfare of Animals (MCOP). The MCOP outline minimum acceptable animal welfare outcomes that have been agreed upon with the industry, however, are not legally mandatory.
+
+In 2005 it was recommended that the MCOPs be converted into Australian Animal Welfare Standards and Guidelines. The Australian Animal Welfare Standards and Guidelines aim to standardise livestock welfare legislation in Australia, ensuring that it results in improved welfare outcomes and is practical for industry, alike. In 2016, all States and Territories agreed upon the Australian Animal Welfare Standards and Guidelines for Cattle and Sheep which are being regulated into law by most jurisdictions.
+
+The Australian Animal Welfare Standards and Guidelines for Cattle, Edition one, Version One, January 2016 state: “Cattle should have sufficient time to become aware of electric fences, and space to move away”. There is no specific reference to VF systems. The Australian Animal Welfare Standards and Guidelines for Sheep, Edition One, Version One, January 2016 have no mention of VF systems.
+
+21.2 International
+
+The commercial use of VF technology is currently accessible in many international jurisdictions.
+
+21.2.1 New Zealand
+
+In New Zealand, animal welfare legislation does not prohibit the use of VF technology and eShepherd and Halter have been used in various research trials. New Zealand’s Ministry for Primary Industries (MPI) reported that the use of VF technology (including the Halter devices that are being developed in NZ) is not specifically regulated. However, people in charge of animals would need to meet general animal welfare requirements including those relating to the use of collars and tethers, and maintenance of farm infrastructure such as fences (WA DPIRD, 2020).
+
+In April 2022, the National Animal Welfare Advisory Committee (NAWAC) sought public consultation on revisions to the Code of Welfare for Dairy Cattle (the Code) and associated recommendations for regulations. The closing date for submissions was 30th June 2022. Section 3.2.1 Electricity use to manage animal behaviour refers specifically to VF and states: “NAWAC has discussed VF systems and considered that current systems appear to have various safeguards in place to prevent operators applying shocks to animals directly and therefore the risk of misuse and abuse would be considered low in comparison to handheld devices, such as electric prodders. However, NAWAC is proposing to amend Minimum Standard No. 10a and to add a new minimum standard (Minimum Standard No. 10b) to safeguard the welfare of dairy cattle with regard to emerging technologies, which will also apply to VF systems:
+
+• Farm facilities, equipment and technologies used with animals must be designed,
+
+constructed, maintained, and used in a manner that minimises the likelihood of distress, pain, or injury to animals (Minimum Standard No. 10a).
+
+• Dairy cattle that do not adapt to new technologies must be provided with alternative
+
+management (Minimum Standard No. 10b).
+
+• Aversive techniques for training animals to new technologies should not be used
+
+(Recommended Best Practice under Minimum Standard No. 10)”.
+
+21.2.2 The United Kingdom
+
+In the United Kingdom (UK), the welfare of all farmed animals is protected by the Animal Welfare Act 2006. In England, there is the ‘Code of Recommendations for the Welfare of Livestock: Cattle’ that addresses electric fencing and states that regarding any electric fences that when the animals touch them they only feel slight discomfort. However, breaches of any codes are not a legal offence.
+
+In the UK, Nofence and Boviguard products have been used in research trials in England and Scotland. Nofence products are commercially available for use with cattle in England (NSW DPI, 2021).
+
+The Boviguard system, developed by French researchers Monod et al. (2009) but commercialised by Agrifence in the UK, was first trialled in 2011 around Epping Forest, enabling cattle to graze on common land where visible and physical fences were unwelcome. Scotland’s Rural College (SRUC) is assisting local farmers with the implementation and use of the Norwegian product Nofence. The technology is being used in a variety of situations, from standard cell grazing in paddocks, to keeping animals away from hazards (e.g., bogs) to unfenced hill country (Waterhouse, personal communications, 2020, as cited in WA DPIRD, 2020).
+
+21.2.3 Norway
+
+VF is illegal in several European countries under current regulations (Aaser et al., 2022). However, in Norway, animal welfare legislation does not prohibit the use of virtual fence technology. Nofence product is commercially available for use on cattle, goats, and sheep.
+
+The Norwegian Food Safety Authority (NFSA) reported that while their animal welfare regulatory framework does not require specific regulatory approval for the Nofence device, they have nonetheless evaluated the device based on evidence put forward by the company; a risk assessment on the use of electrical devices in animals more generally; and the results of on-farm inspections by animal welfare inspectors (Norwegian Food Safety Authority, 2020). The NFSA concluded that the welfare impacts of the Nofence device in goats, cattle and sheep do not contravene the Norwegian Animal Welfare Act. However, welfare impacts are very dependent on correct usage. The NFSA, therefore, advocates for the correct use of the Nofence or similar devices and replacement with less aversive methods where possible, while also recognising that there may be welfare benefits in some contexts e.g., access to better quality pasture (WA DPIRD, 2020).
+
+21.2.4 The United States of America
+
+In the USA, the Animal Welfare Act was signed into law in 1966 and it is the only Federal law in the US that regulates the treatment of animals in research, teaching, testing, exhibition, transport, and by dealers. The Act is enforced by USDA, APHIS, and Animal Care. However, no law expressly governs the treatment of production or farm animals on farms in the US, not until they are being transported.
+
+22 Risk management table
+
+The following section presents a risk management table (Table 8) which aims to identify animal welfare risks, apply likelihood, consequence, and overall risk ratings and where possible, provide recommendations for management.
+
+Table 8. Animal welfare risk management assessment for virtual fencing
+
+23 Conclusions
+
+The understanding of the various animal welfare implications of VF technology that allow for effective and minimal-stress VF has advanced significantly in the past 10 years. The technology itself has also seen developments in the understanding of how to deploy it and train human operators during this period. In the Australian context, these processes and associated animal welfare safeguards are much more advanced for cattle than for sheep or other animals.
+
+A VF technology and deployment that minimises welfare impacts needs to have the following characteristics:
+
+• Secure, physical outer fence boundaries that contain the animals and prevent them from
+
+straying onto roads, railway lines, or neighbouring properties (may not apply for northern rangelands where there may be few fences currently)
+
+• Collars/neckbands or similar attachment devices that are designed and fitted to minimise
+
+the risks of constriction, strangulation, entrapment, rubbing, pressure sores and animal fatigue
+
+• Adequate training of human personnel
+
+• Safeguards that:
+
+o Minimise the risk of deliberate or inadvertent misuse (e.g., locked settings,
+
+automated operation)
+
+o Prevent inappropriate paddock delineation
+
+o Provide cut-offs to prevent animals from receiving excessive shocks within a short
+
+period of time and to minimise the risks to animals that display excessive behavioural reactions
+
+o Provide alerts to the operator of any such animal welfare risks for individual animals
+
+associated with the deployment of the technology
+
+o Provide alerts to the operator if there are systemic or network failures
+
+• Use a behaviourally-based algorithm that enables associative learning by the animal of the
+
+relationship between the non-aversive (audio) and aversive (electric shock) cues
+
+• Enable the rapid identification of animals that either apparently fail to learn or choose to
+
+repeatedly push through the virtual fence boundary, so that these animals can be removed
+
+• Use electric shock cues that are of the minimum impact necessary to be aversive but not
+
+harmful or provoking excessive stress responses
+
+• Enable the animal to have predictability and controllability of its situation
+
+• Have safe-guard settings that do not result in excessive shocks to animals that enter
+
+exclusion zones
+
+• Are not deployed with rapidly moving boundaries
+
+• Be weather-proof and not require frequent battery changes
+
+• Ensure continual access to drinking water points within virtually fenced areas
+
+• Not be deployed on juvenile animals.
+
+In conclusion, the animal welfare implications of VF can vary depending on many factors, such as the species, herd size, pasture size and quality, access to water, interaction with humans, as well as individual animal temperament, learning ability and previous experience. We hope that the information provided in this report provides readers a better understanding of these interactions, as well as the benefits - in terms of information - that will be derived over time from deployments
+
+utilising larger herd sizes and inclusion zones and longer study periods, in line with what is most commercially relevant in Australia.
+
+24 References
+
+Aaser, M. F., Staahltoft, S. K., Korsgaard, A. H., Trige-Esbensen, A., Alstrup, A. K. O., Sonne, C., Pertoldi, C., Bruhn, D., Frikke, J., & Linder, A. C. (2022). Is Virtual Fencing an Effective Way of Enclosing Cattle? Personality, Herd Behaviour and Welfare. Animals, 12(7).
+
+https://doi.org/10.3390/ani12070842
+
+Agrifence. (2022). https://agrifence.co.uk/product-category/invisible-fencing/boviguard/
+
+Anderson, D. M. (2007). Virtual fencing past, present and future. Rangeland Journal, 29(1), 65–78.
+
+https://doi.org/10.1071/RJ06036
+
+Anderson, D. M., Estell, R. E., Holechek, J. L., Ivey, S., & Smith, G. B. (2014). Virtual herding for flexible livestock management - A review. Rangeland Journal, 36(3), 205–221.
+
+https://doi.org/10.1071/RJ13092
+
+https://www.dcceew.gov.au/environment/land/publications/acris-reporting-change-rangelands
+
+Bailey, D. W., Keil, M. R., & Rittenhouse, R. R. (2004). Research observation: Daily movement patterns of hill climbing and bottom dwelling cows. Journal of Range Management, 57(1), 20-28.
+
+Bailey, D. W., Trotter, M. G., Knight, C. W., & Thomas, M. G. (2018). Use of GPS tracking collars and accelerometers for rangeland livestock production research. Translational Animal Science, 2(1), 81– 88. https://doi.org/10.1093/tas/txx006
+
+Bishop-Hurley, G. J., Swain, D. L., Anderson, D. M., Sikka, P., Crossman, C., & Corke, P. (2007). Virtual fencing applications: Implementing and testing an automated cattle control system. Computers and Electronics in Agriculture, 56(1), 14–22. https://doi.org/10.1016/j.compag.2006.12.003
+
+Boyd, C. S., O’Connor, R., Ranches, J., Bohnert, D. W., Bates, J. D., Johnson, D. D., Davies, K. W., Parker, T., & Doherty, K. E. (2022). Virtual Fencing Effectively Excludes Cattle from Burned Sagebrush Steppe. Rangeland Ecology and Management, 81, 55–62.
+
+https://doi.org/10.1016/j.rama.2022.01.001
+
+Brunberg, E. I., Bergslid, I. K., Bøe, K. E., & Sørheim, K. M. (2017). The ability of ewes with lambs to learn a virtual fencing system. Animals, 1–6. https://doi.org/10.1017/S1751731117000891
+
+Brunberg, E. I., Bøe, K. E., & Sørheim, K. M. (2015). Testing a new virtual fencing system on sheep. Animal Sciences, 65(3–4), 168–175. https://doi.org/10.1080/09064702.2015.1128478
+
+Campbell, D. L. M., Haynes, S. J., Lea, J. M., Farrer, W. J., & Lee, C. (2019). Temporary exclusion of cattle from a Riparian zone using virtual fencing technology. Animals, 9(1).
+
+https://doi.org/10.3390/ani9010005
+
+Campbell, D. L. M., Lea, J. M., Farrer, W. J., Haynes, S. J., & Lee, C. (2017). Tech-savvy beef cattle? How heifers respond to moving virtual fencelines. Animals, 7(9).
+
+https://doi.org/10.3390/ani7090072
+
+Campbell, D. L. M., Lea, J. M., Haynes, S. J., Farrer, W. J., Leigh-Lancaster, C. J., & Lee, C. (2018). Virtual fencing of cattle using an automated collar in a feed attractant trial. Applied Animal Behaviour Science, 200, 71–77. https://doi.org/10.1016/j.applanim.2017.12.002
+
+Campbell, D. L. M., Lea, J. M., Keshavarzi, H., & Lee, C. (2019). Virtual Fencing Is Comparable to Electric Tape Fencing for Cattle Behavior and Welfare. Frontiers in Veterinary Science, 6.
+
+https://doi.org/10.3389/fvets.2019.00445
+
+Campbell, D. L. M., Marini, D., Lea, J. M., Keshavarzi, H., Dyall, T. R., & Lee, C. (2021). The application of virtual fencing technology effectively herds cattle and sheep. Animal Production Science, 61(13), 1393–1402. https://doi.org/10.1071/AN20525
+
+Campbell, D. L. M., Ouzman, J., Mowat, D., Lea, J. M., Lee, C., & Llewellyn, R. S. (2020). Virtual fencing technology excludes beef cattle from an environmentally sensitive area. Animals, 10(6), 1– 15. https://doi.org/10.3390/ani10061069
+
+Colusso, P. I., Clark, C. E. F., Ingram, L. J., Thomson, P. C., & Lomax, S. (2021). Dairy Cattle Response to a Virtual Fence When Pasture on Offer Is Restricted to the Post-grazing Residual. Frontiers in Animal Science, 2. https://doi.org/10.3389/fanim.2021.791228
+
+Eftang, S., Vas, J., Holand, Ø., & Bøe, K. E. (2022). Goats are able to adapt to virtual fencing; A field study in commercial goat herds on Norwegian farms, Applied Animal Behaviour Science, 256 (105755).
+
+Gallagher. (2022). https://www.gallagher.com
+
+Gates, C. C., Jones, P., Suitor, M., Jakes, A., Boyce, M. S., Kunkel, K., & Wilson, K. (2012). The influence of land use and fences on habitat effectiveness, movements, and distribution of pronghorn in the grasslands of North America. In Fencing for Conservation: Restriction of Evolutionary Potential Or a Riposte to Threatening Processes? (pp. 277–294). Springer New York.
+
+https://doi.org/10.1007/978-1-4614-0902-1_15
+
+Grumett, D., & Butterworth, A. (2022). Electric shock control of farmed animals: Welfare review and ethical critique. Animal Welfare, 31(3), 373–385. https://doi.org/10.7120/09627286.31.4.006
+
+Guerreiro, S. B. et al., (2018). Detection of continental-scale intensification of hourly rainfall extremes. Nature Climate Change, 8, 803–807.
+
+Halter. (2022). https://halterhq.com
+
+Kotaidis, H. (2021, May 5). Shock collars for dogs slammed by vets, RSPCA, as hundreds sign petition to ban. https://www.abc.net.au/news/2021-05-05/push-to-ban-electric-shock-dog-collars-in- queensland/100115476.
+
+Hayward, M. W., & Kerley, G. I. H. (2009). Fencing for conservation: Restriction of evolutionary potential or a riposte to threatening processes? Biological Conservation, 142(1), 1–13.
+
+https://doi.org/10.1016/j.biocon.2008.09.022
+
+Herlin, A., Brunberg, E., Hultgren, J., Högberg, N., Rydberg, A., & Skarin, A. (2021). Animal welfare implications of digital tools for monitoring and management of cattle and sheep on pasture. Animals, 11(3), 1–20. https://doi.org/10.3390/ani11030829
+
+Jachowski, D. S., Slotow, R., & Millspaugh, J. J. (2014). Good virtual fences make good neighbors: Opportunities for conservation. Animal Conservation, 17(3), 187–196.
+
+https://doi.org/10.1111/acv.12082
+
+Janicka, W., Wilk, I., Próchniak, T., & Janczarek, I. (2022). Can Sound Alone Act as a Virtual Barrier for Horses? A Preliminary Study. Animals, 12(22), 3151. http://dx.doi.org/10.3390/ani12223151
+
+Jouven, M., Leroy, H., Ickowicz, A., & Lapeyronie, P. (2012). Can virtual fences be used to control grazing sheep? Rangeland Journal, 34(1), 111–123. https://doi.org/10.1071/RJ11044
+
+Kearton, T., Marini, D., Cowley, F., Belson, S., & Lee, C. (2019). The effect of virtual fencing stimuli on stress responses and behavior in sheep. Animals, 9(1). https://doi.org/10.3390/ani9010030
+
+Kearton, T., Marini, D., Cowley, F., Belson, S., Keshavarzi, H., Mayes, B., & Lee, C. (2020). The Influence of Predictability and Controllability on Stress Responses to the Aversive Component of a Virtual Fence. Frontiers in Veterinary Science, 7. https://doi.org/10.3389/fvets.2020.580523
+
+Keshavarzi, H., Lee, C., Lea, J. M., & Campbell, D. L. M. (2020). Virtual Fence Responses Are Socially Facilitated in Beef Cattle. Frontiers in Veterinary Science, 7.
+
+https://doi.org/10.3389/fvets.2020.543158
+
+Koolhaas, J. M., & van Reenen, C. G. (2016). Animal behavior and well-being symposium: Interaction between coping style/personality, stress, and welfare: Relevance for domestic farm animals. Journal of Animal Science, 94(6), 2284–2296. https://doi.org/10.2527/jas.2015-0125
+
+Langworthy, A. D., Verdon, M., Freeman, M. J., Corkrey, R., Hills, J. L., & Rawnsley, R. P. (2021). Virtual fencing technology to intensively graze lactating dairy cattle. I: Technology efficacy and pasture utilization. Journal of Dairy Science, 104(6), 7071–7083. https://doi.org/10.3168/jds.2020- 19796
+
+Lee, C., & Campbell, D. L. M. (2021). A Multi-Disciplinary Approach to Assess the Welfare Impacts of a New Virtual Fencing Technology. Frontiers in Veterinary Science, 8.
+
+https://doi.org/10.3389/fvets.2021.637709
+
+Lee, C., Colditz, I. G., & Campbell, D. L. M. (2018). A framework to assess the impact of new animal management technologies on welfare: A case study of virtual fencing. Frontiers in Veterinary Science, 5. https://doi.org/10.3389/fvets.2018.00187
+
+Lee, C., Fisher, A. D., Reed, M. T., & Henshall, J. M. (2008). The effect of low energy electric shock on cortisol, β-endorphin, heart rate and behaviour of cattle. Applied Animal Behaviour Science, 113(1– 3), 32–42. https://doi.org/10.1016/j.applanim.2007.10.002
+
+Lee, C., Henshall, J. M., Wark, T. J., Crossman, C. C., Reed, M. T., Brewer, H. G., O’Grady, J., & Fisher, A. D. (2009). Associative learning by cattle to enable effective and ethical virtual fences. Applied Animal Behaviour Science, 119(1–2), 15–22. https://doi.org/10.1016/j.applanim.2009.03.010
+
+Lee, C., Prayaga, K., Reed, M., & Henshall, J. (2007). Methods of training cattle to avoid a location using electrical cues. Applied Animal Behaviour Science, 108(3–4), 229–238.
+
+https://doi.org/10.1016/j.applanim.2006.12.003
+
+Lefcourt, A. M., Kahl, S., & Akers, R. M. (1986). Correlation of Indices of Stress with Intensity of Electrical Shock for Cows. Journal of Dairy Science, 69(3), 833–842.
+
+https://doi.org/10.3168/jds.S0022-0302(86)80473-8
+
+Lomax, S., Colusso, P., & Clark, C. E. (2017). Determining learning and behavioural response to a virtual fence for dairy cows. 8th European Conference on Precision Livestock Farming, Nantes, France. https://www.researchgate.net/publication/319914773
+
+Lomax, S., Colusso, P., & Clark, C. E. F. (2019). Does virtual fencing work for grazing dairy cattle? Animals, 9(7). https://doi.org/10.3390/ani9070429
+
+Marini, D., Cowley, F., Belson, S., & Lee, C. (2019). The importance of an audio cue warning in training sheep to a virtual fence and differences in learning when tested individually or in small groups. Applied Animal Behaviour Science, 221. https://doi.org/10.1016/j.applanim.2019.104862
+
+Marini, D., Kearton, T., Ouzman, J., Llewellyn, R., Belson, S., & Lee, C. (2020). Social influence on the effectiveness of virtual fencing in sheep. PeerJ, 8. https://doi.org/10.7717/peerj.10066
+
+Marini, D., Meuleman, M. D., Belson, S., Rodenburg, T. B., Llewellyn, R., & Lee, C. (2018). Developing an ethically acceptable virtual fencing system for sheep. Animals, 8(3).
+
+https://doi.org/10.3390/ani8030033
+
+Markus, S. B., Bailey, D. W., & Jensen, D. (2014). Comparison of electric fence and a simulated fenceless control system on cattle movements. Livestock Science, 170, 203–209.
+
+https://doi.org/10.1016/j.livsci.2014.10.011
+
+Mcdonald, C. L., Beilharz, R. G., & Mccutchan, J. C. (1981). Training cattle to control by electric fences. Applied Animal Ethology, 7(2), 113-121.
+
+McGowan, M., McCosker, K., Fordyce, G., & Kirkland, P. (2020). Epidemiology and management of BVDV in rangeland beef breeding herds in Northern Australia. Viruses, 12(10).
+
+https://doi.org/10.3390/v12101063
+
+McKeon, G. M., Stone, G. S., Syktus, J. I., Carter, J. O., Flood, N. R., Ahrens, D. G., Bruget, D. N., Chilcott, C. R., Cobon, D. H., Cowley, R. A., Crimp, S. J., Fraser, G. W., Howden, S. M., Johnston, P. W., Ryan, J. G., Stokes, C. J., & Day, K. A. (2009). Climate change impacts on northern Australian rangeland livestock carrying capacity: A review of issues. Rangeland Journal, 31(1), 1–29.
+
+https://doi.org/10.1071/RJ08068
+
+McSweeney, D., O’Brien, B., Coughlan, N. E., Férard, A., Ivanov, S., Halton, P., & Umstatter, C. (2020). Virtual fencing without visual cues: Design, difficulties of implementation, and associated dairy cow behaviour. Computers and Electronics in Agriculture, 176.
+
+https://doi.org/10.1016/j.compag.2020.105613
+
+Nofence. (2022). https://www.nofence.no
+
+Perlut, N. G., & Strong, A. M. (2011). Grassland birds and rotational-grazing in the northeast: Breeding ecology, survival and management opportunities. The Journal of Wildlife Management,
+
+75(3), 715–720. https://doi.org/https://doi.org/10.1002/jwmg.81
+
+Riesch, F., Komainda, M., Horn, J., & Isselstein, J. (2021). Real-World Applications for Virtual Fences – What Are Potential Benefits for Conservation? International Grassland Congress Proceedings.
+
+https://uknowledge.uky.edu/igc
+
+Rutter, S. M. (2014). Smart technologies for detecting animal welfare status and delivering health remedies for rangeland systems. Rev Sci Tech, 33(1).
+
+Schulze, C., Peters, M., Baumgärtner, W., & Wohlsein, P. (2016). Electrical Injuries in Animals: Causes, Pathogenesis, and Morphological Findings. Veterinary Pathology, 53(5), 1018–1029.
+
+https://doi.org/10.1177/0300985816643371
+
+Steffen, W., Hughes, L., & Perkins, S. (2014). Climate Council: Heatwaves: hotter, longer, more often.
+
+https://www.climatecouncil.org.au/uploads/9901f6614a2cac7b2b888f55b4dff9cc.pdf
+
+Stevens, B. S., Reese, K. P., Connelly, J. W., & Musil, D. D. (2012). Greater sage-grouse and fences: Does marking reduce collisions? Wildlife Society Bulletin, 36(2), 297–303.
+
+https://doi.org/https://doi.org/10.1002/wsb.142
+
+Stevens, D. R., Thompson, B. R., Johnson, P., Welten, B., Meenken, E., & Bryant, J. (2021). Integrating Digital Technologies to Aid Grassland Productivity and Sustainability. Frontiers in Sustainable Food Systems, 5. https://doi.org/10.3389/fsufs.2021.602350
+
+Umstatter, C. (2011). The evolution of virtual fences: A review. Computers and Electronics in Agriculture. 75(1), 10–22. https://doi.org/10.1016/j.compag.2010.10.005
+
+Umstatter, C., Morgan-Davies, J., & Waterhouse, T. (2015). Cattle responses to a type of virtual fence. Rangeland Ecology and Management, 68(1), 100–107.
+
+https://doi.org/10.1016/j.rama.2014.12.004
+
+Verdon, M., & Rawnsley, R. (2020). The Effects of Dairy Heifer Age at Training on Rate of Learning and Retention of Learning in a Virtual Fencing Feed Attractant Trial. Frontiers in Animal Science, 1, 1-
+
+12.
+
+Verdon, M., Langworthy, A., & Rawnsley, R. (2021). Virtual fencing technology to intensively graze lactating dairy cattle. II: Effects on cow welfare and behavior. Journal of Dairy Science, 104(6), 7084– 7094. https://doi.org/10.3168/jds.2020-19797
+
+Verdon, M., Lee, C., Marini, D., & Rawnsley, R. (2020). Pre-exposure to an electrical stimulus primes associative pairing of audio and electrical stimuli for dairy heifers in a virtual fencing feed attractant trial. Animals, 10(2). https://doi.org/10.3390/ani10020217
+
+Webb, L. E., van Reenen, C. G., Jensen, M. B., Schmitt, O., & Bokkers, E. A. M. (2015). Does temperament affect learning in calves? Applied Animal Behaviour Science, 165, 33–39.
+
+https://doi.org/10.1016/j.applanim.2015.01.013
+
+Whiting, T. L. (2016). Pain in human and non-human animals caused by electricity. The Canadian Veterinary Journal, 57, 883–886. http://www.oie.int/file
+
+Wiethoelter, A. K., Beltrán-Alcrudo, D., Kock, R., & Mor, S. M. (2015). Global trends in infectious diseases at the wildlife-livestock interface. Proceedings of the National Academy of Sciences of the United States of America, 112(31), 9662–9667. https://doi.org/10.1073/pnas.1422741112

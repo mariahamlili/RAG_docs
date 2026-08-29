@@ -1,0 +1,109 @@
+This product contains the latest Total Factor Productivity (TFP) estimates for Australian broadacre and dairy farms. These estimates are produced using ABARES farm survey data from 1977–78 to 2024–25. The data is presented by industry, state and region.
+
+Productivity is a core economic statistic and indicator of Australian farm performance. It is a measure of how well inputs such as labour, land, capital, materials and services have been used to generate outputs such as crops, wool, milk and livestock, over time. Productivity can change over time in response to factors that affect the outputs produced or inputs used.
+
+There are many factors that drive productivity growth — technology adoption and mechanisation, for example, have generated significant gains in agriculture and many other industries. Increasing capital relative to labour (capital deepening) has proven benefits for productivity growth in agriculture. Other important productivity drivers include decisions about input use, the size of the farm operation, the mix of farming activities, and the choice of production systems.
+
+While productivity is an important part of farm management, maximising long term profit is usually the core farm business motivation. Productivity and profit are closely linked. Improving productivity may facilitate higher profits by maximising the outputs generated relative to inputs used. More output usually translates to more income, and fewer inputs usually means lower costs. Therefore, when price conditions are stable, productivity growth normally results in higher profits.
+
+Users of these statistics should note that short-term estimates of productivity are often volatile and influenced by seasonal conditions and other temporary factors.
+
+To account for short-term volatility in conventional productivity estimates caused by variation in short run climate volatility and long run climate change, ABARES has produced climate-adjusted productivity estimates from 1988–89 to 2024–25. These estimates are produced using the ABARES farmpredict model, as described in the ‘Climate Adjusted Total Factor Productivity (CATFP)’ section below.
+
+Key findings
+
+- The headline productivity index for broadacre increased from 2023–24 to 2024–25. This short-term growth was largely due to a strong increase in cropping output.
+
+- Long-run national broadacre productivity growth averaged 1.0% per year from 1977–78 to 2024–25.
+
+- Dairy industry productivity growth averaged 1.1% per year from 1978–79 to 2024–25. Since 2000–01, growth has been slower, averaging around -0.1% per year.
+
+June 2026 update
+
+The ABARES Productivity Data Dashboard now includes headline estimates for 2024–25. This release provides the latest year of data, and updates some historical data to reflect other updates, including refinements to price series. Estimates of Climate Adjusted Total Factor Productivity (CATFP) from 2022–23 to 2024–25 have been estimated using the approach outlined in detail (see below). More detailed regional level estimates are presented in the supporting data download file.
+
+ABARES publishes estimates of climate-adjusted total factor productivity alongside conventional or ‘unadjusted’ productivity statistics. Climate-adjusted productivity estimates are derived from ABARES farm survey data and constructed using farmpredict – a machine learning-based microsimulation model of Australian broadacre farms.
+
+Climate-adjusted productivity estimates are designed to serve as a key measure of farm performance. By observing productivity under long-run average climate conditions, these estimates effectively ‘remove’ the effect of short run climate volatility and long-run climate change. They are intended to facilitate the observation of underlying productivity improvements, driven by technology adoption, research and development investment, improvements in management practices, and other drivers of productivity growth.
+
+farmpredict generates synthetic counterfactual farm level data for broadacre farm inputs and outputs, under a range of climatic conditions. See here for more information about the farmpredict model.
+
+Traditionally, ABARES has followed the methodological approach proposed by Chancellor et al. (2021), whereby climate simulations and productivity estimates were based on individual farm level data.
+
+Data modernisation and further updates to farmpredict mean that the previous methodology cannot be directly applied to more recent years on a consistent basis. For financial years 2022–23, 2023–24 and 2024–25, a regression-based interim approach has been applied.
+
+This approach uses original machine-learning based simulations to estimate how regular TFP was adjusted in response to rainfall and temperature. It then applies that relationship to approximate the machine-learning based adjustment for the financial years where the model is unavailable (as above).
+
+ABARES is working towards adapting the original method, and then retrospectively adjusting historic climate-adjusted productivity estimates once this enhanced methodology is in production. The timeline for this development is scheduled for completion ahead of the next release of productivity estimates.
+
+Industries
+
+The TFP numbers are calculated for each of the following:
+
+- All Broadacre industries
+
+  - Cropping industry
+
+  - Mixed crop-livestock industry
+
+  - Sheep industry
+
+  - Beef industry
+
+- Dairy industry
+
+States & Regions
+
+The TFP numbers are calculated by industry at the national level, as well as by industry & by state, or by industry & by region.
+
+Australia agricultural industry regions are depicted below:
+
+Beef industry regions, based on Meat and Livestock Australia regions
+
+![map-1-beef-sml.png](https://www.agriculture.gov.au/sites/default/files/images/map-1-beef-sml.png) 
+
+Cropping and mixed industry regions, based on Grains Research and Development Corporation regions
+
+![map-2-cropping-sml.png](https://www.agriculture.gov.au/sites/default/files/images/map-2-cropping-sml.png) 
+
+Sheep industry regions, based on ABARES broadacre regions
+
+![map-3-sheep-sml.png](https://www.agriculture.gov.au/sites/default/files/images/map-3-sheep-sml.png) 
+
+For more detailed definition of Agricultural industry regions, visit Farm surveys definitions and methods.
+
+Dairy industry regions, based on Dairy Australia regions
+
+![This map shows the location of the different dairy regions of Australia.](https://www.agriculture.gov.au/sites/default/files/images/map-4-dairy.png) 
+
+For more detailed definition of Agricultural industry regions, visit Farm surveys definitions and methods.
+
+Further reading
+
+Chancellor, W & Boult, C 2024, Australia’s farm productivity slowdown – why it matters, and what it means for policy makers, ABARES Insights, Canberra, July. CC BY 4.0 DOI: https://doi.org/10.25814/dcvj-7934
+
+Chancellor, W. and Greenville, J. 2025, The ‘multi-speed’ industry: Dairy productivity in the spotlight, ABARES Insights, Canberra, November. CC BY 4.0 DOI: https://doi.org/10.25814/4hhw-m486
+
+Nossal, K (2011), From R&D to productivity growth: Investigating the role of innovation adoption in Australian agriculture. Rural Industries Research and Development Corporation.
+
+Nossal, K. and Gooday, P (2009), Raising productivity growth in Australian agriculture. Australian Bureau of Agricultural and Resource Economics (ABARE).
+
+Harris, D (2011), Victoria's dairy industry: an economic history of recent developments, report prepared for the Department of Primary Industries, Victoria and Dairy Australia Ltd, Melbourne, October.
+
+Hughes, N, Lawson, K, and Valle, H (2017), Farm performance and climate: Climate-adjusted productivity for broadacre cropping farms, ABARES research report 17.4, Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra.
+
+Jackson, T (2010), Harvesting productivity: a report on the ABARE–GRDC workshops on grains productivity growth, ABARE research report 10.5 prepared for the Grains Research and Development Corporation, Australian Bureau of Agriculture and Resource Economics, Canberra, April.
+
+Jackson, T, Dahl, A & Valle, H (2015), 'Productivity in Australian broadacre and dairy industries' in Agricultural commodities: March quarter 2015, Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra.
+
+Knopke, P, O'Donnell, V & Shepherd, A (2000), Productivity growth in the Australian grains industry, ABARE research report 2000.1 for Grains Research and Development Corporation, Australian Bureau of Agricultural and Resource Economics, Canberra.
+
+OECD (2001), Measuring Productivity - OECD Manual: Measurement of Aggregate and Industry-level Productivity Growth, OECD Publishing, Paris.
+
+Sheng, Y, Gray, E & Mullen, J (2011), Public investment in R&D and extension and productivity in Australian broadacre agriculture, ABARES conference paper 11.08 presented to the Australian Agricultural and Resource Economics Society, 9–11 February 2011, Melbourne.
+
+Sheng, Y, Mullen, J.D and Zhao, S (2016), Has growth in productivity in Australian broadacre agriculture slowed? A Historical View. Ann Agric Crop Sci. 2016; 1(3): 1011.
+
+Zhao, S, Sheng, E, and Gray, E (2012) ‘Productivity of the Australian Broadacre and Dairy Industries: Concept, Methodology and Data’, Chapter 4 in Fuglie K., S. L. Wang and E. Ball (eds.) Productivity Growth in Agriculture: An International Perspective, GAB International, Wallingford (UK) and Cambridge, MA (USA) 2012.
+
+Zammit, K and Howden, M (2020), Farmers’ terms of trade: Update to farm costs and prices paid, ABARES research report 20.3, Australian Bureau of Agricultural and Resource Economics and Sciences, Canberra.

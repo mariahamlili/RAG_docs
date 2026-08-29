@@ -1,0 +1,13 @@
+ABARES has been conducting surveys of agricultural industries since the 1940s. Farm surveys conducted by ABARES provide a wide range of information on the current and historical economic performance of farm business units in the rural sector. This information is used for research and analysis on a range of industry issues of concern to government and industry.
+
+New: ABARES Australian Gridded Farm Data
+
+The Australian Gridded Farm Data are a set of national scale maps containing simulated data on historical broadacre farm business outcomes including farm profitability on an 0.05-degree (approximately 5 km) grid. The data do not include actual observed outcomes but rather model predicted outcomes for representative or ‘typical’ broadacre farm businesses at each location considering likely farm characteristics and prevailing weather conditions and commodity prices.
+
+ABARES Farm Data Portal
+
+The ABARES Farm Data Portal is an interactive visual tool that displays the full suite of information collected in ABARES broadacre and dairy farm surveys, along with information and analysis from other ABARES research, such as agricultural productivity estimates.
+
+AAGIS region mapping files
+
+AAGIS region shape files for mapping software are available for download.

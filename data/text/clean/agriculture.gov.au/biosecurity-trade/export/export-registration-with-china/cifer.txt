@@ -1,0 +1,95 @@
+The CIFER system is administered by the General Administration of Customs of China (GACC) in China.
+
+All Australian manufacturers, processors and cold storage establishments are responsible for ensuring their details in the CIFER system are correct and that approved products are up-to-date and accurate.
+
+CIFER websites
+
+To search for registered establishments and products, go to: https://ciferquery.singlewindow.cn
+
+To register an establishment with the Chinese system and manage product registrations with China, go to: https://cifer.singlewindow.cn.
+
+Troubleshooting
+
+To register in CIFER, China recommends:
+
+- using Google Chrome for the best results
+
+- running Windows 7 or above
+
+- not using Windows XP
+
+- clearing the cache regularly.
+
+For further assistance, contact the CIFER administrators in China at eport@chinaport.gov.cn
+
+Accessing the CIFER system
+
+- Go to https://cifer.singlewindow.cn/. This will take you to the login page of the CIFER system.
+
+- To ensure the webpage appears in English, the EN in the top right corner should be selected/shaded blue.
+
+- You can ‘Login’ if you already have an account or ‘Create an account’ if you don’t have one.
+
+Account creation
+
+Advice from China and manufacturers who have registered with China includes:
+
+- Fields noted with an asterisk (*) are mandatory.
+
+- When creating an account, the field for ‘Located Country/Region Register Number’ may be noted as mandatory.
+
+For food processing and storage establishments that have already been issued a departmental establishment number, use that number when completing the application form.
+
+If your establishment does not have a department issued registration number, use a unique identifying number for your business, for example, your Australian Business Number (ABN) or Australian Company Number (ACN).
+
+Logging into the CIFER system
+
+If you encounter an error page like the one below while logging in, delete all text appearing after .cn in the URL.
+
+In the example picture below that text is ‘/deskserver/’ in the URL. Delete that then press enter.
+
+Guidance on system access
+
+The latest version of the operation manual can be found in the ‘Operation manual’ tab on the left side of the system (circled in blue below).
+
+Frequently asked questions (FAQ)
+
+GACC recently added a new function ‘FAQ’ tab on the left which provides answers to frequently asked questions.
+
+Technical support
+
+GACC answers questions in the manufacturers’ CIFER manual or through their ‘Contact us’ email address.
+
+Select the ‘Contact us’ tab on the left to send a query to: eport@chinaport.gov.cn
+
+Finding your harmonised system (HS) and China Inspection and Quarantine (CIQ) codes
+
+Manufacturers should ask their Chinese importer or agent to confirm the full Chinese HS code (10 digits) and CIQ code (3 digits) that is assigned to the product that is being imported into China. Please note that GACC has updated and modified the codes without informing users.
+
+Finding your product category
+
+There is a ‘Product type query’ search function in the left-hand menu. You can search by HS code, CIQ code or product name (in Chinese only).
+
+Finding your China registration number
+
+For each product category you register, you will receive a unique 18-digit alphanumeric code in the format CAUSxxxyymmddzzzz.
+
+This China registration number identifies:
+
+- importing country (CAUS is for Australia)
+
+- product category (4 digits xxxx)
+
+- date of registration (yymmdd)
+
+- serial number (4 digits zzzz).
+
+Checking reasons for returns
+
+On CIFER, there is a search function to view status of application for registration.
+
+- Select the following options on the left-hand tab: Integrated query > Application form query > Product range (product category) > Query > Examine (sometimes ‘check’).
+
+- Select the ‘Examine’ or ‘Check’ option to view reasons for return.
+
+- A pop-up window will appear. Example:

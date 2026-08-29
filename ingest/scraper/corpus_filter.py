@@ -13,12 +13,15 @@ from pathlib import Path
 from typing import Any
 
 from scraper.config import AppConfig
-from scraper.extract_pdf_text import is_tier_a, text_path_for_pdf
+from scraper.farm_tiers import corpus_tier, index_key_for_tier, is_corpus_eligible, is_tier_a
+from scraper.tier_a_text import text_output_path
 
 REASON_TIER_EXCLUDED = "TIER_EXCLUDED"
 REASON_EMPTY_EXTRACTION = "EMPTY_EXTRACTION"
 REASON_LIKELY_NON_TEXT_ASSET = "LIKELY_NON_TEXT_ASSET"
 REASON_NEAR_DUPLICATE = "NEAR_DUPLICATE"
+
+CORPUS_LIBRARY_KINDS = ("source_pdf", "rendered_pdf", "office")
 
 EMPTY_TOKEN_THRESHOLD = 50
 UNTITLED_TOKEN_THRESHOLD = 100
@@ -91,6 +94,9 @@ class AcceptedRecord:
     token_count_clean: int
     page_count: int
     topic_breadcrumb: list[str]
+    library_kind: str
+    farm_ai_tier: str
+    index_key: str
 
     def to_dict(self) -> dict[str, Any]:
         return {
@@ -105,6 +111,9 @@ class AcceptedRecord:
             "token_count_clean": self.token_count_clean,
             "page_count": self.page_count,
             "topic_breadcrumb": self.topic_breadcrumb,
+            "library_kind": self.library_kind,
+            "farm_ai_tier": self.farm_ai_tier,
+            "index_key": self.index_key,
         }
 
 
@@ -113,6 +122,8 @@ def doc_id_for(row: dict[str, Any]) -> str:
 
 
 def doc_title_for(row: dict[str, Any]) -> str:
+    if row.get("title"):
+        return str(row["title"])
     if row.get("doc_title"):
         return str(row["doc_title"])
     breadcrumb = row.get("topic_breadcrumb") or []
@@ -215,6 +226,47 @@ def clean_text_path_for(source_text_path: Path, output_dir: Path) -> Path:
     return output_dir / "text" / "clean" / relative
 
 
+def text_path_for_library_row(row: dict[str, Any], output_dir: Path) -> Path | None:
+    """Resolve on-disk text for a library row (source PDF, rendered HTML/PDF, office)."""
+    local_text = row.get("local_text_path")
+    if local_text:
+        path = Path(local_text)
+        if path.exists():
+            return path
+    try:
+        candidate = text_output_path(row, output_dir)
+    except ValueError:
+        return None
+    return candidate if candidate.exists() else None
+
+
+def _reject(
+    rejected: list[RejectedRecord],
+    *,
+    row: dict[str, Any],
+    title: str,
+    doc_id: str,
+    topic_path: str,
+    reason: str,
+    token_count_value: int = 0,
+    text_path: Path | None = None,
+    details: dict[str, Any] | None = None,
+) -> None:
+    rejected.append(
+        RejectedRecord(
+            doc_id=doc_id,
+            source_url=row["source_url"],
+            local_path=row.get("local_path"),
+            local_text_path=str(text_path) if text_path else None,
+            topic_path=topic_path,
+            doc_title=title,
+            reason=reason,
+            token_count=token_count_value,
+            details=details or {},
+        )
+    )
+
+
 def load_jsonl(path: Path) -> list[dict[str, Any]]:
     if not path.exists():
         return []
@@ -260,102 +312,104 @@ def run_corpus_filter(
         if row.get("source_url")
     }
 
-    source_pdfs = [
+    corpus_rows = [
         row
         for row in library_rows
-        if row.get("library_kind") == "source_pdf"
+        if row.get("library_kind") in CORPUS_LIBRARY_KINDS
         and row.get("status") in {"fetched", "skipped"}
     ]
 
     rejected: list[RejectedRecord] = []
     candidates: list[dict[str, Any]] = []
 
-    for row in source_pdfs:
+    for row in corpus_rows:
         topic_path = row.get("topic_path") or ""
         title = doc_title_for(row)
         doc_id = doc_id_for(row)
+        library_kind = str(row.get("library_kind") or "")
 
-        if not is_tier_a(topic_path):
-            rejected.append(
-                RejectedRecord(
-                    doc_id=doc_id,
-                    source_url=row["source_url"],
-                    local_path=row.get("local_path"),
-                    local_text_path=row.get("local_text_path"),
-                    topic_path=topic_path,
-                    doc_title=title,
-                    reason=REASON_TIER_EXCLUDED,
-                    token_count=0,
-                    details={"tier": "not_a"},
-                )
+        if not is_corpus_eligible(topic_path):
+            _reject(
+                rejected,
+                row=row,
+                title=title,
+                doc_id=doc_id,
+                topic_path=topic_path,
+                reason=REASON_TIER_EXCLUDED,
+                details={"tier": "not_eligible", "library_kind": library_kind},
             )
             continue
+
+        farm_ai_tier = corpus_tier(topic_path) or "A"
+        index_key = index_key_for_tier(farm_ai_tier)
 
         tier_row = tier_rows.get(row["source_url"])
         if not tier_row:
-            rejected.append(
-                RejectedRecord(
+            text_path = text_path_for_library_row(row, output_dir)
+            if not text_path:
+                _reject(
+                    rejected,
+                    row=row,
+                    title=title,
                     doc_id=doc_id,
-                    source_url=row["source_url"],
-                    local_path=row.get("local_path"),
-                    local_text_path=None,
                     topic_path=topic_path,
-                    doc_title=title,
                     reason=REASON_EMPTY_EXTRACTION,
-                    token_count=0,
-                    details={"note": "missing_from_tier_a_pdf_text"},
+                    details={"note": "missing_from_farm_corpus_text", "library_kind": library_kind},
                 )
-            )
-            continue
-
-        text_path = Path(tier_row.get("local_text_path") or "")
-        if tier_row.get("text_status") == "failed" or not text_path.exists():
-            rejected.append(
-                RejectedRecord(
-                    doc_id=doc_id,
-                    source_url=row["source_url"],
-                    local_path=row.get("local_path"),
-                    local_text_path=str(text_path) if text_path else None,
-                    topic_path=topic_path,
-                    doc_title=title,
-                    reason=REASON_EMPTY_EXTRACTION,
-                    token_count=0,
-                    details={"text_status": tier_row.get("text_status", "missing_file")},
-                )
-            )
-            continue
+                continue
+        else:
+            text_path = Path(tier_row.get("local_text_path") or "")
+            if tier_row.get("text_status") == "failed" or not text_path.exists():
+                fallback = text_path_for_library_row(row, output_dir)
+                if fallback:
+                    text_path = fallback
+                else:
+                    _reject(
+                        rejected,
+                        row=row,
+                        title=title,
+                        doc_id=doc_id,
+                        topic_path=topic_path,
+                        reason=REASON_EMPTY_EXTRACTION,
+                        text_path=text_path if text_path else None,
+                        details={
+                            "text_status": tier_row.get("text_status", "missing_file"),
+                            "library_kind": library_kind,
+                        },
+                    )
+                    continue
 
         raw_text = text_path.read_text(encoding="utf-8", errors="replace")
         tokens = token_count(raw_text)
 
         if tokens < EMPTY_TOKEN_THRESHOLD:
-            rejected.append(
-                RejectedRecord(
-                    doc_id=doc_id,
-                    source_url=row["source_url"],
-                    local_path=row.get("local_path"),
-                    local_text_path=str(text_path),
-                    topic_path=topic_path,
-                    doc_title=title,
-                    reason=REASON_EMPTY_EXTRACTION,
-                    token_count=tokens,
-                    details={"text_status": tier_row.get("text_status")},
-                )
+            _reject(
+                rejected,
+                row=row,
+                title=title,
+                doc_id=doc_id,
+                topic_path=topic_path,
+                reason=REASON_EMPTY_EXTRACTION,
+                token_count_value=tokens,
+                text_path=text_path,
+                details={
+                    "library_kind": library_kind,
+                    "text_status": tier_row.get("text_status") if tier_row else "html_extract",
+                },
             )
             continue
 
         if is_untitled_title(title) and tokens < UNTITLED_TOKEN_THRESHOLD:
-            rejected.append(
-                RejectedRecord(
-                    doc_id=doc_id,
-                    source_url=row["source_url"],
-                    local_path=row.get("local_path"),
-                    local_text_path=str(text_path),
-                    topic_path=topic_path,
-                    doc_title=title,
-                    reason=REASON_LIKELY_NON_TEXT_ASSET,
-                    token_count=tokens,
-                )
+            _reject(
+                rejected,
+                row=row,
+                title=title,
+                doc_id=doc_id,
+                topic_path=topic_path,
+                reason=REASON_LIKELY_NON_TEXT_ASSET,
+                token_count_value=tokens,
+                text_path=text_path,
+                details={"library_kind": library_kind},
             )
             continue
 
@@ -369,6 +423,9 @@ def run_corpus_filter(
                 "raw_text": raw_text,
                 "tokens": tokens,
                 "topic_root": (topic_path or "").split("/")[0],
+                "library_kind": library_kind,
+                "farm_ai_tier": farm_ai_tier,
+                "index_key": index_key,
             }
         )
 
@@ -453,6 +510,9 @@ def run_corpus_filter(
                 token_count_clean=token_count(cleaned),
                 page_count=len(split_pages(candidate["raw_text"])),
                 topic_breadcrumb=list(candidate["row"].get("topic_breadcrumb") or []),
+                library_kind=candidate["library_kind"],
+                farm_ai_tier=candidate["farm_ai_tier"],
+                index_key=candidate["index_key"],
             )
         )
 
@@ -461,6 +521,9 @@ def run_corpus_filter(
 
     reason_counts = Counter(row.reason for row in rejected)
     topic_counts = Counter((row.topic_path or "").split("/")[0] for row in accepted)
+    accepted_kind_counts = Counter(row.library_kind for row in accepted)
+    accepted_tier_counts = Counter(row.farm_ai_tier for row in accepted)
+    accepted_index_counts = Counter(row.index_key for row in accepted)
     token_values = [row.token_count_clean for row in accepted]
 
     extraction_empty = sum(
@@ -483,15 +546,28 @@ def run_corpus_filter(
             "near_dup_review_path": str(near_dup_review_path),
         },
         "extraction_baseline": {
-            "tier_a_targets": len(tier_rows),
+            "corpus_targets": len(tier_rows),
             "extracted": extraction_extracted,
             "empty": extraction_empty,
             "failed": sum(1 for row in tier_rows.values() if row.get("text_status") == "failed"),
         },
         "filter_summary": {
-            "source_pdfs_in_library": len(source_pdfs),
-            "tier_a_source_pdfs": sum(1 for row in source_pdfs if is_tier_a(row.get("topic_path") or "")),
+            "library_rows_scanned": len(corpus_rows),
+            "library_kinds": list(CORPUS_LIBRARY_KINDS),
+            "corpus_eligible_tier_a": sum(
+                1
+                for row in corpus_rows
+                if corpus_tier(row.get("topic_path") or "") == "A"
+            ),
+            "corpus_eligible_tier_b": sum(
+                1
+                for row in corpus_rows
+                if corpus_tier(row.get("topic_path") or "") == "B"
+            ),
             "accepted": len(accepted),
+            "accepted_by_library_kind": dict(sorted(accepted_kind_counts.items())),
+            "accepted_by_farm_ai_tier": dict(sorted(accepted_tier_counts.items())),
+            "accepted_by_index_key": dict(sorted(accepted_index_counts.items())),
             "rejected": len(rejected),
             "rejected_by_reason": dict(reason_counts),
         },

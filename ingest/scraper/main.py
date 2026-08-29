@@ -859,6 +859,26 @@ def plan_library(
     console.print(preview)
 
 
+@app.command("extract-tier-a")
+def extract_tier_a(
+    config: Optional[Path] = typer.Option(None, help="Path to config YAML."),
+    library_path: Path = typer.Option(
+        Path("data/manifests/pdf_library.jsonl"),
+        help="Library manifest.",
+    ),
+    resume: bool = typer.Option(True, help="Skip rows with existing non-empty text."),
+) -> None:
+    """Extract text for all Tier A assets (PDF OCR, rendered PDF, office)."""
+    from scraper.extract_tier_a_text import run_tier_a_extraction
+
+    app_config = load_config(config)
+    run_tier_a_extraction(
+        app_config=app_config,
+        library_path=library_path,
+        resume=resume,
+    )
+
+
 @app.command("filter-corpus")
 def filter_corpus(
     config: Optional[Path] = typer.Option(None, help="Path to config YAML."),
@@ -867,8 +887,8 @@ def filter_corpus(
         help="PDF library manifest.",
     ),
     tier_text_path: Path = typer.Option(
-        Path("data/manifests/tier_a_pdf_text.jsonl"),
-        help="Tier A PDF text extraction manifest.",
+        Path("data/manifests/farm_corpus_text.jsonl"),
+        help="Farm corpus text manifest (Tier A + curated Tier B).",
     ),
 ) -> None:
     """Apply Tier A filters, boilerplate stripping, and write quality report (CAI-014–017, 020)."""
@@ -883,6 +903,10 @@ def filter_corpus(
     table.add_column("Metric")
     table.add_column("Value")
     table.add_row("Accepted", str(report["filter_summary"]["accepted"]))
+    for tier, count in sorted(report["filter_summary"].get("accepted_by_farm_ai_tier", {}).items()):
+        table.add_row(f"  tier {tier}", str(count))
+    for kind, count in sorted(report["filter_summary"].get("accepted_by_library_kind", {}).items()):
+        table.add_row(f"  {kind}", str(count))
     table.add_row("Rejected", str(report["filter_summary"]["rejected"]))
     for reason, count in sorted(report["filter_summary"]["rejected_by_reason"].items()):
         table.add_row(f"  {reason}", str(count))

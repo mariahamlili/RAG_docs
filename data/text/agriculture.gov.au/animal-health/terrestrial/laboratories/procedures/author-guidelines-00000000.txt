@@ -1,0 +1,253 @@
+This is part of a process to draft and review ANZSDPs by scientific experts, managed through a set of
+standardised procedures.
+1. Background
+The Animal Health Committee (AHC) National Laboratory Task Group, with administrative support
+from the Department of Agriculture, Fisheries and Forestry, seeks to sustain and improve the quality of
+livestock and livestock products and to assure market access through the application of best practice to
+veterinary laboratory services in Australia and New Zealand. Publication of standard laboratory
+procedures is an integral component of best practice.
+The primary objective of Australian and New Zealand standard diagnostic procedures (ANZSDPs) is to
+standardise test procedures so as to ensure consistency between laboratories using methods selected for
+their optimal accuracy, sensitivity, specificity and robustness. Other objectives include the provision of
+standard methods that can be used in external proficiency testing programs and for the development of
+documentation for quality systems.
+2. Purpose
+This instruction is a guide for authors. It details the content and format for writing an ANZSDP. Further
+guidelines on the procedure and policy for the establishment of ANZSDPs are maintained on the
+Department of Agriculture, Fisheries and Forestry website—see Editorial and approval process for
+ANZSDPs.
+3. Scope
+This procedure applies to the authorship of documents describing standardised laboratory testing for
+diseases in aquatic and terrestrial animal species in Australia and New Zealand. All AHC-approved
+ANZSDPs are made available in a retrievable electronic format on the department’s website—see 
+Australian and New Zealand standard diagnostic procedures (ANZSDPs).
+4. Procedure
+Authors should prepare procedures according to these guidelines.
+4.1 Content
+Each ANZSDP has 3 parts:
+Part 1—Diagnostic overview
+Part 2—Test methods
+Part 3—Reagents and kits.
+• 
+• 
+•
+
+4.2 Format
+New authors are encouraged to familiarise themselves with the format by reading one or more existing
+ANZSDPs.
+Unless otherwise specified, all text is formatted in Times New Roman font with 12 point size. Only 1
+space and not 2 spaces is used between sentences. All pages are justified left. Every 5th line is numbered
+to facilitate editing and review. A short running title in bold is set in a header at the top outer margin of
+each page. A footer with ‘ANZSDP, month, year’ closest to the left margin and ‘page number’ at the
+centre, is placed on every page. For example, main headings to each section of text are bold and centred
+while those to sub-sections are in italics and justified to the left. See Section 6 for details of headings.
+4.3 Part 1—Diagnostic overview
+4.3.1 Background
+The ‘Diagnostic overview’ is to provide general information on the aetiology, clinical signs,
+epidemiology, occurrence and distribution, pathology, and biosafety and biosecurity requirements of
+the disease in Australia and New Zealand together with the types of tests available. In this part of the
+ANZSDP, the description of a test does not provide technical details of the method but must indicate
+the type of test, its application and reliability, appropriate samples for testing, and its advantages or
+limitations. Key references for further information must be listed.
+4.3.2 Title
+The aetiological name for the disease should be used, unless it is likely to cause confusion. For example,
+‘bluetongue’ is preferred to ‘orbiviral infection’ to distinguish it from non-bluetongue orbiviral
+infections.
+4.3.3 Authors
+Include authors' initials and surnames, and addresses at the time of writing.
+4.3.4 Summary
+The summary should be similar to that in the OIE Manual but covering only the aspects listed in Part 1.
+4.3.5 Main text (do not use this as a heading)
+There are a number of sections that should contain information reflecting the situation in Australia and
+New Zealand. These should be described under the headings listed in this section.
+
+4.3.5.1 Aetiology
+This describes the causative agent and any variations in antigenicity or pathogenicity of strains that are
+significant for diagnosis or epidemiology. Essential content will determine the extent of the description
+required.
+4.3.5.2 Clinical signs
+A comprehensive account of the clinical signs is not required; only the type of disease and key
+presenting signs are needed.
+4.3.5.3 Epidemiology
+This will focus on the classical aspects of how, where, when and why, including host range and
+reservoirs. Methods of transmission, incubation period and the agent’s strategies for survival or
+maintenance are important. This is the place to indicate the interpretation of positive immunological/
+serological tests, that is, whether they indicate an animal that has been exposed to, but is now free of,
+the agent and is resistant to reinfection, or that the animal is latently or persistently infected with the
+agent.
+4.3.5.4 Occurrence and distribution
+This will describe the current status of the disease in animals in Australia and New Zealand. In
+particular, it should describe the incidence, geographical distribution, a very brief statement about any
+formal disease control programs that may be in place and any other features that are significant or
+unique to Australia and/or New Zealand. If necessary, the laboratory task group may be able to assist
+the author(s) to locate relevant information.
+4.3.5.5 Pathology
+This section should contain sufficient information to indicate the principal gross and histological
+lesions and the pathogenesis. It should clearly indicate the organs and tissues to be examined at
+necropsy and the samples to be collected for laboratory examination. It may be useful to indicate where
+the agent is present at highest concentration at various stages of the disease. This section is particularly
+important when gross and/or histopathology are the principal diagnostic tests.
+4.3.5.6 Diagnostic tests (general)
+This section describes the range of tests available for the particular disease. It may cover histopathology
+(in detail where it is a standard diagnostic test), isolation of the agent, detection of antigen including
+immunohistochemistry, detection of nucleic acid and detection of an immune response (which may be
+further divided to cover the specific serological and other immunological tests). The tests should be
+described in general terms, along with their applications (fitness for purpose) strengths and
+weaknesses. Where possible, the most reliable estimates of sensitivity and specificity should be given.
+
+This is not the place to provide the 'bench-top' details of the tests but rather to focus on their
+application and interpretation. The definitive diagnostic test(s), if available, must be clearly specified.
+Key references for further information must be listed.
+4.3.5.7 Guidance on safety and biosecurity requirements
+The principal purpose of biosecurity is to prevent the escape of the pathogen from the laboratory into
+the national animal population. In some instances there is also a risk to human health and this may
+demand additional procedures than would otherwise be considered necessary from purely animal
+health considerations. The level of physical containment and biosecurity procedures should be related
+to the risk group into which the pathogen has been placed, and the detailed requirements should be
+appropriate to the type of organism (bacterium, virus, fungus or parasite). The minimum level of safety
+and biosecurity practice should be described here. However, detailed precautions in addition to those
+specified as the minimum, should be determined according to the degree of risk.
+4.4 Part 2—Test methods
+4.4.1 Background
+Full technical details are described in this section. The method description should have sufficient detail
+to allow a competent laboratory scientist to conduct the test and, when necessary, develop an in-house
+manual without the need to go to secondary sources of information. There should be a clear statement
+of those variables that significantly affect the performance of the test.
+Additional tests that may be used for diagnostic purposes locally are not to be described in this section.
+Laboratories will document methods used for local disease diagnostic purposes in their own Quality
+System.
+4.4.2 Content
+The test method should be described under the following headings (using standard ANZSDP
+formatting).
+4.4.3 Principle of the test
+This is a very brief description of the type of test, the way it works and the purpose of the test. For
+example, ‘c-ELISA to detect antibodies against non-structural proteins’ gives some basic information
+about the purpose of the test but a more suitable description would be ‘c-ELISA to detect antibodies
+against non-structural proteins of FMD virus in pigs, cattle, sheep and goats, to allow differentiation of
+infected and vaccinated herds for the purpose of declaring a country free from FMD’.
+4.4.4 Reagents and materials
+Critical reagents and materials should be specified in sufficient detail to allow them to be obtained.
+Supplier and manufacturer details are not required for common laboratory chemicals and media unless
+
+a specific brand has been shown to be critical for the test. In the case of biologicals such as test antigens,
+control sera or complete test kits that are available commercially, a brief description (by name) should
+be included in this document. A full description of the test kit (by name) or other reagents, supplier and
+other relevant information will be supplied in Part 3—Reagents and kits.
+4.4.5 Special requirements for PCR-based methods
+All PCR and other nucleic acid-based tests must undergo appropriate evaluation and laboratories
+should follow the guidelines for the use of nucleic acid-based technology. In particular the design and
+layout of the PCR testing facility must be such as to minimise contamination.
+Because of the multiplicity of primers in use for some procedures, it may be both difficult and
+unnecessary to be absolutely precise in the specifications for the test. Minor variations are possible
+without affecting the outcome. Performance should focus on the quality and reproducibility of the
+outcome. Consequently ANZSDPs including PCR methods should not be unjustifiably prescriptive
+except in very specific circumstances, for example, Johne’s disease methods. However, where PCR is
+used, there should be a clear description of the target segment of the genome, its nature and the
+rationale underlying the use of primers directed at that site.
+4.4.6 Test procedure
+The test is described in a step-wise manner emphasising any precautions that should be taken. If the
+test is based entirely on a commercially available kit, it is appropriate to refer to the manufacturer’s
+instructions, indicating that they should be followed in full unless there has been some variation that
+has been routinely adopted for use in Australia or New Zealand. This deviation would have been
+evaluated prior to acceptance of the kit for use as an approved method.
+4.4.7 Quality control aspects
+Controls to be included, and criteria necessary for the test results to be valid, must be described.
+4.4.8 Interpretation of results
+The criteria by which a result is classified, together with justification, should be briefly described. In
+some circumstances, it will be necessary to reiterate the limitations of some results in the context of the
+test’s ‘fitness for purpose’. Any issues that are not included above, such as the need for confirmatory
+testing, or follow-up actions that should be taken, are described here.
+4.4.9 References
+These are cited in the style used in the Australian Veterinary Journal (instructions for authors).
+Throughout the text, the references should be identified by superscript numbers that follow the
+sequence of citation. References are then listed in numerical order.
+
+4.5 Part 3—Reagents and kits
+4.5.1 Kits and reagents in common use in Australia
+A list of suppliers is provided in this section. It need not be exhaustive but should include all materials
+(complete kits and other reagents) in common use in Australia and New Zealand laboratories at the
+time of writing.
+4.6 Approval of tests
+A test that differs in principle from an established test must be evaluated by the laboratory task group
+and approved by the Animal Health Committee before its inclusion in an ANZSDP. Tests will be
+evaluated in accordance with procedures for new test development and evaluation.
+Procedures requiring OIE accreditation
+Laboratories testing biological materials for international accreditation must use the appropriate OIE
+method required under subclass 20.95 Foreign Regulatory Requirements of ISO/IEC 17025:2005. The
+appropriate OIE method(s) will need to be used where OIE compliance is required, even if the
+procedures differ only minimally from those contained in the relevant ANZSDP. Authors should include
+a note in the ANZSDP directing Australian and New Zealand laboratories to use OIE procedures in
+these circumstances and to summarise the key differences between the ANZSDP and OIE methods.
+4.7 Definitions
+Reliability: Reliability refers to the sensitivity and specificity of a test. See Critical factors affecting the
+diagnostic reliability of enzyme-linked immunosorbent assay formats (PDF), Scientific and Technical
+Review of the Office International des Epizooties 1998, 17(2): 550–561.
+Consistency: Degree of variation between reagent lots (serials) used in an assay, e.g. reagent lots
+(serials), need to be evaluated for consistency so variability is not introduced into the assay as new lots
+are acquired. Whenever possible, it is important to change only one reagent at a time to avoid the
+compound problem of evaluating more than one variable at a time. (OIE Manual 5th edition 2004, p.
+29).
+Accuracy: Level of agreement between a test value and the expected value for the reference standard of
+known activity titre (OIE Manual 5th edition 2004, p. XVII).
+Sensitivity:
+Sensitivity (analytical)—Smallest detectable amount of analyte in question; analyte may include
+antibiotics, antigens, nucleic acids or live organisms.
+Sensitivity (diagnostic)—Proportion of known infected reference animals that test positive in the assay;
+infected animals that test negative are considered to have false-negative results.
+
+Sensitivity (relative)—Proportion of reference samples defined as positive by one or a combination of
+test methods that also test positive in the assay being compared (OIE Manual 5th edition 2004).
+Specificity:
+Specificity (analytical)—Degree to which analytes other than that in question react in an assay; the
+higher the level of cross-reaction, the lower the analytical sensitivity.
+Specificity (diagnostic)—Proportion of known uninfected reference animals that test negative in the
+assay; uninfected reference animals that test positive are considered to have false-positive results.
+Specificity (relative)—Proportion of reference samples, defined as negative by one or a combination of
+test methods, that also test negative in the assay being compared (OIE Manual 5th edition 2004).
+Robustness (syn. for ruggedness): ‘The robustness of an analytical method is a measure of its capacity
+to remain unaffected by small, but deliberate variations in method performance parameters and
+provides an indication of its reliability during normal usage.’—Codex Alimentarius Commission, April,
+2005. ‘A robust assay is not easily affected by physical factors, operators, or other geographical location
+where used or where samples come from’—The ELISA Guidebook, John R Crowther, 2001, Methods in
+Molecular Biology, Vol. 149, Humana Press, p. 301.
+5. References
+OIE 2004, OIE Manual of Diagnostic Tests and Vaccines for Terrestrial Animals (mammals, birds and
+bees), 5th edition.
+Schrijver RS and Kramps JA 1998,’Critical factors affecting the diagnostic reliability of enzyme-linked
+immunosorbent assay formats (PDF)’, Scientific and Technical Review of the Office International des
+Epizooties,vol. 17, no. 2, pp. 550–561.
+Crowther JR 2001, The ELISA Guidebook, Methods in Molecular Biology Vol 149, Humana Press, New
+York City, p. 301.
+The following document should be read as a supplement to this standard operating procedure:
+OIE Terrestrial Manual 2013, Principles and methods of validation of diagnostic assays for infectious
+diseases (PDF), chapter 1.1.6.
+6. ANZSDP manuscript layout—headings (sequence)
+{Title (16 pt, bold and centred)}
+{Authors (12 Pt, bold and justified left)}
+{Address of authors (12 Pt, bold and justified right)}
+Part 1—Diagnostic overview (12 Pt, bold and centered)
+Summary (12 Pt bold and centred; text in italics)
+
+Aetiology (12 Pt bold and centred)
+Clinical signs (12 Pt bold and centred)
+Epidemiology (12 Pt bold and centred)
+Occurrence and distribution (12 Pt bold and centred)
+Pathology (12 Pt bold and centred)
+Diagnostic tests (12 Pt bold and centred)
+Safety and biosecurity requirements (if appropriate, 12 Pt bold and centred)
+Part 2—Test methods (12 Pt bold and centred)
+{Test 1} Title (12 Pt bold and centred)
+Principle of the test (12 Pt italics and justified left)
+Reagents and materials (12 Pt italics and justified left) (note PCR requirements)
+Test procedure (12 Pt italics and justified left) (include quality control aspects)
+Interpretation of results (12 Pt italics and justified left) (include additional comments)
+{Test 2} as for test 1, etc.
+References (12 Pt bold and centred)
+Part 3—Reagents and kits (12 Pt bold and centred)
+Reagent titles (12 Pt bold and centred; in sequence of test number)
+Suppliers in Australia (12 Pt bold and centred)
+Suppliers in New Zealand (12 Pt bold and centred)
+Appendix (if required)
+Note on approved tests
+Note on testing biological materials for OIE compliance
+Source: https://www.agriculture.gov.au/animal/health/laboratories/procedures/anzsdp-reviews/author-guidelines

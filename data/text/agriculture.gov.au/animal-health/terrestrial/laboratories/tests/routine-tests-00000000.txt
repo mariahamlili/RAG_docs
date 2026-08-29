@@ -1,0 +1,7668 @@
+The Animal Health Committee maintains a list of routine tests for infectious animal diseases used by
+veterinary laboratories in Australia. The information presented in this test register was last updated in
+June 2014. For more up-to-date information, please contact the relevant laboratory directly.
+Agent
+Species
+Test
+Status Principal/
+Contact
+Laboratory
+A
+16S bacterial identification
+Multispecies PCR + SEQ
+PV
+B Meehan
+AAHL
+16S bacterial identification
+Multispecies PCR + SEQ
+R McCoy
+GVP
+16S bacterial identification
+Multispecies PCR + SEQ
+R Spence
+AHL, NZ
+16S bacterial identification
+Multispecies PCR + SEQ
+I Diallo
+QLD DAFF,
+BSL
+Abalone herpes virus
+Aquatic—
+mollusc
+qPCR
+ACC
+M Crane
+AAHL
+Abalone herpes virus
+Aquatic—
+mollusc
+PCR
+ACC
+M Crane
+AAHL
+Abalone herpes virus
+Aquatic—
+mollusc
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Abalone herpes virus
+Aquatic—
+mollusc
+qPCR
+RT, PV C Brosnahan AHL, NZ
+Abalone herpes virus
+Aquatic—
+mollusc
+PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Abalone herpes virus
+Aquatic—
+mollusc
+qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+
+Abalone herpes virus
+Aquatic—
+mollusc
+ISH
+M Fegan
+DEPI Vic,
+Bundoora
+Abalone herpes virus
+Aquatic -
+mollusc
+qPCR
+ACC
+M Crockford AHL, DAFWA
+Abalone herpes virus
+Aquatic—
+mollusc
+ISH
+PV
+M Crockford AHL, DAFWA
+Actinobacilius seminis
+Ovine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Actinobacillus
+pleuropneumoniae
+Porcine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Actinobacillus
+pleuropneumoniae
+Porcine
+PCR
+FV
+M Hornitzky EMAI, NSW
+Actinobacillus
+pleuropneumoniae
+Porcine
+PCR (ID and
+Serovars 1, 5, 7, 12
+and 15
+P Blackall
+UQ Micro
+ESP
+Actinobacillus
+pleuropneumoniae
+Porcine
+SERO
+P Blackall
+UQ Micro
+ESP
+Actinobacillus
+pleuropneumoniae
+Porcine
+ISOL
+K Moore
+DEPI Vic,
+Bendigo
+Actinobacillus seminis
+Ovine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Adenovirus
+Reptiles
+ISOL
+S Davis
+BVL, NT
+Aeromonas salmonicida
+Aquatic—fish PCR
+PV
+M Crane
+AAHL
+Aeromonas salmonicida
+Aquatic—fish qPCR
+PV
+C Brosnahan AHL, NZ
+
+Aeromonas salmonicida
+Aquatic—fish CULT
+C Brosnahan AHL, NZ
+Aeromonas salmonicida
+Aquatic—fish CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Aeromonas salmonicida
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Aeromonas salmonicida
+Aquatic—fish PCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Aeromonas spp.
+Aquatic—fish CULT
+ACC
+N Baker
+GVP
+Aeromonas spp.
+Aquatic—fish PCR
+C Brosnahan AHL, NZ
+Aeromonas spp.
+Aquatic—fish CULT
+C Brosnahan AHL, NZ
+Aeromonas spp.
+Aquatic—fish CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Aeromonas spp.
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Aeromonas spp.
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+African horse sickness virus
+Equine
+PCR
+PV
+B Meehan
+AAHL
+African horse sickness virus
+Equine
+qPCR
+PV
+B Meehan
+AAHL
+African horse sickness virus
+Equine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+African horse sickness virus
+Equine
+VNT
+ACC
+R Lunt
+AAHL
+African swine fever virus
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+
+African swine fever virus
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+African swine fever virus
+Porcine
+Ag ELISA
+PV
+D Williams
+AAHL
+African swine fever virus
+Porcine
+IP/ELISA
+ACC
+R Lunt
+AAHL
+African swine fever virus
+Porcine
+PCR
+AHL, NZ
+Aino virus
+Bovine
+VNT
+ACC
+R Lunt
+AAHL
+Aino virus
+Bovine
+AGID
+S Davis
+BVL, NT
+Aino virus
+Bovine
+VNT
+S Davis
+BVL, NT
+Aino virus
+Bovine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Aino virus
+Bovine
+VNT
+ACC
+M O’Dea
+AHL, DAFWA
+Akabane virus
+Bovine
+ISOL
+ACC
+D Williams
+AAHL
+Akabane virus
+Bovine
+VNT
+ACC
+R Lunt
+AAHL
+Akabane virus
+Bovine
+ISOL
+ACC
+L Melville
+BVL, NT
+Akabane virus
+Bovine
+AGID
+S Davis
+BVL, NT
+Akabane virus
+Bovine
+VNT
+ACC
+S Davis
+BVL, NT
+Akabane virus
+Bovine
+ISOL
+AHL, NZ
+Akabane virus
+Bovine
+VNT
+AHL, NZ
+Akabane virus
+Bovine
+PCR
+PV
+I Diallo
+
+Qld DAFF,
+BSL
+Akabane virus
+Bovine
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Akabane virus
+Bovine
+ISOL
+J Motha
+DEPI Vic,
+Bundoora
+Akabane virus
+Bovine
+ELISA
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Akabane virus
+Bovine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Akabane virus
+Bovine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Akabane virus
+Bovine
+VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Alpha-mannosidosis
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Alphavirus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Alphavirus
+Multispecies PCR
+AHL, NZ
+Alphavirus
+Multispecies PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Alphavirus group
+Ruminant
+PCR + SEQ
+PV
+I Diallo
+QLD DAFF,
+BSL
+American foul brood
+(Paenibacillus larvae)
+Apoidea
+CULT
+ACC
+N Buller
+AHL, DAFWA
+
+American foul brood
+(Paenibacillus larvae)
+Apoidea
+CULT
+ACC
+N Baker
+GVP
+American foul brood
+(Paenibacillus larvae)
+Apoidea
+PCR
+R Spence
+AHL, NZ
+American foul brood
+(Paenibacillus larvae)
+Apoidea
+CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+American foul brood
+(Paenibacillus larvae)
+Apoidea
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Anaerobic bacteria
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Anaerobic bacteria
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Anaplasma
+Bovine
+ELISA
+S Davis
+BVL, NT
+Anaplasma centrale
+Bovine
+ELISA
+P Rolls
+QLD DAFF,
+Tick Fever
+Centre
+Anaplasma marginale
+Bovine
+ELISA
+P Rolls
+QLD DAFF,
+Tick Fever
+Centre
+Annual ryegrass toxicity
+Hay, Pasture,
+Fodder,
+Faeces
+Ag ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Anthrax
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Anthrax
+Multispecies PCR
+ACC
+K Pike
+AHL, Mt
+Pleasant
+
+Anthrax
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Aphanomyces astaci
+Aquatic—fish PCR
+C Brosnahan AHL, NZ
+Aphanomyces astaci
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Aphanomyces invadans
+Aquatic—fish PCR
+C Brosnahan AHL, NZ
+Aphanomyces invadans
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Aphanomyces invadans
+Aquatic—fish PCR
+PV
+N Buller
+AHL, DAFWA
+Aphanomyces spp.
+Aquatic
+CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Aquabirnavirus
+Aquatic
+ICC
+ACC
+M Crane
+AFDL
+Aquabirnavirus
+Aquatic
+IHC
+ACC
+M Crane
+AFDL
+Aquabirnavirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Aquabirnavirus
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Aquabirnavirus
+Aquatic
+ISOL
+D Orr
+AHL, NZ
+Aquabirnavirus serogroup B
+Aquatic—fish PCR
+PV
+N Moody
+AFDL
+Aquareovirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Aquareovirus
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Ascosphaera apis
+Apoidea
+PCR
+PV
+B Meehan
+AAHL
+
+Aujeszky’s disease
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Aujeszky’s disease
+Porcine
+IHC
+J Bingham
+AAHL
+Aujeszky’s disease
+Porcine
+VNT
+ACC
+R Lunt
+AAHL
+Aujeszky’s disease
+Porcine
+LAT
+ACC
+R Lunt
+AAHL
+Aujeszky’s disease
+Porcine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Aujeszky’s disease
+Porcine
+ISOL
+AHL, NZ
+Aujeszky’s disease
+Porcine
+VNT
+AHL, NZ
+Aujeszky’s disease
+Porcine
+Ab ELISA
+AHL, NZ
+Australian bat lyssavirus
+Multispecies PCR
+ACC
+B Meehan
+AAHL
+Australian bat lyssavirus
+Multispecies qPCR
+ACC
+B Meehan
+AAHL
+Australian bat lyssavirus
+Multispecies FAVN
+R Lunt
+AAHL
+Australian bat lyssavirus
+Multispecies RFFIT
+R Lunt
+AAHL
+Australian bat lyssavirus
+Multispecies qPCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Australian bat lyssavirus
+Multispecies IHC
+ACC
+N Kvalheim
+DEPI Vic,
+Bundoora
+Australian bat lyssavirus
+Multispecies PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Avian adenovirus
+Avian
+AGID
+R Lunt
+AAHL
+
+Australian encephalomyelitis
+virus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Australian encephalomyelitis
+virus
+Avian
+ELISA
+FV
+P Steer
+APCAH, UoM
+Avian leukosis virus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Avian leukosis virus
+Avian
+Ab ELISA
+FV
+P Steer
+APCAH, UoM
+Avian leukosis virus
+Avian
+Ag ELISA
+FV
+P Steer
+APCAH, UoM
+Avian leukosis virus
+pathogenic type J
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Avian leukosis virus
+pathogenic type J
+Avian
+ELISA
+FV
+P Steer
+APCAH, UoM
+Avian mycoplasma
+Avian
+PCR
+ACC
+N Buller
+AHL, DAFWA
+Avian nephritis virus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Avian nephritis virus
+Avian
+IFAT
+RT
+P Steer
+APCAH, UoM
+Avian paramyxovirus
+Avian
+PCR
+PV
+B Meehan
+AAHL
+Avian paramyxovirus
+Avian
+PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Avian paramyxovirus type
+1-9
+Avian
+HI
+ACC
+R Lunt
+AAHL
+Avian pathogenic E.coli
+Avian
+multiplax PCR,
+detection and
+virulent strain
+PV
+P Steer
+APCAH, UoM
+
+Avian pneumovirus
+Avian
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Avian poxvirus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Avian poxvirus
+Avian
+PCR
+PV
+B Meehan
+AAHL
+Avian reovirus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Avian reovirus
+Avian
+ELISA
+FV
+P Steer
+APCAH, UoM
+Avian reovirus
+Avian
+IFA
+FV
+P Steer
+APCAH, UoM
+Avian reovirus
+Avian
+AGP
+FV
+P Steer
+APCAH, UoM
+Avibacterium gallinarum
+Avian
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Avibacterium paragallinarum Avian
+SERO
+P Blackall
+UQ Micro
+ESP
+Avibacterium paragallinarum Avian
+PCR
+P Blackall
+UQ Micro
+ESP
+Avibacterium paragallinarum Avian
+qPCR
+R Spence
+AHL, NZ
+Avibacterium paragallinarum Avian
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Avibacterium paragallinarum Avian
+qPCR
+M Fegan
+DEPI,
+Victoria
+Avibacterium paragallinarum Avian
+qPCR
+L Melville
+BVL, NT
+Avibacterium paragallinarum
+(infectious Corzya)
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+
+B
+Babesia bigemina
+Bovine
+ELISA
+P Rolls
+QLD DAFF,
+Tick Fever
+Centre
+Babesia bovis
+Bovine
+ELISA
+P Rolls
+QLD DAFF,
+Tick Fever
+Centre
+Babesia caballi
+Equine
+Ab ELISA
+AHL, NZ
+Bacillus anthracis
+Multispecies PCR
+ACC
+B Meehan
+AAHL
+Bacillus anthracis
+Multispecies PCR
+R Spence
+AHL, NZ
+Bacillus anthracis
+Multispecies ICT
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Bacillus anthracis
+Multispecies PCR for isolate
+identification
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Bacillus anthracis
+Multispecies MLVA
+M Fegan
+DEPI Vic,
+Bundoora
+Bacillus anthracis
+Multispecies qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Bacillus anthracis VNTR
+analysis
+Multispecies PCR + size analysis
+M Fegan
+DEPI Vic,
+Bundoora
+Bacterial kidney disease
+Aquatic
+PCR
+ACC
+M Crane
+AAHL
+Bacterial kidney disease
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+
+Barmah Forest virus
+Multispecies PRNT
+R Lunt
+AAHL
+Batrachochytrium
+dendrobatidis
+Amphibian
+qPCR
+ACC
+B Meehan
+AAHL
+Batrachochytrium
+dendrobatidis
+Amphibian
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Beta-lactoglobulin
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Beta-mannosidosis
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Betanodavirus
+Aquatic
+ISOL
+D Orr
+AHL, NZ
+Bluetongue virus
+Ruminant
+ISOL
+ACC
+L Melville
+BVL, NT
+Bluetongue virus
+Ruminant
+qPCR
+ACC
+L Melville
+BVL, NT
+Bluetongue virus
+Ruminant
+AGID
+ACC
+M O'Dea
+AHL, DAFWA
+Bluetongue virus
+Ruminant
+AGID
+S Davis
+BVL, NT
+Bluetongue virus
+Ruminant
+AGID
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Bluetongue virus
+Ruminant
+ELISA
+ACC
+S Davis
+BVL, NT
+Bluetongue virus
+Ruminant
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Bluetongue virus
+Ruminant
+qPCR
+ACC
+B Meehan
+AAHL
+Bluetongue virus
+Ruminant
+PCR
+ACC
+B Meehan
+AAHL
+Bluetongue virus
+Ruminant
+Ag ELISA
+PV
+D Williams
+AAHL
+
+Bluetongue virus
+Ruminant
+VNT
+PV
+D Williams
+AAHL
+Bluetongue virus
+Ruminant
+IHC
+J Bingham
+AAHL
+Bluetongue virus
+Ruminant
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Bluetongue virus
+Ruminant
+AGID
+R Lunt
+AAHL
+Bluetongue virus
+Ruminant
+AGID
+ACC
+A Harding
+GVP
+Bluetongue virus
+Ruminant
+qPCR
+ACC
+P Kirkland
+EMAI, NSW
+Bluetongue virus
+Ruminant
+Ab ELISA
+AHL, NZ
+Bluetongue virus
+Ruminant
+AGID
+AHL, NZ
+Bluetongue virus
+Ruminant
+PCR
+PV
+I Diallo
+QLD DAFF,
+BSL
+Bluetongue virus
+Ruminant
+Ab ELISA
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bluetongue virus
+Ruminant
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bluetongue virus
+Ruminant
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bluetongue virus
+Ruminant
+qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Bluetongue virus 1
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 15
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+
+Bluetongue virus 16
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 2
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 20
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 21
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 23
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 3
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 7
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus 9
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+Bluetongue virus serotypes
+1-24
+Ruminant
+VNT
+ACC
+R Lunt
+AAHL
+Bonamia spp.
+Aquatic
+qPCR
+PV
+M Crane
+AFDL
+Bonamia spp.
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Border disease
+Multispecies qPCR
+ACC
+R McCoy
+GVP
+Border disease
+Multispecies ISOL
+AHL,NZ
+Bordetella spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Bordetella spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Borrelia burgdorferi sensu
+lato group
+Multispecies qPCR
+T Taylor
+AAHL
+
+Borrellia
+Multispecies ISOL
+T Taylor
+AAHL
+Botulism type C
+Bovine
+Ab ELISA
+ACC
+M O’Dea
+AHL, DAFWA
+Botulism type D
+Bovine
+Ab ELISA
+ACC
+M O’Dea
+AHL, DAFWA
+Bovine adenovirus serotype 1 Bovine
+ISOL
+AHL, NZ
+Bovine adenovirus serotype 7 Bovine
+ISOL
+AHL, NZ
+Bovine ephemeral fever
+group
+Bovine
+AGID
+S Davis
+BVL, NT
+Bovine ephemeral fever virus Bovine
+ISOL
+ACC
+L Melville
+BVL, NT
+Bovine ephemeral fever virus Bovine
+VNT
+ACC
+S Davis
+BVL, NT
+Bovine ephemeral fever virus Bovine
+ISOL
+ACC
+D Williams
+AAHL
+Bovine ephemeral fever virus Bovine
+VNT
+ACC
+R Lunt
+AAHL
+Bovine ephemeral fever virus Bovine
+qPCR
+EMAI, NSW
+Bovine ephemeral fever virus Bovine
+qPCR
+ACC
+L Melville
+BVL, NT
+Bovine ephemeral fever virus Bovine
+qPCR
+ACC
+A Lew, I
+Diallo
+QLD DAFF,
+BSL
+Bovine ephemeral fever virus Bovine
+ISOL
+J Motha
+DEPI Vic,
+Bundoora
+Bovine ephemeral fever virus Bovine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+
+Bovine ephemeral fever virus Bovine
+VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+PCR
+I Diallo
+QLD DAFF,
+BSL
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+VNT
+ACC
+R Lunt
+AAHL
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+FAT
+ACC
+K Newberry AAHL
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+qPCR
+ACC
+R McCoy
+GVP
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+qPCR
+AHL, NZ
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+ISOL
+AHL, NZ
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+ISOL
+J Motha
+DEPI Vic,
+Bundoora
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bovine herpesvirus 1 (IBR
+virus)
+Bovine
+VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Bovine herpesvirus 2 (Bovine
+herpes mammalitis)
+Bovine
+VNT
+ACC
+S Davis
+BVL, NT
+Bovine herpesvirus 2 (Bovine
+herpes mammalitis)
+Bovine
+ISOL
+ACC
+D Williams
+AAHL
+Bovine
+VNT
+R Lunt
+AAHL
+
+Bovine herpesvirus 2 (Bovine
+herpes mammalitis)
+Bovine herpesvirus 2 (Bovine
+herpes mammalitis)
+Bovine
+ISOL
+AHL, NZ
+Bovine herpesvirus 4
+(Movar)
+Bovine
+qPCR
+PV
+B Meehan
+AHL
+Bovine herpesvirus 4
+(Movar)
+Bovine
+ISOL
+AHL, NZ
+Bovine immunodeficiency
+virus
+Bovine
+qPCR
+PV
+B Meehan
+AAHL
+Bovine immunodeficiency
+virus
+Bovine
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Bovine leukaemia virus
+Bovine
+AGID
+ACC
+R Lunt
+AAHL
+Bovine leukaemia virus
+Bovine
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bovine leukocyte adhesion
+deficiency
+Bovine
+qPCR
+I Marsh
+EMAI, NSW
+Bovine leukosis virus
+Bovine
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Bovine leukosis virus
+Bovine
+qPCR
+PV
+B Meehan
+AAHL
+Bovine papular stomatis
+Bovine
+ISOL
+AHL, NZ
+Bovine parvovirus
+Bovine
+ISOL
+AHL, NZ
+Bovine parvovirus
+Bovine
+ISOL
+J Motha
+
+DPEI Vic,
+Bundoora
+Bovine pestivirus (MD/BVD) Bovine
+AGID
+ACC
+M O'Dea
+AHL, DAFWA
+Bovine pestivirus (MD/BVD) Bovine
+Ag ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Bovine pestivirus (MD/BVD) Bovine
+AGID
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Bovine pestivirus (MD/BVD) Bovine
+Ag ELISA
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Bovine respiratory syncytial
+virus
+Bovine
+ELISA
+AHL, NZ
+Bovine respiratory syncytial
+virus
+Bovine
+ISOL
+AHL, NZ
+Bovine respiratory syncytial
+virus
+Bovine
+Ab ELISA
+J Motha
+DEPI Vic,
+Bundoora
+Bovine spongiform
+encephalopathy
+Bovine,
+ovine,
+porcine
+Prionics-Check Test
+FV
+D Williams
+AAHL
+Bovine spongiform
+encephalopathy
+Bovine
+W Blot
+ACC
+R
+Kittelberger AHL, NZ
+Bovine spongiform
+encephalopathy
+Bovine
+Ag ELISA
+AHL, NZ
+Bovine spongiform
+encephalopathy and scrapie
+Bovine, ovine IHC
+ACC
+J Bingham
+AAHL
+Bovine
+qPCR
+I Diallo
+
+Bovine spumavirus (Bovine
+syncitial virus)
+QLD DAFF,
+BSL
+Bovine viral diarrhoea virus
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Bovine viral diarrhoea virus
+Multispecies Ag ELISA
+PV
+D Williams
+AAHL
+Bovine viral diarrhoea virus
+Multispecies VNT
+ACC
+R Lunt
+AAHL
+Bovine viral diarrhoea virus
+Multispecies Ab ELISA
+R Lunt
+AAHL
+Bovine viral diarrhoea virus
+Multispecies Ag ELISA
+ACC
+A Harding
+GVP
+Bovine viral diarrhoea virus
+Multispecies qPCR
+ACC
+R McCoy
+GVP
+Bovine viral diarrhoea virus
+Bovine
+ISOL
+AHL, NZ
+Bovine viral diarrhoea virus
+Bovine
+VNT
+AHL, NZ
+Bovine viral diarrhoea virus
+Bovine
+Ag ELISA
+AHL, NZ
+Bovine viral diarrhoea virus
+Bovine
+Ab ELISA
+AHL, NZ
+Bovine viral diarrhoea virus
+Bovine
+qPCR
+AHL, NZ
+Bovine viral diarrhoea virus
+Bovine
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bovine viral diarrhoea virus
+Bovine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bovine viral diarrhoea virus
+Bovine
+Ag ELISA
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Bovine viral diarrhoea virus
+Bovine
+AGID
+ACC
+J Motha
+
+DEPI Vic,
+Bundoora
+Bovine viral diarrhoea virus
+Bovine
+qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Bovine viral diarrhoea virus
+Bovine
+IHC
+ACC
+N Kvalheim
+DEPI Vic,
+Bundoora
+Bovine viral diarrhoea virus
+Bovine
+Ag ELISA
+ACC
+S Davis
+BVL, NT
+Bovine viral diarrhoea virus
+Bovine
+AGID
+ACC
+S Davis
+BVL, NT
+Bovine viral diarrhoea virus
+Ruminant
+ISOL
+EMAI, NSW
+Bovine viral diarrhoea virus
+Ruminant,
+porcine
+qPCR
+ACC
+P Kirkland
+EMAI, NSW
+Bovine viral diarrhoea virus
+Bovine
+PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Brachyspira (Serpulina/
+Treponema) spp.
+Porcine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Brachyspira (Serpulina/
+Treponema) spp.
+Porcine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Brachyspira hyodysenteriae
+Porcine
+PCR
+FV
+M
+Hornitzky
+EMAI, NSW
+Brachyspira hyodysenteriae
+Multispecies PCR + RFLP
+J Platell
+QLD DAFF,
+BSL
+Brachyspira hyodysenteriae
+Multispecies PCR
+K Moore
+DEPI Vic,
+Bendigo
+
+Brachyspira intermedia
+Multispecies PCR + RFLP
+J Platell
+QLD DAFF,
+BSL
+Brachyspira pilosicoli
+Porcine
+PCR
+FV
+M
+Hornitzky
+EMAI, NSW
+Brachyspira pilosicoli
+Multispecies PCR + RFLP
+J Platell
+QLD DAFF,
+BSL
+Brachyspira pilosicoli
+Multispecies PCR
+ACC
+K Moore
+DEPI Vic,
+Bendigo
+Brachyspira spp.
+Porcine
+ISOL
+ACC
+K Moore
+DEPI Vic,
+Bendigo
+Brachyspira spp.
+Multispecies CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+Brucella abortus
+Bovine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Brucella abortus
+Bovine
+CFT
+ACC
+R Lunt
+AAHL
+Brucella abortus
+Bovine
+ISOL
+ACC
+T Taylor
+AAHL
+Brucella abortus
+Bovine
+CFT
+ACC
+A Harding
+GVP
+Brucella abortus
+Bovine
+CFT, Rose Bengal
+EMAI, NSW
+Brucella abortus
+Bovine
+ELISA
+EMAI, NSW
+Brucella abortus
+Bovine
+SAT
+EMAI, NSW
+Brucella abortus
+Bovine
+Ab ELISA
+AHL, NZ
+Brucella abortus
+Bovine
+CFT
+AHL, NZ
+
+Brucella abortus
+Bovine
+ISOL
+S
+Humphrey
+AHL, NZ
+Brucella abortus
+Bovine
+SAT
+AHL, NZ
+Brucella abortus
+Bovine
+Ab ELISA
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Brucella abortus
+Bovine
+CFT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Brucella abortus
+Bovine
+RBPT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Brucella abortus
+Bovine
+SAT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Brucella abortus
+Bovine
+CFT
+ACC
+M O'Dea
+AHL, DAFWA
+Brucella abortus
+Bovine
+RBPT
+ACC
+M O'Dea
+AHL, DAFWA
+Brucella abortus
+Bovine
+SAT
+ACC
+M O'Dea
+AHL, DAFWA
+Brucella abortus
+Bovine
+CFT
+ACC
+S Davis
+BVL, NT
+Brucella abortus
+Bovine
+CFT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Brucella canis
+Canine
+SAT
+ACC
+R Lunt
+AAHL
+Brucella melitensis
+Bovine
+CFT
+ACC
+M O'Dea
+AHL, DAFWA
+Brucella ovis
+Ovine
+CFT
+ACC
+A Harding
+GVP
+Brucella ovis
+Ovine
+ELISA
+ACC
+A Harding
+GVP
+
+Brucella ovis
+Ovine
+CFT
+EMAI, NSW
+Brucella ovis
+Ovine
+CFT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Brucella ovis
+Ovine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Brucella ovis
+Ovine
+CFT
+ACC
+M O'Dea
+AHL, DAFWA
+Brucella ovis
+Ovine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Brucella ovis
+Ovine 
+CFT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Brucella spp.
+Multispecies PCR
+T Taylor
+AAHL
+Brucella spp.
+Multispecies BIO
+ACC
+T Taylor
+AAHL
+Brucella spp.
+Multispecies ISOL
+ACC
+T Taylor
+AAHL
+Brucella spp.
+Multispecies PCR (generic and
+specific)
+PV
+R Spence
+AHL, NZ
+Brucella spp.
+Multispecies ISOL
+S
+Humphrey
+AHL, NZ
+Brucella spp.
+Multispecies ISOL
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Brucella suis
+Porcine
+ISOL
+ACC
+T Taylor
+AAHL
+Brucella suis
+Porcine
+ISOL
+S
+Humphrey
+AHL, NZ
+
+Bungowannah virus
+Porcine
+qPCR
+ACC
+P Kirkland
+EMAI, NSW
+Bunyavirus
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Burkholderia mallei
+Equine
+qPCR
+B Meehan
+AAHL
+Burkholderia mallei
+Equine
+ISOL
+T Taylor
+AAHL
+Burkholderia mallei
+Equine
+ISOL
+R Spence
+AHL, NZ
+Burkholderia mallei
+Equine
+PCR
+R Spence
+AHL, NZ
+Burkholderia pseudomallei
+Multispecies PCR
+R Spence
+AHL, NZ
+Burkholderia pseudomallei
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Burkholderia pseudomallei
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+C
+Campylobacter
+Bovine
+ELISA
+EAMI, NSW
+Campylobacter
+Multispecies PCR
+PV
+N Buller
+AHL, DAFWA
+Campylobacter coli
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Campylobacter coli
+Multispecies PCR
+P Blackall
+UQ Micro
+ESP
+Campylobacter fetus fetus
+Multispecies PCR
+R Spence
+AHL, NZ
+Campylobacter fetus fetus
+Multispecies PCR
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+
+Campylobacter fetus fetus
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Campylobacter fetus fetus
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Campylobacter fetus
+venerealis
+Bovine
+CULT
+ACC
+N Baker
+GVP
+Campylobacter fetus
+venerealis
+Bovine
+PCR
+ACC
+R McCoy
+GVP
+Campylobacter fetus
+venerealis
+Bovine
+qPCR
+ACC
+R McCoy
+GVP
+Campylobacter fetus
+venerealis
+Bovine
+qPCR
+R Spence
+AHL, NZ
+Campylobacter fetus
+venerealis
+Bovine
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Campylobacter fetus
+venerealis
+Bovine
+CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+Campylobacter fetus
+venerealis
+Bovine
+PCR
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Campylobacter fetus
+venerealis
+Bovine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Campylobacter jejuni
+Multispecies CULT
+ACC
+N Baker
+GVP
+Campylobacter jejuni
+Multispecies PCR
+P Blackall
+UQ Micro
+ESP
+Campylobacter spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+
+Campylobacter spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Campylobacter spp. (poultry) Avian
+CULT
+ACC
+N Baker
+GVP
+Campylobacter venerealis
+Bovine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Canine parvovirus
+Canine
+ISOL
+AHL, NZ
+Caprine arthritis encephalitis
+virus
+Caprine
+PCR
+PV
+B Meehan
+AAHL
+Caprine arthritis encephalitis
+virus
+Caprine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Caprine arthritis encephalitis
+virus
+Caprine
+Ab ELISA
+ACC
+A Harding
+GVP
+Caprine arthritis encephalitis
+virus
+Caprine
+Ab ELISA
+AHL, NZ
+Caprine arthritis encephalitis
+virus
+Caprine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Caprine arthritis encephalitis
+virus
+Caprine
+Ab ELISA
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Caprine herpes virus
+Caprine
+VNT
+AHL, NZ
+Capripox virus
+Caprine
+qPCR
+PV
+B Meehan
+AAHL
+Capripox virus
+Ruminant
+IHC
+PV
+J Bingham
+AAHL
+Capripox virus
+Multispecies qPCR
+PV
+T Bowden
+AAHL
+
+Chalkbrood (Ascosphaera
+apis)
+Apoidea
+CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+Chalkbrood (Ascosphaera
+apis)
+Apoidea
+CULT
+EMAI, NSW
+Chalkbrood (Ascosphaera
+apis)
+Apoidea
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Chalkbrood (Ascosphaera
+apis)
+Apoidea
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Chicken anaemia virus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Chicken anaemia virus
+Avian
+ELISA
+FV
+P Steer
+APCAH, UoM
+Chicken anaemia virus
+Avian
+IFAT
+FV
+P Steer
+APCAH, UoM
+Chlamydia
+Multispecies FAT
+ACC
+M O'Dea
+AHL, DAFWA
+Chlamydia
+Multispecies CFT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Chlamydia (other than avian
+e.g. marsupial, ovine)
+Mixed
+PCR
+RT
+P Steer
+APCAH, UoM
+Chlamydia 16S
+Avian
+PCR-HRM, species
+ID
+RT
+P Steer
+APCAH, UoM
+Chlamydia OMP1
+Avian
+PCR
+PV
+P Steer
+APCAH, UoM
+Chlamydia psittaci
+Avian
+qPCR
+ACC
+R McCoy
+GVP
+Chlamydia spp.
+Multispecies CFT
+AHL, NZ
+
+Chlamydia spp.
+Multispecies PCR
+R Spence
+AHL, NZ
+Chlamydia spp.
+Multispecies CFT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Chlamydia spp.
+Multispecies IFAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Chlamydia spp.
+Multispecies ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Chlamydia spp.
+Multispecies PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Chlamydiaceae
+Aquatic—
+oyster
+PCR
+RT
+M
+Crockford
+AHL, DAFWA
+Chlamydiaceae
+Multispecies PCR
+ACC
+N Elliot
+BVL, NT
+Chlamydiaceae
+Multispecies PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Chlamydophila
+Multispecies IHC
+N Kvalheim
+DEPI Vic,
+Bundoora
+Chlamydophila abortus
+Multispecies Ab ELISA
+AHL, NZ
+Citrullinaemia
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Classical swine fever
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Classical swine fever
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Classical swine fever
+Porcine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+
+Classical swine fever
+Porcine
+NPLA
+ACC
+R Lunt
+AAHL
+Classical swine fever
+Porcine
+Ab ELISA
+AHL, NZ
+Classical swine fever
+Porcine
+Ag ELISA
+PV
+D Williams
+AAHL
+Classical swine fever
+Porcine
+PCR
+AHL, NZ
+Classical swine fever
+Porcine
+ISOL
+AHL, NZ
+Clostridia
+Multispecies FAT
+ACC
+N Buller
+AHL, DAFWA
+Clostridia
+Multispecies FAT
+ACC
+L Donachie
+Clostridium botulinum type
+C/D toxin
+Multispecies ELISA
+ACC
+S Dewet
+QLD DAFF,
+BSL
+Clostridium chavoei
+Bovine, ovine FAT
+EMAI, NSW
+Clostridium difficile
+Porcine
+ELISA, commercial
+RT
+S Dewet
+QLD DAFF,
+BSL
+Clostridium novyi
+Bovine, ovine FAT
+EMAI, NSW
+Clostridium perfringens
+alpha toxin
+Multispecies ELISA, commercial
+RT
+S Dewet
+QLD DAFF,
+BSL
+Clostridium perfringens beta
+toxin
+Multispecies ELISA, commercial
+RT
+S Dewet
+QLD DAFF,
+BSL
+Clostridium perfringens
+epsilon toxin
+Multispecies ELISA
+ACC
+S Dewet
+QLD DAFF,
+BSL
+Clostridium perfringens
+toxin types
+Multispecies PCR
+AHL, NZ
+
+Clostridium perfringens
+toxin types
+Multispecies qPCR
+S Dewet
+QLD DAFF,
+BSL
+Clostridium septicum
+Bovine, ovine FAT
+EMAI, NSW
+Contagious bovine
+pleuropneumonia
+Bovine
+PCR
+PV
+B Meehan
+AAHL
+Contagious bovine
+pleuropneumonia
+Bovine
+ISOL
+ACC
+T Taylor
+AAHL
+Contagious bovine
+pleuropneumonia
+Bovine
+CFT
+ACC
+R Lunt
+AAHL
+Contagious bovine
+pleuropneumonia
+Bovine
+IPT
+T Taylor
+AAHL
+Contagious bovine
+pleuropneumonia
+Bovine
+ISOL
+AHL, NZ
+Coronavirus
+Multispecies CULT
+ACC
+N Baker
+GVP
+Coronavirus
+Canine
+EM
+AHL, NZ
+Coxiella burnetti (Q-fever)
+Ruminant
+qPCR
+ACC
+T Taylor
+AAHL
+Coxiella burnetti (Q-fever)
+Bovine
+qPCR
+PV
+R Spence
+AHL, NZ
+Coxiella burnetti (Q-fever)
+Bovine
+CFT
+AHL, NZ
+Coxiella burnetti (Q-fever)
+Bovine
+Ab ELISA
+AHL, NZ
+Coxiella burnetti (Q-fever)
+Ruminant
+CFT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+
+Coxiella burnetti (Q-fever)
+Ruminant
+CFT
+EMAI, NSW
+Coxiella burnetti (Q-fever)
+Bovine
+CFT
+ACC
+M O'Dea
+AHL, DAFWA
+Coxiella burnetti (Q-fever)
+Bovine
+CFT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Cygnet River orthomyxovirus Avian
+PCR
+B Meehan
+AAHL
+Cyprinid herpesvirus
+Aquatic—fish PCR
+M Crane
+AAHL
+Cyprinid herpesvirus
+Aquatic—fish PCR
+PV
+M
+Crockford
+AHL, DAFWA
+D
+Dermatophilus spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Dermatophilus spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Diagnostic electron
+microscopy
+Multispecies EM
+ACC
+S Crameri
+AAHL
+Dichelobacter nodosus
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Dichelobacter nodosus
+Ovine
+CULT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Dichelobacter nodosus
+Bovine, ovine PCR
+PV
+N Buller
+AHL, DAFWA
+Dichelobacter nodosus
+Ovine
+CULT
+ACC
+N Baker
+GVP
+Dolphin morbilivirus
+Cetacean
+qPCR
+PV
+B Meehan
+AAHL
+
+Douglas virus
+Multispecies VNT
+AHL, NZ
+Duck enteritis virus disease
+Avian
+qPCR
+PV
+B Meehan
+AAHL
+Duck enteritis virus disease
+Avian
+Ab ELISA
+R Lunt
+AAHL
+Duck enteritis virus disease
+Avian
+VNT
+R Lunt
+AAHL
+Duck hepatitis virus 1
+Avian
+VNT
+R Lunt
+AAHL
+Duck hepatitis virus 1
+Avian
+qPCR
+PV
+B Meehan
+AAHL
+E
+Eastern equine encephalitis
+virus
+Equine
+Ab ELISA
+R Lunt
+AAHL
+Eastern equine encephalitis
+virus
+Equine
+PRNT
+R Lunt
+AAHL
+Ebola Reston virus
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Edwardsiella ictaluri
+Aquatic—fish PCR
+M Crane
+AAHL
+Edwardsiella ictaluri
+Aquatic—fish ISOL
+ACC
+S Benedict
+BVL, NT
+Edwardsiella ictaluri
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, WA
+Edwardsiella ictaluri
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Edwardsiella spp.
+Aquatic
+CULT
+ACC
+N Baker
+GVP
+
+Edwardsiella spp.
+Aquatic
+CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Edwardsiella tarda
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Edwardsiella tarda
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Edwardsiellosis
+Aquatic
+CULT
+PV
+M Crane
+AAHL
+Egg drop syndrome
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Egg drop syndrome
+Avian
+HI
+FV
+P Steer
+APCAH, UoM
+Egg drop syndrome
+Avian
+HI
+ACC
+M O'Dea
+AHL, DAFWA
+Ehrlichia canis
+Canine
+IFAT
+ACC
+R Lunt
+AAHL
+Ehrlichia canis
+Canine
+IFAT
+AHL, NZ
+Ehrlichia canis
+Canine
+qPCR
+PV
+B Meehan
+AAHL
+Eimeria
+Avian
+PCR capillary
+electrophoresis,
+detection & typing
+(vaccine only)
+RT
+P Steer
+APCAH, UoM
+Eimeria
+Avian
+PCR-HRM, detection
+& typing (vaccine
+only)
+RT
+P Steer
+APCAH, UoM
+Elsey orbivirus
+Multispecies Ab ELISA
+RT
+R Lunt
+AAHL
+Encephalomyocarditis
+Porcine
+VNT
+AHL, NZ
+
+Encephalomyocarditis
+Porcine
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Enterotoxamia
+Ovine
+Ag ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Enterotoxamia
+Ovine
+Ag ELISA
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Enzootic bovine leukosis
+Bovine
+ELISA
+ACC
+A Harding
+GVP
+Enzootic bovine leukosis
+Bovine
+ELISA
+EMAI, NSW
+Enzootic bovine leukosis
+Bovine
+AGID
+S Davis
+BVL, NT
+Enzootic bovine leukosis
+Bovine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Enzootic bovine leukosis
+Bovine
+AGID
+ACC
+M O'Dea
+AHL, DAFWA
+Enzootic bovine leukosis
+Bovine
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Enzootic bovine leukosis
+Bovine
+ELISA
+ACC
+S Davis
+BVL, NT
+Enzootic bovine leukosis
+(serum)
+Bovine
+ELISA
+ACC
+A Harding
+GVP
+Enzootic bovine leukosis
+(serum)
+Bovine
+ELISA
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Epizootic haematopoietic
+necrosis virus
+Aquatic
+ISOL
+FV
+M Crane
+AAHL
+Epizootic haematopoietic
+necrosis virus
+Aquatic
+ICC
+FV
+M Crane
+AAHL
+
+Epizootic haematopoietic
+necrosis virus
+Aquatic
+PCR
+FV
+M Crane
+AAHL
+Epizootic haematopoietic
+necrosis virus
+Aquatic
+ISOL
+D Orr
+AHL, NZ
+Epizootic hemorrhagic
+disease group
+Bovine
+AGID
+ACC
+S Davis
+BVL, NT
+Epizootic hemorrhagic
+disease virus
+Bovine
+ISOL
+ACC
+L Melville
+BVL, NT
+Epizootic hemorrhagic
+disease virus
+Ruminant
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Epizootic hemorrhagic
+disease virus
+Ruminant
+AGID
+AHL, NZ
+Epizootic hemorrhagic
+disease virus
+Ruminant
+PCR + SEQ
+PV
+I Diallo
+QLD DAFF,
+BSL
+Epizootic hemorrhagic
+disease virus
+Ruminant
+ISOL
+J Motha
+DEPI Vic,
+Bundoora
+Epizootic hemorrhagic
+disease virus
+Ruminant
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Epizootic hemorrhagic
+disease virus
+Ruminant
+IHC
+ACC
+N Kvalheim
+DEPI Vic,
+Bundoora
+Epizootic hemorrhagic
+disease virus - serotypes 1 to
+8
+Ruminant
+VNT
+ACC
+R Lunt
+AAHL
+Ruminant
+VNT
+ACC
+S Davis
+BVL, NT
+
+Epizootic hemorrhagic
+disease virus - serotypes 1, 2
+and 5 to 8
+Epizootic hemorrhagic
+disease virus/Ibaraki
+Ruminant
+AGID
+ACC
+R Lunt
+AAHL
+Equine arteritis virus
+Equine
+VNT
+R Lunt
+AAHL
+Equine arteritis virus
+Equine
+ISOL
+AHL, NZ
+Equine arteritis virus
+Equine
+VNT
+AHL, NZ
+Equine arteritis virus
+Equine
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Equine arteritis virus
+Equine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Equine herpesvirus
+Equine
+ISOL
+AHL, NZ
+Equine herpesvirus
+Equine
+ISOL
+J Motha
+DEPI Vic,
+Bundoora
+Equine herpesvirus type 1
+Equine
+PCR
+PV
+P Steer
+APCAH, UoM
+Equine herpesvirus type 1
+Equine
+ELISA
+ACC
+S Davis
+BVL, NT
+Equine herpesvirus type 1
+Equine
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Equine herpesvirus type 1
+Equine
+qPCR
+B Meehan
+AAHL
+Equine herpesvirus type 1
+Equine
+ISOL
+ACC
+D Williams
+AAHL
+
+Equine herpesvirus type 1
+Equine
+VNT
+AHL, NZ
+Equine herpesvirus type 1
+Equine
+qPCR
+AHL, NZ
+Equine herpesvirus type 1
+Equine
+ISOL
+AHL, NZ
+Equine herpesvirus type 1
+Equine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Equine herpesvirus type 1
+Equine
+PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Equine herpesvirus type 1
+Equine
+qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Equine herpesvirus type 1
+Equine
+VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Equine herpesvirus type 1
+Equine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Equine herpesvirus type 1
+and 4
+Equine
+Ab ELISA
+AHL, NZ
+Equine herpesvirus type 4
+Equine
+ELISA
+ACC
+S Davis
+BVL, NT
+Equine herpesvirus type 4
+Equine
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Equine herpesvirus type 4
+Equine
+VNT
+AHL, NZ
+Equine herpesvirus type 4
+Equine
+qPCR
+AHL, NZ
+Equine herpesvirus type 4
+Equine
+VNT
+J Motha
+DEPI Vic,
+Bundoora
+Equine herpesvirus type 4
+Equine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+
+Equine infectious anaemia
+Equine
+AGID
+ACC
+S Davis
+BVL, NT
+Equine infectious anaemia
+Equine
+AGID
+ACC
+M O'Dea
+AHL, DAFWA
+Equine infectious anaemia
+Equine
+AGID
+ACC
+R Lunt
+AAHL
+Equine infectious anaemia
+Equine
+AGID
+ACC
+A Harding
+GVP
+Equine infectious anaemia
+Equine
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Equine infectious anaemia
+Equine
+AGID
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Equine parvovirus
+Equine
+qPCR
+PV
+B Meehan
+AAHL
+Equine viral arteritis
+Equine
+VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Erysipelothrix spp.
+Multi species CULT
+ACC
+N Buller
+AHL, DAFWA
+Erysipelothrix spp.
+Multispecies CULT
+ACC
+K Moore
+DEPI Vic,
+Bendigo
+Erysipelothrix spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Escherichia coli
+Multispecies SERO
+ACC
+K Moore
+DEPI Vic,
+Bendigo
+Escherichia coli
+Multispecies SERO
+ACC
+N Buller
+AHL, DAFWA
+Eubenangee virus
+Wildlife
+Ab ELISA
+RT
+R Lunt
+AAHL
+European brood disease
+(Melissococcus plutonius)
+Apoidea
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+
+European brood disease
+(Melissococcus plutonius)
+Apoidea
+CULT
+ACC
+N Buller
+AHL, DAFWA
+European brood disease
+(Melissococcus plutonius)
+Apoidea
+CULT
+ACC
+N Baker
+GVP
+European brood disease
+(Melissococcus plutonius)
+Apoidea
+CULT
+EMAI, NSW
+European brood disease
+(Melissococcus plutonius)
+Apoidea
+PCR
+S
+Humphrey
+AHL, NZ
+European brood disease
+(Melissococcus plutonius)
+Apoidea
+ISOL
+S
+Humphrey
+AHL, NZ
+F
+Factor XI deficiency
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Felid herpesvirus type 1
+Feline
+ISOL
+ACC
+D Williams
+AAHL
+Feline calicivirus
+Feline
+FAT
+ACC
+K Newberry AAHL
+Feline calicivirus
+Feline
+PCR
+PV
+P Steer
+APCAH, UoM
+Feline chlamydia and
+chlamydiophila
+Feline
+PCR
+PV
+P Steer
+APCAH, UoM
+Feline herpesvirus
+Feline
+PCR
+PV
+P Steer
+APCAH, UoM
+Feline immunodeficiency
+virus
+Feline
+qPCR
+ACC
+R McCoy
+GVP
+Feline leukaemia virus
+Feline
+qPCR
+ACC
+R McCoy
+GVP
+
+Feline panleukopenia
+Feline
+FAT
+PV
+K Newberry AAHL
+Feline viral rhinotracheitis
+Feline
+FAT
+PV
+K Newberry AAHL
+Flavivirus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Flavivirus
+Multispecies Ab ELISA
+ACC
+R Lunt
+AAHL
+Flavivirus
+Multispecies PRNT
+ACC
+R Lunt
+AAHL
+Flavivirus
+Multispecies PCR
+S Walsh
+BVL, NT
+Flavivirus
+Multispecies ISOL
+AHL, NZ
+Flavivirus
+Multispecies qPCR
+AHL, NZ
+Flavivirus
+Multispecies Ab ELISA
+ACC
+S Lynch
+DEPI Vic,
+Bundoora
+Flavivirus
+Multispecies ISOL
+S Lynch
+DEPI Vic,
+Bundoora
+Flavivirus
+Multispecies PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Flaviviruses
+Ruminant
+PCR + SEQ
+PV
+I Diallo
+QLD DAFF,
+BSL
+Flaviviruses
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Flavobacterium columnare
+Aquatic—fish PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Flavobacterium spp.
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+
+Flavobacterium spp.
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Flexibacter spp.
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Foot-and-mouth disease
+Multispecies qPCR
+S Walsh
+BVL, NT
+Foot-and-mouth disease
+Multispecies ELISA
+S Davis
+BVL, NT
+Foot-and-mouth disease
+Multispecies Ag ELISA
+AHL, NZ
+Foot-and-mouth disease
+Multispecies Ab ELISA
+AHL, NZ
+Foot-and-mouth disease
+Multispecies qPCR
+R Clough
+AHL, NZ
+Foot-and-mouth disease
+Multispecies ISOL
+AHL, NZ
+Foot-and-mouth disease
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Foot–and-mouth disease
+Multispecies qPCR
+ACC
+B Meehan
+AAHL
+Foot-and-mouth disease
+Multispecies ISOL
+D Williams
+AAHL
+Foot-and-mouth disease
+Multispecies 3ABC ELISA
+ACC
+R Lunt
+AAHL
+Foot-and-mouth disease
+Multispecies AGID
+R Lunt
+AAHL
+Foot-and-mouth disease
+serotype A, Asia 1, C, O, Sat 1,
+2 and 3, SVD and VSV
+Multispecies Ag capture ELISA
+ACC
+D Williams
+AAHL
+Foot-and-mouth disease
+serotype A, Asia 1, C, O, Sat 1,
+2 and 3
+Multispecies Ab competition
+ELISA
+ACC
+R Lunt
+AAHL
+
+Foot-and-mouth disease
+serotype A, Asia 1, C, O, Sat 1,
+2 and 3
+Multispecies LPB ELISA
+ACC
+R Lunt
+AAHL
+Foot-and-mouth disease 7
+serotypes, SVD and VSV
+serotypes Indiana and New
+Jersey
+Multispecies Ag ELISA
+AHL, NZ
+Foot-and-mouth disease
+serotype A and O
+Multispecies Ab ELISA
+AHL, NZ
+Fowl adenovirus
+Avian
+ISOL
+AHL, NZ
+Fowl adenovirus
+Avian
+ISOL
+J Motha
+DEPI Vic,
+Bundoora
+Fowl adenovirus 
+Avian
+PCR-HRM, detection
+& typing
+PV
+P Steer
+APCAH, UoM
+Fowl adenovirus
+Avian
+ELISA, AGP
+PV
+P Steer
+APCAH, UoM
+Francisella tularensis
+Multispecies qPCR
+R Spence
+AHL, NZ
+G 
+Gallid herpesvirus 1 (ILTV)
+Avian
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Gan Gan
+Equine
+VNT
+S Davis
+BVL, NT
+General bacteriology
+Multispecies CULT
+ACC
+J Griffiths
+AAHL
+General histopathology
+Multispecies HIST
+ACC
+J Bingham
+AAHL
+
+General
+immunohistochemistry
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+General mammalian viruses
+isolation
+Multispecies Passes on susceptible
+cell line
+ACC
+D Williams
+AAHL
+Gill-associated virus
+Aquatic—
+prawn
+PCR
+M Crane
+AFDL
+Gill-associated virus
+Aquatic—
+prawn
+PCR
+ACC
+S Walsh
+BVL, NT
+Gill-associated virus
+Aquatic—
+prawn
+PCR
+PV
+I Diallo
+QLD DAFF,
+BSL
+Gill-associated virus
+Aquatic—
+prawn
+PCR
+PV
+M Crockford AHL, DAFWA
+Glial fibrillary acid protein
+Multispecies IHC
+ACC
+N Kvalheim
+DEPI Vic,
+Bundoora
+Gourami iridovirus
+Aquatic
+qPCR
+C Brosnahan AHL, NZ
+H
+Haemagglutinating
+adenovirus
+Avian
+HI
+J Motha
+DEPI Vic,
+Bundoora
+Haemagglutinating viruses
+Multispecies HA
+ACC
+D Williams
+AAHL
+Haemagglutination
+inhibition test for the
+characterisation of
+haemagglutinating viruses
+recovered from chicken eggs
+Multispecies HI
+D Williams
+AAHL
+
+Haemoparasites (Babesia
+ssp., Anaplasma spp.,
+Theileria spp.)
+Bovine
+Light microscopy
+P Rolls
+QLD DAFF
+Tick Fever
+Centre
+Haemagglutinating virus
+Avian
+ISOL
+AHL, NZ
+Haemophilus parasuis
+Multispecies PCR
+K Moore
+DEPI Vic,
+Bendigo
+Haemophilus parasuis
+Porcine
+ISOL
+K Moore
+DEPI Vic,
+Bendigo
+Haemophilus parasuis
+Porcine
+PCR
+ACC
+N Buller
+AHL, DAFWA
+Haemophilus parasuis
+Porcine
+SERO (KRG scheme)
+P Blackall
+UQ Micro
+ESP
+Haemophilus parasuis
+Porcine
+PCR
+P Blackall
+UQ Micro
+ESP
+Haemophilus spp.
+Ovine/bovine CULT
+ACC
+N Buller
+AHL, DAFWA
+Haemophilus spp.
+Ovine/bovine CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Haplosporidium nelsoni
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Haplosporidium nelsoni
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Helicobacter pullorum
+Multispecies PCR
+P Blackall
+UQ Micro
+ESP
+Hendra virus
+Equine
+qPCR
+ACC
+B Meehan
+AAHL
+Hendra virus
+Equine
+PCR
+PCR
+B Meehan
+AAHL
+
+Hendra virus
+Equine
+IHC
+ACC
+J Bingham
+AAHL
+Hendra virus
+Equine
+Sol G Ab ELISA
+ACC
+R Lunt
+AAHL
+Hendra virus
+Equine
+VNT
+ACC
+R Lunt
+AAHL
+Hendra virus
+Equine
+qPCR
+ACC
+S Walsh
+BVL, NT
+Hendra virus
+Equine
+ELISA
+ACC
+S Davis
+BVL, NT
+Hendra virus
+Equine
+Ab ELISA
+J Motha
+DEPI Vic,
+Bundoora
+Hendra virus
+Equine
+qPCR
+M Fegan
+DEPI Vic,
+Bundoora
+Hendra virus
+Equine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Hendra virus
+Equine
+PCR
+PV
+M O'Dea
+AHL, DAFWA
+Herpesvirus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Herpesvirus
+Multispecies PCR
+S Walsh
+BVL, NT
+Herpesvirus
+Reptiles
+ISOL
+S Davis
+BVL, NT
+Histophilus spp.
+Ovine/bovine CULT
+ACC
+N Buller
+AHL, DAFWA
+Histophilus spp.
+Ovine/bovine CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Hyperkalaemic periodic
+paralysis
+Equine
+PCR
+I Marsh
+EMAI, NSW
+
+I
+Infectious bovine
+rhinotracheitis
+Bovine
+VNT
+ACC
+R Lunt
+AAHL
+Infectious bovine
+rhinotracheitis
+Bovine
+Ab ELISA
+ACC
+A Harding
+Gribbles
+Infectious bovine
+rhinotracheitis
+Bovine
+VNT
+ACC
+S Davis
+BVL, NT
+Infectious bovine
+rhinotracheitis
+Bovine
+Ab ELISA
+AHL, NZ
+Infectious bovine
+rhinotracheitis
+Bovine
+ISOL
+AHL, NZ
+Infectious bovine
+rhinotracheitis
+Bovine
+VNT
+AHL, NZ
+Infectious bovine
+rhinotracheitis
+Bovine
+Ab ELISA
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Infectious bovine
+rhinotracheitis
+Bovine
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Infectious bovine
+rhinotracheitis
+Bovine
+VNT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Infectious bovine
+rhinotracheitis
+Bovine
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Infectious bovine
+rhinotracheitis
+Bovine
+qPCR
+EMAI, NSW
+Bovine
+qPCR
+FV
+AHL, NZ
+
+Infectious bovine
+rhinotracheitis
+Infectious bovine
+rhinotracheitis
+Bovine
+PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Infectious bronchitis virus
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+Infectious bronchitis virus
+Avian
+PCR-HRM, detection
+& typing
+PV
+P Steer
+APCAH, UoM
+Infectious bronchitis virus
+Avian
+ELISA
+FV
+P Steer
+AAHL
+Infectious bronchitis virus
+Avian
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Infectious bursal disease
+virus
+Avian
+qPCR
+PV
+B Meehan
+AAHL
+Infectious bursal disease
+virus
+Avian
+PCR
+PV
+B Meehan
+AAHL
+Infectious bursal disease
+virus
+Avian
+IHC
+J Bingham
+AAHL
+Infectious bursal disease
+virus
+Avian
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Infectious bursal disease
+virus
+Avian
+VNT
+R Lunt
+AAHL
+Infectious bursal disease
+virus
+Avian
+Ab ELISA
+AHL, NZ
+Infectious bursal disease
+virus
+Avian
+ISOL
+AHL, NZ
+
+Infectious bursal disease
+virus
+Avian
+VNT
+AHL, NZ
+Infectious bursal disease
+virus
+Avian
+qPCR
+AHL, NZ
+Infectious bursal disease
+virus—Australian strain
+Avian
+qPCR
+PV
+B Meehan
+AAHL
+Infectious bursal disease
+virus—v/v
+Avian
+qPCR
+PV
+B Meehan
+AFDL
+Infectious haematopoietic
+necrosis virus
+Aquatic
+IHC
+ACC
+M Crane
+AFDL
+Infectious haematopoietic
+necrosis virus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Infectious haematopoietic
+necrosis virus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Infectious haematopoietic
+necrosis virus
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Infectious haematopoietic
+necrosis virus
+Aquatic
+ISOL
+D Orr
+AHL, NZ
+Infectious haematopoietic
+necrosis virus 309F/R
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Infectious hypodermal and
+haematopoietic necrosis
+virus
+Aquatic—
+prawn
+PCR
+PV
+I Diallo
+QLD DAFF,
+BSL
+Aquatic—
+prawn
+PCR
+M
+Crockford
+AHL, DAFWA
+
+Infectious hypodermal and
+haematopoietic necrosis
+virus
+Infectious hypodermal and
+haematopoietic necrosis
+virus
+Aquatic—
+prawn
+qPCR
+ACC
+P Kirkland
+EMAI, NSW
+Infectious laryngotracheitis
+virus
+Avian
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Infectious laryngotracheitis
+virus
+Avian
+qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Infectious laryngotracheitis
+virus
+Avian
+PCR
+S Walsh
+BVL, NT
+Infectious laryngotracheitis
+virus
+Avian
+PCR-RFLP, typing
+PV
+P Steer
+APCAH, UoM
+Infectious laryngotracheitis
+virus
+Avian
+PCR, detection
+PV
+P Steer
+APCAH, UoM
+Infectious laryngotracheitis
+virus
+Avian
+ELISA, IFAT
+FV
+P Steer
+APCAH, UoM
+Infectious salmon anaemia
+virus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Infectious salmon anaemia
+virus
+Aquatic
+ICC
+ACC
+M Crane
+AFDL
+Infectious salmon anaemia
+virus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Aquatic
+qPCR
+AHL, NZ
+
+Infectious salmon anaemia
+virus
+C
+Brosnahan
+Influenza virus
+Avian
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Influenza virus
+Avian
+HI
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Influenza virus
+Avian
+PATH
+ACC
+B Meehan
+AAHL
+Influenza virus
+Avian
+NI
+ACC
+D Williams
+AAHL
+Influenza virus
+Avian
+VNT
+ACC
+R Lunt
+AAHL
+Influenza virus
+Avian
+PCR
+ACC
+B Meehan
+AAHL
+Influenza virus
+Avian
+HI
+ACC
+R Lunt
+AAHL
+Influenza virus
+Avian
+PCR
+AHL, NZ
+Influenza virus
+Avian
+Ab ELISA
+AHL, NZ
+Influenza virus
+Avian
+AGID
+AHL, NZ
+Influenza virus
+Avian
+ISOL
+AHL, NZ
+Influenza virus
+Avian
+HI
+AHL, NZ
+Influenza virus
+Avian
+Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Influenza virus
+Avian
+AGID
+ACC
+M O'Dea
+AHL, DAFWA
+Influenza virus
+Avian
+HI
+ACC
+M O'Dea
+AHL, DAFWA
+
+Influenza virus
+Avian
+AGP
+FV
+P Steer
+APCAH, UoM
+Influenza virus H5
+Avian
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Influenza virus H5
+Avian
+qPCR
+R McCoy
+GVP
+Influenza virus H5
+Avian
+qPCR
+ACC
+L Melville
+BVL, NT
+Influenza virus H5
+Avian
+qPCR
+ACC
+S Warner
+DEPI Vic,
+Bundoora
+Influenza virus H5
+Avian
+PCR
+ACC
+B Meehan
+AAHL
+Influenza virus H5
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+Influenza virus H5
+Avian
+qPCR
+AHL, NZ
+Influenza virus H5 (+
+pathotyping)
+Avian
+qPCR
+EMAI, NSW
+Influenza virus H5N2
+Avian
+HI
+AHL, NZ
+Influenza virus H5, 7,9 and
+N1, 2, 3, 4, 7 types with
+individual strain types
+Avian
+HI
+ACC
+R Lunt
+AAHL
+Influenza virus H7
+Avian
+qPCR
+R McCoy
+GVP
+Influenza virus H7
+Avian
+qPCR
+ACC
+S Warner
+DEPI Vic,
+Bundoora
+Influenza virus H7
+Avian
+PCR
+ACC
+B Meehan
+AAHL
+Influenza virus H7
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+
+Influenza virus H7
+Avian
+qPCR
+AHL, NZ
+Influenza virus H7 (+
+pathotyping)
+Avian
+qPCR
+EMAI, NSW
+Influenza virus H7N7
+Avian
+HI
+AHL, NZ
+Influenza virus H9
+Avian
+qPCR
+PV
+B Meehan
+AAHL
+Influenza virus N1
+Avian
+Ab ELISA
+RT
+R Lunt
+AAHL
+Influenza virus type A
+Avian
+ELISA
+ACC
+S Davis
+BVL, NT
+Influenza virus type A
+Avian
+PCR
+PV
+M O'Dea
+AHL, DAFWA
+Influenza virus type A
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+Influenza virus type A
+Avian
+IHC
+ACC
+J Bingham
+AAHL
+Influenza virus type A
+Avian
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Influenza virus type A
+Avian
+AGID
+ACC
+R Lunt
+AAHL
+Influenza virus type A
+Avian
+qPCR
+AHL, NZ
+Influenza virus type A
+Avian
+Ab ELISA
+AHL, NZ
+Influenza virus type A
+Avian
+Ab ELISA
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Influenza virus type A
+Avian
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Influenza virus
+Equine
+PCR
+AHL, NZ
+
+Influenza virus
+Equine
+ISOL
+AHL, NZ
+Influenza virus H3
+Equine
+qPCR
+ACC
+B Meehan
+AAHL
+Influenza virus H3
+Equine
+qPCR
+ACC
+L Melville
+BVL, NT
+Influenza virus H3 (Moulton
+—A/equine/Moulton/1998)
+Equine
+HI
+AHL, NZ
+Influenza virus H3N8
+Equine
+PCR
+ACC
+B Meehan
+AAHL
+Influenza virus H3N8
+Equine
+PCR
+AHL, NZ
+Influenza virus H3N8
+(Newmarket—A/equine/
+Newmarket/1995)
+Equine
+HI
+ACC
+R Lunt
+AAHL
+Influenza virus H3N8, H7N7 Equine
+HI
+ACC
+R Lunt
+AAHL
+Influenza virus H7N7
+Equine
+PCR
+ACC
+B Meehan
+AAHL
+Influenza virus H7N7
+Equine
+PCR
+AHL, NZ
+Influenza virus H7N7
+(Prague—A/equine/Prague/
+1956)
+Equine
+HI
+AHL, NZ
+Influenza virus type A
+Equine
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Influenza virus type A
+Multispecies qPCR
+ACC
+L Melville
+BVL, NT
+Influenza virus type A
+Multispecies qPCR
+ACC
+B Meehan
+AAHL
+Influenza virus type A
+Multispecies qPCR
+R McCoy
+GVP
+
+Influenza virus type A
+Multispecies qPCR
+AHL, NZ
+Influenza virus type A
+Multispecies qPCR
+ACC
+S Warner
+DEPI Vic,
+Bundoora
+Influenza virus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Influenza virus
+Multispecies ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Influenza virus (H1N1
+modified primers)
+Multispecies qPCR
+S Warner
+DEPI Vic,
+Bundoora
+Influenza virus N1
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Influenza virus subtype H7
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Influenza virus subtype N9
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Influenza virus subtyping
+Multispecies PCR
+S Warner
+DEPI Vic,
+Bundoora
+Influenza H1N1, H3N2
+Porcine
+HI
+ACC
+R Lunt
+AAHL
+Influenza H1, H3
+Porcine
+HI
+ACC
+R Lunt
+AAHL
+Influenza virus
+Porcine
+qPCR
+ACC
+B Meehan
+AAHL
+Influenza virus
+Porcine
+qPCR
+AHL, NZ
+Influenza virus
+Porcine
+ISOL
+AHL, NZ
+Influenza virus H1
+Porcine
+HI
+ACC
+R Lunt
+AAHL
+
+Influenza virus H3
+Porcine
+HI
+ACC
+R Lunt
+AAHL
+Influenza virus type A
+Porcine
+qPCR
+AHL, NZ
+Influenza virus type A
+Porcine
+qPCR
+ACC
+B Meehan
+AAHL
+Inherited congenital
+myoclonus
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Innocuity testing
+Multispecies
+Passes on susceptible
+cell line followed by
+immunodetection or
+molecular test
+ACC
+K Newberry AAHL
+Iridovirus
+Aquatic
+PCR
+M Crane
+AAHL
+J
+Japanese encephalitis virus
+Multispecies VNT
+ACC
+S Davis
+BVL, NT
+Japanese encephalitis virus
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Japanese encephalitis virus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Japanese encephalitis virus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Japanese encephalitis virus
+Multispecies PRNT
+ACC
+R Lunt
+AAHL
+Japanese encephalitis virus
+Multispecies Ab ELISA
+ACC
+R Lunt
+AAHL
+K
+Kappa-casein
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+
+Koi herpesvirus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Koi herpesvirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Kunjin virus
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Kunjin virus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Kunjin virus
+Multispecies PRNT
+ACC
+R Lunt
+AAHL
+Kunjin virus
+Multispecies Ab ELISA
+R Lunt
+AAHL
+Kunjin virus
+Multispecies PCR
+S Walsh
+BVL, NT
+Kunjin virus
+Multispecies VNT
+ACC
+S Davis
+BVL, NT
+Kunjin virus
+Equine
+PCR
+PV
+I Diallo
+QLD DAFF,
+BSL
+Kunjin virus
+Multispecies qPCR
+M Fegan
+DEPI Vic,
+Bundoora
+Kunjin virus
+Multispecies ISOL
+S Lynch
+DEPI Vic,
+Bundoora
+Kunjin virus
+Multispecies Ab ELISA
+S Lynch
+DEPI Vic,
+Bundoora
+L
+Lactococcus garvieae
+Aquatic
+qPCR
+C
+Brosnahan
+AHL, NZ
+Lawsonia intracellularis
+Porcine
+PCR
+FV
+M
+Hornitzky
+EMAI, NSW
+
+Lawsonia intracellularis
+Multispecies PCR
+K Moore
+DEPI Vic,
+Bendigo
+Leishmania
+Canine
+PCR
+PV
+B Meehan
+AAHL
+Leishmania
+Canine
+IFAT
+ACC
+R Lunt
+AAHL
+Leishmania
+Canine
+IFAT
+AHL, NZ
+Leishmania (kala-azar)
+Canine
+ELISA
+RT
+R Lunt
+AAHL
+Leptospira
+Multispecies qPCR
+ACC
+R McCoy
+GVP
+Leptospira
+Multispecies qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Leptospira—pathogenic
+serovars only
+Multispecies qPCR
+I Diallo
+QLD DAFF,
+BSL
+Leptospira australis
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI, Vic,
+Bundoora
+Leptospira autumnalis
+Multispecies MAT
+R
+Hodgeman
+DEPI, Vic,
+Bundoora
+Leptospira ballum
+Multispecies MAT
+AHL, NZ
+Leptospira ballum
+Multispecies MAT
+R
+Hodgeman
+DEPI, Vic,
+Bundoora
+Leptospira bataviae
+Multispecies MAT
+R
+Hodgeman
+DEPI, Vic,
+Bundoora
+Leptospira bratislava
+Multispecies MAT
+AHL, NZ
+
+Leptospira bratislava
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI, Vic,
+Bundoora
+Leptospira canicola
+Multispecies MAT
+ACC
+R Lunt
+AAHL
+Leptospira canicola
+Multispecies MAT
+AHL, NZ
+Leptospira canicola
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira canicola
+Multispecies MAT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Leptospira celledoni
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira copenhageni
+Multispecies MAT
+AHL, NZ
+Leptospira copenhageni
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira cynopteri
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira djasiman
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira grippotyphosa
+Multispecies MAT
+AHL, NZ
+Leptospira grippotyphosa
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira hardjo
+Multispecies MAT
+AHL, NZ
+Leptospira hardjo
+Multispecies MAT
+ACC
+
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira hardjo
+Multispecies MAT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Leptospira hebdomadis
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira hurtsbridge
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira
+icterohaemorrhagiae
+Multispecies MAT
+AHL, NZ
+Leptospira
+icterohaemorrhagiae
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira
+icterohaemorrhagiae
+Multispecies MAT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Leptospira javanica
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira louisiana
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira panama
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira pomona
+Multispecies MAT
+AHL, NZ
+Leptospira pomona
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira pomona
+Multispecies MAT
+ACC
+P Statham
+
+AHL, Mt
+Pleasant
+Leptospira serovars
+Multispecies MAT
+EMAI NSW
+Leptospira shermani
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira tarassovi
+Multispecies MAT
+AHL, NZ
+Leptospira tarassovi
+Multispecies MAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Leptospira tarassovi
+Multispecies MAT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Leptospira varela
+Multispecies MAT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Listeria spp.
+Ovine,
+bovine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Listeria spp.
+Ovine,
+bovine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Lumpy skin disease virus
+Bovine
+ISOL
+ACC
+D Williams
+AAHL
+Lyme disease
+Multispecies qPCR
+T Taylor
+AAHL
+Lymphocytic
+choriomeningitis virus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Lyssavirus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Lyssavirus
+Multispecies FAT
+ACC
+D Williams
+AAHL
+
+M
+Macrobrachium rosenbergii
+nodavirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Maedi-visna virus
+Ovine
+PCR
+PV
+B Meehan
+AAHL
+Maedi-visna virus
+Caprine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Maedi-visna virus
+Caprine
+AGID
+ACC
+R Lunt
+AAHL
+Maedi-visna virus
+Multispecies Ab ELISA
+AHL, NZ
+Malignant catarrhal fever
+Bovine
+qPCR
+PV
+B Meehan
+AAHL
+Malignant catarrhal fever
+Bovine
+VNT
+RT
+R Lunt
+AAHL
+Malignant catarrhal fever
+Bovine
+PCR
+ACC
+R Clough
+AHL, NZ
+Mannheimia spp.
+Ovine,
+bovine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Mannheimia spp.
+Ovine,
+bovine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Maple syrup urine disease
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Marek’s disease virus
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Marek’s disease virus
+Avian
+AGP
+PV
+P Steer
+APCAH, UoM
+Marteilia refringens
+Aquatic
+PCR
+C
+Brosnahan
+AHL, NZ
+PCR
+I Marsh
+EMAI, NSW
+
+Marteilia sydneyi—QX
+disease
+Aquatic—
+mollusc
+Megalocytivirus
+Aquatic—fish qPCR
+PV
+C
+Brosnahan
+AHL, NZ
+Megalocytivirus
+Aquatic—fish PCR
+RT
+M
+Crockford
+AHL, DAFWA
+Megalocytivirus
+Aquatic—fish qPCR
+RT
+M Crockford AHL, DAFWA
+Menangle virus
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Menangle virus
+Porcine
+IHC
+J Bingham
+AAHL
+Menangle virus
+Porcine
+VNT
+R Lunt
+AAHL
+Middle Point orbivirus
+Bovine
+qPCR
+ACC
+S Walsh
+BVL, NT
+Mikrocytos mackini
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Morbillivirus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Morbillivirus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Mourylian virus
+Aquatic
+PCR
+PV
+M Crane
+AFDL
+Mourylian virus
+Aquatic
+PCR
+PV
+I Diallo
+QLD DAFF,
+BSL
+Murray Valley encephalitis
+virus
+Multispecies VNT
+ACC
+S Davis
+BVL, NT
+Murray Valley encephalitis
+virus
+Multispecies PCR
+S Walsh
+BVL, NT
+
+Murray Valley encephalitis
+virus
+Multispecies ISOL
+S Lynch
+DEPI Vic,
+Bundoora
+Murray Valley encephalitis
+virus
+Multispecies VNT
+S Lynch
+DEPI Vic,
+Bundoora
+Murray Valley encephalitis
+virus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Murray Valley encephalitis
+virus
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Murray Valley encephalitis
+virus
+Multispecies Ab ELISA
+R Lunt
+AAHL
+Murray Valley encephalitis
+virus
+Multispecies qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Murray Valley encephalitis
+virus
+Multispecies Ab ELISA
+S Lynch
+DEPI Vic,
+Bundoora
+Mycobacterium avium
+Bovine, avian PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine
+AGID
+ACC
+M O'Dea
+AHL, DAFWA
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine, ovine CFT
+ACC
+M O'Dea
+AHL, DAFWA
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine, ovine Ab ELISA
+ACC
+M O'Dea
+AHL, DAFWA
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine
+ELISA
+ACC
+A Harding
+GVP
+
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies CULT
+ACC
+N Baker
+GVP
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies IS900 PCR-REA
+ACC
+R McCoy
+GVP
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies qPCR
+ACC
+R McCoy
+GVP
+Mycobacterium avium subsp.
+paratuberculosis
+Ovine,
+caprine
+AGID
+ACC
+A Harding
+GVP
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine,
+caprine
+ELISA
+EMAI, NSW
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine,
+ovine,
+caprine
+CFT
+EMAI, NSW
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies IS900 PCR-REA
+ACC
+G Bailey
+EMAI, NSW
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies HT-J PCR
+ACC
+J Platell
+QLD DAFF,
+BSL
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies IS900 PCR-REA
+ACC
+J Gwozdz
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies IS1311 PCR
+J Gwozdz
+DEPI Vic,
+Bundoora
+
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies ELISA
+ACC
+J Gwozdz
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies CULT
+ACC
+J Gwozdz
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies PFC
+ACC
+J Gwozdz
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine
+ELISA
+S Davis
+BVL, NT
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine
+CFT
+ACC
+S Davis
+BVL, NT
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies CFT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis
+Ovine,
+caprine
+AGID
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis
+Bovine
+AGID
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Mycobacterium avium subsp.
+paratuberculosis
+Ovine,
+bovine
+Ab ELISA
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies qPCR
+S Walsh
+BVL, NT
+Mycobacterium avium subsp.
+paratuberculosis
+Multispecies HT-J PCR
+M Fegan
+DEPI Vic,
+Bundoora
+Mycobacterium avium subsp.
+paratuberculosis strain
+typing
+Multispecies IS1311 PCR-REA
+ACC
+R McCoy
+GVP
+
+Mycobacterium avium subsp.
+paratuberculosis strain
+typing
+Multispecies IS1311 PCR-REA
+ACC
+G Bailey
+EMAI, NSW
+Mycobacterium bovis
+Multispecies PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycobacterium bovis
+Porcine
+CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Mycobacterium speciation
+Multispecies PCR REA
+PV
+I Diallo
+QLD DAFF,
+BSL
+Mycobacterium spp.
+Multispecies PCR on isolate
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycoplasma
+Multispecies ISOL + IDENT
+ACC
+T Taylor
+AAHL
+Mycoplasma
+Multispecies PCR
+T Taylor
+AAHL
+Mycoplasma
+Multispecies qPCR
+T Taylor
+AAHL
+Mycoplasma
+Multispecies PCR
+R Spence
+AHL, NZ
+Mycoplasma
+Multispecies ISOL + IDENT
+S
+Humphrey
+AHL, NZ
+Mycoplasma
+Multispecies CULT
+EMAI, NSW
+Mycoplasma agalactiae
+Multispecies PCR
+T Taylor
+AAHL
+Mycoplasma agalactiae
+Multispecies ISOL
+T Taylor
+AAHL
+Mycoplasma agalactiae
+Multispecies qPCR
+T Taylor
+AAHL
+
+Mycoplasma agalactiae
+Multispecies Ab ELISA
+AHL, NZ
+Mycoplasma agalactiae
+Ovine
+qPCR
+PV
+R Spence
+AHL, NZ
+Mycoplasma agalactiae
+Multispecies PCR on isolate
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycoplasma anatis
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Mycoplasma 'bovine group 7' Multispecies PCR on isolate
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycoplasma bovis
+Multispecies Ab ELISA
+R Lunt
+AAHL
+Mycoplasma bovis
+Multispecies GIT
+R Lunt
+AAHL
+Mycoplasma bovis
+Bovine
+PCR
+T Taylor
+AAHL
+Mycoplasma bovis
+Multispecies qPCR
+R Spence
+AHL, NZ
+Mycoplasma bovis
+Multispecies PCR on isolate
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycoplasma capricolum
+Multispecies PCR
+T Taylor
+AAHL
+Mycoplasma capricolum
+Multispecies PCR
+R Spence
+AHL, NZ
+Mycoplasma capricolum
+capripneumoniae
+Multispecies ISOL
+T Taylor
+AAHL
+Mycoplasma capricolum
+capripneumoniae
+Multispecies PCR
+R Spence
+AHL, NZ
+Mycoplasma gallisepticum
+Multispecies SAT
+R Lunt
+AAHL
+
+Mycoplasma gallisepticum
+Multispecies PCR on isolate
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycoplasma gallisepticum
+Avian
+SAT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Mycoplasma gallisepticum
+Avian
+RSA
+FV
+P Steer
+APCAH, UoM
+Mycoplasma gallisepticum
+Avian
+PCR
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Mycoplasma gallisepticum/
+Mycoplasma synoviae
+Avian
+duplex PCR
+ACC
+P Steer
+APCAH, UoM
+Mycoplasma hyopneumoniae Multispecies PCR
+ACC
+T Taylor
+AAHL
+Mycoplasma hyopneumoniae Porcine
+ELISA
+EMAI, NSW
+Mycoplasma hyopneumoniae Porcine
+PCR
+FV
+M Hornitzky EMAI, NSW
+Mycoplasma hyopneumoniae Multispecies PCR on isolate
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Mycoplasma hyopneumoniae Multispecies PCR
+K Moore
+DEPI Vic,
+Bendigo
+Mycoplasma hyorhinis
+Porcine
+PCR
+RT
+K Moore
+DEPI Vic,
+Bendigo
+Mycoplasma hyosynoviae
+Porcine
+PCR
+RT
+K Moore
+DEPI Vic,
+Bendigo
+Mycoplasma iowae
+Avian
+PCR
+ACC
+K Moore
+DEPI Vic,
+Bendigo
+
+Mycoplasma meleagridis
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Mycoplasma meleagridis
+Multispecies SAT
+R Lunt
+AAHL
+Mycoplasma meleagridis
+Multispecies Ab ELISA
+R Lunt
+AAHL
+Mycoplasma meleagridis
+Avian
+SAT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Mycoplasma meleagridis
+Avian
+PCR
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Mycoplasma mycoides
+Multispecies PCR
+T Taylor
+AAHL
+Mycoplasma mycoides
+Multispecies PCR
+R Spence
+AHL, NZ
+Mycoplasma spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Mycoplasma spp.
+Multispecies CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+Mycoplasma spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Mycoplasma spp.
+Multispecies PCR
+K Moore
+DEPI Vic,
+Bendigo
+Mycoplasma synoviae
+Multispecies SAT
+T Taylor
+AAHL
+Mycoplasma synoviae
+Avian
+SAT
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Mycoplasma synoviae
+Avian
+PCR
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+
+Mycoplasma synoviae
+Avian
+RSA
+FV
+P Steer
+APCAH, UoM
+N
+Necropsies
+Multispecies
+ACC
+J Bingham
+AAHL
+Neospora
+Multispecies IFAT
+ACC
+GVP
+Neospora
+Bovine
+ELISA
+ACC
+P Kirkland
+EMAI, NSW
+Neospora
+Bovine
+Ab ELISA
+PV
+M O'Dea
+AHL, DAFWA
+Neospora
+Multispecies IFAT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Neospora
+Multispecies IHC
+RT
+D Hayes
+AHL, Mt
+Pleasant
+Nervous necrosis virus
+Aquatic
+ISOL
+FV
+M Crane
+AFDL
+Nervous necrosis virus
+Aquatic
+IHC
+ACC
+M Crane
+AFDL
+Nervous necrosis virus
+Aquatic
+ICC
+ACC
+M Crane
+AFDL
+Nervous necrosis virus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Nervous necrosis virus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Nervous necrosis virus
+Aquatic
+IHC
+K Agnihotri
+QLD DAFF,
+BSL
+Nervous necrosis virus
+Aquatic
+qPCR
+M
+Crockford
+AHL, DAFWA
+Nervous necrosis virus
+Aquatic
+qPCR
+ACC
+T Wilson
+
+AHL, Mt
+Pleasant
+Newcastle disease virus
+Avian
+PCR
+ACC
+B Meehan
+AAHL
+Newcastle disease virus
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+Newcastle disease virus
+Avian
+IHC
+ACC
+J Bingham
+AAHL
+Newcastle disease virus
+Avian
+HI
+ACC
+R Lunt
+AAHL
+Newcastle disease virus
+Avian
+qPCR
+EMAI, NSW
+Newcastle disease virus
+Avian
+qPCR
+S Walsh
+BVL, NT
+Newcastle disease virus
+Avian
+HI
+ACC
+S Davis
+BVL, NT
+Newcastle disease virus
+Avian
+qPCR
+AHL, NZ
+Newcastle disease virus
+Avian
+HI
+AHL, NZ
+Newcastle disease virus
+Avian
+ISOL
+AHL, NZ
+Newcastle disease virus
+Avian
+Ab ELISA
+AHL, NZ
+Newcastle disease virus
+Avian
+HI
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Newcastle disease virus
+Avian
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Newcastle disease virus
+Avian
+PCR + SEQ
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Newcastle disease virus
+Avian
+qPCR
+ACC
+M Fegan
+
+DEPI Vic,
+Bundoora
+Newcastle disease virus
+Avian
+IHC
+ACC
+N Kvalheim
+DEPI Vic,
+Bundoora
+Newcastle disease virus
+Avian
+PCR
+PV
+M O'Dea
+AHL, DAFWA
+Newcastle disease virus
+Avian
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Newcastle disease virus
+Avian
+RSA
+FV
+P Steer
+APCAH, UoM
+Newcastle disease virus
+avirulent
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+Newcastle disease virus
+avirulent
+Avian
+qPCR
+ACC
+M Fegan
+DEPI Vic,
+Bundoora
+Newcastle disease virus
+strain V4
+Avian
+qPCR
+ACC
+B Meehan
+AAHL
+Next Generation Sequencing Multispecies NGS
+RT
+B Meehan
+AAHL
+Nipah virus
+Multispecies qPCR
+RT
+B Meehan
+AAHL
+Nipah virus
+Multispecies LBA
+D Williams
+AAHL
+Nipah virus
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Nipah virus
+Multispecies Ab ELISA
+ACC
+R Lunt
+AAHL
+Nipah virus
+Multispecies VNT
+ACC
+R Lunt
+AAHL
+Nodavirus
+Aquatic—fish qPCR
+ACC
+P Kirkland
+EMAI, NSW
+
+Nodavirus
+Aquatic—fish qPCR
+ACC
+S Walsh
+BVL, NT
+Nodavirus
+Aquatic
+IHC
+ACC
+AHL, NZ
+Nosema apis
+Apoidea
+PCR
+AHL, NZ
+Nosema ceranae
+Apoidea
+PCR
+AHL, NZ
+O
+Orbivirus (various)
+Multispecies Ab ELISA
+RT
+R Lunt
+AAHL
+Orbivirus group
+Ruminant
+PCR + SEQ
+PV
+I Diallo
+QLD DAFF,
+BSL
+Ornithobacterium
+rhinotracheale
+Avian
+PCR
+T Taylor
+AAHL
+Ostreid herpesvirus
+Aquatic
+qPCR
+S Walsh
+BVL, NT
+Ostreid herpesvirus 1
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Ostreid herpesvirus 1
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Ostreid herpesvirus 1
+Aquatic
+ISH
+R Buenos
+AHL, NZ
+Ostreid herpesvirus 1 
+Aquatic
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Ostreid herpesvirus 2
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Ostreid herpesvirus 3
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Ostreid herpesvirus 4
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+
+P
+Palyam group
+Bovine
+AGID
+ACC
+S Davis
+BVL, NT
+Palyam virus
+Bovine, ovine AGID
+AHL, NZ
+Para-influenza type 3
+Porcine
+FAT
+RT
+K Newberry AAHL
+Para-influenza type 3
+Porcine
+VNT
+R Lunt
+AAHL
+Para-influenza type 3
+Porcine
+ISOL
+AHL, NZ
+Para-influenza type 3
+Bovine
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Para-influenza type 3
+Bovine
+HI
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Para-influenza type 3
+Bovine
+VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Paramyxovirus
+Avian
+PCR
+AHL, NZ
+Paramyxovirus
+Avian
+HI
+AHL, NZ
+Paramyxovirus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Paramyxovirus type 1, 2 and
+3
+Multispecies HI
+ACC
+R Lunt
+AAHL
+Pasteurella multocida
+Multispecies qPCR
+S Walsh
+AHL, NT
+Pasteurella multocida
+Multispecies PCR
+RT
+P Steer
+APCAH, UoM
+Pasteurella multocida
+Multispecies PCR
+T Taylor
+AAHL
+
+Pasteurella multocida
+Multispecies CULT
+ACC
+N Baker
+GVP
+Pasteurella multocida
+Multispecies CULT
+R Spence
+AHL, NZ
+Pasteurella multocida
+Multispecies PCR
+R Spence
+AHL, NZ
+Pasteurella multocida
+Avian
+qPCR
+I Diallo
+QLD DAFF,
+BSL
+Pasteurella multocida
+Multispecies SERO (Heddleston
+scheme)
+P Blackall
+UQ Micro
+ESP
+Pasteurella multocida
+Multispecies PCR
+P Blackall
+UQ Micro
+ESP
+Pasteurella multocida
+Multispecies CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Pasteurella spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Pasteurella spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Perkinsus olseni
+Aquatic—
+mollusc
+PCR
+S Corbeil
+AAHL
+Perkinsus olseni
+Aquatic—
+mollusc
+qPCR
+S Corbeil
+AAHL
+Perkinsus olseni
+Aquatic -
+mollusc
+ISH
+S Corbeil
+AAHL
+Perkinsus olseni
+Aquatic—
+mollusc
+PCR
+M
+Crockford
+AHL, DAFWA
+
+Perkinsus spp.
+Aquatic—
+mollusc
+PCR
+M
+Crockford
+AHL, DAFWA
+Perkinsus spp.
+Aquatic
+PCR
+ACC
+M Crane
+AAHL
+Perkinsus spp.
+Aquatic
+PCR
+C Brosnahan AHL, NZ
+Peruvian horse sickness virus
+(Elsey Virus)
+Equine
+PCR
+ACC
+S Walsh
+BVL, NT
+Peruvian horse sickness virus
+(Elsey Virus)
+Equine
+VNT
+S Davis
+BVL, NT
+Peste des petits ruminants
+virus
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Pestivirus
+Bovine
+CULT
+ACC
+M O'Dea
+AHL, DAFWA
+Pestivirus
+Ruminant
+Ag ELISA
+EMAI, NSW
+Pestivirus
+Ruminant,
+porcine
+qPCR
+PV
+AHL, NZ
+Phlebovirus (Hunter Island
+Group virus)
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Photobacterium damselae
+subsp. damselae
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Photobacterium damselae
+subsp. damselae
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Photobacterium damselae
+subspecies
+Aquatic—fish PCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+
+Pigeon paramyxovirus type 1 Avian
+qPCR
+PV
+B Meehan
+AAHL
+Pigeon paramyxovirus type 1 Avian
+qPCR
+M Fegan
+DEPI Vic,
+Bundoora
+Pigeon paramyxovirus type 1 Avian
+IHC
+ACC
+J Bingham
+AAHL
+Pigeon paramyxovirus type 3 Avian
+qPCR
+AHL, NZ
+Pike fry rhabdovirus
+Aquatic
+ICC
+ACC
+M Crane
+AFDL
+Pilchard herpesvirus
+Aquatic
+PCR
+RT
+M Crane
+AFDL
+Pilchard herpesvirus
+Aquatic—fish PCR
+C
+Brosnahan
+AHL, NZ
+Pilchard herpesvirus
+Aquatic—fish qPCR
+M
+Crockford
+AHL, DAFWA
+Pilchard orthomyxovirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Piscirickettsia salmonis
+Aquatic
+qPCR
+FV
+M Crane
+AFDL
+Piscirickettsia salmonis
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Pompe’s disease - E7, E13,
+E18
+Bovine
+PCR
+I Marsh
+EMAI, NSW
+Porcine circovirus
+Porcine
+IP
+R Lunt
+AAHL
+Porcine circovirus type 1
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Porcine circovirus type 1
+Porcine
+IP
+R Lunt
+AAHL
+
+Porcine circovirus type 1
+Porcine
+FAT
+K Newberry AAHL
+Porcine circovirus type 1
+Porcine
+PCR
+AHL, NZ
+Porcine circovirus type 2
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Porcine circovirus type 2
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Porcine circovirus type 2
+Porcine
+IHC
+ACC
+J Bingham
+AAHL
+Porcine circovirus type 2
+Porcine
+IP
+R Lunt
+AAHL
+Porcine circovirus type 2
+Porcine
+FAT
+K Newberry AAHL
+Porcine circovirus type 2
+Porcine
+IHC
+EMAI, NSW
+Porcine circovirus type 2
+Porcine
+PCR
+AHL, NZ
+Porcine cytomegalovirus
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Porcine enterovirus
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Porcine enterovirus
+Porcine
+ISOL
+AHL, NZ
+Porcine enterovirus type 1
+Porcine
+IFAT
+K Newberry AAHL
+Porcine enterovirus type 1
+Porcine
+VNT
+RT
+R Lunt
+AAHL
+Porcine epidemic diarrhoea
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Porcine parvovirus
+Porcine
+ISOL
+AHL, NZ
+Porcine parvovirus
+Porcine
+ISOL
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+
+Porcine parvovirus
+Porcine
+HI
+ACC
+J Motha
+DEPI Vic,
+Bundoora
+Porcine respiratory and
+reproductive syndrome virus Porcine
+PCR
+PV
+B Meehan
+AAHL
+Porcine respiratory and
+reproductive syndrome virus Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Porcine respiratory and
+reproductive syndrome virus Porcine
+IHC
+J Bingham
+AAHL
+Porcine respiratory and
+reproductive syndrome virus Porcine
+IP
+ACC
+R Lunt
+AAHL
+Porcine respiratory and
+reproductive syndrome virus Porcine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+Porcine respiratory and
+reproductive syndrome virus Porcine
+FAT
+K Newberry AAHL
+Porcine respiratory and
+reproductive syndrome virus Porcine
+Ab ELISA
+AHL, NZ
+Porcine respiratory and
+reproductive syndrome virus
+- European
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Porcine respiratory and
+reproductive syndrome virus
+- North American
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Porcine vesicular diseases
+Porcine
+qPCR
+R Clough
+AHL, NZ
+Pox virus
+Multispecies EM
+AHL, NZ
+
+Pox virus
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Psuedomonas psuedomallei
+Multispecies ISOL
+ACC
+S Benedict
+BVL, NT
+R
+Rabbit calicivirus
+Leporidae
+PCR
+PV
+B Meehan
+AAHL
+Rabies
+Multispecies qPCR
+ACC
+B Meehan
+AAHL
+Rabies
+Multispecies FAT
+ACC
+D Williams
+AAHL
+Rabies
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Rabies
+Multispecies RFFIT
+ACC
+R Lunt
+AAHL
+Ranavirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Ranavirus
+Aquatic—fish qPCR
+PV
+C
+Brosnahan
+AHL, NZ
+Red sea bream iridovirus
+Aquatic
+ICC
+FV
+M Crane
+AFDL
+Red sea bream iridovirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Red sea bream iridovirus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Renibacterium
+salmoninarum
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Renibacterium
+salmoninarum
+Aquatic—fish IFAT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+
+Renibacterium
+salmoninarum
+Aquatic
+ISOL
+ACC
+M Crane
+AFDL
+Renibacterium
+salmoninarum—BKD3
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Renibacterium
+salmoninarum—BKD4
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Reticuloendotheliosis virus 
+Avian
+PCR
+RT
+P Steer
+APCAH, UoM
+Reticuloendotheliosis virus 
+Avian
+ALISA, IFAT, AGP
+FV
+P Steer
+APCAH, UoM
+Rickettsia-like organism
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Rickettsia-like organism
+Aquatic
+ISOL
+ACC
+M Crane
+AFDL
+Rift Valley fever
+Multispecies ELISA, VNT
+ACC
+R Lunt
+AAHL
+Rinderpest
+Multispecies VNT
+R Lunt
+AAHL
+Rinderpest
+Ruminant
+PCR
+RT
+B Meehan
+AAHL
+Ross River virus
+Multispecies PRNT
+R Lunt
+AAHL
+Ross River virus
+Equine
+VNT
+S Davis
+AAHL
+Ross River virus
+Multispecies ELISA
+ACC
+S Lynch
+DEPI Vic,
+Bundoora
+Ross River virus
+Multispecies ISOL
+ACC
+S Lynch
+DEPI Vic,
+Bundoora
+Ross River virus
+Equine
+ISOL
+ACC
+S Lynch
+DEPI Vic,
+Bundoora
+
+Ross River virus
+Multispecies VNT
+S Lynch
+DEPI Vic,
+Bundoora
+Ross River virus
+Bovine
+qPCR
+M Fegan
+DEPI Vic,
+Bundoora
+Ross River virus
+Multispecies VNT
+ACC
+M O'Dea
+AHL, DAFWA
+Rotavirus/Coronavirus
+Bovine, ovine PCR
+PV
+M O'Dea
+AHL, DAFWA
+S
+Salmon ELF1a
+Aquatic
+qPCR
+M Crane
+AAHL
+Salmonella
+Bovine
+SAT
+EMAI, NSW
+Salmonella enteritidis
+Multispecies Ab ELISA
+ACC
+R Lunt
+AAHL
+Salmonella gallinarum/
+pullorum
+Avian
+RSA
+FV
+P Steer
+APCAH, UoM
+Salmonella gallinarum/
+pullorum
+Avian
+SAT
+ACC
+R Lunt
+AAHL
+Salmonella pullorum
+Avian
+SAT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Salmonella spp.
+Multispecies PCR
+PV
+B Meehan
+AAHL
+Salmonella spp.
+Multispecies CULT
+ACC
+T Taylor
+AAHL
+Salmonella spp.
+Multispecies CULT
+ACC
+N Baker
+GVP
+Salmonella spp.
+Multispecies CULT
+S
+Humphrey
+AHL, NZ
+
+Salmonella spp.
+Multispecies CULT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Salmonella spp.
+Multispecies PCR
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Salmonella spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Salmonella spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Salmonella spp. Group D
+Multispecies Ab ELISA
+ACC
+R Lunt
+AAHL
+Salmonella typhimurium
+Avian
+SAT
+ACC
+R Lunt
+AAHL
+Schmallenberg virus
+Multispecies VNT
+ACC
+R Lunt
+AAHL
+Schmallenberg virus
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Scrapie
+Bovine, ovine SAF
+ACC
+D Williams
+AAHL
+Shigella spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Sindbis virus
+Avian
+VNT
+S Lynch
+DEPI Vic,
+Bundoora
+Spirochaete species
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+Spirochaete species
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Spring viraemia of carp virus Aquatic
+ISOL
+FV
+M Crane
+AAHL
+Spring viraemia of carp virus Aquatic
+ICC
+ACC
+M Crane
+AAHL
+
+Spring viraemia of carp virus Aquatic
+PCR
+ACC
+M Crane
+AAHL
+Staphylococcus spp.
+Avian
+CULT
+ACC
+N Baker
+GVP
+Staphylococcus spp.
+Avian
+CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Streptococcus equi
+Equine
+qPCR
+ACC
+R McCoy
+GVP
+Streptococcus equi
+Equine
+PCR
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Streptococcus equi equi
+Equine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Streptococcus equi equi
+Equine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Streptococcus iniae
+Aquatic—fish CULT
+ACC
+N Baker
+GVP
+Streptococcus iniae
+Aquatic—fish ISOL
+ACC
+S Benedict
+BVL, NT
+Streptococcus iniae
+Aquatic—fish qPCR
+PV
+C
+Brosnahan
+AHL, NZ
+Streptococcus iniae
+Aquatic—fish CULT
+C
+Brosnahan
+AHL, NZ
+Streptococcus iniae
+Aquatic—fish CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Streptococcus iniae
+Aquatic—fish PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Streptococcus iniae
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+
+Streptococcus iniae
+Aquatic—fish PCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Swine vesicular disease
+Porcine
+PCR
+PV
+B Meehan
+AAHL
+Swine vesicular disease
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Swine vesicular disease
+Porcine
+VNT
+ACC
+R Lunt
+AAHL
+Swine vesicular disease
+Multispecies VNT
+D Williams
+AAHL
+T
+Tasmanian aquabirnavirus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Tasmanian Rickettsia-like
+organism
+Aquatic
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Tasmanian salmon
+aquareovirus
+Aquatic
+qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Tasmanian salmon
+aquareovirus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Tasmanian salmon
+aquareovirus
+Aquatic
+ICC
+ACC
+M Crane
+AFDL
+Taura syndrome virus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Taura syndrome virus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Taura syndrome virus
+Aquatic—
+prawn
+PCR
+M
+Crockford
+AHL, DAFWA
+Equine
+qPCR
+T Taylor
+AAHL
+
+Taylorella equigenitalis
+(contagious equine metritis)
+Taylorella equigenitalis
+(contagious equine metritis)
+Equine
+qPCR
+R Spence
+AHL, NZ
+Taylorella equigenitalis
+(contagious equine metritis)
+Equine
+ISOL
+S
+Humphrey
+AHL, NZ
+Taylorella equigenitalis
+(contagious equine metritis)
+Equine
+ISOL
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Taylorella equigenitalis
+(contagious equine metritis)
+Equine
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Taylorella equigenitalis
+(contagious equine metritis)
+Equine
+CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Tenacibacterium spp.
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Tenacibaculum maritimum
+Aquatic—fish PCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Tenacibaculum maritimum
+Aquatic—fish PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Tenacibaculum maritimum
+Aquatic—fish CULT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Tenacibaculum spp.
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Tenacibaculum spp.
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Theileria (Babesia) equi
+Equine
+Ab ELISA
+AHL, NZ
+
+Theileria orientalis
+Bovine
+PCR
+ACC
+N Buller
+AHL, DAFWA
+Toxic blue-green algae
+Aquatic—fish IDENT
+ACC
+N Buller
+AHL, DAFWA
+Toxoplasma
+Multispecies LAT
+EMAI, NSW
+Toxoplasma gondii
+Multispecies LAT
+AHL, NZ
+Toxoplasma gondii
+Multispecies IFAT, MAT
+ACC
+P Statham
+AHL, Mt
+Pleasant
+Toxoplasma gondii
+Multispecies IHC
+RT
+D Hayes
+AHL, Mt
+Pleasant
+Transmissible gastroenteritis
+virus
+Porcine
+qPCR
+PV
+B Meehan
+AAHL
+Transmissible gastroenteritis
+virus
+Porcine
+VNT
+R Lunt
+AAHL
+Transmissible spongiform
+encephalopathy
+Multispecies ELISA
+D Williams
+AAHL
+Transmissible spongiform
+encephalopathy
+Multispecies W Blot
+ACC
+D Williams
+AAHL
+Transmissible spongiform
+encephalopathy
+Multispecies IHC
+ACC
+J Bingham
+AAHL
+Transmissible spongiform
+encephalopathy
+Ovine,
+caprine
+W Blot
+ACC
+R
+Kittelberger AHL, NZ
+Transmissible spongiform
+encephalopathy
+Ovine,
+caprine
+Ag ELISA
+PV
+R
+Kittelberger AHL, NZ
+
+Treponaema identification
+Porcine
+PCR
+PV
+N Buller
+AHL, DAFWA
+Trichinella
+Porcine
+ELISA
+PV
+C Pigott
+AHL, NZ
+Trichinella spiralis
+Porcine
+Pepsin digestion
+AHL, NZ
+Tritrichomonas foetus
+Bovine
+IDENT
+ACC
+N Buller
+AHL, DAFWA
+Tritrichomonas foetus
+Bovine
+IDENT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Tritrichomonas foetus
+Multi species CULT
+ACC
+N Baker
+GVP
+Tritrichomonas foetus
+Multi species qPCR
+ACC
+R McCoy
+GVP
+Tritrichomonas foetus
+Multispecies qPCR
+I Diallo
+QLD DAFF,
+BSL
+Tritrichomonas foetus
+Multispecies CULT
+ACC
+J Platell
+QLD DAFF,
+BSL
+Tritrichomonas foetus
+Multispecies CULT
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Trypanosoma evansi
+Equine
+ELISA
+R Lunt
+AAHL
+Trypanosoma evansi
+Equine
+qPCR
+T Taylor
+AAHL
+Trypanosoma evansi
+Equine
+CAT
+ACC
+R Lunt
+AAHL
+Turkey rhinotracheitis virus
+Avian
+PCR
+PV
+B Meehan
+AAHL
+Turkey rhinotracheitis virus
+Avian
+qPCR
+PV
+B Meehan
+AAHL
+
+U
+Universal 16s rRNA
+Multispecies PCR
+M Fegan
+DEPI Vic,
+Bundoora
+V
+Venezuelan equine
+encephalomyelitis
+Equine
+Ab ELISA
+R Lunt
+AAHL
+Venezuelan equine
+encephalomyelitis
+Equine
+PRNT
+R Lunt
+AAHL
+Vesicular stomatitis virus
+Equine
+qPCR
+PV
+B Meehan
+AAHL
+Vesicular stomatitis virus
+Multispecies VNT
+ACC
+D Williams
+AAHL
+Vesiculovirus serotype
+Indiana
+Multispecies qPCR
+PV
+B Meehan
+AAHL
+Vesiculovirus serotype
+Indiana
+Multispecies VNT
+ACC
+R Lunt
+AAHL
+Vesiculovirus serotype New
+Jersey
+Multispecies VNT
+ACC
+R Lunt
+AAHL
+Vesiculovirus serotype Piry
+Multispecies VNT
+ACC
+R Lunt
+AAHL
+Vibrio damselae piscida
+Aquatic—fish CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Vibrio harveyi
+Aquatic—fish PCR
+ACC
+I Diallo
+QLD DAFF,
+BSL
+Vibrio spp.
+Aquatic
+CULT
+ACC
+N Baker
+GVP
+
+Vibrio spp.
+Aquatic
+CULT
+C Brosnahan AHL, NZ
+Vibrio spp.
+Aquatic
+PCR
+C
+Brosnahan
+AHL, NZ
+Vibrio spp.
+Aquatic
+CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Vibrio spp.
+Aquatic
+CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Vibrio spp.
+Aquatic
+CULT
+ACC
+N Buller
+AHL, DAFWA
+Vibriosis
+Aquatic
+PCR
+PV
+M Crane
+AFDL
+Viral haemorrhagic
+septicaemia virus
+Aquatic
+ICC
+ACC
+M Crane
+AFDL
+Viral haemorrhagic
+septicaemia virus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Viral haemorrhagic
+septicaemia virus
+Aquatic
+ISOL
+FV
+M Crane
+AFDL
+Viral haemorrhagic
+septicaemia virus
+Aquatic
+PCR
+AHL, NZ
+Viral haemorrhagic
+septicaemia virus
+Aquatic
+ISOL
+D Orr
+AHL, NZ
+Virus detection—OHV-2
+(MCF/BMC)
+Bovine
+PCR
+ACC
+M O'Dea
+AHL, DAFWA
+Virus isolation
+Multispecies CULT
+ACC
+M O'Dea
+AHL, DAFWA
+
+W
+Wallal virus
+Macropods
+IHC
+J Bingham
+AAHL
+Wallal virus
+Macropods
+Ab ELISA
+R Lunt
+AAHL
+Wallal virus
+Macropods
+ISOL
+J Motha
+AAHL
+Warrego virus
+Macropods
+IHC
+J Bingham
+AAHL
+Warrego virus
+Macropods
+Ab ELISA
+R Lunt
+AAHL
+Warrego virus
+Macropods
+VNT
+R Lunt
+AAHL
+West Nile group virus
+Equine
+qPCR
+EMAI, NSW
+West Nile virus
+Equine
+IHC
+ACC
+J Bingham
+AAHL
+West Nile virus
+Equine
+Ab ELISA
+ACC
+R Lunt
+AAHL
+West Nile virus
+Multispecies qPCR
+B Meehan
+AAHL
+West Nile virus
+Multispecies PRNT
+R Lunt
+AAHL
+West Nile virus
+Equine
+qPCR
+AHL, NZ
+West Nile virus
+Multispecies qPCR
+M Fegan
+DEPI Vic,
+Bundoora
+Western equine encephalitis
+virus
+Equine
+Ab ELISA
+R Lunt
+AAHL
+Western equine encephalitis
+virus
+Equine
+PRNT
+R Lunt
+AAHL
+
+Whirling disease
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Whirling disease
+Aquatic—fish PCR
+PV
+C
+Brosnahan
+AHL, NZ
+White nose syndrome
+Chiroptera
+PCR
+PV
+B Meehan
+AAHL
+White spot syndrome virus
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+White spot syndrome virus
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+White spot syndrome virus
+Aquatic
+ISH
+ACC
+M Crane
+AFDL
+White spot syndrome virus
+Aquatic—
+prawn
+qPCR
+ACC
+P Kirkland
+EMAI, NSW
+White spot syndrome virus
+Aquatic—
+prawn
+PCR
+ACC
+S Walsh
+BVL, NT
+White spot syndrome virus
+Aquatic—
+prawn
+PCR
+ACC
+M
+Crockford
+AHL, DAFWA
+White spot syndrome virus
+Aquatic—
+prawn
+qPCR
+ACC
+M Crockford AHL, DAFWA
+Y
+Yeast species
+Multispecies PCR + SEQ
+R Spence
+AHL, NZ
+Yellowhead virus
+Aquatic—
+prawn
+qPCR
+ACC
+P Kirkland
+EMAI, NSW
+Yellowhead virus
+Aquatic—
+prawn
+PCR
+ACC
+S Walsh
+BVL, NT
+
+Yellowhead virus
+Aquatic—
+prawn
+PCR
+M Crockford AHL, DAFWA
+Yellowhead virus complex
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Yellowhead virus complex
+Aquatic
+PCR
+ACC
+M Crane
+AFDL
+Yellowhead virus complex
+Aquatic
+ISH
+FV
+M Crane
+AFDL
+Yersinia ruckeri
+Aquatic
+SERO
+ACC
+M Crane
+AFDL
+Yersinia ruckeri
+Aquatic
+qPCR
+ACC
+M Crane
+AFDL
+Yersinia ruckeri
+Aquatic
+CULT
+ACC
+N Baker
+GVP
+Yersinia ruckeri
+Aquatic
+CULT
+C
+Brosnahan
+AHL, NZ
+Yersinia ruckeri
+Aquatic—fish qPCR
+PV
+C
+Brosnahan
+AHL, NZ
+Yersinia ruckeri
+Aquatic
+CULT
+ACC
+R
+Hodgeman
+DEPI Vic,
+Bundoora
+Yersinia ruckeri
+Aquatic—fish CULT
+ACC
+N Buller
+AHL, DAFWA
+Yersinia ruckeri
+Aquatic—fish CULT
+ACC
+V Dunn
+AHL, Mt
+Pleasant
+Yersinia ruckeri
+Aquatic—fish qPCR
+ACC
+T Wilson
+AHL, Mt
+Pleasant
+Yersinia sp.
+Primates
+ISOL
+ACC
+S Benedict
+BVL, NT
+Yersinia spp.
+Multispecies CULT
+ACC
+N Buller
+AHL, DAFWA
+
+Yersinia spp.
+Multispecies CULT
+ACC
+L Donachie
+AHL, Mt
+Pleasant
+Abbreviations and acronyms
+Status
+RT
+Research test
+PV
+Partially validated (to OIE stage 1 or 2)
+FV
+Fully validated (to OIE stage 3 or 4)
+ACC
+Test falls under the laboratory’s scope of NATA accreditation
+Test types
+Ab ELISA
+Antibody ELISA
+Ag ELISA
+Antigen ELISA
+Ag SERO
+Antigen serotyping
+AGID
+Agar gel immunodiffusion
+BIO
+Biotyping
+CAT
+Card agglutination Ttest
+CFT
+Compliment fixation test
+CULT
+Culture
+
+ELISA
+Enzyme-linked immunosorbent assay
+EM
+Electron microscopy
+FAT
+Fluorescent antibody test
+FAVN
+Fluorescent antibody virus neutralisation
+FITC
+Fluorescein Isothiocyanate
+GIT
+Growth inhibition test
+HI
+Haemagglutination inhibition
+ICA
+Immunochromatographic assay
+ICC
+Immunocytochemistry
+IDENT
+Identification (for agents)
+IFAT
+Indirect immunofluorescent antibody test
+IHA
+Indirect hemagglutination
+IHC
+Immunohistochemistry
+IP
+Immunoperoxidase
+IPT
+Interface precipitin test
+IRS
+Interspersed repetitivesSequence
+IS
+Impression smear
+
+ISH
+In-situ hybridisation
+ISOL
+Isolation
+IVPI
+Intravenous pathogenicity index
+LAT
+Latex agglutination test
+LBA
+Luminex binding assay
+MAT
+Microscopic agglutination test
+NI
+Neuraminidase inhibition
+NPLA
+Neutralising peroxidase linked assay
+PATH
+Pathotyping
+PCR
+Polymerase chain reaction
+PCR—REA
+Polymerase chain reaction—restriction enzyme analysis
+PFC
+Pooled faecal culture
+PFGE
+Pulse field gel electrophoresis
+PRNT
+Plaque reduction neutralisation test
+qPCR
+Real-time polymerase chain reaction
+RBPT
+Rose Bengal plate test
+RFFIT
+Rapid fluorescent focus inhibition test
+
+RFLP
+Restriction fragment length polymorphism
+SAF
+Scrapie-associated fibrils
+SAT
+Serum agglutination test
+SEQ
+Sequencing
+SERO
+Serotyping
+VNT
+Virus neutralisation test
+W Blot
+Western blot
+Laboratory
+AAHL
+CSIRO Australian Animal Health Laboratory, Geelong, Victoria
+AFDL
+AAHL Fish Diseases Laboratory
+AHL, DAFWA
+Animal Health Laboratory, Department of Agriculture and Food, Perth, Western
+Australia
+BVL, NT
+Berrimah Veterinary Laboratory, Berrimah, Northern Territory
+DEPI Vic,
+Bundoora
+Department of Environment and Primary Industries, AgriBio Centre, La Trobe
+University Campus, Bundoora, Victoria
+EMAI, NSW
+Elizabeth Macarthur Agricultural Institute, New South Wales Department of Primary
+Industries
+GVP
+Gribbles Veterinary Pathology, Melbourne, Victoria
+Micro ARI
+Microbiology Research Group, Animal Research Institute, Queensland
+
+QLD DAFF, BSL Queensland Department of Agriculture, Fisheries and Forestry, Biosecurity Sciences
+Laboratory, Brisbane
+Source: https://www.agriculture.gov.au/animal/health/laboratories/tests/routine-tests

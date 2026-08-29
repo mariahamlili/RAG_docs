@@ -1,0 +1,29 @@
+Report Summary
+
+Foot-and-mouth disease (FMD) is one of the most contagious of animal diseases. Animals may be infected by inhalation or ingestion. Ruminants are especially sensitive to infection via the respiratory tract.
+
+Movement of infected animals is the most important method of spread of FMD from one property to another. However, on occasions movement of airborne virus particles by wind has been responsible for infecting properties some distance downwind. Under favourable climatic conditions wind-borne spread can be an important factor in FMD epidemics.
+
+For wind-borne spread to occur, virus must be able to survive long enough and in sufficiently high concentrations to infect livestock downwind. Our analysis of weather data shows that for much of Australia, conditions, particularly at night, are suitable for survival of FMD virus in aerosols (Garner and Cannon). Long-distance spread of virus particles requires stable atmospheric conditions and low wind speeds. Such conditions are common in Australia. Thus, for much of Australia, for much of the year, weather conditions will not be a limiting factor for wind-borne spread.
+
+For infection to occur downwind, animals must be exposed to sufficient virus particles. This depends on the amount of virus produced and the volume of air breathed by exposed animals. The risk of wind-borne spread is proportional to the strength of the virus source. As infected pigs excrete 1000-3000 times as much virus as cattle or sheep, they pose the greatest threat.
+
+The risk of spread is proportional to the density of livestock downwind, with large concentrations of animals such as saleyards and feedlots being particularly vulnerable. Cattle are more likely to be infected than are sheep or pigs because of their higher respiratory volume sheep have one quarter, and pigs one twelfth, the risk of cattle. Hence, the typical pattern of wind-borne spread is from pigs to cattle. Once one animal in a herd has become infected, the disease will spread rapidly through the herd by close contact.
+
+      ![Top picture: A screen shot from the Australian Integrated Windspread Model system which identifies farms at risk of windborne infection of FMD and their level of risk by colour on a map (simulated study).  Bottom pictures: Different screen shots from the modelling tools used in the international FMD windborne spread modelling study: VetMet, NAME, PDEMS, AIWM, MLCD and NARC](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/exotic/fmd/fmd-wind-day8-plume.jpg) 
+
+Simulated FMD virus plume
+
+      ![map showing potential wind spread of fmd](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/exotic/fmd/fmd-wind-map.gif) 
+
+![map legend](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/exotic/fmd/fmd-wind-legend.gif) 
+
+Farms at risk of infection from windborne spread of FMD virus (simulated study)
+
+![image showing international FMD windborne spread modelling study](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/animal-plant/pests-diseases/exotic/fmd/fmd-wind-model.jpg)
+
+International FMD windborne spread modelling study
+
+      Potential for wind-borne spread of foot-and-mouth disease virus in Australia PDF 
+
+![PDF Icon](https://www.agriculture.gov.au/sites/default/files/SiteCollectionImages/common/pdf.gif) [1 MB, 98 pages]

@@ -1,0 +1,59 @@
+Updated estimate
+
+A large multi-state foot and mouth disease outbreak has an estimated direct economic impact over 10 years of around $80 billiona(in $2020-21 with a 3% discount rate).
+
+aABARES 2022 estimate based on Buetre et al. (2013) updating for current industry conditions and adopting the discounting approach outlined in Hone et al. (2022).
+
+Background
+
+In 2013, ABARES estimated the direct economic impact of a large multi-state outbreak to be $52 billion over 10 years at a 7% discount rate.
+
+- The outbreak, as modelled using the AusSpread epidemiological model, is assumed to have already spread from Victoria to all eastern states by the time of detection.
+
+- The disease is assumed to be eradicated in 5 months from detection at a cost of $0.37 billion.
+
+- The estimated impacts are largely due to a slow recovery in market access. By year 10 export market access is 80% for beef, 87% for pork and 92% sheep meat.
+
+For the updated estimate to reflect changes in industry structure and economic conditions since 2013 adjustments have been made to reflect changes in the value of industry output. In addition, it is also appropriate for the discount rate used in calculating present values to be changed to 3%, from 7% used in the original study (as described in Hone et al. 2022).
+
+Since 2013 the beef, sheep meat and pork industries have grown (in terms of real gross value product) by 48%, 44% and 33%, respectively while the wool and dairy products industries have shrunk by 23% and 2%. Scaling the 2013 impact estimates to account for industry growth increases the impact to $71 billion (in $2020-21 at a 7 % discount rate) (Table 1). The use of a 3% discount rate increases the estimated impact further to $80 billion (in $2020-21).
+
+| Table 1 Updated economic impacts of a large multi-state outbreak ($ billion 2020-21)a |  |  |  | 
+
+|---|---|---|---|
+
+|  | ABARES (2013)b | ABARES update (2022) |  | 
+
+|---|---|---|---|
+
+|  | 7% DRc | 7% DRc | 3% DRc | 
+
+| Revenue losses |  |  |  | 
+
+| Beef | 32.26 | 47.64 | 53.77 | 
+
+| Sheep meat | 10.22 | 14.73 | 16.35 | 
+
+| Pork | 1.11 | 1.48 | 1.60 | 
+
+| Wool | 2.19 | 1.69 | 1.69 | 
+
+| Dairy products | 6.05 | 5.95 | 6.50 | 
+
+| Sub total | 51.84 | 71.49 | 79.91 | 
+
+| Control cost | 0.37 | 0.40d | 0.40d | 
+
+| Total direct cost | 52.21 | 71.90 | 80.31 | 
+
+Note: a Present value over 10 years; b ABARES 2013 study (Table 5 page 25) (Buetre et al. 2013); c real discount rate; d control costs incurred only in the first year and 2013 estimate adjusted to take account of inflation and 10% reduction in animal numbers over the last decade.
+
+A large multi-state outbreak, which has already spread to all eastern states when detected is a worst-case single outbreak scenario. It is more likely that with proactive surveillance measures the initial infected properties would be detected early resulting in a much smaller outbreak, reduced time to eradicate and regain market access, leading to a significantly smaller direct economic impact. On the other hand, we have estimated the cost of a single outbreak. In some circumstances there could be repeated outbreaks over time, leading to a larger direct economic impact.
+
+With the incursion managed to a smaller outbreak, it is also likely that Australia could establish a specific form of trading zone – a 'disease containment zone' under World Organization for Animal Health (OIE) guidelines – such that uninfected areas may continue to trade in international markets (Article 4.3.7) (8) and avoid some of the impacts associated with an Australia wide export ban.
+
+References
+
+Buetre, B, Wicks, S, Kruger, H, Millist, N, Yainshet, A, Garner, G, Duncan, A, Abdalla, A, Trestrail, C, Hatt, M, Thompson, LJ & Symes, M 2013, Potential socio-economic impacts of an outbreak of foot-and-mouth disease in Australia, ABARES research report, Canberra, September. CC BY 3.0.
+
+Hone, S, Gooday, P, Hafi, A & Greenville, J 2022, Discount rates and risk in the economic analysis of agricultural projects, ABARES Working Paper 22.02, Canberra, April, DOI: https://doi.org/10.25814/pdwp-6y91. CC BY 4.0.

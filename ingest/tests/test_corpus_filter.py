@@ -1,8 +1,11 @@
+from pathlib import Path
+
 from scraper.corpus_filter import (
     REASON_EMPTY_EXTRACTION,
     doc_title_for,
     is_untitled_title,
     strip_boilerplate,
+    text_path_for_library_row,
     text_similarity,
     token_count,
 )
@@ -51,3 +54,13 @@ def test_near_duplicate_similarity_high() -> None:
 
 def test_empty_extraction_reason_constant() -> None:
     assert REASON_EMPTY_EXTRACTION == "EMPTY_EXTRACTION"
+
+
+def test_text_path_for_rendered_html_row() -> None:
+    row = {
+        "library_kind": "rendered_pdf",
+        "local_path": "data/pdf/rendered/agriculture.gov.au/abares/products/citations.pdf",
+    }
+    output_dir = Path(__file__).resolve().parents[2] / "data"
+    path = text_path_for_library_row(row, output_dir)
+    assert path == output_dir / "text/agriculture.gov.au/abares/products/citations.txt"

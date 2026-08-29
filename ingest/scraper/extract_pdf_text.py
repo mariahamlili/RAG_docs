@@ -12,34 +12,10 @@ from rich.console import Console
 from rich.table import Table
 
 from scraper.config import AppConfig
+from scraper.farm_tiers import is_tier_a
 
 app = typer.Typer(help="Extract text from Farm AI Tier A source PDFs.")
 console = Console()
-
-TIER_A_PREFIXES = [
-    "drought-and-farm-support",
-    "animal-health",
-    "animal-welfare",
-    "crops",
-    "plant-health",
-    "agvet-chemicals",
-    "climate-change",
-    "biosecurity",
-    "biosecurity-trade/pests-diseases-weeds",
-    "biotechnology",
-    "strategy-and-plans",
-    "agriculture-land",
-    "abares/research-topics",
-    "abares/products",
-]
-
-
-def _matches(path: str, prefixes: list[str]) -> bool:
-    return any(path == prefix or path.startswith(f"{prefix}/") for prefix in prefixes)
-
-
-def is_tier_a(topic_path: str) -> bool:
-    return _matches(topic_path or "", TIER_A_PREFIXES)
 
 
 def text_path_for_pdf(pdf_path: Path, output_dir: Path) -> Path:

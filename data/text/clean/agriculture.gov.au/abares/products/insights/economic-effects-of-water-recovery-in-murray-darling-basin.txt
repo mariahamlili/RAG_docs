@@ -1,0 +1,199 @@
+Authors: Linden Whittle, David Galeano, Neal Hughes, Mihir Gupta, Peter Legg, Tim Westwood, Tom Jackson, Steve Hatfield-Dodds
+
+Introduction
+
+Australian farmers manage the most variable rainfall and seasonal conditions in the world, impacting output volumes and key inputs, including the price of irrigation water.
+
+This article provides an overview of the economic effects of water recovery on water prices and the irrigation sector in the southern Murray–Darling Basin (MDB). The analysis uses economic modelling to separate the effects of water recovery from seasonal variations in rainfall and water supply, along with structural changes including shifts in water use to new tree crops and perennial plantings.
+
+It also summarises water recovery progress to date, and summarises available evidence on the relative advantages and disadvantages of different recovery mechanisms such as buybacks, on and off-farm infrastructure upgrades, and rationalisation of irrigation districts.
+
+Key findings include that seasonal conditions are the primary driver of annual variation in water prices, and more frequent dry years are the main cause of the higher water prices observed in recent years. Increases in water demand from high-value perennial plantings have also contributed to trend increases in prices. Direct water buybacks and on-farm infrastructure programs both put upward pressure on water prices, to different degrees, and price effects have grown larger as the total volume of water recovery has increased. Off-farm infrastructure projects and rationalisation are best placed to avoid price effects, but are typically more expensive, and may be difficult to negotiate.
+
+[expand all]
+
+There are good reasons to address over-allocation of water entitlements
+
+As agriculture, industries and communities have grown over time, water use has increased. Lower river flows can cause major environmental problems such as salinity, algae outbreaks, loss of native animals (due to destruction of breeding spots and food resources), and loss of vegetation (which has further impacts on water quality and native species). The most recent Sustainable Rivers Audit (Murray-Darling Basin Authority 2015) assessed 21 of the basin’s 23 catchments as being in either ‘poor’ or ‘very poor’ ecological health.
+
+The aim of the Basin Plan is to bring the natural assets and ecosystems of the Murray–Darling Basin (MDB) back to a healthier and sustainable level while continuing to support farming and other industries, for the benefit of the Australian community (Murray–Darling Basin Authority 2020a). It will take more time before the full environmental benefits of the Basin Plan are realised (Webb at al. 2018), however Despite this, some positive outcomes from environmental flows have been observed so far including improved fish populations, a slowdown in the decline in waterbird numbers, and improvements in the growth and condition of native vegetation (Murray–Darling Basin Authority 2017a).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-image-1-01.png) 
+
+A large volume of water has been recovered for the environment
+
+Water recovery has shifted from buybacks to infrastructure
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-1-01-low-res.png) 
+
+Notes: For infrastructure projects the financial year refers to the contract date. The actual transfer of entitlements may occur in a later financial year. The volume of water recovered is expressed in terms of the long term average annual yield (LTAAY). The estimates do not include water recovered through state projects (160 GL) or water gifted to the Commonwealth (15 GL). Includes water recovered through projects that are a combination of on-farm, off-farm and land purchases.
+
+To date about 1,230 GL of water rights have been purchased from farmers through buyback programs and almost 700 GL has been recovered through infrastructure projects, with around 255 GL through on-farm upgrades.
+
+Effects of different drivers can be complex and difficult to observe
+
+The recovery of water entitlements has reduced the total amount of water available for irrigated agriculture. While those that have voluntarily sold their water entitlements or participated in programs to improve water use efficiency on their farms are compensated, water recovery also has consequences (both positive and negative) for other irrigators and regional communities. This includes impacts on the market price of water and economic impacts for other businesses as a result of changes in irrigated agriculture as a result of water recovery.
+
+Assessing the implications of water recovery is complex, particularly as these changes have occurred at the same time as a shift in climate has increased the number of dry years and reduced rainfall and water availability in the MDB (Goesch et al. 2020). Changes in market conditions have also resulted in increased demand for water from some emerging industries, particularly tree crops. In addition, structural change has been occurring in regional Australia for decades, driven by deep social and economic factors such as individual preferences to live in major cities. Changes in agricultural production methods have also been significant, including technology with reduced labour requirements, with implications for regional economies. These different drivers interact, and make it difficult to precisely determine cause and effect of individual factors.
+
+Water prices have risen for several reasons
+
+The price of water entitlements has increased significantly in recent years (see Figure 2). Key drivers include drought and drier conditions, increased water demand for relatively water-intensive crops such as almonds and cotton, and water recovery. Separating the magnitude of impacts of drought, water recovery and increased demand on prices is important to avoid incorrectly attributing higher prices solely to water recovery.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-2-01-low-res.png) 
+
+Note: Data was cleaned using ABARE price clean methods as described in Sanders et al. (2019) and adjusted for inflation.
+
+Source: BOM national water register, various market reports, and other broker website; ABS Consumer Price Index (2019) (cat. 6401.0).
+
+Variation in rainfall and inflows drives allocation prices
+
+In the short term water market prices are mainly driven by the supply of water allocations, which is largely a function of the volume of water in storage (see Figure 3) (Goesch et al. 2020). For example, reduced rainfall since 2000 and during the Millennium drought has led to significantly lower inflows into rivers and dams (Goesch at al. 2020). As a result, allocation prices increased to unprecedented highs during the peak of the Millennium drought before declining to near zero following the 2011, 2012 and 2017 floods (Figure 3). Prices rose substantially again during the latest drought.
+
+Longer-term increases in water prices have also been driven by a shift in climate conditions including higher average temperatures and lower average rainfall (Cai and Cowan 2008; 2013). These changes have led to a large decrease in river inflows relative to long-run historical conditions. The MDBA estimate a reduction in average River Murray inflows over the last 20 years of almost 50% relative to the preceding 100 years (Murray-Darling Basin Authority 2020b).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-3-01-low-res.png) 
+
+Notes: Price data prior to May 2019 has been cleaned using ABARES price cleaning methods as described in Sanders et al. (2019). Data on or after May 2019 is sourced directly from Waterflow, with no price cleaning applied by ABARES. All price data is adjusted for inflation, and is calculated as a volume weighted average. Storage data after May 2019 is sourced exclusively from the MDBA.
+
+Source: Price data is sourced from Waterflow, the BOM national water register, various market reports and broker websites; ABS Consumer Price Index (2019) (cat. 6401.0). Storage data is from Water NSW, SA Water, Goulburn-Murray Water, and the MDBA.
+
+Demand has increased due to expansion in the area of high value crops
+
+Over the last 14 years there has also been increased demand for irrigation water from some emerging sectors, such as almonds, as the area of tree crops has expanded in response to favourable market conditions. This has put upward pressure on prices. For example, ABARES estimates that current almond demand (relative to 2005–06 demand) has increased allocation prices by $25 per ML, on average. Maturing almonds over the next several years are estimated to increase demand further, raising allocation prices by an additional $15/ML, on average..
+
+Water recovery has also increased prices
+
+Fluctuations in water supply due to seasonal conditions are typically much larger than the volume of water recovered for the environment. However, water recovery does reduce the volume of water available to irrigators each year, and therefore contributes to higher prices to some extent. New modelling undertaken by ABARES (presented here) estimates the effects of water recovery to date on water allocation prices in the southern MDB, controlling for all other factors. Over the period 2005–06 to 2018–19 ABARES estimates that water recovery has increased prices in the southern MDB by an average of $47 per ML (Figure 4, top panel). These impacts on price have increased over the period as the cumulative volume of water recovered has increased (Figure 4).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-4-01-low-res.png) 
+
+Price refers to volume weighted average prices across the southern MDB.
+
+Source: ABARES modelling estimates.
+
+ABARES has also estimated the effect of all water recovery across a mix of ‘dry’, ‘typical’ and ‘wet’ years to be an average of $72/ML (Figure 5). This assumes a repeat of the historical conditions observed over the last 14 years (including rainfall, water storages, and economic conditions). The price effect varies over ‘wet’, ‘dry’ and ‘typical’ years because the portfolio of water entitlements recovered and held by the CEWH is slightly skewed towards lower reliability rights which receive larger allocations in wet years than in drier years. Estimates are thus sensitive to the frequency of wet and dry years and total water supply, as well as to economic conditions.
+
+While water recovery does affect allocation prices, seasonal conditions are still the dominant driver of prices, particularly in dry years. For example, average water prices in dry years are about three times the average price in typical years, with prices $383-$402 more per ML (with and without water recovery).
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-5-02-low-res.png) 
+
+Note: Price refers to volume weighted average prices across the southern MDB. 'Dry years' refer to the three years with lowest allocations (2007, 2008 and 2009), and 'Wet years' refer to the three years with highest allocations (2011, 2013 and 2017). ‘Typical years’ are based on the eight remaining years of 14 between 2006 and 2019.
+
+Scenario assumptions for the ‘current recovery’ estimate as outlined in the text.
+
+Source: ABARES modelling estimates.
+
+Increases in water prices can have complex flow-on effects
+
+Large scale reforms will almost always have flow on effects. In the case of environmental water recovery, many of these flow-on effects stem from higher water prices and reduced agricultural production. They include pecuniary and wealth effects on other irrigators, changes in the profitability and financial viability of irrigation infrastructure, and impacts on local economies and communities.
+
+The wealth effects of higher water prices on irrigation farmers will depend largely on their water entitlement holdings. Irrigators who hold large volumes of entitlement relative to their water use (and are frequently net sellers of water allocations) may benefit from higher water prices, as this increases the value of their entitlements. Farmers with limited entitlement holdings however may be adversely affected, as higher water prices increase their costs and lowers their profitability.
+
+In the short term, higher water prices reduce profit margins associated with the use of water for irrigated production. However, farmers who own water entitlements also have the option to sell allocations in the temporary market, if this is more profitable than using the water for production – particularly in dry years or when output prices are low.
+
+It is likely some irrigators sold water entitlements to the government with a view to continuing as irrigators by purchasing annual water allocations to meet their production needs. This strategy gave irrigators access to the asset value of their water entitlements, but exposed them to additional price risk. This strategy may not have been as profitable as expected as a result of rising water entitlement and allocation prices since 2012–13 (see Figures 2 and 4 above), drier conditions, water recovery and increased demand for tree crops.
+
+Higher water prices may also result in some irrigators selling their entitlements and shifting to dryland farming, disconnecting from their irrigation network. This impacts other irrigators in their district, as the fixed maintenance and operational costs of the network need to be shared across a smaller number of remaining irrigators (referred to as the ‘Swiss cheese’ effect). However, the Productivity Commission (2010) notes that it is not clear that the risk of this occurring is substantial. Furthermore, some irrigators may benefit from others exiting, seeing it as an opportunity to expand their own operations onto neighbouring properties. There are also measures which can be taken to reduce these impacts, such as exit fees on irrigators that choose to disconnect from an irrigation network.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-image-2-01.png) 
+
+Photo: Shutterstock.com
+
+Different water recovery mechanisms have different effects
+
+With about 500GL of water yet to be recovered under the Basin Plan, it is useful to reflect on the effects of water recovery to date and explore the implications these may have for future programs.
+
+Buybacks are the simplest and least expensive, but have flow on effects
+
+By purchasing entitlements at market prices, buybacks are the simplest and least expensive method of recovering water for the environment. However, buybacks reduce the supply of water available for irrigation so therefore increase allocation prices unless there is a proportional reduction in the demand for irrigation water. This is more likely to be the case where irrigators participating in the buybacks do not decommission their irrigation infrastructure.
+
+Also because buybacks are less expensive there is potential to pair buybacks with spending on regional development projects to help ease adjustment pressure on affected communities.
+
+On-farm recovery provides significant benefits to those that participate but are more expensive
+
+Concerns about the flow-on effects of buybacks on regional economies led to a shift towards infrastructure-based recovery, including on-farm upgrade programs since 2012. Participants in these programs receive funds for making changes to their farms that improve water use efficiency in exchange for a portion of their water entitlements.
+
+On-farm infrastructure programs have the potential to generate significant private benefits for recipient farms through higher productivity and profitability. A recent study undertaken by ABARES (Hughes et. al forthcoming) finds that farms participating in the program enjoyed higher water productivity as a result of participating in the program. For example, across all farms that participated in the program, irrigation receipts were estimated to increase by about 25% per ML of water used and per ha of area irrigated.
+
+On-farm recovery has the largest effect on allocation prices
+
+Hughes et al. (forthcoming) also finds that farms participating in on-farm programs increased their water use, on average. For example, across all farms participating in the program, water use was estimated to increase by 23% as a result of the program (with larger increases estimated for broadacre farms where there is more scope to increase irrigated areas). This increase in water use arises because participating farmers can generate higher returns for each ML of water used, increasing their willingness to pay and total water demand. Importantly farmers have to purchase this water from the market as the MDB operates with a cap on total extractions. This ‘rebound effect’ means that on-farm efficiency projects increase allocation prices more than buybacks.
+
+The total volume of water recovered to date is estimated to have increased water prices by an average of $72/ML assuming a repeat of historical conditions (Figure 4). This includes the demand effect of on-farm irrigation infrastructure projects. If the water recovered with on-farm programs had instead been recovered through buybacks, then the total price effect would have been an increase of an average of $63/ML.
+
+The effect on water prices of any future water recovery will be influenced by total volume of recovery, the mix of different approaches used (such as buybacks, on-farm programs, and strategic rationalisation), climate and seasonal conditions, and prevailing market conditions (such as commodity prices) – all of which impact the supply and demand for water. ABARES estimates suggest that the water allocation effect of on-farm irrigation infrastructure projects are likely to be around double that of buybacks, per unit of water recovered.
+
+A further consideration with on-farm infrastructure is the risk of over-investment in irrigation infrastructure. Structural changes imply that higher water allocation prices are expected more often in the southern MDB, which may reduce irrigation activity in some sectors and regions (Gupta et al. 2020). This may result in lower utilisation rates for some newly upgraded irrigation infrastructure, reducing the return on capital compared to other investment opportunities that may have otherwise been undertaken.
+
+Off-farm water recovery has less effect on allocation prices but further opportunities may be limited
+
+Off-farm water recovery projects should have little or no effect on water allocation prices, as only the estimated water saving is transferred to the CEWH, and so there is no reduction in water supply available for irrigation, and water demand is not affected. However, the extent of opportunities and the cost of achieving these per ML is not clear.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-image-3-01.png) 
+
+Photo: Shutterstock.com
+
+Rationalisation of irrigation areas has advantages but can be difficult to implement
+
+One advantage of this approach is that it has minimal effects on water allocation prices since the demand for water allocations is reduced as well as supply of water. Any flow on impacts to downstream sectors or regional economies from the reduced agricultural production are concentrated in a particular region, making it easier to design targeted government assistance.
+
+A disadvantage of this approach is its likely to be more expensive. Rationalisation also requires large and possibly complex negotiations with all affected irrigators in the network. Some individuals may demand higher prices for disconnecting, either because they generate more economic value from irrigation activities or because they wish to secure a higher compensation offer.
+
+Off-farm water recovery has less effect on allocation prices but may be getting harder to find
+
+Off-farm water recovery projects should have little or no effect on water allocation prices, as only the estimated water saving is transferred to the CEWH, and so there is no reduction in water supply available for irrigation, and water demand is not affected. However, the extent of opportunities and the cost of achieving these per ML is not clear.
+
+Conclusions
+
+Water recovered through the Basin Plan is already generating environmental benefits, but it will take some time for the full benefits of water recovery to be realised.
+
+Seasonal conditions are the primary driver of annual variation in water prices, and more frequent dry years are the main cause of the trend towards higher water prices in recent years. ABARES analysis finds, however, that recovering water through buybacks or on-farm irrigation efficiency projects puts upward pressure on water prices, adding an estimated $72 per ML per year to water allocation prices in the southern MDB.
+
+The scale and complexity of the water recovery means that achieving sustainable water use will always involve wider economic effects, including negative consequences for some farms and communities. Buybacks are the least expensive recovery mechanism but can have flow-on effects to regional economies as a result of reduced irrigated agricultural production. Where participating farmers sell entitlements and continue irrigating through purchasing annual water allocations, this puts upward pressure on prices.
+
+Analysis of on-farm infrastructure projects finds participants generate higher returns per ML, providing incentives to purchase and use additional water, and so recovering water through these mechanisms has a larger price effect than buybacks. In contrast, off-farm infrastructure projects and rationalisation are more expensive but are more able to avoid increasing water allocation prices and adverse regional flow on effects, are more easily compensated.
+
+Given the social, economic, and environmental complexity of the Murray-Darling Basin, water policy will never be simple. While it is clear more water will need to be recovered to put Basin industries on a sustainable footing, there are no simple ways to recovery water. It is crucial that policy choices are informed by the best available evidence on likely impacts of different recovery options for regional industries and communities.
+
+![blank](https://www.agriculture.gov.au/sites/default/files/images/water-rec-mdb-image-4-01.png) 
+
+Photo: Shutterstock.com
+
+References
+
+——2020b, Water Efficiency, Canberra., accessed 28 August 2020
+
+——2020c, NSW Basin Pipe project, Canberra., accessed 28 August 2020
+
+——2020d, Surface water purchasing – limited tender, Canberra., accessed 28 August 2020
+
+Cai, W & Cowan, T 2008, Evidence of impacts from rising temperature on inflows to the Murray-Darling Basin, Geophysical Research Letters, Vol. 35, April.
+
+Cai, W & Cowan, T 2013, ‘Southeast Australia autumn rainfall reduction: A climate-change-induced poleward shift of ocean–atmosphere circulation’, Journal of Climate, vol. 26, no. 1, pp. 189–205.
+
+Goesch, T, Legg, P & Donoghoe, M 2020, Murray–Darling Basin water markets: trends and drivers 2002-03 to 2018-19, ABARES research report, Canberra, February, CC BY 4.0.
+
+Gupta, M, Hughes, N, Whittle, L, & Westwood, T 2020, Future scenarios for the southern Murray–Darling Basin, Report to the Independent Assessment of Social and Economic Conditions in the Basin, ABARES research report, Canberra, February, CC BY 4.0.
+
+Hughes, N., Donoghoe, M and Whittle, L. 2020 Farm level effects of on-farm irrigation infrastructure programs in the southern Murray-Darling Basin, The Australian Economic Review (forthcoming).
+
+Murray-Darling Basin Authority 2015, Sustainable Rivers Audit 2, Canberra
+
+——2017a, 2017 Basin Plan Evaluation reports, Canberra
+
+——Authority 2020a, A plan for the Murray-Darling Basin, Canberra, accessed 28 August 2020
+
+Productivity Commission, 2010, Market Mechanisms for Recovering Water in the Murray-Darling Basin, Productivity Commission Research Report, March.
+
+Sheldon, F, 2019, The Darling River is simply not supposed to dry out, even in drought, The Conversation, 16 January 2020.
+
+Southwell, M and Brooks, S, 2018, It will take decades, but the Murray–Darling Basin Plan is delivering environmental improvements, Conversation article.
+
+Wang, Q J, Walker, G, and Horne, A, 2018, Potential impacts of groundwater Sustainable Diversion Limits and irrigation efficiency projects on river flow volume under the Murray–Darling Basin Plan An Independent review, Prepared for the Murray–Darling Basin Authority, October.
+
+Webb, A, Ryder, D, Dyer, F, Stewerdason, M, Grace, M, Bond, N, Ye, Q, Stoffels, R, Watts, R, Capon, S and Wassens, S, 2018, It will take decades, but the Murray Darling Basin Plan is delivering environmental improvements, The Conversation, 1 May 2020
+
+Download the report
+
+ABARES Insights: Analysis of water recovery in the Murray-Darling Basin – PDF [0.69 MB]

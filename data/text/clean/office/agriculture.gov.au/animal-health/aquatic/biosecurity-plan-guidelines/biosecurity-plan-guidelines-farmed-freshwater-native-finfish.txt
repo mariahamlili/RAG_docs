@@ -1,0 +1,1100 @@
+National Biosecurity Plan Guidelines for Farmed Freshwater Native Finfish
+
+Version 1.0, January 2023.
+
+©Commonwealth of Australia 2023
+
+Ownership of intellectual property rights
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 3.0 Australia licence, saved for content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+Creative Commons Attribution 3.0 Australia Licence is a standard form licence agreement that allows you to copy, distribute, transmit and adapt this publication provided you attribute the work. A summary of the licence terms is available from creativecommons.org/licenses/by/3.0/au/deed.en. The full licence terms are available from creativecommons.org/licenses/by/3.0/au/legalcode.
+
+Cataloguing data
+
+This publication is available at www.agriculture.gov.au/agriculture-land/animal/aquatic/biosecurity-plan-guidelines
+
+Postal address GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web agriculture.gov.au
+
+About this publication
+
+Writing group members
+
+Brett Ingram – Victorian Fisheries Authority
+
+Lisa Ryan – Freshwater Native Fish Association
+
+Graeme Bowley – NSW DPI
+
+Tracey Bradley – Agriculture Victoria
+
+Comments were provided by other persons, including industry representatives, during the development of the National Biosecurity Plan Guidelines for Farmed Freshwater Finfish. These contributions are gratefully acknowledged.
+
+Table of Contents
+
+1	General information	1
+
+1.1	Introduction	1
+
+1.2	Scope	1
+
+1.3	How to use these biosecurity guidelines	2
+
+1.4	Freshwater finfish aquaculture sectors	3
+
+1.5	Freshwater finfish aquaculture species	4
+
+1.6	Diseases of significance in freshwater finfish aquaculture	5
+
+1.7	Major pathways for disease transmission	9
+
+2	GENERAL FARM INFORMATION	11
+
+2.1	Enterprise Name	11
+
+2.2	Key Farm Contacts	11
+
+2.3	Enterprise location and features	12
+
+2.4	Facility layout	12
+
+2.5	Production details	15
+
+2.6	Farm biosecurity zones	15
+
+3	BIOSECURITY RISK ANALYSIS	18
+
+3.1	Step 1: Identify hazards	18
+
+3.2	Step 2:  Risk assessment of hazards	18
+
+3.3	Step 3:  Identify risk management measures	21
+
+3.4	Step 4.  Document risk analysis process	21
+
+3.5	Develop or identify associated supporting documentation	22
+
+4	MITIGATION MEASURES TO REDUCE DISEASE TRANSMISSION	23
+
+4.1	Animals	24
+
+4.2	People	26
+
+4.3	Equipment, vehicles and vessels	28
+
+4.4	Water	29
+
+4.5	Feed and wastes	30
+
+5	SUPPORTING MEASURES	32
+
+5.1	Emergency procedures and protocols	32
+
+5.2	Staff Training	33
+
+5.3	Record keeping	34
+
+5.4	Legislative and jurisdictional regulatory requirements	35
+
+5.5	Biosecurity plan monitoring and auditing	35
+
+6	SUPPORTING DOCUMENTS	37
+
+7	References	39
+
+APPENDIX 1. Self-audit checklist example	41
+
+APPENDIX 2. Other resources for biosecurity planning	47
+
+APPENDIX 3.  Biosecurity sign	49
+
+APPENDIX 4. How to write a simple Standard Operating Procedure (SOP)	50
+
+APPENDIX 5. Pre-employment biosecurity declaration template	53
+
+APPENDIX 6. Visitor and contractor biosecurity declaration template	54
+
+APPENDIX 7. Visitor and contractor log template	55
+
+APPENDIX 8. Farm entry conditions for visitors and contractors	56
+
+APPENDIX 9. Emergency response plan template	57
+
+APPENDIX 10. Training record template	62
+
+PART 1 GENERAL INFORMATION
+
+General information
+
+Introduction
+
+Freshwater finfish aquaculture encompasses the (commercial) production of freshwater native finfish species in various farming operations, including open water ponds and cages to enclosed recirculating aquaculture systems. The main species farmed in Australia include Murray cod (Maccullochella peelii), barramundi (Lates calcarifer), silver perch (Bidyanus bidyanus) and jade perch (Scortum barcoo). Several other species are also produced in small quantities (refer to section 1.3 below).
+
+Disease incursions can cause considerable impacts on the production and profitability of aquaculture farms. Not only can disease events cause heavy stock mortalities but fish in poor health have considerably lower growth rates, which increases the time and costs to grow them to a marketable size. Diseased fish also suffer compromised animal welfare, and in some cases, this can lead to changed social perceptions of an industry. Some diseases can disfigure or render the fish unsightly, which reduces their marketability.
+
+Globally, there is increasing risk of significant aquatic animal diseases emerging and spreading due to increasing levels of production, across more locations and involving new species and methods. Increasing movement of seafood, live aquatic animals and associated fishing and aquaculture equipment, both domestically and internationally, is also increasing the risk of diseases spreading. Australia currently has a favorable aquatic animal health status. To maintain this, farmers must work together to implement preventative biosecurity measures, rather than reacting to a disease outbreak.
+
+Biosecurity describes the behaviours, systems and processes put in place to protect farms, the environment and the community from diseases, contaminants and pests. These practices aim to:
+
+reduce the risk of harmful diseases, contaminants, pests or weeds entering a farm
+
+reduce the risk of health issues emerging within the farm
+
+reduce the impacts of disease when it occurs.
+
+Sound biosecurity practices are an essential part of profitable and productive farming systems. Biosecurity practices that minimize disease risks on farm usually cost less than responding to and/or treating a disease outbreak. Moreover, many aquatic animal diseases cannot be effectively treated once established, therefore preventing their entry in the first place is critical. Practicing good biosecurity also has positive effects on farm productivity, animal growth rates and welfare by limiting the impact or spread of a range of diseases that may already be present.
+
+Staff must understand that by preventing disease introduction, or minimizing disease spread, their jobs and ultimately the industry will be protected.
+
+Scope
+
+These guidelines were developed to provide freshwater aquaculture farms with the tools and templates to create an auditable farm biosecurity plan.
+
+These guidelines were developed as part of Fisheries Research and Development Corporation (FRDC) project number 2019-086: Development of a national sector-specific biosecurity plan guideline and template for the farmed freshwater native finfish industry of Australia and in accordance with:
+
+the National Aquaculture Farm Biosecurity Plan: generic guidelines and template (Sub-Committee on Aquatic Animal Health, 2016)
+
+previously published biosecurity plan guidelines and templates for the land-based abalone, oyster hatchery and barramundi industries (Spark et al. 2018a, Spark et al. 2018b, Landos et al. 2019).
+
+How to use these biosecurity guidelines
+
+These guidelines are designed to help freshwater native finfish farmers develop a biosecurity plan for their farm and/or strengthen an existing farm biosecurity plan. These guidelines provide information, templates and resources that will assist a farmer to:
+
+identify and assess biosecurity risks to the farm
+
+develop a biosecurity plan tailored to their farm.
+
+These guidelines identify the major pathways through which pathogens of disease can be transmitted onto, within and from a farm, including animals, water, equipment, feed, people, and wastes.
+
+This will help you assess:
+
+the risks associated with each disease transmission pathway
+
+the biosecurity measures required to minimise the risk(s) of disease transmission
+
+what other supporting documentation needs to be developed for a comprehensive plan, for example standard operating procedures (SOPs).
+
+Farmers also need to consider any additional risks specific to their property or business, and the associated risk management measures. The number and type of biosecurity risks may vary from one farm to another, due to the unique conditions experienced by each farm.
+
+For example:
+
+the size of operation
+
+the type of operation (hatchery, grow-out, recirculating aquaculture system [RAS])
+
+the farm location and layout
+
+the disease status of the region or state/territory
+
+the farm’s proximity to wild fish populations, fish processors and/or other aquaculture sites
+
+the number and type of species farmed
+
+the available resources.
+
+For this reason, farmers should develop their own individual farm biosecurity plan that considers the farm’s uniqueness. Farm biosecurity plans should be practical, simple, and as low cost as possible to achieve the desired outcome.
+
+These guidelines provide supporting documentation that can be tailored to meet farm-specific requirements, including templates and example SOPs (appendices).
+
+Documents, systems, and records that support the biosecurity plan, such as SOPs, do not need to be duplicated within the biosecurity plan, instead they should be referred to within the plan.
+
+Appendix 1 provides a self-audit checklist against which your plan can be assessed; use it to highlight any gaps in your completed plan or to guide its development. Use it regularly to monitor compliance with your completed biosecurity plan and to assess how prepared your business is against potential disease outbreaks.
+
+Symbols used in these guidelines:
+
+R-numbered statements are risk-management measures to implement and document. These measures are auditable.
+
+Other resources to assist with biosecurity planning are provided in Appendix 2, including links to biosecurity plan templates, supporting manuals and guidelines, useful webpages, and links to relevant state government agencies.
+
+Freshwater finfish aquaculture sectors
+
+Freshwater finfish aquaculture broadly encompasses two sectors, the hatchery sector and the grow-out sector (Table 1). The hatchery sector produces juveniles (fingerlings) for both the grow-out sector and for stocking into the wild, while the grow-out sector produces market-size fish for human consumption.
+
+Table 1. Freshwater finfish aquaculture sectors, products and culture systems
+
+Freshwater finfish aquaculture species
+
+The hatchery sector mainly produces golden perch, silver perch and Murray cod, while the grow-out sector mainly produces Murray cod, silver perch and jade perch (also known as barcoo grunter). Over the last decade at least 12 other species have been farmed, mostly in the hatchery sector (Table 2).
+
+As previously mentioned, these guidelines do not cover barramundi, freshwater salmonid species or aquarium species (such as goldfish).
+
+Table 2.  Freshwater finfish aquaculture species produced over the last decade (source: state fisheries agencies)
+
+Note: a Not applicable as hatchery production occurs in brackish water; b Mostly from culture-based fisheries.
+
+Diseases of significance in freshwater finfish aquaculture
+
+The aim of a biosecurity plan is to exclude disease threats from entering, spreading throughout and exiting the farm. This requires knowledge of the diseases that may threaten species grown on farm.
+
+Finfish diseases included on the National list and the freshwater finfish species susceptible to those diseases are summarised in Table 3. Other common endemic diseases of freshwater finfish and their susceptible species are list in Table 4. Note, these lists are not exhaustive, as it is possible that there may be other diseases that:
+
+are rare
+
+only occurs in some areas and not others
+
+only affect a small number of hosts.
+
+The number of hosts a disease affects varies (known as host specificity). Some diseases may only affect one host, whereas others may affect many species. For further information on the diseases of freshwater finfish species refer to the World Organisation of Animal Health Aquatic Code and the relevant species specific literature (for example, Beumer et al. 1982, Molnar and Rohde 1988, Langdon, 1989, Rowland and Ingram 1991, Dove and O’Donoghue 2005, Read et al. 2007, Herbert and Graham 2008, Boys et al. 2012, Bradley et al. 2014, Ingram et al. 2014, Kayansamruaj et al. 2017).
+
+Table 3.  Finfish diseases listed on Australia's National List of Reportable Diseases of Aquatic Animals and their known susceptible farmed freshwater finfish species (excluding barramundi, salmonids and ornamental finfish species)
+
+Note: a Species which have incomplete evidence for susceptibility of epizootic haematopoietic necrosis include golden perch, freshwater catfish, and southern-purple-spotted gudgeon. b No known FFF species means there are no known susceptible farmed freshwater finfish (FFF) species in Australia. However, there may be other species not included within the scope of these guidelines that may be susceptible to the disease, including barramundi and salmonids. c The causative agents of VHS, VER, RSIV, ISKNV and EUS are known to have very broad host ranges. Thus, it is possible these diseases could potentially affect other freshwater finfish species in Australia. d Closely related to the sleepy cod (Oxyeleotris lineolata), Asian marbled goby (Oxyeleotris marmorata) has been shown to be susceptible to both RSIV and ISKNV overseas.
+
+Table 1 was current at the time of publication. For the latest version of the list see Australia’s national list of reportable diseases of aquatic animals.
+
+Table 4.  Other common endemic diseases and parasites of farmed freshwater finfish in Australia
+
+Source:  Beumer et al. 1982, Molnar and Rohde 1988, Rowland and Ingram 1991, Dove and O’Donoghue 2005, Read et al. 2007, Boys et al. 2012, Bradley et al. 2014, Ingram et al. 2014.
+
+Major pathways for disease transmission
+
+Diseases can enter and exit your farm via many different routes. These routes need to be considered to manage the risk of diseases entering the farm, spreading within the farm and leaving your farm.
+
+Pathways that place high levels of pathogens in close contact with susceptible hosts are most likely to result in infectious disease. These high-risk pathways need to be identified and addressed as a priority.
+
+Table 5 and Figure 1 highlight the main pathways through which pathogens and diseases can be transmitted onto, within and from your farm.
+
+Table 5.  Pathways of pathogen and disease transmission onto, within and from aquaculture farms
+
+Note: a including ornamental fish species.
+
+Figure 1. Pathways of pathogen and disease transmission onto, within and from aquaculture farms
+
+GENERAL FARM INFORMATION
+
+This section provides guidance on the enterprise (farm) and infrastructure. It will help you to identify the details of your biosecurity plan and determine how best to manage biosecurity on your farm. You may need to review your biosecurity plan if any changes occur to the farm or its infrastructure.
+
+Enterprise Name
+
+Key Farm Contacts
+
+Table 6 Examples farm contact lists
+
+Enterprise location and features
+
+The map should present:
+
+all major facilities (for example, buildings, roads, ponds, water intake and discharge and nearby towns),
+
+areas (for example, biosecurity zoning)
+
+significant natural features of the location (for example, adjacent waterway and water body names)
+
+other aquaculture enterprises nearby.
+
+Ensure maps are large, clear and legible. An example is provided in Figure 2.
+
+Figure 2.  An example of a farm locality map
+
+Facility layout
+
+Include each building and each system in the map(s), including entry and exit points and major flow patterns (for example, fish movements, and visitor and employee movements) (Figure 3 and Error! Reference source not found.). Identify the life stages (eggs, juveniles and adults) found in each system.
+
+General
+
+The map or diagram should contain the following (as applicable):
+
+site access points for staff and visitors (including contractors)
+
+offices (for staff and visitors) and staff amenities
+
+farm zones (for example, hatchery, nursery, grow-out)
+
+biosecurity zones and restricted areas (for example, quarantine facilities)
+
+site security (including the location of lockable doors and gates)
+
+biosecurity barriers (for example, fencing and biosecurity signage points)
+
+biosecurity stations (for example, boot-change station, foot baths, and hand-wash).
+
+People, equipment and feed
+
+The map or diagram should contain the following (as applicable):
+
+reception points for visitors and contractors
+
+parking areas
+
+equipment, machinery and vehicle storage areas
+
+equipment (for example, nets) and vehicle wash down (disinfection) areas
+
+feed uploading and storage areas
+
+allowed staff movements between different biosecurity zones
+
+vehicle movement patterns and restrictions (entry and exit gates; specify if kept locked).
+
+Stock
+
+The map or diagram should contain the following (as applicable):
+
+movement of stock on, around and off the farm (for example, from hatchery to nursery; harvest to processing etc.)
+
+escape prevention measures (for example, screens on discharge water)
+
+waste disposal areas and routes.
+
+Water infrastructure
+
+The map or diagram should contain the following (as applicable):
+
+water storage and disposal areas such as ponds or reservoirs (for example, evaporation basins, wetlands, irrigation pasture)
+
+the location of water pumps and valves
+
+water supply intake, treatment and discharge routes and isolation points.
+
+Figure 3 An example of a farm layout map
+
+Figure 4 An example of a stock movement diagram
+
+Production details
+
+This may include:
+
+the source(s) and supplier(s) of all new stock (seedstock and broodstock)
+
+the quarantine processes
+
+the breeding cycle
+
+the nursery and grow-out cycles
+
+the harvesting and purging processes
+
+the product, including the species, size and market (for example, farm gate sales and sales to wholesalers)
+
+other farm activities – all production and administrative activities
+
+a staff description – number and areas of responsibility
+
+a description of any associated sites that may be linked to the farm.
+
+Farm biosecurity zones
+
+Farm biosecurity zones represent areas that are both physically (for example, different locations on farm) and functionally separate (for example, hatchery facility, grow-out ponds, purging systems).
+
+These biosecurity zones may have different biosecurity measure(s) (infrastructure and/or sanitary protocols) that prevent transfer of disease between the zones. These areas can be assigned the classifications listed in Table 7.
+
+It is important to prioritise and manage the movement of animals, staff, visitors, equipment, and vehicles between zones. Movements should be ordered from low to high risk. Should movement from a higher risk zone to a lower risk zone be required, ensure a risk assessment is prepared to justify the activity.
+
+Table 7.  Farm biosecurity zone classifications
+
+Figure 5. Restrictions on movement between different biosecurity zones
+
+Risk management measures for consideration:
+
+PART 2 BIOSECURITY PLAN GUIDELINES
+
+This section provides guidelines for developing a farm biosecurity plan.
+
+BIOSECURITY RISK ANALYSIS
+
+Risk analysis is a widely accepted process for:
+
+evaluating biosecurity risks that could negatively impact an enterprise
+
+helping to avoid or mitigate those risks.
+
+The risk analysis process helps focus a biosecurity plan on the highest risks that need the greatest investment to get the maximum protection from these risks.  The four steps involved in the biosecurity risk analysis process are presented in Figure 4.
+
+Figure 4.  Four steps of conducting biosecurity risk analysis.
+
+Step 1: Identify hazards
+
+Identify the hazards (pathogens, pests, etc.) that could potentially adversely affect the health of your stock and farm productivity. These hazards may include:
+
+damaging pathogens that do not occur on the farm and that are best excluded from the farm
+
+pathogens that are known to occur on the farm and that must be managed to mitigate production impacts.
+
+Hazards will vary with location and with the species being farmed and may be a combination of both endemic and exotic pathogens (Table 3 and Table 4). Your farm veterinarian can assist with identifying these hazards.
+
+The outcome of the hazard identification step will be a list of pathogens that will form the basis of the risk assessment undertaken in step 2: Risk assessment of hazards.
+
+Step 2:  Risk assessment of hazards
+
+A risk assessment of the identified hazard is undertaken by assessing two factors:
+
+the likelihood of the hazard entering or occurring on the farm.
+
+the consequence of that hazard entering or occurring on the farm.
+
+Likelihood
+
+The likelihood of the pathogen entering or occurring on the farm can be estimated by considering the pathways necessary for:
+
+the entry and spread of the pathogen
+
+exposure of susceptible stock to the pathogen.
+
+For example, the likelihood of entry and exposure might be ‘certain’ for a pathogen that occurs in untreated intake water, such as Chilodonella spp. Similarly, pathways involving infected live fish have the highest likelihood of entry and exposure because they may carry large quantities of viable pathogen.
+
+The likelihood rating will vary depending on:
+
+the properties of the pathogen
+
+the occurrence of the pathogen outside of the farm (or in nearby farms)
+
+the possible pathways of entry onto the farm.
+
+Likelihood ratings and descriptors are shown in Table 8.
+
+Table 8.  Assessment of hazard likelihood
+
+Consequence
+
+The consequence of the pathogen entering or occurring on the farm can be estimated by considering the impacts of the pathogen on the productivity of your farm. The consequences could include multiple aspects of production. For example:
+
+increased mortality
+
+reduced growth or food conversion
+
+reduced product quality or market access
+
+increased treatment costs.
+
+Consequence ratings and descriptors are shown in Table 9.
+
+Table 9.  Assessment of hazard consequences
+
+Risk estimation
+
+Risk is estimated as a product of likelihood and consequence, which results in a risk rating of 1–25 (Figure 6). Risks are highest when both likelihood and consequence are high; however, risks may be low even if the consequence is ‘catastrophic’, as the likelihood may be ‘remote’ for that pathogen. Similarly, even if likelihood is ‘certain’, the consequence may be ‘insignificant’.
+
+Risk ratings are determined by applying estimates of likelihood (where 1 is remote and 5 is certain) and consequence (where 1 is insignificant and 5 is catastrophic) to a risk estimation matrix (Figure 6).
+
+Figure 5.  Risk estimation matrix (colour code detailed in Table 10).
+
+Note: likelihood and consequence are assessed independently of one another and then multiplied to give the risk estimate. For example, the likelihood of a given hazard occurring is 2 (unlikely) and the consequence of it occurring is 4 (major). Multiplying the likelihood ‘2’ by the consequence ‘4’ gives a risk rating of 8 for that hazard, which equates to a medium risk level (Table 10).
+
+The management response required is based on the overall level of risk. Levels of risk can range from ‘Negligible’ requiring no immediate action (risk levels 1 to 2) to ‘Extreme’ requiring urgent action (risk levels 16 to 25) (Table 10).
+
+Table 10  Risk estimation matrix levels and management responses
+
+Step 3:  Identify risk management measures
+
+Once risk ratings for the identified hazards have been completed, measures (actions) to reduce the risk from these hazards to an acceptable level are identified and prioritised for action (starting with the hazards with the highest risk ratings). The preferred management measure(s) applied to each hazard should be chosen based on practicality, effectiveness and cost.  Management measures may include:
+
+physical (for example, infrastructure and equipment)
+
+procedural (for example, production practices and training)
+
+other supporting measures (for example, signage).
+
+When a management measure is identified, a Standard Operating Procedure (SOP) should be written to detail the exact functioning of the measure. The farm biosecurity plan then only needs to refer to the relevant SOP. This step is described further in Section 4 Mitigation measures to reduce disease transmission routes.
+
+Step 4.  Document risk analysis process
+
+The risk analysis process should be documented so that the hazards considered by the risk analysis, the risk ratings applied to those hazards and the management measures that have been applied, can be easily reviewed as a part of routine biosecurity plan monitoring and audit. An example of how the risk analysis process can be concisely recorded is presented in Table 11.
+
+Table 11.  Example of risk analysis recording
+
+Develop or identify associated supporting documentation
+
+Support risk management measures with appropriate documentation outlining the detailed risk management measures (for example, standard operating procedures [SOPs], checklists, record keeping templates).
+
+For example, the biosecurity plan may identify a risk management measure of thoroughly cleaning and disinfecting equipment before transfer to another biosecurity zone. Appropriate documentation to support this practice may be in the form of a SOP (Appendix 4), which provides step-by-step instructions to complete the task.
+
+These details do not need to be included in the body of the farm biosecurity plan, but instead reference the appropriate supporting documentation, such as a SOP.
+
+MITIGATION MEASURES TO REDUCE DISEASE TRANSMISSION
+
+This section outlines some of the common risk management measures that can be used to reduce the risk of transmission of disease onto, within and from a farm through various risk activity pathways (Figure 1).
+
+Different management measures may be considered for different sectors and culture systems used in freshwater finfish aquaculture (Error! Reference source not found.).
+
+Figure 7.  Different culture systems used in different sectors of freshwater finfish aquaculture
+
+For example, an indoor hatchery may include different biosecurity zones for different activities, including:
+
+broodstock quarantine
+
+broodstock spawning
+
+live feed culture (algae, rotifers and Artemia)
+
+egg incubation
+
+larval and fry rearing.
+
+In contrast, an outdoor aquaculture system may include:
+
+earthen ponds for holding broodstock – these facilities have minimal effluent discharge flows to the environment.
+
+tanks, raceways and earthen nursery ponds for rearing juvenile (fry and fingerlings) fish - these facilities may be in use seasonally and may have variable water exchange.
+
+tanks, raceways, earthen ponds and cages in ponds for growing fish to market size (grow-out) - these facilities may be in use seasonally and may have variable water exchange.
+
+An indoor grow-out recirculation aquaculture system (RAS) grows fish intensively in indoor tanks to market size. Tanks are supplied with recirculated water, which is mostly re-used water treated by mechanical and biological filtration and disinfection (for example by ozonation).
+
+The management measures outlined below may not apply to all types of farms or to all situations. Instead, consider which management measure are most relevant to your enterprise and biosecurity plan.
+
+Animals
+
+Objective:  Minimise the risk of stock and other animal movements introducing and spreading disease.
+
+Stock poses the most significant risk to bringing diseases onto the farm, especially if their health status is unknown. Manage stock introduction and movement carefully to minimise this risk.
+
+Table 12 provides a summary of risk management measures for stock and animal movements. These measures are intended to cover the farming enterprise as a whole.
+
+Table 12.  Risk management measures for stock and animal movement
+
+People
+
+Objective:  Minimise the risk of people movement introducing and spreading disease.
+
+The risk of people introducing disease to your farm is greatest if they have recently visited other farms, or environments potentially containing diseases of concern (including processors and ornamental fish businesses). Contaminated skin, clothing and footwear can all potentially spread disease. Visitors may include suppliers and other service personnel, family and neighbours.
+
+Table 13 provides a summary of risk management measures for staff and visitors. These measures are intended to cover the farming enterprise as a whole.
+
+Table 13.  Risk management measures for staff and visitors
+
+Supporting documentation for managing staff movement can be found in:
+
+Supporting documentation for managing visitors and contractors can be found in:
+
+Equipment, vehicles and vessels
+
+Objective:  Minimise the risk of equipment, vehicle or vessel movement introducing and spreading disease.
+
+Depending on their history of use, contaminated equipment, vehicles or vessels can carry and spread disease agents. Equipment and vehicles pose the greatest risk of disease transfer if used:
+
+used off-site (for example, vehicles returning from other farms and fish processors)
+
+in association with stock, or ornamental or wild fish, especially if these fish are diseased.
+
+Table 14 provides a summary of risk management measures for equipment, vehicles, and vessels.  These measures are intended to cover the farming enterprise as a whole.
+
+Table 14.  Risk management measures for equipment, vehicles and vessels
+
+Water
+
+Objective: Minimise the risk of water introducing and spreading disease
+
+Water can pose a significant risk of disease transfer and spread. The level of risk will depend on the source of the water and whether it carries any diseases. This is particularly important if there are susceptible or host species present in the water, or if the farm intake is close to discharge points from other aquatic enterprises or processors.
+
+Table 15 provides a summary of risk management measures for water. These measures are intended to cover the farming enterprise as a whole.
+
+Table 15.  Risk management measures for water
+
+Feed and wastes
+
+Objective: Minimise the risk of feed and waste introducing and spreading disease
+
+Live and fresh feeds (for example, fish, crustaceans and other aquatic invertebrates), either whole or in pieces, can pose a significant risk of disease transmission and spread. Commercial feeds pose a significantly lower risk as the heat extrusion process inactivates many pathogens of concern.
+
+As mentioned under section 1.6, a number of reportable diseases of finfish, such as epizootic ulcerative syndrome (EUS) and red sea bream iridovirus (RSIV), have a wide host range and should be considered when using live or fresh fish as feed. Non-fish species, such as crustaceans, may have parasites, such as trematodes and nematodes, which can be transferred to the fish upon ingestion.
+
+Freezing live and fresh feeds may kill some pathogens, but others such as viruses (for example, epizootic haematopoietic necrosis virus (EHNV)) are known to be resistant to freezing (Langdon 1989).
+
+Wastes such as processing waste (for example, fish frames and viscera), liquids (for example, blood and washdown water) and effluent (for example, faeces, sludge, biofouling and filters) can also pose a risk of disease transmission and spread on farm.
+
+Table 16 provides a summary of risk management measures for feed and waste. These measures are intended to cover the farming enterprise as a whole.
+
+Table 16.  Risk management measures for feed and waste
+
+SUPPORTING MEASURES
+
+Emergency procedures and protocols
+
+Objective: To ensure emergency procedures and additional biosecurity measures are prepared in case of a suspected emergency animal disease (EAD) or a serious endemic disease (either on the farm or in an adjacent waterway).
+
+Emergency procedures and additional on-farm biosecurity measures may be documented in an emergency response plan (ERP). The ERP should provide clear guidelines on:
+
+When the plan should be activated, including,
+
+the specific trigger points for an emergency animal disease (EAD) alert (for example, mortality rate, abnormal stock behavior)
+
+Who to contact, including,
+
+the key list of emergency contacts
+
+the notification pathways of the business (who to contact and when)
+
+the notification pathways and responsibilities of the jurisdictional authority (who to contact and when)
+
+the emergency animal disease hotline (1800 675 888)
+
+What to do once the plan has been activated, including,
+
+the biosecurity risk management measures that need to be implemented (for example, complete shutdown of farm access, cessation of effluent release, restrictions to stock movement etc.)
+
+the collection, storage and submission of samples for diagnostic testing
+
+the decontamination, destruction and disposal of stock, water, wastes and equipment
+
+Where to find key pieces of information, including,
+
+the quarantine protocols
+
+the location of key response documents and resources (both soft and hard copies) (for example, AQUAVETPLANs, jurisdiction disease response plan(s), farm disease response plan(s)).
+
+Ensure that your ERP is in line with Australia’s Aquatic Veterinary Emergency Plan, AQUAVETPLAN and other jurisdictional requirements.
+
+Your farm emergency plan should also include the procedures to follow in the event of a non-disease emergency that may influence the farm’s biosecurity; for example, a power failure, water treatment failure or natural disaster. This will ensure the farm has clearly identified all responsibilities, notification pathways and other procedures before such an event.
+
+Table 17 Emergency plan risk management measures
+
+Staff Training
+
+Objective: To ensure all farm staff understand the farm’s biosecurity plan and their responsibilities to maintain the farm’s biosecurity to prevent disease entry and spread.
+
+It is important that all farm staff:
+
+understand the farm biosecurity plan
+
+understand their responsibilities for its implementation
+
+are familiar with the work practices and SOPs that support the farm’s biosecurity plan
+
+are able to recognise the signs of ill health in stock
+
+are aware of the major routes of disease transmission onto, within and from the farm.
+
+A training record can be used to document staff training requirements and participation, and to organize staff training inductions and refresher exercises.
+
+Table 18 provides a summary of risk management measures related to staff training.
+
+Table 18 Staff training risk management measures
+
+Record keeping
+
+Objective: To record all information necessary to support good biosecurity practice in accordance with the farm biosecurity plan.
+
+Good record keeping is necessary for auditing farm biosecurity plans and to provide demonstrable proof that biosecurity protocols are being followed.
+
+In the event of a disease outbreak, these records can be used to trace the potential origin of disease, possible extent of its spread within or beyond the farm, identify breakdowns in adherence to biosecurity protocols and consequently, help review and improve farming practices and protocols. Information on the health status of stock will assist in identifying potential emerging disease issues.
+
+At a minimum, the following information should be recorded:
+
+all stock movements, including the origin of the animals and any movements onto, within and from the farm
+
+all stock management and husbandry activities, including stocking densities, feeding rates, growth rates, and grading and harvesting times
+
+the health status of the stock, including:
+
+any changes in health status (for example, behaviour changes, morbidity and mortality)
+
+the results of laboratory disease testing and health certification
+
+the application of treatments or vaccines
+
+water quality observations and measurements
+
+staff and visitor information, including farm entry and exit times, and biosecurity training and inductions.
+
+Table 19 provides a summary of risk management measures related to record keeping.
+
+Table 19 Record keeping risk management measures
+
+Legislative and jurisdictional regulatory requirements
+
+Objective:  Ensure farm practices comply with jurisdictional legislation and license conditions.
+
+There are differences between state and territory legislation, and restrictions on operating aquaculture enterprises. Farm practices must comply with:
+
+relevant agency and jurisdictional legislation (including local, state/territory, and federal governments)
+
+license or permit conditions.
+
+Table 20 provides a summary of risk management measures related to legislative and jurisdictional regulatory requirements. :
+
+Table 20 Regulatory requirement risk management measures
+
+Biosecurity plan monitoring and auditing
+
+Objective:  To demonstrate that the farm biosecurity plan is regularly maintained, reviewed (at least annually), updated as required and audited.
+
+Regular monitoring and auditing of your farm biosecurity plan will ensure that the plan is being maintained as a living document and is continually reviewed and updated based on:
+
+changes in biosecurity risks and threats
+
+ongoing experience and learnings
+
+infrastructure upgrades
+
+changes in farm practices
+
+newly available risk management tools or information
+
+auditing recommendations.
+
+Risk management measures for consideration:
+
+Document control
+
+Document control information and an auditable revision record may be added to the farm biosecurity plan as a footer table. An example of this is provided in Table 21.
+
+Table 21.  Farm biosecurity plan footer for document control and revision information.
+
+Auditing
+
+The farm biosecurity plan should be audited at least annually through both internal and external processes, to ensure the plan being implemented effectively and is improved as appropriate.
+
+All audits, including any deficits or recommendations made by the auditor and the farm’s responses to these, should be recorded.
+
+Risk management measures for consideration:
+
+SUPPORTING DOCUMENTS
+
+Objective:  To provide a list of documents that support implementation of the farm biosecurity plan.
+
+The farm biosecurity plan should include a list of documents describing practices that support the implementation of the plan.  These documents:
+
+may include SOPs, checklists and record-keeping templates
+
+should be readily accessible for review and audit.
+
+Supporting documents do not need to be included in the body of the farm biosecurity plan but should be referred to within the plan (where appropriate). These documents may be kept elsewhere (and made readily available) or included as appendices.
+
+Standard operating procedures
+
+SOPs should be coded to facilitate their identification, review, and auditing. Coding may include the version number and the date of revision.
+
+For example, your farm may have an SOP:
+
+for the farm biosecurity zones
+
+for new employee induction and training
+
+for farm visitors and contractors
+
+for stock arrivals, movements and dispatch
+
+for escapee prevention, inspection and collection
+
+for the management and assessment of stock health status
+
+for collecting and disposing of mortalities and other wastes
+
+for enacting the emergency response plan
+
+for disinfecting equipment and staff
+
+for conducting water quality testing
+
+Checklists and templates
+
+Checklists and templates are essential supporting documents that should be used in association with SOPs, wherever possible. Checklists provide essential evidence that an accountable staff member is following the procedures outlined in the SOP in the correct way and at the correct intervals.
+
+Examples of record-keeping templates include:
+
+a pre-employment biosecurity declaration
+
+a visitor biosecurity declaration
+
+a visitor log
+
+the farm entry conditions for visitors
+
+the staff training record
+
+the mortality and water quality records.
+
+Risk management measures for consideration:
+
+Each individual farm’s biosecurity plan and its effectiveness will directly influence the ability of the farm to withstand an outbreak of a disease and minimise cost of control.
+
+References
+
+Beumer, J.P., Ashburner, L.D., Burbury, M.E., Jetté, E. and Latham, D.J. (1982). A Checklist of the Parasites of Fishes from Australia and its Adjacent Antarctic Territories. Commonwealth Agricultural Bureaux, Slough, England.  99 pp.
+
+Boys, C.A., Rowland, S.J., Gabor, M., Gabor, L., Marsh, I.B., Hum, S. and Callinan, R.B. (2012). Emergence of Epizootic Ulcerative Syndrome in Native Fish of the Murray-Darling River System, Australia: Hosts, Distribution and Possible Vectors. PLoS ONE 7 (4): 1-10.
+
+Bradley, T., McCowan, C., Cohen, S., Ingram, B., Green, C. and Mansell, P. (2014). Improved fish health management for integrated inland aquaculture through Better Management Practices (BMPs). Department of Environment and Primary Industries and the Fisheries Research and Development Corporation, Melbourne. 51 pp.
+
+Dove, A.D.M. and O'Donoghue, P.J. (2005). Trichodinids (Ciliophora: Trichodinidae) from native and exotic Australian freshwater fishes. Acta Protozoologica 44 (1): 51-60.
+
+Herbert, B. and Graham, P. (2008). Tetrahymenosis, columnaris disease and motile aeromonad septicaemia in golden perch, Macquaria ambiqua (Richardson), from Australia. Diseases in Asian aquaculture VI. Fish Health Section, Asian Fisheries Society, Manila: 179-192.
+
+Ingram, B.A., Gooley, G., Bradley, T., Ho, H. and Cohen, S. (2014). Fish health better management practices for Murray cod farming. Version 2.0. Fisheries Victoria Science Report Series No. 5. 67 pp.
+
+Kayansamruaj, P., Rangsichol, A., Dong, H., Rodkhum, C., Maita, M., Katagiri, T. and Pirarat, N. (2017). Outbreaks of ulcerative disease associated with ranavirus infection in barcoo grunter, Scortum barcoo (McCulloch & Waite). Journal of fish diseases 40 (10): 1341-1350.
+
+Langdon, J.S. (1989). Experimental transmission and pathogenicity of epizootic haematopoietic necrosis virus (EHNV) in redfin perch, Perca fluviatilis L., and 11 other teleosts. Journal of Fish Diseases 12 (4): 295-310.
+
+Molnar, K. and Rohde, K. (1988). New coccidians from freshwater fishes of Australia. Journal of Fish Diseases 11: 161-169.
+
+Read, P., Landos, M., Rowland, S. and Mifsud, C. (2007). Diagnosis, Treatment and Prevention of Diseases of the Australian Freshwater Fish Silver Perch (Bidyanus bidyanus). NSW Department of Primary Industries.  81 pp.
+
+Rowland, S.J. and Ingram, B.A. (1991). Diseases of Australian native freshwater fishes with particular emphasis on the ectoparasitic and fungal diseases of Murray cod (Maccullochella peeli), golden perch (Macquaria ambigua) and silver perch (Bidyanus bidyanus). Fisheries Bulletin No. 4. NSW Fisheries, Sydney.  33 pp.
+
+APPENDIX 1. Self-audit checklist example
+
+Infrastructure and facility standards
+
+Personnel standards
+
+Production practices
+
+Documentation and training
+
+APPENDIX 2. Other resources for biosecurity planning
+
+Note: hyperlinks provided in the table above were correct as of October 2022.
+
+APPENDIX 3.  Biosecurity sign
+
+Corflute signs are available for purchase at https://www.farmbiosecurity.com.au/toolkit/
+
+APPENDIX 4. How to write a simple Standard Operating Procedure (SOP)
+
+Standard operating procedures (SOPs) aim to provide simple clear informative step-by-step instructions and checklists to carry out a task/tasks consistently and routinely while minimising misunderstanding and errors.
+
+SOPs are developed using information sourced from a combination of existing literature, anecdotal information and/or in situ learnings.  SOPs typically change over time as a result of continuous improvement and the emergence of new information and technologies from commercial and scientific sources.
+
+The purpose of a SOP may be for biosecurity reasons but may also be for other reasons such as work, health and safety or environmental protection requirements.
+
+Key considerations when writing a SOP
+
+Ensure the SOP is short and concise, but still containing all the necessary information to perform the procedure.  Consider breaking longer SOPs into multiple shorter SOPs.
+
+Where appropriate, use tables, lists, flow diagrams, photos, icons and/or other graphics rather than large blocks of text.
+
+Write in plain English that staff will understand.
+
+Ensure steps in the procedure a follow a logical thought process and are clear (avoid vague statements).
+
+Ensure SOPs and number the steps to complete the procedure.
+
+Components of a SOP
+
+Title:  Should be clear and unambiguous.  For example: Cleaning and Disinfecting Nets.
+
+SOP number:  Consider assigning a brief reference code or number that can be referred to in the farm biosecurity plan and other documents.   For example: SOP-123-V1.0.
+
+Purpose:  The purpose is the reason for having this procedure, what is the aim?  For example: This procedure aims to ensure you nets are properly cleaning and disinfected to minimise the risk of spreading disease on the farm.
+
+Definitions:  If required, include definitions of any technical terms or acronyms that may not be understood by staff.
+
+Precautions:  Clearly describe any activities that must be avoided while undertaking the procedure, for example:  For example, equipment and animals must not leave the affected area.
+
+Occupational health and safety.  Consider hazards to the health, safety and wellbeing of staff.  For example, follow manufacturer’s guidelines for storing and using chemicals described in the procedure.
+
+Welfare risks.  Consider the risk to stock.  For example, Maintain and monitor dissolved oxygen concentration when treating fish with formalin.
+
+Staff responsibilities:  List staff member(s) and what they are required to do.
+
+For example:
+
+Procedure details:  List the activities and tasks that make up this procedure, as well as any checklists staff members need to use.  These can be numbered in a logical order.  For example:
+
+Cease all activity including feeding, cleaning or stock movement.
+
+Check water quality parameters such as flow, DO, temperature.
+
+Secure the area to prevent access by unnecessary personnel, and to prevent movement of equipment, or stock.
+
+Assess the extent of the situation. How many tanks are affected? What is the proportion of sick or dead animals? Are there any obvious disease signs?
+
+Training and supervision:  Describe what training and supervision is required for staff to undertake the procedure.  For example:  Staff required to have completed biosecurity training.
+
+Further information:  Include supporting information, related documents and SOPs, and cross-references to the relevant sections of the farm biosecurity plan.
+
+Document control:  Include document control information to ensure the SOP remains relevant and appropriately updated and auditable.
+
+Example SOP template
+
+APPENDIX 5. Pre-employment biosecurity declaration template
+
+I, …………………………………………………………………………………………… hereby agree to abide by 
+MY EMPLOYER’S BIOSECURITY rules and standards.
+
+I understand the following applies at all times:
+
+I must:
+
+attend work in clean, laundered clothes
+
+only enter those areas of the farm I am approved to access
+
+follow a one-directional flow of work (from low-risk to high-risk zones) if required to enter more than one zone during daily work
+
+immediately report any biosecurity breaches to management
+
+immediately report any suspicion of disease to management.
+
+I must not:
+
+visit other aquaculture sites or seafood processors for 24 hours before entering the farm unless I have had a full head-to-toe shower and changed into clean, laundered clothes and shoes
+
+wear or take boots outside their designated production area
+
+move any zone-specific equipment to any other zone.
+
+Signature ……………………………………………………………… Date ……………………………………
+
+APPENDIX 6. Visitor and contractor biosecurity declaration template
+
+Biosecurity Declaration
+
+To be completed by all visitors and contractors prior to entering………………………………………..
+
+Are you entering production areas of the farm?
+
+Yes	□ (go to question 2)	No	□ (go to signature section)
+
+Have you been in contact with any aquaculture enterprise or the aquatic environment in the previous 24 hours (including recreational fishing, seafood processors and water sports/activities)?
+
+Yes	□ (go to question 3)	No	□ (go to question 4)
+
+Have you had a head-to-toe shower and changed into clean clothes and shoes?
+
+Yes	□ (go to question 4) 	No	□ (postpone no-essential visit, or manager to assess risk before granting access)
+
+Are you bringing any equipment, fish feed, dive gear or fishing gear onto the farm?
+
+Yes	□ (go to question 5)	No	□ (go to signature section)
+
+Have equipment and other items been sanitised to eliminate fish pathogens?
+
+Yes	□ (go to signature section)	No	□ (stop equipment entry onto farm, or manager to assess risk before granting access)
+
+I ……………………………………………………………. agree to abide by the entry conditions for visitors.
+
+Signature ……………………………………………………………… Date ……………………………………
+
+APPENDIX 7. Visitor and contractor log template
+
+Visitor and contractor log
+
+To be completed by all visitors and contractors upon entry and exit.
+
+APPENDIX 8. Farm entry conditions for visitors and contractors
+
+Entry to this farm is subject to the following conditions:
+
+APPENDIX 9. Emergency response plan template
+
+An emergency response plan aims to minimise the impact of emergency biosecurity incidents.  The plan template, below, outlines employee actions and responsibilities to be undertaken in the event that an emergency fish disease is suspected in the farm.
+
+Define the trigger to execute the emergency response plan.
+
+Farm Licence conditions commonly use terminology such as ‘unusually high, unexplained mortality’ to define triggers for an emergency response. Triggers need to be defined for the individual farm areas, as triggers may differ according to fish size. Triggers may include increased daily mortality rate (above a specific level), abnormal stock behaviour, and/or certain clinical signs such as red spots on the body surface.
+
+Important contacts
+
+Include contacts appropriate to your farm.  The table below contains some examples.
+
+Notifications and responsibilities
+
+When this plan is triggered, employees must immediately implement the following practices.  Note that all staff should have capacity to elevate their concerns about a major disease outbreak
+
+Sample collection, packaging and dispatch
+
+Collect, package and submit samples for pathology as the relevant authority directs.
+
+Document which staff members have been trained in sample collection and packaging.
+
+Sample collection
+
+Follow these guidelines when submitting fresh samples:
+
+Contact the farm veterinarian and relevant laboratory to discuss sample collection (what samples to collect and how) and notify them of proposed shipment
+
+Collect and submit samples of live stock that are typically sick (preferably moribund).  Do not sample animals that are already dead unless specifically requested to do so.
+
+When live samples cannot be readily transported to the laboratory, collect and submit
+
+Freshly killed sick fish sent on ice immediately to the laboratory (do not freeze samples) (fish that have been dead for as little as 24 hours are unlikely to yield a diagnosis)
+
+Samples preserved in 10% neutral buffered formalin (do not freeze the formalin-preserved samples) or the fresh samples sent in individual plastic bags on ice.
+
+Collect and freeze separate samples if requested to do so
+
+Submit both sick and healthy stock separately, in separate, labelled containers (do not mix ‘healthy’ specimens with sick specimens).
+
+Sample labelling
+
+Ensure that all submitted samples are separately labelled (unlabeled samples are unacceptable)
+
+Labels must:
+
+be legible
+
+remain attached to sample containers (cannot fall off)
+
+do not fade and cannot be smeared, washed off, or rubbed off.
+
+Labels should include:
+
+Farm descriptor (for example, name or license number and address)
+
+Contact details
+
+Date
+
+A description relating the samples such as contents of the consignment (species, numbers, and method of preservation), history of the disease event (when, where, which stock were affected) and previous case number (if previous submissions have been sent to the laboratory)
+
+Packaging samples
+
+Carefully pack samples to avoid breakage, leakage or contamination (multiple layers of sealed packaging must be used)
+
+Place samples in non-breakable, leak-proof containers (do not use glass jars)
+
+Pack samples in appropriate transport containers (for example, a disposable poly box or foam esky) together with enough paper or other absorbent material to soak up any leakage.
+
+Sample submission
+
+Submit samples as soon as possible following collection.
+
+Notify (by phone) the laboratory that a shipment of samples is being sent and provide courier details, if possible, to allow tracking information
+
+Submission details:
+
+Name of state or territory laboratory
+
+Address that samples are being submitted too
+
+Contact number of laboratory liaison or case manager
+
+Name and contact number of the transport courier.  Transport may be arranged directly through the relevant authority or laboratory (ensure these arrangements are clear in this plan).
+
+Stock destruction, disposal and quarantine protocols
+
+Insert stock destruction and disposal protocol information.
+
+For example:  In the event that this emergency response plan is triggered, dead stock are rapidly collected into double-lined fish bins (or equivalent), transported to the approved onsite burial site and immediately covered over.  Do not return dead stock to the environment.  Do not let scavengers have access to dead stock.
+
+The AQUAVETPLAN has manuals that provide guidelines for destruction of stock in a disease event, and disposal methods (www.agriculture.gov.au/animal/aquatic/aquavetplan)
+
+Disposal options need to be considered in this plan that account for the volume of stock (based on farm size) for which disposal may be required.  See AQUAVETPLAN – Operational procedures manual – Disposal (https://www.agriculture.gov.au/animal/aquatic/aquavetplan/disposal) for further information.
+
+Insert details of quarantine protocols, including isolation and disinfection, or reference a farm-specific quarantine SOP.
+
+Key response plans
+
+Insert the details of any other response plans or documents for other freshwater finfish diseases if applicable.
+
+If viral encephalopathy and retinopathy (nodavirus) is identified, the farm will refer to:
+
+the requirements of AQUAVETPLAN – Disease Strategy Manual – Viral encephalopathy and retinopathy (available at https://www.agriculture.gov.au/animal/aquatic/aquavetplan/viral-encephalopathy-retinopathy) (include the electronic and/or physical location on site)
+
+any specific state or territory emergency response documents (insert their electronic and/or physical location on site)
+
+directions from the relevant authority.
+
+APPENDIX 10. Training record template
+
+Training Record
+
+Employee name: __________________________   Position: _________________________________
+
+Minimum training requirements:
+
+Farm biosecurity plan: __________________________________________________________
+
+Emergency response plan: _______________________________________________________
+
+Job-specific SOPs: ______________________________________________________________
+
+Other: _______________________________________________________________________

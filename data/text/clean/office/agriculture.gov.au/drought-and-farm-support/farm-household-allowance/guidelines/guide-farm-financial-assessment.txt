@@ -1,0 +1,3325 @@
+Farm Financial Assessment guide
+
+© Commonwealth of Australia 2025
+
+Ownership of intellectual property rights
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+Cataloguing data
+
+This publication is available at Farm Household Allowance and financial assessment guidelines - DAFF.
+
+GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web agriculture.gov.au
+
+Email: FHA@aff.gov.au
+
+Acknowledgement of Country
+
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, and recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, fisheries and forestry industries.
+
+Tables
+
+Table 1 - Performance Indicators Help Text	103
+
+Figures
+
+Figure 1 Screenshot of Services Australia homepage - search function	14
+
+Figure 2 Screenshot of Farm Financial Assessment hyperlink	14
+
+Figure 3 Screenshot of where to sign in to myGov	14
+
+Figure 4 Screenshot of accessing FFA through Centrelink online account.	14
+
+Figure 5 Screenshot of FFA dashboard Parts A to D	15
+
+Figure 6 Screenshot of session time out notification	16
+
+Figure 7 Screenshot of where to select continue at end of each step to save progress	16
+
+Figure 8 Screenshot of part A steps	17
+
+Figure 9 Screenshot asking what were the factors contributing to your decision to apply for Farm Household Allowance?	18
+
+Figure 10 Screenshot asking did any of the following contribute to the low livestock numbers or sales?	19
+
+Figure 11 Screenshot asking what other factors contributed to the low livestock numbers or sales?	19
+
+Figure 12 Screenshot of where to add details of each farm business	21
+
+Figure 13 Screenshot asking what is the registered business name of this farm business?	21
+
+Figure 14 Screenshot asking what is the structure of the farming business?	22
+
+Figure 15 Screenshot asking in addition to your farm business activities, are you involved in other related business?	23
+
+Figure 16 Screenshot asking where to provide a description of this other activity or indicate if there is no other related business	23
+
+Figure 17 Screenshot asking the total area of land currently operated by this farm business, how much, in hectares, is – provide answer	24
+
+Figure 18 Screenshot of where to add details of each farm business summary table	24
+
+Figure 19 Screenshot asking where to add details of livestock, crops or aquaculture activities on the farm	25
+
+Figure 20 Screenshot asking what group best describes this activity?	25
+
+Figure 21 Screenshot asking what class best describes this activity?	28
+
+Figure 22 Screenshot asking how many hectares are currently under crop?	29
+
+Figure 23 Screenshot asking how many hectares, in an average year, would be under crop?	29
+
+Figure 24 Screenshot asking how many tonnes, per hectares, will this yield for the current year?	29
+
+Figure 25 Screenshot asking how many tonnes, per hectare, would this yield in an average year?	30
+
+Figure 26 Screenshot asking what is the current head of livestock on the farm?	30
+
+Figure 27 Screenshot asking what is the average (year in year out) head of livestock on the farm?	30
+
+Figure 28 Screenshot asking what is the yield you expect in the current year?	31
+
+Figure 29 Screenshot asking what is the yield in an average year?	31
+
+Figure 30 Screenshot of how to provide details of livestock, crops or aquaculture farm activities summary table	32
+
+Figure 31 Screenshot asking on average, how many hours do you work on the farm business per week?	33
+
+Figure 32 Screenshot asking on average, how many weeks of vacation do you take each year?	33
+
+Figure 33 Screenshot asking how many households are supported by your farm business?	35
+
+Figure 34 Screenshot asking is your household supported by off-farm income?	35
+
+Figure 35 Screenshot asking how much gross income from off-farm wages or salaries will they receive for 2024-25 financial year?	35
+
+Figure 36 Screenshot asking how many hours per week, on average, is the work?	36
+
+Figure 37 Screenshot asking net income from other businesses received for the 2024-25 financial year?	36
+
+Figure 38 Screenshot asking how many hours per week, on average, is the work?	36
+
+Figure 39 Screenshot asking how much net income from other investments will they receive for the 2024-25 financial year?	37
+
+Figure 40 Screenshot asking how much gross income from off-farm wages or salaries do they receive in an average year?	37
+
+Figure 41 Screenshot asking how many hours per week, on average, is the work?	37
+
+Figure 42 Screenshot asking how much net income from other businesses do they receive in an average year?	38
+
+Figure 43 Screenshot asking how many hours per week, on average, is the work?	38
+
+Figure 44 Screenshot asking how much income from other investments do they receive in an average year?	38
+
+Figure 45 Screenshot of summary table of off-farm income received	39
+
+Figure 46 Screenshot asking have you received any income from the government in the last 5 years?	39
+
+Figure 47 Screenshot of details of government income received in last 5 years	39
+
+Figure 48 Screenshot asking what is the type of income received?	40
+
+Figure 49 Screenshot asking what is the name of this income?	40
+
+Figure 50 Screenshot asking who is the provider of this income?	40
+
+Figure 51 Screenshot asking who has received this income?	41
+
+Figure 52 Screenshot asking how much did you receive?	41
+
+Figure 53 Screenshot of government income received in last 5 years summary table	41
+
+Figure 54 Screenshot asking does your farm business have a business plan?	42
+
+Figure 55 Screenshot asking when was the business plan developed?	42
+
+Figure 56 Screenshot asking do you use the business plan in your decision making about the farm business?	42
+
+Figure 57 Screenshot asking how regularly is the business plan reviewed?	43
+
+Figure 58 Screenshot asking how many years have you been farming as an owner and/or manager?	44
+
+Figure 59 Screenshot asking how many years have you lived on the current farm?	44
+
+Figure 60 Screenshot asking what is your preferred occupation 10 years from now?	45
+
+Figure 61 Screenshot of declaration and agreement to submit Part A assessment	45
+
+Figure 62 Screenshot of one-time access code log in	46
+
+Figure 63 Screenshot of production impacts - financial assessor requirements	47
+
+Figure 64 Screenshot of part B steps	47
+
+Figure 65 Screenshot asking have you applied changes to your production to try and improve your profitability?	49
+
+Figure 66 Screenshot asking what changes have you applied to your production to try and improve your profitability?	49
+
+Figure 67 Screenshot asking how did you try to improve your profitability?	50
+
+Figure 68 Screenshot asking did you use the activity supplement to support changes?	50
+
+Figure 69 Screenshot asking how important was the activity supplement to support the changes?	50
+
+Figure 70 Screenshot of environmental issue/s that adversely affected your farm	51
+
+Figure 71 Screenshot asking what was the farm adversely affected by?	51
+
+Figure 72 Screenshot asking in hectares, what size was affected?	52
+
+Figure 73 Screenshot asking was the remediation successful?	52
+
+Figure 74 Screenshot of Environmental issue/s that adversely affected your farm summary table	52
+
+Figure 75 Screenshot of climate and weather conditions in each of the last 10 years	53
+
+Figure 76 Screenshot asking what best describes the climate and weather conditions?	53
+
+Figure 77 Screenshot asking to select the years the climate and weather conditions were impacted	54
+
+Figure 78 Screenshot of climate and weather conditions in each of last 10 years summary table	54
+
+Figure 79 Screenshot of natural disaster effects on your production in last 10 years	55
+
+Figure 80 Screenshot asking what event in the last 10 years was the farm affected by?	55
+
+Figure 81 Screenshot asking to select the years the event impacted the farm	56
+
+Figure 82 Screenshot of natural disaster effects on production in the last 10 years summary table	56
+
+Figure 83 Screenshot of practices applied to farmland to improve drought and natural disaster resilience	56
+
+Figure 84 Screenshot asking what practices did you apply to improve your drought and natural disaster resilience?	57
+
+Figure 85 Screenshot asking what is the total number of hectares affected?	57
+
+Figure 86 Screenshot asking to select the year(s) the practice was applied	57
+
+Figure 87 Screenshot of practices you applied to improve your drought and natural disaster resilience summary table	58
+
+Figure 88 Screenshot of natural resource management techniques or practices applied to improve drought and natural disaster resilience	58
+
+Figure 89 Screenshot asking what natural resource management techniques or practices did you apply to improve drought and natural disaster resilience?	58
+
+Figure 90 Screenshot asking what is the total number of hectares affected?	59
+
+Figure 91 Screenshot asking to select the year(s) the practice was applied	59
+
+Figure 92 Screenshot of drought and natural resource management techniques summary table	59
+
+Figure 93 Screenshot of the value of the farm business assets and personal assets table	61
+
+Figure 94 Screenshot asking what is the type of asset?	62
+
+Figure 95 Screenshot asking what is the type of livestock?	63
+
+Figure 96 Screenshot asking how many livestock are there?	63
+
+Figure 97 Screenshot asking how to provide a brief description of the asset.	63
+
+Figure 98 Screenshot asking what is the current market value of this asset?	63
+
+Figure 99 Screenshot of value of the farm business assets and additional assets	64
+
+Figure 100 Screenshot of how to add or edit any farm debt	64
+
+Figure 101 Screenshot asking what is the category of debt?	65
+
+Figure 102 Screenshot of where to provide details of the liabilities.	65
+
+Figure 103 Screenshot asking what is the total balance of the debt owing?	65
+
+Figure 104 Screenshot asking what is the next minimum repayment due?	65
+
+Figure 105 Screenshot asking what is the total repayment amount due in the next 12 months?	66
+
+Figure 106 Screenshot asking is the debt secured?	66
+
+Figure 107 Screenshot asking what is the interest rate?	66
+
+Figure 108 Screenshot asking what is the repayment and interest type?	67
+
+Figure 109 Screenshot of the farm debt summary table	67
+
+Figure 110 Screenshot of personal debt that you and/or partner may have	67
+
+Figure 111 Screenshot asking what is the category of debt?	68
+
+Figure 112 Screenshot of where to provide details of the liabilities	68
+
+Figure 113 Screenshot asking what is the total balance of the debt owing?	69
+
+Figure 114 Screenshot asking what is the next minimum repayment due?	69
+
+Figure 115 Screenshot asking what is the total repayment amount due in the next 12 months?	69
+
+Figure 116 Screenshot asking is the debt secured?	70
+
+Figure 117 Screenshot asking what is the interest rate?	70
+
+Figure 118 Screenshot asking what is the repayment and interest type?	70
+
+Figure 119 Screenshot of personal debt you and/or your partner have summary table	71
+
+Figure 120 Screenshot of farm income sources	72
+
+Figure 121 Screenshot asking what is the type of farm income?	74
+
+Figure 122 Screenshot asking what was the full amount for the 2021-22 financial year for this income type?	74
+
+Figure 123 Screenshot asking what was the full amount for the 2022-23 financial year for this income type?	75
+
+Figure 124 Screenshot asking what was the full amount for the 2023-24 financial year for this income type?	75
+
+Figure 125 Screenshot of farm income sources summary table	75
+
+Figure 126 Screenshot of administrative expense sources	76
+
+Figure 127 Screenshot asking what is the type of administrative expense?	77
+
+Figure 128 Screenshot asking what was the full amount for the 2021-22 financial year for this administrative expense type?	77
+
+Figure 129 Screenshot asking what was the full amount for the 2022-23 financial year for this administrative expense type?	77
+
+Figure 130 Screenshot asking what was the full amount for the 2023-24 financial year for this administrative expense type?	78
+
+Figure 131 Screenshot of administrative expenses sources summary table	78
+
+Figure 132 Screenshot of production expense sources	78
+
+Figure 133 Screenshot asking what is the type of production expense?	80
+
+Figure 134 Screenshot asking what was the full amount for the 2021-22 financial year for this production expense type?	80
+
+Figure 135 Screenshot asking what was the full amount for the 2022-23 financial year for this production expense type?	80
+
+Figure 136 Screenshot asking what was the full amount for the 2023-24 financial year for this production expense type?	81
+
+Figure 137 Screenshot of production expense sources summary table	81
+
+Figure 138 Screenshot of farm debt sources	81
+
+Figure 139 Screenshot asking what is the category of debt?	82
+
+Figure 140 Screenshot asking what was the full amount for the 2021-22 financial year for this debt type?	82
+
+Figure 141 Screenshot asking what was the full amount for the 2022-23 financial year for this debt type?	83
+
+Figure 142 Screenshot asking what was the full amount for the 2023-24 financial year for this debt type?	83
+
+Figure 143 Screenshot of farm debt sources summary table	83
+
+Figure 144 Screenshot of personal income sources that you and/or your partner have	84
+
+Figure 145 Screenshot asking what is the type of personal income?	85
+
+Figure 146 Screenshot asking what was the full amount for the 2021-22 financial year for this income type?	85
+
+Figure 147 Screenshot asking what was the full amount for the 2022-23 financial year for this income type?	85
+
+Figure 148 Screenshot asking what was the full amount for the 2023-24 financial year for this income type?	86
+
+Figure 149 Screenshot of personal income sources summary table	86
+
+Figure 150 Screenshot of personal expenditure sources	86
+
+Figure 151 Screenshot asking what is the type of personal expenditure?	87
+
+Figure 152 Screenshot asking what was the full amount for the 2021-22 financial year for this expenditure type?	87
+
+Figure 153 Screenshot asking what was the full amount for the 2022-23 financial year for this expenditure type?	88
+
+Figure 154 Screenshot asking what was the full amount for the 2023-24 financial year for this expenditure type?	88
+
+Figure 155 Screenshot of personal expenditure sources summary table	88
+
+Figure 156 Screenshot of personal debt sources	89
+
+Figure 157 Screenshot asking what is the category of debt?	89
+
+Figure 158 Screenshot asking what was the full amount for the 2021-22 financial year for this debt type?	90
+
+Figure 159 Screenshot asking what was the full amount for the 2022-23 financial year for this debt type?	90
+
+Figure 160 Screenshot asking what was the full amount for the 2023-24 financial year for this debt type?	90
+
+Figure 161 Screenshot of personal debt sources summary table	90
+
+Figure 162 Screenshot of other business income sources	91
+
+Figure 163 Screenshot asking what is the type of other business income?	92
+
+Figure 164 Screenshot asking what was the full amount for the 2021-22 financial year for this income type?	92
+
+Figure 165 Screenshot asking what was the full amount for the 2022-23 financial year for this income type?	93
+
+Figure 166 Screenshot asking what was the full amount for the 2023-24 financial year for this income type?	93
+
+Figure 167 Screenshot of other business income sources summary table	93
+
+Figure 168 Screenshot of other business expenditure sources	94
+
+Figure 169 Screenshot asking what is the type of other business expenditure?	95
+
+Figure 170 Screenshot asking what was the full amount for the 2021-22 financial year for this expenditure type?	96
+
+Figure 171 Screenshot asking what was the full amount for the 2022-23 financial year for this expenditure type?	96
+
+Figure 172 Screenshot asking what was the full amount for the 2023-24 financial year for this expenditure type?	96
+
+Figure 173 Screenshot of other business expenditure sources summary table	97
+
+Figure 174 Screenshot of other business debt sources	97
+
+Figure 175 Screenshot asking what is the category of debt?	98
+
+Figure 176 Screenshot asking what was the full amount for the 2021-22 financial year for this debt type?	98
+
+Figure 177 Screenshot asking what was the full amount for the 2022-23 financial year for this debt type?	99
+
+Figure 178 Screenshot asking what was the full amount for the 2023-24 financial year for this debt type?	99
+
+Figure 179 Screenshot of other business debt sources summary table	99
+
+Figure 180 Screenshot of the source of farm business receipts	100
+
+Figure 181 Screenshot of the consolidated farm income, operating costs and debt	101
+
+Figure 182 Screenshot of consolidated personal income, operating costs and debt	101
+
+Figure 183 Screenshot of consolidated other business income, operating costs and debt	102
+
+Figure 184 Screenshot of the financial assessor declaration statement for Part B	102
+
+Figure 185 Screenshot of the performance indicators - ideal thresholds	106
+
+Figure 186 Screenshot asking considering the applicants overall financial situation, what are their strengths	108
+
+Figure 187 Screenshot asking considering the applicants overall financial situation, what are their weaknesses	108
+
+Figure 188 Screenshot asking considering the applicants overall financial situation, what are their opportunities	109
+
+Figure 189 Screenshot asking considering the applicants overall financial situation, what are their threats	109
+
+Figure 190 Screenshot of Factor 1	110
+
+Figure 191 Screenshot of Factor 2	110
+
+Figure 192 Screenshot of Factor 3	110
+
+Figure 193 Screenshot of Factor 4	111
+
+Figure 194 Screenshot of Factor 5	111
+
+Figure 195 Screenshot of the financial assessor Part C declaration and submission	111
+
+Figure 196 Screenshot asking what trends in income, profit or expenditure have contributed to the farm’s financial situation?	112
+
+Figure 197 Screenshot asking how to discuss the profitability issues of the farm business and opportunities for improvement	113
+
+Figure 198 Screenshot asking how to discuss the liquidity issues of the farm business and opportunities for improvement	113
+
+Figure 199 Screenshot asking how to discuss the financial stability issues of the farm business and opportunities for improvement	114
+
+Figure 200 Screenshot asking would the business benefit from changes to the business lines (commodities)?	114
+
+Figure 201 Screenshot asking does the applicant need to obtain additional income from outside the farm to achieve financial security?	115
+
+Figure 202 Screenshot asking what other issues has the applicant identified?	115
+
+Figure 203 Screenshot asking are there other issues relevant to the applicant's circumstances?	116
+
+Figure 204 Screenshot asking what type of additional professional training, advice or support do you think may improve the FHA recipient’s ability to make business decisions?	118
+
+Figure 205 Screenshot of how to provide further details on the other professional advice or training	118
+
+Figure 206 Screenshot asking for name of the organisation	119
+
+Figure 207 Screenshot asking for name of the financial assessor	119
+
+Figure 208 Screenshot asking for Australian Business Number (ABN) of the organisation	119
+
+Figure 209 Screenshot asking for postal address of the organisation	120
+
+Figure 210 Screenshot asking for contact phone number	120
+
+Figure 211 Financial assessor declaration statement.	120
+
+Introduction
+
+The package of Farm Household Allowance (FHA) assistance is designed to focus a farmer’s attention on making improvements to their finances. In addition to a fortnightly payment, there is practical help to make changes. FHA will not solve all the problems, but it will connect farmers with the specialists to help them to succeed, plan their succession, or make the difficult decision to sell.
+
+The purpose of this guide is to assist farmers and their financial assessor to accurately complete a comprehensive assessment of the financial position of a farm enterprise and any associated businesses – this is called a Farm Financial Assessment (FFA). At its most basic, the FFA is an objective professional assessment to help the move the farmer out of hardship.
+
+The FFA:
+
+collects the farm’s gross and net position using the last three financial years
+
+shows how funds flow through the business by organising the data into tables
+
+demonstrates the size and scale of the business, including the capital and labour inputs
+
+captures the farmer’s wishes for their future
+
+reflect drivers of hardship and show if they are entrenched or transitory
+
+give the farmer an indication of the measures that would be required to overcome the hardship/s and move the business to on-going financial self-sufficiency.
+
+The guide takes a stepped approach to give users an end-to-end view of the process. It gives context to each section, with explanations about the request, and how it links to the assessment.
+
+The FFA is one of the foundations of case management. It allows the farmer and their partner (either domestic and/or business) to quickly understand which overheads are absorbing the greatest amount of income, and which commodities are showing the strongest return for the investment.
+
+The role of the financial assessor is to use their financial expertise to convert the raw information into suggested pathways to financial self-reliance. The farmer can use this information (combined with any other data or material) to make decisions about their short, medium and long-term future.
+
+A key feature of the FFA is to present each portion of information in logical summaries to use the past to project future pathways. Therefore, the information a person has prepared for their taxation lodgement is transferred to the FFA parts. Limitations with data exchange mean it is not possible to automatically update an FFA from the Australian Taxation Office. Also much of the detail is prepared for lodgement, but is not required to be lodged and therefore is unavailable for a data exchange.
+
+The farmer uses the forward projections and ideas to develop an activity plan called a Financial Improvement Agreement (FIA) with a Services Australia Farm Household Case Officer (FHCO). Each FIA has activities aim to improve the farmer’s circumstances. This may be by acquiring new skills, undertaking training or education, or seeking guidance from a professional a solicitor, financial advisor, agronomist, or a farm consultant (this list is not exhaustive). The strengths, weaknesses, opportunities and threats analysis in the FFA, plus the free text area where the financial assessor outlines possible pathways are key to defining the activities.
+
+FFAs need to be accurate, relevant and meaningful. A key focus of FFAs is to ensure:
+
+farm business details are recorded accurately
+
+all financial tables are completed accurately
+
+answers in the qualitative analysis provided by the financial assessor are comprehensive and relevant to the individual farm business.
+
+This guide explains each question in the FFA and provides a guide to answering them. A farmer’s continuing eligibility for FHA depends on the submission of a completed FFA to Services Australia generally within 28 days of being requested. For further assistance, including the online system, please contact the Farmer Assistance Hotline on 132 316.
+
+Financial assessor
+
+An FFA can be conducted by a person who:
+
+is independent from the FHA recipient and their partner
+
+does not have any right or interest in the farm or any asset that is owned by the recipient, the partner or the relevant farm enterprise
+
+has appropriate qualifications or expertise to conduct the assessment.
+
+For example, a qualification from a tertiary institution in a field that is relevant to giving financial advice. Extra weight would be given to a qualification that is recognised by a professional body.
+
+Occupations that give a person experiences in financial matters include:
+
+financial advisors
+
+farm consultants
+
+accountants
+
+rural financial counsellors.
+
+Accessing your FFA
+
+To complete FFA Parts A to D, access can be made via the Services Australia website. Follow these steps to access the FFA: Centrelink.
+
+Use the search option on the homepage and type in Farm Financial Assessment (Figure 1).
+
+Figure 1 Screenshot of Services Australia homepage - search function
+
+Select the Farm Financial Assessment hyperlink (Figure 2).
+
+Figure 2 Screenshot of Farm Financial Assessment hyperlink
+
+Select Sign in to myGov (Figure 3). This must be complete prior to accessing Centrelink account.
+
+Figure 3 Screenshot of where to sign in to myGov
+
+To access the FFA dashboard from your Centrelink account, follow these instructions:
+
+Click on Payments and Claims tab (Figure 4)
+
+In the Claims list, select the Farm Financial Assessment link (Figure 4)
+
+Figure 4 Screenshot of accessing FFA through Centrelink online account.
+
+The FFA dashboard will appear, and you can begin the assessment by starting with Part A – About you (Figure 5).
+
+Figure 5 Screenshot of FFA dashboard Parts A to D
+
+Accuracy of information
+
+To ensure that the assessor can provide meaningful advice and options for improving the farmer’s financial situation, the farmer must provide accurate numerical estimates of farm operations (e.g. hectares sowed, wages and hours worked). The farmer is not expected to individually measure or count each feature. However, the FFA provides a financial baseline, so the better the accuracy the better overall assessment.
+
+Please also note, when referring to production, many questions ask, ‘for the current year’ and by this it is meant ‘production in the relevant financial year’, rather than the calendar year. This means that the answers about production will be aligned with the financial information.
+
+Information requirements
+
+We recommend that you have the following resources on hand to ensure your responses are timely and reliable:
+
+tax documents from previous 3 years
+
+up-to-date information on personal assets and debts
+
+accurate measure of your farming commodity or commodities (e.g. head of livestock, tonnage of crops, hectares used)
+
+your farm business plan – if applicable.
+
+You may also find it helpful to access your FHA profile for previously included information that will be relevant to this assessment. For example, personal details or farm business details.
+
+FFA overview
+
+The FFA is a dynamic online form. Its principal structure is four parts, Parts A to D, stepped out using a number of questions for each part. Answers to individual questions will determine subsequent questions needing to be answered by users. Therefore, not all FFA questions in this guide may be required to be completed. However, all possible questions are included in this guide for completeness. Each part follows this structure:
+
+Step 1 – Guidance for you to keep on track with assessment.
+
+Explanation – the policy description for you to understand the reasoning behind the questions.
+
+Question overview – A list of all possible questions is provided.
+
+Example – Screenshots of each question and helpful tips.
+
+A screenshot from the online assessment will accompany the description to each question. These are included as a visual guide and include extra detail to help work through the questions.
+
+Important
+
+If your screen is inactive for 10 minutes, a pop-up message (Figure 6) will appear which requires you to select ‘Stay logged in’. You will have 60 seconds to select this button, or you will lose unsaved work.
+
+Your answers will only be saved once you select ‘Continue’ at the end of each step (Figure 7). Selecting ‘next’ after each question will not save your progress and if timed out or exited you will need to re-answer the questions.
+
+Figure 6 Screenshot of session time out notification
+
+Figure 7 Screenshot of where to select continue at end of each step to save progress
+
+Part A – About you
+
+The details collected in part A relate to the type of farm business you operate, including commodity/commodities, size of the operation and some basic financial information required. Figure 8 shows a screenshot of each step for part A and the progress made. Although you may have provided some of this information in your application, we are unable to pre-populate your answers. Please ensure the answers are the same as your application. This is used populate critical tables and pre-requisite information for parts B to D. The financial assessor will use the information gathered in part A to assist you to complete parts B to D.
+
+Important
+
+After 10 minutes of inactivity, you will have 60 seconds to stay logged in.
+
+To save your progress you must select continue at the end of each step – it does not autosave progress after each question.
+
+The time taken to complete each step is indicated before you start.
+
+Figure 8 Screenshot of part A steps
+
+Step 1: Your circumstances
+
+Step 1 contains questions on the circumstances that led you to apply for FHA.
+
+Questions
+
+These are the questions that you will be presented with for this step:
+
+What were the factors contributing to you decision to apply for farm household allowance?
+
+Did any of the following contribute to the low yield or failure of your crops and/or low livestock numbers or sales?
+
+What other factors contributed to the low yield or failure of your crops and/or low livestock numbers or sales?
+
+Your circumstances examples
+
+What were the factors contributing to your decision to apply for farm household allowance? (Figure 9)
+
+Select from the options listed:
+
+Loss of contracts/export market
+
+Decline in commodity price
+
+Increase in input costs
+
+Crop failure/low yield
+
+Low livestock/sales
+
+Note: if crop failure/low yield or low livestock/sales is selected, the next question will be displayed.
+
+Figure 9 Screenshot asking what were the factors contributing to your decision to apply for Farm Household Allowance?
+
+Did any of the following contribute to the low yield or failure of your crops and/or low livestock numbers or sales? (Figure 10)
+
+Select from the options listed:
+
+Drought
+
+Flood
+
+Bushfire
+
+Biosecurity outbreak
+
+Other natural impact
+
+Breakdown of financial partnership
+
+Breakdown of personal relationship
+
+Debt
+
+Health or mobility
+
+Other
+
+Note: if no options apply to your circumstances, select other for the following question set to appear.
+
+Figure 10 Screenshot asking did any of the following contribute to the low livestock numbers or sales?
+
+What other factors contributed to the low livestock numbers or sales? (Figure 11)
+
+[Provide details]
+
+Figure 11 Screenshot asking what other factors contributed to the low livestock numbers or sales?
+
+Step 2: Farm details
+
+This section gathers information about your farm business operations, including size and scale. This allows you, your financial assessor or your FHCO to identify and consider changes and improvements to your operations to put it on a better financial footing.
+
+Questions
+
+These are the questions that you will be presented with for this step:
+
+What is the registered business name of this farm business?
+
+What is the structure of the farming business?
+
+In addition to your farm business activities, are you involved in other related business?
+
+Provide description of this activity or indicate if there is no other related business.
+
+Of the total area of land currently operated by this farm business, how much, in hectares, is owned by this farm business, rented or leased from others, rented or leased to others, or owned by others and operated by agreement?
+
+What group best describes this activity?
+
+What class best describes this activity?
+
+How many hectares are currently under crop?
+
+How many hectares, in an average year, would be under crop?
+
+How many tonnes, per hectare, will this yield for the current year?
+
+How many tonnes, per hectare, would this yield in an average year?
+
+What is the current head of livestock on this farm?
+
+What is the average (year in year out) head of livestock on the farm?
+
+What is the yield you expect in the current year?
+
+What is the yield in an average year?
+
+Farm details examples
+
+By selecting the Add farm business option (Figure 12) the user will be asked up to 5 questions on the details of the business entity associated with the farm. It is mandatory to include your farm business.
+
+Figure 12 Screenshot of where to add details of each farm business
+
+What is the registered business name of this farm business? (Figure 13)
+
+[Provide details]
+
+Figure 13 Screenshot asking what is the registered business name of this farm business?
+
+What is the structure of the farming business? (Figure 14)
+
+Select from the options listed:
+
+Sole trader
+
+Partnership – domestic partner
+
+Partnership – business partner
+
+Partnership – 3 way – domestic partner and business partner
+
+Partnership – 4 way – domestic partner and 2 business partners
+
+Company – you are the director
+
+Company – you are not the director
+
+Trust – you are the controller
+
+Trust – you are the beneficiary
+
+Figure 14 Screenshot asking what is the structure of the farming business?
+
+In addition to your farm business activities, are you involved in other related business? (Figure 15)
+
+Select from the options listed:
+
+Agistment
+
+Contracting
+
+Cartage
+
+Bailing
+
+Shearing
+
+Fencing
+
+Processing or adding value to farm products (e.g. Wine/olive oil)
+
+Transport
+
+Leasing/rental
+
+Other activity or no other related business
+
+Note: if other activity or no other related business is selected, you will be asked to provide details in the next question.
+
+Figure 15 Screenshot asking in addition to your farm business activities, are you involved in other related business?
+
+Provide description of this activity or indicate if there is no other related business (Figure 16).
+
+[Provide details]
+
+Figure 16 Screenshot asking where to provide a description of this other activity or indicate if there is no other related business
+
+Of the total area of land currently operated by this farm business, how much, in hectares, is (Figure 17):
+
+Owned by this farm business
+
+Rented or leased from others
+
+Rented or leased to others
+
+Owned by others and operated by agreement
+
+To help you with inputting the data:
+
+An entry is required in each box (must not leave box blank or input N/A – use 0)
+
+Answers must be whole numbers (no decimal points)
+
+Minimum value of 0 and maximum number of 9999999.
+
+Figure 17 Screenshot asking the total area of land currently operated by this farm business, how much, in hectares, is – provide answer
+
+When all questions are answered, a summary table will be shown of each farm business that is included as part of the FFA (Figure 18). You will have a chance to review these details later and make changes if needed.
+
+Figure 18 Screenshot of where to add details of each farm business summary table
+
+To add what farm activities the business undertakes (Figure 19) you will be required to complete the below section which includes:
+
+4 questions if your farm activity is livestock or aquaculture, or
+
+6 questions if your farm activity is cropping
+
+Note: the commodity groups are drawn from the Australian and New Zealand Standard Industrial Classification - ANZSIC.
+
+Figure 19 Screenshot asking where to add details of livestock, crops or aquaculture activities on the farm
+
+What group best describes this activity? (Figure 20)
+
+Select from the options listed:
+
+Nursery and floriculture production
+
+Mushroom and vegetable growing
+
+Fruit and tree nut growing
+
+Sheep, beef cattle and grain farming
+
+Other crop growing
+
+Dairy cattle farming
+
+Poultry farming
+
+Deer farming
+
+Other livestock farming
+
+Aquaculture
+
+Figure 20 Screenshot asking what group best describes this activity?
+
+If nursery and floriculture production has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Nursery and floriculture production:
+
+Nursery production (under cover)
+
+Nursery production (outdoor)
+
+Turf growing
+
+Floriculture production (under cover)
+
+Floriculture production (outdoors)
+
+If mushroom and vegetable growing has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Mushroom and vegetable growing:
+
+Mushroom growing
+
+Vegetable growing (under cover)
+
+Vegetable growing (outdoors)
+
+If fruit and tree nut growing has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Fruit and tree nut growing:
+
+Grape growing
+
+Kiwifruit growing
+
+Berry fruit growing
+
+Apple and pear growing
+
+Stone fruit growing
+
+Citrus fruit growing
+
+Olive growing
+
+Other fruit and tree nut growing
+
+If sheep, beef cattle and grain farming has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Sheep, Beef cattle and grain farming:
+
+Sheep farming (specialised)
+
+Beef cattle farming (specialised)
+
+Beef cattle feedlots (specialised)
+
+Sheep-Beef cattle farming
+
+Grain-sheep or grain-beef cattle farming
+
+Rice growing
+
+Other grain growing
+
+If other crop growing has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Other crop growing:
+
+Sugar cane growing
+
+Cotton growing
+
+Other crop growing
+
+If dairy cattle farming has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Dairy cattle farming:
+
+Dairy cattle farming
+
+If poultry farming has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Poultry farming:
+
+Poultry farming (eggs)
+
+Poultry farming (meat)
+
+If deer farming has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Deer farming:
+
+Deer farming
+
+If other livestock farming has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Other livestock farming:
+
+Horse farming
+
+Pig farming
+
+Beekeeping
+
+Other livestock farming
+
+If aquaculture has been selected in Figure 20.
+
+What class best describes this activity? (Figure 21)
+
+Select from the options listed:
+
+Aquaculture:
+
+Offshore longline and rack aquaculture
+
+Offshore caged aquaculture
+
+Onshore aquaculture
+
+Figure 21 Screenshot asking what class best describes this activity?
+
+Cropping
+
+How many hectares are currently under crop? (Figure 22)
+
+[Enter number]
+
+Note: This is the total hectares of this crop type that you plan to harvest, or have harvested, this year.
+
+Figure 22 Screenshot asking how many hectares are currently under crop?
+
+How many hectares, in an average year, would be under crop? (Figure 23)
+
+[Enter number]
+
+Note: This is the total hectares for this crop type you have sown, on average, over the past 5 years (or less).
+
+Figure 23 Screenshot asking how many hectares, in an average year, would be under crop?
+
+How many tonnes, per hectares, will this yield for the current year (Figure 24)
+
+[Enter number]
+
+Figure 24 Screenshot asking how many tonnes, per hectares, will this yield for the current year?
+
+How many tonnes, per hectare, would this yield in an average year? (Figure 25)
+
+[Enter number]
+
+Figure 25 Screenshot asking how many tonnes, per hectare, would this yield in an average year?
+
+Livestock
+
+What is the current head of livestock on the farm? (Figure 26)
+
+[Enter number]
+
+Figure 26 Screenshot asking what is the current head of livestock on the farm?
+
+What is the average (year in year out) head of livestock on the farm? (Figure 27)
+
+[Enter number]
+
+Figure 27 Screenshot asking what is the average (year in year out) head of livestock on the farm?
+
+Aquaculture
+
+What is the yield you expect in the current year? (Figure 28).
+
+[Enter number]
+
+Select the option that applies to you:
+
+Tons
+
+Racks
+
+Dozens
+
+Figure 28 Screenshot asking what is the yield you expect in the current year?
+
+What is the yield in an average year? (Figure 29)
+
+[Enter number]
+
+Select from the options listed:
+
+Tons
+
+Racks
+
+Dozens
+
+Figure 29 Screenshot asking what is the yield in an average year?
+
+A summary table showing the farming activity/activities will appear once the questions have been answered (Figure 30). These can be edited or deleted at any stage.
+
+Figure 30 Screenshot of how to provide details of livestock, crops or aquaculture farm activities summary table
+
+Step 3: Farm labour input
+
+This section identifies the current labour commitments to the farm business.
+
+Questions
+
+On average, how many hours do you work on the farm business per week?
+
+On average, how many hours of vacation do you take each year?
+
+Farm labour examples
+
+On average, how many hours do you work on the farm business per week? (Figure 31)
+
+[Enter number]
+
+Note: numbers can only be whole with a minimum of 0 and maximum of 168. The number should represent the average number of hours worked over the course of the year, considering the differing number of hours worked between seasons.
+
+Figure 31 Screenshot asking on average, how many hours do you work on the farm business per week?
+
+On average, how many hours of vacation do you take each year? (Figure 32)
+
+[Enter number]
+
+Note: this includes time spent on holidays on or off the farm. Numbers can only be whole with a minimum of 0 and maximum of 52.
+
+Figure 32 Screenshot asking on average, how many weeks of vacation do you take each year?
+
+Step 4: Financial management
+
+This section is a snapshot of your financial management and gathers details to identify key issues which may impact your farm and household. An in-depth assessment will be completed in Part B with your financial assessor. When compared to the size and scale of the business the following sets of questions also indicate how much pressure is on the business to perform well. It is important to see the amount on which one or more households depend on it, or whether pressure is relieved by other sources of income.
+
+This section is designed to inform opportunities for your financial and personal goals. You will be asked for details in the current financial year, and the question set will update automatically each financial year.
+
+Question
+
+How many households are supported by your farm income?
+
+Is your household supported by off farm income?
+
+How much gross income from off farm wages or salaries will they receive for current financial year?
+
+How many hours per week, on average, is the work?
+
+How much net income from other businesses will they receive for the current financial year?
+
+How many hours per week, on average, is the work?
+
+How much net income from other investments will they receive for the current financial year?
+
+How much gross income from off-farm wages or salaries do they receive in an average year?
+
+How many hours per week, on average, is the work?
+
+How much net income from other businesses do they receive in an average year?
+
+How many hours per week, on average, is the work?
+
+How much net income from other investments do they receive in an average year?
+
+Have you received any income from the government in the last 5 years?
+
+What is the type of income received?
+
+What is the name of this income?
+
+Who is the provider of this income?
+
+Who has received this income?
+
+How much did you receive?
+
+Does your farm have a business plan?
+
+When was this plan developed?
+
+How regularly is the business plan reviewed?
+
+Do you use the business plan in your decision making about the farm business?
+
+Financial management examples
+
+How many households are supported by your farm income? (Figure 33)
+
+[Enter number]
+
+Figure 33 Screenshot asking how many households are supported by your farm business?
+
+Is your household supported by off-farm income? (Figure 34)
+
+[Provide answer]
+
+Note: if ‘Yes’ is selected then the next set of questions will be displayed.
+
+Figure 34 Screenshot asking is your household supported by off-farm income?
+
+How much gross income from off-farm wages or salaries will they receive for 2024-25 financial year? (Figure 35)
+
+[Enter number]
+
+Note: income from other investments can include income received from interest, dividends or rent.
+
+Figure 35 Screenshot asking how much gross income from off-farm wages or salaries will they receive for 2024-25 financial year?
+
+How many hours per week, on average, is the work? (Figure 36)
+
+[Enter number]
+
+Figure 36 Screenshot asking how many hours per week, on average, is the work?
+
+How much net income for other businesses will they receive for the 2024-25 financial year? (Figure 37)
+
+[Enter number]
+
+Figure 37 Screenshot asking net income from other businesses received for the 2024-25 financial year?
+
+How many hours per week, on average, is the work? (Figure 38)
+
+[Enter number]
+
+Figure 38 Screenshot asking how many hours per week, on average, is the work?
+
+How much net income from other investments will they receive for the 2024-25 financial year? (Figure 39)
+
+[Enter number]
+
+Figure 39 Screenshot asking how much net income from other investments will they receive for the 2024-25 financial year?
+
+How much gross income from off-farm wages or salaries do they receive in an average year? (Figure 40)
+
+[Enter number]
+
+Figure 40 Screenshot asking how much gross income from off-farm wages or salaries do they receive in an average year?
+
+How many hours per week, on average, is the work? (Figure 41)
+
+[Enter number]
+
+Figure 41 Screenshot asking how many hours per week, on average, is the work?
+
+How much net income from other businesses do they receive in an average year? (Figure 42)
+
+[Enter number]
+
+Figure 42 Screenshot asking how much net income from other businesses do they receive in an average year?
+
+How many hours per week, on average, is the work? (Figure 43)
+
+[Enter number]
+
+Figure 43 Screenshot asking how many hours per week, on average, is the work?
+
+How much net income from other investments do they receive in an average year? (Figure 44)
+
+[Enter number]
+
+Figure 44 Screenshot asking how much income from other investments do they receive in an average year?
+
+The table below (Figure 45) shows a summary of any off-farm income received by people who are dependent on income produced by the farm business.
+
+Figure 45 Screenshot of summary table of off-farm income received
+
+Have you received any income from the government in the last 5 years? (Figure 46)
+
+[Provide details]
+
+Figure 46 Screenshot asking have you received any income from the government in the last 5 years?
+
+The below input table will appear if the answer to the previous question in Figure 46 is yes. You will be required to add any government income received in the last 5 years (Figure 47).
+
+Figure 47 Screenshot of details of government income received in last 5 years
+
+What is the type of income received? (Figure 48)
+
+Select from the options listed:
+
+Pension, benefit or allowance
+
+Grant
+
+Subsidy
+
+Rebate
+
+Figure 48 Screenshot asking what is the type of income received?
+
+What is the name of this income? (Figure 49)
+
+[Provide details]
+
+Figure 49 Screenshot asking what is the name of this income?
+
+Who is the provider of this income? (Figure 50)
+
+Select from the options listed:
+
+State Government
+
+Territory Government
+
+Local Government
+
+Figure 50 Screenshot asking who is the provider of this income?
+
+Who has received this income? (Figure 51)
+
+Select from the options listed:
+
+You
+
+Partners first name
+
+Both
+
+Figure 51 Screenshot asking who has received this income?
+
+How much did you receive? (Figure 52)
+
+[Enter number]
+
+Figure 52 Screenshot asking how much did you receive?
+
+Once the above questions have been answered a summary table (Figure 53) will be displayed. You can review and edit these answers at the end of part A.
+
+Figure 53 Screenshot of government income received in last 5 years summary table
+
+Does your farm business have a business plan? (Figure 54)
+
+[Provide details]
+
+Note: if the answer is yes then the next set of questions will be displayed.
+
+Figure 54 Screenshot asking does your farm business have a business plan?
+
+When was the business plan developed? (Figure 55)
+
+[Provide details]
+
+Figure 55 Screenshot asking when was the business plan developed?
+
+Do you use the business plan in your decision making about the farm business? (Figure 56)
+
+[Provide details]
+
+Figure 56 Screenshot asking do you use the business plan in your decision making about the farm business?
+
+How regularly is the business plan reviewed? (Figure 57)
+
+Select from the options listed:
+
+Monthly
+
+Bi-annually
+
+Quarterly
+
+Annually
+
+Never
+
+Other
+
+Figure 57 Screenshot asking how regularly is the business plan reviewed?
+
+Step 5: Farming future
+
+This section provides details to plan for the future of the farm to help inform opportunities for financial and personal goals. For those who have reached Age Pension qualifying age it may also indicate if some of the conditions have been met for a person to be paid Age Pension instead.
+
+Questions
+
+How many years have you been farming as an owner and/or manager?
+
+How many years have you lived on the current farm?
+
+What is your preferred occupation 10 years from now?
+
+Farming future examples
+
+How many years have you been farming as an owner and/or manager? (Figure 58)
+
+[Enter number]
+
+Note: requires whole numbers between 1 and 99. If it is less than one year then input one.
+
+Figure 58 Screenshot asking how many years have you been farming as an owner and/or manager?
+
+How many years have you lived on the current farm? (Figure 59)
+
+[Provide number]
+
+Note: requires whole numbers between 1 and 99. If it is less than one year then input one.
+
+Figure 59 Screenshot asking how many years have you lived on the current farm?
+
+What is your preferred occupation 10 years from now? (Figure 60)
+
+Select from the options listed:
+
+Retired
+
+Semi-retired
+
+Exited farming for other occupation
+
+Farming – increased farm income
+
+Farming – increased off-farm income
+
+Figure 60 Screenshot asking what is your preferred occupation 10 years from now?
+
+Step 6: Review and submit
+
+This section displays a summary of all answers you have submitted for part A and allows the opportunity to review, edit or delete any input. There is also the opportunity for you to print the summary screen to keep on hand for the financial assessor when answering parts B to D. Once you have reviewed the input and submitted you will be directed to the FFA home screen where you can enter part B with your financial assessor.
+
+Once you have reviewed the details you will be displayed a declaration requiring your agreement prior to submitting (Figure 61).
+
+Figure 61 Screenshot of declaration and agreement to submit Part A assessment
+
+Part B – Farm Information
+
+The financial assessor will rely on the previous 3 years of financials (business & personal) to complete part B. Therefore, it is important that the financial assessor understands the content supplied in part A. The more accurate the information in part A the better overall outcome will be achieved for parts B, C & D.
+
+The FFA builds a detailed connection between the farm operations through exploring the farm and personal financials to help build a view of how effectively the farm business is managed. It uses the last 3 years of completed financials to show any uncharacteristic occurrences (i.e. natural disasters, commodity crashes) that will help the financial assessor to understand how the business is operated. Completing the questions on production impacts, farm & personal assets and debts, farm profitability, personal finances and other business finances will enable the overall financial position to be displayed in multiple consolidated tables.
+
+Part B will link into part C – Performance Indicators – by prepopulating tables that will assist the financial assessor in completing the ideal financial thresholds for the farm business and the Strengths, Weaknesses, Opportunities, and Threats (SWOT) analysis.
+
+Important
+
+After 10 minutes of inactivity, you will have 60 seconds to stay logged in.
+
+To save your progress you must select continue at the end of each step – it does not autosave progress after each question.
+
+The time taken to complete each step is indicated before you start.
+
+Financial Assessor Access
+
+To access the FFA as the financial assessor the following steps are to be taken:
+
+Navigate to the Farm information section and complete the following steps:
+
+Access the Farm Financial Assessment portal.
+
+Enter your Customer Reference Number (Figure 62).
+
+Enter your One Time Access Code.
+
+Select Log In.
+
+Enter Part B from the FFA dashboard and begin answering questions.
+
+Figure 62 Screenshot of one-time access code log in
+
+Before completing Part B, it is important to recognise the requirements that you and the FHA recipient must meet (Figure 63).
+
+Figure 63 Screenshot of production impacts - financial assessor requirements
+
+Each step in part B contains a set of questions and as shown in Figure 64 the estimated time to complete.
+
+Figure 64 Screenshot of part B steps
+
+Step 1: Production impacts
+
+This section asks you about impacts that relate to any production changes you have implemented, environmental issues, climate and weather conditions and management practices.
+
+Questions
+
+Have you applied changes to your production to try and improve your profitability?
+
+What changes have you applied to try and improve your profitability?
+
+How did you try to improve your profitability?
+
+If you have previously received Farm Household Allowance, did you use the activity supplement to support these changes?
+
+How important has the activity supplement been to support the changes?
+
+What was the farm adversely affected by?
+
+In hectares, what size was affected?
+
+Was the remediation successful?
+
+Reflecting on each of the last 10 years (or since you started farming, if within the last 10 years), what best describes the climate and weather conditions?
+
+Select the years the climate and weather conditions were impacted.
+
+What event in the last 10 years (or since you started farming, if within the last 10 years) was the farm affected by?
+
+Select the years the event impacted the farm.
+
+What practices did you apply to your farmland to help you improve your drought or other natural disaster resilience?
+
+What is the total number of hectares affected?
+
+Select the year(s) the practice was applied.
+
+What natural resource management technique(s) or practice(s) did you apply to your farmland to improve your sustainability outcomes?
+
+What is the total number of hectares affected?
+
+Select the year(s) the practice was applied.
+
+Production impacts examples
+
+Have you applied changes to your production to try and improve your profitability? (Figure 65)
+
+[Provide details]
+
+Note: if the answer is yes, the next set of questions will be displayed.
+
+Figure 65 Screenshot asking have you applied changes to your production to try and improve your profitability?
+
+What changes have you applied to your production to try and improve your profitability? (Figure 66)
+
+Select from the options listed:
+
+Livestock breeds
+
+Crop variety or strain
+
+Commodity/ies
+
+Production approach
+
+Other
+
+Note: if other is selected, an additional question will be displayed for you to answer.
+
+Figure 66 Screenshot asking what changes have you applied to your production to try and improve your profitability?
+
+How did you try to improve your profitability? (Figure 67)
+
+[Provide details]
+
+Figure 67 Screenshot asking how did you try to improve your profitability?
+
+If you have previously received Farm Household Allowance, did you use the activity supplement to support these changes? (Figure 68)
+
+[Provide details]
+
+Note: if yes is selected the next question will be displayed.
+
+Figure 68 Screenshot asking did you use the activity supplement to support changes?
+
+How important was the activity supplement to support the changes? (Figure 69)
+
+Select from the options listed:
+
+Not important
+
+Moderately important
+
+Important
+
+Very important
+
+Figure 69 Screenshot asking how important was the activity supplement to support the changes?
+
+Farm adversely affected
+
+The following set of questions aims to understand the environmental issues that have/are impacting your farm, and whether there is any advice or training needs you could consider as part of developing your Financial Improvement Agreement. Please add any environmental issue/s if applicable (Figure 70).
+
+Figure 70 Screenshot of environmental issue/s that adversely affected your farm
+
+What was the farm adversely affected by? (Figure 71)
+
+Select from the options listed:
+
+Poor drainage
+
+Soil degradation – includes salt infiltration, chemical contamination and erosion
+
+Vermin infestation – includes rabbits, kangaroos, wild goats, locusts and snails
+
+Animal predation – includes wild dogs, feral pigs and eagles
+
+Vegetation thickening – includes timber regrowth and woody weeds
+
+Other weed infestations
+
+Land use/zoning restriction
+
+Water access/storage
+
+Note: if water access/storage is selected, the next question will not display.
+
+Figure 71 Screenshot asking what was the farm adversely affected by?
+
+In hectares, what size was affected? (Figure 72)
+
+[Enter number]
+
+Figure 72 Screenshot asking in hectares, what size was affected?
+
+Was the remediation successful? (Figure 73)
+
+Select from the options listed:
+
+Successful
+
+Partially successful
+
+Planned
+
+Not planned
+
+Figure 73 Screenshot asking was the remediation successful?
+
+A table will be displayed with a summary of your answers to the previous questions on environmental issues (Figure 74). This gives you the option to edit or delete prior to progressing to the next question.
+
+Figure 74 Screenshot of Environmental issue/s that adversely affected your farm summary table
+
+Climate and weather conditions
+
+This section requires you to input details on the climate and weather conditions in each of the last 10 years or since you started farming within the last 10 years (Figure 75).
+
+Figure 75 Screenshot of climate and weather conditions in each of the last 10 years
+
+Reflecting on each of the last 10 years (or since you started farming, if within the last 10 years), what best describes the climate and weather conditions? (Figure 76)
+
+Select from the options listed:
+
+Above average
+
+Average
+
+Below average
+
+Note: if you need to select more than one option, you will need to add a new item from the table in Figure 75.
+
+Figure 76 Screenshot asking what best describes the climate and weather conditions?
+
+Select the years the climate and weather conditions were impacted. (Figure 77)
+
+Select all options that apply.
+
+Note: if the FFA is generated in the 2024-25 financial year the previous 10 financial years will display. Once a year is selected it will be unavailable for the next selection.
+
+Figure 77 Screenshot asking to select the years the climate and weather conditions were impacted
+
+A summary table will appear for you to review and edit/delete if required (Figure 78). The table will display the financial years impacted with the first year i.e. 2023-24 financial year, appearing as 2023 in table. Financial years cannot have more than one weather condition.
+
+Figure 78 Screenshot of climate and weather conditions in each of last 10 years summary table
+
+Natural disaster
+
+This table (Figure 79) provides the option to include any natural disaster that your production was affected by in the last 10 years (or since you started farming, if within the last 10 years). There are two questions to answer in this section.
+
+Figure 79 Screenshot of natural disaster effects on your production in last 10 years
+
+What event in the last 10 years (or since you started farming, if within the last 10 years) was the farm affected by? (Figure 80)
+
+Select from the options listed:
+
+Bushfire
+
+Cyclone
+
+Storm/hail
+
+Flood
+
+Drought
+
+Figure 80 Screenshot asking what event in the last 10 years was the farm affected by?
+
+Select the years the event impacted the farm. (Figure 81)
+
+Select all options that apply.
+
+Figure 81 Screenshot asking to select the years the event impacted the farm
+
+A summary table will appear for you to review and edit/delete if required (Figure 82). The table will display the financial years impacted with the first year i.e. 2023-24 financial year, appearing as 2023 in table. Years can be selected for multiple events i.e. Bushfire and Drought in 2023-24.
+
+Figure 82 Screenshot of natural disaster effects on production in the last 10 years summary table
+
+Management practices
+
+This table (Figure 83) provides the opportunity to input any practices you applied to your farmland to help you improve your drought or other natural disaster resilience. This is mandatory if it applies to your farm business.
+
+Figure 83 Screenshot of practices applied to farmland to improve drought and natural disaster resilience
+
+What practices did you apply to your farmland to help you improve your drought or other natural disaster resilience? (Figure 84)
+
+[Provide details]
+
+Figure 84 Screenshot asking what practices did you apply to improve your drought and natural disaster resilience?
+
+What is the total number of hectares affected? (Figure 85)
+
+[Enter number]
+
+Figure 85 Screenshot asking what is the total number of hectares affected?
+
+Select the year(s) the practice was applied (Figure 86).
+
+Select all options that apply.
+
+Figure 86 Screenshot asking to select the year(s) the practice was applied
+
+A summary table will appear for you to review and edit/delete if required (Figure 87). The table will display the financial years impacted with the first year i.e. 2023-24 financial year, appearing as 2023 in table. The same year(s) can be selected for multiple practices.
+
+Figure 87 Screenshot of practices you applied to improve your drought and natural disaster resilience summary table
+
+Natural resource management
+
+This table (Figure 88) provides the opportunity to include any natural resource management techniques or practices you applied to your farmland to help you improve your drought or natural disaster resilience. This is mandatory if it applies to your farm business.
+
+Figure 88 Screenshot of natural resource management techniques or practices applied to improve drought and natural disaster resilience
+
+What natural resource management techniques or practices did you apply to your farmland to improve your sustainability outcomes? (Figure 89)
+
+[Provide details]
+
+Figure 89 Screenshot asking what natural resource management techniques or practices did you apply to improve drought and natural disaster resilience?
+
+What is the total number of hectares affected? (Figure 90)
+
+[Enter number]
+
+Figure 90 Screenshot asking what is the total number of hectares affected?
+
+Select the year(s) the practice was applied (Figure 91).
+
+Select all options that apply.
+
+Figure 91 Screenshot asking to select the year(s) the practice was applied
+
+A summary table will appear for you to review and edit/delete if required (Figure 92). The table will display the financial years impacted with the first year i.e. 2023-24 financial year, appearing as 2023 in table. The same year(s) can be selected for multiple practices.
+
+Figure 92 Screenshot of drought and natural resource management techniques summary table
+
+Step 2: Assets and debts
+
+This section helps gain information on the various assets and debts of the farm business. This will be important for populating the consolidated tables which will be used in the Part C SWOT analysis.
+
+Questions
+
+What is the type of asset?
+
+What is the type of livestock?
+
+How many of this livestock are there?
+
+Provide a description of this asset.
+
+What is the current market value of this asset?
+
+What is the category of debt?
+
+Provide details of the liabilities.
+
+What is the total balance of the debt owing?
+
+What is the next minimum repayment due?
+
+What is the total repayment amount due in the next 12 months?
+
+Is the debt secured?
+
+What is the interest rate?
+
+What is the repayment and interest type?
+
+What is the category of debt?
+
+Provide details of the liabilities.
+
+What is the total balance of the debt owing?
+
+What is the next minimum repayment due?
+
+What is the debt secured?
+
+What is the interest rate?
+
+What is the repayment and interest type?
+
+Assets and debt examples
+
+This table (Figure 93) provides you the opportunity to input the value of the farm business assets, and your additional personal assets and/ or business assets that are owned by a separate business (for example if you also operate a contracting business under a separate ABN and machinery or other assets belong to that business, and/ or you have a business that is unrelated to the farm, such as a retail business).
+
+Tips
+
+Use the gross value when entering – do not include money owing.
+
+Estimates should be based on the resale value of the asset (as it is with no improvements, or what you would expect to receive at a clearing sale).
+
+Do not use insurance value or land tax value.
+
+If the asset is used for both business and personal, select the one that is used most frequently.
+
+Figure 93 Screenshot of the value of the farm business assets and personal assets table
+
+What is the type of asset? (Figure 94)
+
+Select from the options listed:
+
+Primary production – cash at bank
+
+Primary production – farm management deposits
+
+Primary production – managed investments
+
+Primary production – money owed to you or partner
+
+Primary production – financial other
+
+Primary production – outstanding crop or produce payments
+
+Primary production – shares
+
+Primary production – superannuation (current estimated value)
+
+Primary production – tradeable water entitlements
+
+Primary production – buildings
+
+Primary production – farmland
+
+Primary production – livestock
+
+Primary production off-farm investments
+
+Primary production – plant and equipment (combined)
+
+Primary production – saleable produce on-hand
+
+Primary production – vehicles
+
+Primary production – other
+
+Continued on next page
+
+Continued from previous page
+
+Personal – cash at bank
+
+Personal – managed investments
+
+Personal – money owed to you or partner
+
+Personal – financial other
+
+Personal – outstanding crop or produce payments
+
+Personal – shares
+
+Personal – superannuation (current estimated value)
+
+Personal – tradable water entitlements
+
+Personal – buildings
+
+Personal – plant and equipment (combined)
+
+Personal – saleable produce on-hand
+
+Personal – vehicles
+
+Personal – other
+
+Other business – cash at bank
+
+Other business – managed investments
+
+Other business – money owed to you or partner
+
+Other business – financial other
+
+Other business – outstanding crop or produce payments
+
+Other business – shares
+
+Other business – superannuation (current estimated value)
+
+Other business – tradable water entitlements
+
+Other business – buildings
+
+Other business – plant and equipment (combined)
+
+Other business – saleable produce on-hand
+
+Other business – vehicles
+
+Other business – other
+
+Note: if livestock is selected, the following question will be displayed.
+
+Figure 94 Screenshot asking what is the type of asset?
+
+What is the type of livestock? (Figure 95)
+
+[Provide details]
+
+Figure 95 Screenshot asking what is the type of livestock?
+
+How many livestock are there? (Figure 96)
+
+[Enter number]
+
+Figure 96 Screenshot asking how many livestock are there?
+
+Provide a brief description of the asset (Figure 97).
+
+[Provide details]
+
+Figure 97 Screenshot asking how to provide a brief description of the asset.
+
+What is the current market value of this asset? (Figure 98)
+
+[Enter number]
+
+Figure 98 Screenshot asking what is the current market value of this asset?
+
+A summary table (Figure 99) will appear for you to review. You may edit/delete if required.
+
+Figure 99 Screenshot of value of the farm business assets and additional assets
+
+Farm debt
+
+This table (Figure 100) is for you to add or edit any farm debt of the farm business. In later tables these will help you and your financial assessor to consider which assets are the most highly leveraged and if they are contributing efficiently to the return on investment.
+
+Figure 100 Screenshot of how to add or edit any farm debt
+
+What is the category of debt? (Figure 101)
+
+Select from the options listed:
+
+Credit – overdraft
+
+Credit/debit cards
+
+Creditors – trade/accounts payable
+
+Employee – wage or salary
+
+Finance equipment
+
+Finance lease
+
+Finance loan
+
+Fines
+
+Government – concessional loan
+
+Government – superannuation
+
+Government – taxation
+
+Liens
+
+Figure 101 Screenshot asking what is the category of debt?
+
+Provide details of the liabilities (Figure 102).
+
+[Provide details]
+
+Figure 102 Screenshot of where to provide details of the liabilities.
+
+What is the total balance of the debt owing? (Figure 103)
+
+[Enter number]
+
+Figure 103 Screenshot asking what is the total balance of the debt owing?
+
+What is the next minimum repayment due? (Figure 104)
+
+[Enter number]
+
+Figure 104 Screenshot asking what is the next minimum repayment due?
+
+What is the total repayment amount due in the next 12 months? (Figure 105)
+
+[Enter number]
+
+Figure 105 Screenshot asking what is the total repayment amount due in the next 12 months?
+
+Is the debt secured? (Figure 106)
+
+[Provide details]
+
+Figure 106 Screenshot asking is the debt secured?
+
+What is the interest rate? (Figure 107)
+
+[Enter number]
+
+Note: this answer will accept input with a maximum of 100 and up to 2 decimal places e.g. 10.25%.
+
+Figure 107 Screenshot asking what is the interest rate?
+
+What is the repayment and interest type? (Figure 108)
+
+Select from options listed:
+
+Fixed
+
+Variable
+
+Interest only
+
+Note: if the loan is interest only, select interest only regardless of rate type.
+
+Figure 108 Screenshot asking what is the repayment and interest type?
+
+A summary table (Figure 109) allows you to edit and/ or delete the items you have input.
+
+Figure 109 Screenshot of the farm debt summary table
+
+Personal debt
+
+This table (Figure 110) allows you to input any personal debt of you and/or your partner. If there are other people involved in the business (such as a three- or four-way partnership) you do not need to collect their private details.
+
+Figure 110 Screenshot of personal debt that you and/or partner may have
+
+What is the category of debt? (Figure 111)
+
+Select from the options listed:
+
+Credit – overdraft
+
+Credit/debit cards
+
+Creditors – trade/accounts payable
+
+Finance equipment
+
+Finance lease
+
+Finance loan
+
+Fines
+
+Government – Child Support
+
+Government – Social security or Family Assistance
+
+Government – taxation
+
+Liens
+
+Government – concessional loan
+
+Figure 111 Screenshot asking what is the category of debt?
+
+Provide details of the liabilities (Figure 112).
+
+[Provide details]
+
+Figure 112 Screenshot of where to provide details of the liabilities
+
+What is the total balance of the debt owing? (Figure 113)
+
+[Enter number]
+
+Figure 113 Screenshot asking what is the total balance of the debt owing?
+
+What is the next minimum repayment due? (Figure 114)
+
+[Enter number]
+
+Figure 114 Screenshot asking what is the next minimum repayment due?
+
+What is the total repayment amount due in the next 12 months? (Figure 115)
+
+[Enter number]
+
+Figure 115 Screenshot asking what is the total repayment amount due in the next 12 months?
+
+Is the debt secured? (Figure 116)
+
+[Provide details]
+
+Figure 116 Screenshot asking is the debt secured?
+
+What is the interest rate? (Figure 117)
+
+[Provide number]
+
+Figure 117 Screenshot asking what is the interest rate?
+
+What is the repayment and interest type? (Figure 118)
+
+Select from the options listed:
+
+Fixed
+
+Variable
+
+Interest only
+
+Note: if the loan is interest only, select interest only regardless of rate type.
+
+Figure 118 Screenshot asking what is the repayment and interest type?
+
+A summary table (Figure 119) will be displayed in which you have the ability to edit/delete of the items you submitted. Once you have reviewed the table please go to next question.
+
+Figure 119 Screenshot of personal debt you and/or your partner have summary table
+
+Step 3: Farm Profitability
+
+This section collects information about the farm business’s on-farm income and expenditure. As mentioned in the Part B introduction, this information collected here will be important for populating the consolidated tables which will be used in Part C.
+
+Where accurate or credible financial information cannot be found, the financial assessor is to provide an estimation of the approximate value based on information provided by the applicant.
+
+Questions
+
+What is the type of farm income?
+
+What was the full amount for the <YYYY-YY-3> financial year for this income type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this income type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this income type?
+
+What is the type of administrative expense?
+
+What is the full amount for the < YYYY-YY-3> financial year for this administrative expense type?
+
+What is the full amount for the < YYYY-YY-2> financial year for this administrative expense type?
+
+What is the full amount for the < YYYY-YY-1> financial year for this administrative expense type?
+
+What is the type of production expense?
+
+What was the full amount for the < YYYY-YY-3> financial year for this production expense type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this production expense type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this production expense type?
+
+What is the category of debt?
+
+What was the full amount for the <YYYY-YY-3> financial year for this debt type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this debt type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this debt type?
+
+Farm profitability examples
+
+Farm income
+
+This table (Figure 120) allows you to input all farm income sources. This is a mandatory section.
+
+Figure 120 Screenshot of farm income sources
+
+What is the type of farm income? (Figure 121)
+
+Select from the options listed:
+
+Accommodation, agritourism, food service
+
+Agistment
+
+Commodity – aquaculture
+
+Commodity – cattle/beef
+
+Commodity – cattle/milk and dairy produce
+
+Commodity – cotton
+
+Commodity – fodder (hay and silage)
+
+Commodity – fruit/apples and pears
+
+Commodity – fruit/berry
+
+Commodity – fruit/citrus
+
+Commodity – fruit/grapes, table
+
+Commodity – fruit/grapes, wine
+
+Commodity – fruit/stone
+
+Commodity – fruit/tropical
+
+Commodity – grain, oilseed and pulses
+
+Commodity – honey or bee products
+
+Commodity – nursery and floriculture
+
+Commodity – other crops
+
+Commodity – other farm income
+
+Commodity – other horticultural crops
+
+Commodity – other livestock
+
+Commodity – pigs
+
+Commodity – poultry and eggs
+
+Commodity – sheep, sheep and lambs
+
+Commodity – wool
+
+Commodity – sugar cane
+
+Commodity – vegetables
+
+Contracting income
+
+Dividends and other investment income
+
+Government payments
+
+Interest earned
+
+Continued over the page
+
+Continued from previous page
+
+Rebates
+
+Rent received
+
+Royalties (includes wind turbines, solar panels)
+
+Share farming payments
+
+Sundry receipts
+
+Note: if the FFA is generated in 2024-25 financial year the previous 3 financial years will display.
+
+Figure 121 Screenshot asking what is the type of farm income?
+
+What was the full amount for the 2021-22 financial year for this income type? (Figure 122)
+
+[Enter number]
+
+Figure 122 Screenshot asking what was the full amount for the 2021-22 financial year for this income type?
+
+What was the full amount for the 2022-23 financial year for this income type? (Figure 123)
+
+[Enter number]
+
+Figure 123 Screenshot asking what was the full amount for the 2022-23 financial year for this income type?
+
+What was the full amount for the 2023-24 financial year for this income type? (Figure 124)
+
+[Enter number]
+
+Figure 124 Screenshot asking what was the full amount for the 2023-24 financial year for this income type?
+
+This summary table (Figure 125) shows you your input from the previous questions on all farm income sources.
+
+Figure 125 Screenshot of farm income sources summary table
+
+Administrative expenses
+
+This table (Figure 126) allows you to input data for all administrative expense sources. These are expenses that relate to the running of the business, rather than the production of the commodity/ies. In some financial contexts they might be called ‘non-variable’ expenses.
+
+Figure 126 Screenshot of administrative expense sources
+
+What is the type of administrative expense? (Figure 127)
+
+Select the options listed:
+
+Business – accounting
+
+Business – advisory services
+
+Business – legal fees
+
+Business – electricity
+
+Business – insurance
+
+Business – motor vehicle expenses
+
+Business – other administrative costs
+
+Business – other cash costs
+
+Business – postage and stationery
+
+Business – stores and rations
+
+Business – subscriptions
+
+Business – telephone
+
+Business – travel and entertainment expenses
+
+Business – wages for permanent labour
+
+Finance – bank fees/charges
+
+Finance – depreciation
+
+Finance – interest paid on business loans
+
+Finance – land rent
+
+Finance – leasing costs
+
+Finance – plant & equipment hire
+
+Finance – principal repayments on business loans
+
+Continued over the page
+
+Continued from previous page
+
+Finance – water charges
+
+Rates – land protection
+
+Rates – other
+
+Rates - shire
+
+Figure 127 Screenshot asking what is the type of administrative expense?
+
+What was the full amount for the 2021-22 financial year for this administrative expense type? (Figure 128)
+
+[Enter number]
+
+Figure 128 Screenshot asking what was the full amount for the 2021-22 financial year for this administrative expense type?
+
+What was the full amount for the 2022-23 financial year for this administrative expense type? (Figure 129)
+
+[Enter number]
+
+Figure 129 Screenshot asking what was the full amount for the 2022-23 financial year for this administrative expense type?
+
+What was the full amount for the 2023-24 financial year for this administrative expense type? (Figure 130)
+
+[Enter number]
+
+Figure 130 Screenshot asking what was the full amount for the 2023-24 financial year for this administrative expense type?
+
+This summary table (Figure 131) displays the administrative expenses you input in the previous questions. This allows you to edit/delete as you need before progressing.
+
+Figure 131 Screenshot of administrative expenses sources summary table
+
+Production expenses
+
+This table (Figure 132) allows you to input all production expense sources. In some financial contexts they might also be called ‘variable’ expenses.
+
+Figure 132 Screenshot of production expense sources
+
+What is the type of production expense? (Figure 133)
+
+Select from the options listed:
+
+Cash costs
+
+Contractors – cropping
+
+Contractors – livestock
+
+Contractors – other
+
+Livestock – materials
+
+Livestock – purchase cattle
+
+Livestock – purchase other animals
+
+Livestock – purchase sheep
+
+Livestock – testing fees (e.g. AI, stud, herd, pregnancy)
+
+Materials – chemicals
+
+Materials – dairy supplies
+
+Materials – fertiliser
+
+Materials – fodder
+
+Materials – freight
+
+Materials – fuel and lubricants
+
+Materials – other
+
+Materials – permanent horticulture
+
+Materials – seed
+
+Payments – produce purchased for resale
+
+Payments – sharefarmers
+
+Payments – taxation on business income
+
+Rent – excluding land rent
+
+Repairs and maintenance – buildings and structures
+
+Repairs and maintenance – plant and equipment
+
+Services – agistment
+
+Services – handling and marketing charges
+
+Services – other
+
+Services – packing charges
+
+Services – veterinary fees
+
+Wages for casual and part-time labour
+
+Figure 133 Screenshot asking what is the type of production expense?
+
+What was the full amount for the 2021-22 financial year for this production expense type? (Figure 134)
+
+[Enter number]
+
+Figure 134 Screenshot asking what was the full amount for the 2021-22 financial year for this production expense type?
+
+What was the full amount for the 2022-23 financial year for this production expense type? (Figure 135)
+
+[Enter number]
+
+Figure 135 Screenshot asking what was the full amount for the 2022-23 financial year for this production expense type?
+
+What was the full amount for the 2023-24 financial year for this production expense type? (Figure 136)
+
+[Enter number]
+
+Figure 136 Screenshot asking what was the full amount for the 2023-24 financial year for this production expense type?
+
+This summary table (Figure 137) allows for you to review/edit/delete your input for all production expense sources from the previous questions.
+
+Figure 137 Screenshot of production expense sources summary table
+
+Farm debt
+
+This table (Figure 138) allows you to input all farm debt sources for the previous 3 financial years.
+
+Figure 138 Screenshot of farm debt sources
+
+What is the category of debt? (Figure 139)
+
+Select from the options listed:
+
+Credit – overdraft
+
+Credit/debit cards
+
+Creditors – trade/accounts payable
+
+Employee – wage or salary
+
+Finance equipment
+
+Finance lease
+
+Finance loan
+
+Fines
+
+Government – concessional loan
+
+Government – superannuation
+
+Government – taxation
+
+Liens
+
+Figure 139 Screenshot asking what is the category of debt?
+
+What was the full amount for the 2021-22 financial year for this debt type? (Figure 140)
+
+[Enter number]
+
+Figure 140 Screenshot asking what was the full amount for the 2021-22 financial year for this debt type?
+
+What was the full amount for the 2022-23 financial year for this debt type? (Figure 141)
+
+[Enter number]
+
+Figure 141 Screenshot asking what was the full amount for the 2022-23 financial year for this debt type?
+
+What was the full amount for the 2023-24 financial year for this debt type? (Figure 142)
+
+[Enter number]
+
+Figure 142 Screenshot asking what was the full amount for the 2023-24 financial year for this debt type?
+
+This summary table (Figure 143) allows for you to review/edit/delete your input for all farm debt sources from the previous questions.
+
+Figure 143 Screenshot of farm debt sources summary table
+
+Step 4: Personal Finances
+
+This section collects information about you and your partner’s (if applicable) non-farm income and expenditure sources.
+
+Where accurate financial information is unavailable, the financial assessor is to provide an estimate of the value based on information provided by the applicant.
+
+Questions
+
+What is the type of personal income?
+
+What was the full amount for the <YYYY-YY-3> financial year for this income type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this income type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this income type?
+
+What is the type of personal expenditure?
+
+What was the full amount for the <YYYY-YY-3> financial year for this expenditure type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this expenditure type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this expenditure type?
+
+What is the category of debt?
+
+What was the full amount for the <YYYY-YY-3> financial year for this debt type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this debt type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this debt type?
+
+Personal finances examples
+
+Personal income
+
+This table (Figure 144) allows you to input all personal income sources that you and/or your partner have.
+
+Figure 144 Screenshot of personal income sources that you and/or your partner have
+
+What is the type of personal income? (Figure 145)
+
+Select from the options listed:
+
+Interest received on personal investments
+
+Interest received on personal loans to others
+
+Off-farm salary wage income
+
+Other personal income
+
+Rent received
+
+Figure 145 Screenshot asking what is the type of personal income?
+
+What was the full amount for the 2021-22 financial year for this income type? (Figure 146)
+
+[Enter number]
+
+Figure 146 Screenshot asking what was the full amount for the 2021-22 financial year for this income type?
+
+What was the full amount for the 2022-23 financial year for this income type? (Figure 147)
+
+[Enter number]
+
+Figure 147 Screenshot asking what was the full amount for the 2022-23 financial year for this income type?
+
+What was the full amount for the 2023-24 financial year for this income type? (Figure 148)
+
+[Enter number]
+
+Figure 148 Screenshot asking what was the full amount for the 2023-24 financial year for this income type?
+
+This summary table (Figure 149) allows you to review/edit/delete your input.
+
+Figure 149 Screenshot of personal income sources summary table
+
+Personal expenditure
+
+This table (Figure 150) allows you to input all personal expenditure sources that you and/or your partner have. This helps to build a picture of the imposts on the business to provide for its own running and the upkeep of the household.
+
+Figure 150 Screenshot of personal expenditure sources
+
+What is the type of personal expenditure? (Figure 151)
+
+Select from the options listed:
+
+Finance – bank fees/charges
+
+Household – consumption
+
+Household – electricity
+
+Household – insurance
+
+Household – registration of motor vehicle
+
+Household – telephone
+
+Personal – rent
+
+Personal – taxation on off-farm income
+
+Rates – land protection
+
+Rates – other
+
+Rates - shire
+
+Figure 151 Screenshot asking what is the type of personal expenditure?
+
+What was the full amount for the 2021-22 financial year for this expenditure type? (Figure 152)
+
+[Enter number]
+
+Figure 152 Screenshot asking what was the full amount for the 2021-22 financial year for this expenditure type?
+
+What was the full amount for the 2022-23 financial year for this expenditure type? (Figure 153)
+
+[Enter number]
+
+Figure 153 Screenshot asking what was the full amount for the 2022-23 financial year for this expenditure type?
+
+What was the full amount for the 2023-24 financial year for this expenditure type? (Figure 154)
+
+[Enter number]
+
+Figure 154 Screenshot asking what was the full amount for the 2023-24 financial year for this expenditure type?
+
+This summary table (Figure 155) allows for you to review/edit/delete your input for all personal expenditure sources that you and/or your partner have from the previous questions.
+
+Figure 155 Screenshot of personal expenditure sources summary table
+
+Personal debt
+
+This table (Figure 156) allows you to input all personal debt sources that you and/or your partner have.
+
+Figure 156 Screenshot of personal debt sources
+
+What is the category of debt? (Figure 157)
+
+Select from the options listed:
+
+Credit – overdraft
+
+Credit/debit cards
+
+Creditors – trade/accounts payable
+
+Finance equipment
+
+Finance lease
+
+Finance loan
+
+Fines
+
+Government – Child Support
+
+Government – Social security or Family Assistance
+
+Government – taxation
+
+Liens
+
+Government – concessional loan
+
+Figure 157 Screenshot asking what is the category of debt?
+
+What was the full amount for the 2021-22 financial year for this debt type? (Figure 158)
+
+[Enter number]
+
+Figure 158 Screenshot asking what was the full amount for the 2021-22 financial year for this debt type?
+
+What was the full amount for the 2022-23 financial year for this debt type? (Figure 159)
+
+[Enter number]
+
+Figure 159 Screenshot asking what was the full amount for the 2022-23 financial year for this debt type?
+
+What was the full amount for the 2023-24 financial year for this debt type? (Figure 160)
+
+[Enter number]
+
+Figure 160 Screenshot asking what was the full amount for the 2023-24 financial year for this debt type?
+
+This summary table (Figure 161) allows for you to review/edit/delete your input for all personal debt sources that you and/or your partner have from the previous questions.
+
+Figure 161 Screenshot of personal debt sources summary table
+
+Step 5: Other business finances
+
+This section will ask questions based on whether you have any other business as previously answered in Part A (e.g. Contracting, retail, marketing). Questions relate to the type of other business income, expenditure or any debt that is associated with the business. This will all be from the previous 3 financial years and will help populate the consolidated tables at the end of Part B.
+
+Questions
+
+What is the type of other business income?
+
+What was the full amount for the <YYYY-YY-3> financial year for this income type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this income type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this income type?
+
+What is the type of other business expenditure?
+
+What was the full amount for the <YYYY-YY-3> financial year for this expenditure type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this expenditure type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this expenditure type?
+
+What is the category of debt?
+
+What was the full amount for the <YYYY-YY-3> financial year for this debt type?
+
+What was the full amount for the <YYYY-YY-2> financial year for this debt type?
+
+What was the full amount for the <YYYY-YY-1> financial year for this debt type?
+
+Other business finances example
+
+This table (Figure 162) allows you to input all other business income sources that you and/or your partner have.
+
+Figure 162 Screenshot of other business income sources
+
+What is the type of other business income? (Figure 163)
+
+Select from the options listed:
+
+Accommodation, agri-tourism, food service
+
+Agistment
+
+Contracting income
+
+Dividends and other investment income
+
+Forestry
+
+Government payments
+
+Income from other businesses
+
+Interest earned
+
+Off-farm salary and wage net income
+
+Other personal income
+
+Rebates
+
+Rent received
+
+Royalties (includes wind turbines, solar panels)
+
+Sundry receipts
+
+Figure 163 Screenshot asking what is the type of other business income?
+
+What was the full amount for the 2021-22 financial year for this income type? (Figure 164)
+
+[Enter number]
+
+Figure 164 Screenshot asking what was the full amount for the 2021-22 financial year for this income type?
+
+What was the full amount for the 2022-23 financial year for this income type? (Figure 165)
+
+[Enter number]
+
+Figure 165 Screenshot asking what was the full amount for the 2022-23 financial year for this income type?
+
+What was the full amount for the 2023-24 financial year for this income type? (Figure 166)
+
+[Enter number]
+
+Figure 166 Screenshot asking what was the full amount for the 2023-24 financial year for this income type?
+
+This summary table (Figure 167) allows for you to review/edit/delete your input for all other business income sources that you and/or your partner have from the previous questions.
+
+Figure 167 Screenshot of other business income sources summary table
+
+Other business expenditure
+
+This table (Figure 168) allows you to input all other business expenditure sources that you and/or your partner have.
+
+Figure 168 Screenshot of other business expenditure sources
+
+What is the type of other business expenditure? (Figure 169)
+
+Select from the options listed:
+
+Business – accounting
+
+Business – advisory services
+
+Business – legal fees
+
+Business – electricity
+
+Business – insurance
+
+Business motor vehicle expenses
+
+Business – other administrative costs
+
+Business – other cash costs
+
+Business – postage and stationary
+
+Business – stores and rations
+
+Business – subscriptions
+
+Business – telephone
+
+Business – travel and entertainment expenses
+
+Business – wages for permanent labour
+
+Finance – bank fees/charges
+
+Finance – depreciation
+
+Finance – interest paid on business loans
+
+Finance – land rent
+
+Finance – leasing costs
+
+Finance – plant & equipment hire
+
+Finance – principal repayments on business loans
+
+Continued over the page
+
+Continued from previous page
+
+Finance – principal repayments on business loans
+
+Finance – water charges
+
+Rates – land protection
+
+Rates – other
+
+Rates – shire
+
+Cash costs
+
+Contractors
+
+Materials – chemicals
+
+Materials – freight
+
+Materials – fuel and lubricants
+
+Materials – other
+
+Payments – produce purchased for resale
+
+Payments – taxation on business income
+
+Rent – excluding land rent
+
+Repairs and maintenance – buildings and structures
+
+Repairs and maintenance – plant and equipment
+
+Services – handling and marketing charges
+
+Services – other
+
+Services – packing charges
+
+Services – veterinary fees
+
+Wages for casual and part-time labour
+
+Figure 169 Screenshot asking what is the type of other business expenditure?
+
+What was the full amount for the 2021-22 financial year for this expenditure type? (Figure 170)
+
+[Enter number]
+
+Figure 170 Screenshot asking what was the full amount for the 2021-22 financial year for this expenditure type?
+
+What was the full amount for the 2022-23 financial year for this expenditure type? (Figure 171)
+
+[Enter number]
+
+Figure 171 Screenshot asking what was the full amount for the 2022-23 financial year for this expenditure type?
+
+What was the full amount for the 2023-24 financial year for this expenditure type? (Figure 172)
+
+[Enter number]
+
+Figure 172 Screenshot asking what was the full amount for the 2023-24 financial year for this expenditure type?
+
+This summary table (Figure 173) allows for you to review/edit/delete your input for all other business expenditure sources that you and/or your partner have from the previous questions.
+
+Figure 173 Screenshot of other business expenditure sources summary table
+
+Other business debt
+
+This table (Figure 174) allows you to input all other business debt sources that you and/or your partner have.
+
+Figure 174 Screenshot of other business debt sources
+
+What is the category of debt? (Figure 175)
+
+Select from the options listed:
+
+Credit – overdraft
+
+Credit/debit cards
+
+Creditors – trade/accounts payable
+
+Employee – wage or salary
+
+Finance equipment
+
+Finance lease
+
+Finance loan
+
+Fines
+
+Government – concessional loan
+
+Government – superannuation
+
+Government – taxation
+
+Liens
+
+Figure 175 Screenshot asking what is the category of debt?
+
+What was the full amount for the 2021-22 financial year for this debt type? (Figure 176)
+
+[Enter number]
+
+Figure 176 Screenshot asking what was the full amount for the 2021-22 financial year for this debt type?
+
+What was the full amount for the 2022-23 financial year for this debt type? (Figure 177)
+
+[Enter number]
+
+Figure 177 Screenshot asking what was the full amount for the 2022-23 financial year for this debt type?
+
+What was the full amount for the 2023-24 financial year for this debt type? (Figure 178)
+
+[Enter number]
+
+Figure 178 Screenshot asking what was the full amount for the 2023-24 financial year for this debt type?
+
+This summary table (Figure 179) allows for you to review/edit/delete your input for all other business debt sources that you and/or your partner have from the previous questions.
+
+Figure 179 Screenshot of other business debt sources summary table
+
+Step 6: Financial position
+
+The financial section is presented in three parts:
+
+the source of farm business receipts,
+
+the consolidated farm income/operating costs/debts, and
+
+the consolidated personal income/operating costs/debt of the applicant.
+
+The consolidated table provides an estimate of the financial position over the next year which is an average of the 3 years of income, assets and debts already provided.
+
+Strategic planning allows the farmer to take stock of where the business is and establish a clear course to follow. Regular planning also helps the business deal with change. The information from these tables will indicate whether the farm business will generate enough cash to pay debts and to expand operations.
+
+Questions
+
+Source of farm business receipts.
+
+Consolidated farm income, operating costs and debt.
+
+Consolidated personal income, operating costs and debt of applicant and partner.
+
+Consolidated other business income, operating costs and debt of applicant and partner.
+
+Financial position examples
+
+Source of farm business receipts (Figure 180).
+
+Approximate proportion of your farm business receipts have been derived from the following.
+
+Figure 180 Screenshot of the source of farm business receipts
+
+Consolidated farm income, operating costs and debt (Figure 181).
+
+The following table displays the consolidated table for the last 3 years which will be generated depending on the year the FFA is completed. A 1 year estimated projection will also display based on the average income, assets and debts information and the baseline assumption that conditions (seasonal, economic and personal) remain the same.
+
+Figure 181 Screenshot of the consolidated farm income, operating costs and debt
+
+Consolidated personal income, operating costs and debt (Figure 182).
+
+The following table displays the consolidated table for the last 3 years which will be generated depending on the year the FFA is completed. A 1 year estimated projection will also display based on the average income, assets and debts information and the baseline assumption that conditions (seasonal, economic and personal) remain the same.
+
+Figure 182 Screenshot of consolidated personal income, operating costs and debt
+
+Consolidated other business income, operating costs and debt (Figure 183).
+
+The following table displays the consolidated table for the last 3 years which will be generated depending on the year the FFA is completed. A 1 year estimated projection will also display based on the average income, assets and debts information and the baseline assumption that conditions (seasonal, economic and personal) remain the same.
+
+Figure 183 Screenshot of consolidated other business income, operating costs and debt
+
+Step 7: Review and submit
+
+This section displays a summary of all answers you have submitted for part B and allows the opportunity to review, edit or delete any input. To submit the input to Part B the financial assessor will be required to make a declaration (Figure 184).
+
+Figure 184 Screenshot of the financial assessor declaration statement for Part B
+
+Part C – Farm Performance
+
+This part is an assessment of your financial position with a review and update of the ideal thresholds, prepopulated from the content supplied in parts A & B followed by a SWOT analysis. This will be completed by the financial assessor and the more accurate the information in part A & B the better overall outcome will be achieved for parts C & D.
+
+Performance indicators
+
+The use of performance indicators in the financial analysis of farm businesses is a beneficial tool for assisting effective decision making aimed at improving business performance.
+
+Financial indicators will provide an objective measure of farm performance and/or financial security. They transform dollar values into ratios or percentages that are relatively consistent across agricultural industries and geographical regions. Financial assessors will use their professional expertise to set appropriate indicator benchmarks for each applicant depending on their objectives, farm business model, commodities and financial situation. Financial assessors will also comment on this selection of financial indicators as part of their assessment of the farm business.
+
+This table will be automatically populated from data supplied in Part B with the exception of the ‘Ideal Threshold’ column, which will need to be completed by the financial assessor based on their experience as a financial professional and their understanding of this business and the measures needed to achieve medium and long-term profitability and sustainability.
+
+Help text
+
+More information about performance indicators can be found in Table 1 below. Click the hyperlink online to view these performance indicators as a web page.
+
+Table 1 - Performance Indicators Help Text
+
+Performance Indicator display
+
+The performance indicator display (Figure 185) allows the financial assessor to review and update with the ideal threshold based on the data input to this point and your professional advice.
+
+Note: calculated percentages will round up to the nearest second decimal place e.g. 35.039% will round to 35.04%. If any indicator calculation divides by 0, N/A is displayed.
+
+Figure 185 Screenshot of the performance indicators - ideal thresholds
+
+Ideal threshold rules
+
+The below rules will apply to each of the indicators above:
+
+Mandatory input
+
+Numerical input allowing for 2 decimal places except for total disposable income
+
+Total disposable income max threshold $9,999,999,999 – whole numbers only
+
+Max threshold for percentage indicators is 9999.99%
+
+SWOT Analysis
+
+Strengths, Weaknesses, Opportunities, and Threats (SWOT) analyses enable you as the financial assessor to better understand and communicate the farm business’ strengths and weaknesses and assess what threats and opportunities exist in both the environment that they operate in and the external environment. It can be used to identify training needs and to take advantage of the talents, abilities and opportunities that are available.
+
+Providing quality information as part of the SWOT analysis is very important because the FFA will assist FHCOs to facilitate the recipient’s decision-making about what actions they need to undertake to improve their short and long-term financial self-reliance. This means that the information in the SWOT analysis needs to be accurate, relevant and as comprehensive as possible.
+
+Question
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their strengths.
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their weaknesses.
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their opportunities.
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their threats.
+
+SWOT analysis examples
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their strengths (Figure 186).
+
+[Provide details]
+
+Figure 186 Screenshot asking considering the applicants overall financial situation, what are their strengths
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their weaknesses (Figure 187).
+
+[Provide details]
+
+Figure 187 Screenshot asking considering the applicants overall financial situation, what are their weaknesses
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their opportunities (Figure 188).
+
+[Provide details]
+
+Figure 188 Screenshot asking considering the applicants overall financial situation, what are their opportunities
+
+Considering the applicants overall financial situation, including on-farm and off-farm activities, what are their threats (Figure 189).
+
+Figure 189 Screenshot asking considering the applicants overall financial situation, what are their threats
+
+Summary
+
+Based on the information available, provide a commentary on the top five key factors affecting the applicant’s financial situation. These questions are mandatory with a 1,000-character maximum.
+
+Factor 1 (Figure 190)
+
+[Provide details on factors affecting the FHA recipient’s financial situation]
+
+Figure 190 Screenshot of Factor 1
+
+Factor 2 (Figure 191)
+
+[Provide details on factors affecting the FHA recipient’s financial situation]
+
+Figure 191 Screenshot of Factor 2
+
+Factor 3 (Figure 192)
+
+[Provide details on factors affecting the FHA recipient’s financial situation]
+
+Figure 192 Screenshot of Factor 3
+
+Factor 4 (Figure 193)
+
+[Provide details on factors affecting the FHA recipient’s financial situation]
+
+Figure 193 Screenshot of Factor 4
+
+Factor 5 (Figure 194)
+
+[Provide details on factors affecting the FHA recipient’s financial situation]
+
+Figure 194 Screenshot of Factor 5
+
+Review and submit
+
+Please ensure you have entered all your details correctly before submitting. There will be a chance to review the input prior to selecting the submit button.
+
+The financial assessor is required to declare the following statement (Figure 195) before submitting the Part C answers.
+
+Figure 195 Screenshot of the financial assessor Part C declaration and submission
+
+Part D: Assessment
+
+This part is a report on the potential position of the farm business and represents the financial assessor’s professional opinion based on the financial information provided – completed by the financial assessor. It should be carefully framed to avoid giving advice (unless the financial assessor has the appropriate financial qualifications and insurances to do so). As a result, the questions are worded to give the recipient and the FHCO points to discuss about the observations about the factors that have contributed to the farm business’ current difficulties, and potential pathways forward.
+
+Important
+
+ICT limitations have imposed a character limit of 1,000 characters per question. Some financial assessors may find it easier to use this guide to transfer the questions to a word processing document, craft their messages, and then transfer them to the FFA.
+
+Part 1 – Financial assessor’s assessment
+
+Based on the information available, provide a report of the potential position of the farm, taking into account the following questions. All questions are mandatory unless they are marked optional.
+
+Questions
+
+What trends in income, profit or expenditure have contributed to the farm’s financial situation?
+
+Using your financial expertise and the information from parts B and C, discuss the profitability issues of the farm business and opportunities for improvement. If there are none, please explain why.
+
+Financial assessors’ assessment examples
+
+What trends in income, profit or expenditure have contributed to the farm’s financial situation? (Figure 196)
+
+[Provide details]
+
+Figure 196 Screenshot asking what trends in income, profit or expenditure have contributed to the farm’s financial situation?
+
+Using your financial expertise and the information from Parts B and C, discuss the profitability issues of the farm business and opportunities for improvement. If there are none, please explain why (Figure 197).
+
+[Provide details]
+
+Note: if there are none, please explain why.
+
+Figure 197 Screenshot asking how to discuss the profitability issues of the farm business and opportunities for improvement
+
+Part 2 – Financial assessor’s assessment
+
+Based on the information available, provide a report of the potential position of the farm, taking into account the following questions. All questions are mandatory unless they are marked optional.
+
+Questions
+
+Using information supplied in FFA Parts B and C and drawing on your financial expertise, discuss the liquidity issues of the farm business and opportunities for improvement. If there are none, please explain why.
+
+Using information supplied in FFA Parts B and C and drawing on your financial expertise, discuss the financial stability issues of the farm business and opportunities for improvement. If there are none, please explain why.
+
+Financial assessors’ assessment examples
+
+Using information supplied in FFA Parts B and C and drawing on your financial expertise, discuss the liquidity issues of the farm business and opportunities for improvement. If there are none, please explain why (Figure 198).
+
+[Provide details]
+
+Figure 198 Screenshot asking how to discuss the liquidity issues of the farm business and opportunities for improvement
+
+Using information supplied in FFA Parts B and C and drawing on your financial expertise, discuss the financial stability issues of the farm business and opportunities for improvement. If there are none, please explain why (Figure 199).
+
+[Provide details]
+
+Figure 199 Screenshot asking how to discuss the financial stability issues of the farm business and opportunities for improvement
+
+Part 3 – Financial Assessor’s assessment
+
+Based on the information available, provide a report of the potential position of the farm, taking into account the following questions.
+
+Questions
+
+Would the business benefit from changes to the business lines (commodities)? Please explain the reason for your answer.
+
+Considering any limitations the applicant may face in improving farm profit in the next 3 years, does the applicant need to obtain additional income from outside the farm to achieve financial security?
+
+Financial assessor’s assessment examples
+
+Would the business benefit from changes to the business lines (commodities)? Please explain the reason for your answer (Figure 200).
+
+[Provide details]
+
+Figure 200 Screenshot asking would the business benefit from changes to the business lines (commodities)?
+
+Considering any limitations the applicant may face in improving farm profit in the next 3 years, does the applicant need to obtain additional income from outside the farm to achieve financial security? (Figure 201)
+
+[Provide details]
+
+Figure 201 Screenshot asking does the applicant need to obtain additional income from outside the farm to achieve financial security?
+
+Part 4 – Financial Assessor’s assessment
+
+Based on the information available, provide a report using your expertise of the potential position of the farm, taking into account the following questions. All questions are mandatory unless they are marked optional.
+
+Questions
+
+In considering their future what other issues has the applicant identified during this assessment that they consider important to their current and preferred situations? Are there blockers to achieving financial security?
+
+Are there other issues relevant to the applicant’s circumstances?
+
+Financial assessor’s assessment examples
+
+In considering their future what other issues has the applicant identified during this assessment that they consider important to their current and preferred situations? Are there blockers to achieving financial security? (Figure 202)
+
+[Provide details]
+
+Figure 202 Screenshot asking what other issues has the applicant identified?
+
+Are there other issues relevant to the applicant’s circumstances? (Figure 203)
+
+[Provide details]
+
+Figure 203 Screenshot asking are there other issues relevant to the applicant's circumstances?
+
+Further assistance
+
+Provide options for additional professional training, advice or support.
+
+Questions
+
+What type of additional professional training, advice or support do you think may improve the FHA recipient’s ability to make business decisions based on their financial situation, goals and prospects?
+
+Provide further details on the other professional advice or training.
+
+Further assistance examples
+
+What type of additional professional training, advice or support do you think may improve the FHA recipient’s ability to make business decisions based on their financial situation, goals and prospects? (Figure 204)
+
+Select from the options listed:
+
+Services of agronomists/farm consultant
+
+Product research/development
+
+Farm analysis
+
+Diversification options/analysis
+
+Financial planning
+
+Budgeting – twelve-month budgets
+
+Legal advice
+
+Succession planning
+
+Retirement options
+
+Business management training (e.g. property management planning)
+
+Farm skills development/training (e.g. wool classing, chemical handling, pasture management)
+
+Retraining to obtain off-farm income
+
+Computer training
+
+Career counselling including a skills assessment
+
+Other professional advice or training
+
+Note: if other professional advice or training is selected then the following question will be displayed.
+
+Figure 204 Screenshot asking what type of additional professional training, advice or support do you think may improve the FHA recipient’s ability to make business decisions?
+
+Provide further details on the other professional advice or training (Figure 205).
+
+[Provide details]
+
+Figure 205 Screenshot of how to provide further details on the other professional advice or training
+
+Financial assessor details
+
+Provide details relating to your business as the financial assessor.
+
+Questions
+
+Name of the organisation.
+
+Name of the financial assessor.
+
+Australian Business Number (ABN) of the organisation.
+
+Postal address of the organisation.
+
+Contact phone number.
+
+Financial assessor details examples
+
+Name of the organisation (Figure 206).
+
+[Provide details]
+
+Figure 206 Screenshot asking for name of the organisation
+
+Name of the financial assessor (Figure 207).
+
+[Provide details]
+
+Figure 207 Screenshot asking for name of the financial assessor
+
+Australian Business Number (ABN) of the organisation (Figure 208).
+
+[Provide details]
+
+Figure 208 Screenshot asking for Australian Business Number (ABN) of the organisation
+
+Postal address of the organisation (Figure 209).
+
+[Provide details]
+
+Figure 209 Screenshot asking for postal address of the organisation
+
+Contact phone number (Figure 210).
+
+[Provide details]
+
+Figure 210 Screenshot asking for contact phone number
+
+Review and submit
+
+Please ensure you have entered all your details correctly before submitting (Figure 211). You will not be able to change your answers after submitting.
+
+Figure 211 Financial assessor declaration statement.
+
+Glossary

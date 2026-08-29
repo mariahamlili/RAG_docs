@@ -1,0 +1,309 @@
+The availability of PEMS for industry aims to streamline the plant export inspection documentation process for clients and AOs, by eliminating the need for manual submission of inspection and calibration documentation.
+
+The use of PEMS is mandatory unless an exception applies. The exceptions are limited to situations where:
+
+- exceptional circumstances arise that affect a PEMS user’s ability to complete and submit a record through PEMS
+
+- a system outage, either planned or unplanned, renders PEMS unusable for a period of time
+
+- the type of record the AO must complete is not available in PEMS
+
+- we have approved, in writing, an individual exception with the client and/or AO that allows records to be made in an approved way other than PEMS, and evidence of this is held by us.
+
+- allows inspection AOs to enter and submit inspection and calibration records, and any supporting documentation, to the department.
+
+- allows inspection AOs to reactivate their own records to correct minor errors.
+
+- allows exporters and EDI users to view inspection and calibration records associated with their Request For Permits (RFPs), and upload supporting documentation directly into the system, pre and post-inspection.
+
+- allows exporters, EDI users, establishment executives and AOs to submit ‘Service Requests’ to request authorisation of an RFP or issuance of In-Transit Cold Treatment (ITCT) certificate and/or Declaration and certificate as to condition (EX188). If you use PEMS you will not need to consider email titling requirements for those Service Requests as this will be automatically populated by the system, reducing errors, and expediting the process.
+
+- allows export registered establishments to view and download records for all inspections and calibrations conducted at their establishment.
+
+- centralises and stores all plant export inspection and calibration records, and supporting documentation, making record keeping easier and making accessing these records faster.
+
+- automatically validates AO job functions, and inspection and calibration data.
+
+- automatically calculates inspection and calibration expiration dates.
+
+- automatically generates and issues an invoice to the client for internal AO services.
+
+- works on a range of devices including desktop computers, laptops and mobile devices (such as a tablet, iPad and on most mobile phones) (see What equipment do I need to use PEMS? for more information).
+
+- includes an offline mode so AOs can record inspection and calibration results even when there is no internet/network connection at the inspection location.
+
+- has a user-friendly interface and helpful automated prompts making the system easy to use.
+
+- is available 24 hours a day, seven days a week
+
+- is available to AO candidates and appointed AOs to manage their personal details, request training and assessment and pay AO fees.
+
+Launch Plant Exports Management System (PEMS)
+
+![Graphic image of the BICON launch button](https://www.agriculture.gov.au/sites/default/files/images/launch-pems-button.png)
+
+Clients
+
+- Clients can register for access to PEMS at any time. See factsheet How to register for PEMS for more information. By registering as a PEMS user you will be able to provide all supporting documents in the PEMS system when you request plant and plant products export certification/authorisation.
+
+- You will also be able to request authorisation and issuance of some certificates directly through PEMS Service Requests through the Communications Workflow, which will also automatically notify users when
+
+  - authorisations have been granted,
+
+  - certificates are available in PEMS, or if
+
+  - resubmission is required.
+
+The department’s preference is that clients use the PEMS communications workflow. When you use a PEMS Service Request you do NOT need to email ASG Exports. All correspondence initiated in the communications workflow should remain in PEMS including any resubmission information. The PEMS External Executive user guide has been updated to include instructions on how to use the communications workflow.
+
+If you choose to continue to use email correspondence you must still email Assessment Services Group (ASG) Exports to request plant and plant product export documents including when submitting a request for electronic certification/authorisation and for the issuance of calibration and certificates. The records will be accessed from PEMS and attachments should not accompany the email.
+
+When the AO has used PEMS to record the inspection results:
+
+- exporters/EDI users must use PEMS to upload supporting documents (pre- and post-inspection), rather than submitting these to the department’s (ASG) Exports via email. Supporting documents will be rejected if provided by email, unless an exception exists.
+
+- export registered establishments with access to PEMS can view and download inspection records and calibration reports from all inspections/calibrations conducted at their establishment.
+
+Note: When exporter users and EDI users request access under their relevant roles, they will be prompted to provide either their exporter number or EDI user number. When access is required for more than one entity a client should provide their EDI number (not their exporter number) to access records of multiple entities. Your EDI number would have been provided to you when you registered as an EXDOC user.
+
+Establishment executives can apply for access for one establishment, and then request additional establishments to be linked to the one profile by emailing the PEMS admin team after initial access has been granted.
+
+Please see the factsheet for more information to avoid unnecessary delays in approving your access request.
+
+Authorised Officers
+
+AOs must register for access to PEMS to complete their inspection and calibration records. There is no formal face- to-face training and assessment required for PEMS users.
+
+Once registered, AOs must submit their inspection and calibration records in PEMS. The use of PEMS is mandatory unless the department has authorised an exception.
+
+Note: Calibration records can only be recorded in PEMS where PEMS has been used to record the commodity inspection records.
+
+PEMS is easy and intuitive to use, however AOs should familiarise themselves with the user guides, and view the video tutorials, prior to use, to ensure they are confident in what is required.
+
+The AO hotline is available for technical system support but is not able to provide step-by-step instructions and should not be relied upon as an instructional resource.
+
+Once registered, AOs should check their PEMS profile (including any job functions) is working and accurate prior to undertaking any work in the system.
+
+If there are any issues with your PEMS profile please contact Plant Export Training.
+
+Where a client or AO has an electronic system that is used to record inspections, calibrations and/or generate export documentation, then this system may be able to integrate with PEMS. This means that those clients can continue to use their existing system and the data captured in these systems will be extracted into PEMS via system integration. The client and the related AOs will still need to register as a PEMS user to allow the data transfer.
+
+System integration specifications are currently available for third party software providers.
+
+As of July 2020, system integration functionality has been available in the live environment. If you would like more information about system integration, contact the PEMS team.
+
+Further information can be found in Industry Advice Notices 2020-78, 2020-72, 2020-60, 2020-19 and 2019-39.
+
+Where a business has an electronic system that is used for one step in the export pathway (for example, a container tracking system) then documents generated by this system can be attached to the PEMS record to support the inspection and/or calibration process. However, the rest of the inspection must be completed in PEMS.
+
+Authorised Officers
+
+Video tutorials are available and can be accessed through your LearnHub account. These short, step-by-step instructional videos show you how to use PEMS to complete your inspection and calibration records and can be viewed as often as required. Watching the video tutorials is not mandatory but is recommended for all users to familiarise themselves with the system.
+
+The following video tutorials are available now:
+
+- Getting started in PEMS
+
+- PEMS Search functions
+
+- Using PEMS offline
+
+- Refreshing information from EXDOC
+
+- Assigning additional AOs to an inspection record
+
+- Reactivating an inspection
+
+- Cancelling or withdrawing an inspection
+
+- Adding attachments and correspondence in PEMS
+
+- Viewing records in PEMS
+
+- Empty Container Inspection
+
+- Bulk Vessel Inspection
+
+- Horticulture
+
+- Containerised Goods Inspection (for Grain and Plant Product inspections)
+
+- Calibrations (In Transit Cold Treatments)
+
+- Bulk Into Ship Hold
+
+- Vapour Heat Treatment.
+
+The following video tutorials are in development and will be released as they are completed:
+
+- Quality Systems Recognition
+
+- Calibrations (On-shore Cold Treatment).
+
+Guidance material is also available (see What instructional material is available?).
+
+Clients
+
+Training is not required for exporters, EDI users and export registered establishments. Guidance material is available (see What instructional material is available?).
+
+The following fact sheets have been developed for clients and AOs.
+
+General
+
+Download
+
+| Document | Pages | File size | 
+
+|---|---|---|
+
+| PEMS information for industry, exporters and AOs PDF | 2 | 568 KB | 
+
+| PEMS information for industry, exporters and AOs DOCX | 2 | 1.7 MB | 
+
+| PEMS help: IT troubleshooting PDF | 2 | 889 KB | 
+
+| PEMS help: IT troubleshooting DOCX | 2 | 1.8 MB | 
+
+Clients
+
+Download
+
+Authorised Officers
+
+Download
+
+Download
+
+| Document | Pages | File size | 
+
+|---|---|---|
+
+| Video transcript DOCX | 3 | 75 KB | 
+
+| PEMS in your pocket PDF | 3 | 1.3 MB | 
+
+| PEMS in your pocket DOCX | 3 | 3.3 MB | 
+
+PEMS supports inspections and calibrations for the following:
+
+- plant and plant product inspections, including for protocol markets and nursery stock
+
+- empty bulk vessels and empty containers inspections
+
+- calibration and loading of containers for ITCT
+
+- onshore cold treatment (OSCT) calibrations
+
+- vapour heat treatment calibration and supervision
+
+- quality systems recognition (QSR) inspections
+
+- bulk into ship holds (BISH) inspections, including when using a mobile bulk loader at the wharf
+
+- inspections for re-export phytosanitary certificate
+
+The following are not currently supported by PEMS and should continue to be recorded manually:
+
+- Export Compliance Goods Storage inspection records
+
+- records for consignments inspected at regional department offices
+
+- mixed consignments of horticulture and grain product, such as fresh vegetables and dried herbs; and dried fruit and nut mixes.
+
+AOs will only be able to complete inspection records in PEMS for plant export job functions that they are appointed for.
+
+If AOs have any issues with a PEMS profile or job functions please contact Plant Export Training or call the Authorised Officer Hotline on 1800 851 305.
+
+If an inspection or calibration has been recorded in PEMS, there is no requirement to email copies of the PEMS record or any supporting documents to the department. There is also no requirement to print and retain PEMS records, or keep copies of supporting documents that have been uploaded into PEMS.
+
+Clients
+
+Exporters need to submit supporting documentation to the AO and the department at the required time in the export process, as per the applicable Micor case and Reference: Plant Export documents and treatments checklist.
+
+The communication workflow Service Request allows you to manage all plant exports communication within PEMS. When you use PEMS to request authorisation and/or issuance of certificates you will not need to send email requests. You will receive automated notification when requests are completed, certificates are available or if resubmission is required.
+
+Submitting documents before and/or at the time of inspection
+
+Supporting documents required prior to inspection should be attached in PEMS or provided to the AO via email at the time of booking. Documents required at the time of inspection or calibration should be attached in PEMS or provided to the AO on the day. The AO will then validate the documents and ensure all documents are attached in PEMS.
+
+NOTE: Documents only need to be submitted via email when an inspection/calibration is not completed in PEMS, when an exception applies.
+
+AOs can attach a supporting document in PEMS at any time during the inspection until the RFP is closed.
+
+Submitting documents post-inspection
+
+Where an AO is using PEMS, exporters should submit any additional post-inspection documentation to the department through PEMS, rather than submitting documentation via email. Supporting documents will be rejected if provided by email, unless an exception exists.
+
+If you choose to continue to use email correspondence exporters will still need to notify the ASG Exports
+
+via email that their inspection and/or calibration records and supporting documents are available in PEMS, at the time of requesting RFP authorisation. Exporters will need to include ‘Refer to PEMS for inspection and supporting documentation’ in their email correspondence. Further details are located here.
+
+Where the AO does not use PEMS, the exporter will need to submit their documentation to the ASG Exports via email as per the current process. All inspection and calibration records must be submitted via PEMS, either directly or via system integration, where the inspection type is available in PEMS, unless an exception applies.
+
+For guidance in relation to requesting export certification please see Request export documents.
+
+Submitting documents for the issuance of a calibration certificate for ITCT.
+
+If you choose to continue to use email correspondence exporters will still need to notify the department via email that their calibration records and supporting documentation are available in PEMS, at the time of requesting their RFP authorisation. They will also need to still send a separate email to request the issuance of a certificate of calibration and loading for all countries (with the exception of Japan, USA and Indonesia).
+
+Authorised Officers
+
+The communication workflow Service Request allows you to manage all plant exports communication within PEMS. If authorised, AOs can also use PEMS to request authorisation and/or issuance of certificates. You will not need to send email requests. You will receive automated notification when requests are completed, certificates are available or if resubmission is required.
+
+Submitting documents and inspection records
+
+Once AOs have been given access to PEMS, they must submit all plant export inspection and calibration records, and relevant supporting documents (such as import permits and pre-inspection treatment certificates) to the department through PEMS, for all available export inspection types (see What types of export inspections does PEMS support?).
+
+Manual records will only be accepted via email if an exception applies, which includes but is not limited to unplanned PEMS/system outages and planned maintenance shutdowns.
+
+Signing inspection records
+
+The department does not require AOs that submit inspection and calibration records through PEMS to sign the finalised record that can be downloaded for the client. This includes horticulture and grain inspection records, bulk vessel inspection records and empty container inspection records.
+
+PEMS has in-built authentication when a user logs into PEMS and as a result, recognises the AO responsible for the inspection record. Due to this user authentication, submission of the inspection record through PEMS is considered as an official inspection record (see the Electronic Transactions Act 1999).
+
+An AO may download and email or print a copy of the PEMS inspection record for the client’s records. These client copies may be signed by the relevant AO on the explicit request from the client.
+
+IT enquiries
+
+- Clients experiencing PEMS system or IT-related issues can email the PEMS Administrator or call the department’s enquiry line on 1800 900 090.
+
+- AOs experiencing PEMS system or IT-related issues can email the PEMS Administrator or call the Authorised Officer Hotline on 1800 851 305.
+
+Registration or profile enquiries
+
+- Clients with registration or profile enquiries can email the PEMS Administrator or call the department’s enquiry line on 1800 900 090.
+
+- AOs with registration, access, job function or training and assessment enquiries can contact Plant Export Training or call the Authorised Officer Hotline on 1800 851 305.
+
+Process or system function enquiries
+
+- Clients with process or system function issues should first refer to the relevant factsheets and instructional material (see What instructional material is available?) before contacting the PEMS Administrator or calling the department’s enquiry line on 1800 900 090.
+
+- AOs with process or system function issues should first refer to the relevant factsheets and instructional material (see What instructional material is available?) and video tutorials before contacting Plant Export Training or calling the Authorised Officer Hotline on 1800 851 305.
+
+To use PEMS, you will need:
+
+- a mobile phone, a laptop or other portable device (such as a tablet or iPad) or a desktop computer
+
+- access to the internet or other network connection through the device
+
+- an internet browser on the device, such as Internet Explorer or Chrome.
+
+PEMS includes an offline function to allow AOs to record inspection and calibration records when there is no internet or network connection, so access to the internet or a network connection is not required all the time.
+
+Note: For more information on how to use PEMS offline to record inspection and ITCT/OSCT calibration data, refer to the factsheet How to use PEMS offline and the Plant Exports Management System Authorised officer user guide.
+
+Internet Compatibility View
+
+If operating PEMS through Internet Explorer, Compatibility View will impact on the view of the PEMS icon in the department’s self-service portal (the green leaf icon will not display).
+
+You may be prompted by Internet Explorer to disable Compatibility View when opening PEMS. However, Compatibility View will not impact on the operation or look of the PEMS application itself. There is no requirement to disable Compatibility View to operate PEMS in Internet Explorer. You can proceed to enter PEMS by clicking the green square icon on the department’s self-service portal.
+
+In 2022-23, PEMS will be further upgraded and will include a number of enhancements:
+
+- Improvement to the AO lifecycle
+
+- Treatment Application Programming Interface (API) for vapour heat treatment and onshore cold treatment
+
+More information will be provided on this webpage and via Industry Advice Notices in due course. Please ensure you are subscribed to receive announcements and updates.

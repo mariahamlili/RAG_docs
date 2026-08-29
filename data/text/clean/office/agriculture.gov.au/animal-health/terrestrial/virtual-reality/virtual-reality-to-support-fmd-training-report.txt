@@ -1,0 +1,1445 @@
+Virtual reality to support FMD training
+
+Matthew Wilson and Luke Wilson
+
+Novus Res
+
+© Commonwealth of Australia 2020
+
+Ownership of intellectual property rights
+
+Creative Commons licence
+
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties, logos and the Commonwealth Coat of Arms.
+
+Cataloguing data
+
+ISBN 978-1-76003-387-3
+
+This publication is available at www.agriculture.gov.au/animal/health
+
+GPO Box 858 Canberra ACT 2601
+
+Telephone 1800 900 090
+
+Web awe.gov.au
+
+Acknowledgements
+
+Tables
+
+Table 1 Benefits and limitations of VR hardware	16
+
+Table A1 List of current generation VR headsets as of May 2020	56
+
+Figures
+
+Figure 1 Timeline of VR development 1950 to 2010	8
+
+Figure 2 Timeline of major VR headsets since 2010	9
+
+Figure 3 Components of a VR headset	10
+
+Figure 4 Three-dimensional presentation of a virtual scene	10
+
+Figure 5 Outside-in tracking (left), inside-out tracking (right)	11
+
+Figure 6 Differences in movement in 3DoF tracking versus 6DoF tracking	12
+
+Figure 7 Example VR hand controllers, HTC Vive (left), Oculus Touch (right)	12
+
+Figure 8 Edgar Dale’s Cone of Learning	19
+
+Figure 9 Teleportation using an input controller	28
+
+Figure 10 The same 3D model repurposed through texturing	30
+
+Figure 11 Representations of an Australian farm, low poly (left) high poly (right)	30
+
+Figure 12 Supporting VR demonstration application	49
+
+Figure 13 Module 1 Virtual tutorial presentation and assessment	50
+
+Figure 14 Module 2 Setting up a virtual biosecurity control point	51
+
+Figure 15 Module 3 Investigating livestock	52
+
+Figure 16 Module 4 Interviewing landowners	53
+
+Figure 17 Module 5 Taking samples	54
+
+Executive summary
+
+The primary objective of the report is to describe how VR could be used to create cost effective and expandable training applications for the animal handling and biosecurity sector that can be rolled out to a larger section of the animal handling industry. It focusses on how the technology can be used for training in the early stage detection and investigation of suspected FMD cases. The findings of the report are supported by a demonstration VR application.
+
+Australia would experience significant economic loss in the event of an outbreak of FMD with estimates for a wide scale outbreak costing $49.3 to $51.8 billion. The 2011 A review of Australia’s preparedness for the threat of foot-and-mouth disease (Matthews Report) made several recommendations relating to Australia’s preparedness for an FMD outbreak including increasing the quantity and spread of training to workers involved in the observation and handling of animals to promote early detection.
+
+The adoption of VR in the training sector has been one of the strongest areas of growth in this technology. VR is being used by respected industry leaders such as Walmart, American Airlines and Volkswagen. It has been demonstrated that the practical hands-on training provided by VR can produce better outcomes than traditional training methods such as physical classrooms and e-Learning.
+
+Organisations that have trialled VR training report reductions in training costs and time in addition to improvements in training engagement and learning outcomes. With the current cost of a high-level standalone VR headset being approximately $650 as of May 2020, there is the potential for a fleet of VR headsets to train users concurrently at a large scale.
+
+VR can be used in the training environment to replicate almost any real-world scenario. Users experience a feeling of presence when in the training environment which is the sensation of being physically located in the virtual scene. VR allows users to interact with this environment and perform repeatable and measured tasks safely in a self-guided format.
+
+To support this report a demonstration VR application was developed showing how FMD training scenarios can be incorporated into VR. The application comprises five modules covering a range of FMD training concepts each demonstrating elements of FMD biosecurity training that are well-suited to VR. The modules in the demonstration application include learning background knowledge of FMD, establishing biosecurity control points, conducting FMD investigations on livestock, interviewing landowners, and taking laboratory samples from livestock. Users can use their hands to perform a set of training tasks while on a virtual representation of a farm. The application also includes trainee profiles allowing for tracking and reporting of trainee performance. A detailed outline of this demonstration application is provided in the report.
+
+The findings of this report are that VR is an established and growing technology and evidence supports its adoption in the training sector. The type of training required for FMD preparedness is suitable for incorporation into VR training modules. The adoption of VR in FMD preparedness training is likely to provide significant benefits including reducing the cost of training and expanding the scale of training to a larger number of personnel who directly observe and interact with FMD susceptible animals. The principles for developing VR training and deploying it at various scales is outlined in the report.
+
+Introduction
+
+This report examines how VR could be used in foot-and-mouth disease (FMD) training.
+
+FMD is endemic in many countries and the potential economic impacts of an outbreak in Australia have been estimated at $49.3 billion to $51.8 billion. Training methods in Australia include online training and on-site EuFMD Real Time Training in Nepal that was discontinued in 2019. Real Time Training is effective however it is labour intensive and expensive.
+
+The concept of VR developed in the 1950s and 60s. The concept allows users to be placed inside computer generated virtual environments and experience a feeling of ‘being in’ the simulation. Since 2010 a new generation of consumer level VR technologies has been developed. These systems have rapidly evolved to provide high quality and low-cost access to VR. The training sector quickly adopted the technology with VR training programs now run across a range of sectors including manufacturing, healthcare, retail and customer service.
+
+Studies into the effectiveness of VR in the training sector have shown that in certain scenarios trainees perform better when using VR, with better knowledge retention and improved test scores. The virtual learning experience also provides engaging learning experiences. Organisations that use VR as part of their training programs report reductions in the amount of time spent in training, reduction in costs of training, and better training outcomes.
+
+This report provides a detailed examination of VR covering its development history, the current market and why VR is suited to training. The report covers the process for developing VR applications and specifically outlines the process for developing and delivering an FMD focused biosecurity training application. It also covers the considerations for deploying VR training at various scales.
+
+VR is a new technology and there is scope to explore new ways to adopt it in training applications. The report provides an overview of the limitations of VR in relation to training and identifies potential future developments that may overcome these limitations.
+
+A demonstration VR application has been developed to support this report. The demonstration application was developed for the standalone VR headset the Oculus Quest. The application provides five training scenario simulations demonstrating how training in FMD procedures can be achieved using VR. It demonstrates various solutions for providing the interactions required of FMD training procedures.
+
+The report is intended to inform the reader about VR, providing an understanding of the technology and how it can be integrated into training programs to deliver FMD training.
+
+Review of current biosecurity training methods
+
+Foot-and-mouth disease (FMD) is caused by a virus of the Picornavirus family (genus Aphthovirus). The virus is a small non-enveloped single-stranded RNA virus approximately 25-30nm in size.
+
+The disease affects cattle and a wide range of other animals, causing lesions on the mouth, lips, feet, and teats of infected animals. This acute viral disease is rarely fatal but has recognised morbidity. For instance, persistent foot infections, difficulties with milking due to mastitis.
+
+The need for foot-and-mouth disease training
+
+The FMD virus is highly contagious and can survive well in the environment. Infection requires low infective doses and infected animals produce large quantities of the virus. The virus shows frequent spontaneous mutations meaning new lineages frequently emerge. There are seven distinct serotypes and immunity to one of these does not provide immunity to the others. Endemic countries often find more than one serotype circulating.
+
+Many regions are still classified as FMD endemic including countries in Africa, the Middle East and Asia. FMD outbreaks regularly occur in these regions, with nine countries reporting outbreaks in December 2019 including China, Myanmar, India, Pakistan, Kenya, Ethiopia, and South Africa (FAO/EUFMD 2020).
+
+Countries in the European Union and North America have been considered FMD free for many decades, however, outbreaks still occur such as in the United Kingdom in 2007. The impact of an outbreak includes loss of livestock and economic losses. In 2001 an outbreak in the United Kingdom led to the loss of 6.5 million animals and an estimated economic loss of GBP3.1 billion (Thompson et al. 2002). Early detection has been identified as one factor that limits the impact of an outbreak. Proper training of relevant personnel in the industry can help improve early identification.
+
+The impact of the disease can be measured in economic costs through loss of production, increased production costs (vaccination, quarantine, and movement restrictions) and reduced export markets. It is estimated that these economic losses could range from $6.5 to $21 billion annually (Knight-Jones et al. 2013).
+
+Australia remains FMD free but the impact of an outbreak of FMD in Australia has been studied (Buetre et al. 2013). A large multistate outbreak is predicted to cause economic losses through depressed market prices and reduced exports which are estimated at between $49.3 to $51.8 billion over ten years.
+
+A review of Australia’s preparedness for the threat of foot-and-mouth disease, (Matthews 2011), also known as the Matthews Report, provided recommendations to help ensure Australia remains free of FMD and to reduce the impact of outbreaks if they occur. In several of the report’s recommendations training was identified as a measure to help prevent and minimise outbreaks. Training recommendations ranged from emergency response training to general training in early detection and prevention for those involved in day to day animal handling and management roles. The report recommends training on a regular basis in advance of outbreaks. The report recommends training be provided on a wide scale to all involved in the animal handling and livestock industry.
+
+The report recommends innovative approaches to training. The issues and recommendations related to FMD training (Matthews 2011) are listed below.
+
+Issue 5 Australia’s ability to sustain a large-scale FMD response
+
+Just-in-time training modules should be completed for each category of tasks that will be required in an FMD response.
+
+State and territory laboratory staff should be trained so they have the capability to undertake testing for FMD.
+
+Issue 7 Vaccinations
+
+Innovative solutions should be developed for establishing and training an emergency workforce to carry out a vaccination campaign.
+
+This should be both advanced and just-in-time training arrangements.
+
+Issue 9 The possibility that FMD may not be detected readily and speedily
+
+Committed and ongoing training of government vets and rural veterinary practitioners is recommended. This includes diagnosing FMD and determining the age of lesions to assist with epidemiological investigations.
+
+Innovative training programs should be explored. The use of community-based organisations and other sources of services already utilised and trusted by producers should also be explored.
+
+Training programs should target people already observing animals regularly as a part of their daily work activity, such as animal health professionals and paraprofessionals, drovers, transporters, owners, producers and workers involved in daily animal production management activities.
+
+Review of current EuFMD training methods
+
+The Food and Agriculture Organization of the United Nations (FAO) European Commission for the Control of Foot-and-Mouth Disease (EuFMD) was established in 1954. The EuFMD has a three-pillar strategy for its FMD program. Pillar one is to improve readiness for FMD crisis management by members. It includes eight objectives, the first being to ’provide training for member nations’. To meet this objective the commission developed a training program to assist in emergency preparedness and to teach skills needed for progressive control of FMD. The program features courses and other learning activities designed to address real world challenges associated with FMD management and response. The program covers epidemiology, biosecurity, investigation, and diagnosis as well as material on the global impacts of the disease.
+
+Course material is delivered in several formats including online e-Learning, practical field based real time training and practical training workshops and webinars.
+
+e-Learning courses
+
+The EuFMD has developed a series of online courses which can be accessed through its e-Learning website. Courses are presented in slide format with text, images and video content and include real time assessments. Courses are available in multiple languages and course notes are available for download for offline study.
+
+Open courses as of May 2020:
+
+Introduction to Foot-and-Mouth Disease
+
+What is the Progressive Control Pathway?
+
+Public Private Partnerships in the Veterinary Domain
+
+Introduction to the Progressive Control Pathway
+
+Closed courses as of May 2020:
+
+FMD Emergency Preparation Course
+
+FMD Investigation Training Course
+
+FMD Socio-Economic Impact Assessment
+
+FMD Risk Analysis Along the Value Chain
+
+FMD Post Vaccination Monitoring
+
+FMD Laboratory Investigation Training Course
+
+EuFMD e-Learning also hosts a wide range of more detailed, tutored e-learning courses
+
+In addition to the courses other resources have been made available including a knowledge bank and a lesion library, both available through the e-Learning website.
+
+EuFMD Real Time Training course
+
+In 2009 the EuFMD developed the EuFMD Real Time Training course. This course was designed to provide practical firsthand experience in the investigation and diagnosis of FMD outbreaks. Courses are held in the field in FMD endemic countries with participants travelling to a site and undertaking training activities related to FMD investigation and diagnosis. Courses have been held in Kenya, Turkey, Nepal, and Uganda.
+
+The course is comprised of an e-Learning component completed by participants prior to arriving on site. This course material provides background information on FMD pathogenesis, clinical diagnosis, lesion ageing, sampling methodology, laboratory diagnostics, outbreak investigation, epidemiology, and biosecurity procedures.
+
+Participants spend one week on site at an FMD endemic location taking part in group discussions, workshops, and practical training exercises. Local veterinarians also participate in the courses. Participants have the opportunity to practice applying biosecurity measures, examining affected animals, taking laboratory samples, and carrying out epidemiological interviews with farmers. Training covers:
+
+biosecurity
+
+outbreak investigation
+
+clinical diagnosis
+
+diagnostic sampling
+
+epidemiological investigation
+
+practical and applied real time training.
+
+Up to eight courses are run each year training approximately 100 participants. On completion of the program participants are encouraged to use their acquired knowledge to help raise awareness of FMD in their home countries. Since 2009 over 900 participants from 50 countries have completed the course.
+
+Workshops and webinars
+
+The EuFMD organises workshops for FMD free and non FMD free countries. The workshops are designed to train veterinarians in the skills required for FMD management but also to build a network across the EU. Participants are encouraged to contribute to the collective knowledge and training and share information on best practices and emergency planning. Online webinars are held for those outside of the EU allowing for a broad network of those involved in FMD biosecurity to participate and access this knowledge.
+
+Australian FMD training resources
+
+Animal Health Australia is a non-profit company that facilitates partnerships between governments and livestock industries aimed at protection of animal health and the livestock industry in Australia. They provide a range of animal biosecurity training and in 2012 produced a YouTube training video on recognising FMD.
+
+Benefits of VR training methods
+
+Since 2012 VR training has rapidly evolved and has been adopted widely in training across a range of higher education and vocational training programs. VR has replaced traditional classroom-based training and in some cases provides better engagement and learning outcomes and improved efficiency in training programs (Patel et al. 2008; Accenture 2018).
+
+It is envisaged that VR can provide benefits to current FMD training by providing complementary training activities which can expand the reach of training. In doing so it can also help to address some of the recommendations of the Matthews Report related to the need to increase training to a wider population of the animal handling industry.
+
+VR can provide more access to practical training
+
+VR allows users to step into virtual training environments. Participants can undertake practical hands-on training using virtual tools and equipment allowing participants to learn by doing.
+
+In addition to allowing practical based training, participants report that they find VR training more engaging and enjoyable. Engagement with the training material is increased with trainees more willing to undertake training scenarios. This is reflected in better testing scores when compared to traditional screen-based training.
+
+VR can reduce costs
+
+A VR-based version of the real time training course can help reduce the cost of the course by:
+
+removing the need for travel and its associated costs
+
+reducing the amount of time away from work, reducing costs associated with loss of productivity
+
+removing the need for consumables
+
+removing the need for instructor costs and time.
+
+VR can provide more participants with FMD training
+
+While the EuFMD Real Time Training course in Nepal was highly praised and worthwhile there is the potential for VR to train a greater number of people and do so more conveniently than on-location real life training.
+
+VR allows training in realistic virtual training scenarios to occur from any location, whether it be in the office or at home. The improvements in VR hardware and declining costs mean that high quality mobile VR headsets are available for approximately $650 as of May 2020. A small fleet of VR headsets containing FMD training programs could potentially train hundreds of trainees per month.
+
+In addition to increasing the numbers of trainees participating in FMD training VR training could be undertaken in shorter, more convenient sessions.
+
+A VR training format also allows for refresher training on a regular basis ensuring that knowledge and skills are not lost over time. This meets the recommendations of the Matthews Report to provide committed and ongoing training and could satisfy continuing professional development requirements.
+
+Overview of VR technology
+
+Definition of VR
+
+VR is a type of simulation where users are placed within computer generated (CG) environments using specialised electronic hardware. Typically, this is a headset containing small screens over each eye. Two slightly offset images are shown to each eye thus giving a three-dimensional view of the world. The computer tracks the user so they can move in real space to interact with the virtual environment.
+
+Users in VR that interact naturally with virtual objects feel a sense of being immersed in and located within a virtual environment. This is referred to as ‘presence’. VR is experienced primarily through two human senses: sight and sound.
+
+Jaron Lanier, while on the Special Interest Group on Computer Graphics and Interactive Techniques panel, coined the term ‘virtual reality’ in 1989 as ‘[Virtual reality] gives us this sense of being able to be who we are without limitation; for our imagination to become objective and shared with other people.’
+
+History of VR
+
+The main technology that makes VR operate is the projection of stereoscopic images (two slightly different images to each eye that gives a sense of depth). Modern VR headsets use complex screens and lenses to achieve this, however the first implementations of the concept date back to the 1830s by Charles Wheatstone (Thompson 2017). A market developed for handheld stereoscopic viewers across Europe and the US lasting until the 1960s.
+
+The development of the computer in the 1950s led to the start of what we now call VR with several inventions attempting to create computer generated or film based stereoscopic viewing devices. Low processing power, low quality computer graphics, cost and equipment size meant that these devices never found wide adoption or market success and were limited to research and development organisations and military applications.
+
+In the 1980s and 1990s home computing power had increased to provide a basic level of processing capability required for VR. As a result, several electronic companies such as SEGA and Nintendo developed VR systems for the consumer market. VR arcade machines were also developed in this time and enjoyed limited success. However due to the limited computer processing power of the day none of these systems were commercially successful and VR faded from the consumer market in the mid-1990s. Figure 1 shows the development of various technologies used in VR including consumer systems emerging in the 1980s and 1990s.
+
+Figure 1 Timeline of VR development 1950 to 2010
+
+Image: Novus Res
+
+In 2010 VR re-emerged and with the advances in home computing power, display and sensing technologies the quality of the virtual experience began to fulfil the expectations of the previous 60 years. In 2010 an independent developer, Palmer Luckey, began creating new designs for VR headsets in his home workshop. This work eventually led to the formation of Oculus VR and the current generation of VR.
+
+This new generation of headsets have provided significant improvements in VR technology of the previous 60 years resulting in higher quality experiences and wider adoption to the consumer market. This includes improvements in visual quality, reduction in motion sickness due to latency, the ability for room scale tracking of users and lighter, more comfortable and more affordable headsets.
+
+Over the past 10 years the market for VR has developed rapidly with major hardware and software companies now involved. Figure 2 illustrates the range of VR headsets now available and the rapid evolution of headsets since 2010. Consumer adoption rates have been similar to the adoption of the internet in the 1990s. Major market participants include Sony, Samsung, HTC Corporation and Oculus (Facebook).
+
+Figure 2 Timeline of major VR headsets since 2010
+
+Image: Novus Res
+
+Current state of VR technology
+
+The current wave of consumer VR systems share a similar general design and layout although they use different hardware and software implementations. The components of a modern VR system are the headset, the computer, the tracking sensors and the hand controllers.
+
+VR headset
+
+A VR headset is a device worn on the head and covering the eyes. The device contains screens and a pair of lenses allowing the viewer to focus on stereoscopic images displayed. Images are constructed by a computer or mobile device and displayed on the screens projecting a virtual environment directly to the user’s eyes. The headset blocks all other light providing the user the feeling of being inside the virtual scene they are viewing. Some headsets have tracking dots or a camera to assist in tracking the user’s movement. Figure 3 illustrates the components and their layout in modern VR headset designs.
+
+The type, quality and number of pixels (resolution) of the displays inside a headset affect the visual quality of a VR experience. Commonly used display types in the modern VR headsets include liquid crystal displays (LCD) and organic light-emitting diode displays (OLED). A higher density of pixels produces a clearer image.
+
+The refresh rate (the number of times the screen displays an image per second) of a display also affects the smoothness of images shown to the user. VR headsets run at high refresh rates compared to conventional screens and hence the need for powerful processing computers to run VR.
+
+The comfort of a VR setup is dependent on the VR headset’s physical characteristics. The weight of the headset will affect the comfort of the device. Modern headsets weigh between 450g to 800g. The ergonomics of the device also impact the user’s level of comfort. Headsets with different head strap design and weight distribution will have different comfort levels. Lighter and more comfortable headsets allow users to stay in a VR experience for longer periods of time.
+
+Figure 3 Components of a VR headset
+
+Image: Novus Res
+
+Processing computer
+
+A computer is required to run VR applications. The computer is programmed to generate and render a virtual environment to the headset screens. Two views of the scene are constructed by the computer, one for each eye as seen in Figure 4. This scene shows the user looking out of a panel of space station windows. The images are slightly offset so the user sees depth.
+
+Figure 4 Three-dimensional presentation of a virtual scene
+
+Image: Novus Res
+
+The amount of processing power required to construct virtual scenes, particularly with high fidelity graphics and simulation is high. It is therefore typical for the processing power to be provided by a high-end PC. Most PC based headsets feature a cable connecting the headset to the computer to allow data to pass between them. Some VR devices such as the Oculus Quest feature built in processors similar to those found in mobile phones to run the VR application. These devices do not require an external computer but are limited by the processing power of the mobile processors.
+
+PC based VR headsets cost between $650 and $1700 as of May 2020. Standalone headsets do not require a PC so tend be cheaper as only the headset is purchased. Current standalone headsets cost between $220 and $650 as of May 2020. Mobile VR viewers are the cheapest form of VR typically costing less than $100 however a high-end mobile phone is required increasing the overall cost of this type of VR.
+
+Tracking
+
+A key feature of VR technology is real time spatial tracking of the user. Tracking allows the real-world movement of the user to be translated into the virtual world. There are two methods of tracking currently used by VR systems, outside-in or inside-out. Outside-in tracking uses external sensors to monitor a player’s position in space whereas inside-out tracking uses cameras built into the headset to monitor the external environment and determine where the user is located in that environment. Figure 5 illustrates the different approaches to tracking in VR. In both cases the tracking information is sent to the processing computer for use in rendering the application’s field of view. Tracking is performed on the VR headset and also on any controllers present in the system allowing the user to use their hands to interact with the virtual scenario.
+
+Figure 5 Outside-in tracking (left), inside-out tracking (right)
+
+Image: Novus Res
+
+Tracking is also defined by the number of axes tracked, known as degrees of freedom. There are two categories of tracking in modern VR systems, three degrees of freedom (3DoF) and six degrees of freedom (6DoF). 3DoF tracking systems allow the user to rotate their head but not move around in space. 3DoF tracking is good for situations where the application does not require the user to move such as when watching a 360° video. A 6DoF tracking system allows the user to move in space and have that movement translated to their view in VR, as is required in most VR training applications. Figure 6 illustrates the difference between 3DoF and 6DoF tracking systems showing the differences in the range of motion for each system.
+
+Figure 6 Differences in movement in 3DoF tracking versus 6DoF tracking
+
+Image: Novus Res
+
+Hand controllers
+
+Most VR systems include hand controllers. A hand controller is a tracked device with input buttons and triggers to allow users to interact with a VR application. The tracking of the controller allows the user’s hand movements to be represented in the virtual environment in real time giving the user the sense of ‘having’ virtual hands. This allows for interaction with scene objects such as picking up tools and using them to perform tasks. The input buttons and triggers allow the user to trigger event-based tasks similar to the way a mouse allows the user to click the left or right buttons to interact with a non-VR program. Manufacturers of VR systems implement hand controllers differently as shown in the Figure 7 however a common set of features provides tracking and input functions.
+
+Figure 7 Example VR hand controllers, HTC Vive (left), Oculus Touch (right)
+
+Image: Novus Res
+
+Hardware platforms
+
+Manufacturers of VR hardware integrate software drivers into VR devices that allow communication between the hardware and computers that control them. Typically, this is done via an application programming interface (API). These APIs are also integrated into VR development software to allow developers to create VR applications. The major VR hardware platforms are Oculus VR, OpenVR, and PlayStation VR.
+
+VR development tools
+
+VR applications are built using the same technology as games development. A game engine is a type of software that allows creation of 3D environments and coding of behaviours of objects within that environment. Game engines provide the platform upon which VR applications are developed. The game engine market responded quickly to VR and engines such as Unity3D and Unreal Engine were quick to integrate VR APIs into their software. As a result, the majority of VR games and training applications are made using one of these two engines.
+
+Recently, new do-it-your-self VR building applications have been released. Most of these applications are intended for use with 360° photo or video content and attempt to remove the need to write code. These applications are generally used in less interactive scenarios although they can provide the ability to include voice over and limited interactive features such as 2D popup screens.
+
+Review of the VR market
+
+The VR market is segmented into hardware manufacturers and software developers. The software developer market can be further segmented into platform providers and content developers.
+
+The hardware market is dominated by a few companies developing headsets and other peripheral devices. A smaller segment of the market exists working on experimental headsets and peripherals. Major hardware manufacturers include Oculus, Valve, Sony, HTC Corporation and Samsung.
+
+Platform providers create platforms that allow VR hardware to interface with VR software. Typically, these providers are the hardware manufacturers. They often also provide distribution platforms. Online stores such as Steam and the Oculus store allow VR developers to distribute their content to the global market.
+
+The content developer market is comprised of organisations developing VR applications across a range of domains. This market includes large scale AAA studios down to small independent software developers. VR applications range from wide scale consumer products such as VR games to bespoke applications for internal use such as in training.
+
+The independent software developer sector was an early adopter of VR, developing games and experiences. Larger game developers have been slow to respond to VR, concerned about low market penetration and the risk of high cost of development of more complex games.
+
+There is limited published data available on VR market value from VR hardware and software companies. Estimates of the VR market value in 2019 range from US$6.5 to US$11.5 billion and estimates of market value in 2024 are in the US$20 to $120 billion range. These reports tend to agree in the estimate of market growth in the 30-40% range for compound annual growth. Two specific market figures are Sony PlayStation whose VR sales reached 5 million units in 2019 (Sony 2020) and Oculus Quest who sold 208,000 units in Q2 2019 (SuperData 2020).
+
+Types of VR applications
+
+There has been widespread adoption of VR across many market sectors. The gaming industry and the military and aerospace sectors were early adopters followed by the automotive, manufacturing, healthcare, retail and construction sectors. These sectors have developed a range of VR applications including training and simulation, education, tourism, entertainment, telepresence and marketing. The majority of VR training applications are used commercially rather than for general consumer release.
+
+Military and aerospace virtual training systems began development in the 1960s and were used to train pilots and astronauts however these were typically research and development systems. New low-cost consumer headsets available since 2010 have provided widespread access to VR to the consumer and commercial markets. The result has been an expansion in the development of lower cost VR training applications with organisations now developing their own VR training programs.
+
+Review of current VR hardware
+
+Types of VR hardware
+
+Mobile phone VR viewers
+
+Mobile phone VR viewers are a low-cost family of VR devices. The screens and processing power are provided by a mobile phone inserted into a viewer headset. These devices use a mobile phone as the processing unit limiting the processing power and typically provides simpler graphics and interactions.
+
+Mobile viewer devices entered the consumer market in 2014 offering low cost VR. The introduction of standalone VR headsets such as the Oculus Go in 2018 and the Oculus Quest in 2019 has resulted in a decline in this market with manufacturers dropping support and discontinuing further development these products.
+
+Standalone VR headsets
+
+Standalone VR headsets are self-contained VR devices that do not require a connection to an external computer. This is a new VR device category first appearing on the market in mid-2018. Standalone devices do not require an external computer reducing the cost and providing increased freedom of movement due to the lack of tether cables. The processing for these headsets comes from specialised mobile processing hardware which limits the capabilities of these devices. Visual quality and simulation fidelity is typically lower on these headsets when compared to PC based VR. Standalone devices vary in the degree of tracking they provide with the Oculus Go only providing 3DoF head tracking while the Oculus Quest provides full 6DoF movement of the player.
+
+PC VR devices
+
+PC-based VR headsets connect to a computer via a cable typically containing a USB3.0 and HDMI bundle. The cable provides a transfer pathway for visual data for the screens as well as tracking information. PC-based VR systems are the most common in the market as of May 2020. The extra processing power of the PC allows for high quality VR experiences with quality graphics, simulation and interactions. Powerful gaming and VR specific laptops are capable of supporting VR headsets and provide a way to make PC-based VR portable.
+
+Benefits and limitations of VR hardware
+
+Table 1 Benefits and limitations of VR hardware
+
+Choosing hardware for VR applications
+
+The selection of hardware is an important part of the design phase when creating VR applications. Different categories of VR hardware provide various performance features and capabilities in terms of the types of applications they support. Hardware limitations, particularly in available processing power, will inform software design and implementation decisions. When selecting VR hardware there are many considerations to be made. See Appendix AAppendix  for a list of current VR headsets as of May 2020.
+
+Application requirements considerations
+
+The application requirements provide guidance in the selection of VR hardware. Feature requirements and the degree of tracking required help identify which hardware will be capable of supporting the application.
+
+What type of application is being created? Is there a need for high quality graphics and complex simulations including liquid and physics interactions? Applications with higher quality graphics tend to be best suited for PC-based VR hardware systems.
+
+What type of interactions are required? If the application requirements call for the user to have a full range of motion in the virtual environment including moving around and hand movement then a device with six degrees of freedom (6DoF) movement is required. All PC headsets provide 6DoF movement but only some standalone devices such as the Oculus Quest currently support 6DoF movement.
+
+General project considerations
+
+General project considerations related to the non-technical requirements of a project also influence the selection of VR hardware.
+
+End user – Is the application designed for use in a classroom setting or could it potentially be used in the field or remote locations? With PC-based VR systems, it is relatively easy to move the setup to different location, especially when using a laptop. For applications that may require frequent relocation a standalone setup may be more appropriate.
+
+Project budget – Mobile and standalone headsets are cheaper than PC-based systems. This is partly due to the additional cost of the PC. The cost of the headset plus the external computer required will need to be considered when selecting hardware within a project budget.
+
+Scale – How many users are expected to use the application? Consideration should also be made for the location of these users. When deploying large scale VR applications budget limitations can impact the type of hardware used.
+
+Deployment – There are multiple deployment options available for VR applications. Specific VR hardware often supports multiple deployment options and detailed consideration for each should be made in the design phase of a project.
+
+Support and maintenance – All hardware options have a requirement for support and maintenance. The degree of support and maintenance depends on many factors including the hardware selected, the end user and the scale of the project.
+
+Current VR use in training and its benefits
+
+Why VR is suited to training
+
+Training typically involves the transfer information in a classroom setting followed by practical sessions. There are limitations with this style of training relating to cost, availability, and resource requirements. VR has the potential to address some of these limitations reducing costs, improving training outcomes and improving access to training for broader audiences.
+
+VR provides a unique opportunity to immerse users within virtual training environments engaging them in ways not possible with traditional training methods. The core concepts of meaningful and effective VR training are presence and learning by doing.
+
+The sense of immersion, also known as presence, is often used to describe the feel of a virtual simulation. Presence is defined by two components, place illusion and plausibility. Place illusion describes how ‘real it feels’ to be in the virtual environment whereas plausibility describes the feeling ‘Does it feel like what is happening is really happening?’ that is does the world respond in the expected way (Slater et al. 2010).
+
+The sense of presence has been shown to elicit similar behaviours in the virtual environment as the real environment (Bhagavathula et al. 2018). Users feel engaged in the virtual scenario and trust what is being presented to them. This leads to the sense of VR being fun and driving engagement with training materials.
+
+Learn by doing is a term used to describe training through practical exercises. Edgard Dales description of the Cone of Experience, illustrated in Figure 8, theorises that trainees retain more information when they ‘do’ instead of ‘hear, read or observe’. Studies have shown that practical in class activities lead to the best testing results when compared to other teaching methods (Hackathorn et al. 2011) however results vary based on the type of training being undertaken, the instructor and the students.
+
+The combination of presence and practical learning make VR a suitable choice for training with better learning outcomes when VR training is compared to traditional training methods.
+
+Benefits of VR to a training program
+
+Wide user appeal
+
+Some trainees do not perform well in traditional classroom learning situations and may not engage with course materials leading to poor knowledge uptake and retention. In VR training trainees are immersed in the training environment and feel as if they are in the scenario. This style of training suits trainees who learn through tactile, visual, and auditory input. Increased engagement through VR not only encourages participation it can also promote confidence. VR training is often referred to as gamification of learning. While still providing serious training, it does create a game out of the learning experience.
+
+Better learning outcomes
+
+Immersion in VR engages users with training material. The immersion reduces external distraction and boredom. Increased engagement through immersion has been shown to produce better testing scores and improved knowledge uptake and retention (Meyer et al. 2019; Krokos et al. 2018).
+
+Practical training
+
+Training in VR scenarios encourages trainees to actively participate in learning. Trainees are required to interact with training scenarios and physically practice procedures. This kind of training allows users to learn by doing and through repetitive practice.
+
+Figure 8 Edgar Dale’s Cone of Learning
+
+Image: Jeffrey Anderson, Wikipedia, CC BY-SA 3.0
+
+Reduce risk
+
+VR training removes the need for training using real world plant and equipment reducing the risk of accident and injury during training. In addition, there are training scenarios that are too expensive, dangerous, or impractical to simulate in real world training situations. Using VR any location, equipment, or scenario can be simulated safely. This includes combat, emergency or natural disaster situations. A trainee in VR can safely experience these extreme scenarios and be prepared and confident if the real-world scenario occurs. In general VR can be conducted safely with a reduced risk of injury, death or damage to plant and equipment.
+
+Experience failure
+
+In real world training it can be difficult and costly to simulate failure scenarios. The risk of damage to plant and equipment make it unfeasible to train in failure scenarios. VR can simulate failure in a safe training environment allowing trainees to experience the extremes during a training scenario. Users are able to experiment and play to learn the limits of certain procedures, equipment, or plant. For example, a forklift simulator allows users to experience a tip over that can occur when an operator drives at speed with a load raised to full extension. The trainee experiences the failure and observes the consequence in terms of injury, damage, or loss of life.
+
+Repeatable
+
+Traditional training approaches can limit access to repeatable training due to time constraints or limited availability of equipment or instructors. VR allows users to quickly and cost effectively repeat a training scenario as often as required. Trainees can use VR training repeatedly to develop muscle memory and familiarise and adapt themselves with training scenarios.
+
+Cost effective
+
+Traditional training, particularly hands on practical training, incurs many ongoing costs including travel costs, instructor and equipment hire costs as well as loss of productivity from taking working areas and staff offline for training. VR training applications remove the need for most of these costs. The cost of VR hardware and software is low comparatively and is a one-off cost.
+
+Reduce training time
+
+It has been shown that training times can be reduced when comparing VR training to other training methods. United Rental reduced training times by 40% with VR based training modules for new employees. Nationwide Insurance reduced costs by replacing a 3-hour training course conducted in an offsite location to a 25-minute VR program conducted at local offices removing the need for travel (STRIVR n.d.).
+
+Scalable
+
+VR hardware has developed rapidly over the past five years and now offers low cost portable options. VR training applications can be efficiently deployed to a large number of trainees compared to traditional training programs. In 2017 Walmart incorporated VR training into its staff training programming purchasing 17,000 Oculus Go headsets with the aim of training one million of its staff using VR (Incao 2018).
+
+Measurable
+
+Objects and interactions in VR are automatically tracked by the software meaning that measurement of trainee activity and performance is inherent in VR applications. VR training applications can provide real time feedback during a training session and record data for post session analysis and feedback. Recorded data can identify when competencies have been met and identify where trainees require further training.
+
+The VR training market
+
+The VR training market is comprised of hardware manufacturers, distribution platform providers and training software developers.
+
+Hardware manufacturers tend to be large technology companies who have invested heavily in the development of VR technology and who often have prior experience in electronics manufacturing. The top VR hardware companies include Google, HTC Corporation, Facebook Technologies (Oculus), Samsung and Sony.
+
+Distribution platforms provide online distribution of VR training applications allowing developers to reach their target markets. Distribution platforms handle features such as distribution of software, licensing and digital rights management. Common platforms for VR training applications include Steam from Valve Corporation and VIVEPort from HTC Corporation.
+
+Training software developers are the companies that design and build VR training applications. Applications are built for the consumer market or more commonly for specific customers where bespoke training applications are created for internal use within the customer organisation.
+
+The size of the global VR training market was estimated at US$216 million in 2018 and is expected to grow to US$6.3 billion by 2022 (Accenture 2018). This growth is likely to be due to benefits being recognised by customers using VR training as well as improvements in VR technology and declining costs of hardware.
+
+Types of training applications
+
+VR training applications can be categorised by the types of content and interactions they provide. VR training applications can be categorised into one or more categories:
+
+procedural trainers – users follow a set of steps to complete a task. Examples include manufacturing and maintenance tasks, and medical procedures.
+
+declarative knowledge – provides information and knowledge. Examples include employee induction, K-12 and higher learning, and equipment familiarisation.
+
+behavioural – users learn to understand and control behaviours (theirs and others). Examples include customer service training, emergency response training, and exposure training.
+
+analytical and problem solving – users apply knowledge to solve problems. Examples include medical diagnosis, equipment failure diagnosis and repair.
+
+teamwork – multiuser VR where teams of users work together. Examples include emergency services training and large manufacturing processes.
+
+Sectors where VR training is used
+
+VR has been widely adopted in the training sector with most industries either developing new training applications or already running VR training as part of their internal training programs. Industries using VR training include:
+
+healthcare training – anatomy, surgery, emergency department, psychological training
+
+construction – equipment and site induction, machine operations, safety procedures, proficiency training, sales rep training
+
+retail – front line customer service training, call centre training, product training
+
+industrial and manufacturing – equipment and site inductions, manufacturing process training, operational training
+
+aviation – flight simulators, repair and maintenance training, cabin crew training
+
+automotive – manufacturing procedures, collaborative design, customer service
+
+military – combat scenario training, equipment familiarisation
+
+sports – player training, performance analytics
+
+higher education – virtual field trips, collaborative virtual classrooms, K-12 learning.
+
+Examples of VR training programs
+
+Example 1 Volkswagen
+
+Volkswagen worked with a third-party VR training provider to develop 30 training simulations for its workforce across its multiple automotive brands. A centralised VR learning hub allows employees to connect from any of its locations. The simulation uses the HTC Vive VR headset to provide training in a range of areas from assembly, to customer service and dealership operations. The hub also serves as a collaboration tool for designers allowing employees from different locations to collaborate and work with 3D models in a shared environment.
+
+Volkswagen aims to train up to 10,000 employees using VR training across its various brands.
+
+Example 2 Walmart
+
+Since 2017 Walmart has adopted VR into its training programs at its Walmart Academies (STRIVR n.d.). The company provides Oculus VR headsets to all stores for in store training based on a unified syllabus aiming to reach one million employees. It has been reported that Walmart has deployed 17,000 headsets to its stores allowing in store training at the same level provided at their national training academies. The training includes 45 activity-based training modules with training in three main areas: new technology, soft skills such as customer service, and compliance.
+
+Walmart has reported improvements in training outcomes with test scores increases by 10-15% and higher levels of confidence and knowledge retention reported by trainees (Incao 2018). It also reported reduced training times with VR sessions taking significantly less time than other traditional training methods with reductions from online modules taking 30 to 45 minutes being completed in VR in 3 to 5 minutes. In one scenario, the ‘Black Friday’ training module, 70% of the employees trained in VR did better in their exams versus the group that did not use VR, and employee training satisfaction was 30% higher for those trained in VR.
+
+Example 3 American Airlines
+
+In 2017 American Airlines redeveloped their cabin training curriculum to include VR (Quantified Design Solutions n.d.). The training modules allow trainees to experience a virtual aircraft from within the classroom setting. 12 VR rooms have been set up allowing 12 trainees to run through training procedures simultaneously resulting in a reduction in the amount of time taken to train a given number of students. Modules cover procedures including how to check safety equipment, how to operate doors and how to open emergency exits. The modules are self-guided reducing the need for 1:1 instruction and a range of different airplanes have been simulated. The simulations allow students to safely make mistakes and repeat procedures until they feel comfortable with the material and procedures presented.
+
+Within the first six months of operation 1,500 students used the system for training.
+
+How to develop VR applications
+
+Overview of the software development lifecycle
+
+The software development lifecycle (SDLC) describes a systematic process for building software. It provides a methodology for managing software projects and is designed to ensure software meets the needs, quality, and functional requirements of the system. The process provides a mechanism for planning, tracking and control of software development and provides visibility and communication across the project from designers and coders to managers and clients.
+
+The software development lifecycle is follows seven phases:
+
+Requirement analysis: This defines the scope of the project including what features are needed, who will use the software, how users will interact with the software and any other relevant information.
+
+Feasibility/planning: A study is conducted to ensure the project is achievable within project limitations. This involves planning for resource allocation, costs and scheduling. Technical investigations are conducted to ensure it is also technically possible.
+
+Design/Prototyping: Documents are developed outlining how the system will be implemented. This includes high-level designs outlining how a feature will work and low-level designs detailing how features will be implemented. The designs include hardware elements as well as deployment and maintenance of the system. Elements of the system may be prototyped during this step.
+
+Development: This is undertaken by the technical resources on the project. This work can include creation of visual elements, software coding and tasks related to system hardware.
+
+Testing: This is a continuous process that starts during the development phase. Testing validates that the system performs as defined by the requirements and identifies any bugs or performance issues with the software. The testing process is iterative, and it is not uncommon for several iterations to be required during development.
+
+Deployment: On completion of testing the application receives signoff by relevant stakeholders and the system can be deployed to its target audience.
+
+Support and maintenance: Once the system is live there will often be a need to support end users. Maintenance may be required and include correcting bugs and implementing upgrades of the software.
+
+VR software development
+
+VR development follows the software development lifecycle. When planning VR applications there are additional VR specific considerations to be made. The process for developing VR software involves a number of steps as outlined in this section.
+
+Requirement analysis
+
+The requirement analysis should:
+
+outline the objectives of the application
+
+identify who will use the application
+
+identify meaningful use cases/scenarios that will work in VR
+
+define the type of interactions required
+
+define the tracking, measurement and assessment required
+
+outline any integration or dependency requirements with external systems
+
+define how the system will be deployed
+
+choose appropriate technology
+
+outline the lifetime of the software and any operational and maintenance requirements
+
+identify time and budget requirements.
+
+Feasibility/planning
+
+The feasibility/planning stage should:
+
+confirm the chosen hardware can perform the required graphics, simulation and interactions
+
+plan the required resources, time, schedule, and budget
+
+plan how the system will be deployed
+
+plan the resources required to operate and maintain the software once deployed.
+
+Design/prototyping
+
+Design documents are created describing how the features and requirements of the system will be developed. These can include:
+
+software architecture and code diagrams
+
+identifying which software development tools will be used during development
+
+2D interface and user experience designs
+
+3D model designs
+
+use cases and user interaction flow diagrams
+
+audio design
+
+testing design
+
+hardware design.
+
+Development teams can prototype systems that require feasibility investigation.
+
+Design documents should be reviewed with stakeholders to ensure requirements are met and feasibility issues are addressed. There may be several iterations of the design and planning phases.
+
+The design documents should be signed off by stakeholders before moving to the next phase.
+
+Development/build
+
+Using the design documentation developer resources work to build the application. Specific development roles include:
+
+software development – Write the code for application control, menu interactions, scenario flow and VR interactions.
+
+2D user interface – Create the visual elements and interactions for menus, popups, and other user interface elements.
+
+3D modelling – 3D models are created for environments and other objects such as vegetation, buildings, vehicles, equipment, and characters. The models must be painted and where necessary animated.
+
+audio recording for voice and sound effects – Sound recording for any dialogue or voice over, foley recording for sound effects, and background ambient audio composition.
+
+level creation – All elements included in this list are integrated in the game engine to create the working application.
+
+Testing
+
+Testing should begin as early as possible during the development phase. At the end of the development full system testing can be conducted. Testing includes hardware and all elements of the software application. A testing plan is created to ensure all features are covered in testing. Testing of the deployment process is also conducted.
+
+Deployment
+
+The type of software and its target market determine the method of deployment. For consumer VR games and entertainment deployment can be to various digital platforms such as Steam, the Oculus Store or VIVEPort. For internal projects, the application is typically manually deployed to the target hardware and distributed to the end users.
+
+Support and maintenance
+
+A support team provides support to the application users. Users need a method to contact the support team such as email or phone or via a support website. Support can cover basic system setup and usage but can also be used for reporting bugs and other software issues. A maintenance team fixes software bugs and deploys updates to users.
+
+Working with subject matter experts
+
+The resources and skills needed to develop VR software are specialised in the area of software development. However, VR training applications typically deal with specific subject matter beyond the knowledge of developers. It is important that subject matter experts are involved in the development of VR training applications especially during the requirements and design phases of a project. During the development process subject matter experts provide guidance on visual design, equipment behaviour and system behaviours. Subject matter experts also provide guidance during the testing and validation phases ensuring the application performs as required.
+
+Project management considerations
+
+Development time frame and budgets
+
+The time frame for software development projects is related to the scale and complexity of the requirements. Large scale simulations with high fidelity graphics require more resources than smaller simpler applications. During the planning and design phases the number of development resources and the amount of time required will be determined. There is often a trade-off between budget and requirements.
+
+Consideration must also be given to the hardware requirements for the project. The type of VR hardware selected for the project and number of units required are included in project budgets. Once again there may be a trade-off between the type and number of hardware units for a project. The time frame for ordering and delivery of hardware should be factored into the project management plans. Testing phases cannot begin on release hardware until it has been received.
+
+Deployment, training, and support
+
+Consideration should be made during the planning of a project to the deployment of the software and the training and support of customers in using the VR application.
+
+It may be necessary to consider long-term support resources needed when defining budget and management requirements.
+
+Intellectual property issues related to software development
+
+When engaging third-party developers, it is important that a clear definition of ownership of intellectual property (IP) is made for the VR application. Intellectual property is difficult to define and in a VR training application may refer to the training content presented, the artwork and visual content, and the code running the application.
+
+Software development often involves reusing elements of code that have been previously developed as well as integrating third party solutions. IP ownership of these elements needs to be specified as part of the development.
+
+Incorporating VR into training applications
+
+VR training leverages the improved learning outcomes and knowledge retention of hands on practical training to provide effective training applications. While not being able to completely replicate the real-world training experiences, VR can provide simulated reproductions of training scenarios. When incorporating VR into training there are considerations relating to content and interactions and the way these are presented that should be made during the requirements and design phase of a project.
+
+Types of VR training content
+
+There are two types of content that can be included in VR training applications, 360° video and computer-generated simulations.
+
+360° video is a video format that presents visual content from all directions simultaneously. When viewed in a VR headset this allows the viewer to look around a video scene observing any field of view based on the direction of their gaze. This type of content provides users with a sense of being inside the video and allows the viewer to observe real world content as if they were present in the location, a concept known as telepresence. 360° video can be recorded for on demand play back and can be streamed live.
+
+360° video is useful for demonstrating real world locations or procedures however is limited in the range of interactions it can provide and is generally a passive viewing experience. Interactions can be integrated but are typically limited to two dimensional interactive popups.
+
+Computer generated VR uses computer graphics to reproduce an environment in three dimensions and allows for user interaction within that setting. By combining 3D modelling with mathematical simulations of systems, an environment can be created that looks and behaves as the real-world scenario being simulated. The degree of realism, or fidelity, depends on the nature of the simulation, its objectives, and other application requirements. Using computer generated VR, training scenarios can be created to replicate specific locations, equipment, characters and procedures.
+
+Interactions in VR
+
+The sense of presence felt by a user is related to how well a user engages with VR scenarios. Beyond the visual representation of a scenario the degree of interaction helps determine how ‘present’ a user feels. Interaction in VR can be categorised as spatial navigation, user interface interaction and simulation interactions.
+
+Spatial navigation
+
+VR systems allow users to move around a physical play space and have that movement reflected by their character in the virtual environment. Current generation PC-based setups provide an area of movement ranging from to 5m2 to 10m2. Within the play area a user can physically move their body to explore and interact with objects. In order to explore and interact with areas outside of the play area the user needs a method to navigate around the virtual space. There are several techniques to allow players to perform this spatial navigation:
+
+Teleporting – an input controller is used to select a location in the virtual environment and the user is relocated to that point by the software, illustrated in Figure 9. This type of movement can be disorienting for users due to the unnatural experience of instantly moving from place to place. Software techniques can be used to ease this discomfort.
+
+Figure 9 Teleportation using an input controller
+
+Image: Novus Res
+
+Step by step movement – Walking or running motions can be simulated in software and controlled via an input controller. This style of movement provides a more realistic sense of movement however can cause users to feel a sense of motion sickness, particularly if the movement is too fast.
+
+Specialised input hardware –There are hardware devices known as omni-directional treadmills that provide the ability to walk in place but allow virtual movement in any direction. These devices allow a user to simulate walking or running in the virtual world while remaining within the play area of the VR setup. These devices are not common in the consumer market but can be found in larger scale VR setups such as gaming arcades.
+
+User interface interaction
+
+Software applications need to provide the user with a way to interact with the program at a control level. This may be to create a profile, to changes settings, or to exit the application. In 2D applications this is done via a user interface (UI) comprised of menus and interactive elements such a buttons and checkboxes. In VR user interfaces can be implemented using traditional 2D elements or can be presented using intuitive 3D objects such as a virtual control panel. The ability to interact with user interfaces is an expected behaviour of software and the software development process includes tasks for the design of the user interface and how users interact with that interface.
+
+Simulation interaction
+
+To provide hands on practical training a VR training application needs to be populated with interactive objects. Object interactions include picking up and moving objects, throwing objects, and the ability to use tools. Interactions can be simulated at a low level, for example placing a virtual hand near a switch causing it to activate. A more detailed simulation of this interaction would involve animated hand motions allowing the user to grab and manually move the switch to activate it. It is important that when an interaction occurs with a virtual object that the object responds in a way that meets both the requirements of the interaction and the expectations of the user.
+
+Simulation interactions can also include interactions with virtual characters. A virtual character can be used to enhance the ‘realness’ of a training scenario and provide additional objects for consideration by the user. Scenarios may require virtual characters, such as a virtual patient, for task-based scenarios. A virtual character can also be used as a virtual instructor guiding the user through a training procedure.
+
+Customising VR training content
+
+Because VR software is composed of computer-generated content it is possible to alter the content to look and behave in any manner required. Software developers design and build applications with reuse in mind. Specific sections of code or 3D models may be repurposed allowing for the ability to customise an application to specific requirements while reducing development time and cost. Using this approach VR training applications can be customised to specific scenario requirements, visual styles, locations, and language.
+
+For example, a base set of user interactions can be coded to provide spatial navigation and object interactions. Using this single code base several different scenarios can be created in which a user can move around and interact with a variety of objects in a virtual environment. Each scenario can look different and contain different interactive objects but share an underlying codebase. This approach can be used to create a range of customised learning experiences from a base set of interactions.
+
+Computer generated environments make use of 3D models to create the visual representation of the world. The 3D modelling process involves creating the shapes that represent an object and applying colour to that object, a process known as texturing. With careful modelling and texturing it is possible to create variations of an object for use across different scenarios as illustrated in Figure 10.
+
+Figure 10 The same 3D model repurposed through texturing
+
+Image: Novus Res
+
+Using these methods scenarios can be customised for any location in the world. Changing the appearance of objects and the surrounding environment allows a training scenario to be presented as being in Australia, Nepal, Kenya or another country. Visual fidelity can also be altered to provide access to a wider range of VR hardware as demonstrated in Figure 11. A lower quality visual (low poly) environment may provide benefits compared to a more realistic representation when using standalone VR headsets due to limited processing power.
+
+Figure 11 Representations of an Australian farm, low poly (left) high poly (right)
+
+Image: Novus Res
+
+Repeatable and measurable VR training
+
+Repeatable training
+
+Practical hands-on training typically involves following a procedure and computers are well suited to provide this kind of stepwise repetitive simulation. VR training applications can provide repeatable training by encapsulating particular knowledge or procedures and repeatably presenting them to users. This results in consistent training that is not dependent on a specific instructor, location or available resources.
+
+Measurement
+
+VR training applications can be set up to automatically track and measure training sessions. Customised tracking and measurement systems can be implemented based on the type of training and measurement requirements. Data collected may include trainee profile details, session durations and assessment results. In addition, every object and interaction can be tracked in VR allowing for complex measurement of user activities and performance.
+
+Feedback
+
+Tracking and performance information can be fed back to the user in real time during a training scenario. If a user performs a task incorrectly, uses the wrong tool or performs a task in the wrong order, the system can provide automatic feedback. In this way the training application serves as a virtual instructor automatically identifying mistakes and reinforcing correct training behaviours.
+
+Analytics/reporting
+
+VR training applications can be designed to perform analytics and reporting on data collected during training sessions. Reports summarising training performance such as identifying areas of weakness can be automatically generated removing the need for additional paperwork, manual data collection and analysis. This can be used for reporting for a single user or for an entire cohort. This analysis can be integrated into Learning Management Systems (LMS) to allow for the tracking and analysis of program performance.
+
+Multiplayer VR applications
+
+A multiplayer training application uses the internet to connect users into a shared virtual experience. Users may be located in the same location or distributed geographically. Each user is required to have their own VR hardware setup and software installation. Information about each player such as their position, pose and actions, are shared between each user using networking protocols.
+
+In these shared training scenarios users work together to complete the training tasks and practice group skills such as communication and teamwork. Additional software development is required to implement multiplayer VR applications so consideration of the requirement for multiplayer support should be given in the requirements gathering phase of a project.
+
+Application of VR in biosecurity training
+
+This chapter discusses how VR can be used for biosecurity training, specifically FMD preparedness training. The VR training format has been shown to provide better engagement and learning outcomes when compared to traditional classroom learning environments and can be used to translate traditional classroom or e-learning materials into the virtual training environment.
+
+Areas where VR would provide benefits to FMD training
+
+Areas where VR would be applicable to FMD training
+
+VR can provide training in a range of FMD preparedness scenarios. In relation to existing FMD training programs VR could be used in training for biosecurity protocols, investigations of livestock, working with landowners and in laboratory procedures. Multiplayer training scenarios can be used to replicate the group-based training used in the EuFMD Real Time Training program.
+
+Practical hands on training
+
+VR FMD training scenarios provide the ability for trainees to undertake practical hands on training exercises allowing them to apply knowledge learned in the classroom and practice procedures. This type of practical training simulates the type of training available in the EuFMD Real Time Training courses.
+
+Reduce costs
+
+VR training provides self-guided training without the need for instructors, travel or consumables reducing the cost of training compared to current practical training methods. A trainee can undertake training at any time and not be limited to set lesson times or instructor availability. Trainees have flexibility to repeat training scenarios as many times as required without incurring additional costs.
+
+Increase trainee numbers
+
+As VR training only requires a VR headset and the training software it can easily be distributed to a wide audience allowing a greater number of people to undertake FMD training. A program using VR training would be able to reach larger numbers of trainees without the need for travel, instructors, and scenario specific consumables.
+
+Automate feedback and reporting
+
+The automatic tracking and feedback of trainee performance in VR can provide large scale auditing for a training program. Automated reporting can efficiently report on the status and competencies of individuals or groups of trainees.
+
+Interactions and experiences for biosecurity VR training
+
+Range of VR training experiences
+
+VR training experiences may be practical with users interacting with scenarios to perform a series of tasks, or they may be instructional in which information is presented to the user similar to the traditional classroom setting. Topics covered in an FMD preparedness training application may include:
+
+learning and practice of on farm biosecurity protocols and control measures
+
+biosecurity investigations including property, livestock, and landowner investigations
+
+animal handling exercises such as examination, sample taking and vaccinations
+
+laboratory training – learning procedures and practicing laboratory tasks
+
+working with people – scenarios may include working with people on farm
+
+checkpoints – learning and practicing inspection scenarios such as at control points.
+
+Simulation parameters of the virtual environment can be altered to provide scenarios that would be difficult to simulate in a real-world training including variable weather conditions and time of day. Scenarios can be customised to local conditions, language, and environments.
+
+Types of Interactions
+
+In relation to VR FMD training the types of interactions that may be applicable include:
+
+interacting with 2D menus and content
+
+interacting and operating virtual equipment, switches, and other control interfaces
+
+reading information from devices such as monitors, screens and equipment
+
+navigating around a virtual environment
+
+interacting with virtual characters including people and livestock
+
+communications in multiuser scenarios.
+
+VR biosecurity training application content
+
+Presentation of learning material in a VR FMD training application can be done in several ways depending on the nature of the content.
+
+Knowledge transfer
+
+VR can be used to present information to trainees in a similar way to traditional classroom or e-Learning using two dimensional screens. Content including text, images and videos can be used to present information to the user. The inclusion of knowledge transfer modules can be useful to prepare users for subsequent practical scenarios.
+
+Practical training scenarios
+
+The obvious application of VR to biosecurity training is in practical training scenarios. Trainees use their hands to interact with tools and equipment and use these as they would in the real-world situation. Specific locations can be created providing a more realistic training experience.
+
+Assessments
+
+Assessment can be done in VR to test knowledge uptake and retention. Assessment content can be presented in traditional 2D formats as tests or can be done in the 3D environment where users are tested on specific tasks or procedures. Assessment can be performed automatically with feedback provided to trainees in real time.
+
+Group work
+
+Multiplayer VR training applications allows groups of trainees to learn in a shared virtual environment. Users can communicate with each other and coordinate activities providing the ability for team-based training.
+
+Customised content
+
+A VR biosecurity training application would include virtual environments representing real world situations. The virtual content in these environments in relation to biosecurity training would include:
+
+environments – virtual farms, laboratories and other work sites involved with animal handling
+
+equipment – functional virtual tools and equipment including sampling tools, personal protective equipment, cleaning and disinfecting tools
+
+livestock – a range of virtual livestock based on the requirements of the scenario. Virtual livestock can be animated and programmed with behaviours to simulate the real-world animal handling experience.
+
+people – virtual people may be required in some scenarios. These characters can be animated and be programmed to interact with the user.
+
+text and dialogue – scenarios may present information using text and audio dialogue.
+
+The virtual content can be customised to suit requirements of an application. An application can be modified for different countries and populated with specific equipment, livestock or people to provide localised training meeting specific training needs or local regulations and procedures. During the requirements and design phase of a project consideration should be made for any customisation requirements.
+
+Who could benefit from VR biosecurity training?
+
+Livestock owners/animal handlers
+
+Information about disease and biosecurity procedures similar to the information presented in the EuFMD training material would be useful for professionals in the livestock and animal handling industries. This may include farmers, drovers, animal transport workers, sales representatives, and animal processing workers. Training can cover background information about the disease as well as procedures for identifying suspected cases and protocols to follow when disease is confirmed. A widespread knowledge of the disease would help in early detection, prevention, and containment.
+
+Veterinarians
+
+Veterinarians in both the private and public sector could use VR training to learn background information as well as specific procedures and protocols when working with FMD in the field. This may include biosecurity control measures and protocols, conducting FMD investigations, taking animal samples, working with samples in the lab, and conducting vaccinations.
+
+Biosecurity professionals
+
+Biosecurity professionals could use VR training to learn specific procedures and protocols related to biosecurity control in FMD. Customised scenarios can be developed related to specific biosecurity events which may be difficult, costly, or impractical to simulate in real world training including group-based simulations.
+
+Advanced VR features
+
+Artificial intelligence
+
+Artificial intelligence can be integrated into VR training applications to expand the scope of an application without the need to define custom code. AI allows systems to learn and adapt to user actions and respond dynamically removing the need to design and code for specific scenarios. A chat bot is an example of AI integration in which an AI system can be trained to hold conversations without the need to code specific conversation elements. Users question the chat bot with generic questions and the AI attempts to respond based on its understanding of the question and its knowledge of the subject matter.
+
+Eye tracking
+
+Modern VR headsets can integrate eye tracking into the hardware. Devices track the movement of a user’s eye in real time and provide that information to the software. Eye tracking could provide benefit in scenarios such as the examination of livestock for signs of infection. The user may visually inspect an animal and make note of symptoms observed. An eye tracking integration would automatically identify when a user has correctly observed a symptom and record this for assessment.
+
+Haptic feedback
+
+VR engages the sight and sound senses but does not engage others such a smell or touch. Haptic feedback is a technology which allows software to provide the sense of touch to the user. Using haptics, a user feels when they interact with virtual objects. Haptic devices include gloves and full body suits with some suits developed to provide pressure and temperature feedback.
+
+Designing a VR FMD training program
+
+Defining objectives and requirements
+
+VR application development follows the software development lifecycle and should involve subject matter experts during the early phases of a project.
+
+Objectives
+
+High level objectives briefly summarise what the application should achieve. In relation to a VR FMD training application the objectives may include:
+
+providing knowledge related to the FMD disease, its cause and spread, impacts of outbreaks
+
+providing practical training for specific procedures and protocols
+
+providing real time assessment and recording of trainee performance
+
+providing centralised recording of training activities, participation, and performance
+
+reaching a wide audience of trainees – locally, nationally, and internationally
+
+providing localised content for specific countries and languages
+
+reducing the cost of training.
+
+Requirements
+
+The objectives are refined into requirements that outline how the application will work, what features are required and how hardware, distribution and maintenance functions may be implemented. For a VR FMD training application these requirements may include the following:
+
+Provide knowledge related to FMD
+
+Provide content defining the FMD virus, its pathology, clinical signs, infection spread.
+
+Provide content about the FMD Control Pathway.
+
+Provide content about the impacts of FMD outbreaks.
+
+Provide practical training for specific procedures and protocols
+
+biosecurity protocols – interactive content explaining biosecurity control points, PPE, cleaning, and disinfecting, transferring samples
+
+FMD investigations – interactive content covering landowner and property surveys, inspections, interviews, livestock investigations and timeline analysis
+
+taking samples – interactive content of procedures for sample taking and preparation
+
+laboratory processes - interactive content for demonstrating and practicing laboratory handling and testing processes.
+
+Provide real time assessment and recording of trainee performance
+
+Define what metrics should be tracked for each scenario.
+
+Define how this information will be presented to users and how feedback can be used to help trainees achieve competency.
+
+Provide centralised recording of training activities, participation, and performance
+
+Define how assessment and tracking information will be stored and transferred and how data security and privacy will be handled.
+
+Outline third-party systems such as user profiles or Learning Management Systems that would be integrated to handle user information. If no third-party systems are used describe any custom solutions required for data management.
+
+Reach a wide audience of trainees
+
+Define the audience for the application. This may include analysis of user market including technical proficiency and geographic location. Specific features may need to be implemented based on these requirements. The target audience will also contribute to the selection of hardware adopted.
+
+Provide localised content for specific countries and languages
+
+Define the target audience for the application and identify regional customisation requirements. Customisation may include the visual appearance of scenarios and the language used.
+
+Reduce the cost of training
+
+Analyse the project development costs and time frame to evaluate the cost benefits of a VR training program. Consider cost reductions in current training programs versus the cost of development, purchase of VR hardware, maintenance, and support of a new application. Consider the number of users who will receive the VR training compared with other methods.
+
+System design
+
+Input from subject matter experts is required to provide details during the system design. In reference to a VR FMD training application, topics requiring subject matter expertise may include:
+
+FMD virus background and control pathways
+
+biosecurity control procedures
+
+PPE definitions, requirements and usage
+
+procedures for FMD investigations including examining properties, interviewing landowners and livestock examinations
+
+procedures for conducting timeline analysis
+
+procedures for taking and packaging samples
+
+procedures for processing laboratory samples.
+
+With an understanding of the types of information to be presented and the types of interactions required detailed designs can be created for each scenario in the application. The design document should be reviewed to ensure the design meets the objectives and requirements of the application. The design document is used by project managers to develop project plans and budgets. The detailed designs cover the following areas.
+
+System architecture
+
+Game engine type used to create the application.
+
+Design of third-party API integrations such as multiplayer networking, user profiles and learning management systems.
+
+Definition of user data to be recorded, how it is handled and stored.
+
+Selection of the target hardware based on requirements for users, distribution, visual style and budget.
+
+Visual design
+
+Design the virtual 3D environments and any 3D objects, tools, equipment, and characters required. This process may include preliminary sketches, 3D modelling and VR prototyping.
+
+Design the presentation style for knowledge-based content.
+
+Limitations of the target hardware should be considered.
+
+VR interaction design
+
+For an FMD training application interaction designs may include:
+
+user interactions with 2D content and assessments
+
+designing the implementation of spatial navigation
+
+general interactions with objects such as pick up and placement
+
+designing interactions with specific objects such as tools and equipment
+
+designing interactions with virtual people
+
+designing interactions with livestock
+
+designing the workflow for each module
+
+conducting timeline analysis.
+
+Testing, Deployment and Management Planning
+
+The design phase should include designs for the testing and deployment of the application and how the application will be supported once released to the target audience.
+
+Other design considerations
+
+When developing VR applications there are other design considerations to be made.
+
+Preparation of source content
+
+Background material for presentation style modules needs to be collated and provided in a format for developers such as Word or PDF documents, images, videos, or embedded video links. Content may be reworked and integrated into the gaming engine as needed by artists and developers. Video content hosted on third party hosting services can be embedded into an application to reduce its size.
+
+Simulation fidelity
+
+Interactions in VR depend on the nature of the material being presented and the degree of simulation required. In relation to FMD training, interactions are required with equipment, animals and virtual characters. The degree of simulation implemented in a design can impact the VR learning experience. The simulation fidelity (how close the simulation is to reality) achievable in an application is dependent on the processing power available and the capabilities of VR hardware. In general, high end PC based VR is required for detailed simulations and for lower power headsets trade-offs in simulation fidelity are required.
+
+Hardware considerations
+
+The target VR hardware platform determines the amount of processing power available for the application. Applications that require high fidelity graphics and simulation may be restricted to PC based VR platforms. Standalone and mobile hardware will not be capable of running these applications. If a mobile hardware option is required, it may be necessary to reduce the application requirements to suit the hardware.
+
+The selection of hardware is also affected by the deployment requirements. VR hardware has yet to be subject to mass adoption so it is possible a VR FMD training application may be supplied to users with hardware. The hardware cost, number of units required, end user technical capabilities, support requirements and geographic location of users should be considered when selecting VR hardware for deployment. Sections 8.4.1 and 8.4.2 present example hardware solutions for an FMD VR training application.
+
+Option 1: PC based VR system
+
+A high-end PC or gaming laptop combined with PC based VR headsets will provide the best visual quality and simulation. This configuration will be more expensive and less mobile and would suit individual consumers or training providers with fixed VR training spaces.
+
+Option 2: Standalone VR headset
+
+A standalone headset provides flexibility as no external computer is required. These devices have limited processing power for simulation and rendering resulting in VR experiences with inferior graphics and simulation compared to PC based applications. This configuration provides lower costs and increased mobility.
+
+Designing for the future
+
+In the lifecycle of most software there is the need for modifications and upgrades over time. Well-designed applications implement generic code solutions that allow for code reuse and extension when new features are required. In relation to an FMD training application this could include expanding support for multiple VR hardware platforms, inclusion of new training scenarios, and addition of customised content for specific markets. Future updates may also involve the integration of new VR features such as multiplayer experiences and haptic feedback devices.
+
+Designing for non-VR users
+
+It is possible to operate a VR application on a non-VR platform such as a computer or mobile phone. The approach to building non-VR applications is different to VR applications so consideration during the requirements and design phase should be given if non-VR support is required. In practice the VR and non-VR applications should be considered as separate applications from a design perspective. It is possible to reuse code and 3D design elements across both platforms reducing time and cost of development and providing consistency for users.
+
+Deploying VR Training in the field
+
+Deploying VR training applications
+
+Deployment of software refers to the distribution of the application files to a target audience. When developing VR training applications consideration should be given to deployment of both software and hardware components. The method used to deploy an application depends on the requirements of the application, the target market, the size of the market and the capabilities of the application developer.
+
+Third-party distribution
+
+Third-party distribution platforms are used to make VR training applications available to a global audience. Examples include Steam and the Oculus Store. Distribution platforms allow developers to list an application for sale online and let users purchase and download software onto their own VR hardware setup. Developers can charge a license fee for their applications however there are often publishing and profit-sharing fees to be paid to the platform providers. Platforms provide a range of distribution functions to developers but at a minimum typically provide licensing, digital rights management and distribution of updates.
+
+Training organisations
+
+Organisations may wish to limit the availability of a VR training application to specific third-party individuals or organisations such as training organisations. A direct distribution method is used in this scenario and is managed through a software licensing agreement with users. Deployment may include the hardware and software or just the software. The licensing agreement can be used to define who supplies the VR hardware. Distribution of the software may be done via access keys on a third-party platform or the developer may establish their own process for distribution. Consideration of deployment methods for software upgrades should be made during project planning and design.
+
+Internal distribution
+
+In an internal distribution arrangement, developers provide the software and hardware directly through an internally managed process. This requires developing processes and systems for licensing and distribution of software and hardware as well as for support for users. This method is typically used when developing for internal uses or in cases where a developer creates a training application for a client organisation.
+
+Training and support for VR applications
+
+Deployment of software applications requires support and training for users. Support and training requirements for VR training applications may be greater than other software due to the lack of familiarity of VR hardware among users.
+
+VR applications can be built to include training components that teach users how to use the application from within the application. Training and support resources can also be provided to assist users in the form of user guides and videos, online forums, and troubleshooting guides.
+
+For distribution to third party training organisations it may be necessary to provide dedicated training on delivery of the application and additional support via phone or email.
+
+It can be beneficial to establish a system for users to provide feedback and to report bugs. This not only supports the end user but can also be helpful in the software development lifecycle informing future directions of the software development.
+
+Maintaining VR applications
+
+Despite testing during the development process, it is common for issues to be identified following the deployment of an application. Factors such as user error, hardware incompatibilities and unidentified software bugs can contribute to post deployment issues. The maintenance function of the software development lifecycle is designed to evaluate and where necessary perform software updates to address issues. Software updates need to be deployed to users and typically the same approach used during initial deployment is employed for updates.
+
+Integrating VR into existing training programs
+
+Existing training programs delivering classroom based or online training could benefit from the inclusion of VR training. VR training can provide adjunctive training material and provide additional benefits for trainees and training providers as outlined in previous chapters. Organisations can employ VR to extend their training range allowing them to cost effectively reach wider training markets with new and innovative training techniques.
+
+An FMD VR training application could be integrated into existing training programs including those currently offered by continuing professional development (CPD) programs, university programs, training organisations and industry and government training programs. This approach would allow elements of EuFMD Real Time Training style courses to be provided virtually reaching a wider audience.
+
+Incorporation of an FMD VR training application into an existing program would require licensing agreements, distribution of software and hardware, and support and maintenance processes.
+
+Limitations of VR
+
+VR hardware costs
+
+VR requires the use of specialised hardware the cost of which has been relatively high. Higher quality headsets of the current generation of VR have been priced up to $1600. In addition, PC based systems also require a computer with sufficient processing power to run VR applications which tend to be more expensive than a standard home or office computer. The combination of computer and headset costs have made VR relatively expensive, particularly in the consumer market.
+
+Lower cost VR hardware is beginning to appear and as the VR market continues to develop the cost of hardware is expected to decrease as seen in most electronic device sectors.
+
+Hardware limitations
+
+Processing power limitations
+
+Computer processors have limited computational capacity restricting the amount of simulation and rendering an application can generate. The amount of memory and calculation processing capacity determines the amount of information that can be handled. These limits impact the design and implementation of VR applications which is why understanding the target hardware is important during the design phase of a project.
+
+Virtual reality requires high levels of processing power due to the need to generate and render multiple versions of a scene for display to each of the VR headset screens. In addition, tracking information requires processing in real time. In order to provide smooth VR experiences applications typically run at high frame rates increasing the processing load.
+
+Visual quality
+
+Components inside VR headsets such as display screens and lenses affect the quality of the image presented. Low pixel density displays can lead to visual artefacts and blurring while lenses can introduce chromatic aberration (colours don’t all focus to the same point), lens glare (extra light is scattered throughout the lens) and the screen door effect (the space between pixels can be seen.
+
+Sensory feedback limitations
+
+Humans experience the world through an array of input senses, but current VR systems only offer two inputs – sight and sound. VR does not allow users to feel objects in the virtual space or feel other sensations such as pressure or temperature or to experience the smell of virtual environments. The limitations on sensory feedback in VR restricts the degree of simulation and affects the ‘realness’ of a virtual situation.
+
+User limitations
+
+The VR marketplace is still in early development with VR hardware and software not yet reaching mass market adoption. In relation to VR training this means that there may be a lack of familiarity with hardware and software among users. This can lead to resistance to adoption due to perceived risk and an increased need for training and support. VR also requires users to get accustomed to operating in the virtual environment which as with any technology can take time. Resistance to the adoption of new VR training applications can limit the ability of an organisation to bring VR to the training environment. The deployment of VR training programs should influence organisational planning of training.
+
+VR sickness
+
+The sensation of ‘being inside’ a computer-generated environment can lead to undesirable physiological responses. Visual information processed in the visual centres of the brain can conflict with feedback from other sensory systems such as the balance system. Mismatched signals can lead to sensations of motion sickness, nausea, and dizziness in users. Low frame rates, high rates of motion and bright flickering lights have also been shown to induce motion sickness. Users often become accustomed to VR after a period of use however some users may continue to experience VR sickness. Careful design and implementation by developers minimise the effects of VR sickness.
+
+Market adoption
+
+VR technology has not seen the same market uptake rate when compared to technologies such as smart phones and the internet. Factors such as cost, visual quality and motion sickness may have led to users waiting until the technology and developers addressed these issues. VR projects entering the consumer market may face a limited market size. This is less of a consideration in the training market as adoption of VR in training is generally higher than other sectors.
+
+Hygiene
+
+Virtual reality headsets are worn on the head and cover the users face. This contact can lead to transfer of dirt, sweat and potential disease when headsets are shared between users. It is recommended that headsets and hand controllers be sanitised between use. Disposable face covers can also be used to minimise direct contact between skin and the hardware. With consideration for the COVID-19 pandemic, processes for cleaning and sanitising VR hardware should be adopted in situations where headsets are shared.
+
+Future directions for VR and its application to training
+
+Although VR is a relatively new technology the speed of development has been significant and seems set to continue with predictions of annual growth until 2025 of around 30-40%. Future generations of VR hardware are expected to bring improvements to the quality of VR experiences.
+
+Hardware improvements
+
+Improvements in the processing power of computers for PC and standalone headsets will result in improved graphics quality and support more advanced simulation. Improvements in screen and lens design will improve the visual quality with increased screen resolutions and a reduction in adverse lens effects. Increases in field of view (FOV) will provide more natural viewing experiences. Integration of high bandwidth wireless connectivity will allow PC based headsets to remove the need for a cable tether providing more flexible VR experiences. Improved headset design will result in headsets that are smaller, lighter, and more comfortable to use for long periods.
+
+In relation to VR training these advances should result in higher quality training experiences delivered on hardware that is easier to use, more comfortable and lower cost.
+
+Tracking improvements
+
+Current generation VR headsets typically require external tracking sensors to provide spatial tracking of a user. Newer devices use the inside-out system removing the need for external sensors. It is envisaged that most headsets will move to this tracking system in the future simplifying the setup for VR. Advances in these tracking systems will provide increased tracking fidelity allowing for finer movement and include detailed tracking of the user’s facial expressions, eye and lip movements.
+
+Ongoing improvements in hand tracking are aimed at removing the need for physical hand controllers and providing fine tracking allowing more detailed interactions with objects in the virtual environment.
+
+Inclusion of other senses
+
+The current generation of VR headsets provide visual and auditory sensory inputs. While none of the major headset developers have announced new hardware to provide these extra senses there are companies developing the technology.
+
+Haptics refers to interactions involving touch. Most VR experiences use hand controllers to allow users to have in game hand movements. Virtual hands allow users to interact with objects however they do not provide any touch feedback. Some controllers provide controller vibration functions that allows an application to provide limited feedback to the user when an object is touched. A range of haptic feedback devices such as gloves and suits are in development that aim to provide a more complete sense of touch. These devices allow users to feel objects they interact with resulting in a greater sense of immersion in the virtual world and improving the sense of presence.
+
+The addition of other senses will allow VR applications to provide more detailed training experiences. For practical training this allows users to feel the tools they are working, providing a more accurate simulation of training scenarios.
+
+Increased market adoption
+
+While the uptake rate of VR has followed other new technologies it still has not reached the mass adoption. As headset costs decrease and technical improvements are made it is envisioned that adoption of VR in the consumer and business markets will increase. As adoption increases the technology will be viewed as less risky and willingness to use VR will increase making it easier to deliver VR applications in the training sector.
+
+As market adoption increases it is likely that ‘do it yourself’ VR creation applications will provide faster and cheaper methods to create custom VR content.
+
+Increased multiplayer experiences
+
+The ability to allow users from various geographic locations to share real time virtual training experiences provides many benefits including reducing the need for travel and easing access to training.
+
+During the COVID-19 pandemic of 2020 it has been evident that virtual connectivity tools can be extremely useful in business continuity operations. Video conferencing software adoption has increased dramatically since the commencement of the social distancing measures. The capability of multiuser VR applications to meet requirements for social distancing offers benefits especially in the training sector.
+
+A potential limitation of multiplayer experiences is the need for internet connectivity but as new networks and technologies such the Australian NBN and 5G are rolled out the availability of high-speed stable internet connectivity will improve.
+
+Integration of artificial intelligence
+
+The majority of VR application development is done manually by software developers and computer graphics artists. Advances in artificial intelligence (AI) provide new ways to generate content and process simulations without the need for manual development. AI based systems take inputs from an application and return results based on learning algorithms. AI can learn how to process inputs and generate outputs even for unfamiliar situations.
+
+Examples of AI features that could be integrated into VR training applications include:
+
+language processing. This provides the ability to listen to a user’s speech, analyse it and understand what the user is saying and generate an appropriate response.
+
+virtual character behaviour. AI systems can be used to control the behaviour of characters and objects in a virtual scene. AI objects take in inputs from the environment and automatically determine an appropriate response.
+
+AI based rendering. AI rendering applications are able to generate visual information without the need for manual creation by developers. An AI rendering engine can generate a visual scene automatically based on specified requirements. This is new technology but demonstrations from companies such a NVIDIA are showing promising results (Wang et al. 2018).
+
+The integration of AI components to VR training applications would provide a higher degree of simulation and more flexibility in how the user interacts with the world. Integration could reduce development times and open the ability for non-developers to create high quality VR training applications.
+
+Overview of the supporting VR demo application
+
+To support this report a demonstration VR application has been developed to illustrate many of the concepts discussed.
+
+Design overview
+
+Application objectives
+
+The supporting VR demonstration application aims to present a sample of virtual training scenarios related to FMD training. Each scenario is designed to show how different elements of existing training programs such as the EuFMD Real Time Training can be translated into VR.
+
+Application features
+
+The features implemented in the demonstration application include:
+
+3D virtual navigation and menus
+
+presentation of 2D knowledge-based content including interactive assessment
+
+3D virtual representation of an Australian cattle farm environment
+
+interaction with virtual tools and equipment
+
+interaction with virtual animal and human characters
+
+implementation of practical hands on FMD training scenarios. This covers set up of biosecurity control points and preparing PPE, examination of livestock with suspected cases of FMD, sample taking from livestock, and interviewing landowners as part of the investigation process.
+
+a user profile sub system allowing measurement and reporting of user activity and performance
+
+a self-guided tutorial level outlining how to use the application.
+
+VR interactions
+
+The sample scenarios demonstrate a range of VR interactions including:
+
+interaction with 2D menus and content including interactive assessment
+
+interacting in a virtual representation of an Australian cattle farm
+
+interacting with virtual objects and tools
+
+interacting with virtual human and animal characters.
+
+VR content
+
+The demonstration application features a combination of 2D and 3D content. The experience is presented using computer generated 3D environments. Modules contain a combination of 2D and 3D elements. Most modules feature 2D displays for instruction and most of the interaction is done with 3D objects. A virtual instructor is used to guide users through each module via a voice over.
+
+Design considerations
+
+The primary objective of this application is to demonstrate how VR can be used in FMD training. The design decision was made to represent the virtual farm environment in a semi realistic manner with the aim of demonstrating how a sense of presence, or immersion, can be generated in a VR training application. The virtual environment is illustrated in Figure 12.
+
+The modules require physical interaction and movement from the user providing practical experience in the procedures being taught.
+
+Figure 12 Supporting VR demonstration application
+
+Image: Novus Res
+
+Development during COVID-19
+
+Development of the majority of the supporting VR demonstration application was undertaken during the COVID-19 pandemic under social distancing measures. Using collaborative development tools and video conferencing the developers were able to continue building the VR demonstration while observing social distancing requirements. Video conferencing was used during design discussions, paired programming sessions and for testing and review sessions. Collaborative software development tools allowed the team to maintain source-controlled project files while still allowing them to work on individual project elements such as coding or 3D modelling.
+
+Module 1 Virtual tutorial presentation
+
+Objective: To demonstrate how 2D content and basic assessments can be presented in a VR training scenario.
+
+Implementation: Module 1 places the user in a virtual presentation space and displays a slide-based tutorial on the diagnosis of FMD as illustrated in Figure 13. The material for this module includes a subset of slides from the EuFMD Introduction to FMD online course.
+
+Content is presented using 2D user interface elements and presented on a screen in front of the user. The user is able to navigate through the presentation at their own pace using navigation buttons. Interspersed in the slide content are MCQ assessment questions. Results of these questions are recorded automatically against the user profile.
+
+The scenario requires approximately 3–5 minutes to complete. The tracking system records the date and duration of the session, the completion state, and the result of the MCQ questions.
+
+Figure 13 Module 1 Virtual tutorial presentation and assessment
+
+Image: Novus Res
+
+Module 2 Setting up biosecurity control points
+
+Objective: This scenario demonstrates how VR can be used to perform competency based procedural training.
+
+Implementation: Module 2 requires the user to follow a guided lesson on the setup of a biosecurity control point. The aim of the lesson is to provide background information about the need for biosecurity and to introduce the methods for establishing a control point on a property with suspected FMD cases.
+
+A 3D virtual environment was created representing an Australian cattle farm. The user is placed at an entry point of the property shown in Figure 14 and is guided through the process of setting up the control point. A combination of 2D elements and voice over guides the user. The user is required to interact with scene objects to complete each step of the process. This includes identifying objects and picking them up and placing them in a correct location. Tasks include:
+
+establishing the location of a control point
+
+laying out the equipment for cleaning and disinfecting
+
+Laying out the personal protective equipment (PPE)
+
+laying out other tools, documentation and equipment required for setup and for use while on farm during inspections
+
+preparing cleaning and disinfectant solutions
+
+setting up clean and dirty sides of a control point with the required equipment
+
+putting on PPE.
+
+This scenario requires approximately 5–7 minutes to complete. The tracking system records the date and duration of the session as well as the completion state.
+
+Figure 14 Module 2 Setting up a virtual biosecurity control point
+
+Image: Novus Res
+
+Module 3 Livestock examination
+
+Objective: This scenario is an interactive 3D virtual simulation of the procedures for examining livestock suspected of FMD. This scenario demonstrates interacting with objects and characters in VR.
+
+Implementation: Module 3 takes place on the same virtual farm as in module 2. As shown in Figure 15 the user is placed inside a yard containing a cow with a suspected case of FMD. The user is presented with background information related to FMD investigations and then follows a guided series of tasks to investigate the animal. The tasks include:
+
+using a thermometer to take the animals temperature
+
+performing a visual inspection of the mouth, identifying lesions
+
+performing a visual inspection of the feet
+
+performing a visual inspection of the teats.
+
+At times throughout the module a 2D display shows photographs and descriptions of lesions currently being investigated.
+
+The scenario requires approximately 3–5 minutes to complete. The tracking system records the date and duration of the session as well as the completion state.
+
+Figure 15 Module 3 Investigating livestock
+
+Image: Novus Res
+
+Module 4 Interviewing landowners
+
+Objective: This scenario is an interactive 3D virtual simulation of procedures done when performing investigations of properties with suspected cased of FMD. This scenario demonstrates interacting with characters in VR.
+
+Implementation: This module is set on the virtual farm away from the animals with the landowner standing in front of the user as seen in Figure 16. The user has a series of interview questions to ask the landowner relating to FMD investigations. The questions are listed on a clipboard and the user uses a pen to trigger the asking of each question which is done via pre-recorded voice over. The farmer responds to each question with a voice over and the user can make a note of the response on the clipboard using the pen.
+
+The module demonstrates how characters can be represented in VR and how simple conversations can be implemented. This module also demonstrates interaction with virtual tools and equipment.
+
+This scenario requires approximately 2-3 minutes to complete. The tracking system records the date and duration of the session as well as the completion state.
+
+Figure 16 Module 4 Interviewing landowners
+
+Image: Novus Res
+
+Module 5 Taking laboratory samples
+
+Objective: This scenario is an interactive 3D virtual simulation of procedures for taking samples from animals with suspected cases of FMD. This scenario demonstrates interacting with virtual animals and tools and equipment in VR.
+
+Implementation: This scenario takes place in the yard with an animal with a suspected case of FMD as shown in Figure 17. The user is guided through various sample taking procedures. For each procedure, the user must:
+
+select the appropriate sample equipment
+
+perform sample collection on the virtual animal
+
+transfer the sample to the appropriate sample transfer container
+
+label the sample
+
+place the labelled sample in the appropriate container for transport from the property.
+
+The module uses the virtual instructor to guide the user through the procedures. The included sample taking procedures are:
+
+taking a blood sample
+
+taking a vesicular fluid sample
+
+taking an oral swab
+
+taking an epithelium sample.
+
+The module requires approximately 5–6 minutes to complete. The tracking system records the date and duration of the session as well as the completion state.
+
+Figure 17 Module 5 Taking samples
+
+Image: Novus Res
+
+Hardware
+
+The demonstration application was designed for use on PC based VR systems and the standalone Oculus Quest headset. The PC version is hardware agnostic and will support VR headsets including devices from the Oculus Rift family and devices supporting OpenVR including the Vive family and Windows Mixed Reality (WMR) devices. The project was converted to support the Android operating system running on the Oculus Quest headset.
+
+Deployment, training and support
+
+The application will be deployed to the Oculus Quest headset by a method known as side loading. In this process the VR device is connected to a computer containing the game engine project and build directly onto the device. There will be no deployment of this application to any third-party distribution platforms.
+
+Training is provided in the form of a user guide however the application also features a built in ‘how to play’ scenario which guides users through the interactions and movement in the application.
+
+Future features
+
+The demonstration VR application developed to support this report provides a sample of VR capabilities in the biosecurity training area. Future versions of a training app may include:
+
+more topics/modules – leaving a biosecurity area, processing lab samples, giving vaccinations, performing timeline analysis
+
+interaction improvements – tighter hand gestures and hand positions when handling tools, characters, animals, and equipment
+
+more dynamic lessons – free flowing lessons allowing student to explore at their own pace in certain scenarios.
+
+more assessments
+
+more branching conversations, possible AI integration for a wider range of conversations
+
+speech recognition
+
+more agent behaviour – i.e. characters walking around with more complex behaviours
+
+more complex tool and equipment behaviours – i.e. syringe interactions
+
+more detailed virtual guide providing additional feedback and instruction especially around task failures.
+
+Appendix A: VR headsets
+
+Table A1 List of current generation VR headsets as of May 2020
+
+Glossary
+
+References
+
+Accenture 2018, Immersive learning for the future workforce, viewed 10 May 2020.
+
+Allcoat, D & von Mühlenen, A 2018. Learning in virtual reality: Effects on performance, emotion and engagement. Research in Learning Technology, 26.
+
+Bhagavathula, R, Williams, B, Owez ns, J & Gibbons, R 2018. The Reality of Virtual Reality: A Comparison of Pedestrian Behavior in Real and Virtual Environments. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 62(1), 2056–2060.
+
+Buetre, B, Wicks, S, Kruger, H, Millist, N, Yainshet, A, Garner, G, Duncan, A, Abdalla, A, Trestrail, C, Hatt, M, Thompson, LJ, & Symes, M 2013. Potential socio‐economic impacts of an outbreak of foot‐and‐mouth disease in Australia. ABARES research report, Canberra, September.
+
+Cipresso, P, Giglioli, I, Raya, MA & Riva, G 2018. The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature. Frontiers in psychology, 9, 2086.
+
+EUFMD 2020. What we do - Pillar 1, viewed 17 April 2020.
+
+FAO/EUFMD. 2020. Global Monthly Report. Foot-and-Mouth Disease Situation - December 2019. Rome, FAO, viewed 17 April 2020.
+
+Hackathorn, J, Solomon ED, Blankmeyer, KL, Tennial RE & Garczynskib, AM 2011, Learning by Doing: An Empirical Study of Active Teaching Techniques, The Journal of Effective Teaching, Vol. 11, No. 2, 2011, 40-54.
+
+Incao, J 2018, How VR is Transforming the Way We Train Associates, Walmart, viewed 5 April 2020
+
+Jamal, SM & Belsham, GJ 2013, Foot-and-mouth disease: past, present and future. Vet Res 44, 116 (2013). , viewed 13 April 2020.
+
+Katajavuori, N, Lindblom-Ylänne, S, & Hirvonen, J 2006. The Significance of Practical Training in Linking Theoretical Studies with Practice. Higher Education. 51. 439-464. 10.1007/s10734-004-6391-8.
+
+Knight-Jones, TJD & Rushtonb, J 2013. The economic impacts of foot and mouth disease – What are they, how big are they and where do they occur? Preventative Veterinary Medicine, 2013 Nov 1; 112(3-4): 161–173
+
+Krokos, E, Plaisant & C, Varshney, A 2018. Virtual memory palaces: immersion aids recall. Virtual Reality. 10.1007/s10055-018-0346-3.
+
+Meyer, OA, Magnus K, Omdahl, MK & Makransky, G 2019. Investigating the effect of pre-training when learning through immersive virtual reality and video: A media and methods experiment. Computers & Education 140 (2019) 103603.
+
+Oculus 2020, Celebrating the One-Year Anniversary of Oculus Quest + Rift S, viewed 20 May 2020.
+
+Patel, K, Bailenson, J, Hack-Jung, S, Diankov, R & Bajcsy, R 2008.The effects of fully immersive virtual reality on the learning of physical tasks.
+
+Quantified Design Solutions. Portfolio – Quantified Design Solutions. viewed 3 May 2020.
+
+Slater M, Spanlang B, Sanchez-Vives MV, Blanke O 2010. First Person Experience of Body Transfer in Virtual Reality. PLOS ONE 5(5): e10564.
+
+Sony 2020, PlaystationTM Network Monthly Active Users Reach 103 Million, viewed 10 May 2020.
+
+Statistica 2020, Unit shipments of virtual reality (VR) devices worldwide from 2017 to 2019 (in millions), by vendor, viewed 10 May 2020.
+
+STRIVR, Why companies are turning to Virtual Reality to engage and train employees faster. STRIVR, viewed 3 May 2020.
+
+SuperData, 2020, 2019 Year in Review Digital Games and Interactive Media (pdf 8.45Mb), viewed 20 May 2020.
+
+Thompson, DK, Muriel, P, Russel, D, Osborne, P, Bromley, A., Rowland, M, Creigh-Tyte S & Brown, C 2002. Economic costs of the foot and mouth disease outbreak in the United Kingdom in 2001. Revue Scientifique et Technique Volume 21(3).
+
+Thompson, C 2017, Stereographs Were the Original Virtual Reality, Smithsonian Magazine, October 2017, viewed 19 April 2020.
+
+Wang, TC, Liu, MY, Zhu, JY, Tao, A, Kautz, J, & Catanzaro, B 2018. High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. 8798-8807. 10.1109/CVPR.2018.00917.

@@ -1,0 +1,332 @@
+Improving access to imported food safety requirements
+Imported food safety requirements are now included in the Biosecurity Import Conditions system
+(BICON).
+See more about the Inclusion of food safety requirements in BICON.
+All biosecurity requirements must be met before Imported Food Inspection Scheme requirements
+apply.
+Check our Biosecurity Import Conditions system (BICON) for biosecurity import conditions.
+We classify imported food that presents a potential medium or high risk to public health as risk food.
+All risk food is listed in the Imported Food Control Order 2019.
+All beef and beef products are classified as risk food
+All beef and beef products are a risk food for the potential presence of Bovine Spongiform
+Encephalopathy (BSE) agent.
+Beef means the flesh, bone, offal or any other tissue of an animal in the subfamily bovinae.
+Beef products means food prepared from or containing beef, but does not include:
+milk
+dairy products
+gelatine and collagen derived from skins and hides (including sausage casings produced from this
+type of collagen)
+rendered fats, tallow or di-calcium phosphate included as a minor ingredient (less than 30% of a
+processed product).
+See the additional requirements that apply to fresh (chilled/frozen) beef and beef products.
+You can only import beef and beef products that originate in a country:
+with a satisfactory BSE risk status from Food Standards Australia New Zealand (FSANZ)
+covered by a recognised government certificate.
+Certification arrangements
+Beef and beef products can only be imported from countries listed here. Certificates must meet
+requirements, including mandatory declarations.
+You can only import beef or beef products from countries not listed here if the beef originates from a
+country that is listed. You will need certification from the exporting country AND the country of origin.
+See requirements for products where the exporting country is not the country of origin of the beef.
+• 
+• 
+• 
+• 
+• 
+•
+
+Certificate requirement
+Type of
+information
+To include
+National
+competent
+authority:
+Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA, the Argentine
+National Agriculture and Food Health and Quality Service)
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born,
+raised and slaughtered in Argentina and that passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+ICS document
+code:
+BSECERTARG
+You can import beef of Australian origin either unchanged or as part of a product for human
+consumption, subject to meeting biosecurity and food safety requirements.
+You may need an import permit for some cases.
+Certificate requirements
+Type of information
+To include
+The certificate must state:
+Certificate requirement
+Type of
+information
+To include
+National
+competent
+authority:
+Ministerio da Agricultura, Pecuaria e Abastecimento (Ministry of Agriculture,
+Livestock and Food Supply)
+Mandatory
+declaration:
+All bovine derived material (other than dairy ingredients, gelatine and/or collagen
+derived from hides and skins) was sourced from animals born, raised and
+slaughtered in Brazil. The products are fit for human consumption.
+ICS document
+code:
+BSECERTBRA
+Type of
+information
+To include
+National
+competent
+authority:
+Canadian Food Inspection Agency
+
+Mandatory
+declaration:
+The meat is derived from cattle, buffalo or bison that were born and raised in
+Canada or the United States of America and have passed ante-mortem and post-
+mortem inspection under CFIA veterinary supervision at the time of slaughter. The
+meat is fit for human consumption.
+ICS document
+code:
+BSECERTCAN
+Certificate requirement
+Type of information To include
+National competent
+authority:
+Servicio Agricola y Ganadero, Ministerio de Agricultura (Agricultural and
+Livestock Service, Ministry of Agriculture)
+Mandatory declaration: The beef and/or beef product is derived from bovine animals that have been
+born, raised and slaughtered in Chile.
+ICS document code:
+BSECERTCHL
+Certificate requirements
+Type of
+information
+To include
+National competent
+authority:
+Ministry of Agriculture, Veterinary and Food Safety Directorate
+Mandatory
+declaration (meat-
+based flavours):
+The animals from which the meat was derived passed ante-mortem and post
+mortem veterinary inspection under official veterinary supervision and were
+found to be free of infectious disease. The meat is considered to be fit for human
+consumption. The beef contained in this product was derived from bovine
+animals that have been born, raised and slaughtered in Croatia.
+ICS document code: BSECERTCRO
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+Ministry of Agriculture, Forestry and Fisheries
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born,
+raised and slaughtered in Japan and that passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+BSECERTJPR
+
+ICS document
+code:
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+Ministry of Agriculture – Food and Veterinary Service
+Mandatory
+declaration:
+The beef and/or beef product is derived from animals that have been born, raised
+and slaughtered in Latvia and that have passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+ICS document
+code:
+BSECERTLVT
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+State Food and Veterinary Service of the Republic of Lithuania
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born,
+raised and slaughtered in Lithuania and that passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+ICS document
+code:
+BSECERTLTH
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+Secretaria de Agricultura, Ganaderia, Desarrollo Rural, Pesca y Alimentacion
+(Secretariat of Agriculture, Livestock Production, Rural Development, Fisheries and
+Food)
+
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born,
+raised and slaughtered in Mexico and that passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+ICS document
+code:
+BSECERTMEX
+Certificate requirements
+Type of information
+To include
+National competent
+authority:
+Nederlandse Voedsel –en Warenautoriteit (Netherlands Food and Consumer
+Products Safety Authority)
+Mandatory declaration:
+ICS document code:
+BSECERTNTL
+There are 2 certification options for beef or beef products imported from New Zealand.
+Option 1: electronic certification (e-cert)
+New Zealand Ministry for Primary Industries (NZ MPI) issues electronic government certification that
+we can access.
+Customs brokers can add the listed document codes for the NZ MPI-issued BSE certification. When
+lodging a FID, add these codes in the 'AQIS Documents Detail' field:
+Food
+Code
+Beef meat
+AU100
+Beef meat products
+AU100
+Beef meat based flavours AU102
+Edible animal casings
+AU103
+Option 2: Establishments with NZ MPI-approved Food Control Plan or Risk Management
+Programme
+We have an agreed annual certification arrangement with NZ MPI. This covers products sourced from
+establishments with an:
+approved Food Control Plan (FCP), or
+Risk Management Programme (RMP).
+These establishments only use beef or beef products from bovine animals that have been born, raised
+and slaughtered in New Zealand or Australia.
+See a list of FCP and RMP establishments on the NZ MPI website.
+• 
+•
+
+We may request a manufacturer declaration for each consignment. The declaration must specify the:
+establishment name
+address
+unique FCP or RMP identifier.
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+Livsmedelsverket (National Food Agency of Sweden)
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born,
+raised and slaughtered in Sweden and that passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+ICS document
+code:
+BSECERTSWE
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+United States Department of Agriculture
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born
+and raised in either the United States of America or Mexico, and slaughtered in the
+United States of America and passed antemortem and postmortem veterinary
+inspection under official veterinary supervision. The beef or beef product(s) is
+considered fit for human consumption.
+ICS document
+code:
+BSECERTUSA
+Certificate requirements
+Type of
+information
+To include
+National
+competent
+authority:
+Department of Livestock and Quarantine Service
+• 
+• 
+•
+
+Mandatory
+declaration:
+The beef and/or beef product is derived from bovine animals that have been born,
+raised and slaughtered in Vanuatu and that passed ante-mortem and post-mortem
+veterinary inspection under official veterinary supervision. The beef or beef product
+is considered to be fit for human consumption.
+ICS document
+code:
+BSECERTVNU
+You can only import beef or beef products from countries not listed here if the beef originates from a
+country that is listed. You must provide certification from the exporting country AND the country of
+origin of the beef that meets these requirements.
+Country of origin certificate
+The certificate(s) issued by the country of origin may be an original or a copy certified by the exporting
+country’s national competent authority.
+Exporting country certificate
+The certificate(s) issued by the exporting country must:
+state the country of origin for the beef or beef product
+state the certificate numbers of the country of origin’s export certificates relating to the product in
+the current consignment
+make the relevant country of origin mandatory declaration statement(s).
+In some cases, the country of origin certification does not contain the required statements. However,
+provided the exporting country certification does, we will accept it. The statement(s) will also be
+accepted in an accompanying official and certified letterhead that clearly states the certificate number it
+relates to.
+Declaring certificates
+When lodging a Full Import Declaration (FID), use the correct ICS document code and certificate
+number for the food.
+Food safety risk
+Refer to the Food Standards Australia New Zealand (FSANZ) BSE information webpage for information
+about BSE and the food safety risk assessment process for imported beef.
+• 
+• 
+•
+
+Glossary
+Competent authority
+The government authority or official body authorised by the government that is responsible for the
+setting of regulatory food safety requirements and/or for the organisation of official controls including
+enforcement.
+Version history
+Date
+Amendment details
+04/08/2025 Editorial updates and listed Canada as a category 1 country.
+16/11/2018
+Consolidates risk food webpages for food that contains beef or beef products as an
+ingredient
+17/08/2018 Updated to include requirements for raw (chilled or frozen) beef and beef products
+01/05/2014 Replaces Imported Food Notice 09/12 Tests applied to risk category foods
+Source: https://www.agriculture.gov.au/biosecurity-trade/import/goods/food/type/beef

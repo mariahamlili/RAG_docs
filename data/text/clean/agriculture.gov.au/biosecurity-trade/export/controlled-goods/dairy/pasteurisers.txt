@@ -1,0 +1,592 @@
+Publication details
+Australia New Zealand Dairy Authorities' Committee (ANZDAC), 2007 (current version).
+The purpose of this guideline is to assist industry and regulators with the implementation of food safety
+standards and the application of good food safety practice.
+With the increasing emphasis on food safety within the dairy industry and the continuing move towards
+implementation of quality management systems, there exists a need to ensure that pasteurisers are
+designed, installed, operated and checked in a manner that ensures that no untreated or partially
+treated milk passes forward.
+This document prepared by a working group under the direction of the Australia New Zealand Dairy
+Authorities' Committee (ANZDAC) sets out the guidelines to be followed for the preparation of
+procedures so that a measure of the validation of pasteurisation can be achieved.
+It is intended that the procedures will be incorporated as an integral part of each factory’s/processor’s
+quality management system to achieve certification by accredited third party bodies and by the
+Inspection Service and the State Dairy Authorities.
+Download
+Document
+Pages File
+size
+ANZDAC - Validation and Verfication of Heat Treatment Equipment and Processes
+PDF
+14
+122 KB
+Online version
+The development of this Guideline is an initiative of the Australia New Zealand Dairy Authorities’
+Committee (ANZDAC). Members of ANZDAC are:
+Australian Quarantine and Inspection Service
+Dairy Authority of South Australia
+Dairy Food Safety Victoria
+Department of Health Western Australia
+New South Wales Food Authority
+New Zealand Food Safety Authority
+Safe Food Queensland
+Tasmanian Dairy Industry Authority
+
+This Guideline is not intended as a mandatory standard. The purpose of this Guideline is to assist
+industry and regulators with the implementation of food safety standards and the application of good
+food safety practice. Accordingly, this Guideline may require amendment from time to time in order to
+remain aligned with food safety standards.
+With the emphasis on food safety within the dairy industry and the regulated implementation of
+HACCP based food safety programs there exists a need to ensure that heat treatment equipment such as
+pasteurisers are designed, installed, operated and verified in a manner that results in no untreated or
+partially treated milk or dairy products.
+This document prepared by a working group under the direction of the Australia and New Zealand
+Dairy Authorities Committee (ANZDAC) was developed to provide guidance on equipment and
+processing parameters that are to be reviewed and assessed as part of validation and verification of heat
+treatment.
+Systems for the validation and verification of heat treatment should be incorporated as an integral part
+of each dairy factory’s food safety program, where critical heat treatment processes are conducted. For
+each heat treatment process and/or pasteuriser the dairy factory will be expected to have a program of
+checking and testing including procedures and recording of the results of such activities.
+The requirements for the pasteurisation and heat treatment of milk and dairy products are contained in
+the Food Standards Code, the Export Control (Milk and Milk Products) Orders 2005 and the relevant
+State, Territory or Country legislation.
+The conditions and procedures in this document apply to both continuous flow and batch heat
+treatment systems.
+AS 3993 - 2003 Equipment for the pasteurisation of milk and other liquid dairy products –
+continuous flow systems.
+D121.1, Dairy Heat Treatments – NZFSA, 2003.
+IDF Bulletin 200, 1986 Monograph on Pasteurised Milk
+Export Control (Milk and Milk Products) Orders 2005.
+Food Standards Code published by Food Standards Australia New Zealand.
+Relevant State dairy legislation
+Batch pasteurisation: A volume of milk or liquid dairy product heated and cooled uniformly to achieve
+pasteurisation
+Continuous-flow system: A system in which the product passes in continuous flow through heating and
+cooling equipment in order to receive the required heat treatment. Such systems usually incorporate
+one or more regeneration sections in which there is transfer of heat between the hot pasteurised
+product and incoming raw product.
+Headspace: The space between the surface of the milk or liquid dairy product and the lid of the heating
+vessel.
+
+HTST: Hight Temperature Short Time Pasteurisation is used for continuous flow pasteurisation.
+New pasteuriser for the purposes of this document is one purchased direct from the manufacturer or
+agent and which has not been previously used.
+Note: Any pasteuriser not conforming to this definition will be considered to be an existing pasteuriser.
+Heat treatment processes are often designed to balance a sufficient heat treatment to achieve a safe
+outcome and minimal heating effect on the quality and flavour of product. This minimum treatment
+means that the process should be tightly controlled to ensure that the equipment design and operation
+are working effectively.
+In some cases the intensity of controls can be reduced by increasing the heat treatment so that there is a
+wider safety margin. For example where milk or milk products are heated to greater than 85°C it may
+not be necessary to monitor holding time, dependent on fat content and particle size.
+4.1 Heat Treatment Equipment
+HTST pasteurisers
+It is expected that all new HTST pasteurisers, not including vacreators, used for the pasteurisation of
+milk and the manufacture of dairy products should meet the AS 3993 - 2003 requirements.
+Existing pasteurisers are expected to meet the retro-fit standard described in Appendix C as a
+minimum.
+Other Continuous Flow Heat Treatment Systems
+Continuous flow heat treatment systems which are not HTST, such as UHT and vacreators, should
+ensure the following:
+The equipment should include:
+an indicating thermometer, so that the temperature can be monitored during processing,
+a continuous recording device for time and temperature.
+Equipment needs to ensure that raw or partially treated product cannot contaminate the
+pasteurised product
+Equipment needs to ensure that services, such as cleaning systems, cannot contaminate the
+product.
+Batch pasteurisation
+Design of batch pasteurisers should take into consideration the following:
+Vessels should be enclosed during operation to ensure both product and headspace temperatures
+meet the temperature specified in the approved food safety plan, and to protect product from
+contamination with condensate or extraneous matter.
+◦ 
+◦ 
+
+Vat agitation should be sufficient to ensure that the temperature throughout the vat is constant
+and uniform.
+Outlets and fittings should be designed to ensure that there are no dead spots where product may
+not be effectively heat treated.
+The equipment should include:
+an indicating thermometer, so that the temperature can be monitored during processing
+a continuous recording device for time and temperature (such as a data logger), and
+a head space thermometer.
+Equipment needs to ensure that raw or partially treated product can not contaminate the
+pasteurised product (this is included to ensure that raw milk from the feed line can not drip
+into the vessel during or after pasteurisation).
+Filters to control particle size may need to be installed where ingredients which have not
+been pre-treated and with variable particle size are added such as addition of fresh fruit.
+Equipment needs to ensure that services, such as cleaning systems, cannot contaminate the
+product.
+All heat treatment equipment shall comply with Food Standards Code Chapter 3 Food Safety Standards
+3.2.3, clause 12.
+All dairy factories should provide documented evidence to verify that the heat treatment equipment
+complies with these standards.
+4.2 Validation of Heat Treatment
+Information should be available to describe how the heat treatment system has been designed to ensure
+that it is effective; this is the validation. The following information should be available for all heat
+treatment processes, including HTST, UHT and batch:
+4.2.1 Provide information on design of equipment, generally through a schematic diagram but simple
+processes maybe described. This should include (where applicable):
+Description of heating process such as plate heat exchanger; steam jacketed vessel; stove top.
+Position of temperature probes
+Type of agitation
+Product flow and line connections identifying that raw and pasteurised product is separated; and
+Evidence of assessment of potential processing risks such as dead spots where heat treatment
+may not be effective.
+4.2.2 Provide heat treatment critical limit specifications showing assessment of critical inputs relating
+to products and source of validation information. This information should identify:
+Time and temperature of heat treatment such as minimum 72°C for 15 seconds or 63°C for 30
+minutes, for whole milk.
+Description of product(s) being heat treated, there may be different critical limits for each
+product eg milk and cream should have different heat treatments.
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+
+including fat content and particle size for each product type. Refer to Appendix B.
+The process must show compliance to the Food Standards Code Standard 1.6.2, an extract is provided
+in Appendix A.
+Information on heat treatments equivalent to pasteurisation for common types of dairy produce is
+provided in Appendix B.
+4.2.3 Document corrective action and controls to be implemented when the system is found to be non-
+compliant. This information will generally be contained within the food safety program.
+4.3 Verification of Heat Treatment
+To verify the effectiveness of heat treatments operational monitoring and testing procedures should be
+followed. This provides evidence that the specifications set through validation continue to be met
+during processing. Evidence of competency of personnel conducting verification should be available in
+accordance with food safety program requirements. Alternative verification systems may be applied,
+and are expected to achieve an equivalent outcome. These proposals may be assessed and approved by
+your Regulatory Authority.
+4.3.1 Provide evidence of Certification of compliance of HTST pasteurisation equipment to
+AS3993-2003 conducted by competent technical personnel, such as a qualified engineer.
+4.3.2 Monitoring of pasteurisation and verification of equipment should be conducted as follows:
+HTST as documented in appendix A of AS 3993-2003. The following is a summary of these checks
+which are described in detail in the AS 3993-2003:
+Comparing indicating and recording thermometer readings
+Operation of diversion and alarms
+Operation of recording systems
+Thermometer and pressure gauge calibration
+Verification of integrity of heat transfer surfaces
+Heat exchanger gaskets
+Verification of holding time by direct measurement
+Diversion response time
+Leak paths (if appropriate)
+Operation of pressure differential diversion (if appropriate)
+Pressure differential control systems (if appropriate)
+Secure medium integrity (if appropriate).
+Other Continuous flow systems 
+Daily - These checks are to be completed and recorded each time the heat treatment equipment is used:
+Product temperature monitoring recorded continuously during heat treatment.
+
+Compare indicating thermometer (product temperature) reading to recording thermometer
+reading. If the difference is more than 0.5°C corrective action should be taken (as per food safety
+program).
+Six Monthly
+Calibration of thermometers and recording devices including accuracy of time recording (as per
+food safety program). Thermometer accuracy should be within 0.5°C.
+Batch pasteurisation
+Daily - These checks are to be completed and recorded each time the pasteuriser is used:
+Product temperature monitoring recorded continuously during heat treatment.
+Headspace temperature monitoring and recording to occur at the beginning and end of the
+critical temperature cycle.
+Compare indicating thermometer (product temperature) reading to recording thermometer
+reading. If the difference is more than 0.5°C corrective action should be taken (as per food safety
+program).
+Six Monthly
+Calibration of thermometers and recording devices including accuracy of time recording (as per
+food safety program). Thermometer accuracy should be within 0.5°C.
+4.3.3 This verification should be conducted by suitably qualified/trained staff.
+4.3.4 Records of verification activities should be retained and available for audit purposes as part of the
+businesses food safety program.
+The program of checking and testing at commissioning (verification of equipment prior to use) and
+following subsequent modifications ensures that heat treatment equipment is always operated for the
+specified product in a manner that complies with the appropriate standards. The results of the checks
+should be evaluated by competent technical personnel, such as an appropriately qualified engineer.
+When deficiencies occur, the frequency of checking should be increased until the problem has been
+proven to be remedied. Any non-conforming product resulting from these deficiencies should be
+handled in accordance with the businesses food safety plan.
+Any change that could affect any performance characteristic of the heat treatment equipment for the
+specified product, and the reasons for it, should be documented.
+New and modified heat treatment equipment should be commissioned before they are put into normal
+use and then frequently checked until a record of proven calibration and reliability has been
+established. For continuous flow pasteurisers this should be in accordance with the AS3993-2003. For
+batch pasteurisers these should be the 6 monthly checks described in Section 4.3. Other maintenance
+operations and checks may also be conducted as is necessary to confirm the reliability of the equipment
+to meet the standards.
+
+All checks should also be carried out and documented where any modifications that may affect
+operating conditions are made to existing heat treatment equipment.
+Pasteuriser/heat treatment equipment operation is a critical process in the production of safe dairy
+products. It is essential that operators of this equipment are suitably trained to monitor, interpret
+records and take corrective and preventative actions when necessary.
+Clause 3 of Standard 3.2.2 in the Food Standards Code (Food handling - skills and knowledge) requires
+that a food business should ensure that persons undertaking or supervising food handling operations
+have:
+skills in food safety and food hygiene matters; and
+knowledge of food safety and food hygiene matters, commensurate with their work activities.
+Dairy factories should be able to demonstrate that operators of HTST pasteurisers have completed
+suitable training and been assessed as competent. Training in heat treatment under the VET food
+processing certificate program is an option for demonstrating compliance to this requirement.
+Food Standards Code – Standard 1.6.2 Processing Requirements
+Clauses
+1 Processing of milk and liquid milk products
+Milk must be pasteurised by –
+heating to a temperature of no less than 72°C and retaining at such temperature for no less
+than 15 seconds and immediately shock cooling to a temperature of 4.5°C; or
+heating using any other time and temperature combination of equal or greater lethal effect
+on bacteria unless an applicable law of a State or Territory otherwise expressly provides.
+Liquid milk products must be heated using a combination of time and temperature of equal or
+greater lethal effect on the bacteria in liquid milk that would be achieved by pasteurisation or
+otherwise produced and processed in accordance with any applicable law of a State or Territory.
+Editorial note:
+For the purposes of clause 1 of this Standard, milk and liquid milk products includes milk and liquid
+milk products used in the production of any cream and cream products, fermented milks, yoghurt,
+dried, condensed and evaporated milks, butter and ice cream.
+Heat Treatment
+Equivalent to
+Pasteurisation for
+Common Types of
+Dairy Produce
+All dairy
+produce
+Ice Cream
+mixes
+◦ 
+◦ 
+
+(excluding
+ice cream)
+with
+with
+particles
+<1000 μm
+Milks with
+<10% fat and
+no added
+sweeteners and
+particles
+Dairy produce with
+≥ 10% fat and/or
+added sweeteners
+and concentrated
+dairy produce with
+> 15% total solids
+and particles
+Particle Diameter
+<200 μm Ø
+200
+to
+<500
+μm Ø
+500 to
+<1000
+μm Ø
+<200 μm Ø
+200
+to
+<500
+μm Ø
+500 to
+<1000
+μm Ø
+Minimum holding
+time (seconds)
+Minimum
+Temperature
+(°C)
+Minimum holding
+time (minutes)
+Minimum
+Temperature
+(°C)
+1.0
+81.6
+-
+-
+84.4
+-
+-
+-
+2.0
+79.0
+81.6
+-
+81.8
+84.4
+-
+-
+3.0
+77.6
+79.0
+-
+80.4
+81.8
+-
+-
+4.0
+76.5
+77.6
+81.6
+79.3
+80.4
+84.4
+-
+5.0
+75.7
+76.5
+79.0
+78.5
+79.3
+81.8
+-
+6.0
+75.1
+75.7
+77.6
+77.9
+78.5
+80.4
+-
+7.0
+74.6
+75.1
+76.5
+77.4
+77.9
+79.3
+-
+8.0
+74.1
+74.6
+75.7
+76.9
+77.4
+78.5
+-
+9.0
+73.7
+74.1
+75..1
+76.5
+76.9
+77.9
+-
+10.0
+73.3
+73.7
+74.6
+76.1
+76.5
+77.4
+85.5
+11.0
+73.0
+73.3
+74.1
+75.8
+76.1
+76.9
+-
+12.0
+72.7
+73.0
+73.7
+75.5
+75.8
+76.5
+-
+13.0
+72.4
+72.7
+73.3
+75.2
+75.5
+76.1
+-
+14.0
+72.1
+72.4
+73.0
+74.9
+75.2
+75.8
+-
+15.0
+72.0
+72.1
+72.7
+74.8
+74.9
+75.5
+79.5
+30.0
+70.7
+70.8
+70.9
+73.5
+73.6
+73.7
+-
+60.0
+69.4
+69.4
+69.5
+72.2
+72.2
+72.3
+-
+1
+69.4
+69.4
+69.5
+72.2
+72.2
+72.3
+-
+2
+68.1
+68.1
+68.1
+70.9
+70.9
+70.9
+-
+
+5
+66.4
+66.4
+66.4
+69.2
+69.2
+69.2
+-
+10
+65.1
+65.1
+65.1
+67.9
+67.9
+67.9
+74.0
+15
+64.3
+64.3
+64.3
+67.1
+67.1
+67.1
+-
+20
+63.8
+64.8
+64.8
+66.6
+66.6
+66.6
+69.0
+25
+63.3
+63.3
+63.3
+66.1
+66.1
+66.1
+-
+30
+63.0
+63.0
+63.0
+65.8
+65.8
+65.8
+-
+Notes:
+1. Ø signifies particle diameter
+2. Minimum holding time - The minimum holding time is set at 1 second to give an adequate safety
+margin. Shorter holding times will require validation to demonstrate the effectiveness of the time
+temperature combination in controlling the hazard(s).
+3. Lowest allowable temperature - The pasteurising temperature given for a 30 minute holding time is
+the lowest allowable temperature for pasteurising the specified product types.
+The information contained within this table is taken from the NZFSA, D121.1. Dairy Treatments
+Standard 2003. This document references original data sources.
+Pasteuriser Retro-Fit Standard
+The minimum requirements for an existing HTST pasteuriser installation under this program are:
+the holding tube shall meet the requirements of clause 12 of AS 3993.2003
+where a holding section is utilised in lieu of a holding tube then the minimum temperature/time
+conditions (72°C/15 seconds or equivalent) are to be certified by an appropriately qualified
+engineer of the company supplying the unit
+the data to be recorded must include the following:
+the time and duration of any diversion of the dairy product, and
+the temperature of the dairy product as it leaves both the holding section and the cooling
+section of the pasteuriser; and
+the length of time of each process and the hour of the day when these processes are carried
+out, and
+the date and type of product being manufactured or processed, and
+the time during which the flow diversion device is in the forward flow position, and
+the reasons for any diversion or abnormal function of the equipment.
+double diversion valves to be fitted
+fittings to be provided for salt conductivity tests
+a flow rate controller is to be installed where a timing pump or homogeniser of fixed speed is
+NOT used
+valving is to be arranged to drop pressure in the raw side of the regeneration section to zero if the
+plant goes into the divert phase
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+◦ 
+
+the installation of pressure gauges and throttling valves to control the discharge pressure of
+pasteurised product by maintaining a positive pressure against the raw side pressure to eliminate
+the risk of cross contamination through the regeneration section.
+differential pressures are not required and do not need to be monitored in systems that have been
+engineered to guarantee that at all times (including equipment failure and fatigue), pasteurised
+milk cannot become contaminated with raw milk or non-potable water supplies. This result can
+be achieved, for example, by using double skinned plates, which have leak escape passages
+separating pasteurised milk from raw milk and non-potable water in the heat exchanger. Where
+this option is employed, leak escape channels shall open to the atmosphere and shall be able to be
+readily and routinely checked for signs of leakage. Where leakage is detected, the affected plates
+shall be replaced. The sterile loop system is another system which maybe applied.
+Where a pasteuriser using double skinned plates or the sterile loop system is installed items (vii) and
+(viii) would not apply.
+Explanatory Notes
+These notes are designed to provide assistance and background information for the assessment of
+compliance to this ANZDAC document.
+Section 4.1 – Heat Treatment Equipment
+Batch pasteurisation – “the equipment should include a headspace thermometer.”
+The USFDA PMO item 16p (A) Batch Pasteurisation provides a public health reason that addresses this
+issue.
+“Tests have shown that when foam is present on milk or milk product in vats or pockets during
+pasteurization, the temperature of the foam may be well below the pasteurization temperature. In such
+cases, pathogenic organisms that may be in the foam will not be killed. Experience indicates that some
+foam is present at some time in all vats, particularly at certain seasons. Furthermore, in filling vats,
+milk or milk product frequently is splashed on the surfaces and fixtures above the milk or milk product
+level, as well as on the underside of the vat cover. Droplets of this splash may drop back into the body of
+the milk or milk product, and since they may not have been at pasteurization temperature for the
+required time, they may contain pathogenic organisms.”
+The auditor should also take into consideration the nature of the product/ ingredients being heat
+treated. In circumstances where all milk products added to the batch have already received a lethal
+treatment eg pasteurised milk or cream or powdered milk and no other ingredients that are assessed as
+high risk, such as raw eggs, are added then the auditor may consider that this is not a lethal heat
+treatment and therefore monitoring of headspace temperatures may not be a critical control measure.
+The factory may provide evidence of validation of alternative monitoring of heat treatment to verify that
+the process is effective without headspace monitoring. This may include adopting an increased level of
+heat treatment eg higher temperature and/or longer time with a study of headspace temperatures over
+
+a period of time with continuous recording during processing. This information should be available to
+the auditor as a validation of the process.
+Competency of Personnel – Sections 4.3, 5 and 6
+Where heat treatment is a critical process designed to ensure that the product is safe for human
+consumption it is essential that personnel conducting verification and validation of the equipment and
+processes are competent.
+The factory’s food safety program should address personnel competency. When contractors provide
+certification of equipment such as compliance to the AS3993 – 2003 the factory should be provided
+with some evidence, from the contractor, that they have the required knowledge to perform the
+assessment through qualifications and/or experience.
+Source: https://www.agriculture.gov.au/biosecurity-trade/export/controlled-goods/dairy/links/pasteurisers

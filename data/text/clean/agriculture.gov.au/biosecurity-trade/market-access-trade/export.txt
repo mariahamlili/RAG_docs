@@ -1,0 +1,31 @@
+We work with overseas governments to implement eCert exchanges for exports. This includes
+Our goal is for export certification to be completely paperless. You can find out more about the benefits
+If an eCert exchange has not been established, paper certification continues to be required.
+We have an eCert export application that allows us to send electronic certificates (eCerts) directly to
+We are able to send eCerts to importing government agencies that have established exchanges with us.
+The importing government agency receives our eCerts directly into their importing eCert system and
+will use the eCerts for import clearance. This process may vary between trading partners.
+In a parallel exchange the eCert and paper certificate are issued together. The eCert can be used for
+clearance and/or verification, but the paper certificate should be used if there are issues accessing the
+We also have an eCert web view application for trading partners to view certificates through a secure
+log-in. This is usually used as a first step when building a system-to-system eCert connection. Paper
+certificates will still be issued, but importing government agencies may also verify the eCert online.
+Where a paperless eCert exchange is in place, the Australian exporter will be provided with a certificate
+number, which is found on the certificate extract. The certificate number must be provided to the
+
+The extract is only to be used for commercial purposes. It’s not to be used as part of the import
+clearance process. The extract does not contain enough information for clearance, and is not an official
+The eCert will display the all the required information to meet importing country requirements and
+legislation. The eCert is considered the original government certificate, due to the government-to-
+Exporters and freight forwarders do not have access to view the eCert, due to the government-to-
+government exchange. You will be notified through your software provider or through NEXDOC when
+Country-specific information about how eCert works with our trading partners is published in:
+We’ve set up eCert export exchanges with many of our trading partners. These include paperless,
+parallel and web view verification exchanges. Details of the status of these exchanges are provided in
+This table shows the trading partners and commodities where we have established a paperless eCert
+EU member states: Austria, Belgium, Bulgaria, Croatia, Republic of Cyprus, Czech Republic, Denmark,
+Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg,
+
+This table highlights the trading partners and commodities where we have established a parallel eCert
+2 We have a paperless exchange with Ministry of Food and Drug Safety only. However, paper
+Source: https://www.agriculture.gov.au/biosecurity-trade/market-access-trade/ecert/export
