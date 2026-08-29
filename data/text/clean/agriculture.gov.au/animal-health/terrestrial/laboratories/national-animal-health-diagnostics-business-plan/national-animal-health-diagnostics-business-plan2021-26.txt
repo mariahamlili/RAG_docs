@@ -1,0 +1,623 @@
+NATIONAL 
+ANIMAL HEALTH 
+DIAGNOSTICS 
+BUSINESS PLAN 
+2021 - 2026
+
+© Commonwealth of Australia 2022 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except 
+content supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: DAWE 2022, National Animal Health 
+February. CC BY 4.0. 
+ISBN 978-1-76003-536-5 
+This publication is available at https://www.awe.gov.au/agriculture-land/animal/health/laboratories/policies-and-
+plans. 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web awe.gov.au 
+exercised due care and skill in preparing and compiling the information and data in this publication. 
+all liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any 
+person as a result of accessing, using or relying on any of the information or data in this publication to the 
+maximum extent permitted by law. 
+Acknowledgements 
+The National Animal Health Diagnostics Business Plan 2021 to 2026 was jointly developed by industry 
+organisations and the Australian, state and territory governments. The production of this business plan was 
+The Business Plan was submitted to the Animal Health Committee in October 2021 and endorsed by the 
+Committee in January 2022. 
+Acknowledgement of Country 
+We acknowledge the Traditional Custodians of Australia and their continuing connection to land and sea, waters, 
+environment and community. We pay our respects to the Traditional Custodians of the lands we live and work on, 
+their culture, and their Elders past and present.
+
+i 
+Foreword 
+Laboratory diagnostics forms a key component of Australia’s animal health system. A robust 
+national laboratory diagnostic system and network is crucial to supporting surveillance for 
+exotic, emerging and significant endemic animal diseases and managing their biosecurity, 
+socio-economic and other impacts. The Subcommittee on Animal Health Laboratory 
+Standards provides scientific and policy advice to the Animal Health Committee on terrestrial 
+animal health laboratory issues. It also provides national leadership for networked diagnostic 
+capacity coordination, standardisation/harmonisation of testing methodologies, diagnostics 
+training initiatives and other essential quality assurance functions. These functions underpin 
+national and international trade and market access for animals and animal products and help 
+to safeguard and improve animal and public health in Australia.  
+The National Animal Health Diagnostics Business Plan 2021–2026 represents the 
+industry to maintaining and improving a national diagnostic capability and capacity for 
+terrestrial animals through coordination and collaboration at various levels. The business 
+plan was developed collaboratively by key animal health laboratories, governments, 
+universities and industry stakeholders. Its focus areas include the further implementation of 
+high-throughput sequencing as a diagnostic tool for disease investigations and surveillance 
+activities, increasing surge capacity, improving capacity to detect emergency animal 
+diseases, point of care test validation and the standardisation of antimicrobial resistance 
+testing. Cross-sectoral leadership and support will ensure the effective implementation and 
+ongoing integrity of Australia’s national animal health laboratory system.
+
+ii 
+Contents 
+Foreword ............................................................................................................................................................. i 
+Introduction ....................................................................................................................................................... 1 
+1 
+Background .............................................................................................................................................. 1 
+2 
+Scope ........................................................................................................................................................... 3 
+3 
+Objectives and activities ..................................................................................................................... 4 
+3.1 
+To enable HTS usage and the application of HTS data to enhance animal disease 
+investigations ............................................................................................................................................... 4 
+3.2 
+To scope and improve the national surge capacity of laboratory networks, 
+including both government and non-government laboratories, during EAD 
+responses ...................................................................................................................................................... 6 
+3.3 
+Introduce a suite of validated diagnostic assays to LEADDR laboratories targeting 
+priority disease threats to Australian animal species .............................................................. 8 
+3.4 
+Pilot the validation template process for POC tests used for specific purposes ....... 9 
+3.5 
+Establish processes to develop and harmonise antimicrobial susceptibility-related 
+diagnostic procedures across all relevant animal health laboratories ......................... 10 
+4 
+Project management .......................................................................................................................... 12 
+5.1 
+Governance .............................................................................................................................................. 12 
+5.2 
+Resources ................................................................................................................................................. 12 
+5.3 
+Communication ....................................................................................................................................... 12 
+5.4 
+Monitoring and evaluation ................................................................................................................. 12 
+Abbreviations ................................................................................................................................................ 13
+
+1 
+Introduction 
+The National Animal Health Diagnostics Business Plan 2021–2026 (NAHDBP), is a national 
+plan to further develop and strengthen the animal health diagnostics component of 
+Australia’s animal health system and was developed through collaboration between animal 
+health professionals and diagnostic experts from governments, private laboratories, and the 
+university sector. 
+The NAHDBP will guide the efficient and effective delivery of nationally coordinated activities 
+to maintain and continually improve our national diagnostic capability and capacity. Its 
+development is consistent with nationally agreed principles and objectives for biosecurity as 
+defined under Australia’s Intergovernmental Agreement on Biosecurity (IGAB), and 
+importantly it complements Animalplan 2022–2027. 
+Responsibility for implementing elements within the NAHDBP resides with the Subcommittee 
+on Animal Health Laboratory Standards (SCAHLS), with guidance and oversight from the 
+Animal Health Committee (AHC), support from livestock industries through Animal Health 
+Australia (AHA) and funding identified through various sources. 
+1 Background 
+Australia is free from many of the socio-economically important animal diseases that occur in 
+other parts of the world. Assurance of this favourable animal health status underpins the 
+competitiveness of Australia’s animal industries in international markets and supports 
+domestic consumer confidence in Australian livestock products. However, as COVID-19 has 
+so clearly demonstrated, Australia is not immune to the threats posed by exotic and 
+emerging infectious diseases. International trade and travel, intensification of livestock 
+production, new technologies, climate change, land-use change, loss of biodiversity and 
+other related factors are contributing to the increasing risk of disease emergence and spread. 
+With the current COVID-19 pandemic, the world is now experiencing the major social and 
+economic costs of a transboundary zoonotic disease. Accordingly, there has been a rapid 
+increase in operationalising the ‘One Health’ approach across the globe via a range of 
+international and national organisations and institutions1.  At the same time, the demands by 
+trading partners for robust evidence in support of claims of disease freedom status consistent 
+with the World Organisation for Animal Health (OIE) guidelines continue to grow. For this 
+reason, we need to ensure our national diagnostic capacity continues to meet the needs and 
+expectations of both Australian citizens and our overseas trading partners. 
+Australia has nationally coordinated disease surveillance activities that aim to effectively 
+identify exotic, emerging and nationally significant endemic animal diseases. We also provide 
+robust science-based evidence to support disease freedom claims and disease management 
+policies and programs. Crucial to the success of surveillance activities is confidence in our 
+national animal health laboratory system to deliver quality-assured testing and other 
+diagnostic services that are ‘fit-for-purpose’ at all times. The ability to rapidly scale up 
+1 https://www.unep.org/news-and-stories/story/unep-joins-three-international-organizations-expert-panel-improve-one-health
+
+2 
+relevant service capacity and/or mitigate risks arising from response capacity gaps, 
+especially for a major disease incursion or emergency, are also important components of an 
+effective and efficient animal health system. 
+Much of Australia’s diagnostic capacity for exotic, emerging and significant endemic animal 
+diseases is located within government animal health laboratories. University, private and 
+industry laboratories also hold a mix of diagnostic or testing capabilities for many 
+economically important endemic and emerging animal diseases; and play key roles in 
+training and research activities that can support the advancement of testing capabilities for 
+infectious animal diseases. They also play an important role in the detection of microbial 
+contamination of food and feed products as well as in the detection of antimicrobial 
+susceptibility and resistance during disease investigations and for routine surveillance. How 
+services are structured varies by jurisdiction and is dependent upon the relevant state or 
+territory legislation and agreements they may have in place with private industry. The 
+standardisation and/or harmonisation of diagnostic services and capability for the detection 
+of emergency animal diseases (EADs) nationally is led or coordinated largely through 
+SCAHLS, the Laboratories for Emergency Animal Disease Diagnosis and Response 
+(LEADDR) network, and relevant national policies and programs. AHC and the National 
+Biosecurity Committee (NBC) provide high-level national oversight. 
+The integrity of our national diagnostic networks and programs affords a strong foundation 
+for Australia’s animal health system and hence supports our favourable animal health status. 
+Australia’s laudable history of providing quality animal health laboratory services has been 
+underpinned by various internationally and/or nationally recognised quality management and 
+assurance programs and cost-effective training initiatives. Ensuring the ongoing development 
+of capability within diagnostic networks, training and skill development is crucial to 
+maintaining and improving our quality laboratory services. 
+There have been several national reviews of Australia’s animal health laboratory services 
+that aimed to identify and address specific issues important to sustaining diagnostic services 
+for the Australian animal industries into the future. These reviews, which have taken place 
+during the past 20 years, have all contributed to the current thinking and planning about how 
+to better develop and deliver a national animal health laboratory service capability for the 
+effective diagnosis, surveillance, and control of animal diseases of major importance to 
+Australia. 
+The current COVID-19 pandemic has led to a much more interested and invested ‘public’ in 
+terms of disease detection and control, with flow on effects to the animal health sector. 
+Indeed, in several jurisdictions, animal health personnel and facilities have been directly 
+involved in the COVID-19 response in Australia. At the same time, jurisdictions have still had 
+to manage animal disease outbreaks and other issues (for example, the avian influenza 
+outbreaks in Victoria during 2020 which were managed under the constraints of COVID-19 
+restrictions). In addition, there are very real threats such as African swine fever (ASF) and 
+lumpy skin disease (LSD) that are currently ‘on our doorstep’ risks for Australian livestock 
+industries. In short, this is a period of both intensifying likelihood of threat/risk, and increased 
+expectations with respect to animal health diagnostics in the biosecurity realm. 
+The NAHDBP continues to address the policy principles of Australia’s Intergovernmental 
+Agreement on Biosecurity (IGAB) framework and will work within the overarching framework
+
+3 
+of Animalplan 2022-2027. It targets priority areas that will continue to underpin surveillance 
+and diagnostic capacity during the period 2021–2026 as well as further into the future.  
+The benefits of an effective and documented animal health diagnostics plan for animal 
+biosecurity interests, including disease surveillance, are wide-ranging. With common 
+interests and diverse stakeholders and opportunities for maximisation of resources utilisation, 
+it is recognised that a coordinated, cohesive and networked approach will continue to be the 
+cornerstone of maintaining and strengthening our national animal health diagnostic 
+laboratory system. Animalplan 2022-2027 has laid out 7 specific objectives and three of 
+these are clearly supported by the NAHDBP. Specifically, these are to:  
+• improve Australia’s ability to prepare and respond to EADs 
+• improve Australia’s surveillance and diagnostic capacity and capability for animal 
+diseases  
+• promote a collaborative approach on antimicrobial resistance. 
+2 Scope 
+In principle, biosecurity is a shared responsibility involving governments, industries, 
+businesses, universities/research organisations and the general public within the context of 
+Australia’s IGAB. The scope of this NAHDBP is however limited to the legitimate domain of 
+providers and users of animal health laboratory services. Responsibility for implementing this 
+plan resides chiefly with the principal providers and users of these services, which largely 
+involves governments, universities, private and industry-based veterinary laboratories, 
+veterinarians, animal health workers, animal owners/producers and their respective 
+organisations. 
+The scope of this plan primarily covers laboratory diagnostics for infectious diseases 
+considered to be of national and/or international significance in terrestrial domestic animals 
+and wildlife species, as well as antimicrobial resistance (AMR) with the interest of supporting 
+surveillance and response capability being the primary driver. Relevant animal health issues 
+can include exotic, endemic or re-emerging diseases or issues that may pose public health 
+risks, including zoonoses and contributions to the development of AMR. It does not include 
+diagnostics for aquatic animal diseases, as this area is detailed in Australia’s National 
+Strategic Plan for Aquatic Animal Health (AQUAPLAN 2021-2026). 
+Laboratory diagnostics for non-infectious diseases, environmental toxins and 
+microorganisms that may affect food safety (other than AMR), chemical pollutants affecting 
+animal health, and invasive animal species are considered to be beyond the scope of this 
+NAHDBP. For completeness, this NAHDBP may refer to ongoing functions and programs, as 
+well as new initiatives to strengthen priority areas and add value to the existing activities, 
+data and practices.
+
+4 
+3 Objectives and activities  
+The NAHDBP identifies five key objectives covering the areas of developing national high 
+throughput sequencing (HTS) capacity and quality assurance (QA) programs, improving 
+AMR diagnostics, improving surge capacity for EAD outbreaks, implementing a pilot template 
+validation process for point of care (POC) testing and improving national laboratory networks 
+for EAD outbreaks. The scope of work for the 2021-2026 time period varies considerably 
+between the objectives, and this is detailed further below.  
+A range of highest priority activities to support and guide the approach towards achieving 
+each of the five objectives are described below. 
+3.1 
+To enable HTS usage and the application of HTS data to 
+enhance animal disease investigations 
+Background and rationale 
+HTS is a foundational technology that is becoming an important part of all disease 
+investigations and surveillance across human, animal and plant health domains in the 
+broadest sense. Within the animal health domain, HTS is at the cutting edge of a 
+fundamental shift in disease diagnostics and will be used increasingly in the future as the 
+costs of the technology decrease and the acceptance of the approach grows. Within the 
+2021–2026 time period, it is anticipated that HTS will be more commonly used for the 
+detection and characterisation of both novel and known pathogens. Importantly, HTS will 
+also be used for the sequencing of known pathogens which will support both surveillance 
+and disease control activities. Finally, the increased familiarity with the use of HTS in a 
+diagnostic setting coupled with an improved understanding of the significance of diagnostic 
+findings will transform the base level of diagnostic capacity and capability across the sector. 
+Improving our animal health laboratory capacity and capability for HTS will be a requirement 
+to work at a level consistent with international best practice in animal health diagnostics. 
+Activities to achieve objective 
+To encourage the use and application of HTS to enhance animal disease investigations, a 
+common approach should be developed and implemented. Specifically, a set of minimum 
+standards and approaches need to be described. This is a new area of activity and requires 
+some fundamental work to establish a solid platform for the future of animal health 
+diagnostics. A considerable amount of activity and investment is required within this area of 
+focus as described in the following objectives. 
+This work will entail: 
+• developing nationally agreed minimum standards and further requirements such as a 
+reporting framework 
+• developing standard (bioinformatics) pipelines for the determination of (a) pathogenicity, 
+(b) AMR, (c) anthelminthic resistance, and (d) notifiable pathogens
+
+5 
+• specifying networking bioinformatic workflows and genomic sequence analysis to 
+standardise and simplify comparative analyses 
+• increasing operator proficiency through upskilling by mentoring and lab twinning  
+• developing proficiency testing (PT) pilots for (a) wet lab (extraction, processing and 
+sequencing) PT and (b) bioinformatics PT 
+• standardising a quality-assured database for pathogens of interest and making it 
+accessible to relevant Australian animal health laboratories so data such as current 
+pathogens of interest can be shared freely, easily and in a timely manner. 
+Processes to deliver activities 
+• Establishing a QA working group for the development of standards which would apply to 
+each pathogen type (virus/bacteria/fungi) and which will consider discovery and 
+characterisation functions. This should ensure representation from all relevant expert 
+areas. Note possible support from existing entities include 
+− the NBC HTS Implementation Working Group for assistance with the establishment 
+− LEADDR to provide representatives from virology and bacteriology (including AMR 
+experts). 
+• Establishing a bioinformatics working group with at least one dedicated bioinformatician to 
+lead the activities, including assessing existing resources and leading the bioinformatics 
+pipeline component. 
+• Designing and conducting PT pilots for wet lab activities and bioinformatics. Note possible 
+support from the Australian Centre for Disease Preparedness (ACDP) PT team could be 
+sought given their existing PT role for LEADDR. 
+• Developing and implementing a HTS mentoring and/or twinning program for individuals 
+and laboratories seeking assistance with HTS issues.  Note possible support from ACDP 
+or relevant jurisdictional laboratories could be sought given their relevant national and/or 
+international experience. 
+Benefits 
+The direct benefits will include: 
+• established national standards for the appropriate use of the technology within a defined 
+laboratory and non-laboratory framework 
+• increased confidence to relevant authorities regarding HTS data and results (through the 
+use of national standards) 
+• improved and broadened diagnostic capability with better understanding of yielding data 
+such as characterisation of pathogens, AMR, anthelmintic resistance, and provenance of 
+pathogens 
+• enhanced surveillance data and interpretation 
+• enhanced opportunity to inform the need for modification of existing detection tests or 
+development of new tests for novel pathogens and variants, including through established 
+standards for HTS in non-laboratory settings.
+
+6 
+3.2 
+To scope and improve the national surge capacity of 
+laboratory networks, including both government and 
+non-government laboratories, during EAD responses 
+Background and rationale 
+Previous EAD responses and exercises have identified bottlenecks such as sample 
+accession and reporting; and resource constraints such as availability of test reagents, 
+consumables and PPE, and other areas that are important to ensuring optimal surge 
+capacity for EAD outbreaks. Improved preparedness can contribute to more efficient and 
+effective EAD responses that minimise impacts on all resources, including human resources, 
+during a surge EAD response. As demonstrated by the COVID-19 pandemic response, there 
+is potential for non-government laboratories to support certain parts of an EAD response. As 
+required and appropriate, they can also help deliver some ‘business as usual’ (BAU) 
+activities, allowing government laboratories to focus on EAD response activities. Ensuring full 
+compatibility and interoperability between jurisdictional laboratory information management 
+systems (LIMS) and the national Sample Tracking and Reporting System (STARS) would 
+also improve the effectiveness and efficiency of EAD responses. The recent Queensland 
+white spot disease outbreak clearly demonstrated the value of STARS. Confidentiality 
+concerns will need to be addressed however achieving compatibility with jurisdictional and 
+national biosecurity incident management systems will add further value to managing 
+responses to major disease outbreaks. 
+Activities and processes to achieve objective 
+This work will entail: 
+• undertaking national laboratory-specific simulation exercise(s) to identify bottlenecks and 
+resource constraints and document them, along with those learned from previous EAD 
+responses and simulation exercises. This should include identifying novel technologies, 
+platforms and/or infrastructure that may assist in surge responses, such as POC testing, 
+mobile laboratories and support from non-government laboratories 
+• scoping and developing barcoding system(s) for data and sample tracking from the field to 
+be compatible with both LIMS and incident management systems such as the MAX 
+platform. This should apply to both government and non-government processing of 
+samples, wherever appropriate and feasible 
+• enhancing and extending STARS framework, including the fullest possible implementation 
+of STARS capabilities in each jurisdiction and the development and trialling of clear 
+national data standards and security (confidentiality) to encourage uptake across the 
+sector and increase interoperability (e.g. with surveillance systems) 
+• creating a list of laboratory consumables and equipment common to major EAD 
+responses and scope a business case for a national stockpile, including a method and 
+appropriate skill sets to maintain and rapidly deploy them, noting that this may be 
+decentralised and/or ‘virtual’ stockpile. Non-government laboratories should be included, 
+wherever feasible 
+• establishing a list of essential skills and capabilities (including accreditation) common to 
+EAD responses and a fundable training framework to support them, which should include 
+cross-training of technical personnel to enable rapid deployment (i.e. can be signed-off
+
+7 
+immediately) related to specific components of laboratory activities when surge capacity is 
+required in an interstate laboratory. Possible approaches could include developing an 
+interstate laboratory twinning program and the use of appropriate training facilities and 
+arrangements of non-government laboratories 
+• developing criteria (e.g. levels of biosecurity, biosafety procedures, accreditation) 
+necessary for non-government laboratories to assist in performing components of EAD 
+responses, and an options paper for AHC, including risks and benefits, for endorsement 
+• developing a (national) template for activating laboratory surge capacity, i.e. for switching 
+from BAU mode to surge capacity mode (e.g. a checklist), especially for use by non-
+government laboratories (all government laboratories should have this in place). This 
+should include criteria that can help determine the viability of engaging particular 
+laboratories in responses (e.g. lessons learned from pandemic response to COVID-19) 
+and identifying how other laboratories can help support certain BAU in government labs. 
+Benefits 
+The direct benefits will include: 
+• the implementation of a national barcoding system will increase the efficiency (i.e. speed 
+and accuracy) of EAD response activities, including reporting 
+• improved ability to share data and make and implement timely surge capacity decisions 
+leading to more effective and efficient EAD responses 
+• increased range of options for diagnostic pathways and resource use to support both 
+disease investigation and proof of freedom phases of EAD responses 
+• reduced bottlenecks and time delays during an EAD response, supporting a rapid return 
+to normal function.
+
+8 
+3.3 
+Introduce a suite of validated diagnostic assays to 
+LEADDR laboratories targeting priority disease threats to 
+Australian animal species 
+Background and rationale 
+The LEADDR network is a group of government laboratories that work to implement testing 
+capacity for specific biosecurity threats of particular concern to our production animal 
+industries. The network ensures jurisdictional detection capability for a number of targeted, 
+AHC-endorsed EADs to keep our animal industries safe. 
+To ensure we continue maintaining Australia’s enviable animal health status, we must ensure 
+our network laboratories are capable of detecting and responding to emerging biosecurity 
+threats. The spread of EADs in the region like ASF, LSD and even African horse sickness 
+(AHS), highlight our need to monitor emerging threats and be ready to respond appropriately. 
+Rolling out quality-assured and accredited testing capability to laboratory networks, which 
+can be time-consuming and costly, is therefore a vital part of our national laboratory strategy 
+and approach for managing EAD threats.  Testing capacity at the jurisdictional level for 
+ongoing surveillance activities also contributes to improved surveillance for early detection of 
+incursions. 
+Activities and processes to achieve objective 
+This work will entail: 
+• identifying up to five EADs of highest national priority where the development of validated 
+and quality assured jurisdictional testing capability is needed and seek AHC’s 
+endorsement via SCAHLS as per the operating rules of LEADDR 
+• identifying, validating and rolling out appropriate tests (including agent and/or host 
+response detection as appropriate) for each of the agreed diseases through a networked 
+(LEADDR) approach, including their initial QA programs (for example, PT panels, Network 
+Quality Controls) and sourcing latest reference materials and pathogens if needed  
+• verifying and harmonising the rolled-out assays suitable for NATA accreditation purpose 
+through a networked approach where possible. This will include development of dossiers 
+to enable network validation of diagnostic testing undertaken by jurisdictional laboratories 
+• funding will be required from the Commonwealth with in-kind contributions from 
+participating laboratories and ACDP. 
+Benefits 
+The direct benefits will include: 
+• increased confidence in capability and national response capacity across jurisdictions 
+regarding test results 
+• increased surge capacity for the nominated priority diseases in the jurisdictional 
+laboratories 
+• compliance with the OIE Terrestrial Manual concerning test accreditation and validation 
+• NATA accreditation in jurisdictional laboratories for a suite of diagnostic tests
+
+9 
+• increased surveillance capacity for emerging threats of trade importance. 
+3.4 
+Pilot the validation template process for POC tests used 
+for specific purposes 
+Background and rationale 
+As the number and availability of POC tests are increasing, there is an ongoing shift towards 
+the use of the technology, even in laboratory settings. There is however no national approval 
+and/or accreditation system to address the manufacturer claimed performance 
+characteristics for commercial POC tests. Nor is there a system to ensure the competency of 
+those using most POC tests in the field. The differing jurisdictional legal and policy 
+frameworks for the use of POC tests adds to the challenge of using them as a diagnostic 
+tool.  
+The NAHDBP does not intend to cover legislative or policy issues relating to the use of POC 
+tests as they are being addressed through AHC directly. Instead it is explicitly focused on 
+technical activities that will assist in promoting the appropriate application of POC testing for 
+specific purposes. Purposes of use may range from disease detection through to supporting 
+proof of freedom processes. For example, POC tests to support proof of disease freedom 
+would have very different test characteristics compared to POC tests used as screening tools 
+for endemic diseases, either in the laboratory or in the field. 
+A validation template has recently been developed by ACDP and Agriculture Victoria through 
+SCAHLS. This template needs further refinement and is likely to inform OIE standards 
+around POC test validation in the future.  To address the objective, POC tests for a range of 
+exotic and endemic diseases for specific purposes will be piloted using the SCAHLS 
+validation template. 
+Activities and processes to achieve objective 
+This work will entail: 
+• establishing a working group under SCAHLS to determine which available POC tests 
+(ideally including agent and host response detection) and main purpose(s) of use to be 
+trialled. This should ensure representation from all relevant expert areas, including NATA 
+representation. There may also be support possible through existing entities such as 
+LEADDR and interested POC test developer(s) or manufacturer(s)  
+• developing and implementing project(s) to trial the existing validation template for the 
+selected POC tests and the intended purpose of the tests 
+• reviewing outcomes of the trial(s) and refining the validation template accordingly and 
+suitable for SCAHLS/AHC review 
+• reviewing and/or developing national technical guidelines for the use of POC tests for 
+EADs. Note this should reflect and/or complement the existing POC testing principles 
+previously developed by SCAHLS.
+
+10 
+Benefits 
+The direct benefits will include: 
+• established validation template(s) for assessing specific POC tests for diagnostic and 
+detection purposes 
+• increased confidence to relevant authorities regarding the use of POC tests and their 
+results (through established validation template for assessment) 
+• enhanced opportunity to broaden and improve surveillance and diagnostic capability 
+through the appropriate use of validated POC tests 
+• improved or new national user guidelines for POC tests and/or testing technologies, 
+including how to interpret results. 
+3.5 
+Establish processes to develop and harmonise 
+antimicrobial susceptibility-related diagnostic 
+procedures across all relevant animal health laboratories 
+Background and rationale 
+The world is facing an increasing threat arising from the use of antimicrobials across the 
+human, animal and plant health domains. The human health implications from AMR have 
+been well publicised in recent years and all stakeholders—including veterinarians, farmers 
+and companion animal owners—are being challenged to use antimicrobials more wisely. In 
+Australia, ‘The One Health Master Action Plan (OHMAP)’ provides guidance on 
+implementing Australia’s National Antimicrobial Resistance Strategy – 2020 and beyond. 
+Within this plan, one of the objectives is to ensure national alignment of laboratory testing 
+practices and reporting for AMR. This encompasses the activities to develop, promote, 
+harmonise and monitor national consistency in antimicrobial susceptibility testing and 
+reporting to improve data comparability within and between animal, wildlife and human 
+sectors.  
+Animal health laboratories in Australia currently undertake a range of activities that support 
+this endeavour; however, a large amount of ongoing development activity is required to work 
+towards meeting world’s best practice. To this end, a SCAHLS AMR working group has been 
+established to support the delivery of AMR laboratory activities and provide linkages to the 
+Animal Health AMR Surveillance Task Group. The activities within this plan focused on AMR 
+are therefore shaped by these needs that can be delivered across all relevant animal health 
+diagnostic laboratories in Australia.  
+As this is the start of a long process, the activities listed here are at a high level and will 
+require considerable investment during the 2021–2026 period of the NAHDBP. 
+Activities and processes to achieve objective 
+This work will entail: 
+• establishing a framework for state and territory laboratories to either have, or have access 
+to, NATA accredited minimum inhibitory concentration testing capacity for a range of 
+organisms to support Australia’s AMR surveillance program and food safety issues
+
+11 
+• developing a business case for establishing a national veterinary AMR reference 
+laboratory, to develop a PT program for roll out of standardised antimicrobial susceptibility 
+testing, and explore whole genome sequencing for AMR One Health surveillance and food 
+safety purposes 
+• develop national laboratory AMR surveillance and reporting guidelines with considerations 
+of real-time database collation and reporting of AMR animal health data 
+• developing, assessing, and/or further refining innovative, high quality and comparable 
+veterinary AMR testing techniques and diagnostic procedures (including rapid diagnostic 
+tests) to support national AMR strategic objectives. 
+Benefits 
+The direct benefits will include a markedly improved national veterinary diagnostic capability 
+and capacity for antimicrobial susceptibility testing in priority animal pathogens and indicator 
+species, through: 
+• antimicrobial susceptibility testing requirements are identified, understood and 
+implemented in state and territory government veterinary diagnostic laboratories with the 
+capability of expanding to other veterinary diagnostic laboratories nationally 
+• capability of delivering innovative, high quality and comparable veterinary AMR testing 
+and reporting in Australia through effective allocation of resources and consideration of 
+One Health 
+• improved communication and collaboration between AMR experts, researchers, veterinary 
+microbiologists and veterinary antimicrobial end users 
+• established links between research, development and extension bodies, testing 
+laboratories, policy and industry (for example, government, university and industry) which 
+can be strengthened over time.
+
+12 
+4 Project management 
+5.1 
+Governance 
+AHC and the Animalplan Steering Committee will jointly provide high-level leadership and 
+oversight to ensure that the NAHDBP remains relevant and aligned with the priorities of 
+government, university, industry, and other key stakeholders. AHC will endorse major 
+revisions to the NAHDBP and advocate to garner support for activities as needed.  
+SCAHLS will support AHC in monitoring the implementation and progress of the NAHDBP 
+and as needed, identify opportunities or problems. SCAHLS will provide regular reports on 
+the status of the plan’s priorities to AHC. For the interest of the NAHDBP, SCAHLS may 
+form/lead working groups and invite sectoral representation such as universities and the 
+private animal health laboratory sector to strengthen collaboration and ensure joint 
+ownership and shared responsibility in the implementation of the NAHDBP key objectives. 
+The nominated champions or project leads for each activity will be responsible for planning, 
+working group development, coordination, stakeholder engagement, implementation and 
+reporting to SCAHLS. 
+5.2 
+Resources 
+Resources to implement the NAHDBP activities will be sought independently for each activity 
+through the lead agency or agencies identified, as there is no overarching budget for 
+implementation of the plan. It is noted that some of the activities are ongoing and may have 
+existing funding arrangements.  
+For other (new or not currently funded) activities, funding support may be sought from the 
+Commonwealth and state/territory governments and relevant industries as appropriate. This 
+may be either through the Animalplan Steering Committee or independently. However, it is 
+acknowledged that implementation in many areas will largely rely on in-kind contributions (of 
+human resources in particular) from governments and animal health laboratories of various 
+sectors. 
+5.3 
+Communication 
+The nominated champions or project leads for each activity will report progress updates to 
+SCAHLS, who in turn reports to AHC. AHC is responsible for communicating activities to the 
+Animalplan Steering Committee. 
+5.4 
+Monitoring and evaluation 
+Appropriate measures of success and a simple framework for monitoring and evaluation will 
+be developed for each of the identified priorities in the NAHDBP. This includes periodic 
+reporting on progress and outcomes to stakeholders as per the communication mentioned 
+above.
+
+13 
+Abbreviations 
+Term 
+Definition 
+ACDP 
+Australian Centre for Disease Preparedness  
+AHS 
+African horse sickness 
+AHA 
+Animal Health Australia  
+AHC 
+Animal Health Committee  
+AMR 
+Antimicrobial Resistance 
+AQUAPLAN  
+Australia’s National Strategic Plan for Aquatic Animal Health 
+ASF 
+African swine fever 
+AVA  
+Australian Veterinary Association  
+BAU 
+Business as usual 
+EAD  
+Emergency Animal Disease 
+HTS 
+High throughput sequencing  
+IGAB  
+Intergovernmental Agreement on Biosecurity  
+LEADDR 
+Laboratories for Emergency Animal Disease Diagnosis and Response 
+LIMS 
+Laboratory Information Management Systems 
+LSD 
+Lumpy skin disease 
+MAX  
+Maximum Disease and Pest Management System  
+NAHDBP 
+National Animal Health Diagnostics Business Plan 
+NATA 
+National Association of Testing Authorities 
+NBC 
+National Biosecurity Committee 
+OIE  
+World Organisation for Animal Health  
+PIIMS  
+Primary Industries Information Management System  
+POC 
+Point of care 
+PPE 
+Personal protective equipment 
+PT 
+Proficiency testing 
+QA 
+Quality assurance 
+SCAHLS 
+Subcommittee on Animal Health Laboratory Standards 
+STARS 
+Sample Tracking and Reporting System 
+WHA  
+Wildlife Health Australia

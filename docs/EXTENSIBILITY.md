@@ -201,6 +201,13 @@ class ToolEntry:
 | `draft_task_update` | draft | worker | Propose task progress update |
 | `request_schedule_proposal` | draft | owner | Queue FarmFlow proposal (no placement) |
 
+**Phase 11+ (deferred):** `evaluate_task_feasibility` — read tool calling a
+Scheduling-team deterministic pre-check API. Returns feasible / better
+alternative / infeasible for a hypothetical task before owner confirmation;
+chains with `draft_task` in orchestration. Trigger and contract in
+[`PLAN.md`](PLAN.md) Phase 11+. ADR 0006 unchanged: evaluation only, no
+placement writes.
+
 Adding a tool: registry entry + input/output schemas + test + one line in
 `GET /api/capabilities`. No orchestrator `if tool_name == ...` branches.
 

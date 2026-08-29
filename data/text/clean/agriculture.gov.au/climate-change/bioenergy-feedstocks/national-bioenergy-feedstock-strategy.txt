@@ -1,0 +1,1603 @@
+National Bioenergy  
+Feedstock Strategy
+
+© Commonwealth of Australia 2026
+Ownership of intellectual property rights 
+(referred to as the Commonwealth).
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content supplied by third parties,  
+logos and the Commonwealth Coat of Arms.
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: DAFF 2026, National Bioenergy Feedstock Strategy, Department of 
+Agriculture, Fisheries and Forestry, Canberra. CC BY 4.0.
+This publication is available at agriculture.gov.au/publications.
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au
+and advisers disclaim all liability, including liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result  
+of accessing, using or relying on any of the information or data in this publication to the maximum extent permitted by law.
+Acknowledgements 
+The authors thank stakeholders for their contributions to the development of this strategy.
+Acknowledgement of Country 
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and waters of Australia. We recognise 
+their care for and cultivation of Country. We pay respect to Elders past and present, and recognise their knowledge and contribution to the productivity, 
+innovation and sustainability of Australia’s agriculture, fisheries and forestry industries.
+
+Contents
+Minister’s foreword	
+	iv
+Executive summary	
+	v
+1 
+Introduction 
+ 1
+1.1	
+Bioenergy for fuel security and decarbonisation	
+1
+1.2	
+Increasing global investment	
+1
+1.3	
+Australia’s policy landscape	
+2
+1.4	
+Feedstocks are a critical input for production	
+3
+2 Australia’s feedstock opportunity 
+ 6
+2.1	
+Diversity is an advantage	 	
+6
+2.2	 Industry needs to scale progressively	
+7
+2.3	 International competitiveness is fundamental	
+8
+3 A shared direction for industry development 
+ 9
+3.1	
+Priority areas for collective effort	 	
+9
+3.2	 Embedding producer participation in industry development	
+10
+4 Priority area: data to underpin investment 
+ 11
+4.1	
+Data quality and access is variable	 	
+11
+4.2	 Work towards nationally consistent, market-ready information		
+13
+5 Priority area: innovation to advance feedstock readiness 
+ 14
+5.1	
+Innovation at the feedstock end of the supply chain is a priority	
+14
+5.2	 Increasing scale of investment	
+15
+5.3	 Stronger coordination and collaboration	
+17
+6 Priority area: regional supply chain development 
+ 18
+6.1	
+Strengthening regional approaches		
+18
+6.2	 Investing in infrastructure		
+20
+7 Priority area: sustainability and certification 
+ 22
+7.1	
+Certification is core to value creation and market access	
+23
+7.2	
+Emissions intensity underpins competitiveness	
+23
+7.3	
+Sustainability beyond emissions	
+24
+7.4	
+Traceability and system integrity	
+24
+7.5	
+Integration with food, fibre and feed systems	
+25
+8 Priority area: building sector capability 
+ 26
+8.1	
+Strong existing base to support industry development	
+27
+8.2	 Integration across the supply chain		
+27
+8.3	 Ensuring accessible information flow	
+28
+8.4	 Workforce planning	
+29
+8.5	 Coordinated policy	
+29
+Glossary 
+ 30
+References 
+ 32
+
+Minister’s foreword
+The Hon Julie Collins  
+Minister for Agriculture, Fisheries and Forestry
+Australia’s farmers and foresters are at the heart of our regional communities. They support our economy,  
+strengthen our regions and provide the food, fibre and forestry products that Australians and our trading  
+and strengthen their businesses.
+Developing a domestic bioenergy feedstock industry is one of those opportunities.
+As Australia works towards a lower-emissions future, bioenergy - including low carbon liquid fuels - can help reduce 
+emissions, strengthen fuel security and support new economic growth. For Australian farmers, foresters and regional 
+communities, it presents a significant economic opportunity to supply feedstocks to these emerging markets.
+Australia is well placed to respond to growing global demand. We produce world-class agricultural and forestry 
+products and are already participating in global bioenergy supply chains. Building on these strengths can increase 
+access to emerging markets, attract investment and support jobs across regional Australia.
+The National Bioenergy Feedstock Strategy provides a shared direction for governments, industry, producers and 
+the broader supply chain to work together to support sustainable growth of Australia’s bioenergy feedstock industry. 
+It identifies priority areas for collective action including improving market ready data, supporting innovation, 
+strengthening regional supply chains, building credible sustainability and certification systems, and improving sector 
+capability. These are the foundations needed to support investment and industry growth.
+Importantly, this strategy supports a market-led approach, recognising that opportunities will vary across feedstocks, 
+technologies and regions. It focuses on creating the conditions for industry to grow in a way that complements food, 
+fibre and forestry production, maintains community confidence and maximises opportunities for producers and 
+regional communities.
+The strategy has been shaped by extensive engagement with producers, industry, researchers, investors and 
+governments across Australia. I thank everyone who contributed their expertise. Their input has helped ensure  
+this strategy reflects both the opportunities and the practical realities of developing a domestic feedstock industry.
+By working together, we can ensure Australian farmers, foresters and regional communities benefit from this  
+growing industry. In doing so, we can strengthen Australia’s fuel security, support emissions reduction and create 
+lasting economic opportunities across regional Australia.
+
+Executive summary
+Energy underpins Australia’s economy, national security and social wellbeing. Liquid fuel makes up almost half  
+of all energy used in Australia, supporting food production and distribution, freight movement, critical supply  
+chains, national security and economic stability.
+Over 90% of that liquid fuel is currently imported.  
+Recent global disruptions associated with instability  
+in the Middle East have brought to the fore the strategic  
+risks of this dependence, and the need to find new ways  
+to build the reliability, resilience and security of energy  
+supply chains that support Australia’s economy.
+Australia must also reduce emissions in fuel-intensive 
+sectors. Electrification has a significant role to play, 
+however, liquid fuels will remain important in aviation, 
+heavy transport, agriculture, mining and maritime sectors 
+well beyond 2050. Bioenergy, especially low carbon 
+liquid fuels (LCLFs), will be essential to decarbonising this 
+longer-term liquid fuel use. 
+Global investment in bioenergy is accelerating. Countries that move early are attracting investment, building capability 
+and securing long-term economic and emissions benefits.
+Government and industry are positioning Australia to 
+participate in this growing global market, creating new 
+economic opportunities, strengthening fuel resilience 
+and capturing opportunities from the transition to 
+lower-emissions fuels.
+support for the production of LCLFs, through the $1.1 billion 
+Cleaner Fuels Program. The 2026-27 Budget also included 
+a commitment to introduce a market mechanism to help 
+drive demand. Together, these measures will create certainty 
+needed to secure significant new private investment  
+in domestic LCLF production and use. 
+Access to a reliable, high-quality supply of feedstocks 
+is a critical enabler for a domestic LCLF industry.
+Australia has a strong competitive advantage in this area. 
+Our agricultural and forestry systems are world-class, 
+with skilled producers who respond to market signals and 
+deliver high-quality products. Australia already produces 
+feedstocks for export markets and for domestic ethanol  
+and biodiesel production.
+There is significant potential to build on this existing 
+capacity. However, further work is needed to realise our 
+full feedstock potential. Governments, industry, producers and the wider supply chain need to work together to build 
+capacity and address common challenges. Without a proactive approach, domestic LCLF production is likely to remain 
+reliant on imported inputs; missing the opportunity to increase energy resilience and deliver benefits to regional 
+economies and communities.
+Liquid fossil fuel use in Australia
+Australia consumes over 56 billion 
+litres of liquid fossil fuels per year 
+(Bioenergy Australia 2025)
+More than 90% of Australia’s liquid 
+fuels are imported or derived from 
+imported crude (DCCEEW 2026)
+Potential value of feedstocks
+By 2050, the feedstock component 
+of the bioenergy value chain could 
+be worth up to $15 billion annually 
+- creating new revenue streams for 
+producers and regional communities 
+(CEFC 2025). 
+Australia’s low carbon liquid  
+fuel potential
+By 2050, a mature domestic LCLF 
+industry could:
+ Supply over 40% of Australia’s 
+projected liquid fuel demand 
+(Bioenergy Australia 2025)
+ Deliver up to 230 million tonnes  
+of cumulative CO2e- abatement  
+(CEFC 2025).
+v
+
+The National Bioenergy Feedstock Strategy sets out how governments, industry and the supply chain can work 
+together to strengthen the supporting conditions for a competitive domestic feedstock industry.  It identifies feedstocks 
+as a critical enabler of a low-emissions fuel future and provides a shared national direction to unlock production, 
+mobilisation and investment.
+The strategy provides direction for building a feedstock industry that is competitive, scalable, sustainable and 
+internationally connected. It does not prescribe projects or mandate particular feedstocks. Instead, it focuses  
+on the enabling conditions and shared priorities needed to help align activity by governments, industry, producers 
+and investors.
+By reducing uncertainty, improving coordination and clarifying opportunities for further activity, the strategy lays  
+the foundation for a feedstock industry that strengthens fuel security, supports emissions reduction and creates  
+lasting opportunities for regional Australia.
+The strategy focuses on 5 priority areas where collective effort would enable the development of a robust and 
+competitive bioenergy feedstock industry. These are:
+ Data to underpin investment
+ Innovation to advance feedstock readiness
+ Regional supply chain development
+ Sustainability and certification
+ Building sector capability.
+Data to Underpin
+Investment
+Sustainability 
+and Certification
+Innovation to Advance
+Feedstock Readiness
+Building Sector 
+Capability
+Regional Supply 
+Chain Development
+Improve the quality,
+consistency and 
+feedstock data to 
+move from theoretical 
+potential to investment-
+ready intelligence.
+Accelerate research,
+development and
+demonstration to
+improve productivity
+and bring feedstocks to
+commercial readiness. 
+Support regionally 
+tailored approaches 
+aligning production 
+with infrastructure, 
+logistics and 
+community priorities.
+Strengthen emissions 
+accounting and 
+certification frameworks 
+to ensure international 
+credibility and 
+market confidence.
+Enhance coordination, 
+skills, workforce 
+planning and policy 
+alignment across the 
+supply chain to enable 
+confident participation 
+in new markets. 
+The strategy recognises that no single feedstock, region or technology will deliver the scale required. Australia will 
+need to build on its existing feedstock production capacity, scaling that up and diversifying into new feedstocks over 
+time. This approach will allow the industry to respond to growing global demand and adapt to manage climate, 
+market and supply risks, technological change, and protect food and fibre systems. Farmers, foresters and regional 
+communities will be central to this effort as partners in shaping how feedstock and bioenergy industries develop.
+Figure 1 Priority areas for collective effort
+vi
+
+1	 Introduction
+1.1 
+Bioenergy for fuel security and decarbonisation
+Energy underpins Australia’s economy, national security and social wellbeing. Liquid fuels currently make up almost half 
+of all energy used in Australia, with more than 56 billion litres consumed each year (Bioenergy Australia 2025). More 
+than 90% of that is imported or derived from imported crude (DCCEEW 2026), at a cost of over $50 billion (CEFC 2025). 
+Liquid fuels also contribute about 32% of national greenhouse gas (GHG) emissions (DCCEEW 2026).
+Australia’s reliance on imported liquid fuels leaves the country exposed to global market volatility and supply chain 
+disruption. It also makes it harder to meet Australia’s climate targets.
+Electrification is critical to reducing reliance on imported fuels 
+and achieving climate targets. However, parts of the economy 
+are hard-to-electrify and are expected to continue relying on 
+liquid fuels through to 2050. This includes aviation, heavy 
+freight, mining, agriculture, maritime transport and construction. 
+Australian demand for liquid fuels is projected to remain around 
+30 billion litres a year in 2050 (Bioenergy Australia 2025).
+Reducing emissions in these hard-to-electrify sectors will require 
+a shift to low carbon energy sources, especially low carbon liquid 
+fuels (LCLFs).
+LCLFs – which include biofuels and e-fuels – offer a path forward. These fuels are most commonly made from non-fossil 
+carbon sources including agricultural commodities, forestry and cropping residues, and waste streams. They currently 
+make up less than 1% of Australia’s fuel use (DCCEEW 2026), but by expanding production and use they could 
+significantly reduce reliance on imported fuels and support cumulative emissions reduction of up to 230 million tonnes 
+of CO2 by 2050 (CEFC 2025).
+1.2 
+Increasing global investment
+Momentum around the use of bioenergy and LCLFs is expanding globally. Advanced drop-in LCLFs and gases are 
+becoming increasingly important in hard-to-electrify sectors. These fuels, which can be used in existing engines and 
+infrastructure without modification, include sustainable aviation fuel (SAF), renewable diesel and biomethane. SAF 
+made from biogenic feedstocks is one of the lowest-cost pathways for low-emissions aviation fuel, while renewable 
+diesel and biomethane help reduce emissions from long-lived assets in other industries (CEFC 2025; CSIRO 2023).
+Global growth in use of bioenergy is supported by policy settings such as fuel blending mandates and low carbon fuel 
+standards across the Asia-Pacific, Europe and the Americas (IEA 2025a). These policies saw global LCLF production 
+quadruple since 2014. Investment reached USD $16 billion in 2025-26, supporting about 30 billion litres of annual 
+production (CEFC 2025).
+The global outlook is positive. Demand for LCLF is projected to reach 43 billion litres by 2030, or about 8% of total 
+transport fuel demand (IEA 2025a). Meeting this demand will require a major increase in feedstock supply, with 
+global feedstock demand projected to rise by almost 25% by 2030, reaching nearly 825 million tonnes a year in total 
+(IEA 2025a).
+On-farm liquid fuel use
+Petroleum diesel represents over  
+90% of on-farm energy use and  
+up to 8% of on-farm cash costs  
+(ABARES 2026a; AgriFutures 2026)
+1
+
+1.3	
+Australia’s policy landscape
+agenda, with the important role of these alternative fuels recognised in the Net Zero Plan and sector emissions 
+reduction plans.
+The $1.1 billion Cleaner Fuels Program is a key measure and is intended to assist first movers and help establish 
+a domestic industry. It will provide production-linked incentives and support for projects that are advanced in 
+development and target production in the near future.
+Alongside this, in the 2026-27 Budget, the government announced its commitment to work with industry to introduce 
+a market measure that drives demand for new Australian LCLF production. Industry has been calling strongly for this to 
+provide it with market certainty needed to support significant new investments in domestic production capacity.
+These initiatives build on the $250 million investment through the Future Made in Australia Innovation Fund to support 
+pre-commercial innovation, demonstration and deployment of LCLF projects. The Sustainable Aviation Fuel Funding 
+Initiative also provided $33.5 million across five projects to support domestic production.
+Government is also working to improve energy market transparency through standards and certification frameworks 
+to support better decision-making and stronger confidence across the value chain. This includes expanding the 
+Guarantee of Origin (GO) Scheme – a voluntary framework for emissions accounting of products – to incorporate the 
+measurement and certification of emissions intensity of LCLFs. It also includes developing the Paraffinic Diesel Fuel 
+Standard to support system integrity in both domestic and international markets.
+In 2025, the government announced it would develop a National Bioenergy Feedstock Strategy. This recognised the 
+importance of feedstocks to a domestic LCLF industry and the need to grow a competitive feedstock supply alongside 
+increased domestic LCLF production capacity. The commitment aligns with the government’s Future Made in Australia 
+agenda; maximising the economic and industrial benefits of the transition to net zero, supporting jobs, investment and 
+economic opportunities in regional communities.
+Integrating feedstock development with broader policy goals, including food security, circular economy and net 
+zero outcomes, will also help ensure industry development is sustainable and able to capture emerging economic 
+opportunities (Box 1).
+Box 1 Broader policy integration 
+This strategy supports efforts to build a stronger, more resilient Australian economy. It aligns with national 
+productivity priorities, including an adaptable workforce, digital technology and innovation, a more dynamic 
+economy, building sovereign capability and net zero at least cost.
+The strategy sits alongside the $3.5 million National Food Security Strategy, which sets a long-term, 
+whole-of-system plan to strengthen the productivity, resilience and security of Australia’s food system. Alignment 
+will help ensure the domestic feedstock industry creates new opportunities without compromising food security.
+The strategy also links with Australia’s Circular Economy Framework and National Waste Policy Action Plan. 
+These links support waste reduction by capturing more value from biomass resources, including organic waste, 
+co-products, by-products, and agricultural and forestry residues. This can improve the economics of bioenergy 
+pathways through value stacking and co-products which contribute to overall returns.
+2
+
+1.4	
+Feedstocks are a critical input for production
+Biogenic feedstocks are organic materials used in the production of bioenergy, including liquid or gaseous biofuels. 
+Sustainably produced feedstocks are considered a renewable resource as they are sourced from materials that can be 
+regenerated (IEA 2024). Their production is the critical first step in the bioenergy value chain.
+Different bioenergy systems use different feedstock types, including agricultural, forestry and organic waste streams. 
+Of those, the key agricultural and forestry derived feedstocks include lipids, carbohydrates, lignocellulosics and other 
+developing and emerging feedstocks (Figure 2).
+Lipids
+Emerging
+Carbohydrates
+Lignocellulosics
+Includes canola, 
+cottonseed and tallow.
+Australia produced 
+over 6.4 million tonnes 
+of canola in 2024-25, 
+exporting more than 
+76% of production 
+(ABARES 2025).
+Includes sugar, sorghum 
+and starch by-products. 
+Australia produces 
+around 30 million tonnes 
+of sugarcane per year, 
+exporting ~80% of raw 
+sugar (ABS 2023-24).
+Includes forestry 
+by-products, agricultural 
+residues and short 
+rotation tree crops.
+Represents Australia’s 
+largest long term 
+theoretical biomass 
+resource, with sustainable 
+supply estimates 
+exceeding 40 million 
+tonnes per year under 
+appropriate settings 
+(CSIRO 2023; 2025).
+Includes annual and 
+perennial crops suited 
+to marginal land, and 
+novel feedstocks with 
+improved biomass 
+properties.
+Offers longer term 
+opportunities to expand 
+supply while managing
+sustainability, carbon 
+intensity and land 
+use constraints.
+A range of different technologies are used to convert those feedstocks into liquid and gaseous fuels (Figure 3).  
+Those processes impose different requirements on feedstocks, including factors such as quality, consistency, moisture, 
+contamination and chemical composition (GrainCorp 2026). The combination of established processing technologies 
+and supply chains means that used cooking oil, tallow, oil seeds and sugarcane are generally considered to be most 
+ready for near-term deployment in LCLF production (GrainCorp 2026). Forestry residues are also attracting increasing 
+interest as conversion technologies continue to develop.
+The implications of this for Australia’s feedstock opportunity is discussed further in Chapter 2.
+Figure 2 Key agricultural and forestry derived feedstocks
+3
+
+Figure 3 Major bioenergy conversion technologies and feedstocks
+Adapted from CSIRO 2023; IEA 2025b. Dark green boxes highlight agricultural and forestry feedstocks of primary 
+focus in the strategy. Light green boxes show other feedstocks that may contribute to bioenergy production. 
+Power-and-Biomass-to-Liquids (PBtL) pathways can produce bio-electro-fuels (bio-e-fuels), which utilise CO2  
+sourced from biomass feedstocks in combination with renewable hydrogen. HEFA = Hydroprocessed Esters and Fatty 
+Acids. LPG = Liquefied Petroleum Gas. 
+Feedstock
+Drop-in LCLF
+Renewable diesel
+Bio-e-Fuels
+SAF
+Bio-LPG
+Processing pathway
+Bioenergy
+Sugar crops
+Starch crops
+Cellulosic sugars
+Bioethanol
+Alcohol-to-Jet
+Carbohydrates
+Organic solid waste
+Organic liquid waste
+Municipal wastes
+Biomethane
+Biogas
+Cleaning 
+& upgrading
+Organic wastes
+Lipids
+Oil crops
+Animal by-products
+Waste fats, 
+oils, greases
+Biodiesel
+HEFA
+Transesterification
+Short rotation trees
+Forestry 
+by-products
+Agricultural
+residues
+Syngas
+PBtL
+Fischer-Tropsch
+Lignocellulosics
+
+This strategy focuses on biogenic feedstocks – specifically agricultural and forestry feedstocks – as they represent the 
+largest immediate and medium-term opportunities for LCLFs. While power-to-Liquid (PtL) technology can produce 
+synthetic or electro-fuels (e-fuels) (CEFC 2025), substantial technological advancements are required to reach 
+commerciality (CSIRO 2025b).
+Feedstocks from agricultural and forestry sectors also represent only part of Australia’s overall bioenergy resource 
+potential. Other biogenic feedstocks – such as used vegetable oils, municipal solid and liquid wastes, and landfill 
+gas – contribute to bioenergy production, emissions reduction and circular economy outcomes. For example, around 
+100,000 tonnes per year of fats, oils and greases, including used cooking oil, are used for bioenergy production (CSIRO 
+2023). This part of the industry will continue to grow and is being supported by policy discussion in areas such as waste 
+management and adoption of circular economy principles.
+Renewable gases, such as biomethane, will also play an important role in Australia’s energy transition, with Australia 
+currently consuming over 1,400 petajoules of gas per year (DCCEEW 2025). Organic wastes, including from intensive 
+livestock and horticulture industries, are commonly used as feedstocks in the production of biomethane. These supply 
+chains involve different markets, infrastructure and policy settings. Accordingly, gas-based pathways are addressed 
+through separate government initiatives and frameworks. For example, through the Energy and Climate Ministerial 
+Council, governments are working collaboratively to jointly progress options for a National Renewable Gas Policy.
+
+2	 Australia’s feedstock opportunity
+Australia already produces and exports around $6 billion of feedstocks each year; particularly significant volumes of canola 
+and tallow for global markets. Australian feedstocks also support some local production of biodiesel and ethanol. There is 
+strong potential to build on that capacity and increase the scale of production across a range of feedstock types.
+There are varying projections for the potential scale of an Australian feedstock industry by 2050. CSIRO analysis (2025a) 
+suggests that, with the right settings, Australia could reach a biomass production capacity of 168 million tonnes a year 
+by 2050, much of it from agricultural and forestry feedstocks. This would be enough to produce more than 12 billion 
+litres of LCLF annually. More recent analysis by GrainCorp (2026) suggests that 17.1 billion litres of SAF could be 
+produced based on a different set of existing and potential feedstocks.
+2.1	
+Diversity is an advantage
+A key strength for an Australian industry is the potential to produce 
+a diverse range of agricultural and forestry feedstocks. We have a 
+large landmass with different climatic conditions and production 
+systems. Whilst there are challenges associated with distance, 
+regional variation provides the opportunity to produce a balanced 
+and adaptable feedstock portfolio, with the volume, resilience and 
+cost profile needed to support a competitive industry at scale. 
+This compares well with markets that rely on narrower, often 
+waste-focused feedstock sources (CEFC 2025). It also supports 
+participation across multiple bioenergy pathways (Figure 3).
+As the projection in Figure 4 shows, future production is expected to 
+come from a range of feedstock types. This starts with the current 
+feedstock capacity and builds on that through enhanced production 
+and then expansion into next generation feedstocks over time.
+In the long-term, a diversified production base will reduce 
+exposure to climate variability, seasonal fluctuations and price 
+volatility. It will also help align production with regional land capability and existing agricultural and forestry systems. 
+This diversified approach will be important for sustainable industry development and for integrating feedstock 
+production with food, fibre and feed systems.
+An Australian feedstock industry
+By 2050, a mature feedstock 
+industry could:
+ be worth about $15 billion 
+per annum and support about 
+26,000 additional jobs
+ create significant new economic 
+opportunities for agriculture, 
+forestry and regional 
+communities 
+(ARENA 2021, CEFC 2025)
+Agricultural residues
+Short rotation trees
+Sawmill waste
+Cottonseed
+Sorghum
+Sugar cane bagasse
+Sugar
+Tallow 
+Municipal solid waste
+Canola
+Used cooking oil
+0
+3000
+6000
+9000
+12000
+2050
+2030
+Present
+LCLF production (ML per year)
+Figure 4 Potential feedstock production to support a domestic low carbon liquid fuel industry
+Data source: CSIRO 2025a
+6
+
+2.2 
+Industry needs to scale progressively
+Whilst diversification will be important, not all feedstocks are at the same stage of development. Some are already 
+produced and traded at scale, such as canola and sugar, and have established supply chains and compatibility with 
+mature technology conversion pathways. These established feedstocks are well placed to meet early demand, expand 
+their production and benefit from further investments in improved yields and supply chain improvements.
+Others, including lignocellulosic residues and dedicated energy crops, need more investment in technology 
+development, supply chain integration and commercial-scale demonstration to reach market readiness.
+Industry development is therefore unlikely to follow one pathway or move at a uniform pace. It is more likely to scale 
+progressively (Figure 5).
+ In the near term, production is likely to involve established feedstocks and existing supply chains. A focus on 
+improving existing production systems and optimising supply chain efficiency will support early fuel production and 
+build momentum.
+ In the medium term, a broader set of feedstocks that are currently characterised as developing will unlock more 
+volume and improve the cost and emissions profile of supply. Achieving this means working now to address 
+feedstock-specific challenges, including cost, logistics, processing pathways and sustainability, along with investment 
+in supply chains and demonstration of integrated systems.
+ Over the longer term, emerging feedstocks can create step-change gains in productivity, diversification and 
+emissions reduction. Achieving this will depend on sustained investment in research, development and 
+demonstration so these feedstocks can reach commercial readiness as the domestic production industry matures.
+Progressive scaling will let industry test and refine new opportunities, manage risk, respond to changing technologies 
+and markets, and build capability across the supply chain. This progressive development pathway is consistent with 
+analysis outlined by GrainCorp (2026), focussing on initial use and improvement of established feedstocks, moving over 
+time into lower emissions intensity feedstocks supported by innovation and investment.
+7
+
+Figure 5 Diversifying feedstocks towards market readiness
+Adapted from CEFC 2025 and CSIRO 2025a
+2.3 
+International competitiveness is fundamental
+The feedstock industry has significant potential, but its development will ultimately be driven by market forces. 
+Producers, investors, processors and end users will make decisions based on demand, price signals, technology 
+maturity, comparative advantage and regional capability. These commercial factors will determine how the industry 
+develops in practice.
+In this context, Australian feedstocks must be internationally competitive. They need to be supplied reliably at scale, 
+meet the quality requirements of bioenergy production, and be delivered at a cost that compares well with global 
+alternatives. These attributes are critical because feedstocks are traded in international markets and represent a 
+substantial proportion of total bioenergy production costs.
+The strong connection with international markets can also help provide the scale, demand certainty and commercial 
+capability needed to grow some feedstock supply chains. Building export-capable and internationally competitive 
+feedstock industries can complement domestic fuel production by strengthening the production base, logistics and 
+certification systems needed to support future Australian refining opportunities and sovereign capability.
+Strengthening competitiveness across key dimensions – including scale, sustainability, embedded emissions intensity, 
+suitability for bioenergy conversion and cost  – will position Australia to fully realise both domestic growth opportunities 
+and export potential.
+Emerging
+Developing
+Deploy
+Expand
+Innovate
+Carbon abatement potential
+Time to feedstock market readiness
+(other perennial 
+and annual biomass)
+(includes agricultural 
+and forestry residues, 
+novel oilseed crops)
+Established
+(includes edible crops, 
+organic wastes and 
+agricultural by-products)
+Optimise sustainable production
+and supply chain efficiencies
+Develop stable, efficient 
+production practices 
+and economically viable
+mobilisation at scale
+Foundational basic and 
+applied research for viable 
+feedstock production
+8
+
+Data to Underpin
+Investment
+Sustainability 
+and Certification
+Innovation to Advance
+Feedstock Readiness
+Building Sector 
+Capability
+Regional Supply 
+Chain Development
+Improve the quality,
+consistency and 
+feedstock data to 
+move from theoretical 
+potential to investment-
+ready intelligence.
+Accelerate research,
+development and
+demonstration to
+improve productivity
+and bring feedstocks to
+commercial readiness. 
+Support regionally 
+tailored approaches 
+aligning production 
+with infrastructure, 
+logistics and 
+community priorities.
+Strengthen emissions 
+accounting and 
+certification frameworks 
+to ensure international 
+credibility and 
+market confidence.
+Enhance coordination, 
+skills, workforce 
+planning and policy 
+alignment across the 
+supply chain to enable 
+confident participation 
+in new markets. 
+3	 A shared direction for  
+industry development
+As part of developing the strategy, government consulted extensively with stakeholders to identify areas where 
+a coordinated approach could help unlock Australia’s feedstock opportunity. This included a public consultation 
+process with over 90 submissions from government, industry, research and academic stakeholders, and the broader 
+community. This process was followed by direct engagement with a range of key industry stakeholders across the 
+supply chain to test key themes and messages.
+3.1 
+Priority areas for collective effort
+Those discussions identified five priority areas where stakeholders felt collective effort would enable the development 
+of a robust and competitive bioenergy feedstock industry (Figure 6). They form the basis of the strategy:
+ Improving data to underpin investment
+ Investing in innovation to advance feedstock readiness
+ Regional supply chain development to drive efficiencies
+ Sustainability and certification to create public confidence
+ Building sector capability.
+Together, these priority areas set a strategic direction for this industry to grow and scale. They go towards reducing 
+barriers to investment, improving market confidence and enabling the sector to respond effectively to growing 
+demand. They also address sustainability and other requirements that are core to bioenergy markets globally.
+Figure 6 Priority areas for collective effort
+9
+
+3.2 
+Embedding producer participation in industry development
+Development of the strategy has highlighted the importance of close engagement between producers and other parts 
+of the supply chain to support coherent industry growth. Agriculture and forestry producers are key players in the fuel 
+production systems. Their decisions affect the availability, cost and sustainability of feedstocks, and their participation 
+is essential to building reliable and scalable supply. Involving producers in policy development and investment planning 
+will support more practical, regionally appropriate and commercially viable outcomes.
+Producers bring established strengths in managing variability, responding to markets and operating in complex 
+systems. Many also work in international markets and have experience with certification frameworks and sustainability 
+requirements. Using this expertise can better align domestic industry development with market expectations and 
+improve overall system performance.
+Producer involvement will help ensure industry development reflects regional realities. Land capability, seasonal 
+variability and infrastructure constraints are all critical to designing systems that are practical, aligned with food, fibre 
+and environmental objectives, and ensure benefits are shared with regional areas and communities.
+Stronger connections between producers and other supply chain participants can better align supply and demand, 
+improve information flow and support more effective investment. This will help build a coordinated and resilient 
+industry that can develop and diversify over time.
+
+4	 Priority area: data to 
+underpin investment
+Confidence, participation, innovation and investment across the sector, from farm level to large refining plants, depend 
+on a shared understanding of which feedstocks can be produced and mobilised reliably and cost-effectively at scale. 
+Stronger data is therefore both an evidence issue and an action issue: without it, project assessment, commercial 
+planning and policy design will remain higher risk.
+4.1 
+Data quality and access is variable
+A large amount of public and private data on feedstock availability already exists. For example, the Australian 
+Renewable Energy Agency (ARENA)-funded Australian Biomass for Bioenergy Assessment (ABBA) project (2015 to 2021) 
+provided state-level data on the location and potential volumes of biomass, by-products and residues from industries 
+including forestry, cropping, livestock and horticulture. This data helped estimate the national potential for bioenergy 
+feedstocks, as shown in Figure 7.
+theoretical potential to investment-ready intelligence
+Future direction:
+ Move from theoretical resource estimates to region-specific, investment-ready information 
+on commercially viable and sustainable feedstock supply.
+ Expand data coverage for developing and emerging feedstocks, including emissions, 
+seasonality, variability and competing uses.
+ Develop nationally aligned standards, definitions, assumptions and methods for feedstock 
+assessment and reporting.
+11
+
+WA
+451 PJ
+SA
+347 PJ
+VIC
+398 PJ
+NSW
+556 PJ
+QLD
+516 PJ
+TAS
+111 PJ
+Wheat-sheep zone
+Grazing native vegetation
+Grazing modified pastures
+Cropping
+Horticulture
+Intensive plant and animal industries
+Multiple-use public native forest
+Commercial plantation
+Agricultural land use
+Non-agricultural land uses
+Adapted from ABARES 2026b; data sourced from AgriFutures 2021 and Bioenergy Australia 2022. The crops  
+category refers to crop residues, horticulture residues, and non-food crop products. Energy potential was based  
+on Fischer-Tropsch processing pathways for crops, forestry, and waste feedstocks, Alcohol-to-Jet for carbohydrates,  
+and HEFA for lipids. ‘Other’ feedstocks were not specified.
+Figure 7 Theoretical bioenergy feedstock potential
+However, stakeholders across the supply chain have said the evidence base remains a major barrier to industry 
+development. It does not always provide a shared understanding of how much feedstock can be produced and 
+mobilised for bioenergy in an economically viable and sustainable way. Stakeholders said:
+currency to support credible assessments of potential projects
+ current national assessments remain theoretical, estimating aggregate volumes without accounting for the regional 
+conditions and infrastructure networks that determine whether feedstock can actually be mobilised
+ less developed and emerging feedstocks remain under-characterised, particularly novel energy crops, and crop and 
+forestry residues, which constrain confidence and limit scalability
+ data on all the aspects of feedstock production and supply chain requirements needed to underpin commercial 
+assessment, sustainability assurance, investment decision making and planning is often not integrated.
+Overall, stakeholders are calling for more granular, consistent and investment-ready information, including for example 
+GrainCorp (2026) advocating for the development of a fact-base to attract private investment to commercialise 
+new feedstocks.
+Carbohydrates (AtJ)
+Forestry (FT)
+Crops (FT)
+Waste (FT) 
+Lipids (HEFA)
+Other
+Feedstock Potential
+12
+
+4.2	
+Work towards nationally consistent, market-ready information
+Australia would benefit from a more coordinated national approach to data; moving from high-level estimates of 
+feedstock potential to a clearer view of what can be delivered commercially and sustainably. This includes improving 
+less well-characterised and emerging feedstocks, and adding key supply-side factors such as seasonality, variability, 
+emissions intensity and competing uses.
+Consistent approaches to data collection and assessment is important. Nationally aligned standards, definitions, 
+assumptions and methods can improve comparability across jurisdictions, reduce duplication and strengthen 
+confidence in the evidence base. They would also support more integrated policy and market development.
+There is also a need for more market-ready information. This means moving beyond theoretical supply estimates to 
+more granular, region-specific information about feedstocks that are technically recoverable, economically viable 
+and able to be supplied reliably. Linking feedstock data with information on infrastructure, transport, workforce and 
+processing capacity will further support commercial assessment and investment decisions.
+Some jurisdictions are already improving feedstock data and how it is presented. For example, New South Wales has 
+developed the BioSMART Tool to provide accessible and integrated data, while Queensland is identifying feedstock 
+suitability and supply chain opportunities through its Biofuels Feedstock Expansion Study (Box 2). Both approaches 
+build on the earlier work undertaken through the ABBA project.
+expand and harmonise existing datasets, and develop nationally consistent standards, definitions and methods to 
+support ongoing and comparable data collection and analysis. This could include a national access point that links 
+existing data sources, reduces fragmentation, improves transparency and helps investors and policymakers identify 
+opportunities, constraints and risks more easily.
+Industry-led investment in new data, especially emissions values for the cultivation and pre-treatment of developing 
+and emerging feedstocks, could also support the development and refinement of life cycle assessments. Additional 
+data on land use change linked with commodity expansion will help in managing associated concerns. This would 
+strengthen confidence in feedstock attributes and improve commercial viability.
+Box 2 Improving the feedstock evidence base
+The NSW Biomass Spatial and Modular Assessment of Resources Tool (NSW BioSMART), developed by the 
+Department of Primary Industries and Regional Development in collaboration with CSIRO, is an interactive, spatial 
+tool that enables users to determine the potential for using biomass in NSW for a range of applications. While the 
+tool was initially focused on electricity generation options from biomass, future versions will include industrial 
+heat applications, liquid biofuels and biochar (NSW DPI 2025).
+The biomass data within the tool was derived from the ABBA Project. In addition to a variety of existing biomass 
+sources derived from agriculture, forestry, and organic waste, the tool also allows users to identify potentially 
+suitable lands where woody biomass crops could be produced.
+The Queensland Government’s Biofuels Feedstock Expansion Study is considering opportunities across 22 crop 
+and non-crop feedstocks. The study will provide an evidence base on the most viable feedstocks to meet 
+commercial biofuels production requirements.
+13
+
+5	 Priority area: innovation to 		
+advance feedstock readiness
+Advancing a diverse range of high-quality, low-emissions feedstocks to commercial readiness means overcoming 
+technical challenges that vary by feedstock type, maturity and supply chain. Innovation and continuous improvement 
+will be critical to scaling production and mobilisation, lowering costs and reducing the risk that promising feedstocks fail 
+to progress beyond pilot stages. A more strategic approach to research, development and extension (RD&E), backed by 
+stronger collaboration and greater investment, would help the sector to produce feedstocks at scale, at the right quality 
+and at a price that can compete globally.
+5.1 
+Innovation at the feedstock end of the supply chain is a priority
+Despite significant bioenergy RD&E activity, stakeholders said investment and effort remain skewed towards 
+downstream processing technologies. Investment in upstream areas, including feedstock production and 
+near-farm-gate supply chain components, is still underrepresented in strategic agendas and investment portfolios.
+Accelerating research, development and demonstration to improve productivity and bring 
+feedstocks to commercial readiness.
+Future direction:
+ Improve feedstock productivity, quality, sustainability and emissions performance, while 
+accelerating the readiness of developing and emerging feedstocks.
+ Reduce production, logistics and supply chain costs to strengthen competitiveness.
+ Drive greater cross-sector coordination, collaboration, knowledge sharing and investment 
+alignment across the RD&E system.
+ Support investment and demonstration activity to bridge the gap between pilot projects and 
+commercial-scale deployment.
+14
+
+More RD&E is needed at the feedstock end of the supply chain to achieve competitive supply at greater scale. The core 
+challenges are:
+ sustainably increasing production and mobilisation – enabling diversification of feedstocks with improved yields, 
+higher quality and increased integration with production systems
+ increasing emissions abatement – improving the emissions intensity of feedstocks and supply chains to maximise 
+emissions reduction outcomes
+ improving long-term cost effectiveness – reducing production, processing and logistics costs to support 
+international competitiveness.
+A range of innovation is needed to address these challenges and complement ongoing work on downstream processing 
+technologies (Figure 8). Current needs are most acute for less developed and emerging feedstocks, including novel 
+energy crops and agriculture and forestry residues, where uncertainty about yield, cost, sustainability and logistics 
+creates major barriers to scale. Developing and emerging feedstocks also need more RD&E to develop market-ready 
+co-products and create more value. Addressing these barriers will require a stronger focus on early-stage innovation 
+that reduces supply risk, strengthens producer participation and supports downstream investment.
+Figure 8 Opportunities for RD&E to enable bioenergy feedstock industry development
+5.2 
+Increasing scale of investment
+Greater collective innovation effort is needed to address key barriers to industry development. Stakeholders 
+consistently identified the transition from pilot to commercial-scale production as a major challenge, especially 
+for developing and emerging feedstocks. Targeted, sustained investment is needed across the innovation pipeline, 
+while also enabling rapid innovation cycles through parallel development pathways, from feedstock development 
+to advanced harvesting and aggregation technologies, and through to full supply chain integration under 
+real-world conditions.
+Feedstocks
+Pre-processing
+Densification 
+technologies
+Technologies to 
+improve feedstock 
+quality for efficient 
+conversion
+Novel feedstocks 
+(energy crops suited 
+to marginal lands, 
+climate resilience)
+Improved yields
+Improved properties 
+for bioenergy 
+conversion
+Biophysical and 
+climate modelling
+Lower emission 
+inputs and 
+production practices
+Feedstock field trials
+Improved land
+and resource 
+use efficiency
+Integration into food 
+and fibre systems
+Improved harvest 
+efficiency 
+Transport 
+and handling
+Efficient, lower 
+emission logistics 
+and infrastructure 
+solutions
+Processing 
+pathway
+Integrated testing 
+across feedstocks 
+and processing 
+technologies
+Pre-commercial 
+technology 
+demonstration 
+Catalysts and 
+enzymes 
+to improve 
+conversion 
+efficiency
+Energy conversion
+Aggregation 
+and storage
+Aggregation 
+technologies
+Improved stability 
+of feedstock supply
+New supply chain models (regional bio-hubs)
+Production
+Logistics
+Production 
+and harvest
+Life cycle assessment to maintain integrity and market access through certification
+Trade-off-analysis and integrated assessment modelling to support decision making across resources, 
+land use, and community priorities
+Whole of value chain bioregional feedstock assessments
+15
+
+Through the Research and Development Corporation (RDC) system, government and industry are already investing 
+heavily in innovation across a wide range of agricultural and forestry commodities. There is scope to increase the 
+focus on feedstock development and strengthen alignment across RDCs (Box 3). For example, AgriFutures invests 
+in RD&E that supports the development of emerging, high-potential agricultural industries and has already done 
+work on emerging feedstocks such as pongamia. In future, AgriFutures could expand this work in its forward plans to 
+complement RD&E on more established commodities led by other RDCs.
+Future Made in Australia Innovation Fund. Under the LCLF Technology Focus Area, funding is available for innovative 
+projects that accelerate commercial-scale domestic production, pre-commercial technology demonstration, and 
+feedstock and supply chain enablement (Box 4).
+ Box 3 The role of Research and Development Corporation investment
+funding for eligible research, development and extension activities. In 2024-25, activities included the Grains 
+Research Development Corporation exploring opportunities for farmers to participate in the bioenergy feedstock 
+sector, outlining innovation opportunities from improving existing feedstocks to advancing novel biomass oil 
+crops (GRDC Low Carbon Liquid Fuels Roadmap 2025).
+RDCs also have an opportunity to align their efforts with each other to achieve gains across the sector. The 
+Council of Rural RDCs could play a convening or leadership role in this area, alongside AgriFutures Australia with 
+its cross-industry and cross-sectoral remit.
+Box 4 Future Made in Australia Innovation Fund
+ARENA’s Future Made in Australia Innovation Fund has allocated $250 million in grant funding under the LCLF 
+Technology Focus Area. This builds on previous investments made under ARENA’s SAF Funding Initiative.
+This funding will accelerate the development of a domestic LCLF industry - supporting the development 
+of biogenic feedstocks through innovative approaches to production, processing and aggregation and the 
+enablement of innovative supply chain infrastructure.
+
+5.3 
+Stronger coordination and collaboration
+Stakeholders have said that better coordination and collaboration between governments, industry and research 
+institutions is needed to reduce duplication, integrate effort, share knowledge and support co-investment that helps 
+de-risk transformative projects. Clearer roles and stronger collaboration will help align activities across the RD&E 
+pipeline and get more value from investment.
+Stakeholders also identified opportunities to build feedstock-specific collaborative initiatives that deliver greater RD&E 
+agency, CSIRO (Box 5). This work spans feedstock development, biophysical and socio-economic system modelling, 
+supply chain analysis, and downstream processing and conversion technology development. Models such as the CSIRO 
+Towards Net Zero Mission and the Zero Net Emissions Agriculture Cooperative Research Centre show the value of this 
+kind of collaboration.
+cross-sector coordination and collaboration on feedstock RD&E. The recent Energy Transition Roadmap for the 
+Agriculture, Fisheries and Forestry Sector (AgriFutures 2026) highlights the feedstock opportunity and the need to 
+align behind a shared pathway to overcome fragmented effort and support a coherent, whole-of-sector transition. 
+AgriFutures, together with the Council of Rural RDCs, could help connect RD&E efforts, support knowledge sharing, and 
+align the investment and capability development needed to bring diverse feedstock pathways to commercial readiness.
+Box 5 CSIRO applied science and research to advance low carbon liquid fuels
+in Australia through CSIRO.
+CSIRO science has shaped the foundations for LCLFs in Australia, through initiatives such as the Towards Net Zero 
+Mission, the Sustainable Aviation Fuel roadmap (2023), the Opportunities for LCLFs report (2025a), and the State 
+of Energy Transition Technologies report (2025b). As the LCLF supply chain is highly interconnected, coordinating 
+research across the supply chain enables CSIRO to deliver end-to-end solutions for industry and government 
+to advance LCLFs, while integrating community co-benefits, economic viability and environmental impact 
+assessments.
+17
+
+6	 Priority area: regional supply 	 	
+chain development
+Efficient, resilient supply chains are essential if Australian feedstocks are to be internationally competitive. Increasing 
+production matters, but so does moving feedstocks cost-effectively, which is difficult because they are dispersed, bulky 
+and seasonal. Without regionally tailored solutions, supply chains risk remaining fragmented, high-cost and unable to 
+support reliable scale. Addressing these challenges will require approaches tailored to different feedstocks and regional 
+contexts, backed by coordinated infrastructure investment and streamlined regulation.
+6.1	
+Strengthening regional approaches
+Feedstock supply chains are inherently complex, with considerable seasonal variability and biomass moving through 
+multiple stages before it reaches end use. Challenges in aggregation, preprocessing, transport and storage must be 
+addressed to build efficient supply chains. There is no single solution. Feedstock type and availability, proximity to end 
+uses, infrastructure, workforce capability and market dynamics vary across Australia, so place-based design is essential. 
+Integrated planning and strong community engagement, backed by coordinated infrastructure investment and 
+regulatory alignment, are critical to achieving regionally optimised outcomes.
+Supporting regionally tailored approaches aligning production with infrastructure, logistics 
+and community priorities.
+Future direction:
+ Develop regionally tailored supply chains (including efficient aggregation, storage, 
+preprocessing and transport solutions) that align feedstock production with infrastructure, 
+logistics, workforce capability and end-use demand.
+ Support integrated planning and community engagement to build confidence, participation 
+and social licence.
+ Improve regulatory consistency and reduce supply chain barriers across jurisdictions.
+18
+
+Stakeholders widely identified aggregation hubs as a useful approach to supply chain design because they can create 
+co-location efficiencies across multiple feedstocks and end uses. But stakeholders also said these models must be 
+shaped by regional characteristics and priorities. Rather than being a universal solution, hubs are best understood as an 
+outcome of well-designed supply chains that reinforce regional strengths.
+The Ararat Renewable Energy Park (Box 6) shows how this can work in practice. It demonstrates how a regionally 
+aligned approach can secure reliable feedstock supply, build community confidence and support investment. 
+Stakeholders pointed to examples like this as models that could be replicated more broadly.
+Aligning feedstock industry development with national, regional and local planning frameworks, including land use, 
+infrastructure and broader economic development strategies, is central to determining the best supply chain approach. 
+This includes identifying where hubs can add most value and coordinating infrastructure investment. It also helps make 
+sure existing assets, such as transport and logistics networks, industrial precincts and workforce capability, are used 
+effectively and that new investment is well targeted. Box 7 shows how different supply chain infrastructure approaches 
+can build on existing regional assets.
+Box 6 Ararat Renewable Energy Park
+Ararat Rural City Council, located in the Central Highlands of Victoria, is supporting efforts to establish bioenergy 
+production within its Renewable Energy Park through a proposed $400 million biomethane plant led by 
+bioenergy developer Valorify. When developed, the plant will process local agricultural residues into renewable 
+gas, to be fed into a local gas pipeline (ARC 2025).
+In developing the project, significant attention has been given to planning and engagement to quantify the 
+seasonal aggregate cereal-straw volume that might be contractable and available for delivery from local farms.
+Several years of engagement with the farming community and those across the supply chain resulted in a supply 
+agreement that reflected the needs of feedstock producers – taking into account farming practices, seasonal 
+and climate variability impacts on the cereal cropping sector and required minimum rates of stubble retention. 
+Valorify was able to secure sufficient feedstock under contract to progress the Ararat Bioenergy project as the 
+first single feedstock, straw-based anaerobic digestion platform in Australia (AB 2024).
+Box 7 Regional approaches to supply chain infrastructure
+Forestry in south eastern Australia 
+The Green Triangle region covers approximately 17% of Australia’s forestry area. HAMR Energy plans to use 
+a vertically integrated ‘Hub & Spoke’ model to address supply chain constraints associated with converting 
+under-utilised forestry by-products and residues into SAF (HAMR 2025a). A centralised SAF refining hub will  
+be supported by regional biomass to methanol facilities across the region (HAMR 2025b).
+Sugarcane in Queensland 
+Sugarcane has an established network of nearly 4,000 km of railways linking to mills, which usually operate 
+between June and December; out of season there is potential to leverage the network to transport other 
+feedstocks, such as woody biomass.
+Canola in Western Australia 
+An established canola export supply chain comprises a growing area of approximately 65,000 square km (GIWA 
+2025), over 100 grain receival sites (CBH 2026) and more than 1,450 km of dedicated rail track (Office of the 
+Auditor General 2013). There are opportunities to pivot toward domestic biofuel production and leverage this 
+supply chain by adding additional infrastructure such as crushing facilities.
+19
+
+Early and ongoing community engagement, supported by strong local leadership, is equally important. Working with 
+producers, communities, local governments and First Nations groups can improve supply chain design, strengthen 
+participation and help secure reliable feedstock supply. It also helps ensure infrastructure decisions reflect local 
+conditions and maintain social licence. With networks across Australia, Regional Development Australia (RDA) 
+committees can play an important role in enabling these place-based approaches and using local knowledge  
+to tailor solutions to regional conditions and opportunities.
+Stakeholders also identified regulatory fragmentation as a barrier to supply chain development. Differences across 
+jurisdictions in areas such as transport, waste regulation, biosecurity and approval processes can stop supply chains 
+operating efficiently across regions and reduce the ability to take full advantage of regional strengths. Improving 
+consistency, harmonising frameworks and streamlining approvals were seen as critical to enabling integrated, 
+cross-jurisdictional supply chains.
+There is an opportunity for governments to work together to harmonise regulatory frameworks. Mapping regulatory 
+variation across jurisdictions to identify barriers and friction points could be a practical step towards a more integrated 
+and efficient supply chain.
+6.2 
+Investing in infrastructure
+More investment in infrastructure will be needed across the supply chain. Production facilities alone are estimated to 
+require between $25 billion and $30 billion (ARENA, CEFC 2019). Stakeholders are looking for opportunities to de-risk 
+early investments and enable aggregation and co-location models that align with regional production strengths.
+There is significant government investment underway to support industry development. Figure 9 illustrates work across 
+several state governments on enabling infrastructure and supply chain development. Whilst feedstocks are generally 
+part of government activity, there is an opportunity for feedstock supply to be more comprehensively integrated into 
+broader planning and investment settings. For example, the National Freight and Supply Chain Strategy (NFSCS) sets  
+a national agenda for action across governments and the transport and logistics industry. Key actions under the NFSCS 
+are to model the current and future freight networks and develop a National Freight Resilience Plan. Together with 
+actions to improve supply chain productivity and support for the development of a domestic LCLF industry, the NFSCS 
+will help address a range of challenges facing the feedstock sector.
+Figure 9 Examples of state government support for bioenergy supply chain development
+The QLD government is working 
+with industry partners to identify 
+opportunities to increase the 
+availability of feedstocks, identify 
+regulatory barriers,  and facilitate 
+viable biofuel projects.
+This includes support for projects 
+such as Ampol’s Brisbane Renewable 
+Fuels Facility, which will incorporate 
+new infrastructure with existing 
+logistics and distribution efficiencies, 
+such as the Port of Brisbane.
+The NSW Government will provide up 
+to $130 million in grants through the 
+Net Zero Manufacturing Initiative.
+This will support commercial-scale 
+production of renewable fuels, 
+facilitate investment in new and 
+expansion of existing supply chain 
+assets, and build local manufacturing 
+capacity and capability.
+The VIC Government has developed 
+an Investment Prospectus for 
+bioenergy projects in the state.
+This outlines the bioenergy 
+opportunity in Victoria for investors, 
+including theoretical biomass 
+potential by region and existing 
+infrastructure that can be leveraged 
+and integrated with new facilities.
+20
+
+the value chain. For example, capital to de-risk industry investment is available through the Clean Energy Finance 
+Corporation (CEFC), the National Reconstruction Fund (NRF) and the Northern Australia Infrastructure Facility (NAIF). 
+ARENA is also investing in supply chain innovation, proof of concept and trials of new approaches (Box 8).
+security, supply chain resilience and critical minerals. The Investor Front Door offers selected projects, including HAMR 
+Energy’s LCLF project, dedicated support to navigate regulatory requirements more efficiently and identify suitable 
+government financing options.
+The Australian Trade and Investment Commission (Austrade) also helps attract and facilitate investment in bioenergy 
+supply chains by connecting domestic projects with international investors. This includes helping projects across the 
+supply chain navigate foreign investment opportunities and connect with the right stakeholders.
+CEFC: Investing more than $33 billion into decarbonisation and nation-building infrastructure projects, including 
+for projects that prioritise renewable energy, energy efficiency and low emissions technologies. CEFC finance has 
+been investing in biofuels for a number of years, including working with institutional investors to back early-stage 
+and demonstration projects, and to accelerate the evolution of biofuel feedstocks and end-user markets.
+NRF: The $15 billion fund facilitates increased flows of finance into the Australian economy through targeted 
+investment in manufacturing businesses across 8 priority areas including value add in agriculture, forestry,  
+and fisheries. Additionally, the $5 billion Net Zero Fund, delivered through the NRF Corporation, supports large 
+industrial facilities to transition to net zero and scaling up domestic manufacturing of renewables and low 
+emissions technologies.
+projects in northern Australia that demonstrate clear public benefit and support sustainable growth in 
+remote regions.
+ARENA: Funding of up to $250 million towards the LCLF Technology Focus Area of the Future Made in Australia 
+Innovation Fund, to progress supply chain innovation.
+21
+
+7	 Priority area: sustainability 
+and certification
+Demonstration of carbon abatement and sustainability credentials is a key part of accessing bioenergy markets  
+globally. Certification schemes enable feedstock attributes, such as emissions intensity, to be differentiated and 
+traded. Broader sustainability considerations are also important for maintaining social licence, with some international 
+regulatory frameworks requiring these attributes to be verified for market access. Close engagement with feedstock 
+for our domestic bioenergy market, as the design of these frameworks can directly affect the relative competitiveness 
+of feedstocks.
+Strengthening emissions accounting and certification frameworks to ensure international 
+credibility and market confidence.
+Future direction:
+ Ensure certification frameworks support market access, credibility and value recognition,  
+and align with feedstock production systems.
+ Increase availability of high-quality emissions data, particularly for developing and emerging 
+feedstocks to improve emissions accounting and lifecycle assessment capability.
+ Improve coordination, traceability and data sharing to support credible 
+sustainability outcomes.
+ Improve understandings of interactions between feedstock production and food, fibre  
+and feed systems, including identifying co-benefits and managing trade-offs.
+22
+
+7.1	
+Certification is core to value creation and market access
+Certification of feedstock attributes is increasingly a prerequisite for value creation and recognition. Policy frameworks, 
+including demand-side measures and production incentives, are built around demonstrated emissions reductions 
+compared with fossil fuels. Verification of this and other attributes often determines whether a product is eligible  
+for market incentives and procurement schemes. Where market mechanisms are designed around an emissions 
+intensity standard, a greater abatement effect is directly tied to financial value. Current international frameworks  
+such as the EU Renewable Energy Directive (RED) and ICAO’s Carbon Offsetting and Reduction Scheme for  
+International Aviation (CORSIA) show how certified feedstock attributes effectively underpin market participation.
+Stakeholders have consistently noted the importance of appropriate certification settings to ensure the 
+competitiveness of Australia’s developing feedstock industry. Given that significant volumes of feedstocks  
+exported from Australia are already certified under international frameworks, maintaining alignment and 
+interoperability (where possible) is a priority.
+Australia’s bioenergy market requirements are evolving in response to policy development, market demand and 
+community expectations. The GO Scheme will be Australia’s primary mechanism for measuring and recognising the 
+emissions intensity of LCLF and low carbon gases. Product Guarantee of Origin (PGO) certificates provide a foundation 
+for linking certified emissions intensity attributes to the eligibility requirements of future domestic policy frameworks, 
+including a demand-side measure. The expansion and refinement of the scheme will, over time, provide opportunities 
+for feedstock industry input and help it to meet both international and domestic market requirements.
+7.2	
+Emissions intensity underpins competitiveness
+A clear understanding of emissions intensity across the supply chain is essential to capturing value and staying 
+competitive. Feedstock production, processing and transport often make up a large share of lifecycle greenhouse gas 
+emissions for the final bioenergy product. This makes upstream emissions accounting, data quality, data integrity and 
+data transmission critical to accurately determining overall fuel emissions intensity.
+Certification frameworks use different methods for life cycle assessments (LCA) which can lead to very different carbon 
+abatement results. One example is how indirect/induced land use change (ILUC) is treated. In cases where feedstocks 
+are produced on land cleared prior to 2008, CORSIA will apply default ILUC emissions values in their LCA, whereas the 
+European Commission notes a lack of certainty around ILUC modelling and instead applies a qualitative, risk-based 
+approach through the RED (EU 2018).
+Global certification frameworks often rely on default emissions values to simplify verification across complex supply 
+chains. These defaults can understate the competitiveness of Australian feedstocks because Australian production 
+systems are often less emissions-intensive than global averages (ABARES 2023). CSIRO has produced analysis 
+demonstrating the lower emissions profile of Australian canola, which has subsequently been recognised by the 
+European Commission (Sevenster 2023).
+The continuing expansion of the GO Scheme provides a mechanism to incorporate data specific to Australian systems 
+and best-practice carbon accounting. This includes the potential recognition of site-specific emissions data (where 
+supported by evidence and third-party verification), and for alignment with Australia’s voluntary emissions estimation 
+in improving emissions calculation practices at the farm level, including a $6.4m investment supporting farm-level 
+GHG emissions calculators and tools to align with those guidelines. It is also investing in the Carbon Farming Outreach 
+Program, to help producers to better understand emissions management opportunities.
+Ongoing industry engagement in certification development, including the GO Scheme, will be critical to making sure 
+systems are both credible and workable. More RD&E and better commodity-level and regional emissions data can 
+help refine default emissions factors, better reflecting Australia’s emissions intensity advantage and strengthening 
+confidence in emissions outcomes. Better availability of high-quality emissions data, especially for developing and 
+emerging feedstocks, will support more accurate and defensible outcomes and could, over time, reduce reliance on 
+generic defaults.
+By continuing to engage in the overarching policy development, producers can help shape frameworks that recognise 
+Australian production practices, stay aligned with international systems where suitable and allow low-emissions 
+feedstocks to capture their value.
+23
+
+7.3 
+Sustainability beyond emissions
+International bioenergy frameworks increasingly include sustainability criteria beyond emissions, covering issues 
+such as water use, soil health, biodiversity and social factors. For Australian producers, many of these requirements 
+align with existing regulation, although gaps can remain between minimum compliance and best-practice 
+sustainability outcomes.
+There are differing views on how sustainability frameworks and certification schemes should be applied to a future 
+domestic bioenergy sector. Stakeholders have noted that sustainability standards are important to build social 
+licence and, at minimum, reduce reputational risks from imported feedstocks produced outside Australia’s regulatory 
+jurisdiction. But these will likely add complexity and regulatory burden for producers. Developing a bespoke framework 
+could better reflect Australian production systems than existing international schemes but could create challenges for 
+interoperability with international markets.
+industry to introduce a LCLF demand-side policy which will articulate the core market requirements for biofuels used 
+here in Australia. Development of this policy will involve consideration of sustainability and certification in more detail 
+in order to resolve issues around domestic market requirements.
+7.4 
+Traceability and system integrity
+Traceability is central to certification systems and underpins confidence in emissions and sustainability claims. As 
+value increasingly depends on certified attributes, effective traceability becomes essential for market participation. 
+Without it, emissions outcomes cannot be substantiated, market access is limited and feedstocks cannot capture their 
+full value. Robust chain-of-custody arrangements are needed to verify inputs, allocate emissions across co-products 
+and prevent fraud, non-compliance and double counting, especially in systems involving co-processing, blending and 
+international trade.
+Traceability systems will need to keep developing as supply chains become more complex and internationally 
+integrated. The GO Scheme and international certification schemes such as the International Sustainability and 
+Carbon Certification (ISCC) and the Roundtable on Sustainable Biomaterials (RSB) are likely to play an important role in 
+meeting these requirements. Further consideration of traceability needs will be considered during policy design for the 
+demand-side measure.
+
+7.5 
+Integration with food, fibre and feed systems
+Some stakeholders, particularly in the intensive livestock sector, have raised concerns that using edible feedstocks 
+for bioenergy could intensify competition for agricultural commodities, potentially driving price pressures and supply 
+constraints that could have downstream impacts on food affordability and security. This is not just a domestic concern. 
+Some international regulatory frameworks have taken steps to cap the proportion of food crop-derived biofuels within 
+their overall energy mix and are positioning for an eventual phase-out. However, these approaches can overlook the 
+diversified and complementary nature of primary production systems, which have in-built risk mitigations.
+Bioenergy feedstocks are produced within multifunctional agricultural and forestry systems that produce a range of 
+outputs alongside food and fibre. Industry feedback identified no material constraint or conflict in the short term 
+between feedstock production and food, fibre or other outputs.
+Australia already produces and trades large volumes of commodities such as canola into global bioenergy markets, 
+showing that our production systems can support multiple uses. Our agricultural innovation system continues to 
+drive productivity improvements within existing cropping footprints. It is also important to consider that reliable 
+and affordable liquid fuels are essential inputs to agricultural production, processing and distribution. Strengthening 
+domestic LCLF production therefore supports the resilience of the food system to supply shocks.
+Evidence also points to co-benefits from integrated production systems and value stacking, where a single feedstock 
+supports multiple food, feed and fuel outputs. It is possible that an increased supply of co-products from bioenergy 
+production, such as canola meal and distillers’ dried grains, could be utilised in the animal feed industry (though this 
+will depend on consistent supply and suitable nutritional properties). In Australia, canola and other oilseeds are grown 
+in rotation with cereal grains and serve as a useful break crop with benefits for disease and pest management, which 
+supports food production.
+Diversification of feedstocks will be an important part of addressing concerns around competition with food and fibre 
+production in the longer term. While first-generation feedstocks remain among the most commercially ready and 
+lowest-cost options in the short term (CEFC 2025), Australia will need a diversified feedstock base to achieve scale and 
+reduce over-reliance on individual commodities. This includes expanding the use of non-edible residues, by-products 
+and novel energy crops, which may be grown on marginal lands. Even so, as demand for feedstocks grows, it will be 
+important to maintain visibility over land use, input allocation and price signals as systems evolve.
+While major competition issues appear unlikely in the short term, maintaining social licence will require a robust and 
+transparent evidence base that demonstrates how feedstock production can align with other national objectives. 
+That means better data on trends in feedstock cultivation and collection, co-product and market flows, a stronger 
+understanding of system interactions, and mitigation strategies for emerging risks. There is an opportunity for industry 
+and governments to work together to strengthen the evidence base and ensure overarching policy settings do not 
+lead to unintended outcomes. In the meantime, there is an opportunity for the feedstock industry to be proactive 
+in addressing concerns regarding competition for resources, and to engage with other affected industries to ensure 
+complementarity can be maintained.
+25
+
+8	 Priority area: building 
+sector capability
+Developing a domestic bioenergy feedstock industry will depend on Australia’s ability to translate strong existing 
+agricultural capability into new, integrated supply chains. The sector starts from a position of productivity, adaptability 
+and global competitiveness, but participating in bioenergy markets introduces new requirements, especially around 
+information, coordination and market engagement. Targeted capability uplift across the supply chain will be needed  
+to support confident participation, reduce coordination gaps and enable a connected, investable and scalable industry.
+Enhancing coordination, skills, workforce planning and policy alignment across the supply 
+chain to enable confident participation in new markets.
+Future direction:
+ Strengthen connections, communication and collaboration across feedstock  
+production, aggregation, processing and end-use markets.
+ Improve access to credible, practical and evidence-based information across  
+the supply chain.
+ Develop tools, guidance and market frameworks that reduce barriers to participation  
+and improve market transparency.
+ Build workforce capability and incorporate workforce needs into regional and supply 
+chain planning.
+ Strengthen policy coordination and collaboration across sectors, jurisdictions and supply 
+chain participants.
+26
+
+8.1 
+Strong existing base to support industry development
+Australian agriculture is well placed to support a domestic bioenergy industry. Australia’s natural resource base, 
+institutional settings and export orientation, with more than two-thirds of production exported, reinforce this 
+capability. Producers continue to adapt to climate variability and changing market demands, and operate in highly 
+constrained environments, with only about 6% of agricultural land suitable for annual cropping (AFI 2014). This has 
+driven efficient and resilient production systems.
+These strengths are already visible in Australia’s participation in international bioenergy supply chains. But scaling 
+a domestic LCLF industry creates new dynamics. Historically, agriculture and fuel manufacturing have operated 
+largely separately. Bringing them together will require stronger coordination, new capabilities and better market 
+understanding. Without targeted capability uplift, participation is likely to remain uneven, which will limit the pace and 
+scale of industry development.
+8.2 
+Integration across the supply chain
+Bioenergy feedstocks are part of a new and more integrated value chain that requires alignment across production, 
+aggregation, processing and end use. Participation means meeting emerging market requirements, including emissions 
+accounting, product quality and certification.
+Stronger connectivity across the supply chain is therefore critical. This includes improving two-way understanding 
+between producers and fuel manufacturers, increasing visibility of feedstock availability, and helping producers 
+understand market requirements and risks.
+This capability uplift must go both ways. Feedstock buyers need practical understanding of agricultural systems and 
+constraints, while producers need clarity about downstream demand and commercial terms. Better integration will 
+support stronger contracting, reduce risk and improve investment readiness.
+Industry partnerships show what this can look like in practice. Long-term agreements, such as those for certified 
+carinata oil, show how coordinated engagement can align production systems with fuel market requirements and give 
+both producers and investors more confidence (Box 9).
+Box 9 Industry led connectivity across supply chains - Nuseed, bp and carinata
+Nuseed carinata is a proprietary low-carbon oilseed cover crop that is certified by the RSB for the EU RED market, 
+as a low-carbon fuel feedstock (Nufarm 2019). Nuseed and bp Products North America Inc. have entered into a 
+10-year strategic agreement for the supply of carinata oil for sustainable biofuel production (bp 2022).
+Under the agreement Nuseed will expand its existing network of growers and supply chain partners to deliver 
+certified carinata oil. Carinata has potential to be integrated, in rotation, in existing cropping regions and more 
+marginal areas that may have physical or economic restrictions for conventional crops. It can also be grown 
+as a break crop for irrigated systems (such as cotton), that normally have an extended fallow period (Grains 
+Central 2024).
+Commercial scale trials of Nuseed’s non-food oilseed carinata varieties are under way in Australia, with plots 
+located in cotton-growing regions of New South Wales and southern Queensland. The communication of 
+trial outcomes will allow growers and Nuseed to evaluate carinata’s value proposition and enable informed 
+evidence-based conversations around participation in developing supply chains.
+27
+
+8.3 
+Ensuring accessible information flow
+Accessible, credible and fit-for-purpose information underpins sector capability. Better information flow helps 
+stakeholders across the supply chain understand risks and make decisions about investment and participation.  
+It also supports stronger connections between feedstock producers and downstream participants, helping build 
+markets and more efficient supply chains.
+Extension services, RDC programs and state and territory initiatives all play an important role, but stakeholders said 
+information remains fragmented, uneven in quality and not always aligned with user needs. Better coordination and 
+and quality standards) and more practical, evidence-based guidance, will lower barriers to entry and support more 
+consistent participation.
+and work to establish a national LCLF knowledge hub. This hub will help address current gaps by providing a central, 
+publicly accessible platform for validated information, including case studies, datasets and technical guidance (Box 10). 
+Over time, maintaining the quality, relevance and usability of this information through ongoing collaboration between 
+government, industry and research organisations will be critical to helping the sector build capability and respond to 
+changing market conditions.
+Alongside better access to information, there is also a role for industry-led tools and frameworks that support 
+participation in emerging feedstock markets. Stakeholders said standard approaches such as template contracts,  
+pricing frameworks and guidance materials could reduce transaction costs, clarify commercial arrangements and 
+support more consistent engagement between producers, aggregators and end users. Similar industry-led initiatives 
+in other markets, such as codes of practice and landholder guidance, show how this can build confidence, improve 
+transparency and help markets form more quickly.
+Box 10 Low carbon liquid fuel knowledge hub
+An iMove CRC project being progressed through the Queensland University of Technology will deliver a LCLF 
+knowledge hub to serve as Australia’s primary evidence-based platform for LCLF information, communication, 
+and stakeholder engagement. The publicly accessible hub will consolidate reputable and validated information, 
+including factsheets, databases and case studies, into an intuitive online resource. It will include relevant 
+feedstock specific information.
+Delivery of the hub will accelerate national understanding, collaboration, and investment in LCLF technologies 
+and feedstocks by providing an authoritative and accessible resource for stakeholders (iMove 2025).
+28
+
+8.4	
+Workforce planning
+The development of feedstock markets creates new workforce requirements across production, logistics and 
+processing. Many relevant skills already exist, but they are not always aligned with the specific needs of bioenergy 
+supply chains.
+Targeted workforce planning can help identify and address skill gaps early, reducing risks to project delivery and 
+industry growth. Embedding workforce considerations into regional and project planning will help ensure labour 
+availability supports industry development rather than constrains it.
+Access to reliable information and stronger coordination across stakeholders will also support workforce 
+capability uplift.
+8.5	
+Coordinated policy
+Clear, consistent and coordinated policy settings are essential to support capability building and market confidence. 
+Feedstocks need to be treated as a central part of bioenergy policy, not just as an upstream input. This requires active 
+representation of feedstock stakeholders in policy development, alignment across agriculture, energy, transport and 
+environmental portfolios, and consistent signals that support investment, participation and long-term confidence.
+across the value chain will be important to ensure feedstock industry development is embedded in a coordinated policy 
+approach. Existing structures such as the Australian Jet Zero Council can help strengthen this coordination.
+territories through existing intergovernmental forums. The Agriculture Ministers’ Meeting (AMM) and Forestry 
+Ministers’ Meeting (FMM) bring together ministers from all jurisdictions with responsibility for primary industries 
+and forestry. These meetings, and their subordinate committees, can provide a forum for national collaboration on 
+bioenergy industry development. Continuing this work will remain important, including collaboration on capability 
+building and stronger community engagement.
+
+Term
+Definition
+ABARES
+Australian Bureau of Agricultural and Resource Economics and Sciences
+ABBA
+Australian Biomass for Bioenergy Assessment
+AgriFutures
+An Australian research and development corporation representing 13 rural industries  
+and across a range of emerging rural industries.
+alcohol-to-jet (AtJ)
+The process of converting alcohol (typically ethanol) to jet fuel through a series  
+of catalytic reactions.
+AMM
+Agricultural Ministers’ Meeting
+ARENA
+Australian Renewable Energy Agency
+bioenergy
+A form of renewable energy generated from the conversion of biomass resources  
+into heat, electricity, gas, and/or liquid fuels.
+biomethane
+A renewable gas produced by upgrading biogas (derived from organic waste) into  
+a near‑pure methane that is chemically equivalent to natural gas and can be used  
+as a drop in fuel.
+biofuel
+A renewable, combustible fuel made from organic materials, which can be blended with 
+fossil fuel. Term commonly refers to liquid fuels but can also include gaseous and solid fuels.
+byproducts  
+and residues
+Materials that remain after the primary processing of agricultural and forestry biomass 
+which can have alternative purposes, including bioenergy.
+carinata
+A non-edible oilseed crop, grown between main crop rotations and used as a lower carbon 
+liquid fuel feedstock.
+CEFC
+Clean Energy Finance Corporation
+CO2-e
+Carbon dioxide equivalents
+co-product
+Biogenic materials that are intentionally produced alongside the main agricultural  
+or forestry production process and have specific market uses or value.
+CRC
+Cooperative Research Centre
+CSIRO
+Commonwealth Scientific and Industrial Research Organisation
+DAFF
+densification
+The use of heating and pressure to increase the density and energy of biomass, resulting in 
+products such as pellets or briquettes.
+DLUC
+Direct land use change
+e-fuels
+Electro-fuels, produced with green hydrogen and a non-fossil source of carbon.
+feedstock, biogenic
+Biological materials that are used as input to process energy carriers including liquid fuels 
+and gases. These materials can come from agricultural crops (such as oilseeds), agricultural 
+and forestry residues, livestock waste, or even municipal solid waste.
+Fischer-Tropsch 
+(FT)
+The process of converting feedstocks (primarily lignocellulosic and wastes) to syngas 
+through FT synthesis pathways.
+FMM
+Forestry Ministers’ Meeting
+generations 
+(feedstock)
+Categorisation of biomass and biofuels as first (from edible sources), second  
+(non-edible sources), and third (algae and other microorganisms) generation.
+Glossary
+30
+
+Term
+Definition
+GHG
+Greenhouse gas
+GO Scheme
+Guarantee of Origin Scheme
+Hydroprocessed 
+Esters and Fatty 
+Acids (HEFA)
+The use of hydrogen and a catalyst to process high-fat content feedstocks (such as oilseeds) 
+to create liquid biofuels, including biodiesel and sustainable aviation fuel.
+ICAO
+International Civil Aviation Organisation
+ILUC
+Indirect land use change
+ISCC
+International Sustainability and Carbon Certification
+LCA
+Lifecycle assessment
+lignocellulosic
+Biomass derived from dry plant matter, including agricultural residues, forestry  
+residues, and short rotation trees.
+low carbon liquid 
+fuel (LCLF)
+Alternative liquid fuels with lower lifecycle emissions compared to fossil fuels.  
+Commonly (but not exclusively) produced with biogenic feedstocks.
+LUC
+Land use change
+MT
+Mega tonne
+PGO Certificate
+Product Guarantee of Origin Certificate
+PJ
+Petajoule
+pongamia
+A drought-tolerant oilseed crop that can be grown on marginal land and used  
+as LCLF feedstock.
+PtL
+Power-to-liquid
+RDA
+Regional Development Australia
+RDC
+Research Development Corporation
+RED
+Renewable Energy Directive
+renewable diesel
+A ‘dop in’ LCLF that is chemically similar to standard diesel and can be used directly  
+in existing diesel engines without modifications.
+RSB
+ Roundtable on Sustainable Biomaterials
+SRT
+Short rotation tree
+sustainable aviation 
+fuel (SAF)
+A LCLF replacement to traditional jet fuels produced from a range of feedstocks,  
+that meets aviation fuel standards and reduces lifecycle emissions.
+torrefaction
+The heating of biomass in an oxygen-limited environment, to improve energy density  
+and reduce water content.
+waste
+Materials or products that are unwanted, surplus, discarded, rejected, abandoned  
+or left over, including those materials or products intended for or managed by recycling, 
+energy recovery, treatment, storage and disposal.
+31
+
+References
+ABARES 2023, ABARES Insights: Environmental sustainability and agri-environmental indicators – international 
+comparisons, Australian Bureau of Agricultural and Resource Economics and Sciences, Issue 2, Canberra, July,  
+DOI: https://doi.org/10.25814/zzdq-4t23, accessed 28 May 2026
+ABARES 2026a, Agricultural Commodities: March quarter 2026, Australian Bureau of Agricultural and Resource 
+Economics and Sciences, Canberra, DOI: 10.25814/98pm-3f48, accessed 17 April 2026.
+ABARES 2026b, Snapshot of Australian Agriculture 2026, Australian Bureau of Agricultural and Resource Economics  
+and Sciences, Canberra, accessed 21 April 2026.
+AB 2024, Ararat Bioenergy reaches key project milestone, Ararat Bioenergy, Melbourne, accessed 21 April 2026.
+AFI 2014, Optimising Australian agricultures competitive advantages, Australian Farm Institute, Canberra, accessed 
+21 April 2026.
+AgriFutures 2021, Australian Biomass for Bioenergy Assessment 2015-2021 Final report, AgriFutures Australia,  
+Wagga Wagga, accessed 10 December 2025.
+AgriFutures 2026, Australian Agriculture Fisheries and Forestry Sector Energy Transition Roadmap 2026-2035, 
+AgriFutures Australia, Wagga Wagga, accessed 7 May 2026.
+ARC 2025, Ararat Rural City Council Leads Push for Renewable Gas, Ararat Rural City Council, Ararat, accessed 
+21 April 2026.
+ARENA, CEFC 2019, Biofuels and Transport: An Australian Opportunity, Australian Renewable Energy Agency and Clean 
+Energy Finance Corporation, accessed 20 April 2026.
+ARENA 2021, Australia’s Bioenergy Roadmap, Australian Renewable Energy Agency, Canberra, accessed 
+10 December 2025.
+Bioenergy Australia 2022, Transitioning Australia’s Liquid Fuel Sector: The role of renewable fuels, Bioenergy Australia 
+Pty Ltd, Canberra, accessed 10 December 2025.
+Bioenergy Australia 2025, Securing our Fuel Future: Resilience Through Low Carbon Liquid Fuels, Bioenergy Australia 
+Pty Ltd, Canberra, accessed 10 December 2025.
+Bp 2022, bp welcomes strategic agreement with Nuseed Carinata, Air bp, Melbourne, accessed 21 April 2026.
+CBH 2026, Storage and Handling, CBH Group, Perth, accessed 24 April 2026.
+CSIRO 2023, Sustainable Aviation Fuel Roadmap, Commonwealth Scientific and Industrial Research Organisation, 
+Canberra, accessed 10 December 2025.
+CSIRO 2025a, Opportunities and Priorities for a Low Carbon Liquid Fuel Industry in Australia, Commonwealth Scientific 
+and Industrial Research Organisation, Canberra, accessed 10 December 2025.
+CSIRO 2025b, The State of Energy Transition Technologies: Low Carbon Fuels Technical Appendix, Commonwealth 
+Scientific and Industrial Research Organisation, Canberra, accessed 29 May 2026.
+CEFC 2025, Refined Ambitions: Exploring Australia’s Low Carbon Liquid Fuel Potential, Clean Energy Finance 
+Corporation, Sydney.
+DCCEEW 2025, Australian Energy Statistics: Energy Consumption (Table C), Department of Climate Change, Energy,  
+the Environment and Water, Canberra, accessed 23 April 2026.
+32
+
+DCCEEW 2026, Securing Australia’s Cleaner Fuels Industry: Consultation paper on a demand mechanism,  
+Department of Climate Change, Energy, the Environment and Water, Canberra, accessed 10 July 2026.
+European Union, Directive 2018/2001 of the European Parliament and of the Council on the Promotion of the Use 
+of Energy from Renewable Sources, accessed 24 March 2026
+GIWA 2025, GIWA Crop Report – February 2025, Grain Industry Association of Western Australia, Perth, accessed 
+24 April 2026.
+Grains Central 2024, Nuseed trials, talks up carinata as fit with cotton, Grain Central, Brisbane, accessed 21 April 2026.
+GrainCorp 2026, From Paddock to Plane: Feedstock White Paper. Unlocking Australia’s domestic sustainable aviation 
+feedstock potential, accessed 10 July 2026.
+GRDC 2025, Low Carbon Liquid Fuels Roadmap, Grains Research Development Corporation, Canberra, accessed 
+20 April 2026.
+HAMR 2025a, Portland Renewable Fuels, HAMR Energy, Melbourne, accessed 21 April 2026.
+HAMR 2025b, Methanol to Jet SAF Energy Park, HAMR Energy, Melbourne, accessed 21 April 2026.
+IEA 2024, What is bioenergy?, International Energy Agency, Paris, accessed 27 May 2026.
+IEA 2025a, Renewables 2025: Analysis and forecasts to 2030, International Energy Agency, Paris, accessed 
+30 April 2026.
+IEA 2025b, Outlook for Biogas and Biomethane: A global geospatial assessment, International Energy Agency, Paris, 
+accessed 22 May 2026.
+IEA Bioenergy 2026, Task 43: Biomass Supply in a Nature Positive Circular Economy (2025-2027 Workplan), 
+International Energy Agency, Paris, accessed 27 May 2026.
+iMove 2025, Low Carbon Liquid Fuels Knowledge Hub, iMove Australia, Melbourne, accessed 21 April 2026.
+NSW DPI 2025, NSW BioSMART Tool, NSW Department of Primary Industries and Regional Development, Orange, 
+accessed 21 April 2026.
+Nufarm 2019, Carinata new to Nuseed’s Global Portfolio, Nufarm Limited, Melbourne, accessed 21 April 2026.
+Office of the Auditor General 2013, Management of the Rail Freight Network Lease: Twelve Years Down the Track  
+(PDF 823K) Office of the Auditor General, Western Australia, accessed 24 April 2026.
+Sevenster, Maartje 2023, Greenhouse gas emissions from the cultivation of canola oilseed in Australia, CSIRO, 
+Canberra, accessed 20 May 2026.
+33
+
+AGR042.0726

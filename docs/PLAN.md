@@ -399,7 +399,9 @@ scope-first.
    schedules, alerts, authorised document search, cached weather, and the
    controlled current-weather lookup. Each re-derives scope from the principal.
 2. Proposal tools: draft a task, draft a task update, request a FarmFlow schedule
-   proposal. None writes an active record.
+   proposal. None writes an active record. Task drafts do **not** include
+   scheduling feasibility pre-checks (feasible / better time / infeasible); that
+   combined chat flow is deferred to Phase 11+.
 3. Draft lifecycle `draft → confirmed / rejected / expired`, where only human
    confirmation writes durable task or task-update data.
 4. Tools-before-generation orchestration: all selected tools complete before the
@@ -446,6 +448,20 @@ starts when its trigger fires and its owner confirms the evidence.
 | Model-driven tool calling | Orchestrator-selected tools measurably mis-select on the gold set, and auditability of a model loop can be preserved | AI | Medium |
 | External monitoring platform | Structured logs and `/healthz` prove insufficient during shared-demo instability | PL | Medium |
 | Separate staging environment | The shared demo becomes too unstable for safe integration work | PL | Small |
+| Chat-integrated task feasibility | POC or demo shows owners confirming task drafts without scheduling context, **or** product scope requires immediate feasible / better-time / infeasible guidance at draft time (before owner confirmation) | AI, SCH | Medium |
+
+**Chat-integrated task feasibility (detail).** Combines conversational task
+creation with a deterministic FarmFlow pre-check. The owner describes work in
+chat; the assistant produces a task draft **and** calls a read-only scheduling
+evaluation (not placement) that returns one of: **feasible** (proposed slot or
+window), **better alternative** (suggested time with structured reasons), or
+**infeasible** (blocking constraints). The assistant explains the result in
+natural language; FarmFlow owns the evaluation logic (ADR 0006). Requires a
+Scheduling-team API (e.g. `POST /api/task-feasibility-evaluations`) accepting
+hypothetical task fields against current approved structured state and weather;
+assistant exposes it as a registry read tool (e.g. `evaluate_task_feasibility`).
+Orchestration chains `draft_task` → feasibility evaluation before the owner
+sees the confirmation surface. Does not write tasks, schedules, or placements.
 
 Deferral is a decision, not a backlog. An item without a fired trigger is not
 "coming later" — it is currently out of the system by design.

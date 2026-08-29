@@ -1,0 +1,730 @@
+National Animal Health 
+Diagnostics Business Plan 
+2021 to 2026: project updates 
+November 2025
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+ii 
+© Commonwealth of Australia 2025 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+Forestry, Canberra, November. CC BY 4.0. 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for 
+any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the 
+information or data in this publication to the maximum extent permitted by law. 
+Acknowledgements 
+The authors thank stakeholders for their input into this project update report. 
+Acknowledgement of Country 
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and 
+waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, and 
+recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, 
+fisheries and forestry industries.
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+iii 
+Contents 
+Introduction ................................................................................................................................. 4 
+Objective 1 ................................................................................................................................... 5 
+Objective 2 ................................................................................................................................... 8 
+Objective 3 .................................................................................................................................. 11 
+Objective 4 .................................................................................................................................. 15 
+Objective 5 .................................................................................................................................. 16 
+Glossary ...................................................................................................................................... 17 
+Tables 
+Table 1 Objective 1 projects .................................................................................................................... 5 
+Table 2 Objective 2 projects .................................................................................................................... 8 
+Table 3 Objective 3 projects .................................................................................................................. 11 
+Table 4 Objective 4 projects .................................................................................................................. 15
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+4 
+Introduction 
+The National Animal Health Diagnostics Business Plan 2021 to 2026 (NAHDBP) aims to further 
+develop and strengthen the animal health diagnostics component of Australia’s animal health 
+system. Animal health professionals and diagnostic experts from governments, private laboratories 
+and the university sector collaborated to develop the NAHDBP. 
+The NAHDBP guides the efficient and effective delivery of nationally coordinated activities to 
+maintain and continually improve our national diagnostic capability and capacity. It is consistent with 
+nationally agreed principles and objectives for biosecurity as defined under Australia’s 
+Intergovernmental Agreement on Biosecurity and, importantly, it complements the Animalplan 2022 
+to 2027. 
+Responsibility for implementing activities under the NAHDBP resides with the Subcommittee on 
+Animal Health Laboratory Standards (SCAHLS), with guidance and oversight from the Animal Health 
+Committee (AHC) and funding identified through various sources. 
+This report provides an overview on the progress of each project linked to a NAHDBP objective. It 
+summarises the project activities supported by the department. However, it does not cover all 
+activities conducted under the NAHDBP from 2021 to 2026. Future reports may include activities 
+across additional stakeholder groups. 
+For further information on the listed projects, email animalhealthlaboratories@aff.gov.au.
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+5 
+Objective 1 
+To enable high-throughput sequencing (HTS) usage and the application of HTS data to enhance animal disease investigations. 
+Table 1 Objective 1 projects 
+Australian Biosecurity 
+Genomic Database (ABGD) 
+for notifiable terrestrial 
+animal viruses: Phase 1 
+AgriBio 
+(Victoria) 
+Department 
+of 
+Agriculture, 
+Fisheries and 
+Forestry 
+(DAFF) 
+This project developed a verified genomic 
+database of notifiable terrestrial animal 
+disease viruses in Australia to facilitate a more 
+robust and efficient application of HTS for 
+Australian biosecurity surveillance and disease 
+detection. 
+See: ABGD for notifiable animal 
+pathogens: Phase 2 
+ABGD for notifiable animal 
+pathogens: Phase 2 
+AgriBio 
+(Victoria) 
+This project built upon ABGD Phase 1 by 
+expanding the database to include verified 
+sequences from viruses associated with 
+Australia's national list of reportable diseases 
+of aquatic animals. 10 new verified whole 
+genome sequences from recent local terrestrial 
+and aquatic outbreaks were uploaded 
+improving utility of the database. 
+See: ABGD: Phase 3
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+6 
+ABGD: Phase 3 
+AgriBio 
+(Victoria) 
+This project built on previous phases of the 
+ABGD project. Phase 3 aimed to add additional 
+viral subtypes, expand to state based notifiable 
+diseases, trial the inclusion of bacterial 
+pathogens, and determine a long-term solution 
+for database maintenance. 
+This project concluded in May 
+2025. The expanded ABGD 
+Version 3 contains 202 reference 
+genome sequences for viruses 
+associated with diseases of 
+terrestrial and aquatic animals in 
+Australia that are notifiable or 
+reportable at the national, state 
+and territory levels. A manuscript 
+was accepted into the journal 
+Database: The Journal of 
+Biological Databases and 
+Curation. 
+A draft eLearning module is being 
+further developed in collaboration 
+with a software provider. 
+Bioplatforms Australia has been 
+engaged to host a standalone 
+webpage for the ABGD project, 
+which is currently under 
+development. 
+Developing lumpy skin 
+disease (LSD) and African 
+horse sickness whole 
+genome sequencing 
+workflows 
+CSIRO 
+Australian 
+Centre for 
+Disease 
+Preparedness 
+(ACDP) 
+This project developed robust whole genome 
+sequencing procedures for both LSD virus and 
+African horse sickness virus to mitigate the 
+consequences of their outbreaks in Australia. 
+The genomic sequencing probes and 
+procedures, now available at ACDP, will be an 
+invaluable resource in the event of an LSD 
+outbreak in Australia. 
+Northern Australia 
+biosecurity sequencing 
+(NABSeq): high throughput 
+sequencing (HTS) facility 
+and network to enhance 
+northern Australian 
+biosecurity 
+Berrimah 
+Veterinary 
+Laboratory 
+(Northern 
+Territory) 
+Charles 
+Darwin 
+University 
+This project aims to improve northern 
+Australia’s ability to identify and respond to 
+future biosecurity challenges; and provide 
+more effective biosecurity risk management 
+through modernisation of disease detection 
+resources and surveillance in the region. 
+Extended 
+NABSeq continues to enhance 
+northern Australia’s HTS 
+capability. The project has been 
+extended to establish a 
+sustainable business model, train 
+project scientists on HTS 
+workflows for emergency animal 
+diseases (EAD) diagnosis and 
+improve quality assurance for 
+HTS capacity. 
+The next milestone report is due 
+January 2026 and it is anticipated 
+the project will be completed by 
+June 2026.
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+7 
+Quality assurance for HTS 
+as an infectious agent 
+discovery tool 
+This project aimed to establish standardised 
+workflows for the use of HTS in infectious 
+agent discovery. It supported relevant national 
+diagnostic HTS operating guidelines and 
+improves overall quality assurance, allowing 
+for high confidence when interpreting HTS 
+results. 
+This project concluded in June 
+2025. 
+ACDP approved standard operating 
+procedures (SOPs) will be 
+submitted to SCAHLS for 
+evaluation and national approval, 
+and subsequent adoption by the 
+Laboratories for Emergency Animal 
+Disease Diagnosis and Response 
+(LEADDR) network. 
+Development of a 
+proficiency testing (PT) 
+program for HTS 
+bioinformatics within 
+LEADDR – a roadmap 
+This project developed a roadmap for a PT 
+program using diagnostic HTS and 
+bioinformatics within the LEADDR network. 
+This was achieved through conducting a 
+planning workshop with LEADDR members to 
+inform development of a business plan. 
+This project commenced in 
+March 2025 and concluded in 
+June 2025. 
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+8 
+Objective 2 
+To scope and improve the national surge capacity of laboratory networks, including both government and non-government laboratories, during emergency 
+animal disease (EAD) responses. 
+Table 2 Objective 2 projects 
+National laboratory 
+simulation exercise 
+planning 
+SCAHLS 
+All jurisdictional 
+animal health 
+laboratories 
+SCAHLS, through leadership of DAFF 
+and an expert consultant, have 
+completed the process of finalising a 
+business plan to guide the roadmap for 
+a national laboratory-focused 
+simulation exercise. This exercise will 
+assist in the identification of training 
+and means by which to improve the 
+surge capacity of Australian animal 
+health laboratory networks in response 
+to major EAD outbreaks. 
+See: National laboratory 
+simulation exercise (Exercise 
+Waterhole)
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+9 
+National laboratory 
+simulation exercise 
+(Exercise Waterhole) 
+SCAHLS 
+All jurisdictional 
+animal health 
+laboratories 
+Following a scoping report completed 
+in 2022, Exercise Waterhole included a 
+series of discussion workshops over 
+September and October 2023 and 
+concluded with a functional exercise in 
+early November 2023. The exercise 
+activities tested and evaluated national 
+laboratory preparedness for a major 
+EAD incursion across the spectrum of 
+laboratory services in Australia. A dual 
+disease scenario was simulated 
+involving a primary outbreak of LSD in 
+northern Australia, and a concurrent 
+outbreak of highly pathogenic avian 
+influenza (HPAI) in southern Australia. 
+Outcomes, including 
+recommendations, also aimed to 
+inform future planning for laboratory 
+preparedness for and response to 
+EADs. 
+The Exercise Waterhole 
+report endorsed by AHC is 
+now available at Exercise 
+Waterhole - DAFF 
+DAFF will host a webinar on 
+actions taken to address 
+recommendations of Exercise 
+Waterhole. 
+Building a sustainable 
+national sample 
+identification system for 
+animal diagnostics - A pilot 
+study using pre-barcoded 
+sample collection tubes 
+AgriBio (Victoria) 
+Gribbles VETLAB 
+– Department of 
+Primary 
+Industries and 
+Regions (South 
+Australia) 
+This project investigated pre-barcoded 
+sample tubes to mitigate the 
+bottleneck of manual labelling in 
+disease outbreak responses. AgriBio 
+conducted several pilot trials of 
+selected sample tubes from the field to 
+the laboratory. Trials were also 
+conducted with the South Australian 
+animal health laboratory service and 
+ACDP to test its potential for use as a 
+national system. 
+This project was delayed due 
+to outbreak responses and 
+was completed in May 2025. 
+SCAHLS will consider and assess a 
+national laboratory pre-barcoded 
+sample system based on the 
+project output which will be 
+developed by its recently formed 
+working group.
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+10 
+Scoping a centralised 
+national laboratory 
+stockpile for emergency 
+animal disease responses  
+SCAHLS 
+The LEADDR 
+network 
+Exercise Waterhole highlighted the 
+need for improved management of 
+baseline or centralised stockpiles of 
+laboratory supplied (Recommendation 
+16). In response, a National Laboratory 
+Stockpile Workshop was held in March 
+2025 to explore a centralised stockpile 
+for EAD responses. A scenario-based 
+exercise was used to assess the 
+requirements for a national stockpile. 
+The project commenced in 
+February 2025 and concluded 
+in March 2025. 
+SCAHLS and LEADDR continue to 
+implement actions identified in the 
+workshop as next steps. 
+Sample Tracking and 
+Reporting System (STARS) 
+enhancement 
+This project redeveloped the CSIRO-
+STARS network for enhanced 
+biosecurity and laboratory 
+management system interoperability at 
+both national and jurisdictional levels. 
+The expansion of software capability 
+and improved performance to facilitate 
+integration of a wider group of users to 
+the network will improve Australia’s 
+ability to respond to EAD outbreaks. 
+See: National deployment of STARS 
+v2: Phase 1 
+National deployment of 
+STARS v2: Phase 1 
+ACDP 
+AgriBio (Victoria) 
+Biosecurity 
+Sciences 
+Laboratory 
+(Queensland) 
+Gribbles VETLAB - 
+Department of 
+Primary 
+Industries and 
+Regions (South 
+Australia) 
+This project seeks to deploy ACDP’s 
+STARS v2 in three jurisdictions. To 
+achieve this ACDP will migrate current 
+STARS nodes from the existing legacy 
+STARS v1 client to STARS v2, assist 
+jurisdictional staff to navigate 
+integration and/or deployment of 
+software, and provide implementation 
+support by configuring software to 
+each jurisdiction’s application/security 
+landscape. 
+On track 
+Implementation of STARS v2 
+has commenced in 
+Queensland, Victoria and 
+South Australia. The progress 
+was also presented to 
+SCAHLS for noting and 
+discussion in September 
+2025. 
+The next milestone report is due 
+November 2025, and the project is 
+estimated to conclude in April 
+2026.
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+11 
+Objective 3 
+Introduce a suite of validated diagnostic assays to LEADDR laboratories targeting priority disease threats to Australian animal species. 
+Table 3 Objective 3 projects 
+Evaluation of antibody-
+detecting immunoassays for 
+LSD in cattle and buffalo 
+This project evaluated the 
+suitability of 3 antibody 
+detection enzyme-linked 
+immunosorbent assays 
+(ELISAs) for LSD 
+surveillance, and proof-of-
+freedom testing, in cattle 
+and buffalo in Australia.  
+This project concluded in May 2025.  
+An ELISA kit developed with a 
+commercial partner will be made 
+available for use by Australian 
+laboratories via the LEADDR network.  
+Establishing networked 
+serological testing 
+capability for African Swine 
+Fever 
+The LEADDR 
+network 
+This project established an 
+improved serological 
+testing capability for 
+African swine fever in 
+Australia by harmonising 
+quality assurance processes 
+and antibody-detection 
+ELISA capability via the 
+LEADDR network. 
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+12 
+LSD testing capacity 
+building in the LEADDR 
+network 
+The LEADDR 
+network 
+This project reinforced and 
+extended Australia’s LSD 
+testing capability by 
+enabling ACDP to 
+participate in international 
+PT. The project also 
+facilitated robust and 
+quality-assured national 
+capability through 
+implementation of PT and 
+monitoring for LSD via the 
+LEADDR Network. 
+The project was completed in June 2025, 
+resulting in an established PT program 
+for molecular — real-time quantitative 
+polymerase chain reaction (qPCR) and 
+serological — ELISA capabilities in the 
+LEADDR network. 
+MicroRNA biomarkers for 
+improved detection of 
+animal diseases in a Johne’s 
+disease (JD) model 
+This project evaluated the 
+use of host microRNA for 
+detection of JD in cattle and 
+provided a proof of concept 
+for the potential extension 
+of this approach to other 
+EADs. 
+This project was completed in January 
+2025. 
+See: Towards validation of a microRNA-
+based diagnostic test for JD  
+Towards validation of a 
+microRNA-based diagnostic 
+test for JD 
+This project further 
+developed and validated 
+molecular assays using host 
+microRNA biomarkers to 
+improve detection of JD. 
+This project was completed in May 2025. 
+Progress included completion of WOAH 
+diagnostic validation stage 1-3 activities. 
+In consultation with stakeholders, CSIRO 
+ACDP continue to seek support for a 
+longitudinal study of JD in calves to 
+further assess the molecular assay. 
+Developing 
+immunohistochemistry 
+(IHC) test for LSD 
+This Australian Centre for 
+Disease Preparedness 
+(ACDP) project developed 
+and characterised an IHC 
+test for the diagnosis and 
+investigation of LSD virus. 
+Equine piroplasmosis (EP) 
+diagnostic capability 
+development 
+This project built  ACDPs 
+serological diagnostic 
+capabilities for EP, caused 
+by Theileria equi and 
+Babesia caballi. 
+This project was completed in November 
+2024. Verification documents and a 
+comprehensive serological testing 
+algorithm have been developed. 
+See: Development of national equine 
+piroplasmosis molecular diagnostic test 
+capability
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+13 
+Development of national 
+equine piroplasmosis 
+molecular diagnostic test 
+capability 
+This project will develop 
+robust molecular 
+procedures for detecting T. 
+equi and B. caballi. These 
+molecular diagnostic tests 
+will complement the 
+recently developed 
+serological tests for equine 
+piroplasmosis (EP) in horses 
+at ACDP. 
+On track 
+A comparative analysis of available PCR 
+assays has been conducted to identify 
+and select the most suitable assay types 
+for validation within this project's scope. 
+The next milestone report is due 
+December 2025 and the project is 
+anticipated to be complete by May 2026. 
+Improve national diagnostic 
+capability for glanders 
+This project aims to build 
+our national diagnostic 
+capabilities for glanders, 
+caused by the bacterium 
+Burkholderia mallei. 
+Delayed 
+Development and optimisation of ELISA 
+and PCR assay protocols is complete, 
+along with acquisition of bacterial 
+isolates for PCR assay validation.  
+The final milestone report outlining 
+project delivery and evidence of 
+accreditation documents for submission 
+to National Association of Testing 
+Authorities (NATA) is due October 2025. 
+Assessment and 
+improvement of national 
+bluetongue serological 
+capability - a comparative 
+study of commercial and in-
+house ELISAs 
+This project aimed to 
+measure, assess, and 
+improve on current 
+bluetongue virus (BTV) 
+serological capabilities in 
+Australia to support 
+national BTV surveillance 
+and response activities. 
+The project was completed in June 2025. 
+A manuscript outlining the complexities 
+of BTV-group specific serology testing 
+has been published the peer-reviewed 
+journal Viruses. 
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+14 
+Improvement of serological 
+testing for flaviviruses in 
+Australian livestock 
+This project aimed to 
+develop a bead-based 
+multiplexed serological 
+(Luminex) assay for the 
+differential diagnosis of 
+various flaviviruses, suitable 
+for use in pigs and horses. 
+Successful uptake of this 
+new serological approach 
+at ACDP will enable faster, 
+higher-throughput testing, 
+and more sensitive/specific 
+testing for flaviviruses in 
+relevant livestock species. 
+This project concluded in October 2025. 
+Significant progress was made to 
+establish, optimise and assess the 
+Luminex assay for the differential 
+diagnosis of various flaviviruses in 
+livestock, further development is ongoing 
+at ACDP. 
+Assessment of molecular 
+DIVA capabilities for LSD 
+virus 
+This project aimed to assess 
+existing molecular 
+‘Differentiating Infected 
+from Vaccinated Animals’ 
+(DIVA) assays that are 
+based on real-time, or 
+quantitative PCR, to 
+determine if they are fit-
+for-purpose. 
+This project was completed in January 
+2025, with a DIVA testing algorithm 
+recommended for roll-out to the LEADDR 
+network.  
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+15 
+Objective 4 
+Pilot the validation template process for point of care (POC) tests used for specific purposes. 
+Table 4 Objective 4 projects 
+Development and 
+evaluation of a POC test 
+network for EAD diagnosis 
+EMAI (NSW) 
+This project developed a 
+suite of tests on a portable, 
+battery-operated 
+multiplexing qPCR platform 
+for the detection of major 
+EADs of cattle and pigs. It 
+aimed to establish a proof-
+of-concept for multiplexing 
+qPCR assays for emergency 
+animal pathogens suitable 
+for use under field 
+conditions. 
+This project concluded in April 2025. 
+A finalised dossier outlining the 
+validation approach used for POC 
+tests shared through SCAHLS. 
+Consultancy for policies, 
+strategies and operating 
+guidelines for POC testing 
+for infectious disease 
+This project supports 
+development of a nationally 
+consistent management 
+approach towards the use 
+of POC tests specific for 
+national notifiable and 
+reportable diseases in 
+terrestrial and aquatic 
+animals in Australia. 
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+16 
+Objective 5 
+Establish processes to develop and harmonise antimicrobial susceptibility-related diagnostic procedures across all relevant animal health laboratories 
+No DAFF supported projects address this objective.
+
+National Animal Health Diagnostics Business Plan 2021 to 2026: project updates November 2025 
+17 
+Glossary 
+Term 
+Definition 
+ABGD 
+Australian Biosecurity Genomic Database 
+ACDP 
+Australian Centre for Disease Preparedness 
+AHC 
+Animal Health Committee 
+BTV 
+bluetongue virus 
+DIVA 
+differentiating infected from vaccinated animals 
+EAD 
+emergency animal disease 
+ELISA 
+enzyme linked immunosorbent assay 
+EP 
+equine piroplasmosis 
+HPAI 
+high pathogenicity avian influenza 
+HTS 
+high-throughput sequencing 
+IFAT 
+immunofluorescence antibody test 
+IHC 
+immunohistochemistry 
+JD 
+Johne’s disease 
+LEADDR 
+Laboratories for EAD Diagnosis and Response 
+LSD 
+lumpy skin disease 
+NABSeq 
+Northern Australia biosecurity sequencing 
+NAHDBP 
+National Animal Health Diagnostics Business Plan 
+NATA 
+National Association of Testing Authorities 
+PCR 
+polymerase chain reaction 
+POC 
+point of care 
+PT 
+proficiency testing 
+qPCR 
+quantitative polymerase chain reaction 
+SCAHLS 
+Subcommittee on Animal Health Laboratory Standards 
+SOP 
+standard operating procedure 
+STARS 
+Sample Tracking and Reporting System

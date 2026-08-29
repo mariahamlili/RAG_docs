@@ -1,0 +1,3511 @@
+2025
+
+Acknowledgement of Country 
+We respectfully acknowledge the Yamatji and Noongar people as the traditional owners 
+of the North Midlands subregion. We recognise their continuing connection to land, 
+waters and community and pay our respects to them and their cultures, and to Elders 
+past, present and emerging.  
+Cover Image Photographer: Brian McMahon, Camel Soak, Perenjori Rothsay Rd, Perenjori WA, Australia - Published on 
+October 13, 2023. 
+Document prepared in conjunction with: 
+Version 
+Date 
+Prepared by 
+Organisation 
+Approved 
+Notes 
+0.1 
+16.09.2024 
+Rhiannon Bristow-
+Stagg, Anna Dixon 
+BlueSalt Consulting 
+Anna Dixon 
+Opening 
+0.2 
+19.09.2024 
+Rhiannon Bristow-
+Stagg 
+BlueSalt Consulting 
+Anna Dixon 
+For initial CSIRO-
+DPIRD Review. 
+0.3 
+12.12.2024 
+Karen Hazlett 
+BlueSalt Consulting 
+Anna Dixon 
+Draft 
+0.4 
+14.02.2025 
+Karen Hazlett, Heidy 
+Sands, Rhiannon 
+Bristow-Stagg 
+BlueSalt Consulting 
+Anna Dixon 
+Draft 
+0.5 
+19.02.2025 
+Gillian Johnson, 
+Project Officer 
+Mid West 
+Development 
+Commission (MWDC) 
+Working 
+version 
+Draft 
+0.6 
+13.03.2025 
+Gillian Johnson, 
+Project Officer 
+MWDC  
+Working 
+version 
+Draft 
+0.7 
+25.03.2025 
+Gillian Johnson, 
+Project Officer 
+MWDC 
+Nils Hay 
+Approved for 
+community review 
+process. 
+0.8 
+11.04.2025 
+Rhiannon Bristow-
+Stagg, Anna Dixon 
+BlueSalt Consulting 
+Anna Dixon 
+Draft incorporating 
+community input. 
+0.9 
+28.04.2025 
+Gillian Johnson, 
+Project Officer 
+MWDC  
+Working 
+version 
+Draft 
+0.10 
+30.04.2025 
+Rhiannon Bristow-
+Stagg 
+BlueSalt Consulting 
+Anna Dixon 
+Draft 
+0.11 
+01.05.2025 
+Gillian Johnson, 
+Project Officer 
+MWDC 
+Working 
+version 
+Draft 
+0.12 
+09.05.2025 
+Gillian Johnson, 
+Project Officer 
+MWDC 
+Nils Hay 
+CEO, MWDC 
+Final
+
+Acknowledgements 
+The Regional Drought Resilience Planning Program for the Mid West Region (North Midlands) is a 
+locally led project that champions drought resilience and preparedness in the region.  
+The Regional Drought Resilience Planning Program is jointly funded through the Australian 
+Government’s Future Drought Fund and the WA Department of Primary Industries and Regional 
+Development.  
+This project has been led by the Mid West Development Commission, in partnership with the 
+Department of Primary Industries and Regional Development and supported by the Shires of 
+Carnamah, Coorow, Irwin, Mingenew, Morawa, Perenjori and Three Springs. 
+The Mid West Development Commission would like to acknowledge the Project Advisory Group 
+for the time and expertise they have contributed to the development of this project, as well as 
+the many stakeholders across the region that have ensured this RDRP is collaborative and 
+reflective of community needs.
+
+Contents 
+Contents ..................................................................................................................... 3 
+Executive Summary ..................................................................................................... 1 
+Definitions .................................................................................................................. 2 
+Acronyms .................................................................................................................... 2 
+How to Use This Plan ................................................................................................... 3 
+Standing Principles ............................................................................................... 3 
+Background and Context ............................................................................................. 6 
+Defining Drought ...................................................................................................... 7 
+Literature Review .................................................................................................... 7 
+North Midlands RDRP Region ....................................................................................... 9 
+Whole of Subregion ................................................................................................. 10 
+Shire of Carnamah ................................................................................................... 11 
+Drought Resilience in Action | Good News Stories in Carnamah ............................. 12 
+Shire of Coorow ...................................................................................................... 13 
+Drought Resilience in Action | Good News Stories in Coorow ................................. 14 
+Shire of Irwin .......................................................................................................... 15 
+Drought Resilience in Action | Good News Stories in Irwin ..................................... 16 
+Shire of Mingenew................................................................................................... 17 
+Drought Resilience in Action | Good News Stories in Mingenew ............................. 18 
+Shire of Morawa ...................................................................................................... 19 
+Drought Resilience in Action | Good News Stories in Morawa ................................ 20 
+Shire of Perenjori .................................................................................................... 21 
+Drought Resilience in Action | Good News Stories in Perenjori .............................. 22 
+Shire of Three Springs............................................................................................ 23 
+Drought Resilience in Action | Good News Stories in Three Springs ...................... 24 
+Drought Vulnerability Assessment ............................................................................. 25 
+Framework ............................................................................................................ 25 
+Subregion Climate ................................................................................................. 26 
+Drought Impacts .................................................................................................... 26 
+Drought Risk Priority Areas .....................................................................................27 
+Vulnerability Index and Resilience Assessment ....................................................... 28 
+Drought Resilience Plan............................................................................................. 32 
+The Plan ................................................................................................................. 33
+
+Goals ..................................................................................................................... 33 
+Overview of Stakeholder Engagement .................................................................... 33 
+Local Governments ............................................................................................. 34 
+Project Advisory Group (PAG) .............................................................................. 34 
+Community Conversations ................................................................................... 37 
+Broader Engagement .......................................................................................... 38 
+Vision, Outcomes and Themes ................................................................................ 39 
+Vision ................................................................................................................. 39 
+Outcomes ........................................................................................................... 39 
+Steps to Implementation: Idea to Project ............................................................... 40 
+Theme Areas ........................................................................................................... 41 
+Resilient Agricultural Systems ............................................................................. 41 
+Resilient Community ........................................................................................... 49 
+Resilient Economy .............................................................................................. 55 
+Resilient Landscapes .......................................................................................... 62 
+Resilient Water Systems ..................................................................................... 68 
+Monitoring, Evaluation and Learning .......................................................................... 74 
+Overview ................................................................................................................ 74 
+Evaluation............................................................................................................... 75 
+Monitoring .............................................................................................................. 76 
+Investment Framework ............................................................................................... 78 
+Next Steps ................................................................................................................. 81 
+References................................................................................................................ 82 
+Table of Figures ........................................................................................................ 86 
+Appendix A: Key Policy Context ................................................................................. 88 
+Appendix B: Scoring for Drought Vulnerability Assessment ........................................ 89 
+Appendix C: Vulnerability Mapping ............................................................................. 92
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 1 
+Executive Summary 
+The Mid West (North Midlands) Regional Drought Resilience Plan (RDRP) has been developed 
+based on the local strategic and policy context, the findings of a Drought Vulnerability 
+Assessment and the outcomes of an engagement process undertaken across the subregion from 
+June to November 2024, with follow on conversations to April 2025. Development of the RDRP 
+was guided by a diverse Project Advisory Group and broader community engagement focussed 
+on a series of ‘Community Conversations’ held in Carnamah, Coorow, Irwin, Mingenew, Morawa, 
+Perenjori and Three Springs.  
+The goals for the North Midlands RDRP are to create a plan that enables the subregion to: 
+- 
+Build economic, environmental and social resilience to future droughts 
+- 
+Be in a stronger position to adapt to climate change 
+- 
+Form stronger connections and networks within and between regions 
+- 
+Apply best practice data and information to make better decisions. 
+The climate in the subregion has already undergone change, including reducing seasonal rainfall 
+(BoM, 2023a) and increasing temperatures. A continuation of the trend for decreasing and more 
+fragmented winter rainfall zones is projected with high confidence (CSIRO, 2024). In 2006 and 
+2007, the broader Mid West region experienced two consecutive 1 in 100-year drought events and 
+was officially declared as in drought (Mid West Development Commission (MWDC), 2022). More 
+localised parts of the region have regularly experienced below or very much below average 
+rainfall over the past 25 years (BoM, 2024a).  
+Because of its past exposure to dry conditions, the North Midlands community and agricultural 
+system has a level of existing experience and resilience that can be used as a foundation to adapt 
+and build future resilience to dry conditions. Broader strengths of the subregion include a high 
+rate of volunteering and civic participation, safe communities, low under-employment, low long-
+term unemployment and unique ecological biodiversity.  
+Existing vulnerabilities across the whole subregion include low internet access, a high suicide 
+rate, the rate of unskilled work, air quality (particulate matter) and rate of low family income 
+households. More localised areas of vulnerability also exist, and some local government areas are 
+highly economically dependent on agriculture (Remplan, 2023).  
+The Mid West (North Midlands) RDRP sets out a vision and outcomes across five themes: 
+• 
+Resilient Agricultural Systems 
+• 
+Resilient Community 
+• 
+Resilient Economy 
+• 
+Resilient Landscapes, and  
+• 
+Resilient Water Systems. 
+These themes provide a pathway upon which to build programs, projects and activities that seek 
+to foster, support and strengthen the building of drought resilience in the subregion.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 2 
+Definitions  
+Adaptive Capacity 
+The features and characteristics that influence the ability to respond 
+now and into the future. 
+Drought Resilience 
+The ability to adapt, reorganise or transform in response to changing 
+temperature, increasing variability and scarcity of rainfall and/ or 
+changed seasonality of rainfall, for improved economic, 
+environmental and social resilience. 
+Drought Impact 
+The degree of exposure to drought and the inherit sensitivity to 
+drought conditions.  
+Hot Drought 
+Total rainfall (mm) during the April to October growing season is in 
+decile 1 and temperatures (°C) during the August to November 
+maturing season are in decile 9. 
+Green Drought 
+When there is enough rain to keep a flush of green growth in the 
+landscape, but the underlying soil is too dry to grow enough pasture. 
+Acronyms 
+ABCB 
+Australian Building Codes Board 
+BoM 
+Bureau of Meteorology 
+BSh 
+Hot semi-arid (Köppen-Geiger classification) 
+CSa 
+Hot-summer Mediterranean (Köppen-Geiger classification) 
+DPIRD 
+Department of Primary Industries and Regional Development (WA) 
+DPLH 
+WA Department of Planning, Lands and Heritage 
+DVA 
+Drought Vulnerability Assessment 
+DWER 
+Department of Water and Environmental Regulation (WA) 
+FDF 
+Future Drought Fund 
+LGA 
+Local Government Area (geographic area, not the governing body) 
+MWDC 
+Mid West Development Commission 
+RDRP 
+Regional Drought Resilience Plan/Planning 
+SA2 
+Statistical Area 2 (Australian Bureau of Statistics) 
+WA 
+Western Australia
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 3 
+How to Use This Plan 
+The Mid West (North Midlands) Regional Drought Resilience Plan is an extension of the Mid West 
+Regional Drought Resilience Planning (RDRP) Program, following the Pilot in 2021-2022.  
+A composite subregion developed for this RDRP, the North Midlands subregion brings together 
+two interdependent areas. The Shire of Irwin (Irwin SA2), with key coastal populations and 
+services in Dongara/Port Denison, has a temperate climate (Peel et al 2007), and a mix of coastal 
+landscapes, dryland cropping, grazing and natural areas. Transitioning to an arid climate, the 
+predominantly inland Shires of Carnamah, Coorow,  Mingenew, Morawa, Perenjori and Three 
+Springs (Morawa SA2), have predominantly dryland cropping along with grazing and natural 
+areas, and are characterised by smaller townsites. 
+This Plan establishes a foundation for the North Midlands subregion to identify and communicate 
+its drought resilience priorities. 
+It is designed for use by local communities, industries, all levels of government,  
+non-profits and the private sector to: 
+- 
+Coordinate investment in drought resilience projects 
+- 
+Facilitate collaboration to achieve shared regional outcomes 
+- 
+Guide future drought resilience projects 
+- 
+Inform policy development and funding applications, and 
+- 
+Monitor and adapt strategies to enhance drought resilience over time. 
+The Plan synthesises a range of background work and engagement and provides context on the 
+subregion and its drought vulnerability and resilience, an overarching vision and outcomes, a 
+process for ongoing monitoring and evaluation and an investment framework to guide decision-
+making. The Plan also includes a set of Standing Principles that are designed to help guide in the 
+use, interpretation and implementation of the Plan across all the themes in the Plan.  
+The vision and outcomes of this Plan are designed to align with priorities at a local, regional and 
+national level and can help deliver on the strategic regional advantages of the Mid West, while 
+deepening visibility of the key themes that help to build drought and dry season resilience in the 
+subregion. 
+Standing Principles 
+As a result of the process of community and stakeholder conversations, along with the work of 
+the Project Advisory Group, 10 standing principles are shared to help guide the use and 
+implementation of the Plan: 
+1. Resourcing: We encourage consideration of ‘resources depletion’ during dry seasons and 
+drought in the North Midlands. Often the same pool of people and organisations are called 
+upon repeatedly to provide services, or local governments are asked to contribute 
+outside of budgets. This RDRP and the subsequent implementation plan need to ensure 
+there is adequate funding to activate identified projects. This will also build trust in the 
+role of the RDRP for the subregion.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 4 
+2. Traditional Owners:  We encourage the consideration of a ‘Right People on Right Country’ 
+approach to the activation of outcomes, themes and action ideas that involve Traditional 
+Owners in the region. Leading with this approach will help to foster a sense of ownership, 
+cultural identity and self-determination. This principle is not meant to limit, but to inspire 
+the approach as a first point of conversation in the Plan where feasible. 
+3. Place-Based:  The North Midlands RDRP subregion combines coastal and inland LGAs. 
+The unique characteristics of each, along with their interdependencies, require a place-
+based approach to all stages of the project lifecycle. We encourage consideration of the 
+coastal-inland relationship during the implementation of the Plan. 
+4. Level of Influence:  Achieving the Plan outcomes will require a different approach 
+depending on the roles and responsibilities of key stakeholders. The most appropriate 
+approach will range from direct action (where direct control is possible) to capacity-
+building and education (where there is some level of influence) to advocacy on areas of 
+concern but less control. Different approaches will also be required at different stages of 
+a project to build both short and long term dry season and drought resilience.    
+5. Build on Existing Work:  We encourage the use of, and investment in, preliminary 
+investigation activities to reduce duplication, connect with existing groups or projects, 
+strengthen or bolster existing activities, and to foster a continued sense of networking 
+across the region in the use and implementation of the outcomes, themes and action 
+ideas. Several of the Plan’s outcomes, themes and action ideas are visible in other 
+regional guiding documents, and the aim is to find the shared space to create positive 
+and lasting resilience in the region in a connected way. 
+6. Funding Focus:  We encourage the communities of the North Midlands subregion to seek 
+financial investment from a variety of sources to activate the RDRP outcomes, themes 
+and action ideas. The Future Drought Fund (FDF) is just one source of funding.  The Plan 
+may also help to strengthen applications for funding outside the FDF program, by 
+referring to the Plan as an enabling document.   
+7. Strategic Focus:  We encourage all local governments to consider how the RDRP and 
+accompanying Drought Vulnerability Assessment (DVA) can support strategic planning 
+for the future that actively embeds dry season and drought resilience. 
+8. Local Identity:  We encourage the subregion to continue to share the Good News Stories 
+of living and working in the North Midlands. The experience of dry seasons and drought 
+can cause community members to question their long-term place in the North Midlands. 
+We hope the RDRP, the opportunity of working as a networked region, and the continued 
+aspirations will enable community members in the region to build greater levels of 
+resilience to dry seasons and drought in ways that strengthens their sense of place in the 
+subregion. 
+9. Multifaceted:  We note that some action ideas are identified across multiple themes. We 
+have, where appropriate, left these to show that projects developed because of the RDRP 
+may cross multiple theme areas. This has the potential to enhance the diversity of a 
+project offering, impact and outcomes, and ensures that there is opportunity for wider 
+stakeholder involvement, learning and impact. This approach can also help to reduce
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 5 
+duplication of investment and promote less ‘siloed’ approaches to on-the-ground 
+projects. 
+10. Ongoing Update:  We identify that the Plan is a living document, created at a certain point 
+in time, and with the frame of reference of ongoing development. For the RDRP to be a 
+community owned resource, it will require monitoring, evaluating and sharing of 
+learnings within the region. We encourage ongoing community commitment to the North 
+Midlands Resilience Network to support this. 
+These Standing Principles are designed to provide a foundation upon which the RDRP can be 
+implemented and to continue to develop as a community led resource, for both the short and long 
+term.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 6 
+Background and Context
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 7 
+Defining Drought  
+The Mid West (North Midlands) Regional Drought Resilience Plan is an extension of the Mid West 
+Regional Drought Resilience Planning (RDRP) Program, following the Pilot in 2021-2022.  
+This project adopted the expanded definition of drought as developed in the Pilot Program 
+(shown below). This definition was developed through an assessment of meteorological 
+definitions of drought in the context of the region, as well as the outcomes of consultation in the 
+Mid West. Therefore, it is considered relevant to the Mid West (North Midlands) RDRP subregion.  
+The assessment of meteorological definitions of drought in the Pilot Program also indicated that 
+a definition based on growing season rainfall (between April to October) is considered more 
+appropriate for the South West Land Division than a definition based on total annual rainfall. 
+Consideration of hot drought and green drought is also important in the Mid West region, 
+particularly when referring to coastal areas of the region. 
+Literature Review 
+Prior to undertaking a Drought Vulnerability Assessment (DVA) and a stakeholder engagement 
+process in the North Midlands, a Background and Context Report (Report) was developed. The 
+purpose of the Report was to inform the engagement process and to present key trends and 
+strategic directions in drought resilience nationally, regionally, and locally, as well as identifying 
+gaps, challenges and opportunities. In total, 30 key strategic documents were reviewed, as listed 
+in Appendix A, and key drought actors at a national, state and regional level were also mapped. 
+At the national level, key findings highlighted the historical capacity of Australian agriculture to 
+adapt and respond to risks. The sector is currently engaging in measures that involve increased 
+non-farm income, diversified agricultural activities and written farm plans with business 
+objectives. However, the greatest barriers to changing farming practices are time, followed 
+closely by funds (Coelli, 2021). 
+The literature also suggested that, with access to more innovative technologies and a sound 
+knowledge base, the agricultural industry is well-positioned to respond to risks in the future. 
+However, the success of this will depend on adoption of viable alternatives, social capital, 
+willingness to change, and a commitment to innovation (Hajkowicz and Eady, 2015). 
+From a climate perspective, the WA Government is investing in clean energy infrastructure to 
+support its commitment to net zero emissions by 2050. It is also developing climate change 
+legislation to support the reduction of emissions and increase WA’s climate resilience, 
+acknowledging that adaptation is essential to address the impacts of climate change 
+(Government of WA, 2023). 
+Drought: 
+“A prolonged period of abnormally dry conditions that impacts negatively on water 
+availability and agricultural production in a region and, consequently, impacts 
+negatively on the economy and environment of the region and the health and  
+well-being of its residents.” 
+Regional Drought Resilience Plan for the Mid West region
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 8 
+In the Mid West region consistent and emerging priorities relevant to future drought 
+management are:  
+- 
+Agricultural development and food security 
+- 
+Improved mental health servicing 
+- 
+Improved infrastructure development 
+- 
+Improved pastoral sector resilience 
+- 
+Long term water supply security 
+- 
+Environmental, social and economic impact mitigation, and 
+- 
+Tailored solutions at a local scale.  
+The MWDC Strategic Plan 2023-2026 identifies regional advantage opportunities in terms of 
+water security and supply and the agricultural industry. These include professional and 
+knowledge intensive supply chains supporting mining and agricultural activities, and investment 
+in facilities and services for quality of life.  
+MWDC’s vision reflects a commitment to a prosperous economy and adaptive community. 
+“The Mid West is one of the most connected and diverse regions in Western Australia, 
+where high value industries enable boundless development opportunities, creating a 
+strong and prosperous economy that supports sustainable, adaptive and liveable 
+communities.” 
+Mid West Development Commission Strategic Plan 2023-2026
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 9 
+North Midlands RDRP Region 
+Covering 25,835km2 the North Midlands RDRP area is in the Mid West region of Western Australia 
+(WA). A composite subregion developed for this RDRP, it includes seven local governments, the 
+Shires of Carnamah, Coorow, Irwin, Mingenew, Morawa, Perenjori and Three Springs, as shown in 
+Figure 1.  
+Figure 1: Mid West North Midlands and Mid West Pilot Region
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 10 
+Whole of Subregion 
+Both the Yamatji and Noongar people are traditional owners within the subregion 
+(WA Government 2020; 2023). To the northern border is the Pilot Program region, including the 
+City of Greater Geraldton (CGG), with Geraldton the major centre for the Mid West region. 
+Community 
+The subregion supports approximately 7,558 people (around 10 percent of the broader Mid West), 
+with the Irwin LGA the largest population (3,680) and the remaining LGAs each under 700 people.  
+Coorow and Irwin LGAs experienced population growth between 2016-2021 and the remaining 
+populations were stable or in decline (ABS, 2022). By LGA Socio-Economic Indexes for Areas 
+(SEIFA) scores, the level of disadvantage varies across the subregion, with Morawa the most 
+disadvantaged and Perenjori the least. All but one LGA (Morawa) had less disadvantage 
+compared to the broader Mid West region (Remplan, 2023). 
+Land and Environment 
+By area, the key land use in the subregion is dryland cropping, followed by nature conservation 
+(DAFF, 2023). The subregion’s natural environment features a high degree of endemism (May and 
+McKenzie, 2002) with over 250 plants endemic to the Lesueur Sandplain alone (May and 
+McKenzie, 2002a). There are currently eight threatened ecological communities crossing into 
+the Shires of Carnamah, Coorow, Morawa, Perenjori and Three Springs (DBCA, 2023).  
+Economy 
+The subregion has a combined economic output of $2.86 billion, 16.28 percent of the Mid West 
+region output ($17.6 billion). Perenjori LGA accounted for just over half the annual economic 
+output for the subregion, with over 91 percent of this from mining (Remplan, 2023). At least $1.43 
+billion of the subregion’s economic output is moderately or highly dependent on nature (BlueSalt 
+Consulting derived from WEF, 2020).  
+Of the 26,361 jobs in the Mid West region, 11.38 percent (2,454 jobs) are in this subregion. All LGAs 
+are more dependent on the agriculture industry sector for employment compared to the Mid 
+West and WA, with Three Springs the most highly dependent (43% of jobs), followed by Mingenew 
+(26%) and Coorow (25%) (Remplan, 2023). Business entries are higher than business exits (ABS, 
+2022).  
+Across the subregion, gross value from agriculture was $212 million, over 254,847 ha in 2020-21 
+(as per the last Census data). This included:  
+- 
+409,507 animals (mostly sheep and lambs, meat cattle) 
+- 
+428,685 tonnes of production (mostly wheat, hay, lupins, barley, oats, canola) 
+- 
+303,700 trees (mostly almond, some mango and olive) (DAFF, 2023b).  
+In the 2024/25 harvest, the grain receivals across the subregion included: Carnamah, 432,461t; 
+Coorow, 66,228t; Mingenew, 573,957t, Morawa, 165,809t and Perenjori, 183,893t.  The Three 
+Springs receivals site is retired so no tonnage was delivered, and while growers are free to deliver 
+to sites as per their individual situations, Irwin growers would generally deliver to Mingenew (CBH, 
+2025).
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 11 
+Shire of Carnamah 
+The Yamatji people are the traditional owners of this area (WA Government, 2020; NACC, 2023). 
+The Shire of Carnamah has a population of 552, with townsites in Carnamah and Eneabba. The 
+median age of 46 is higher than both the Mid West (42) and WA (38). The LGA has a similar level of 
+disadvantage compared to the Mid West average and around 17 percent of households did not 
+have internet access at the time of the last Census (ABS, 2022). 
+Covering 2,876km2, approximately 21.8 percent of land in the LGA is protected (national park or 
+nature reserve) and a further 47 percent is agricultural land (ABS, 2022). In 2022 the Shire had an 
+environmental condition score of 7.5 out of 10, an improvement from 4.9 in 2021 and higher than 
+the Mid West and WA (Australian National University (ANU), 2023). 
+With annual economic output of $159.8 million, the LGA accounts for 0.9 percent of the Mid West 
+output. The economy is reliant on agriculture, with 27.8 percent of output from this sector, while 
+a range of industry sectors recorded no economic output (Remplan, 2023). 
+The Carnamah community has approximately 287 jobs, (1.1 percent of the Mid West), with 16.2 
+percent of residents employed directly in the agriculture sector, a reduction from 2016 (ABS, 
+2022). Key statistics are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 12 
+Drought Resilience in Action | Good News Stories in Carnamah 
+Resilient Community: North Midlands Project 
+Established in 2015 the North Midlands Project (NMP) uses arts, culture, heritage and health 
+initiatives to improve the quality of life and well-being of people living in Carnamah, Coorow, 
+Mingenew, Morawa, Perenjori and Three Springs.  
+Within a range of exhibitions, workshops, 
+performances and events, the NMP also delivers 
+programs at schools across the subregion, 
+using The Kids Research Institute Australia's 
+SEW-Arts 
+framework. 
+SEW-Arts 
+supports 
+social and emotional well-being through the 
+arts and the workshops are embedded with 
+learnings about fostering resilience, helping 
+others, managing pressure, while encourage 
+creativity for good mental health.  
+NMP also host an active annual program of artist 
+residencies to deliver creative programs and 
+engage with community members. Many of 
+these lead to community-rich exhibitions celebrating local people, while subtly sharing 
+perspectives about mental health and well-being. One example, Women of the Hinterlands, 
+showcases stunning portraits by former UN photographer Martine Perret of women from across 
+the region, accompanied by personal stories. Exhibited in Carnamah, Mingenew, Moora, Mullewa 
+and Perenjori it has engaged and been enjoyed by locals and visitors. 
+Resilient Economy: Carnamah Big Tractor 
+The Carnamah Big Tractor is a tourism drawcard 
+every day of the year, even if it is 45 degrees in 
+the shade! Measuring 11.5 metres tall and 16 
+metres in length, it is a five times replica of the 
+Chamberlain 40K, the first tractor manufactured 
+in WA, and one that made a significant impact to 
+agriculture across multiple regions of WA after 
+World War II.   
+Launched in 2024, this iconic attraction has 
+helped diversify Carnamah's tourism offering 
+outside of the wildflower season, resulting in a 
+financial and confidence boost to businesses and local organisations. It has elevated the sales at 
+the local café, One L of a Good Feed, petrol station, supermarket and newsagency and has led to 
+an increase in visitation and donations received at community-run drawcards such as 
+the Carnamah Museum and the historic Macpherson Homestead. The tractor has also led to an 
+increase in local pride and sense of place. 
+Figure 3: Big Tractor Launch, October 2024. 
+Figure 2: Women of the Hinterlands
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 13 
+Shire of Coorow 
+The Noongar people are traditional owners of this area (WA Government, 2023). The Shire of 
+Coorow has the second largest population in the subregion, increasing to 1,055 in 2021 (ABS, 
+2022). Key townsites are Coorow, Green Head and Leeman. The median age of 57 is higher than 
+both the Mid West (42) and WA (38). The Shire has high civic participation, with almost 46 percent 
+participating in the 2021 local government elections (WAEC, 2023). 
+Covering 4,189km2, approximately 17 percent of the Shire land area is protected (national park or 
+nature reserve) and a further 54 percent is agricultural land (ABS, 2022). In 2022 the Shire had an 
+environmental condition score of 7.3 out of 10, an improvement from 5.7 in 2021 and higher than 
+the Mid West and WA (ANU, 2023). 
+With an economic output of $178.3 million, the LGA accounts for 1 percent of the Mid West output. 
+The economy is highly reliant on agriculture, with 47 percent of output from this sector. Several 
+sectors recorded no economic output (Remplan, 2023). 
+The Coorow community has approximately 348 jobs, (1.3 percent of the Mid West), with 25.28 
+percent of residents directly in the agriculture sector, an increase from 2016 (ABS, 2022). Key 
+statistics are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 14 
+Drought Resilience in Action | Good News Stories in Coorow 
+Resilient Community & Economy: Koobabbie Precinct and Business Incubator 
+The 
+Shire of 
+Coorow 
+has 
+developed and enhanced the 
+historic Koobabbie Precinct to 
+showcase 
+the 
+diverse 
+and 
+significant agricultural history 
+within the region.  
+The precinct now offers an 
+additional tourism asset in 
+Coorow for visitors to see more 
+in the region, alongside the 
+traditional wildflower season. 
+Alongside the precinct, local 
+small businesses are supported in a ‘business incubator’ style approach. This includes 
+refurbishment of older historic buildings that are offered at reduced rates to encourage uptake 
+by small business owners, such as a local café that opens specifically on weekends to service 
+visitors to the region. 
+Resilient Landscapes: Coastal Recreational Tracks Master Plan 
+The Shire of Coorow, along with the Shires of 
+Dandaragan and Gingin are part of a group effort 
+to 
+create 
+a 
+Coastal 
+Recreational 
+Tracks 
+Masterplan (commenced in 2024).   
+The aim of the plan is to proactively map how to 
+manage coastal public land within their Shire 
+areas 
+to 
+protect 
+the 
+landscapes 
+and 
+environments for the benefit of ‘current and future 
+generations’.    
+The plan builds on historic documents such as       
+the Shire of Coorow Coastal Management Plan 
+(1986) which sought to: ‘contribute towards the long-term management of the Western Australian 
+coastline 
+as 
+well 
+as 
+fulfil 
+the 
+Shire 
+of 
+Coorow's 
+objectives 
+for 
+a 
+more  
+co-ordinated and comprehensive approach to coastal management along its shoreline.’ This 
+project is an example of coordination in the subregion to achieve multiple social and 
+environmental outcomes. 
+Resilient Water & Landscapes: Non-Potable Water Security 
+The Shire of Coorow has installed dedicated water tanks (three x 27 000L and one x 250 000L) 
+specifically for fire mitigation and has also developed a water drainage plan to store town water 
+run-off to support the greening of local parks.  
+Figure 4: Koobabbie Precinct 
+Figure 5 : Sourced from Shire of Dandaragan
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 15 
+Shire of Irwin 
+The Yamatji people are the traditional owners of this area (WA Government 2020; NACC, 2023). 
+The Shire of Irwin has the largest population in the subregion at 3,680, with townsites in 
+Dongara/Port Denison. The median age of 53 is higher than both the Mid West (42) and WA (38) 
+(ABS, 2022). The LGA has high civic participation, with 42.3 percent participating in the 2021 local 
+government elections, a decline from 2019 (WAEC, 2023). 
+Covering 2,369km2, approximately 12 percent of the Shire land area is protected (national park or 
+nature reserve) and a further 40 percent is agricultural land (ABS, 2022). In 2022 the Shire had an 
+environmental condition score of 7.86 out of 10, an improvement from 6.43 in 2021 and higher 
+than the Mid West and WA (ANU, 2023). 
+With an economic output of $488 million, the LGA accounts for 2.8 percent of the Mid West 
+output. Output from the agriculture sector was 15 percent, similar to manufacturing, with other 
+industries of mining, construction and rental services contributing 11-12 percent each (Remplan, 
+2023). 
+The Irwin community has approximately 998 jobs, (3.8 percent of the Mid West), with 11.8 percent 
+of residents employed directly in the agriculture sector, similar to 2016 (ABS, 2022). Key statistics 
+are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 16 
+Drought Resilience in Action | Good News Stories in Irwin 
+Resilient Water: Foreshore Reticulation 
+The Shire of Irwin’s iconic Port Denison 
+foreshore is a vital part of the Mid West that 
+provides boating and fishing activities alongside 
+family friendly public open space.   
+As part of their water wise measures, the Shire 
+of Irwin have converted their foreshore 
+reticulation system to a wi-fi controlled 
+irrigation system.   
+As the foreshore is one of the largest uses of 
+scheme water for the Shire, the wi-fi controlled 
+system provides the ability to adjust for weather 
+(e.g. turning off when raining).   
+In the future, the Shire is hoping to use the smart/predictive watering features to allow 
+automated watering schedules based on weather conditions to further increase the water wise 
+approach to keeping this vital community space green and welcoming, while reducing any waste 
+of scheme water.  
+Resilient Community and Economy: Medical Centre 
+Access to consistent medical facilities and services is a vital part of a thriving rural community.   
+In 2020, the Shire of Irwin voted to purchase the Dongara Medical Centre to ensure the 
+community had access to a reliable GP service, and to complement the emergency hospital 
+services provided by WA Country Health Services.  As part of this purchase, the Shire of Irwin 
+also contracted an experienced rural GP for a period of five years to offer continuity of service 
+and confidence to the Shire of Irwin and surrounding community members.  
+Figure 7: Shire of Irwin Medical Centre. 
+Figure 6: Shire of Irwin Foreshore.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 17 
+Shire of Mingenew 
+The Yamatji people are the traditional owners of this area (WA Government 2020; NACC, 2023). 
+The Shire of Mingenew has a population of 407, with the main townsite Mingenew. The median 
+age of 47 is higher than both the Mid West (42) and WA (38). Around 18 percent of households did 
+not have internet access at the time of the last national Census (ABS, 2022). The Shire has the 
+least disadvantage in the subregion and has lower disadvantage than the Mid West (Remplan, 
+2023).  
+Covering 1,934km2, approximately 0.9 percent of the land area is protected (national park or 
+nature reserve) and a further 84 percent is agricultural land (ABS, 2022). In 2022 the Shire had an 
+environmental condition score of 7.47 out of 10, similar to 7.2 in 2021 and higher than the Mid West 
+and WA (ANU, 2023). 
+With an economic output of $113.7 million, the LGA accounts for 0.6 percent of the Mid West 
+output. The economy is highly reliant on agriculture, with 56.2 percent of output from this sector, 
+while seven sectors recorded no economic output (Remplan, 2023). 
+The Mingenew community has approximately 221 jobs, (0.8 percent of the Mid West), with 26.44 
+percent of residents employed directly in the agriculture sector, an increase from 2016 
+(ABS, 2022). Key statistics are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 18 
+Drought Resilience in Action | Good News Stories in Mingenew 
+Resilient Agriculture & Landscapes: Making Every Drop Count 
+The Mingenew Irwin Group (MIG) is leading a locally based drought 
+resilience project with a key focus on building drought resilient soils and 
+landscapes.   
+The project is funded through the FDF and is designed around a three-
+tiered (scaled) analysis of soil, paddock and landscape.  ‘Making Every 
+Drop Count’ has a core focus on building agriculture and landscape 
+resilience. It includes ten demonstration sites across the region, and 
+explores groundcover management, management of riparian areas, 
+moisture and nutrient removal in downslope/leached areas, summer 
+cover cropping, enhancing ecosystem biodiversity, and improving farm 
+water storage. 
+Resilient Community: An Active Community in Mingenew 
+Mingenew is home to a range of community activities that strengthen the spirit of the 
+community, provide avenues for showcasing the region, support a sense of pride and bring 
+economic benefit.  In 2025, with shared funding from a range of stakeholders, the Mingenew 
+Childcare Centre upgrade project will be activated.  This project will support an increase of early 
+childhood and education care services in Mingenew.  Additionally, Mingenew will soon be home 
+to a new community garden.  The garden will provide an opportunity for community members to 
+come together with a shared gardening focus to learn new skills, increase local networks and 
+friendship, and to foster a sense of community and connection.   
+Resilient Landscapes: Mingenew Springs Regional Botanic Garden 
+The Shire of Mingenew is planning to activate the 
+Mingenew Springs Regional Botanic Garden to 
+diversity the growth of tourism in the region via 
+the development of a year-round environmental 
+attraction that will stimulate new business in the 
+area, enhance liveability and help to mitigate the 
+impact of seasonal tourism.   
+The site also has environmental importance including a rare black Cockatoos nesting site and a 
+micro-bat colony to create education opportunities. 
+Figure 9: Mingenew Childcare Centre Upgrade.  
+Figure 8: Mingenew Irwin Group 
+Figure 10: Mingenew Springs concept.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 19 
+Shire of Morawa 
+The Yamatji people are the traditional owners of this area (WA Government 2020; NACC, 2023). 
+The Shire of Morawa has a population of 660, with the main townsite in Morawa. The median age 
+of 42 is the same as the Mid West (42) and higher than WA (38). Around 22 percent of households 
+did not have internet access at the time of the last Census (ABS, 2022). The LGA has a higher level 
+of disadvantage compared to the Mid West average (Remplan, 2023).  
+Covering 3,510km2, approximately 14 percent of land in the LGA is protected (national park or 
+nature reserve) and a further 60 percent is agricultural land (ABS, 2022). In 2022 the Shire had an 
+environmental condition score of 7.7 out of 10, up from 7.1 in 2021 and higher than the Mid West 
+and WA (ANU, 2023).  
+With an economic output of $196.8 million, the LGA accounts for 1.1 percent of Mid West output. 
+The economy is reliant on agriculture, with 29.2 percent of output from this sector. Several 
+industry sectors recorded no economic output (Remplan, 2023). 
+The Morawa community has approximately 334 jobs, (1.3 percent of the Mid West), with 17.39 
+percent of residents employed directly in the agriculture sector, an increase from 2016 (ABS, 
+2022). Key statistics are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 20 
+Drought Resilience in Action | Good News Stories in Morawa 
+Resilient Agriculture: Morawa Farm Improvement Group 
+The Morawa Farm Improvement Group (MFIG) was 
+established in 1946 with a mission to ‘advance the 
+development and learning needs of the Morawa Farming 
+Community in order for them to remain both viable and 
+sustainable into the future’.  
+They are an active local agricultural group who have 
+undertaken a broad range of events, projects and 
+activities on topics such as sustainable grazing on 
+saline land, millet and sorghum in a low rainfall zone, 
+and engineering salt-water drainage and evaporation 
+ponds.   
+Resilient Water: Non-Potable Community Water Supplies Plan 
+The Shire of Morawa in conjunction with the Department of Water and 
+Environmental Regulation (DWER) and other key stakeholders has 
+developed the Non-Potable Community Water Supplies Plan which 
+provides information on how to ‘access non-potable water for 
+emergency stock watering and firefighting purposes, including what 
+facilities are available at each site’.   
+This plan provides a measure of safety, assurance and knowledge for 
+community members in times of need and enables longer term 
+planning activities to be undertaken for both supply and facilities.  
+The Shire of Perenjori also has the same plan in place. 
+Resilient Community: Morawa Child and Family Centre & New Tennis Courts 
+Support for families is a critical part of building drought resilient communities and preventing 
+population decline.  The Shire of Morawa has been successful in applying for and receiving 
+funding for the development of the Morawa Child and Family Centre through the Growing Regions 
+Program (Round 2).  
+The Morawa Child and Family Centre will provide community members with access to high quality 
+early education and care, that will help support children to be school ready and to broaden the 
+opportunities for families and their work commitments.  
+Additionally, the Shire of Morawa has been successful in obtaining funding through the 
+Community Sporting and Recreation Facilities Fund (CSRFF) to support the development of new 
+local tennis courts, providing an opportunity to boost participation in physical activity, increase 
+liveability and enhance community spirit. 
+Figure 11: Image credit - morawafarmers.wixsite.com
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 21 
+Shire of Perenjori 
+The Yamatji people are the traditional owners of this area (WA Government 2020; NACC, 2023). 
+The Shire of Perenjori has a population of 629, with the main townsite Perenjori. The median age 
+of 43 is similar to the Mid West (42) and higher than WA (38). Around 19.9 percent of households 
+did not have internet access at the time of the last Cenus (ABS, 2022). The LGA has lower levels 
+of disadvantage compared to the Mid West average and the lowest in the subregion (Remplan, 
+2023).  
+Covering 8,301km2, approximately 36 percent of the Shire land area is protected (national park or 
+nature reserve) and a further 48 percent is agricultural land. In 2022 the Shire had an 
+environmental condition score of 8.05 out of 10, an improvement from 7.34 in 2021 and higher 
+than the Mid West and WA (ANU, 2023). 
+With an economic output of $1.573 billion, the LGA has the largest output of the subregion and 
+accounts for 9 percent of the Mid West output. The economy is not reliant on agriculture, with 3.7 
+percent of output from this sector and 91 percent from mining. Several industry sectors recorded 
+no economic output (Remplan, 2023).  
+The Perenjori community has approximately 886 jobs, (3.4 percent of the Mid West), with 18.9 
+percent of residents employed directly in the agriculture sector, a reduction from 2016 (ABS, 
+2022). Key statistics are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 22 
+Drought Resilience in Action | Good News Stories in Perenjori 
+Resilient Community: Community Action Plan 
+Community members from the Shire of Perenjori participated in 
+workshops and meetings, facilitated by Rural Aid, to develop a 
+Community Development Action Plan (CDAP).  
+The vision of the plan is to ‘empower our community to thrive through 
+innovation, collaboration and inclusive growth. Where our 
+progressive spirit fosters economic growth in a family friendly 
+environment, celebrating and supporting each other in a safe and 
+welcoming community.’ The highlighted key areas for development 
+including lifestyle and population, tourism, opportunities for young 
+people, housing and accommodation.  
+Resilient Agriculture & Water: Weelhamby Farm Project 
+A series of drought resilient projects are being undertaken at Weelhamby Farm in the Shire of 
+Perenjori.  To date, the Weelhamby Farm Project has incorporated changes in management 
+practices to demonstrate the capacity of carbon farming in a low rainfall area which maintains 
+profitability, achieves real results and avoids locking up productive farmland.   
+A more recent addition to the suite of projects at Weelhamby has been the Transformative 
+Aboriginal Agricultural Methods (TAAM) project. This project is co-led by the Centre for People, 
+Place, and Planet at Edith Cowan University (ECU) and Maaman Marra Boodjar and explores 
+Aboriginal agricultural practices and literacies, with local agricultural practices. ‘By merging 
+traditional knowledge with Western scientific methodologies, the project aims to create 
+innovative metrics for assessing natural system health and resilience.’   
+This project is also being undertaken at Gimlet Ridge Farm, another farm in the Shire that is 
+focussed on holistic management principles. This project is supported by the South-West WA 
+Drought Resilience Adoption and Innovation Hub, through funding from the Australian 
+Government’s Future Drought Fund, and the WA Agricultural Research Collaboration. 
+Resilient Community: Perenjori Community Garden 
+The Perenjori Community Garden is a vibrant 
+community space that is well known in the North 
+Midlands.  
+Supported by local groups such as the Yarra Yarra 
+Catchment Council, it provides a nourishing 
+community space for members to connect, 
+garden, share and learn. It has also hosted 
+gardening education workshops, such as using 
+wicking beds for more drought resilient local 
+kitchen gardens.  
+Figure 
+12: 
+Perenjori 
+Community 
+Garden 
+(Image 
+credit:  Tessomewhere)
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 23 
+Shire of Three Springs 
+The Yamatji people are the traditional custodians of the area (WA Government 2020; NACC, 
+2023). The Shire of Three Springs has a population of 575, with the main townsite Three Springs. 
+The median age of 42 is the same as the Mid West (42) and higher than WA (38). Around 19.7 
+percent of households did not have internet access at the time of the last Census (ABS, 2022). It 
+has a similar level of disadvantage compared to the Mid West average (Remplan, 2023).  
+Covering 2,656km2, approximately 2 percent of the Shire land area is protected (national park or 
+nature reserve) and a further 70 percent is agricultural land. In 2022 the Shire had an 
+environmental condition score of 7.6 out of 10, an improvement from 6.9 in 2021 and higher than 
+the Mid West and WA (ANU, 2023).  
+With an economic output of $150.3 million, the LGA accounts for 1 percent of the Mid West 
+output. The economy is reliant on agriculture, with 36.9 percent of output from this sector, while 
+several sectors recorded no economic output (Remplan, 2023). 
+The Three Springs community has approximately 261 jobs, (1 percent of the Mid West), with 43.4 
+percent of residents employed directly in the agriculture sector, an increase from 2016 
+(ABS, 2022). Key statistics are highlighted below.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 24 
+Drought Resilience in Action | Good News Stories in Three Springs 
+Resilient Community: Community Action Plan 
+Community members from the Three Springs participated in a 
+series of workshops and meetings, facilitated by Rural Aid, to 
+develop a Community Development Action Plan (CDAP). The 
+vision of the plan is ‘to produce generations of proactive 
+community members who cultivate, embrace and execute ideas 
+which support our future’.  
+The CDAP has highlighted key areas including community 
+connection 
+through 
+shared 
+spaces, 
+housing 
+and  
+short-term accommodation, enhancing the appearance of the 
+town, creating an annual signature event, supporting older 
+community members to age in place.  
+Resilient Community and Economy: Silos Projection Project 
+The Silos Projection Project is a unique initiative of the Shire 
+of Three Springs. It uses state of the art projection 
+technology to transform the silos into an outdoor cinema. 
+This activation currently supports three annual events 
+including the Stargazing Movie Night in March, the Off-Road 
+Racing Movie Projection in September, and the Community 
+Christmas Tree Projection in December.   
+The grand opening event of the project was also shortlisted 
+as a finalist for the Best Small Regional Event category at the 
+2023 Australian Events Awards.  This unique project brings 
+both community and economic benefits, as the unique 
+series of events attracts many visitors to the region, helping 
+to grow and support diversity in attractions and increase 
+liveability for community members.   
+Resilient Agriculture: Three Springs Farm Innovation Network (3FIN) 
+The Three Springs Farm Innovation Network (3FIN) is a locally established farmer-led group with 
+a vision to ‘create a farming community that is engaged, motivated and forward thinking and will 
+become active in the area of extension, R&D trials, peer to peer learning and motivating farmers in 
+the district’.  
+With an inaugural strategic plan established in 2021, the group are already actively supporting 
+local workshops and business updates in partnership with major industry groups such as GRDC 
+and GIWA.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 25 
+Drought Vulnerability Assessment 
+Framework 
+The Drought Vulnerability Assessment (DVA) undertaken for this subregion applied the 
+overarching DVA conceptual framework from the Pilot phase of the RDRP (Error! Reference 
+source not found.), which understands overall vulnerability as the outcome of sensitivity and 
+exposure (interacting to produce impact), and adaptive capacity parameters. 
+Impact is made up of the degree of exposure to drought and the inherit sensitivity to drought 
+conditions. Adaptive capacity details the features and characteristics that influence the ability 
+to respond now and into the future.  
+Drought resilience as it relates to the Drought Resilience Funding Plan is defined as “the ability 
+to adapt, reorganise or transform in response to changing temperature, increasing variability and 
+scarcity of rainfall and/or changed seasonality of rainfall, for improved economic, environmental 
+and social resilience”.  
+This also recognises that more frequent and severe droughts are one of the many impacts of 
+climate change and the Plan supports broader climate resilience outcomes, where they are 
+consistent with the funding principles outlined in the Drought Resilience Funding Plan (Australian 
+Government, 2024).  
+Indicators within each category have been used as proxies for exposure, sensitivity and adaptive 
+capacity, with development of this framework drawing on past studies in Australia and 
+internationally (MWDC, 2022). Indicators are detailed in Appendix A and B, with commentary 
+provided on further potential indicators.  
+Figure 13: Conceptual Framework of Drought.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 26 
+Subregion Climate 
+Historical Climate 
+The subregion is typified by hot, dry summers with mild winters along the coast and cold winters 
+inland (ABCB, 2019; BoM, 2023). Under the updated Köppen-Geiger classification system (based 
+on precipitation and temperature) the subregion is classified under two classification levels 
+including: CSa - temperate, dry hot summer along the coast and BSh - arid, steppe, hot inland 
+(Peel et al 2007). 
+Climate Change 
+The climate in the subregion has already undergone change, including reducing seasonal rainfall 
+(BoM, 2023a) and increasing temperatures. Australia’s climate has warmed by an average of 1.47 
+± 0.24 °C since national records began in 1910, with the rate of warming higher since 1960 (BoM, 
+2022). The average number of days above 34°C in the subregion (August to November) during the 
+wheat maturing season has increased since 1991, with a trend to increasing temperatures in an 
+inland direction (west to east). The observed trend since 2000 has been decreasing and more 
+fragmented winter rainfall zones. 
+Drought Impacts 
+Over the past 25 years 2002, 2006, 2010 and 2019 are recognised as drought years in Western 
+Australia, based on dry conditions. Reflecting the localised nature of drought, some parts of this 
+subregion have also experienced below or very much below average rainfall in the years 2000-
+2004, 2006-2007, 2009-2010, 2012-2015 and 2017-2020 (BoM, 2024a).  
+In 2006 and 2007, the Mid West experienced two consecutive one in 100-year drought events and 
+was officially declared as in drought (MWDC, 2022). The Millennium drought is considered 
+possibly the first major Australian drought that interacted significantly with the slower influence 
+of climate change (BoM, 2024).  
+During consultation for the Mid West Pilot region, stakeholders stated that drought had 
+negatively affected soil health, water resources (natural and scheme) and biodiversity. Several 
+noted that significant soil erosion occurred during the 2006/07 drought, that the landscape 
+looked bare and brown and fire risk was increased (MWDC, 2022).  Drought impacts reported in 
+the Mid West (including this subregion) include:  
+- 
+Wind erosion 
+- 
+Loss of valuable topsoil and native vegetation 
+- 
+Dust storms 
+- 
+Farmers having to sell below value or euthanise animals 
+- 
+Financial, environmental and social distress for many farmers, service providers and the 
+agricultural sector as a whole   
+- 
+High reliance on off-farm income 
+- 
+Significant increase in land sales immediately following drought (DPIRD, 2022) 
+- 
+Strained community services and support networks (MWDC, 2022).  
+Environment condition scores from 2000-2023 (ANU, 2023) combined for all LGAs and averaged 
+for the subregion showed a correlation between drought years and poor environmental 
+conditions.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 27 
+Drought Risk Priority Areas 
+By the 2050s, the subregion is projected to experience between 12-15 more hot days (above 35°C) 
+annually compared to the 1994-2023 average (DAFF, 2023c). In addition to an increased drought 
+frequency, a trend towards the composite hazard of hot droughts has been identified since 2006 
+(MWDC, 2022). In this subregion, more heatwaves are projected under all emissions scenarios 
+(IPCC, 2021), particularly inland. 
+Drought can have interconnected impacts and the subregion’s DVA has taken a sustainable 
+development approach, contributing to the urgent need for alignment of sustainable 
+development objectives and the lack of global progress towards the Sustainable Development 
+Goals (UN, 2023). A range of additional place-based vulnerabilities and strengths were identified 
+to help guide project prioritisation through the RDRP process. Areas of common high or low 
+disadvantage in Irwin Statistical Area 2 (SA2) and Morawa SA2, are shown in Figure 14 (ABS 2022; 
+Tanton et al 2021). SA2 boundaries can change at Census, but generally the Irwin SA2 includes 
+the Shire of Irwin; and the Morawa SA2, the remainder of the subregion. 
+Figure 14: Areas of high disadvantage by SA2 
+Carnamah, Coorow, Morawa, Perenjori and Three Springs have at least one threatened ecological 
+community (DBCA, 2023). DPIRD datasets show groundwater salinity is moderate to high in the 
+east and low to moderate in the west. They also show variable land capability, with a generalised 
+trend of moderate to high capability, however areas of low to very low capability in Perenjori, 
+eastern parts of Three Springs and central Carnamah. Three Springs is highly dependent on
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 28 
+agricultural employment (43 percent of jobs), followed by Mingenew (26 percent) and Coorow (25 
+percent) (Remplan, 2023).  
+Areas of low disadvantage (or potential resilience) were also analysed by Irwin SA2 and Morawa 
+SA2 area and are shown in Figure 15 (ABS 2022; Tanton et al 2021). By LGA  
+Socio-Economic Indexes for Areas (SEIFA) scores, Perenjori was the least disadvantaged local 
+government in the region and all LGAs apart from Morawa had less disadvantage compared to the 
+Mid West (Remplan, 2023). 
+Figure 15: Areas of low disadvantage by SA2 
+The subregion also has unemployment rates below 5 percent and residents in the subregion have 
+a greater diversity of income sources and less reliance on employee income, compared to WA 
+(ABS, 2022). Crime rates per 1,000 in 2022-2023 were below or well below the Mid West-Gascoyne 
+WA Police District rate (186.54 per 1,000) (WA Police, 2023). 
+Vulnerability Index and Resilience Assessment 
+Taking a sustainable development view, a snapshot of indicators across human, social and 
+physical capital were analysed, scored and averaged. To enable comparison this followed the 
+approach taken in the Mid West Pilot Program area with scoring from 1 to 5, with 1 being the 
+lowest vulnerability. The indicators used are detailed in Appendix B.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 29 
+This culminated in a drought vulnerability score for the North Midlands of moderate, or 3.5 out of 
+5, see Figure 16. The averaged score across the subregion should be interpreted with caution due 
+to variability between LGAs. This compares to a score of 3.3 in the Mid West Pilot area.  
+Figure 16: Drought Vulnerability Scores (Pilot Program Index) 
+The Index results indicate that the highest vulnerabilities are in areas related to natural capital, 
+being the change in drought frequency, change in growing season rainfall, trend in Landsat 
+Normalized Difference Vegetation Index (NDVI) and groundwater quality. Many landscapes in the 
+subregion have been significantly fragmented, cleared and modified, which may impact on its 
+ability to recover from changes and extreme weather.  
+The decline in rainfall over the southwest of Western Australia has been the most sustained 
+large-scale change in observed rainfall in Australia since the late 1880s (BoM, 2022). A 
+continuation of the trend of decreasing winter rainfall is projected with high confidence (CSIRO, 
+2024).  
+By 2030 only the southwestern tip of the North Midlands will remain in the 401-500mm winter 
+(April to October) rainfall zone, with rainfall decreasing inland. By 2050, no part of the subregion 
+is projected to receive over 400mm of winter rainfall on average. 
+The Mid West is entirely dependent on groundwater resources for community and industry use 
+(Water Corporation 2023; MWDC 2002a; Department of Water 2015) and parts of this subregion 
+are in medium to high groundwater table decline (1990-2014) (Aqueduct, 2023). Groundwater 
+resources in the Mid West have come under increasing pressure from abstraction for the mining 
+and agricultural industries (WA Government, 2022) and a stated challenge for the broader Mid 
+West in its Planning and Infrastructure Framework is to deliver sustainable quantities and 
+qualities of water to competing industries (Government of WA, 2015).
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 30 
+Both composite and cumulative effects of climate change on the subregion’s adaptive capacity 
+must also be considered. For example, triggering climate ‘tipping points’ would lead to changes 
+in addition to those commonly included in climate projections.  
+Cascading impacts could also push people and systems outside their adaptive capacity, for 
+example the cumulative impact of multiple natural disasters. Since 2000, the subregion has been 
+required on tipping points to integrate them into climate projections, hazard and impact 
+analyses, and adaptation plans. 
+The subregion’s adaptive capacity, combined with impact (exposure and sensitivity), was used to 
+develop a Vulnerability and Resilience Map. This composite map is developed from layers based 
+on a range of indicators, including those used in the Vulnerability Index. Using the same 
+methodology as used in the Pilot Program Mid West Regional Drought Resilience Plan (MWDC, 
+2022) impact combines exposure and sensitivity.  
+The mapping uses publicly available datasets to allow for future replication and comparison. 
+Future use of NDVI as a measure could investigate splitting cropping production and non-cleared 
+estate NDVI, with the non-cleared estate contributing to sensitivity in the ‘other’ category (NACC, 
+2024). Additionally, further social and economic indicators (as presented in the additional 
+discussion) could be considered.  
+The completed mapping concludes that drought vulnerability in the North Midlands ranges from 
+moderate to very high, with most of the region classified as having high or very high vulnerability, 
+see Figure 17. Large parts of Carnamah, Coorow, Morawa, Perenjori and Three Springs have very 
+high vulnerability.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 31 
+Figure 17: Drought Vulnerability Composite Map
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 32 
+Drought Resilience Plan
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 33 
+The Plan 
+Funding Plan (DAFF, 2023a). The FDF is an investment to build drought resilience in Australia’s 
+agriculture sector, landscapes, and communities. Providing $100 million per year in secure, 
+continuous funding for drought resilience initiatives, the FDF helps farms and communities 
+prepare for the impacts of drought.  
+The North Midlands RDRP has been developed based on the findings of the Policy Context and 
+Drought Vulnerability Assessment and the outcomes of the engagement process undertaken 
+across the subregion from May 2024 to April 2025.   
+Goals 
+The goals for the North Midlands RDRP are to create a plan that enables the subregion to: 
+- 
+Build economic, environmental and social resilience to future droughts and dry seasons 
+- 
+Be in a stronger position to adapt to climate change 
+- 
+Form stronger connections and networks within and between regions, and 
+- 
+Apply best practice data and information to make better decisions. 
+Overview of Stakeholder Engagement  
+Community engagement is a critical component of the Regional Drought Resilience Planning 
+process, to ensure that the RDRP is community owned and led. The engagement approach 
+involved working closely with both participating local governments and key stakeholders.  
+Recognising that a range of action types will be needed to ensure the resilience of the North 
+Midlands RDRP subregion, the concept of incremental, transitional and transformational change 
+(see Figure 18) from the Drought Resilience Funding Plan 2024-2028 was used as a foundation to 
+identify and organise potential actions. 
+Several consistent topics were heard through the engagement process. These included: 
+- 
+The subregion’s agricultural system has a level of existing experience and resilience to 
+dry conditions that can be used as a basis for adapting and preparing for future dry 
+conditions. 
+- 
+Access to a secure potable water supply is a vital part of resilience and stability. 
+- 
+Diversification of industry is an important part of the subregion’s resilience.  
+- 
+Maintaining the subregion’s population is as important as growing it. 
+- 
+Showcasing the positive aspects of living and working in the region is important. 
+These topics helped to guide the vision and outcomes which the RDRP seeks to address.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 34 
+Local Governments 
+In the North Midlands subregion, local governments are very connected to the needs of their local 
+communities and provide a range of services. Initial meetings were held with the CEOs of each 
+Shire to provide an overview of the RDRP Program and to seek guidance and initial thoughts on 
+the RDRP process. An information package was then provided to each CEO to take to their 
+Council to seek formal representation from each Shire for the Project Advisory Group (PAG). 
+Several follow up meetings have been held with local government CEOs to ensure they remain 
+updated on the progress and process and to provide an opportunity to provide further insights.  
+Project Advisory Group (PAG) 
+The PAG was formed from a diverse mix of local organisations, including nominated 
+representatives of each Shire, key local groups covering both agriculture and community, and 
+relevant government agencies.  
+The PAG was Chaired by a MWDC Project Officer and is comprised of representatives from the 
+following organisations: 
+- 
+Department of Industry and Regional Development (DPIRD) 
+- 
+Department of Water and Environmental Regulation (DWER) 
+Figure 18: Incremental, Transitional and Transformational Change Types (Drought Resilience Funding Plan 2024 to 2028)
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 35 
+- 
+Farm Business Consultant 
+- 
+Mid West Development Commission (MWDC) 
+- 
+Mingenew Irwin Group (MIG) 
+- 
+North Midlands Project 
+- 
+Northern Agricultural Catchments Council (NACC NRM) 
+- 
+Shire of Carnamah 
+- 
+Shire of Coorow 
+- 
+Shire of Irwin 
+- 
+Shire of Mingenew 
+- 
+Shire of Morawa 
+- 
+Shire of Perenjori 
+- 
+Shire of Three Springs. 
+PAG members are shown in Figure 19. 
+The PAG met consistently throughout the project phase including both online and face to face.   
+These meetings were focussed on: 
+- 
+Updates on the general progress of the project and community conversations 
+- 
+Input, insight and feedback into the ideas and information being captured 
+- 
+Guidance on prioritisation of information captured 
+- 
+Identifying links to individuals, projects and organisations working in the region and 
+subregion on drought related activities that could help to inform the RDRP 
+- 
+Reflection on the practical applications of the RDRP ‘on the ground’ 
+- 
+Discussion on how the community ideas captured could be developed into fundable 
+project ideas in the implementation phase of the project. 
+The PAG created a set of ‘working together’ values to guide work throughout the process, they 
+were: 
+- 
+Collaborative thinking for a greater regional outcome 
+- 
+Open to new ideas and ways of thinking to help create meaningful outcomes 
+- 
+Respect for the diversity and unique aspects of the communities involved 
+- 
+Place-based/location-relevant priorities, and 
+- 
+Outcomes driven to make a real difference in the North Midlands.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 36 
+Christine Zaicou-Kunesch 
+Department of Primary 
+Industries & Regional 
+Development 
+Karen McKeough 
+Department of Water and 
+Environmental Regulation 
+Geoff Fosbery 
+Farm Business Consultant 
+Kyle Williams 
+Mid West Development 
+Commission 
+Susannah Ward 
+Mid West Development 
+Commission 
+Gilly Johnson 
+Mid West Development 
+Commission 
+Dee McKeown 
+Mingenew Irwin Group 
+Andrew Bowman Bright 
+North Midlands Project 
+Taj Mamid 
+Northern Agricultural 
+Catchments Council 
+Emma Ogilvie 
+Shire of Carnamah 
+Gary Dring 
+Shire of Coorow 
+Mark Leonard 
+Shire of Irwin 
+Jonathon Holmes 
+Shire of Mingenew 
+Aimee North 
+Shire of Morawa 
+Daniel Bradford 
+Shire of Perenjori 
+Raman S Virdi 
+Shire of Three Springs 
+Figure 19: Project Advisory Group (PAG) members for the North Midlands RDRP subregion
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 37 
+Community Conversations 
+Broader community engagement was focussed on a series of ‘Community Conversations’ held at 
+each of the participating Shires including meetings in Mingenew, Morawa, Three Springs, 
+Perenjori, Carnamah and Coorow.  
+These events were promoted through a variety of channels including email, networks, and social 
+media to ensure they were visible. Where possible, local hospitality services and venues were 
+also used to ensure project expenditure benefitted the local economy.  
+Figure 20: Snapshot of some Community Conservations across the region
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 38 
+Each Community Conversation was supported by a structured agenda which included: 
+- 
+Education and explanation about the FDF and the RDRP priority. 
+- 
+Overview of the rollout of this priority in the Mid West region (Pilot and extension). 
+- 
+Facilitated conversation to share feedback, reflections, ideas and opportunities across 
+the five key areas of the plan and capturing of these ideas into the online ideas tool. 
+- 
+Creation of a one-page summary post Community Conversation for public promotion. 
+Ideas captured across the Community Conversations were entered into an online ideas database 
+to enable a consistency of data capture and to build a set of ideas across each of the broad 
+themes in the Plan.  
+Broader Engagement 
+In addition to the Community Conversations, meetings and conversations were held with several 
+groups that support the North Midlands subregion, to ground truth the ideas captured and to 
+seek further feedback and guidance. 
+In April 2025, the draft RDRP was provided for community feedback.  
+This was made available on the Mid West Development Commission website and promoted via 
+email, local government social media channels, direct to relevant key stakeholders and personal 
+conversations to promote the opportunity to be involved in reviewing the draft plan.  
+Overall, the engagement input showed high satisfaction that:  
+- 
+The RDRP presents stakeholder views and actions based on evidence 
+- 
+It captures existing positive actions undertaken in the subregion, and 
+- 
+It identifies priorities for investment and is suitable for use by a variety of people and 
+organisations.  
+A range of thoughtful feedback was provided by both community and organisation stakeholders, 
+and improvements were made to Plan based on this constructive and practical feedback.   
+Comments from the community review included: 
+- 
+“Huge amount of work evident, and obviously great links to all communities in sub-regions. 
+Lots of voices in here- which shows a great deal of investment in developing plan.” 
+- 
+“The plan does a very good job of outlining current activities and framing the drought 
+resilience actions and future requirements in a positive/constructive way.” 
+- 
+“Love the distinction between the different themes of resilience and the 'good news stories' 
+assigned for each shire under the different themes. The storytelling and inclusion of 
+tangible examples makes this a very engaging document.” 
+The monitoring, evaluation and learning (MEL) framework of the Plan will offer more 
+opportunities for the subregion community and key stakeholders to contribute to the ongoing 
+adaptive learning and progress of the Plan.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 39 
+Vision, Outcomes and Themes 
+The vision, goals and outcomes for the Mid West (North Midlands) RDRP were developed in 
+alignment with the local context, priorities determined through the drought resilience 
+assessment and the needs and aspirations of local stakeholders. This was then refined by the 
+PAG. 
+The Mid West (North Midlands) RDRP is organised across five themes (agriculture, community, 
+economy, landscape and water), with areas of focus and action ideas identified for each theme. 
+Vision 
+A North Midlands region that is able to prepare for, manage through, and bounce back from dry 
+seasons and drought, such that the individuals, industries, communities, landscapes and 
+ecosystems within the region continue to adapt, innovate and thrive. 
+Outcomes 
+The outcomes sought for the RDRP for the North Midlands subregion across five theme areas 
+(agriculture, community, economy, landscape and water) are shown below (Figure 21: Vision and 
+outcomes of the North Midlands (Mid West) RDRP).  
+Figure 21: Vision and outcomes of the North Midlands (Mid West) RDRP
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 40 
+Steps to Implementation: Idea to Project 
+According to the FDF guidelines, the regional drought resilience planning process seeks to build 
+plans that: 
+• 
+are community-owned and led involving local governments, regional organisations, the 
+agricultural sector and local Drought Resilience Adoption and Innovation Hubs 
+• 
+identify actions to prepare for future droughts based on evidence 
+• 
+build on existing planning, and 
+• 
+draw out regional needs and priorities to inform future investment. 
+The RDRP for the North Midlands subregion has included a comprehensive list of action ideas 
+brought forward during the community and stakeholder engagement process.  
+These ideas have been reviewed by the PAG and project team to identify ideas that were outside 
+the scope of the Plan and/or duplicated other ideas.   
+The included action ideas have been grouped under the: 
+• 
+Five key themes of the Plan (agriculture, community, economy, landscape and water) 
+• 
+Areas of focus under each individual theme, and 
+• 
+Type of change approach (e.g. Incremental, transitional or transformational). 
+The steps to implementation of these action ideas will include: 
+1. Review of availability of funding and funding sources, including timelines. 
+2. Prioritisation of actions against feasibility and impact. 
+3. Identification of selected action ideas to group together to create a fundable project, and 
+initial identification of possible projects lead and stakeholders. 
+4. Review of existing projects in the North Midlands to either avoid duplication or look at 
+options to extend or strengthen existing projects. 
+5. Creation of the Implementation Plan and scoping of projects in accordance with the 
+Investment Framework and Implementation Funding Guidelines. 
+6. Approval and execution of the Implementation Plan. 
+Not all the identified action ideas will be funded at any one time, and the monitoring evaluation 
+and learning (MEL) framework will be used to continue the consideration, prioritisation, updating 
+and funding of action ideas.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 41 
+Theme Areas 
+Resilient Agricultural Systems 
+Community Conversations across the North Midlands identified that farmers and farming 
+systems in the region have continually adapted and innovated to continue to produce good yields 
+and profitability, despite the changes in seasonal rainfall and temperature patterns.   
+Major changes such as the move to no-till seeding practices, systems enabling early sowing 
+opportunities, adoption of higher yielding varieties, and harvest stubble for paddock coverage 
+and biomass, were all examples of how the region’s agricultural community had developed 
+strategies to build dry season and drought resilience. 
+Dry seasons and drought have an impact on agriculture that goes from the paddock to the 
+community. Community Conversations identified the impact of dry seasons and drought on the 
+mental health of the agriculture community and the flow on effect to the broader community. 
+Building resilience from the paddock to the person was identified as an important aspect of the 
+conversation. 
+The geographic reach of the subregion from inland to coastal agriculture locations, combined 
+with a mix of both grains production and mixed enterprise (for example grain and livestock) 
+systems identified the need for drought resilience strategies to be broad to maximise impact 
+across the region. Conversations identified an opportunity for the region to build diversity for the 
+agriculture sector. 
+Future Drought Fund Objective: Grow the productivity and self-reliance of the agricultural sector 
+and improve the function of agricultural landscapes through effective management of the 
+natural resource base. 
+Areas of Focus 
+Key areas of focus include: 
+- 
+People, Finance and Business 
+- 
+Soils, Paddocks, Crops, Pastures and Livestock  
+“We have always adapted faster in our region – just because we had to with the 
+low amount of rainfall that we have.  As a result, we have remained a profitable 
+region.” 
+Community Conversation participant
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 42 
+- 
+Water, Weather, Environment and Landscapes 
+- 
+Knowledge, Networking and Capacity Building, and 
+- 
+Diversity and Innovation. 
+What’s Working | Considerations for Investment: Agriculture 
+The region is well known for an active amount of farm and agricultural trials and activations. The 
+RDRP for the North Midlands encourages the following during decision making regarding future 
+investment: 
+- 
+Continue to support farmer and organisationally led trials that focus on building drought 
+resilience ‘in the paddock’ where there is a focus on improved yield, economic outcomes 
+and sustainable farming practices that support building drought and dry season 
+resilience. 
+- 
+Support the community/grower groups of the region to better enable them to undertake 
+research, development and extension activities that support a resilient and sustainable 
+agriculture industry in the North Midlands. 
+- 
+Support and extend existing grower group and related projects that link to the Plan 
+themes to increase extension and adoption of practices that build drought and dry 
+season resilience. 
+- 
+Encourage sharing of projects, trials, outcomes and practice change across the North 
+Midlands to build a stronger profile of what it is to be a resilient farmer both in the short 
+and long term, and to continue to increase the visibility of projects, programs and 
+practice change that leads to an increase in sustainable farming practices, and drought 
+and dry season resilience.  
+Agriculture Action Ideas List 
+ONE: RESILIENT AGRICULTURAL SYSTEMS 
+ACTION IDEAS 
+People, Finance and Business 
+Incremental 
+1.1 
+Create a Dry Seasons Toolkit (hub) that captures the ways the region already manages 
+seasonal and longer-term dry seasons. Link to resources that are relevant to 
+North Midlands growing conditions. 
+1.2 
+Increase agricultural financial and human resource management skills during dry 
+seasons and drought. This could include managing farm debt-to-equity ratio in 
+relation to drought resilience risk profiles with the objective of helping growers 
+become more financially resilient to dry seasons and drought. Highlight the role of 
+farm historical records to help manage the risk to the next generation of growers, 
+farmers and community members.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 43 
+1.3 
+Identify the role of creating farm business incubators in the region that support the 
+growth of future generation farmers who are knowledgeable about building drought 
+resilient enterprises. Identify existing hubs and networks that may be able to offer or 
+extend to this service. 
+1.4 
+Run natural capital accounting workshops in the subregion to increase knowledge and 
+capability, and to keep growers abreast of the development of natural capital 
+accounting and its impact on farm finance, profitability and planning. 
+1.5 
+Create a place-based profile of the North Midlands Resilient Farmer through 
+programs, plans and/or education packages. Help current and next generation 
+farmers to understand the relationships between business, paddock and health, and 
+explore how to lead yourself and your farm through dry seasons and drought. Build 
+skills in decision making in a dry year – expect that it will happen if you are farming in 
+the North Midlands (e.g. farm for one good year in every three).  Identify how to get the 
+work/life/farm/red tape balance right to ensure wellbeing and personal resilience to 
+the peaks and troughs, while building a dry season and drought resilient farming 
+business (incorporating off farm and value add on farm income). Understand how to 
+protect your assets – soils, ecosystems and livestock for the long term.   
+1.6 
+Investigate and promote fodder storage systems to successfully store 2 – 2.5 years of 
+fodder for mixed enterprise systems as a way to plan to protect fodder, stock, 
+landscapes and profitability. 
+1.7 
+Identify and showcase farm diversification case studies and run education on building 
+a diverse farming enterprise – considering agritourism and post farm gate value add 
+opportunities. Not all diversity needs to be off farm – how can the farm ‘work smarter’.  
+Transitional 
+1.8 
+Build regional capacity across the agricultural community to develop pre-emptive 
+farm specific drought resilient plans (encompassing climate variability). These plans 
+can be seen as part of the overall risk management of a farm – linking dry season, 
+drought resilience and environmental sustainability, and preparing for the role of ESG 
+in the farm supply chain and business finance strategies. 
+1.9 
+Improve grain grower business resilience before, during and post drought. Identify 
+Agricultural Risk Management Tools to assist with on farm decision making.   
+1.10 Build knowledge about the role of ESG in the farm supply chain and the potential 
+impact in the future of accessing finance that is tied to farm/enterprise sustainability 
+credentials (e.g. Green finance lending). Find opportunities to link into existing 
+programs and networks that are building capacity in this domain. 
+Transformational 
+1.11 
+Create whole of farm systems that are adaptable to and innovating for changing 
+climatic conditions across both cropping and mixed enterprise systems in a proactive 
+way to build long term agricultural sustainability, resilience and profitability into the 
+region.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 44 
+Soils, Paddocks, Crops, Pastures and Livestock  
+Incremental 
+1.12 Build increased understanding about paddock design for increased water holding 
+capacity – explore the move away from contour banks etc and what rehydration 
+systems are suitable for the future. 
+1.13 Identify and promote the role of respite feed lots in a dry seasons and droughts to 
+reduce wind/water soil erosion risks and increase positive stock outcomes. 
+1.14 Support further research into natural fertilisers (e.g. worm juice and manures) to 
+offset use of synthetic and chemicals and increase soil microbial activity and water 
+holding capacity. 
+1.15 Identify and understand the opportunities for cover crops and perennial pastures and 
+light stock grazing using mobile e-fencing technology as an alternative to chemical 
+fallow and to diversify farm income. 
+Transitional 
+1.16 Understand grazing strategies suitable in the subregion to manage the ‘green drought’ 
+(early rains, early pasture growth/germination and no follow-on rain) for quality feed. 
+1.17 
+Investigate, understand and research the different farming systems required between 
+the Eastern and Western areas of the region to better understand soil management 
+practices of fragile coastal soils and the role of livestock and pasture in this 
+management to improve water holding/moisture capacity of the soils. 
+1.18 Review current soil amelioration systems in the region and research/identify new 
+tools and systems for increased crop resilience in dry seasons and drought - look at 
+the link to water efficiency, water holding capacity and drought resilience.   
+1.19 Identify and support further development of regenerative farming practices on a 
+broad acre scale and understand the potential for increased dry season and drought 
+resilience outcomes.  
+1.20 Identify regenerative farming practices case studies across the North Midlands at 
+both trial and at scale. Identify how regenerative practices can be applied to  
+non-livestock enterprises. 
+Water, Weather, Environment and Landscapes 
+Incremental 
+1.21 Identify the potential and role of the Water Smart Farms and Water Smart Dams 
+project to the North Midlands, including the use of bores for water supply, and extend 
+the value of the project to the region. Connect and leverage other industry groups 
+already undertaking Water Smart Farms and Water Smart Dams project activities. 
+1.22 Increase capacity to harvest/capture rainwater on-farm (e.g. tanks/gutters on farm 
+shed) to be used for spraying to enhance water quality. Improve water use efficiency 
+through innovations such as reducing evaporation or water re-use.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 45 
+1.23 Increase decision making skills in relation to weather patterns and seasonal outcomes 
+to build capacity to remain profitable in a season. Identify the tools, resources and 
+skills required to support decision making. Build into this scenario planning to 
+accommodate adverse weather events (e.g. Heavy summer rains, extreme heat etc). 
+Transitional 
+1.24 Undertake review/research into the use of the Weed Seed Destructor and other 
+similar equipment to understand the impact on soil moisture preservation.  
+1.25 Support the expansion of available ground water mapping information to identify new 
+ground water sources (e.g. bores) to increase quality and quantity of available water 
+for on farm activities. 
+1.26 Identify funding solutions for increased bore capacity (currently an expensive 
+activity). 
+1.27 Support investigation into the potential of summer rainfall opportunities – matching 
+off-season opportunities and crops to markets or environmental regeneration 
+outcomes. 
+1.28 Develop better plans for non-productive cropping land. Investigate potential partners 
+and opportunities to manage/support/grow non-productive land for alternative 
+markets – link to ecosystems, environment, bush foods and landscape restoration and 
+management. 
+1.29 Investigate the role and use of driveways and laneways as natural water capture 
+pathways to support increased capturing of water on farm. 
+1.30 Understand the impact of rising water tables in the subregion and the impact on soils, 
+paddocks and landscapes.  Identify concurrent projects in this space and share 
+knowledge across the region. 
+1.31 Undertake a feasibility study to investigate tools for pivot and drip irrigation in the 
+northern agriculture region. Develop a template-based input program for farmers and 
+investors to accurately cost the enterprise using local costing variables. Identify 
+startup grant funding for a design plan by a certified irrigation designer.  
+Transformational 
+1.32 Understand the impact of vegetation on rainfall patterns and identify potential 
+positive impacts from proactive landscape/environmental revegetation in the region. 
+Knowledge, Networking and Capacity Building 
+Incremental 
+1.33 Identify drought related programs across the North Midlands to capture shared 
+lessons learned; look at extending programs across the region and make it easily 
+accessible for farmers and stakeholders in the region.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 46 
+1.34 Investigate the establishment of a Farmer-to-Farmer communication platform to 
+enable the sharing of North Midlands farmer led on-farm trials and support for writing 
+these up by agronomist or project support officer. Identify ways to share this 
+information to foster increased networking and mateship, local visits and mental 
+health support.  
+1.35 Develop farming business incubators or mentoring programs to support next 
+generation farmers who may not yet have physically seen major droughts or dry 
+season on farm to build and share intergenerational knowledge, networks and 
+resilience across the region. 
+1.36 Identify funding to support project/executive officer assets to be shared across 
+smaller farming improvement groups in a coordinated way by linking existing smaller 
+groups. 
+1.37 Create a ‘Look Back to Look Forward’ resource linking Aboriginal knowledge of 
+drought resilience with on farm drought strategies – including traditional fire systems 
+to manage weeds, rehydration and reading landscapes. Identify Right People on Right 
+Country and links to existing and emerging Aboriginal Ranger Programs and partners, 
+along with potential for upskilling and new learning.  
+Transitional 
+1.38 Create a funding program to continue the development drought and dry season work 
+in the North Midlands.  This could be via a centralised community crop (different to 
+sporting/community groups) or the establishment of a region wide deductible gift 
+recipient (Deductable Gift Recipient (DGR)) status Community Benefit 
+Fund/Foundation that could receive donations of grain (and money) and provide tax 
+deductible receipts as an alternative method that reduces the management of a 
+community crop.  
+Transformational 
+1.39 Create The 2050 North Midlands Farm – identifying the best fit North Midlands farm 
+for the future (look at UWA Best Practice Farming Systems Project as a model). 
+Diversity and Innovation 
+Incremental 
+1.40 Identify, investigate and support the role of the Healing Country program across the 
+North Midlands to link both agricultural innovation, Aboriginal economic 
+opportunities, and landscape restoration. 
+1.41 Undertake a feasibility study exploring the options and opportunities of growing 
+seasonal local produce for the North Midlands area and beyond at a 
+community/commercial scale.  
+1.42 Review the impact across the North Midlands of the change to the export of 
+sheep/livestock and the availability of meat processing facilities to identify the 
+impact on mixed enterprise businesses and to consider longer term opportunities.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 47 
+1.43 Review the work of the multiple ecosystems services experiment at the UWA 
+Ridgefield (Pingelly) site and identify the lessons learned for the North Midlands. 
+1.44 Develop a deeper understanding of the role of building soil carbon as a drought 
+resilience practice and farm business income methodology. Link to existing 
+programs, information, education and projects in the North Midlands. 
+1.45 Investigate new commercial crops and markets suitable for the region that are 
+drought resilient, profitable and environmentally friendly.  
+Transitional 
+1.46 Develop more understanding of the impacts of livestock on regrowth and revegetation 
+activities, including recovery from natural disasters e.g. Cyclone Seroja. 
+1.47 Investigate the use of less productive land for business diversification for use by other 
+industries (e.g. resources and energy). 
+Transformational 
+1.48 Based on feasibility, diversify the North Midlands into a new food bowl and food value 
+add region using both traditional and novel approaches to production.  
+1.49 Investigate the opportunities of a Traditional Farming Partnerships program – 
+matching Aboriginal Economic Opportunities with non-productive land on farms – 
+partnering for ecological management and new bushfood/business opportunities. 
+Resilient Agricultural Systems Partners 
+The North Midlands includes the following existing partners who may be well placed to support 
+and activate Resilient Agriculture projects:  
+- 
+Department of Primary Industries and Regional Development 
+- 
+Department of Water and Environmental Regulation 
+- 
+Mingenew Irwin Group 
+- 
+Morawa Farm Improvement Group 
+- 
+Three Springs Farm Innovation Network 
+- 
+Perenjori Farming Forward Group 
+- 
+West Midlands Group 
+- 
+North Midlands Agricultural Society 
+- 
+Co-operative Bulk Handling  
+- 
+Grains Research Development Corporation 
+- 
+Yarra Yarra Catchment Management Group 
+- 
+Northern Agricultural Catchment Council 
+- 
+Mid West Food Industries Alliance 
+- 
+Grower Group Alliance - South West Drought Hub 
+- 
+Morawa Agricultural College
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 48 
+- 
+Aboriginal Groups (Right People on Right Country) 
+- 
+Elders and Nutrien (and other livestock/agricultural groups) 
+- 
+Local and regional farm consultancy groups 
+- 
+Local and regional farm business groups 
+- 
+Local and regional farm business/equipment/water supplies companies. 
+This list is formative and will continue to be developed as the Plan matures and projects are 
+implemented.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 49 
+Resilient Community 
+Community Conversations identified the importance of communities being able to prepare for 
+dry seasons and drought, and at the same time being able to bounce back from these 
+occurrences. One key term that came up during the Conversations was the importance of sharing 
+‘good news stories’, so that current and future community members understand the resilience 
+that has been built up over the years and how this has helped the community. 
+Like other community organisations such as the North Midlands Project, the Town Teams 
+movement and the Community Development Action Plans (Rural Aid – Bank of IDEAS), 
+Community Resource Centres and visitor centres, engagement identified the importance of 
+activities that help to attract, grow and retain people, businesses and groups in the community. 
+It is essentially the ‘working connections’ that offer the opportunity to withstand dry seasons and 
+drought. 
+Mental wellbeing during dry seasons, drought and natural hazards was discussed at many points, 
+along with the importance of having health providers who were in tune with the unique aspects 
+of supporting the community during these times.  
+Housing, childcare, employment, infrastructure and business all contribute to a drought resilient 
+community. Communities can be sustained only with people collectively working towards 
+building towns and a region that retains populations and attracts new residents. 
+Future Drought Fund Objective: Strengthen the social capital, wellbeing, and connectedness of 
+rural, regional and remote agricultural communities. 
+Areas of Focus 
+Key areas of focus include: 
+- 
+Attracting and Retaining People, Business and Groups  
+- 
+Growing and Supporting People and Groups 
+- 
+Creating a Healthy and Resilient Community  
+- 
+Creating a Liveable Region (Growing Events, Sports, Nature and the Arts), and 
+- 
+Growing Places and Spaces. 
+“Ripple effects of dry years are significant. Some are nearly irreversible  
+such as a steady stream of population decline.” 
+Community Conversation participant
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 50 
+What’s Working - Considerations for Investment: Community 
+The region is well known for an active community program, with many communities working 
+towards diversification in their community offering. The RDRP for the North Midlands 
+encourages the following during decision making regarding future investment: 
+- 
+Continue to support, bolster and strengthen community and not for profit groups that 
+have an activation footprint in the North Midlands and who are already working across the 
+themes of the Plan.  
+- 
+Link in with existing Community Action Plans (CAPs) developed through the Community 
+Builders program with Rural Aid.  Support and encourage all LGAs in the North Midlands 
+to participate, where possible, in programs that develop action plans to foster ongoing 
+community development. 
+- 
+Encourage sharing of plans, activities, projects and outcomes within the community 
+groups space to build a stronger profile of what it is to be a resilient community both in 
+the short and long term in the North Midlands. 
+- 
+Understand and consider the unique nature of the communities of the subregion– from 
+coastal to inland – and their placed based needs and connections. 
+- 
+Invest in reviews that identify work already done in this theme to avoid duplication of work 
+and expenditure of grants and funds. 
+Community Action Ideas List 
+TWO: RESILIENT COMMUNITY 
+ACTION IDEAS  
+Attracting and Retaining People, Business and Groups 
+Incremental 
+2.1 
+Continue to share the Good News Stories of living and thriving in the North Midlands 
+to support community wellbeing and attract new community members.   
+2.2 
+Identify the benefit, function and fit for a central North Midlands online hub that can 
+act as a one stop shop for the community and industry to create a stronger shared 
+brand and create more opportunity for cross-regional communication.  Consider how 
+such a resource will be legacy funded and managed.  
+2.3 
+Investigate the provision of new community member welcome kits to promote 
+friendship making and sharing of regional community services. 
+2.4 
+Identify the unique living points of the region and create a targeted resource that can 
+be used to promote living and working in the North Midlands region.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 51 
+Transitional 
+2.5 
+Identify activities and projects that can help to support and advocate for the ongoing 
+forums, projects and conversations regarding childcare offerings across the Shires to 
+understand the issues, current plans and opportunities across the region through a 
+drought and dry seasons lens.  
+2.6 
+Identify activities and projects that can help to support and advocate for the ongoing 
+forums, projects, reports and conversations to understand the housing issues and 
+opportunities across the North Midlands and identify share actions and potential 
+funding through a drought and dry seasons lens.  
+2.7 
+Identify the barriers to new building and housing developments (e.g. power and water 
+connection costs) and advocate with key stakeholders to subsidise costs in line with 
+city counterparts. 
+2.8 
+Identify opportunities to create offerings of new land (e.g. like Bindoon/Chittering) to 
+attract new families to the region. Identify how to create a small landholder 
+opportunity in the region.  
+Transformational 
+2.9 
+Work with regional partners and key stakeholders to create the North Midlands Five 
+Families Project to attract five new families to each of the participating shires by 
+2035.  
+Growing and Supporting People and Groups 
+Incremental 
+2.10 Undertake a review of all community groups in the region to identify barriers to their 
+continued operations (e.g. Insurance costs, volunteer burnout, lack of paid staffing 
+etc) with the aim of identifying shared workable solutions to strengthen their  
+long-term sustainability and benefit to the region. 
+2.11 Map and identify ‘staying in place programs and pathways’ for older members of the 
+community. 
+2.12 Map and identify opportunity pathways for young people in the community including 
+education, sporting, community involvement, training and employment.  Link this to 
+new and existing industries in the region. 
+Creating a Healthy and Resilient Community  
+Incremental 
+2.13 Undertake a map and gap audit of the current mental health services and programs 
+that operate across the North Midlands to identify needs and opportunities. 
+2.14 Create and distribute a North Midlands toolkit/information package for health 
+professionals operating or visiting the region to better understand the unique 
+communities in the region and how to provide health services that demonstrate an 
+understanding of the members of the community and tipping points, especially during
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 52 
+dry seasons and drought. Review the work of rural and remote health organisations to 
+identify existing work to support this. 
+2.15 Undertake a review of all health/medical services that are available in the region to 
+map the regional services profile and then identify opportunities to attract new health 
+services to the region or support existing services. Work with LGAs and key 
+stakeholders to identify how this information can help to support advocacy activities 
+for increased funding to ensure adequate medical services.  
+2.16 Investigate pathways and advocacy stakeholders to seek payment for ambulance 
+volunteers to offset costs and to manage volunteer burnout and unavailability during 
+dry seasons and drought. 
+2.17 Investigate the provision of Mental Health First Aid training across the region to help 
+reduce the stigma attached to accessing support during times of need and to build 
+community capacity and knowledge in the provision of on the ground mental health 
+first aid.  
+2.18 Support programs that provide Aboriginal health and mental health support in 
+communities on Country in the region. 
+2.19 Conduct research into identifying vulnerable cohorts in the subregion who are most at 
+risk during dry seasons and drought and identify and support activities that enable 
+community support to these cohorts. 
+2.20 Convene a dry seasons and drought risk forum for education leaders in the subregion 
+to better understand the impact of dry seasons and drought from a community 
+education lens, and incorporate this information into Plan projects and outcomes.  
+Transitional 
+2.21 Create a pre-season North Midlands Mental Fitness program that can be incorporated 
+into the North Midlands sporting clubs (and others) – match physical and mental 
+health pre-season strategies to reduce stigma and increase uptake of matching your 
+physical fitness to your mental fitness to build overall resilience – embed this into the 
+North Midlands Sporting Associations. 
+2.22 Grow a more life skills resilient community – identify the opportunity to offer 
+community life skills sharing events to support young community members to grow 
+their own personal resilience (intergenerational opportunities). 
+2.23 Create and implement a dry seasons and drought resilience education program 
+across the North Midlands region. 
+Transformational 
+2.24 Create a healthy community that can manage the mental health challenges through 
+dry seasons and drought conditions with increased mental fitness.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 53 
+Creating a Liveable Region 
+Incremental 
+2.25 Map, communicate and showcase how the communities in the North Midlands 
+subregion can work together to create a whole of region, liveable location and identify 
+how the subregion’s connections help build dry season and drought resilience (e.g. 
+linking both coastal and inland LGAs). 
+2.26 Review the Community Actions Plans in place by Rural Aid (Community Builders) and 
+identify shared links of action to bolster, support and fund across the North Midlands. 
+2.27 Support the growth of Aboriginal and cultural events (e.g. Mid West NAIDOC event in 
+Morawa) as signature events that attract people to the region. Incorporate on country 
+activities and intergenerational activities. Work to empower the North Midlands 
+Aboriginal community to identify their preferred ways to share culture and 
+intergenerational activities. 
+2.28 Identify financial support pathways to create better access to recreational activities 
+in the region to support community wellbeing. 
+2.29 Strengthen the availability of healthy recreational activities for young members of the 
+community to reduce negative outcomes on health, wellbeing and resilience. 
+2.30 Undertake an audit of the large community events across the subregion to identify 
+their drought risk and identify how to make these dry season and drought resilient to 
+avoid cancellation. 
+2.31 Develop a drought resilience risk toolkit/ management plan for community events to 
+reduce cancellation and increase likelihood of success in a dry season or drought. 
+2.32 Create a detailed community events plan for the subregion to optimise shared 
+elements, develop a unified events profile, and improve community involvement. 
+2.33 Create a regional ‘pop up community wellbeing’ plan that is activated during dry 
+seasons and drought to proactively address community needs during vulnerable 
+community times (supporting the tipping point times). 
+Transitional 
+2.34 Audit the sporting and recreational assets of the region to better understand how to 
+market these to visitors to the region, and to create a fee for service offering to 
+sporting and recreational groups from outside the region. 
+2.35 Create opportunities to bring more events and activities to the North Midlands region. 
+As part of this, undertake a review of all major events currently undertaken in the 
+North Midlands subregion to identify their drought and dry season risk management 
+plan and their links to one another, as a way of helping to create a more regional 
+events profile and plan. 
+2.36 Identify the opportunity of a community crop location that benefits a drought 
+resilience fund in the region, as well as acting as a basis for trials and meeting place
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 54 
+Resilient Community Partners 
+The North Midlands includes the following existing partners who may be well placed to support 
+and activate Resilient Community projects:  
+- 
+Local Government Authorities 
+- 
+North Midlands Project 
+- 
+Rural Aid 
+- 
+North Midlands Agricultural Society 
+- 
+Town Team Movement 
+- 
+Australian Men’s Shed Association 
+- 
+Country Women’s Association 
+- 
+North Midlands Education Networks  
+- 
+Central Regional TAFE 
+- 
+North Midlands Sporting and Recreation Groups 
+- 
+Community Resource Centres in the region 
+- 
+Shire Community Development Officer Network 
+- 
+Community Gardens in the North Midlands 
+- 
+WA Country Health Services 
+- 
+WA Primary Health Network (WAPHA) 
+- 
+Desert Blue Connect (and other social enterprise organisations) 
+- 
+Foundation for Rural & Regional Renewal. 
+This list is formative and will continue to be developed as the Plan matures and projects are 
+implemented.  
+for the community to better engage both farming and non-farming community 
+members.  
+2.37 Identify other regions in the world that have similar dry season and drought resilience 
+environmental factors and understand how they build healthy and resilient 
+communities, with the aim of identifying lessons that can be applied to the region. 
+Greening Places and Spaces 
+Incremental 
+2.38 Undertake an audit of local government greening programs across the region to 
+identify shared opportunities for funding, capacity building, knowledge sharing and 
+waterwise strategies; link these together as a greening spaces trail across the 
+North Midlands.   
+2.39 Support the development of and strengthening of local community gardens as a way 
+to foster social connection and good mental health, encourage local fresh produce, 
+increased skills and education in growing food in a drought resilient way, encourage 
+healthy eating, seed sharing and reducing food miles. As part of this, create a network 
+of community gardens across the regions to foster opportunities for visits between 
+the gardens and promotion of a community garden trail. 
+2.40 Identify local Aboriginal Economic Business opportunities across the region.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 55 
+Resilient Economy 
+\ 
+Community Conversations related to building economic resilience all identified the importance 
+of growing existing businesses that can support both the agricultural and community needs of 
+the region, while identifying potential new industries that could be developed or attracted to the 
+region. 
+It was noted that many businesses are impacted by seasonal trends and the resulting decisions 
+that are made by farming businesses, and that it is difficult to attract new employees when there 
+is also a housing and childcare shortage.  
+Conversations noted the importance of building diversity into the business sector, and many felt 
+that the tourism, resources, food, carbon and renewable energy sectors offered a pathway to 
+increased economic and business diversity, to reduce the reliance on the agricultural sector and 
+build economic resilience in the region. 
+Additionally, value adding opportunities post ‘farm gate’ and building the visibility of the remote 
+workforce in the region, were noted as opportunities to be explored and developed, along with 
+building a strong profile of training and business development across the North Midlands. 
+Future Drought Fund Objective: Grow the productivity and self-reliance of the agricultural 
+sector; and strengthen the wellbeing and social capital of rural, regional and remote 
+communities. 
+Areas of Focus 
+Key areas of focus include: 
+- 
+Identify and Capitalise on Business Growth Opportunities 
+- 
+Support Economic Diversification and Business Development 
+- 
+Identify and Develop New Industries 
+- 
+Identify and Reduce Business Development Constraints, and  
+- 
+Build Business Training, Networking, Support and Leadership Capacity. 
+What’s Working - Considerations for Investment: Economy 
+While the region has a large economic footprint derived via agriculture and resources, it is also 
+a region growing in diversity of economic opportunities via both the natural and built assets in 
+the North Midlands.  The RDRP for the North Midlands encourages the following during decision 
+making regarding future investment: 
+- 
+Clearly understand the current and future access to reliable telecommunication 
+services (e.g. AARNet High Speed Fibre spurs to Mingenew, Three Springs, Coorow and
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 56 
+Carnamah) and its potential to provide new industry opportunities and strengthen the 
+diversity of existing businesses in the North Midlands. 
+- 
+Identify potential and pathways for the North Midlands to harness the growing 
+renewables and energy sector in the region to link to building business diversity across 
+the North Midlands. 
+- 
+Leverage both the natural and built assets in the region as part of building economic 
+diversity in the region. 
+- 
+Support and champion projects that showcase diversity of business opportunity in the 
+region. 
+Economy Action Ideas List 
+THREE: RESILIENT ECONOMY 
+ACTION IDEAS 
+Identify and Capitalise on Business Growth Opportunities 
+Incremental 
+3.1 
+Undertake an audit of all business and community trades/support services across the 
+region to identify gaps and opportunities. Create a traffic light score card of critical 
+trades and services across the region to monitor and prioritise growth opportunities 
+(identify whether this is a point in time or ongoing scorecard that may be developed in 
+the region). As part of this, identify how this scorecard will be future resourced, used 
+and managed. 
+3.2 
+Identify and share quick wins and case studies of businesses in the region adapting to 
+dry seasons and/or adopting diversification to grow. 
+3.3 
+Identify the ‘hidden remote workforce’ in the region to map the skills of the region and 
+to create networks and links to business growth opportunities in the region. 
+3.4 
+Work with key stakeholders to create a shared North Midlands tourism platform and 
+brand that showcases all aspects of the offerings in the region across the year and 
+includes wildflowers, history and heritage, Aboriginal culture, the natural 
+environment, agriculture, industries, night sky etc to build a year-round tourism 
+offering for the region.  
+3.5 
+Undertake an audit of all the tourism offerings to provide increased opportunities for 
+collaboration, diversification and economic development in the region.   
+3.6 
+Identify novel and new tourism activities (e.g. geocaching) that showcase the natural 
+and built assets of the subregion to increase opportunities to bring people to the 
+North Midlands and diversify tourism and economic opportunities. 
+3.7 
+Strengthen networks and opportunities and to work with Tourism WA, Coral Coast and 
+Golden Outback to build capacity to achieve event and other funding activities.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 57 
+3.8 
+Create a North Midlands Pool Hop & Seaside Splash summer trail that brings visitors 
+to the region off season to increase summer season economic benefits to the region 
+(business benefit is across pools, accommodation, fuel, food etc). 
+3.9 
+Build a stronger profile of the North Midlands as an Astro tourism region to build upon 
+the work already done with Mingenew, Three Springs, Perenjori, Coorow and Morawa 
+already being listed as Astro tourism Towns. 
+3.10 Support and promote local produce and business opportunities into the new 
+supermarket at Perenjori and other North Midland food retailers.   
+Transitional 
+3.11 
+Create a North Midlands business hub that can showcase the business opportunities 
+of the region. This could include jobs, training, accommodation availability etc. 
+Encourage the community and industries to ‘look local first’.  
+3.12 Investigate and advocate for a ‘living in place’ program that encourages new industries 
+(renewables, gas, mining, etc) to house their workforces in existing rural 
+communities.  
+Support Economic Diversification and Business Development 
+Incremental 
+3.13 Investigate and showcase opportunities for value add or agribusiness diversification 
+opportunities to existing agricultural products in the region to create new business 
+outcomes (e.g. micro-brewery using malting barley grown in the region, free range 
+eggs for pasture regeneration).  Look at how successful diversification has taken 
+place in other regions (value add, farm stay/camping, events, dark sky etc). 
+3.14 Identify the existing agrifood assets in the region (e.g. Morawa Ag and MEEDAC hot 
+houses) that could support the development of an agrifood hub in the North Midlands 
+subregion. Identify the capacity, constraints and opportunities of the existing assets 
+to link to future development and economic outcomes. 
+3.15 Investigate how major industries (mining, gas, renewables and others) in the North 
+Midlands currently provide local supplier/procurement pathways to assist local 
+businesses and service provides to benefit from major procurement tender and 
+contract opportunities in the North Midlands. 
+3.16 Create a regional capacity map to identify the business, equipment and assets of the 
+region that can be identified as local content businesses for resources and others 
+(e.g. LGA) engagement.  
+3.17 Work with major industries (mining, gas, renewables and others) to establish local 
+supplier/procurement pathways to assist local businesses and service providers to 
+quote and tender for supply and service contracts for major projects in the North 
+Midlands. 
+3.18 Identify all existing vacant buildings and investigate shared space business 
+opportunities for existing and new businesses. Ensure that each LGA in the region has
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 58 
+a micro-business hub that can accommodate multiple small businesses to mitigate 
+risk and increase business profitability. 
+Transitional 
+3.19 Review the current ways in which businesses are supported across the region and 
+identify gaps and opportunities that enable businesses to become more drought and 
+dry season resilient. 
+Transformational 
+3.20 Develop and adopt community benefit frameworks for major projects in the North 
+Midlands, so that proponents align with and support community aspirations and 
+resilience goals. 
+Identify and Develop New Industries 
+Incremental 
+3.21 Investigate existing infrastructure across the region (what is already in place) that 
+offers locally new business or growth opportunities (e.g. multiple commercial 
+kitchens and meeting rooms). 
+3.22 Identify waste that is created across the region (e.g. food, feedlots etc) and 
+investigate opportunities for value add or creation of new products and business 
+(e.g. compost, beverages etc). As part of this, identify current projects in action with 
+DPIRD and other agencies that could be incorporated or expanded in the 
+North Midlands. 
+3.23 Identify the support needs of the region that are currently outsourced to non-local 
+businesses to identify opportunities for local support businesses to be created (e.g. 
+IT support, agtech support etc).  
+3.24 Create a local annual fund to encourage and support entrepreneurship and  
+micro-enterprises in the region. 
+3.25 Map the renewables and energy projects across the region, with the aim of 
+understanding how to position the North Midlands as a significant region to support 
+growth in these industries and capture positive economic impact and outcomes. 
+Transitional 
+3.26 Create stronger networks with major non-agriculture industries in the region to 
+deepen understanding of the current and proposed activity in the region and to 
+identify opportunities for local content and local workforce engagement.  
+3.27 Identify and capture the opportunities to create new businesses or expanding existing 
+businesses that can service new and emerging industries in the region (e.g. carbon 
+farming, renewables, agtech, geotech etc). 
+3.28 Identify the technology and business opportunities in the region that stem from the 
+availability of reliable high speed internet services such as the AARNet system to
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 59 
+develop potential new business incubator hubs and opportunities to position the 
+North Midlands as a hub of agtech potential. 
+3.29 Support ways for the North Midlands region to participate in the supply of power for 
+Geraldton/Perth and surrounding regions to build business diversification into the 
+region and create economic resilience in dry seasons and drought.  
+3.30 Identify, map and build upon the existing space industry assets across the 
+North Midlands and identify the opportunity for further growth in the space, 
+astronomy and dark sky tourism industries. 
+3.31 Advocate for more State and Federal investment in improving road infrastructure 
+(State and Shire owned) to support and make fit for purpose for exploration and 
+development activity of new industries in the region. 
+Transformational 
+3.32 Enable businesses in the North Midlands to become more resilient to the economic 
+and social impacts of dry seasons and droughts through business innovation, 
+diversity and growth opportunities. 
+3.33 Position the North Midlands as a future business headquarters hub to encourage long 
+term industry growth and development. 
+Identify and Reduce Business Development Constraints 
+Incremental 
+3.34 Undertake a survey of all small businesses in the region – understand the impacts of a 
+dry season and what support they need to become more resilient to dry seasons and 
+drought.  
+3.35 Develop a drought resilience toolkit and plan for small businesses in the region to 
+provide accessible information and tools to help small business plan and prepare to be 
+more resilient during dry seasons and drought. 
+3.36 Identify the opportunity to match small business capital improvements and 
+community streetscape development (e.g. shared capital improvement) to support 
+business and community asset development. 
+3.37 Create an asset register of storage incubators across the region to identify gaps or 
+further needs to support current and new small trade businesses in the region.  
+3.38 Work with key stakeholders in the region to formulate short and long-term 
+employment housing options. Look at options of multi-use accommodation options 
+to manage seasonal needs with regional stakeholders. 
+3.39 Identify incentives for investment in housing infrastructure in region and how to 
+overcome current constraints.
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 60 
+3.40 Partner with LGAs to audit the regional childcare asset base (business, skills, 
+capacity, demand etc) to identify new business opportunities and link to funding 
+programs to build childcare capacity and skills in the region.  
+3.41 Work with key stakeholders to assess the short and long-term connectivity security 
+issues of the region from both a community, business and safety point of view. 
+Transitional 
+3.42 Identify a North Midlands roadmap to ensure reliable telecommunications 
+connectivity for growth, liveability and safety in the region. 
+Build Business Training, Networking, Support and Leadership Capacity 
+Incremental 
+3.43 Create a North Midlands Leadership, Business and Entrepreneurs network to 
+facilitate individual and business networking, training and development, and growth 
+opportunities. 
+3.44 Create a Resources Ready training program for better engagement with the resources 
+industry and create an online business hub where local content assets can be easily 
+accessed by the major project industries, organisations and proponents in the region. 
+3.45 Leverage the capacity of the Community Resource Centres (CRC) to strengthen their 
+role in providing business incubation support, business networks and partnerships, 
+and shared learning across the region. 
+3.46 Review and promote the apprenticeship and traineeship offerings of the region and 
+support young people to remain in the region with confidence in further training and 
+employment opportunities. 
+Resilient Regional Economy Partners 
+The North Midlands includes the following existing partners who may be well placed to support 
+and activate Resilient Economy projects:  
+- 
+Local Government Agencies 
+- 
+Community Resource Centre Network 
+- 
+WA Local Government Association 
+- 
+Department of Jobs, Tourism, Science and Innovation 
+- 
+Department of Biodiversity, Conservation and Attractions 
+- 
+Mid West Development Commission 
+- 
+Mid West Chamber of Commerce & Industry 
+- 
+Mid West Food Industries Alliance 
+- 
+North Midlands Project 
+- 
+Western Power 
+- 
+Regional Development Australia Mid West & Gascoyne 
+- 
+Australia’s Academic And Research Network 
+- 
+Telecommunications Agencies
+
+FINAL - Mid West (North Midlands) RDRP  |  2025  |  Page 61 
+- 
+Agriculture and Resources Industry Bodies 
+- 
+Central Regional TAFE 
+- 
+Tourism Western Australia 
+- 
+Astrotourism Western Australia 
+- 
+Australia’s Coral Coast 
+- 
+Australia’s Golden Outback 
+- 
+Western Australian Indigenous Tourism Operators Council 
+- 
+Tourism Geraldton Mid West. 
+This list is formative and will continue to be developed as the Plan matures and projects are 
+implemented.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 62 
+Resilient Landscapes  
+Community Conversations identified both the importance of and a desire to value, protect, 
+manage and improve the environment and landscapes of the region.  This is also reflected in each 
+of the strategic plans of the participating Local Government Shires. 
+The region is home to a few carbon-based projects which have different impacts on the 
+surrounding community and, while there is a strong recognition of the importance of 
+revegetation, there is also acknowledgment of the need for better natural capital accounting 
+practices and guidelines to provide market drivers for revegetation that are integrated within a 
+productive agricultural landscape. 
+The natural assets of the region come to life during the wildflower season, and this is a key 
+tourism and economic driver. Recognising that this environmental drawcard has the potential to 
+be diminished by drought, the opportunity to strengthen and diversify tourism and small business 
+opportunities to offset the impact of a drought is a priority for the region.  
+The Conversations also identified the potential for greater collaboration with the traditional 
+ecological knowledge of First Nations people and contemporary farming practices, extending to 
+remnant, riparian, and reserve management. Linkages between traditional and western 
+management practice to improve the condition and extent of natural capital and ecosystem 
+services can enhance environment and agricultural resilience in the region. 
+Future Drought Fund Objective: Improve the function of agricultural landscapes through 
+effective management of the natural resource base. 
+Areas of Focus 
+Key areas of focus include: 
+- 
+Natural Capital Management  
+- 
+Reserve Connectivity and Management 
+- 
+Restoration and Revegetation  
+- 
+Future Farm Practices, and  
+- 
+Community Engagement, Education, and Landscape Group Support. 
+What’s Working - Considerations for Investment: Landscape 
+The region has a wonderful asset base of natural resources, which offer both environmental 
+and financial benefits to the region and the communities within the North Midlands. The RDRP 
+for the North Midlands encourages the following during decision making regarding future 
+investment:
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 63 
+- 
+Use the existing natural resources management strategy vision for the Northern 
+Agricultural Region (NARVis) as a guiding resource to link to when considering investment 
+in the action ideas.  This vision: ‘Sound natural resource management by a vibrant local 
+community will support a healthy and well-functioning environment and a diversified 
+regional economy’ can provide a sense of direction that is linked to a broader vision for 
+the Northern Agriculture region, of which the North Midlands is located. 
+- 
+Encourage partnering between individuals, groups and agencies as a critical pathway for 
+the development of long-term sustainability in the region by offering opportunities to 
+activate and invest in projects that bring benefit to multiple groups in the North Midlands. 
+- 
+Build upon existing work done by Natural Resource Management Groups that provide 
+underpinning research, information and guidance to the action ideas.   
+Landscape Action Ideas List 
+FOUR: RESILIENT LANDSCAPE 
+ACTION IDEAS 
+Natural Capital Management (Reporting, Monitoring and Accounting) 
+Incremental 
+4.1 
+Collect and collate information on the region to establish a natural resources 
+conditioning report card – work with local groups to undertake and support this 
+program and link to the further development of the North Midlands DVA. As part of 
+this, investigate the existing available environmental score cards for the region 
+(e.g. ANU / TERN) to avoid duplication. 
+4.2 
+Support the role of groups and Aboriginal ranger programs to monitor the natural 
+assets condition report card. 
+4.3 
+Identify the existing carbon-based projects (e.g. tree) in the North Midlands to better 
+understand the community and economic benefits (e.g. jobs creation) experienced, 
+with a view to creating a framework that helps to better link and match future carbon 
+projects in the North Midlands with positive community outcomes. 
+4.4 
+Ensure free and informed prior consent, develop a deeper understanding about 
+traditional ecological knowledge for drought resilience and match this with 
+contemporary farming practices and environment management to strengthen natural 
+capital management of the region. 
+4.5 
+Identify opportunities to increase the education and information sessions on natural 
+capital accounting in the region for farmers, land holders and the community to bring 
+the value of non-production areas to the balance sheet (natural capital). 
+4.6 
+Increase carbon farming, biodiversity and emerging markets literacy and identify case 
+studies and forums to grow knowledge and capacity across the region.  
+4.7 
+Develop strategies to enhance the visibility of the North Midlands subregion in the 
+formulation of future Natural Capital farming programs and policies in the Mid West.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 64 
+Transitional 
+4.8 
+Review and document the impact of recent dry seasons and droughts on the natural 
+environment in the region to establish a baseline of vulnerability and identify 
+resilience building actions for the future. 
+4.9 
+Build capacity in farmers (land holders) to identify and prioritise the natural and 
+environmental assets of their land to work with and support ongoing management and 
+protection of these assets in the region. 
+4.10 Continue to support research, development and extension activities that promote 
+natural capital accounting practices in the agricultural systems in the region. 
+Transformational 
+4.11 Better understand and communicate the economic, social and community value of 
+the natural resources and ecosystems of the North Midlands subregion. 
+Reserve Connectivity and Management 
+Incremental 
+4.12 Identify the ongoing damage from Cyclone Seroja in terms of remnant 
+vegetation/habitat loss and identify ongoing work needed and funding sources to help 
+on the ground groups in the short term. 
+4.13 Undertake spatial analysis of the region to prioritise locations to address 
+fragmentation in reserves – connect the corridor dots. 
+4.14 Continue to support riparian zone restoration programs as part of improving 
+environmental systems/flows/vegetation and connectivity. 
+4.15 Continue to support programs and groups focussed on restoring natural systems, 
+conserving biodiversity, and building resilience to environmental shocks. 
+4.16 Audit the unique coastal elements of the North Midlands subregion that are impacted 
+by dry seasons and drought.  Work with LGAs and key stakeholders to identify and 
+map activities that help to better manage the coastal region during times of impact. 
+Transitional 
+4.17 Create a plan of nature reserves and green belts that connect larger nature reserves 
+together to increase biodiversity in animal and plant ecosystems in the region. 
+4.18 Understand the environmental, farming and community impact on road verges to 
+identify a resilience building action plan for the subregion. As part of this, look at 
+current research in relation to the impact of the status of roadside vegetation on 
+pollination (and other impacts) of broadacre crops. 
+4.19 Explore methods to enhance and support various environmental issues and overall 
+ecosystem resilience through the development of native vegetation.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 65 
+Transformational 
+4.20 Create a whole of region map/resource including lands under Native Title 
+determination showing reserves, the health of these reserves, and the planned 
+management to build resilience for groups, landholders and communities.  
+4.21 Connect nature reserves and green belts to better support animal and plant 
+communities. As part of this, investigate the potential adverse impacts on the 
+profitability of agricultural systems. Look to local, national and global frameworks 
+(e.g. Kunming-Montreal Global Biodiversity Framework) to provide guidance. 
+Restoration and Revegetation (Market Drivers) 
+Incremental 
+4.22 Provide support, education, and incentives to farmers and landholders to engage in 
+activities that restore, protect, and revegetate vulnerable areas to ensure sustainable 
+future farming and ecosystem development. 
+4.23 Identify tools, programs and forums that can help farmers and landholders to more 
+easily document their environmental assets and identify financial incentives to 
+integrate carbon into their future business models. 
+4.24 Identify current restoration and revegetation projects in the region and communicate 
+the outcomes to extend relevant projects more broadly across the North Midlands 
+(e.g. NACC NRM biodiversity projects extension).  
+4.25 Identify threats (e.g. weeds, feral animals etc) to restoration and revegetation 
+activities to understand reduction actions required to reduce threats prior to site 
+preparation activities. 
+Transitional 
+4.26 Identify further work required in remnant vegetation assessment to understand the 
+impact of dry seasons and drought on road verge trees and how to manage this in the 
+future (tree loss with lack of rainfall – impact on remnant vegetation). 
+Transformational 
+4.27 Collaborate with farmers, landholders, and stakeholders to restore ecosystems and 
+biodiversity so the region can better endure dry seasons and drought. 
+Support Future Farm Practices (Revert and Convert Farm Practices) 
+Incremental 
+4.28 Support farmers and landholders to adopt farming systems and practices that have 
+beneficial outcomes for the land and ecosystems under their management, and which 
+lead to increased drought resilience and profitability.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 66 
+4.29 Identify and promote case studies and farmers in action who are supporting the 
+uptake of regenerative farming practices at scale that can apply to the North Midlands 
+region. 
+4.30 Review how farming systems impact dust storms, temperature and water erosion in 
+the region and identify future farming practices that lead to a reduction of impact.   
+4.31 Identify research into efficient machinery operations for straight runs (small areas) 
+that provides opportunity to grow and replant in other areas using least productive 
+land. As part of this, investigate a new land clearing formula that benefits both the 
+agricultural need with the nature reserve preservation requirements. 
+4.32 Identify the role of salt resilient crops and salt resilient vegetation to impact salinity 
+issues in the region. 
+4.33 Assist farmers in identifying profitable uses for land that is unsuitable for crops or 
+livestock, emphasising the economic and business diversity benefits, while 
+maintaining landscape and environmental benefits. 
+Transformational 
+4.34 Continue to make the business case for revegetation and restoration of land for future 
+farming endeavours in the region. 
+Community Engagement, Education, and Landscape Group Support (Capacity Building) 
+Incremental 
+4.35 Support Aboriginal Ranger programs to continue to build capacity and embed 
+traditional ecological knowledge where appropriate into the region. 
+4.36 Support existing community and industry groups who are undertaking education and 
+awareness raising activities to broaden their reach or extend their work. 
+4.37 Establish and promote a list of drought resilient plants that are suitable to use in 
+gardens in the subregion.  
+4.38 Engage with regional schools to help young members of the community to understand 
+traditional ecological knowledge and drought resilience and match this with 
+contemporary farming practices and environmental management. 
+Resilient Landscapes Partners 
+The North Midlands includes the following existing partners who may be well placed to support 
+and activate Resilient Landscape projects:  
+- 
+Yarra Yarra Catchment Management Group 
+- 
+Northern Agricultural Catchment Council 
+- 
+Aboriginal Groups (Right People on Right Country)
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 67 
+- 
+Department of Primary Industries and Regional Development 
+- 
+Department of Water and Environmental Regulation 
+- 
+Department of Fire and Emergency Services 
+- 
+Mingenew Irwin Group 
+- 
+Morawa Farm Improvement Group 
+- 
+Three Springs Farm Innovation Network 
+- 
+Perenjori Farming Forward Group 
+- 
+West Midlands Group 
+- 
+North Midlands Agricultural Society 
+- 
+Grower Group Alliance - South West Drought Hub 
+- 
+Morawa Agricultural College 
+- 
+MEEDAC. 
+This list is formative and will continue to be developed as the Plan matures and projects are 
+implemented.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 68 
+Resilient Water Systems 
+Community Conversations across the North Midlands identified having appropriate water 
+systems in place as an important part of building drought and dry season resilience across 
+industry, agriculture and community.   
+Access to secure and ongoing potable water sources is vital to dry season and drought resilience 
+in the North Midlands subregion. In addition to community resilience, access to water is essential 
+to realise goals for economic development and diversity and must be carefully planned against 
+current and future needs.  
+The Conversations also identified that there is an opportunity for the region to build a stronger 
+community commitment across both farm and non-farm community members for a collective 
+approach to capturing, storing and using water wisely including both potable and non-potable.  
+Multiple examples were given during the Conversations about the economic, social and 
+environmental impact of when water systems had failed. Individuals are keen to see activities 
+that can reduce risks in the current systems and develop more robust systems for the future. 
+These examples extended to the impact of natural hazards and other related events such as 
+major regional power outages which then have a flow on effect to the availability and security of 
+water for the community. 
+Additionally, education and community awareness about the sources of water in the North 
+Midlands and how to be a good community steward of the water that is available where identified 
+as important. In addition to sustaining the current community and industry, water availability is 
+critical to support new and emerging industries.  
+Future Drought Fund Objective: Grow the self-reliance and performance (productivity and 
+profitability) of the agricultural sector; improve the natural capital of agricultural landscapes for 
+better environmental outcomes; and strengthen the wellbeing and social capital of rural, regional 
+and remote communities. 
+Areas of Focus 
+Key areas of focus include: 
+- 
+Water Conservation, Harvesting and Efficiency 
+- 
+Water Supply, Sources and Security 
+- 
+Water Usage, Storage and Security 
+- 
+Water Quality, Innovation and Adoption, and 
+- 
+Water Literacy and Leadership.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 69 
+What’s Working - Considerations for Investment: Water 
+The region has a shared vision to protect its water resources and assets and encourages a 
+shared interest and ownership of the water that is available in the region.   
+The RDRP for the North Midlands encourages the following during decision making regarding 
+future investment: 
+- 
+Prioritise and advocate for long term potable water security for the subregion to ensure 
+short- and long-term community and industry stability.  
+- 
+Work with regulatory bodies and key stakeholders to increase access to information 
+that helps the region to understand its water sources, security and opportunities to 
+protect water sources. 
+- 
+Encourage and support each LGA to plan for and maximise the use of non-potable water 
+sources to undertake community greening programs.  
+- 
+Support LGAs to undertake a program to develop their own non potable Strategic 
+Community Water Supplies Plan, with relevant government funding. 
+- 
+Support the existing work of groups who are promoting waterwise planting and 
+community gardening programs.  
+- 
+Foster a sense of ‘shared water responsibility’ across community members in the North 
+Midlands to encourage personal ownership of actions that help to protect, preserve and 
+store available water. 
+Water Action Ideas List 
+FIVE: RESILIENT WATER SYSTEMS 
+ACTION IDEAS 
+Water Conservation, Harvesting and Efficiency 
+Incremental 
+5.1 
+Create a community factsheet about the water sources and systems of the 
+North Midlands to encourage understanding of how to conserve water in the 
+subregion. 
+5.2 
+Identify grants and funding to grow placed based water harvesting capacity 
+(e.g. gutters, tanks, downpipes, tanks at stock water points etc) across the 
+community. 
+5.3 
+Promote opportunities that enable community members to switch to low flow shower 
+heads and other water conservation methods (e.g. kitchen, laundry, grey water and 
+gardens) to mitigate poor water quality during drought and dry seasons (e.g. high 
+salinity corroding shower heads).
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 70 
+5.4 
+Identify incentives and pathways for using drought resilient/water wise plants in 
+community and local planting. As part of this, identify the potential for Aboriginal 
+economic opportunities to provide locally grown drought resilient seedlings.  
+5.5 
+Support partnerships between community, local government and major region 
+businesses (e.g. agriculture and resources) to activate water harvesting and water  
+re-use programs. 
+5.6 
+Advocate for increased support and funding to enable North Midlands LGAs to 
+participate in waterwise programs.  
+5.7 
+Advocate for North Midlands schools to participate in waterwise programs that build 
+capacity to become more drought and dry season resilient in the future. 
+Transitional 
+5.8 
+Support the development of tools that enable farm-based water conservation maps 
+and plans for better decision making. 
+5.9 
+Investigate and promote surface water management/rehydration systems that enable 
+the slowing down of water at the paddock by capturing and dispersing flood waters.  
+5.10 Investigate and share PhD/research work being done on water conservation and 
+security in dry season regions and provide access to the North Midlands region for 
+inclusion in research programs.  
+5.11 Investigate and share work in managing rising water tables.  
+Water Supply, Sources and Security 
+Incremental 
+5.12 Undertake an audit of all community spaces water solutions (e.g. dam, bore etc) that 
+facilitate greening activities to identify a risk management plan to ensure continuity 
+of green spaces during dry seasons and drought.   
+5.13 Identify the opportunities to harvest stormwater and wastewater (water re-use) to use 
+on community greening programs. Include feasibility and infrastructure costs – and 
+an audit of what is currently done and what could be done in the future. Work with 
+stakeholders in the region to support water harvesting opportunities. 
+Transitional 
+5.14 Undertake an audit of catchment/harvesting systems across the region – do we know 
+how we capture water across the North Midlands? 
+5.15 Understand the impact of dry seasons and drought on community sewerage systems.  
+Low rainfall potentially impacts the available water from dam/tank sources to treat 
+sewerage ponds, which requires topping up by scheme water (grey water then used to 
+water the oval).
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 71 
+Transformational 
+5.16 All people of the North Midlands region have at least three days of water in storage at 
+any one time to manage through a natural hazard or drought where normal water 
+supply sources are compromised. 
+Water Usage, Storage and Security 
+Incremental 
+5.17 Encourage programs that support investment/incentives in water tanks and forms of 
+water storage and security.  
+5.18 Create a map of community bores and dams – link to existing plans that identify 
+sources of non-potable/potable water for future water security. 
+5.19 Identify the grid and back-up power sources for community scheme programs to 
+ensure continuity of water supply during power outages. Consider how this may link to 
+climate change adaptation and emergency management programs.   
+5.20 Undertake research into the groundwater water security, quality and duration of water 
+supply. Work with key partners, DWER and Water Corporation, to create a shared 
+resource that can help to inform LGA planning in the future. 
+Transitional 
+5.21 Understand and promote the work of DWER who manage the number of groundwater 
+licences in the region. 
+5.22 Review all LGA water management strategies to identify shared elements and ability 
+to secure funding that can benefit the region.  
+5.23 Identify the requirement for new or upgraded infrastructure to manage long term 
+water security for shared community spaces to enable investment and maintenance 
+in greening spaces. 
+5.24 Identify how industry uses high quality ground water in their operations and work with 
+industry and key stakeholders to transition these systems to desalination. 
+Water Quality and Innovation and Adoption 
+5.25 Seek funding to improve water access and security, promote regional economic 
+growth and sustainability, or build resilience to drought and climate change 
+(e.g. DWER Community Water Supplies Partnership Program, National Water 
+Grid Connections Fund and the Agriculture Climate Resilience Fund). 
+5.26 Investigate and promote cost effective water quality treatment options like 
+desalination to improve water quality on farm and use of available ground water – link 
+to the Water Smart Farms program.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 72 
+5.27 Summarise desalination plants across the region, both on and off farm, to understand 
+how they meet water demands and determine how desalination could be incorporated 
+as a water security methodology for the future.   
+5.28 Review all agricultural irrigation activities in the region to understand how irrigation is 
+used in the North Midlands and consider a feasibility study to inform further 
+opportunities for the agriculture sector (link to action ideas that speak to 
+opportunities to strengthen the subregion as a food bowl region to address food 
+security and promote sustainability).  
+5.29 Identify potential new industries (e.g. horticulture, aquaculture, high value 
+hay/lucerne production) that could be established with better ground water and use of 
+desalination plants. Look at existing trials, early adoptions, and lessons learned (e.g. 
+Barramundi, almond, lucerne and mixed enterprise). Look at other diversification 
+programs using ground water (fresh and desalinated) and match to market demand. 
+5.30 Map locations using traditional and technical knowledge to identify potential reservoir 
+sites in the North Midlands for non-potable water supplies. 
+5.31 Investigate the research into livestock tree fodder crops for Australian Carbon Credit 
+Unit Scheme (ACCUs) and the benefits to the environment and agricultural industry 
+(eg. negates rising water tables, supplies feed during dry seasons/droughts and 
+supplies another stream of income). 
+5.32 Investigate drought tolerant grains, pastures, fodder crops and livestock – consider 
+new breeds for the region to enhance mixed enterprise and markets, including links to 
+the ACCUs. Seek to understand the impact on water table quality and quantity.  
+5.33 Develop a method, tools and plans to reduce scheme water leaks on farm over 
+distance. Create a farmer friendly set of tools and incentives that enable uptake in 
+identifying, fixing and reducing loss of scheme water from long distance farm 
+infrastructure.   
+5.34 Investigate the use of innovative or novel water storage equipment such as industrial 
+water pillows/bladders as a form of farm and community water storage that reduces 
+evaporation, increases safety and reduces contamination.  
+Water Literacy and Leadership 
+Incremental 
+5.35 Support and fund LGAs to review, update and communicate their emergency water 
+plans, maps and points to the community and local emergency groups to enhance the 
+safety of the community during times of dry season and drought. 
+5.36 Audit the existing water related projects being undertaken across the region to 
+identify shared knowledge, practice change, funding and applications. 
+5.37 Create a waterwise literacy education program with regional schools enhance 
+understanding of water sources of the subregion and how they can help to conserve 
+and protect water.   Consider an annual education activity that showcases what
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 73 
+schools are doing and celebrates the results of the children’s activities. Tie into the 
+STEM part of the curriculum. Identify a funding ambassador for the program. 
+5.38 Encourage greater community awareness and ownership of the shared role of water 
+stewardship in the North Midlands across community, groups and industry via 
+information and education.  
+5.39 Encourage drought resilient home and community gardens and gardening programs – 
+establish an ‘open garden’ tour in the North Midlands to coincide with the wildflower 
+season and to encourage local food production, drought resilient gardening, and 
+greater self-reliance by the community. 
+5.40 Review the book 'Aboriginal Journey Ways' (How Ancient Trails Shaped our Roads by 
+Dr Noel Nannup and Dr Francesca Robertson with Main Roads) to identify the drought 
+aspects of this resource and identify how a similar resource for the North Midlands 
+with a focus on dry season, drought and water resilience could be created. As part of 
+this, deepen and strengthen the understanding of traditional water management 
+approaches during dry seasons and droughts and local application. 
+Transitional 
+5.41 Encourage all businesses in the subregion to review their water usage and identify 
+opportunities for increased water management. 
+Resilient Water Systems Partners 
+The North Midlands includes the following existing partners who may be well placed to support 
+and activate Resilient Water projects:  
+- 
+Local Government Authorities 
+- 
+Yarra Yarra Catchment Management Group 
+- 
+Northern Agricultural Catchment Council 
+- 
+Water Corporation 
+- 
+Co-operative Bulk Handling 
+- 
+Department of Primary Industries and Regional Development 
+- 
+Department of Water and Environmental Regulation 
+- 
+Department of Fire and Emergency Services 
+- 
+Mingenew Irwin Group 
+- 
+Morawa Farm Improvement Group 
+- 
+Three Springs Farm Innovation Network 
+- 
+Perenjori Farming Forward Group 
+- 
+West Midlands Group 
+- 
+Aboriginal Groups (Right People on Right Country) 
+- 
+North Midlands Agricultural Society 
+- 
+Grower Group Alliance - South West Drought Hub 
+- 
+Morawa Agricultural College 
+- 
+North Midlands Schools Network 
+- 
+Community Resource Centre Network. 
+This list is formative and will continue to be developed as the Plan matures and projects are 
+implemented.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 74 
+Monitoring, Evaluation and Learning 
+Overview 
+The Mid West (North Midlands) RDRP has been developed to identify and guide priorities and 
+actions to build the region’s resilience to future droughts. To ensure its effectiveness and for 
+ongoing adaptive management of the Plan, a strong monitoring, evaluation and learning (MEL) 
+cycle is needed. 
+The FDF approach to MEL has been adopted in this instance and is represented in Figure 22. As 
+part of the implementation of the Plan and associated projects, a Theory of Change approach will 
+underpin MEL planning. 
+MEL incorporates three key elements, specifically: 
+- 
+Monitoring: The systematic and routine collection of data on program activities and 
+outputs to track progress against planned targets and timelines. It serves as an ongoing 
+process to provide stakeholders with regular insights into implementation. 
+- 
+Evaluation: A systematic and objective assessment of a program's design, 
+implementation, and results to determine its relevance, effectiveness, efficiency, 
+impact, and sustainability. It provides evidence-based judgments to inform decision-
+making and accountability. 
+- 
+Learning: The process of analysing, monitoring and evaluating findings, identifying 
+lessons learned, and using this knowledge to inform adjustments and improvements to 
+the program's strategies, implementation, and future iterations. It fosters continuous 
+improvement and adaptation. 
+Theory of Change explains how the activities undertaken by an intervention (such as a project or 
+program) can lead to change, delivering towards the desired outcomes of this Plan (pages 39).  
+Figure 22: Adapted from Future Drought Fund (FDF) Scope of Enquiry for MEL under the Funding Plan
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 75 
+Figure 23: MEL framework that formed part of Community Conversations 
+Evaluation 
+Key Evaluation Questions  
+The Key Evaluation Questions for the RDRP are:  
+1. To what extent has the Plan been implemented and has impacted on the regional 
+stakeholders’ capacity and resources to better plan, manage and recover from climate 
+challenges?  
+2. What changes/support are/is needed to ensure that the Plan best provides an effective 
+framework for action and stakeholders can effectively work together towards 
+implementing those actions?  
+Assumptions underpinning the implementation of the Plan  
+The FDF MEL plan identified the following assumptions for the RDRP to be effectively 
+implemented. Assumptions are the underlying beliefs or conditions that are presumed to be true 
+or hold constant for the program to be successful in achieving its intended outcomes. They are 
+the links in the causal chain that are not directly controlled by the program but are necessary for 
+the planned activities to lead to the desired results. 
+Key assumptions affecting outputs to 1–2-year outcomes: 
+- 
+Regional stakeholders have the capacity and capability to participate in strategic 
+planning.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 76 
+- 
+Regional stakeholders are willing to cooperate with each other on regional planning.  
+- 
+Program design is sufficient to give regional stakeholders opportunities to identify and 
+communicate regional drought resilience needs.  
+- 
+Relevant planning at other scales can be aligned.  
+- 
+Regional communities are motivated to take ownership of completed plans and actively 
+seek to implement them.  
+- 
+Communities are willing to share learnings with other regions.  
+- 
+There are sufficient learnings to inform future program design.  
+Key assumptions affecting outcomes from 3-4 years:  
+- 
+Supporting consortia of local governments/stakeholders representing a region will result 
+in changes in practice through those regions.  
+- 
+There are sufficient opportunities for regions to implement elements of plans.  
+- 
+Plans contain implementable activities to build drought resilience across Australia.  
+- 
+Regions continue to review, update and implement their plans.  
+These assumptions will need to be monitored during the implementation phase to provide 
+feedback and highlight areas that require further intervention. 
+Monitoring 
+MEL Data Collection Methods 
+As part of the implementation of the RDRP, data will be collected at established points. Collection 
+and collation of data will be integrated as part of collaborative planning, ongoing analysis and 
+review of existing data, along with methods such as surveys, interviews, focus groups, and case 
+studies. In designing the data collection process, consideration will be given to balancing 
+qualitative and quantitative data to provide deep and rich data capture. Dependent on 
+resourcing, potential methods for data collection include: 
+Tracking participation and engagement: 
+- 
+Attendance registers: Maintain simple sign-in sheets for workshops, training sessions, 
+and community meetings related to the drought resilience plan.  
+- 
+Number of participants: Regularly count the number of individuals, enterprises, or 
+community groups participating in different program activities. 
+- 
+Community group meetings: Track the frequency and attendance of any established 
+community working groups or committees involved in the Plan's implementation. 
+- 
+Website/social media engagement: Monitor website visits, social media likes, shares, 
+and comments related to the drought resilience initiatives. 
+Tracking Resource Distribution and Utilisation: 
+- 
+Distribution logs: Keep records of any resources distributed, including who received 
+them and when. 
+- 
+Usage records (where feasible): For shared resources, track usage patterns if possible 
+(e.g., through simple logbooks).
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 77 
+Tracking Implementation Progress: 
+- 
+Activity completion checklists: Regularly monitor progress status of initiatives within 
+the plan. 
+- 
+Timeline monitoring: Compare the actual progress of activities against the planned 
+timeline outlined in the drought resilience plan. Note any delays or accelerations. 
+- 
+Number of infrastructure projects completed: For projects involving infrastructure, 
+track the number of completed projects. 
+Gathering Feedback: 
+- 
+Informal check-ins: Encourage project staff or local facilitators to have informal 
+conversations with participants to gather their initial reactions and feedback on 
+activities. 
+- 
+Simple feedback forms (short and easy to complete): After key events (e.g. workshops), 
+distribute very short forms with 1-2 open-ended questions or simple rating scales (e.g., 
+"How useful did you find this session?"). 
+- 
+Verbal feedback collection: Train staff or volunteers to note down key feedback received 
+during interactions with stakeholders. 
+- 
+Focus groups: Facilitated discussions with small groups to gather in-depth feedback on 
+experiences and perceptions related to the drought resilience plan, providing rich 
+qualitative insights. 
+- 
+Case studies: In-depth look at specific examples or situations to understand how the 
+drought resilience plan works in practice and to identify key lessons and contributing 
+factors. 
+Transition to the North Midlands Resilience Network 
+As part of the ongoing governance of the RDRP, the Project Advisory Group (PAG) will seek to 
+transition to the North Midlands Resilience Network (NMRN). This network, in partnership with 
+the Mid West Development Commission (MWDC), will oversee the implementation, monitoring, 
+and evaluation of the Plan, and help to share and showcase the projects from the Plan to extend 
+the adaptive learning and capacity building across the subregion. 
+The NMRN will serve as a regional coordination body. Further details, including membership, 
+governance structure, and reporting mechanisms, will be developed as part of the transition 
+process.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 78 
+Figure 24: Vision and Outcomes. 
+Investment Framework 
+The Investment Framework for the North Midlands RDRP 
+is designed to guide investment decisions and ensure 
+that the RDRP builds on existing activities and priorities. 
+To 
+avoid 
+duplication, 
+a 
+stop/go 
+assessment 
+is 
+incorporated to ensure proposals consider existing work 
+or deliver on an identified need. 
+The Framework, shown on page 80, provides a consistent 
+process to guide decision making and categorises 
+investment, with a focus on place based and collaborative 
+approaches. Investments that build knowledge are also 
+incorporated.  
+Using an adaptive approach, adjustments will be made in 
+future to respond to ongoing monitoring of funded 
+projects, stakeholder feedback, and changing contextual 
+conditions. 
+Projects considered for investment should also align with 
+the 10 Standing Principles for the subregion, as shown on 
+pages 3-4.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 79 
+Figure 25: Investment Framework.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 81 
+Next Steps 
+This plan establishes a foundational framework for the North Midlands region to identify and 
+communicate its drought resilience priorities. Achieving the outcomes will require ongoing, 
+coordinated action among stakeholders. It is also acknowledged that many of the actions will 
+require investment. 
+To track progress, a MEL framework will support implementation, ensuring transparency and 
+accountability. This framework will measure the effectiveness of drought resilience actions and 
+allow for continuous improvement.  
+The investment framework also ensures that funding is prioritised against a range of criteria and 
+aligns with the priorities of stakeholders and the community in the North Midlands subregion. 
+The framework ensures that investments build on existing work or deliver against an evidenced 
+need, and prioritise place based (community led) and collaborative investment.  
+Moving forward, this Plan serves as a living document – one that will evolve with changing 
+conditions, emerging research and ongoing stakeholder input. By embedding drought resilience 
+into regional planning, we can build on the strengths of the North Midlands region to prepare for 
+and respond to dry conditions and drought.  
+As strategic documents are revised and updated the priorities articulated in this Plan should be 
+embedded. All local governments in the subregion should consider how the RDRP and 
+accompanying DVA can support strategic planning for the future that actively embeds dry season 
+and drought resilience. In addition, the range of organisations identified in the literature review, 
+and within each theme, should look to embed the RDRP priorities into their work.  
+As part of the ongoing governance of the RDRP, the PAG will transition to the North Midlands 
+Resilience Network (NMRN). This network, in partnership with the MWDC, will oversee the 
+implementation, monitoring, evaluation and adaptive learning of the plan.
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 82 
+References 
+ABCB, (2019). Climate zone map WA, Commonwealth of Australia, Australian Building Codes 
+Board. Retrieved from: https://www.abcb.gov.au/sites/default/files/resources/2022/Climate-
+zone-map-wa.pdf 
+ABS, (2022). Data by Region (for each Local Government Area). Australian Bureau of Statistics. 
+Retrieved from: https://dbr.abs.gov.au/index.html 
+ANU, (2023). Australia’s Environment Explorer: 2023. ANU and TERN. Retrieved from: 
+https://ausenv.tern.org.au/  
+Aqueduct, (2023). Water Risk Atlas: Groundwater Table Decline. Retrieved from: 
+https://www.wri.org/applications/aqueduct/water-risk-atlas/  
+https://www.prod.legislation.gov.au/F2024L00150/latest/text  
+https://www.disasterassist.gov.au/find-a-disaster/australian-disasters   
+BOM, (2022). State of the Climate 2022. Retrieved from: http://www.bom.gov.au/state-of-the-
+climate/2022/documents/2022-state-of-the-climate-web.pdf  
+BoM, (2023). Climate Classification Maps, Product Code IDCJCM0000. Bureau of Meteorology. 
+Retrieved from: http://www.bom.gov.au/jsp/ncc/climate_averages/climate-
+classifications/index.jsp?maptype=tmp_zones#maps 
+Bureau of Meteorology (2023a). Australian climate variability and change – trend: Rainfall Total 
+Annual Season. Retrieved from: http://www.bom.gov.au/cgi-
+bin/climate/change/trendmaps.cgi?map=rain&area=wa&season=0112&period=1970  
+BoM, (2024). Drought Knowledge Centre: Previous Droughts. Bureau of Meteorology. Retrieved 
+from: (http://www.bom.gov.au/climate/drought/knowledge-centre/previous-droughts.shtml  
+BoM, (2024a). 124 Years of Rainfall. Bureau of Meteorology. Retrieved from: 
+http://www.bom.gov.au/climate/history/rainfall/  
+CBH, (2025). Record finish as CBH calls end to 2024/25 harvest. CBH Group. News: 03/02/2025. 
+Retrieved from: https://www.cbh.com.au/media-releases/2025/02/record-finish-as-cbh-
+calls-end-to-harvest  
+CBH, (2025). Email from CBH Geraldton Port Zone General Manager re 2024/2025 receivals 
+across the subregion (07 May 2025). 
+Coelli, R., (2021). Natural Resource Management and Drought Resilience: Survey of Farm 
+Practices. ABARES, Research Report 21.12, Canberra. Retrieved from: 
+https://daff.ent.sirsidynix.net.au/client/en_AU/search/asset/1032761/0  
+CSIRO, (2024). Climate Change in Australia: Projections - SSW Flatlands. Retrieved from: 
+https://www.climatechangeinaustralia.gov.au/en/projections-tools/regional-climate-change-
+explorer/clusters/?current=SSWS&tooltip=true&popup=true
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 83 
+DAFF (2023). Catchment scale land use of Australia – December 2023 v2. Australian 
+https://www.agriculture.gov.au/sites/default/files/images/CLUM_map_December2023_ALUM
+_simplified_v2.png  
+Fisheries and Forestry. Retrieved from: https://www.agriculture.gov.au/agriculture-land/farm-
+food-drought/drought/future-drought-
+fund#:~:text=Thepercent20Droughtpercent20Resiliencepercent20Fundingpercent20Plan,incl
+udingpercent20thepercent20Nationalpercent20Droughtpercent20Agreement   
+Fisheries and Forestry. Retrieved from: https://www.agriculture.gov.au/agriculture-land/farm-
+food-drought/drought/future-drought-fund/regional-drought-resilience-planning  
+https://www.agriculture.gov.au/abares/aclump/land-use/agriculture-census-dashboards-lga  
+DAFF, (2023c). My Climate View – Coorow, Mingenew, Irwin, Three Springs, Morawa, Carnamah, 
+Perenjori (no commodity selected). Retrieved from: https://myclimateview.com.au/climate-
+summary  
+DBCA, (2023). Threated Ecological Communities, updated 23 Nov 2023. Retrieved from: 
+https://www.dbca.wa.gov.au/wildlife-and-ecosystems/threatened-ecological-
+communities/list-threatened-ecological-communities 
+DAFF, (2008). North East Agricultural Region Strategy, in Department of Primary Industries and 
+Regional Development, (2022). Drought Vulnerability Assessment, Mid West WA.  Department of 
+Agriculture and Food 
+DPIRD, (2022). Drought Vulnerability Assessment, Mid West Western Australia. Department of 
+Primary Industries and Regional Development 
+Department of Water, (2015). Mid West regional water supply strategy. Government of Western 
+Australia. Retrieved from: https://www.wa.gov.au/government/publications/mid-west-
+regional-water-supply-strategy 
+Government of WA, (2015). Mid West Planning and Infrastructure Framework. Retrieved from: 
+www.wa.gov.au/system/files/2021-
+07/MWT_Regional_Planning_and_Infrastructure_Framework_PartA_Feb2015.pdf   
+Government of WA, (2023). Climate Adaptation Strategy. Retrieved from: www.wa.gov.au  
+Hajkowicz, S., and Eady, S., (2015). Rural Industry Futures: Megatrends Impacting Australian 
+Agriculture Over the Coming Twenty Years. Rural Industries Research and Development 
+Corporation. Retrieved from: https://www.agrifutures.com.au/wp-
+content/uploads/publications/15-065.pdf 
+IPCC, (2021). IPCC AR6: Regional Fact Sheet Australasia. Retrieved from: 
+https://www.ipcc.ch/report/ar6/wg1/downloads/factsheets/IPCC_AR6_WGI_Regional_Fact_Sh
+eet_Australasia.pdf
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 84 
+May, J E.and McKenzie, N L., (2002). Regional biodiversity summary: Avon Wheatbelt. 
+Department of Biodiversity, Conservation and Attractions. Retrieved from: chrome-
+extension://efaidnbmnnnibpcajpcglclefindmkaj/https://library.dbca.wa.gov.au/FullTextFiles/0
+21926/021926-001.pdf   
+May, J E.; McKenzie, N L., (2002a). Regional biodiversity summary: Geraldton sandplains. 
+Department of Biodiversity, Conservation and Attractions. Retrieved from: 
+https://library.dbca.wa.gov.au/#record/81388 
+MWDC, (2022). Regional Drought Resilience Plan for the Mid West region. Mid West 
+Development Commission. Retrieved from: https://www.mwdc.wa.gov.au/rdrp.aspx  
+MWDC, (2022a). Drought Impacts on Water Resources of the Mid West: Opportunities to Build 
+Resilience. Mid West Development Commission. Retrieved from: 
+www.mwdc.wa.gov.au/f.ashx/RegionalDroughtResiliencePlan/Appendix8_MWWaterImpactsOf
+Drought_MidWestDevelopmentCommission.pdf 
+NACC, (2023). Shire Profiles: Traditional Owners, Northern Agricultural Catchment Council, 
+Narvis. Retrieved from: https://narvis.com.au/shire-profiles/  
+NACC, (2024). Correspondence with Northern Agricultural Catchment Council.  
+Peel, Murray & Finlayson, Brian & McMahon, Thomas, (2007). Updated World Map of the Koppen-
+Geiger Climate Classification. Hydrology and Earth System Sciences Discussions. 4. 
+10.5194/hess-11-1633-2007. Retrieved from: www.hydrol-earth-syst-sci.net/11/1633/2007/ 
+Remplan, (2023). Mid West: Mid West Development Commission. Compelling Economics Pty 
+Ltd. Retrieved from: https://app.remplan.com.au/midwestregion/economy/summary  
+Tanton, R., Dare, L., Miranti, R., Vidyattama, Y., Yule, A. and McCabe, M., (2021). Dropping Off the 
+Edge 2021: Persistent and multilayered disadvantage in Australia, Jesuit Social Services: 
+Melbourne. Retrieved from: https://www.dote.org.au/s/WA_final.xlsx 
+UN, (2023). SDG Report 2023, page 4. United Nations. Retrieved from: 
+https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-
+2023.pdf see also: LI Junhua Under-Secretary-General for Economic and Social Affairs, page 3. 
+Retrieved from: https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-
+Goals-Report-2023.pdf  
+WA Government, (2020). Yamatji Nation Indigenous Land Use Agreement (Area Agreement), Map 
+1. Produced on 16/01/2020. Retrieved from: https://www.wa.gov.au/system/files/2021-05/PRJ-
+Yamatji-Nation-Agreement-Webpage-Native-Title-Map-DPLH-GIS.pdf  
+WA Government, (2022). Mid West groundwater-dependent ecosystem vulnerability 
+groundwater investigation. Retrieved from: https://www.wa.gov.au/service/natural-
+resources/water-resources/mid-west-groundwater-dependent-ecosystem-vulnerability-
+groundwater-investigation  
+WA Government, (2023). South West Settlement Agreements with Regional Development 
+Commission and Local Government Boundaries, produced 25/07/2023. Retrieved from: 
+https://www.wa.gov.au/system/files/2023-11/mapofswsettlementagreements.pdf
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 85 
+WAEC, (2023). Reports: Local Government Elections Reports. Western Australian Electoral 
+Commission. Retrieved from: https://www.elections.wa.gov.au/elections/local-government-
+elections/reports  
+WAPOL, (2023). Time Series: Mid West Gascoyne 2022-23, Retrieved from: 
+https://www.police.wa.gov.au/crime/crimestatistics#/ and compared to manually calculated 
+crime statistics for key localities and locality population.  
+Water Corporation, (2023). Climate and the Mid West. Retrieved from: 
+https://www.watercorporation.com.au/Our-water/Climate-change-and-WA/Climate-and-the-
+Mid-
+West#:~:text=Thepercent20Midpercent20Westpercent20ispercent20entirely,socialpercent2C
+percent20culturalpercent20andpercent20ecologicalpercent20significance 
+WEF, (2020). Nature Risk Rising: Why the Crisis Engulfing Nature Matters for Business and the 
+Economy. World Economic Forum. Retrieved from: 
+https://www3.weforum.org/docs/WEF_New_Nature_Economy_Report_2020.pdf (calculated 
+by BlueSalt Consulting based on local output current FY)
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 86 
+Table of Figures 
+Figure 1: Mid West North Midlands and Mid West Pilot Region ....................................... 9 
+Figure 2: Women of the Hinterlands ............................................................................ 12 
+Figure 3: Big Tractor Launch, October 2024. ............................................................... 12 
+Figure 4: Koobabbie Precinct ..................................................................................... 14 
+Figure 5 : Sourced from Shire of Dandaragan .............................................................. 14 
+Figure 6: Shire of Irwin Foreshore. .............................................................................. 16 
+Figure 7: Shire of Irwin Medical Centre. ....................................................................... 16 
+Figure 8: Mingenew Irwin Group .................................................................................. 18 
+Figure 9: Mingenew Childcare Centre Upgrade. ........................................................... 18 
+Figure 10: Mingenew Springs concept. ........................................................................ 18 
+Figure 11: Image credit - morawafarmers.wixsite.com ................................................ 20 
+Figure 12: Perenjori Community Garden (Image credit:  Tessomewhere) ..................... 22 
+Figure 13: Conceptual Framework of Drought. ............................................................ 25 
+Figure 14: Areas of high disadvantage by SA2..............................................................27 
+Figure 15: Areas of low disadvantage by SA2 .............................................................. 28 
+Figure 16: Drought Vulnerability Scores (Pilot Program Index) ..................................... 29 
+Figure 17: Drought Vulnerability Composite Map .......................................................... 31 
+Figure 18: Incremental, Transitional and Transformational Change Types (Drought 
+Resilience Funding Plan 2024 to 2028) ....................................................................... 34 
+Figure 19: Project Advisory Group (PAG) members for the North Midlands RDRP subregion
+ ................................................................................................................................. 36 
+Figure 20: Snapshot of some Community Conservations across the region ................. 37 
+Figure 21: Vision and outcomes of the North Midlands (Mid West) RDRP ...................... 39 
+Figure 22: Adapted from Future Drought Fund (FDF) Scope of Enquiry for MEL under the 
+Funding Plan ............................................................................................................. 74 
+Figure 23: MEL framework that formed part of Community Conversations .................. 75 
+Figure 24: Vision and Outcomes. ................................................................................ 78 
+Figure 25: Investment Framework. ............................................................................. 79
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 87
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 88 
+Appendix A: Key Policy Context 
+Policy and strategic documents included in the Mid West (North Midlands) Drought Background 
+& Context Report. 
+National 
+• 
+• 
+• 
+State of the Climate 2022 Bureau of Meteorology 
+State 
+• 
+Climate Adaptation Strategy 2023 (DWER) 
+• 
+Climate Health WA Inquiry Final Report 2020 (WA Health) 
+• 
+Foundations for a Stronger Tomorrow: State Infrastructure Strategy 2022 (DPLH) 
+• 
+Regional Planning and Infrastructure Frameworks 2015 (DPLH) 
+• 
+State Infrastructure Strategy (Infrastructure WA) 
+• 
+State Planning Strategy 2050 (DPLH) 
+• 
+WA Climate Change Policy 2020 (DWER) 
+• 
+WA Natural Resource Management Framework 2018 (DPIRD) 
+• 
+WA Primary Industries Plan 2020-24 (DPIRD) 
+• 
+WA Regional Development Framework 2023 (DPIRD) 
+Regional 
+• 
+Drought Impacts on Water Resources of the Mid West 2022 (MWDC) 
+• 
+Mid West Development Commission Strategic Plan 2023-26 (MWDC) 
+• 
+Mid West Investment Plan 2011-21 (MWDC) 
+• 
+Mid West Regional Blueprint 2015 (MWDC/RDA) 
+• 
+Mid West Regional Planning and Investment Framework 2015 (DPLH) 
+• 
+Mid West Regional Water Supply Strategy 2015 (DWER) 
+• 
+Northern Agricultural Region’s Natural Resource Management Strategy 2021-2030 
+(NACC NRM) 
+• 
+Regional Drought Resilience Plan for the Mid West Region 2023 (MWDC/DPIRD) 
+Sub-Regional 
+• 
+North Midlands Community Wellness Plan 2020-2023 
+• 
+Regional Drought Resilience Plan for the Mid West Region 2023 (MWDC/DPIRD) 
+• 
+Shire of Carnamah Strategic Community Plan and Corporate Business Plan 2021-2031 
+(combined) 
+• 
+Shire of Coorow Corporate Business Plan 2018-2024 
+• 
+Shire of Irwin Strategic Community Plan 2021-2031 
+• 
+Shire of Mingenew Strategic Community Plan 2019-2029 
+• 
+Shire of Morawa Strategic Community Plan 2018-2028 
+• 
+Shire of Perenjori Strategic Community Plan 2017-2027 
+• 
+Shire of Three Springs Strategic Community Plan 2018-2028
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 89 
+Appendix B: Scoring for Drought 
+Vulnerability Assessment 
+The following scores have been calculated against the measures and sliding scale as presented 
+in the Pilot Program Regional Drought Resilience Plan for the Mid West region.  
+ Table 1: Indicators for drought exposure, sensitivity and adaptive capacity. 
+Due to high variability across the region, most scores had to be averaged. 
+Table 2: Raw Scores for indicators 
+Index Component 
+Indicator 
+Score 
+Exposure 
+Projected change in temperature and growing season 
+rainfall 
+4 
+Change in timing of autumn break 
+3 
+Change in drought frequency 
+5 
+Sensitivity 
+Production risk (crop and livestock) 
+3 
+Trend in NDVI (lowest 10%) 
+4 
+Percent employment in agriculture (SA2 combined) 
+3 
+Adaptive Capacity 
+Percent unemployment 
+3 
+Physical capital / access to infrastructure 
+3 
+Groundwater quality 
+4 
+Soil capability 
+3 
+Average 
+Total score = 35 
+3.5 
+Indicator 
+Measure and Scale 
+Raw Score (Source) 
+Projected change in 
+temperature 
+and 
+growing 
+season 
+rainfall 
+Sliding scale 1-5 
+1. 
+No increase in number of hot days, no 
+change or an increase in rainfall 
+2. Moderate increase in number of hot days 
+(<2.5), moderate decrease in rainfall 
+(<15%) 
+3. High increase in number of hot days (<2.5 
+more hot days), moderate decrease in 
+rainfall (<15%) 
+4. Moderate increase in number of hot days 
+(<2.5), large decrease in rainfall (≥15%) 
+12-15 more hot days 
+annually compared to 
+1994-2023 = 5 
+April to October rainfall 
+decline 5% compared to 
+1994-2023  =2-3
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 90 
+Indicator 
+Measure and Scale 
+Raw Score (Source) 
+5. High increase in number of hot days (≥2.5 
+more hot days), large decrease in rainfall 
+(≥15%) 
+Change in timing of 
+autumn break 
+Sliding scale 1-5 
+1. 
+Percentage decrease in timing of the 
+autumn break – break occurs earlier 
+2. Autumn break occurs later (0-2%) 
+3. Autumn break occurs later (3-5%) 
+4. Autumn break occurs later (6-8%) 
+5. Autumn break occurs later (≥9%) 
+3-6% 
+averaged 
+(but 
+over 
+6% 
+in 
+the 
+northeastern part of the 
+region) – see DVA 
+Change 
+in 
+drought 
+frequency 
+Sliding scale 1-5 
+1. 
+Three or four fewer droughts 
+2. One or two fewer drought 
+3. Equal number of droughts 
+4. One or two more droughts 
+5. Three or four more droughts 
+3 to 4 more (isolated 
+pockets experiencing 1 
+or 2 more) – see DVA 
+Production risk (crop 
+and livestock) 
+Sliding scale 1-5 
+1. 
+Very low risk – good production, good 
+soils and high average NDVI 
+2. Low risk 
+3. Moderate risk 
+4. High risk 
+5. Very high risk – marginal production, poor 
+soils and low average NDVI 
+Averaged as moderate 
+(ranging from very low 
+to 
+very 
+high, 
+with 
+generalised increasing 
+risk inland) – see DVA 
+Trend in NDVI (lowest 
+10%) 
+Sliding scale 1-5 
+1. 
+NDVI 181-200 
+2. NDVI 161-180 
+3. NDVI 141-160 
+4. NDVI 121-140 
+5. NDVI 100-120 
+Averaged 
+as 
+121-140 
+(majority of the eastern 
+region and parts of the 
+west and south 121-140 
+with higher scores 140-
+160 in the north-west to 
+central area) – see DVA 
+Percent employment 
+in 
+agriculture (SA2 
+combined) 
+Sliding scale 1-5 
+1. 
+Very few people employed in agriculture 
+(<10%) 
+2. Few people employed in agriculture (10-
+20%) 
+3. Some people employed in agriculture 
+(20-30%) 
+4. Many people employed in agriculture (30-
+40%) 
+5. Very many people employed in agriculture 
+(>40%) 
+11.8% Irwin SA2 & 35.9% 
+Morawa 
+SA2  
+(averaged 
+as 
+SA2 
+similar size) = 23.85% 
+Percent 
+unemployment 
+Sliding scale 1-5 
+1. 
+Very low unemployment (0-2%) 
+2. Low unemployment (2-3%) 
+3. Moderate unemployment (3-4%) 
+4. High unemployment (4-5%) 
+5. Very high unemployment (>5%) 
+Average 
+moderate 
+(ranges 
+from 
+0-5% 
+categories 
+across 
+region) - see DVA 
+Physical 
+capital 
+/ 
+access 
+to 
+infrastructure 
+Sliding scale 1-5 
+1. 
+Critical road and/or water infrastructure 
+within 10km 
+2. Critical road and/or water infrastructure 
+10-25km away 
+3. Critical road and water infrastructure 
+25-50km away 
+Averaged 
+25-50km 
+(moderate)  
+Ranged from very low to 
+moderate, some high 
+and very high in pastoral 
+area. See DVA
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 91 
+Indicator 
+Measure and Scale 
+Raw Score (Source) 
+4. Critical road and water infrastructure 50-
+100km away 
+5. Critical road and water infrastructure 
+more than 100m away 
+Groundwater quality 
+Sliding scale 1-5 
+1. 
+≤500mg/L Total Dissolved Solids 
+2. 500-999mg/L Total Dissolved Solids 
+3. 1000-2999mg/L Total Dissolved Solids 
+4. 3000-6999mg/L Total Dissolved Solids 
+5. ≥7000mg/L Total Dissolved Solids 
+Average 3000-6999 
+(500-3,000 in west and 
+up to 7,000 along coast, 
+and over 7,000 in the 
+east with 3,000-7,000 in 
+far east. 
+Soil capability 
+Sliding scale 1-5 
+1. 
+High to very high capability 50-70% 
+2. Moderate to very high capability >70% 
+3. Moderate to very high capability 50-70% 
+4. Low to very low capability 50-70% 
+5. Low to very low capability >70% 
+Averaged as moderate 
+to very high (very high 
+localised variability – 
+see DVA) 
+Total score (mean) 
+Sliding scale 1-5: 
+1.Low vulnerability 
+3.Moderate vulnerability 
+4.High vulnerability 
+3.5 (mean)
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 92 
+Appendix C: Vulnerability Mapping 
+Using the same methodology as used in the Pilot Program Mid West Regional Drought Resilience 
+Plan (MWDC, 2022) impact combines exposure and sensitivity.  
+As per the Pilot region, data used in the composite map to demonstrate exposure is:  
+- 
+Change in growing season rainfall (historical, projected)  
+- 
+Change in maturing season temperature (historical, projected)  
+- 
+Rainfall intensity (events > 10mm, events > 25mm)  
+- 
+Change in root zone soil moisture  
+- 
+Change in timing of the autumn break  
+- 
+Change in drought frequency  
+- 
+Change in potential wheat yield  
+- 
+Distance from the coast.  
+Data used in the composite map to demonstrate sensitivity is: 
+- 
+Production  
+o Average potential wheat yield  
+o Crop production (t/ha; wheat, canola, barley)  
+o Livestock production (numbers; sheep, cattle)  
+o High quality agricultural land  
+o NDVI at the end of the growing season (20yr average)  
+- 
+Other  
+o Water quality  
+o NDVI at the end of the growing season (lowest 10percent)  
+o Average household income  
+o Farm profit  
+o Percentage employment in agriculture  
+o Average farm size  
+o Presence of bores and dams  
+o Farm diversity  
+o Population trends  
+o Areas declared water deficient.  
+Future use of NDVI as a measure could investigate splitting cropping production and non-cleared 
+estate NDVI, with the non-cleared estate contributing to sensitivity in the ‘other’ category (NACC, 
+2024). 
+Human capital was measured in the Pilot region against:  
+- 
+population over 65 years  
+- 
+percentage of unemployment.  
+Natural capital was measured in the Pilot region as:  
+- 
+Water  
+o important water resources  
+o groundwater resources  
+o groundwater quality
+
+DRAFT - Mid West (North Midlands) RDRP  |  2025  |  Page 93 
+o proclaimed water protection areas  
+- 
+Other  
+o soil capability  
+o plant available soil moisture  
+o native vegetation extent  
+o trend in NDVI  
+o surface salinity
+
+Mid West (North Midlands) RDRP  |  2024  |  Page 1 of 98

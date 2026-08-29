@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://farmcore.local/schemas/chunks-v1.schema.json",
+  "title": "chunks-v1",
+  "description": "Chunk record contract for RAG_docs snapshots and FarmCore import (CAI-007).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "chunk_id",
+    "parent_id",
+    "document_id",
+    "index_key",
+    "tier",
+    "doc_title",
+    "source_url",
+    "heading_path",
+    "section_path",
+    "chunk_index",
+    "token_count",
+    "content_hash",
+    "text",
+    "embedding"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "chunks-v1"
+    },
+    "chunk_id": {
+      "type": "string",
+      "format": "uuid"
+    },
+    "parent_id": {
+      "type": ["string", "null"],
+      "format": "uuid"
+    },
+    "document_id": {
+      "type": ["string", "null"],
+      "format": "uuid"
+    },
+    "farm_id": {
+      "type": ["string", "null"],
+      "format": "uuid"
+    },
+    "index_key": {
+      "type": "string",
+      "enum": ["gov_tier_a", "gov_tier_b", "tenant_doc"]
+    },
+    "snapshot_id": {
+      "type": ["string", "null"]
+    },
+    "tier": {
+      "type": ["string", "null"],
+      "enum": ["A", "B", null]
+    },
+    "doc_title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_url": {
+      "type": ["string", "null"],
+      "format": "uri"
+    },
+    "heading_path": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "section_path": {
+      "type": "string"
+    },
+    "chunk_index": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "token_count": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 500
+    },
+    "content_hash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "embedding": {
+      "type": ["array", "null"],
+      "items": { "type": "number" }
+    },
+    "doc_state": {
+      "type": "string",
+      "enum": ["active", "archived"],
+      "default": "active"
+    }
+  }
+}

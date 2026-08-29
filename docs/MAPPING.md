@@ -162,6 +162,7 @@ Requirements that exist in FarmCore architecture but are not explicit in
 | Farm context dashboard snapshot | UI integration | API §3.3 | 0 | P0 | AI |
 | Schedule explanations (read-only) | Explain FarmFlow without controlling it | API §8.1 | 10 | P1 | AI / SCH |
 | Rule candidates from documents | Bridge docs → scheduling | API §8.2–8.5 | 9 / 10 | P1 | AI / SCH |
+| Chat-integrated task feasibility | Draft + deterministic pre-check before confirmation | PLAN Phase 11+ | 11+ | P2 | AI / SCH |
 | Corpus admin API | Snapshot import, activate, rollback | API §7 | 3 | P0 | AI |
 | Cross-farm leak CI tests | Tenant isolation enforcement | ARCH §13 | 0 / 9 | P0 | AI |
 | Determinism test (FarmFlow) | Model never places tasks | ARCH §13, PLAN G9 | 0 | P0 | SCH / AI |
@@ -190,6 +191,7 @@ Requirements that exist in FarmCore architecture but are not explicit in
 | — | Cross-session chat history | Phase 11+ | Client scope change |
 | — | Model-driven tool calling | Phase 11+ | Orchestrator mis-selects on gold set |
 | — | DOCX ingestion | Phase 11+ | Onboarding data predominantly DOCX |
+| — | Chat-integrated task feasibility | Phase 11+ | Owners confirm task drafts without scheduling context, or demo requires feasible / better-time / infeasible guidance at draft time |
 
 ---
 
@@ -208,7 +210,7 @@ Requirements that exist in FarmCore architecture but are not explicit in
 | 8 | 2.2, 3.1 | Tier B fallback pass |
 | 9 | 2.1, 2.6 | Tenant upload, candidates, archive, role eligibility |
 | 10 | 3.1, 5, 6 | Tools, blended composition, audit export, replay |
-| 11+ | Various P2 | OCR, agentic, Qdrant, etc. |
+| 11+ | Various P2 | OCR, agentic, Qdrant, chat-integrated task feasibility, etc. |
 
 ---
 
@@ -223,6 +225,7 @@ DesignDoc does not cover scheduling. FarmCore draws a hard boundary:
 | FarmFlow proposal generation | — | SCH | P0 |
 | Task/rule write after approval | — | SCH | P0 |
 | Assistant requests proposal | — | AI (draft tool) / SCH (execution) | P0 |
+| Task feasibility pre-check at draft time | — (FarmCore extension) | AI (orchestrate) / SCH (evaluate) | P2 |
 | Model in placement path | — | **Prohibited** | — |
 
 ---

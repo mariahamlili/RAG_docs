@@ -1,0 +1,699 @@
+The national aquatic animal 
+disease surveillance strategy
+
+ii 
+The national aquatic animal disease surveillance strategy is an industry-government strategy that addresses Australia’s 
+surveillance system for infectious diseases of national significance within populations of wild and farmed aquatic animals in 
+Australia. Production of the strategy was coordinated by the Aquatic Pest and Health Policy section, Biosecurity Animal 
+The strategy was endorsed by governments through the Sub-Committee on Aquatic Animal Health and Animal Health 
+Committee. The plan was endorsed by industry through representatives of the aquatic animal industry’s peak bodies. 
+© Commonwealth of Australia 2025 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+This publication (and any material sourced from it, unless otherwise specified) should be attributed as: DAFF 2024, The 
+December CC BY 4.0. 
+This publication is available at agriculture.gov.au/agriculture-land/animal/aquatic/aquaplan. 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for 
+any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the 
+information or data in this publication to the maximum extent permitted by law. 
+Acknowledgements 
+The authors would like to thank the industry-government writing group: Julie Petty, Colin Johnston, Tracey Bradley, 
+Stephen Wesche, Matthew Bansemer and Rissa Williams for their contributions and guidance in developing the strategy. 
+We would also like to thank the numerous industry and government representatives who attended and contributed to the 
+online consultation sessions to develop the strategy, and who provided their comments and feedback on the discussion 
+paper and draft strategy. 
+Acknowledgement of Country 
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and 
+waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, and 
+recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, 
+fisheries and forestry industries.
+
+iii 
+Contents  
+Strategy blueprint ........................................................................................................................ iv 
+Introduction ................................................................................................................................. 6 
+Purpose ............................................................................................................................................ 7 
+Scope ............................................................................................................................................... 7 
+Objectives of the national surveillance system .............................................................................. 8 
+Overview of the national aquatic animal disease surveillance system ............................................ 9 
+Types of surveillance ....................................................................................................................... 9 
+System components ...................................................................................................................... 11 
+Drivers for a national surveillance strategy .................................................................................. 13 
+Aims of the strategy .................................................................................................................... 15 
+Roles and responsibilities ............................................................................................................ 15 
+Governments ................................................................................................................................. 15 
+Industry .......................................................................................................................................... 16 
+Private aquatic animal health services .......................................................................................... 16 
+Research organisations .................................................................................................................. 16 
+Training and education providers .................................................................................................. 17 
+Surveillance principles ................................................................................................................. 17 
+Planning ......................................................................................................................................... 17 
+Priorities ......................................................................................................................................... 17 
+Data use and sharing ..................................................................................................................... 17 
+Standards ....................................................................................................................................... 18 
+Funding and capability ................................................................................................................... 18 
+Equity ............................................................................................................................................. 18 
+Measuring the performance of the national surveillance system .................................................. 18 
+Application of this Strategy .......................................................................................................... 20 
+Appendix A Process to develop the strategy ................................................................................. 21 
+Appendix B Existing national agreements, plans and policies ........................................................ 22 
+Appendix C Definitions ................................................................................................................ 23 
+Appendix D Acronyms and abbreviations ..................................................................................... 23
+
+iv 
+Strategy blueprint
+
+v
+
+6 
+Introduction 
+‘Surveillance’ is a systematic series of investigations of a given population of aquatic animals to 
+detect the occurrence of disease for control purposes, which may involve testing samples of a 
+population (as defined in the WOAH Aquatic Animal Health Code)1. 
+Surveillance is a fundamental component of aquatic animal health management systems. It is 
+important for early detection of nationally significant diseases, to inform measures to limit the 
+spread of the disease (such as translocation policies and regional biosecurity measures) and to 
+provide evidence of disease absence to meet market requirements. Surveillance information can 
+provide additional benefits beyond these fundamental objectives, such as informing management 
+decisions to optimise productivity, identifying disease risk factors and informing research priorities. 
+There has been significant investment in Australia’s aquatic animal disease surveillance system over 
+the past 25 years. However, surveillance needs are changing, driven by changes within the seafood 
+industry, changes in the environment, technological advances, changing requirements of trading 
+partners, and new and emerging disease threats. Australia’s national surveillance system will need to 
+evolve to address and anticipate some of these changes. 
+Through Australia’s fourth national strategic plan for aquatic animal health, AQUAPLAN 2022–2027, 
+industry and governments identified a need for the industry and government investors in aquatic 
+animal disease surveillance to collaboratively develop a national surveillance strategy. 
+The national surveillance strategy aims to identify common needs and objectives that can inform 
+investment in the surveillance system and maximise return on investment among users and 
+investors. The process to develop this first national aquatic animal disease surveillance strategy is 
+summarised in Appendix A Process to develop the strategy
+1 World Organisation for Animal Health Aquatic (WOAH) Animal Health Code: https://www.woah.org/en/what-
+we-do/standards/codes-and-manuals/aquatic-code-online-access/
+
+7 
+Purpose 
+The national aquatic animal disease surveillance strategy (national surveillance strategy) provides 
+clarity on surveillance objectives, roles and responsibilities, and principles for investment in the 
+national surveillance system. It recognises the strengths of the existing surveillance system and 
+provides an agreed framework from which improvements can be made. 
+The national surveillance strategy also provides a framework against which aquatic animal industry 
+sectors can choose to develop sector-specific surveillance plans, through AQUAPLAN 2022-2027 
+Activity 3.2. Through Activity 3.2, participating sectors, in consultation with governments, will agree 
+on desired surveillance outcomes for their sector and identify the necessary surveillance activities to 
+achieve them, including for specific diseases. 
+The surveillance strategy is not intended to identify specific activities or projects to strengthen the 
+aquatic animal health surveillance system. Agreed activities to strengthen the surveillance system are 
+included in Australia’s national strategic plan for aquatic animal health, AQUAPLAN 2022–2027, and 
+are complementary to this strategy. 
+Scope 
+This national surveillance strategy addresses Australia’s surveillance system for infectious diseases of 
+national significance within populations of wild and farmed aquatic animals in Australia. This scope 
+includes exotic and emerging diseases and nationally significant endemic diseases of aquatic 
+animals2. 
+Some issues are not considered within the strategy because their associated surveillance objectives, 
+roles and responsibilities, and investment principles would differ from those of the scope described 
+above: for example, the disease status of aquatic animal populations outside of Australia and 
+products derived from them, non-infectious diseases, marine pests, environmental toxins, microbes 
+that may affect food safety, and chemical pollutants. Whilst excluded from the scope of this strategy, 
+these issues may be addressed through other initiatives and where appropriate in a manner that is 
+complementary to this strategy. It is acknowledged that these issues may also represent risk factors 
+that should be considered when developing national surveillance programs. 
+2 Refer to Australia’s national list of reportable diseases of aquatic animals and Chapter 1.3 of the WOAH 
+Aquatic code for the latest versions of these priority aquatic animal disease lists.
+
+8 
+Objectives of the national surveillance 
+system 
+Aquatic animal disease surveillance is undertaken to achieve the following three key objectives, and 
+outcomes, of the national surveillance system: 
+• 
+Early detection of nationally significant and emerging diseases. Early detection is critical to 
+increase opportunities to contain or eradicate a disease, thereby reducing response costs and 
+economic, social, and environmental consequences of a disease event3. 
+• 
+Demonstration of freedom from diseases. Sound evidence of freedom from diseases (including 
+country, zone, and compartment freedom) is important to meet our international obligations, 
+to access domestic and international markets and to justify our border biosecurity measures 
+(including national, state and territory measures). 
+• 
+Informing appropriate risk-based management of nationally significant endemic diseases. 
+Knowledge about the distribution of nationally significant endemic diseases informs policies and 
+programs for disease management such as translocation policies and zoning arrangements. 
+3 The national surveillance strategy does not predetermine response objectives. Response objectives and 
+factors for decision-making are outlined in Australia’s Aquatic Veterinary Emergency Plan, AQUAVETPLAN.
+
+9 
+Overview of the national aquatic 
+animal disease surveillance system 
+Australia’s surveillance arrangements have been developed over time to meet a variety of 
+stakeholder and end user needs. The national aquatic animal disease surveillance “system” consists 
+of numerous activities and components, with responsibilities and investments shared among the 
+private (aquatic animal industries, service providers) and public sectors (government authorities). 
+The aquatic animal disease surveillance system is closely linked to the broader animal health 
+surveillance system. These linkages are most pronounced in areas of government responsibility (e.g., 
+common regulation for terrestrial and aquatic animal surveillance) but can be distinguished in areas 
+of policy (e.g., sector-specific measures), end users (e.g., aquaculture industries) and some areas of 
+expertise. 
+Types of surveillance 
+Passive surveillance 
+Passive surveillance is defined as observer-initiated animal health surveillance. It often relies on 
+observations of clinical or behavioural signs of disease (including from mortality or production data4) 
+and subsequent actions to investigate and diagnose the cause of the disease event. Passive 
+surveillance is fundamental to achieving the objectives of the national surveillance system. 
+The sensitivity of passive surveillance for a given population may be affected by many factors along a 
+chain of events from when a disease event is observed or suspected and leading to the diagnosis or 
+exclusion of significant diseases. For example, passive surveillance is considered less sensitive in wild 
+than in farmed populations because it is less likely that signs of disease or mortality will be observed 
+in wild populations. 
+Australia’s passive surveillance system must meet international standards if it is to provide evidence 
+to demonstrate and maintain freedom from aquatic animal diseases for trade and border biosecurity 
+purposes. These standards are defined in the WOAH Aquatic Code and require that: 
+1) 
+observers have an awareness of the signs of listed diseases 
+2) 
+aquatic animal health professionals are trained in recognising and reporting listed diseases 
+3) 
+there is capacity to investigate disease events 
+4 May also include observations made through non-targeted laboratory results.
+
+10 
+4) 
+there is appropriate diagnostic capability 
+5) 
+there is a legal obligation to report suspicion or occurrence of listed diseases. 
+Passive surveillance offers many benefits, including being based on continuous observations (rather 
+than a point in time, as is the case in active surveillance), it is cost-effective, and it is more likely to 
+detect a new or emerging disease than targeted surveillance. However, passive surveillance may not 
+always be effective for early detection or demonstration of freedom because it requires conditions in 
+which disease signs would occur, be observed and subsequently investigated should the disease be 
+present. 
+Improving how quickly aquatic stakeholders (e.g., farmers, fishers, processors, etc.) notice signs of 
+disease and recognise it as a problem warranting further investigation is one of the most effective 
+ways to improve sensitivity of passive surveillance. 
+Active surveillance 
+Active surveillance activities are initiated by an investigator using a defined protocol and are 
+generally conducted on a sector-specific basis with specific goals in mind (e.g., market access, 
+delimitation5, etc.). A subset of active surveillance is targeted surveillance, where sampling and 
+testing for a specific pathogen is planned and implemented. 
+For aquatic animal diseases, targeted surveillance is often implemented on a sector-specific basis to 
+provide evidence of freedom from a particular pathogen, or multiple pathogens of interest. In recent 
+years, governments and industries have jointly contributed to active surveillance to provide evidence 
+of freedom. Some recent examples include national surveys to demonstrate freedom from white 
+spot syndrome virus in wild crustaceans, megalocytiviruses in farmed ornamental fish, several 
+diseases in wild and farmed abalone, and several pathogens in hatchery reared barramundi6. 
+Additionally, industry sectors invest in targeted surveillance for other purposes; for example, to meet 
+state and territory regulatory requirements for translocation of aquatic animals or for disease 
+management purposes on farm. The investment in this type of surveillance by industry is substantial 
+and provides a valuable source of information on Australia’s aquatic animal health status. A current 
+example of a functioning active surveillance system is the national abalone health accreditation 
+program where industry undertakes regular sentinel testing and annual audits of their biosecurity 
+plans. This activity is completely funded by industry to support international and interstate 
+movements and access to markets. 
+5 Delimitation in this context means: to determine the precise geographic boundaries or limits of a given area 
+using active surveillance. 
+6 Disease surveillance and reporting: https://www.agriculture.gov.au/agriculture-
+land/animal/aquatic/reporting
+
+11 
+Benefits of active surveillance include that it can provide a comprehensive snapshot on disease 
+status and can be particularly useful in demonstrating freedom from disease. However, active 
+surveillance is costly. 
+Active surveillance activities must meet international standards if they are to provide evidence to 
+demonstrate and maintain freedom from aquatic animal diseases for trade and border biosecurity 
+purposes. The international standards for active surveillance are specified in Chapter 1.4 and the 
+relevant disease-specific chapters of the Aquatic Code. 
+System components 
+Policy and regulation 
+National arrangements 
+Australia’s surveillance arrangements are developed to be consistent with the international 
+standards of the WOAH, particularly where there is a need to substantiate our freedom from specific 
+diseases – either for international market access or to justify our border biosecurity measures. The 
+international standards for surveillance and demonstration of freedom are specified in the 
+WOAH Aquatic Code. 
+Australia’s national list of reportable diseases of aquatic animals provides an agreed list of significant 
+aquatic animal diseases that are reported on by state and territory governments to the Australian 
+Government. The information is used to meet Australia’s international reporting requirements 
+(e.g., to WOAH) and to provide evidence of our disease-free status for many WOAH listed diseases 
+and other diseases of significance to Australia. 
+State and territory regulatory framework 
+State and territory governments have responsibility for managing aquatic animal diseases within 
+their jurisdiction. They have regulatory instruments in place to require reporting of the presence or 
+suspicion of significant diseases (including those on the national list) or for reporting of general 
+disease signs (e.g., morbidity or mortality) that exceed certain thresholds. They also have surveillance 
+and testing requirements under some circumstances to manage specific disease risks associated with 
+translocation of aquatic animals within or between states. 
+Data collection and storage 
+Aquatic animal health data is collected through the national surveillance system. Aquaculture 
+businesses collect and store aquatic animal health data for many purposes including biosecurity risk 
+management, to inform husbandry practices, to meet customer requirements, and to meet 
+regulatory requirements. Some of this data is provided to state and territory governments for 
+specific regulatory purposes (e.g., translocation or disease reporting). 
+Governments, including the Australian, state and territory governments, collect aquatic animal 
+health data from various sources including reporting of disease events, active surveillance programs,
+
+12 
+disease and fish kill investigations, fisheries and environmental surveys, translocation testing and 
+research trials. 
+Data is collected, handled, stored and analysed in different ways by different businesses, industry 
+sectors or government agencies. The approaches are usually developed to serve the needs of the 
+individual data owner (e.g., laboratory information management systems, farm management 
+software), rather than to meet shared needs or common goals. Data management may become 
+increasingly important for surveillance activities that generate substantial data sets 
+(e.g., metagenomics, whole genome sequencing). Investment in more universal approaches to data 
+collection, storage and handling may be beneficial in some circumstances where it provides common 
+benefit, leverages the investment in surveillance, and manages risks effectively. 
+Laboratory testing 
+Reliable laboratory testing is a key element of the national surveillance system. Australia has a 
+network of government laboratories in the states and Northern Territory that have complementary 
+expertise determined by the aquatic animal species and associated diseases of importance to them. 
+The CSIRO Australian Centre for Disease Preparedness is the national reference laboratory for 
+aquatic animal diseases and provides services for exclusion testing for exotic or other significant 
+diseases. In addition, the private sector is providing an increasing level of diagnostic services to the 
+aquaculture industry. 
+A range of measures are in place to underpin the quality of our diagnostic services. These include 
+regulatory requirements, diagnostic standards, proficiency testing programs, and accreditation of 
+quality management systems. Ongoing research, development and extension (RD&E) provides 
+continual improvement to Australia’s diagnostic capability. RD&E investment to develop and validate 
+diagnostic methods has been substantial with several Australian-developed and/or validated 
+methods included in international standards as well as Australia and New Zealand Standard 
+Diagnostic Procedures.
+
+13 
+Drivers for a national surveillance 
+strategy 
+Surveillance requirements are changing, and Australia’s national surveillance system will need to 
+evolve to address, and anticipate, some of these changes and future trends. Some of the key drivers 
+for developing a national aquatic animal health surveillance strategy are explored below. 
+New and emerging disease threats 
+Disease is a common and significant threat to Australia’s aquatic animal industries, including 
+aquaculture, fisheries and ornamental industries, and aquatic environments. Disease can rapidly 
+destroy businesses and impact aquatic animal resources. 
+There are many factors that contribute the emergence and spread of aquatic animal diseases, 
+including the rapid growth of aquaculture, increasing domestication of species, the high diversity of 
+farmed species, intensification of production, production in new environments, and large trade 
+volumes. Changing environmental conditions (e.g., changes in water quality, climate, and pollution 
+levels) and introduced aquatic pests and weeds can also impact the emergence and spread of aquatic 
+animal diseases. 
+The national surveillance system needs to detect and respond to new and emerging disease threats. 
+Industry growth 
+Australia’s seafood industry focuses on premium products that generate significant economic value. 
+Australia’s commercial fisheries and aquaculture sectors were valued at $3.42 billion in 2021–22, 
+with $1.44 billion (or 44%) of this attributed to wild catch and $1.94 billion (or 56%) to aquaculture7. 
+As Australia’s aquatic animal industries continue to grow, and business consolidation occurs, so does 
+the need to apply biosecurity measures to protect investment. Biosecurity measures at an enterprise 
+or regional level are underpinned by surveillance to determine health status, assess risk and support 
+management decisions. Surveillance is expensive so creating efficiencies through this strategy is 
+desirable. 
+Social license 
+Australia is fortunate to have a diverse array of unique native species that support Australia’s aquatic 
+ecosystems. Many of these native species are also farmed or fished across Australia. Community 
+awareness of the importance of these native species and unique aquatic environments is strong. 
+7 Australian fisheries and aquaculture statistics 2022. https://www.agriculture.gov.au/abares/research-
+topics/fisheries/fisheries-and-aquaculture-statistics/production
+
+14 
+Seafood businesses may be challenged to demonstrate through surveillance outcomes that their 
+activities do not affect the health of wild populations of aquatic animals. 
+Trade 
+Australia’s favourable disease status supports market access for seafood exports. However, trading 
+partners are increasingly requiring assurance that export products meet their sanitary requirements. 
+For example, claims of freedom for diseases may need to be supported with a higher standard of 
+evidence as importing countries tighten their requirements, including for zone or compartment 
+freedom. This trend is likely to continue, and Australia’s national surveillance system will need to 
+provide the necessary data to meet the individual requirements of different markets. 
+Domestic translocation of live aquatic animals (including broodstock and genetic material) is 
+necessary for efficient investment in domestication and genetic improvement. However, the aquatic 
+animal health risks of translocation need to be assessed, and surveillance underpins the risk 
+assessment process. 
+Changing diagnostic methods and technologies 
+New diagnostic approaches and technologies are being developed that are becoming powerful tools 
+for field and laboratory application (e.g., the use of environmental DNA, point of care tests, 
+metagenomic methods). While these new technologies are proving valuable, their appropriate 
+application and performance for specific purposes of use must be determined. This is especially 
+important where a given diagnostic tool is used to support decision-making. 
+Changing risk pathways and environments 
+Different factors or events can influence aquatic animal disease surveillance in different ways. Some 
+factors may influence the disease, including transmission, replication, and the development of 
+clinical disease (e.g., pathogen, host, environment, and husbandry factors). In this instance, 
+surveillance can be used to identify factors that contribute to the disease risk (e.g., water 
+temperature) and to inform management interventions. However, it is also important that the 
+surveillance system can adapt and respond to changes in factors or events that influence disease risk. 
+Some factors or events can influence the emergence or spread of a disease (e.g., pathogen specific 
+changes, changes in the environment, production methods, trade patterns, etc.). Identifying these 
+types of changes is important for the effective allocation of surveillance resources and for managing 
+biosecurity risks. The national surveillance system needs to be flexible and adaptive enough to cope 
+with such changes and have the appropriate mechanisms in place to deal with changes in data 
+analysis and interpretation methods (e.g., as new scientific information or technology arises).
+
+15 
+Aims of the strategy 
+The national aquatic animal disease surveillance strategy aims to: 
+1) 
+Support a coordinated and collaborative approach to surveillance by industry and 
+governments. 
+Industries and governments are the principal investors and users of surveillance information. 
+Improved coordination and information sharing, between industry and governments, and across 
+jurisdictions, will strengthen the surveillance system and likely improve efficiency and maximise 
+common benefit. Clarity on roles and responsibilities will also facilitate coordination. 
+2) 
+Define agreed principles for investing in surveillance that will optimise return on investment 
+for industry and governments. 
+The development and adoption of agreed principles for investing in surveillance will ensure benefits 
+and uses of surveillance information can be maximised. These principles could serve as guidance for 
+both shared and individual investments. 
+3) 
+Define expected outcomes from investment in the national surveillance system. 
+By defining the desired outcomes of the national surveillance system there is a possibility to measure 
+the effectiveness of investments and the degree to which the system is meeting end-user needs. 
+Roles and responsibilities 
+Responsibilities for aquatic animal health surveillance are shared among the public (Australian 
+Government, state and territory governments) and private (aquatic animal industries) sectors. This 
+section details the roles and responsibilities of each of those parties. 
+Governments 
+The Australian Constitution defines the responsibilities of governments with respect to animal 
+engagement such as international disease reporting, export certification and technical trade 
+reference laboratory for aquatic animal diseases at the CSIRO Australian Centre for Disease 
+emergency response. 
+State and territory governments are responsible for disease control within their borders, including 
+disease investigation, diagnostic services and surveillance. Each jurisdiction has its own animal health 
+legislation that defines the legal requirements for reporting listed diseases and requirements for 
+testing when animals are translocated. The diseases listed within each jurisdiction include all those 
+on Australia’s national list of reportable diseases of aquatic animals and additional diseases that may 
+be of particular concern to that jurisdiction. Each jurisdiction provides information on the presence 
+
+16 
+information is used to meet Australia’s international reporting obligations and to substantiate 
+Australia’s disease status. Jurisdictions also maintain their own aquatic animal health laboratories. 
+Other government agencies (e.g., environment or human health agencies) may also be responsible 
+for leading investigation of fish kills, for monitoring environmental toxins and microorganisms that 
+may affect food safety, and for monitoring water quality and pollution levels. These agencies collect 
+useful, complementary data that may be useful for disease investigations and understanding disease 
+transmission and spread. 
+Industry 
+Aquaculture businesses are responsible for the health of the aquatic animals they own. Businesses 
+have a vested interest in maintaining a high standard of aquatic animal health to facilitate 
+productivity, product quality and welfare outcomes. Businesses are responsible for knowing and 
+meeting their legal biosecurity responsibilities. Businesses must also ensure they meet domestic or 
+international trade requirements which typically includes a combination of passive and active 
+surveillance activities. Businesses are responsible for the cost of meeting these requirements; for 
+example, testing to meet translocation requirements. Under some circumstances (e.g., mortality 
+thresholds, suspicion of notifiable diseases), business owners or managers have a legal obligation to 
+report diseases to the relevant state or territory government authority. 
+Other seafood industry stakeholders, such as commercial fishers, processors and recreational fishers, 
+may have a legal obligation to report suspicion of notifiable diseases. These stakeholders are 
+particularly important for passive surveillance, as they regularly observe animals. It is important that 
+these stakeholders know the signs of disease and when and how to report a suspected disease event. 
+Industry peak bodies may have a role in encouraging their members to undertake training on disease 
+identification, and biosecurity and surveillance requirements. 
+Private aquatic animal health services 
+Private aquatic animal health services (including veterinarians, aquatic animal health consultants and 
+private laboratories) contribute to the national surveillance system and have a legal obligation to 
+report certain disease events to the relevant state or territory government authority (e.g., mortality 
+thresholds, suspicion of notifiable diseases). 
+Research organisations 
+Research organisations may use surveillance data to inform aquatic animal health research 
+activities8. Active and passive surveillance data may also be used to identify gaps in knowledge or to 
+inform research investment priorities for industry and governments. The Fisheries Research and 
+8 Links to AQUAPLAN 2022-2027 Objective 7 Research and Innovation.
+
+17 
+Development Corporation (FRDC) invests in R&D activities that provide a strategic benefit, for 
+example improving surveillance methodology or systems. 
+Training and education providers 
+In collaboration with industry and governments, training and education providers have a role in 
+upskilling staff, and other relevant stakeholders, in surveillance methodology and disease 
+identification and reporting. 
+Surveillance principles 
+The following set of principles are intended to guide investment in the national surveillance system, 
+including sector-specific surveillance plans. These principles serve as a reference to maximise the 
+impacts of surveillance initiatives and should be considered by all relevant parties when developing 
+and implementing new or existing surveillance systems, plans or activities. 
+Planning 
+Surveillance activities should be planned to identify purpose, responsibilities, methods, response 
+policy, and communication of results. Planning should engage all relevant stakeholders. A response 
+policy should be agreed in advance if detection of a disease could result in an emergency response—
+this provides certainty for participants and allows for appropriate response actions to be agreed in 
+advance. Risk factors should be identified (e.g., entry pathways, production methods, environmental 
+factors) and where appropriate used to strengthen surveillance design and cost-effectiveness9. 
+Priorities 
+Investments in national surveillance systems or activities should focus on priority areas where return 
+on investment will be maximised, as agreed by industry and government stakeholders. Priorities 
+should be based on risk and be cost-beneficial to both industry and governments. 
+Data use and sharing 
+Wherever possible, the use of existing data should be maximised (e.g., to inform policy setting, 
+research priorities, business decisions, and/or biosecurity practices). This can increase return on 
+existing investments and provide common benefit. To maximise the use of existing data, 
+arrangements for data sharing, and a willingness to share data, will be necessary. Existing platforms 
+9 Previous surveillance programs which used a risk-based approach include: the national surveillance program 
+for white spot syndrome virus, and the active surveillance programs for barramundi hatcheries and wild and 
+farmed abalone. Further information on these programs is available on the DAFF website.
+
+18 
+and systems should be used as the foundation for improvements. Data sharing arrangements should 
+be developed in consideration of these surveillance principles. 
+Standards 
+Where relevant for trade and border biosecurity purposes surveillance activities should be designed 
+in accordance with the international standards of the World Organisation for Animal Health (WOAH). 
+WOAH recommended diagnostic methods, or other methods validated for the particular purpose, 
+should be used to ensure the surveillance outcomes are scientifically sound. In some circumstances, 
+it may be necessary to exceed these standards to address a defined purpose. 
+Funding and capability 
+Surveillance activities should be designed to meet their objectives and provide positive return on 
+investment. Costs of surveillance, which includes funding and resources, should be shared in 
+proportion to the expected benefits of the surveillance activity, with governments contributing in 
+proportion to the expected public benefits and industries contributing in proportion to the expected 
+private benefits. 
+Equity 
+Surveillance activities should be executed in a manner that does not unduly disadvantage any one 
+party over others. For example, consideration should be given to coordinating the timing of sampling 
+or testing so that information can be considered in its entirety and actions taken accordingly. 
+Confidentiality should also be applied as appropriate to protect businesses from being unfairly 
+disadvantaged. 
+Measuring the performance of the 
+national surveillance system 
+This section outlines an approach for assessing performance against the surveillance system 
+objectives outlined in this strategy (refer to page 8). It is expected that these surveillance measures 
+may be applied at the national or sector-specific level to demonstrate why system components are in 
+place, that the system is fit-for-purpose and functioning as it should, and to justify any change in 
+investment in surveillance capacity. Research may also be required to help establish a baseline for 
+the national surveillance system from which performance can then be measured. 
+Performance measures 
+Performance of the surveillance system should be assessed in ways that are readily available and 
+cost-effective.  Either input-based (e.g., system components in place and functioning) or 
+outcome-based measures (e.g., quantitative evidence that a specific disease is absent) may be 
+appropriate under different circumstances. Responsibilities for performance assessment will depend 
+on the purpose and aims of a given surveillance activity and should be agreed during their 
+development.
+
+19 
+Objective 1. Early detection of nationally significant and emerging 
+diseases 
+Performance measures 
+a) Meeting the biosecurity and surveillance system requirements of WOAH Aquatic Code 
+Article 1.4.5. a 
+b) Meeting the early detection system requirements of WOAH Aquatic Code Article 1.4.7. 
+c) 
+For specific diseases, meeting the passive surveillance requirements of WOAH Aquatic Code 
+Article 1.4.8. 
+d) Quantitative modelling to determine outcome measures; for example, the likely speed of 
+detection for a particular disease-host-production system combination 
+(e.g., AQUAPLAN 2022–2027 activity 3.3). 
+Note: a Chapter 1.4 of the WOAH Aquatic Code provides ‘guidance on the surveillance approaches to be used by a 
+Competent Authority to make and maintain a self-declaration of freedom from disease or to confirm the occurrence of a 
+listed disease or an emerging disease’. 
+Objective 2. Demonstration of freedom from diseases 
+Performance measures 
+a) Meeting the biosecurity and surveillance system requirements of WOAH Aquatic Code 
+Article 1.4.5. a 
+b) Availability of surveillance evidence for priority diseases (as may be determined by 
+AQUAPLAN 2022-2027 activities 1.3 and 3.2). 
+c) 
+Availability of dossiers presenting the evidence for claims of freedom from specific diseases 
+at the level of country, zone or compartment in accordance with the WOAH Aquatic Animal 
+Health Code. 
+Note: a Chapter 1.4 of the WOAH Aquatic Code provides ‘guidance on the surveillance approaches to be used by a 
+Competent Authority to make and maintain a self-declaration of freedom from disease or to confirm the occurrence of a 
+listed disease or an emerging disease’. 
+Objective 3. Informing appropriate risk-based management of 
+nationally significant endemic diseases 
+Performance measures 
+a) The proposed performance measures of objectives 1 and 2 above are met for the specific 
+disease. 
+b) Surveillance data, including translocation testing data, is analysed and collated and shows 
+sound evidence for disease presence / absence. 
+c) 
+Surveillance and biosecurity plans for the specific disease are developed, agreed, 
+implemented and routinely reviewed.
+
+20 
+Application of this Strategy  
+This national surveillance strategy provides clarity on the agreed objectives of the national 
+surveillance system, roles and responsibilities, principles for investment, and performance measures. 
+It is a framework against which aquatic animal disease surveillance activities and programmes can be 
+developed collaboratively to ensure desired outcomes are achieved and return on investment is 
+maximised.  
+The national surveillance strategy is not time bound as it does not identify specific surveillance 
+actions or projects. However, actions to strengthen the national surveillance system are identified 
+within Australia’s national strategic plan for aquatic animal health, AQUAPLAN 2022–2027. A review 
+of the national surveillance strategy may be warranted at the commencement of a successor strategy 
+to AQUAPLAN 2022-2027, to determine whether it continues to meet its purpose and the needs of 
+stakeholders. 
+Objective 3 of AQUAPLAN 2022–2027 aims to optimise government and industry investment in the 
+national surveillance system. Development of this national surveillance strategy is the first of three 
+AQUAPLAN activities contributing to Objective 3 on surveillance. The strategy provides an approach 
+against which aquatic animal industry sectors can choose to develop and measure the performance 
+of sector-specific surveillance plans (AQUAPLAN activity 3.2.) which will identify surveillance 
+objectives and how they will be achieved. There are also clear linkages to activity 3.3. which aims to 
+understand the sensitivity of the passive surveillance system for specific sector and disease 
+combinations. 
+The national surveillance strategy has application to additional AQUAPLAN 2022-2027 activities that 
+may contribute to strengthening, or may rely on, the national surveillance system, including: 
+• 
+Activity 1.3 Strategic approach to meet technical requirements and support market access. 
+• 
+Activity 5.2 Biosecurity action plans for priority aquatic animal diseases. 
+• 
+Activity 5.3 Sector-specific simulation exercises. 
+The national surveillance strategy includes performance measures against the identified objectives of 
+the national surveillance system. These performance measures are intended for application to 
+specific activities or components of the national surveillance system where a need is identified, and a 
+positive return on investment of resources is anticipated.
+
+21 
+Appendix A Process to develop the 
+strategy 
+The process to develop the national aquatic animal disease surveillance strategy is outlined below. 
+1) 
+AQUAPLAN 2022–2027 
+Industry and governments identified a need for industry and government investors in aquatic animal 
+disease surveillance to collaboratively develop a national surveillance strategy (through 
+AQUAPLAN 2022–2027). 
+2) 
+Discussion paper 
+A project plan was developed and agreed by industry peak bodies and governments (through the 
+Sub-Committee on Aquatic Animal Health [SCAAH]) in May 2022. As per the agreed project plan, 
+aquatic animal industry and Australian, state and territory government representatives were 
+provided a discussion paper in November 2022. The aim of this paper was to facilitate consideration 
+of their needs, objectives and priorities for a national surveillance strategy. 
+3) 
+Consultation sessions 
+Stakeholders were invited to attend two identical consultation sessions in November and 
+December 2022. The aim of these sessions was to familiarise stakeholders with the discussion paper 
+and the 12 questions being asked.  
+Thirteen responses to the discussion paper were received, with approximately half coming from 
+industry and half from governments. Responses were deidentified and collated, such that consensus 
+views of stakeholders were presented. Minority views were also maintained, where applicable. 
+4) 
+Strategy writing 
+An industry-government writing group was established to guide development of the strategy in 
+March 2023. The draft strategy was provided to industry peak bodies and governments (through 
+SCAAH) for comment in March 2024. 
+5) 
+Consultation sessions 
+Stakeholders were invited to attend two identical consultation sessions on the draft strategy in 
+March 2024. The aim of these sessions was to familiarise stakeholders with the draft, update on 
+progress to date and to answer any questions. 
+Industry and governments comments on the draft strategy were deidentified, collated and addressed 
+by the writing group in May 2024. 
+6) 
+Endorsement 
+The national aquatic animal health surveillance strategy was endorsed by industry peak bodies and 
+SCAAH in August 2024. The national aquatic animal health surveillance strategy was endorsed by 
+Animal Health Committee in December 2024.
+
+22 
+Appendix B Existing national 
+agreements, plans and policies 
+Existing national agreements, plans and policies were considered in the development of the national 
+surveillance strategy. The following documents provide complementary linkages with this strategy: 
+• 
+AQUAPLAN 2022-2027, Australia’s national strategic plan for aquatic animal health. This plan 
+sets out national priorities for collaborative actions to strengthen Australia’s aquatic animal 
+health management systems. 
+• 
+Intergovernmental Agreement on Biosecurity 2019. The agreement aims to strengthen 
+Australia’s biosecurity system through enhanced national collaboration among Australian 
+governments. 
+• 
+Commonwealth Biosecurity 2030 Roadmap. Provides a clear and practical roadmap to direct 
+biosecurity remit. Annual action plans will be developed to guide its delivery and ensure 
+transparency. 
+• 
+National Biosecurity Strategy (2022–2032). Strategy aligns current and future efforts of key 
+stakeholders across the system in a common purpose, enhancing the long-held commitment to 
+shared responsibility with a clear and transparent commitment to action and investment. 
+• 
+National Animal Health Surveillance Business Plan 2016–2020. The plan was intended to guide 
+the efficient and effective delivery of terrestrial livestock surveillance activities in accordance 
+with nationally agreed objectives and priorities. 
+• 
+National Animal Health Diagnostics Business Plan 2021–2026. The plan aims to further develop 
+and strengthen the terrestrial animal health diagnostics component of Australia’s animal health 
+system. 
+• 
+Marine Pest Plan 2018-2023, Australia’s national strategic plan for marine pest biosecurity. The 
+plan outlines our national priorities for marine pest biosecurity and sets the strategic direction 
+for potential investment from 2018-2023. 
+• 
+National Marine Pest Surveillance Strategy. Outlines priority requirements for enhancing 
+surveillance of marine pests in Australia. It also aims to improve coordination and 
+implementation of these surveillance activities. 
+• 
+National Policy Guidelines for the Translocation of Live Aquatic Animals. These guidelines 
+provide information on the potential risks associated with the movement of live aquatic 
+animals, and guidance on how to conduct a risk assessment as an essential component of a 
+translocation activity. 
+• 
+Australian Weeds Strategy 2017–2027. This strategy outlines the principles that underpin weed 
+management in Australia. 
+• 
+New South Wales Marine Estate Management Strategy 2018–2028. Outlines how to protect and 
+enhance NSW waterways, coastline and estuaries over the next ten years.
+
+23 
+Appendix C Definitions 
+Term 
+Definition a 
+Surveillance 
+A systematic series of investigations of a given population of aquatic animals to 
+detect the occurrence of disease for control purposes, which may involve testing 
+samples of a population. 
+Passive 
+surveillance 
+Observer-initiated animal health surveillance. It often relies on observations of 
+clinical or behavioural signs of disease, reporting those signs and investigation of 
+an event. Also known as general surveillance.  
+Active 
+surveillance 
+Activities are initiated by an investigator using a defined protocol and are 
+generally conducted on a sector-specific basis with specific goals in mind.  
+Targeted 
+surveillance 
+A sub-set of active surveillance where sampling and testing for a specific pathogen 
+is planned and implemented. 
+Note: a as per the WOAH Aquatic Animal Health Code. 
+Appendix D Acronyms and 
+abbreviations 
+Acronym 
+Meaning 
+AQUAPLAN 
+Australia’s national strategic plan for aquatic animal health 
+Aquatic Code 
+Aquatic Animal Health Code 
+WOAH 
+World Organisation for Animal Health 
+AHC 
+Animal Health Committee 
+SCAAH 
+Sub-Committee on Aquatic Animal Health 
+FRDC 
+Fisheries Research and Development Corporation

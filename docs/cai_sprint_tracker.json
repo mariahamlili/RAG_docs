@@ -1,0 +1,71 @@
+{
+  "spreadsheet_id": "162oSO9W9aEn3YUu2PD70VbgczyalacavalhlCEo7rsU",
+  "worksheet_gid": 2052173087,
+  "last_synced": null,
+  "tickets": {
+    "CAI-009": {
+      "completion": "Done (partial)",
+      "blockers": "UI team sign-off on OPENAPI_FREEZE.md pending"
+    },
+    "CAI-022": {
+      "completion": "Not started",
+      "blockers": "OCR fallback not yet wired — 34 scans still empty in text/source (OCR probe proved recoverable)"
+    },
+    "CAI-028": {
+      "completion": "Not started",
+      "blockers": "Depends on OCR re-extract for full ~635-doc corpus (optional)"
+    },
+    "CAI-030": {
+      "completion": "Not started",
+      "blockers": "Embedding model choice not finalized"
+    },
+    "CAI-052": {
+      "completion": "Not started",
+      "blockers": "UI contract for expandable citations not signed off"
+    },
+    "CAI-061": {
+      "completion": "Not started",
+      "blockers": "Domain reviewer availability"
+    },
+    "CAI-068": {
+      "completion": "Not started",
+      "blockers": "Optional P1 — skip if Week 3 slips"
+    },
+    "CAI-069": {
+      "completion": "Not started",
+      "blockers": "Optional — skip if time-constrained"
+    },
+    "CAI-070": {
+      "completion": "Not started",
+      "blockers": "Blocked on CAI-069 if tenant upload skipped"
+    },
+    "CAI-071": {
+      "completion": "Not started",
+      "blockers": "Blocked on CAI-069"
+    },
+    "CAI-075": {
+      "completion": "Not started",
+      "blockers": "Optional Week 4 — Scheduling team coordination"
+    },
+    "CAI-076": {
+      "completion": "Not started",
+      "blockers": "Optional — Scheduling read APIs"
+    },
+    "CAI-077": {
+      "completion": "Not started",
+      "blockers": "Optional — Scheduling team contract"
+    },
+    "CAI-081": {
+      "completion": "Deferred",
+      "blockers": "Deferred to Phase 11+"
+    },
+    "CAI-082": {
+      "completion": "Deferred",
+      "blockers": "Deferred to Phase 11+"
+    },
+    "CAI-083": {
+      "completion": "Not started",
+      "blockers": "Optional joint demo — needs UI + SCH"
+    }
+  }
+}

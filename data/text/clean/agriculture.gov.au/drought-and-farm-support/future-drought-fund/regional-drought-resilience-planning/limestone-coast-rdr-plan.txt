@@ -1,0 +1,3823 @@
+1 
+LIMESTONE COAST 
+Regional Drought Resilience Plan 
+V.3 January 2025
+
+2 
+Table of Contents 
+List of Figures 
+4 
+List of Tables 
+4 
+Acknowledgement of Country 
+5 
+Executive Summary 
+6 
+1. 
+Introduction 
+7 
+1.1. 
+Regional Definition of Drought 
+8 
+1.2. 
+Regional Drought Resilience Plans 
+8 
+1.3. 
+Building on Existing Work 
+9 
+1.4. 
+Project Reference Group 
+10 
+2. 
+Dry Times 
+11 
+2.1. 
+What dry times look like in the region 
+11 
+2.2. 
+Impacts of dry times 
+11 
+2.3. 
+Systems mapping Limestone Coast 
+17 
+Drought beyond our region 
+19 
+3. 
+Strengths, Challenges and Opportunities 
+20 
+3.1. 
+Strengths 
+20 
+3.2. 
+Challenges 
+20 
+3.3. 
+Opportunities 
+20 
+3.4. 
+Strategic Framework 
+21 
+4. 
+Intervention Options and Pathways 
+23 
+4.1. 
+Pillar Pathways 
+25 
+5. 
+Our Region 
+30 
+5.1. 
+Primary Industries 
+30 
+5.2. 
+Water security landscape 
+31 
+5.3. 
+Social and community landscape 
+33 
+5.4. 
+First Nations water focus 
+34 
+5.5. 
+Environmental landscape 
+35 
+5.6. 
+Economic landscape 
+35 
+5.7. 
+Outlook and trajectory for the region 
+35 
+6. 
+About this Regional Drought Resilience Plan 
+37 
+6.1. 
+What is resilience? 
+37 
+6.2. 
+Theory of Change 
+39 
+7. 
+Engagement 
+41 
+7.1. 
+What we heard 
+41 
+8. 
+Strategic Alignment 
+46
+
+3 
+9. 
+Monitoring, Evaluation and Learning 
+48 
+9.1. 
+Planning Process and Program Logic Overview 
+48 
+9.2. 
+Program Logic 
+50 
+9.3. 
+Program Measures 
+51 
+9.4. 
+Evaluation Framework 
+56 
+Glossary 
+57 
+Abbreviations 
+60 
+References 
+61 
+Appendix 1 Supporting Pathways 
+63 
+Appendix 2 Master List of Outcomes 
+66
+
+4 
+List of Figures 
+Figure 1: Limestone Coast region and Aboriginal Language Areas 
+7 
+Figure 2: Overview of Regional Partners in Sustainable Primary Production 
+9 
+Figure 3: Limestone Coast Existing Programs Snapshot. 
+Figure 4: Annual Average Rainfall Values Reported via Decadal Averages 
+14 
+Figure 5: Trigger of Significantly Below Average Rainfall Mapped Against Primary Production 
+18 
+Figure 6: Trigger of Drought Outside the Limestone Coast Mapped Against Primary Production 
+19 
+Figure 7: Strategic Framework for Improving Drought Resilience in the Limestone Coast 
+22 
+Figure 8: Limestone Coast Regional Snapshot 
+30 
+Figure 9: Gross Value of Production by Local Government Area and Commodity for 2020-2021 
+31 
+Figure 10: South East Drainage System Map 
+32 
+Figure 11: Regional Social Profile 
+33 
+Figure 12: Limestone Coast Wetlands Areas 
+Figure 13: Community Resilience Framework 
+37 
+Figure 14: Plan Strategic Priorities Aligned to ICOR Community Resilience Areas 
+38 
+Figure 15: What Resilience looks like for each Strategic Priority 
+38 
+Figure 16: Theory of Change for Limestone Coast Drought Resilience Plan (to be formatted as a diagram in 
+final plan) 
+40 
+Figure 17: Development of the Plan - Process Pathway 
+48 
+Figure 18 Overview of Program Logic 
+49 
+List of Tables 
+Table 1: Potential Evapotranspiration by Season ................................................................................................ 15 
+Table 2: Hot Day Temperature Predictions for Limestone Coast (DEW, 2024) ................................................... 16 
+Table 3: Pillar Implementation Pathways and Actions ........................................................................................ 25 
+Table 4: Engagement Summary ........................................................................................................................... 41 
+Table 5: Local, Regional, State, National and International Plans Considered. ................................................... 46 
+Table 6: Program Logic ........................................................................................................................................ 50 
+Table 7: Program Measures ................................................................................................................................. 51 
+Table 8: Evaluation Framework ........................................................................................................................... 56 
+Table 9: Supporting Implementation Pathways and Actions .............................................................................. 63 
+Table 10 Master List of Outcomes ....................................................................................................................... 66
+
+5 
+Acknowledgement of Country 
+Regional Development Australia Limestone Coast acknowledges and respects the Traditional 
+Custodians of the ancestral lands of the Limestone Coast. We acknowledge Elders past and 
+present, and we respect the deep feelings of attachment and relationship of Aboriginal 
+peoples to Country. 
+We appreciate the contributions of First Nations people in the development of this Regional 
+Drought Resilience Plan. We look forward to building on this relationship during the 
+implementation.
+
+6 
+Executive Summary 
+This Limestone Coast Regional Drought Resilience Plan tells the story of dry times in the region and identifies 
+opportunities for strengthening communities to respond to drought. The Plan was built on the findings of 
+community engagement across the Limestone Coast, combined with research-based evidence, and the input 
+of project partners:  
+• 
+Regional Development Australia Limestone Coast 
+• 
+Limestone Coast Landscape Board 
+• 
+Limestone Coast Local Government Association 
+• 
+Department of Primary Industries and Regions SA 
+• 
+SA Drought Hub 
+• 
+South East Aboriginal Focus Group 
+In this plan, the Bureau of Meteorology (2022) definition of drought is used:  
+Drought is a prolonged, abnormally dry period when the amount of available water is 
+insufficient to meet our normal use.  
+For the Limestone Coast, the timing of rainfall and the cumulative effects of weather are as important to 
+agricultural success as the amount of rain. The impacts of weather-related variances across industry are also 
+diverse, with each industry having different water, temperature and timeframe parameters. 
+Climate projections indicate that the Limestone Coast will spend 40% more time in drought by 2030 (DEW, 
+2024). 
+The Plan identifies tangible actions that will help build resilience, with immediate benefits, as well as long-
+term impacts.  
+Vision 
+A resilient community, economy and environment informed and prepared for 
+drought and dry times. 
+Strategic Priorities 
+Economic Resilience 
+Environmental Resilience 
+Social Resilience 
+Goals 
+Ensuring primary producers and 
+their supply chains have the 
+resources and skills to capitalise 
+on good years and successfully 
+navigate dry times. 
+Established systems are in place 
+to replenish our waterways, 
+wetlands and landscapes 
+ensuring sustainable future 
+capacity for our environment and 
+industry. 
+Enhanced community well-being 
+and mental health resilience by 
+creating stronger networks, 
+community collaboration and 
+equitable access to healthcare 
+and education. 
+Impacts 
+Primary production businesses 
+and their communities are self-
+reliant, productive and profitable. 
+Primary production landscapes 
+are functional and sustainable, 
+with healthy natural capital. 
+Primary production communities 
+are resourceful, adaptable and 
+thriving. 
+The partners will continue to work towards securing funding to deliver the recommendations in this Plan.
+
+7 
+1. Introduction 
+This Regional Drought Resilience Plan (the Plan) has been developed for the Limestone Coast 
+region in South Australia.  The Plan development has been a joint project of Regional 
+Development Australia Limestone Coast (RDALC), Limestone Coast Landscape Board (LCLB), 
+Limestone Coast Local Government Association (LCLGA), the Department of Primary 
+Industries and Regions (PIRSA) and the South Australian Drought Hub. 
+The Plan seeks to bring together local knowledge and lived experiences, with scientific projections to create a 
+roadmap for a resilient Limestone Coast. This has proved challenging with the diversity of industry, climates 
+and geology across the region.  
+While there are many ways that the region could be divided, for this purpose, this diversity has translated to 
+three distinct zones across the Limestone Coast: Upper (Tatiara District Council and Naracoorte Lucindale 
+Council), Lower (Wattle Range Council, District Council of Grant and City of Mount Gambier), and Coastal 
+(District Council of Robe and Kingston District Council). Each zone has its own unique climate characteristics, 
+influencing the diversity of primary production industries. Each industry varies in the requirements for soil, 
+rainfall and temperatures, often resulting in clusters of similar enterprises across the region aligning within 
+zones. 
+Figure 1: Limestone Coast region and Aboriginal Language Areas
+
+8 
+1.1. Regional Definition of Drought 
+Drought in this plan is defined as a prolonged, abnormally dry period when the amount of available water is 
+insufficient to meet our normal use (BOM, 2022).  
+For the Limestone Coast, the timing of rainfall and the cumulative effects of weather are as important to 
+agricultural success as the amount of rain. The impacts of weather-related variances across industry are also 
+diverse, with each industry having different water, temperature and timeframe parameters. 
+The need for a regionally appropriate definition of drought was raised several times during the RDRP process. 
+Participants engaged in the RDRP program described “drought as a natural event marked by insufficient 
+rainfall, that impact[s] negatively on water availability and agricultural production”. Primary producers often 
+referred to these rainfall deficit periods as “dry times,” especially when rainfall is lacking at crucial times or 
+when one or more seasons fail to break. The term dry times is used throughout this document, to reflect our 
+region’s lived experience of relatively short periods between significant rainfall. 
+1.2. Regional Drought Resilience Plans 
+communities to prepare for the impacts of dry times, building a resilient agricultural sector, landscape, and 
+communities. The Fund is delivered against three inter-connected strategic priorities: economic resilience, 
+environmental resilience, and social resilience, which have been brought through to this plan. 
+The Regional Drought Resilience Planning program is one of the Future Drought Fund’s key programs. Jointly 
+community-led Regional Drought Resilience Plans. The purpose of the Limestone Coast Plan is to benefit 
+communities by: 
+• 
+building their economic, environmental and social resilience to future droughts 
+• 
+being in a stronger position to adapt to climate change 
+• 
+forming stronger connections and networks within and between regions 
+• 
+applying best practice data and information to make better decisions.
+
+9 
+1.3. Building on Existing Work  
+The Limestone Coast has a long history of industry and government investment in research and resources, 
+which are available to the community. Individuals have also shown their ability to adapt to changing climatic 
+and economic conditions on a farm level scale, as well as uptake of industry wide adaptation. The figure 
+below identifies some of the key stakeholders in primary production in the region and includes their vision 
+statements where appropriate. 
+Figure 2: Overview of Regional Partners in Sustainable Primary Production
+
+10 
+Beyond the vision statements described above, there are many initiatives that have supported primary 
+producers and associated communities to prepare and respond to challenging times. The figure below 
+identifies some of the current programs relevant to drought resilience, although it is not an exhaustive list. 
+The intent of the Plan is to recognise and build on the current and historic work. Significant research and 
+support are available, and the Plan identifies opportunities to maximise the impact of this investment.  
+1.4. Project Reference Group 
+Regional Development Australia Limestone Coast were the lead organisation in the development of the Plan, 
+bringing together partners in a Project Reference Group made up of representatives from: 
+• 
+Regional Development Australia Limestone Coast 
+• 
+Limestone Coast Landscape Board 
+• 
+Limestone Coast Local Government Association 
+• 
+Department of Primary Industries and Regions SA 
+• 
+SA Drought Hub 
+The role of the Project Reference Group was to oversee the appointment of a consultant for the community 
+engagement and evidence review, co-design the engagement approach, provide technical advice on the 
+evidence base for the Plan, co-design and review content for the draft Plan, engage with other stakeholders, 
+and approve the response to Independent Review.  
+Figure 3: Limestone Coast Existing Programs Snapshot.
+
+11 
+2. Dry Times 
+2.1. What dry times look like in the region 
+Droughts are a feature of all climates and are defined by regional averages and features. Engagement across 
+the Limestone Coast found terminology such as ‘dry times’, ‘when the season doesn’t break’, ‘we didn’t get 
+the rainfall we would normally get’, or ‘we had to dry sow’. While these terms relate to a short duration, 
+they are compounded by other stressors, and can have significant impacts. There is also a cumulative effect 
+when dry times run over multiple seasons. 
+During engagement, the word ‘drought’ was reserved for multi-year events associated with an almost 
+complete pause in primary production activities and was described as an event that generally affected other 
+regions, not so much the Limestone Coast. 
+The three main environmental factors contributing to drought and dry times are:  
+1. Timing, frequency, intensity and quantity of rainfall. 
+2. Evapotranspiration, soil moisture and runoff; and 
+3. Temperature including hot days, heatwaves and heat stress. 
+At the time of writing in 2024, the region was impacted by back-to-back dry growing seasons. Livestock 
+producers involved in the engagement identified that the dry spring in 2023 reduced the amount of hay, 
+silage or grain that was produced on farm. This resulted in both lower on-farm storage of supplementary feed, 
+as well as lower income from sales to others. The dry start to 2024, was amplified by the dry spring prior. 
+Many farmers spoke of having less feed stored than they preferred, as well as lower cashflow impacting the 
+ability to purchase supplementary fodder. 
+The timing of rainfall in the Limestone Coast is crucial. From a grazing perspective, the autumn break must 
+come before ground temperatures become too cold for vegetation growth. For those involved in cropping, 
+many producers were forced to dry sow crops for the 2024 season. While this is standard practice in other 
+regions, it is unusual for the Limestone Coast. Dry sowing is a substantial investment with no guarantee of a 
+return if sufficient rain does not fall in the days and weeks post sowing. 
+Other examples of adaptive management during dry times include containment feeding for livestock, 
+reducing overheads, delaying capital improvements, and reducing stocking rates. The flow on effects for the 
+primary production supply chain and local communities are discussed below.  
+In good years, the Limestone Coast supports other Australian producers who may be experiencing drought. 
+This support includes purchasing or agisting stock, as well as supplying grain, hay and silage. In some 
+instances, assisting with transport of stock and fodder is also provided. 
+2.2. Impacts of dry times 
+Primary industry 
+The impact of drought and dry times on primary production in the Limestone Coast are dependent on many 
+factors, including the: 
+• 
+Duration of drought conditions 
+• 
+Frequency of drought conditions 
+• 
+Presence of other stressors
+
+12 
+• 
+Industry resilience 
+• 
+Farm level resilience; and 
+• 
+Broader economic climate. 
+For livestock producers, one of the major and immediate impacts is the need for high levels of supplementary 
+feed such as lucerne, hay, silage and grain. In addition to the cost for purchase and transport from outside 
+suppliers, farmers also have the lost income from the usual sale of fodder produced on farm.  
+The labour costs for supplementary feeding are significant, both in financial terms, and on wellbeing. The time 
+commitment, as well as the financial burden means that farming families are less likely to be able to leave the 
+farm for social events, travel or holidays. Without a break, particularly during the traditionally quieter winter 
+season, or over the Christmas period, resilience can be further eroded. 
+Other impacts on livestock producers include: 
+• 
+Oversupply and market saturation of livestock as farmers destock to reduce farm upkeep and 
+expenditure. 
+• 
+Heat stress on beef/dairy cattle, sheep, or other animals, impacting feed intake, lowering weight gain, 
+reducing fertility, lowering milk production and increasing susceptibility to death or disease. 
+• 
+Loss of productive pastures increasing weed infestations, reducing overall productivity and impacting 
+livestock health, reducing farming profitability. 
+• 
+Loss of genetics as a result of deliberate destocking or livestock losses. 
+• 
+Wool producers can experience reduced output, having to slaughter adult sheep to meet landscape 
+carrying capacities. Average yields can decline, as well as changes in quality. The value of breeding 
+ewes is recognised, with producers holding onto their strong genetic bloodlines for as long as 
+humanely possible.  
+For cropping enterprises, the major impact is the dual loss of harvest, as well as the loss of seed grain, legume, 
+and fodder crop to soil condition deterioration, dry conditions, and a lack of rain. Timing and consistency of 
+rainfall, evapotranspiration rates, and temperature can all impact the quantity and quality of pasture and crop 
+production. 
+Many farms in the Limestone Coast are mixed enterprise, providing diversity of income and spreading the 
+risks associated with market fluctuations. In drought and dry times, the impacts can be magnified by the 
+range of enterprises on-farm. 
+For the viticulture industry, irrigation availability is a key factor in minimising the impacts of drought and dry 
+times. In addition, hot seasonal conditions can impact vine flowering, bunch growth, and soil water availability 
+(including from irrigation). This can result in shrivelled grapes, early fruit ripening (up to 4 weeks earlier), and 
+sweeter wines (due to elevated sugar concentrations (baumé) and less acidity) with higher alcohol levels in 
+final products. Extreme heat conditions can place strain on refrigeration equipment and chillers, leading to 
+increased running costs and reduced capacity.  Wines are also ageing quicker than ‘typical’ years as they can 
+be susceptible to microbial activity. 
+The risk of bushfire is significantly increased during drought and dry times. With this, comes the increased 
+threat of loss of life, stock, and infrastructure. While fire is a concern for all communities and producers, the 
+forest industry is particularly susceptible, with potentially catastrophic results. The cost of fire monitoring and 
+emergency response is high, and the long-term impacts from the loss of timber and wood flow are significant.
+
+13 
+The forest industry invests heavily in fire protection, not only for their own assets, but for broader community 
+benefit. In addition to the increased fire risk, production in the forest industry is impacted with reduced water 
+availability for tree growth, losses particularly in young trees and lower quality timber during drought. 
+From a manufacturing perspective, lower capital investment results in lower demand for timber. This results 
+in lower production and/or stockpiling. 
+For all industries, changes in climate have the potential to increase pest plants and animal numbers, as well as 
+creating seasonal conditions that increase or introduce plant and animal diseases.  
+Water security landscape 
+Declines in rainfall at crucial periods of the primary production calendar are likely to increase the pressure on 
+groundwater use. At the same time, recharge of the aquifers is reduced, causing double the impact on the 
+region’s water resources. Groundwater monitoring has highlighted some areas of the Limestone Coast that 
+are showing signs of groundwater stress, with increased salinity and lower water tables. These impacts are 
+exacerbated in drought conditions. The region has limited access to surface water for primary production, 
+which would be further reduced in drought conditions. 
+Access to groundwater can also be compromised, with lower water levels requiring new or re-drilling of bores. 
+Increased rainfall variability is projected for the region, with high rainfall intensity events predicted to rise. 
+The impacts on water infrastructure will be significant, as will the impact on crops. High intensity rainfall 
+events can lead to increased soil erosion, particularly during or immediately after drought conditions or dry 
+times. There is also increased risk of flooding and damage to buildings. There is some risk that during periods 
+when the region receives ‘too much’ rainfall, individuals may undertake maladaptive practices such as 
+drainage infrastructure to remove water from the landscape. 
+From an environmental water perspective, reduced rainfall has a significant impact on wetland ecosystems 
+and increases the risk of saline waters entering into estuaries and aquifers. Water quality is impacted by 
+increased salinity and algal blooms, as well as the amount of water available. 
+Social and community landscape 
+The impacts of drought and dry times cause significant strain on farmers and their families, as well as their 
+broader communities. Drought can result in lowered social participation and connection, exacerbating mental 
+health impacts, and compounding risks of isolation. These impacts are particularly amplified within lower 
+socioeconomic populations, who have a reduced capacity to access support services, may rely on a single 
+income, and are vulnerable to fluctuating costs of living (NFF, 2023). 
+Other social and community impacts of drought and dry times (based on independent evidence review and 
+stakeholder engagement) include: 
+• 
+Children taking on extra responsibilities, attempting to take on ‘adult’ roles to ease parent’s worries, 
+with school attendance reduced 
+• 
+Increased cost of living and prices for food 
+• 
+Burnout and compassion fatigue, leading to other physical health issues such as headaches, difficulty 
+sleeping, and exacerbation of existing health issues 
+• 
+Self-medication and uptake of excessive alcohol consumption, or other ‘risky’ behaviours 
+• 
+Potential for increased anxiety or depression due to financial and/or family pressures.
+
+14 
+Reduced spending by primary producers due to drought conditions or dry times can combine with higher cost 
+of living for the general community. This places financial strain on small businesses and can lead to 
+redundancies and business closures, further exacerbating the impacts on community.  
+Access to healthcare, including mental health services can be difficult in the region due to limited availability 
+of providers, distance to travel, long wait times and cost. The potential stigma associated with mental health 
+can also be greater in smaller communities. During drought and dry times, the financial burden can be too 
+high. In addition, an initial request may be met with significant delays, knocking confidence or motivation at 
+the beginning of the process. 
+Future outlook and trajectory for the region 
+Climate projections indicate that the Limestone Coast will spend 40% more time in drought by 2030 (DEW, 
+2022).  
+Rainfall 
+Historical monthly, seasonal, and annual rainfall totals are highly variable across all parts of the region. Within 
+each season, there can be substantial differences between the rain received in one year and what is received 
+in the next. The table below shows decadal average rainfall, over time and compared to the Millennium 
+drought, demonstrating the regional variance. 
+Figure 4: Annual Average Rainfall Values Reported via Decadal Averages 
+Predicted changes in rainfall are more pronounced. For Keith, monthly rainfall is projected to decrease in the 
+months of February, April, May, October, and November. For Naracoorte, monthly rainfall is projected to 
+decrease from historical averages in March, April, October, and November. For Millicent, rainfall variability 
+from one year to the next, for a given month, is smaller than that of Naracoorte, and Keith. However, declines 
+in rainfall are still projected for April, July, October, and November.  
+The severity of the impact of these changes will depend on the type of activity being undertaken. For 
+example, February rainfall is important for pasture growth, and contributes to water for lucerne seed crops, 
+which are harvested in March and April. April and May rainfall is important for pasture growth to sustain 
+livestock over the cooler months, and for providing sufficient soil moisture for winter cropping. October and 
+November rainfall is important for pasture growth coming out of the cooler months when pasture growth is 
+constrained, and for fruit set to veraison in grapes. For crops, reductions in growing season rainfall can lead to 
+less crop biomass that would otherwise protect soils from erosion (DEWNR, 2013). Impacts will also be 
+dependent upon the soil type and moisture holding capacity of an individual’s soil.
+
+15 
+As noted within the South East Drainage and Wetland Strategy (SEWCB, 2019), flooding of creek floodplains as 
+a result of episodic high intensity rainfall events should also be expected under increased climate change 
+scenarios. Simultaneously, reduced aquifer recharge due to rainfall declines and reduced runoff are also 
+expected, altering freshwater inflow availability. Given the significance of habitats for birds, frogs, and other 
+plant and animal species found across the region, protecting existing environments from surface water 
+diversion, increased pollutant levels, groundwater declines, and sea level intrusion within freshwater 
+ecosystems as a result of these changing rainfall patterns must be considered. 
+These projected changes should be considered in the context of the confidence in the climate models being 
+able to replicate the multitude of processes which influence rainfall generating weather patterns. There is 
+high confidence that winter, spring, and annual rainfall are projected to decrease. Autumn and summer 
+rainfall changes are less clear (Hope, 2015). While changes may occur, caution is recommended given that 
+many of the weather systems that generate heavy rainfall, such as intense frontal systems and severe 
+thunderstorms, are poorly resolved in the climate models.  
+In the future, the dominant trend is the continuation of interannual variability, but for rainfall declines to 
+potentially occur at critical points in the agricultural calendar. These changes are projected to occur in the 
+context of rising temperatures and potential evapotranspiration, which could lead to a given rainfall total 
+being less effective in producing pasture, crop, vegetables, or vine growth or soil moisture improvement than 
+would historically have been the case.  
+Evapotranspiration 
+Potential evapotranspiration is the maximum amount of water that could be evaporated and transpired from 
+soils and plants from the landscape (BOM, 2010). This climate variable is not crop specific. High level data for 
+the different zones in Limestone Coast Region is shown in Table 1,with seasonal increases in potential 
+evapotranspiration relative to a baseline of 1964–1993 for three separate locations. The data indicates 
+increases in the order of 3% in the short-term (2030), 5% in the medium-term (2050) and approximately 10% 
+in the long-term (2090). 
+Table 1: Potential Evapotranspiration by Season 
+Timeframe 
+Season 
+Location  
+Baseline (1964-1993) 
+2030’s  
+2050’s 
+2070’s 
+Summer 
+Autumn 
+Winter 
+Spring 
+Summer 
+Autumn 
+Winter 
+Spring 
+Summer 
+Autumn 
+Winter 
+Spring 
+Summer 
+Autumn 
+Winter 
+Spring 
+Keith 
+618 
+311 
+171 
+416 
+635 
+320 
+175 
+443 
+646 
+325 
+180 
+453 
+653 
+333 
+184 
+464 
+Naracoorte 
+593 
+296 
+163 
+389 
+609 
+303 
+164 
+413 
+620 
+308 
+168 
+423 
+629 
+315 
+172 
+434 
+Millicent 
+535 
+267 
+149 
+358 
+550 
+275 
+153 
+381 
+560 
+278 
+156 
+390 
+568 
+285 
+159 
+400 
+Higher rates of evapotranspiration will increase the rate of water loss from above ground storage such as 
+farm dams, moisture loss from vegetation such as pasture, crops, vegetables, vines, and native vegetation, as 
+well as from soils, particularly when soil cover is minimal. It is recommended that these changes are read in 
+conjunction with the projected changes in rainfall, as increases in evapotranspiration will exacerbate declines 
+in rainfall.  
+The projections for increased potential evapotranspiration are modelled with high confidence, but magnitude 
+of change is projected with medium confidence (Hope, 2015).
+
+16 
+Hot Days 
+Hot conditions can exacerbate droughts and dry times, which can amplify impacts including:  
+• 
+Low soil moisture reduces the ability of evaporation to moderate air temperatures, potentially leading 
+to longer or more extreme heatwave conditions 
+• 
+Periods of high heat increase evaporation, intensifying soil moisture loss and drought conditions 
+• 
+Hot dry conditions have a major influence on bushfires by driving up the likelihood of high or extreme 
+fire danger weather, can lead to ‘megafires’, reduce the effectiveness of fire suppression activities 
+and create conditions which have health and safety impacts on fire-fighting staff (Papari, 2021). 
+• 
+Heatwaves in combination with extended drought conditions have been observed to cause algal 
+blooms in water bodies, increase invasive species, and affect forest productivity (Steffan, 2014). 
+• 
+Heat stress can affect grain yield and productivity, with potential losses equal to or greater than that 
+resulting from drought or frost. Field data suggests yield losses in the order of 190 kg/ha for every one 
+degree increase in average temperature. Extreme temperatures during the flowering stage 
+(September/October) have an even greater detrimental impact, with reductions of yield in the order 
+of 379 kg/ha for every additional day over 30°C, and a reduction of 837 kg/ha for every additional day 
+over 35°C (GRDC, 2013).  
+A substantial increase in the temperature reached on the hottest days, the frequency of hot days and the 
+length of warm spells is projected with very high confidence. A substantial decrease in the frequency of frost 
+events is also expected (CSIRO, 2017). The impacts of heat can be further magnified when successive days of 
+extremely hot weather are experienced. The maximum temperature reached can also be a critical factor for 
+agricultural, people or infrastructure, and can represent a tipping point where severe degradation or failures 
+may occur. These temperature extremes can therefore magnify drought impacts. The table below shows the 
+predicted increase in temperature, hot days and hot nights. 
+Table 2: Hot Day Temperature Predictions for Limestone Coast (DEW, 2024) 
+Climate Variable  
+Baseline 
+(1986–2005) 
+2030 (RCP 8.5) 
+2050 (RCP 8.5) 
+2070 (RCP 8.5) 
+Average Daily Maximum Temperature (°C) 
+18.8 
++1.1 
++1.6 
++2.3 
+Average Number of Hot Days Per Year (>35°C) 
+12 
++4 
++6 
++9 
+Average Number of Hot Days Per Year (>40°C) 
+2 
++1 
++3 
++3 
+Average Number of Hot Nights Per Year (>20°C) 
+4 
++2 
++3 
++5 
+Source: Department for Environment and Water 2024.  
+Drought 
+The impacts of drought events will likely become more frequent, more severe, or last for longer durations. 
+Heat, bushfires, and other disasters such as floods, will compound these impacts before, during, and after 
+drought periods (CSIRO, 2017). Potential impacts include:
+
+17 
+• 
+Increased hot conditions, including increased heatwaves, hot nights, and days over 35 or 40 degrees 
+will make it harder for people to stay cool during the day, sleep at night, and perform daily tasks. This 
+will reduce individuals’ mental and physical resilience.  
+• 
+Extreme heat leading to degradation of sporting fields, which otherwise provide outlets of relief and 
+community cohesion, boosting physical and mental wellbeing.  
+• 
+The impacts on primary production are significant, and as the major contributor to the local economy, 
+the flow on effects for local businesses and communities are also high. 
+• 
+Increased disaster frequency and durations impacting more people, locations, infrastructure, and 
+industries, meaning fewer ‘good times’ and reduced buffer periods to rehabilitate, ‘get back on your 
+feet’, and cope during droughts.  
+Cross Border Impacts 
+Primary production doesn't stop at State borders, with many farmers owning land in both SA and Western 
+Victoria. Similarly, the vast forest estate in the southern part of the region is owned, managed and harvested 
+as a collective “Green Triangle” by timber companies. 
+It is recognised that the impacts of drought and dry times in Victoria also impacts on the severity and 
+response in the Limestone Coast. With some shared water resources, as well as common markets for product, 
+shared service industries and combined communities, the impacts of seasonal conditions are felt by all. 
+2.3. Systems mapping Limestone Coast 
+An initial evidence review (WSP, 2024) and engagement informed the development of two systems maps for 
+the Limestone Coast. Due to the broad diversity of industry and high number of additional external impacts, 
+the maps are extremely complex and do not cover every element.  
+Figure 5 shows the major impacts of significantly below average rainfall on primary producers, their 
+communities and the environment. One strength of this Plan is the co-design with community through the 
+engagement processes and the Project Reference Group. The weakness of this co-design approach was that 
+the cropping and livestock sectors were well represented, while other industries such as viticulture and 
+forestry were underrepresented. This is reflected in the content of the system map. Future updates to the 
+plan could seek broader coverage of industries and different community sectors. 
+Figure 6 shows the opportunities for the Limestone Coast to benefit when there is average rainfall in this 
+region and drought conditions experienced elsewhere.
+
+18 
+Figure 5: Trigger of Significantly Below Average Rainfall Mapped Against Primary Production
+
+19 
+Drought beyond our region  
+Figure 6: Trigger of Drought Outside the Limestone Coast Mapped Against Primary Production
+
+20 
+3. Strengths, Challenges and Opportunities 
+The Limestone Coast is a unique region boasting diversity in almost every aspect of everyday 
+life. We are a large region, with multiple possibilities. 
+3.1. Strengths  
+• 
+Regional Diversity: A common theme across all engagement activities was the region’s diversity. From soil 
+and climate, to products and practices. The region’s existing diversity is a core strength because when one 
+industry has a bad year, others may be ok. This strengthens the region’s economic resilience. 
+• 
+Enterprise Diversity: In addition to regional diversity, many primary producers in the Limestone Coast 
+have diverse enterprises at the farm-scale. With many mixed farming enterprises, this region is better 
+placed to respond to drought and dry times than those who rely solely on a single enterprise such as 
+cropping or viticulture. 
+• 
+Connectedness: Our communities support each other. When someone is having a rough time, their 
+neighbours, friends and community will support them. Part of this connectedness is supporting local clubs 
+and groups. These social networks provide residents with outlets and a sense of community. 
+• 
+Volunteering: The engagement activities identified that many services and clubs were provided by 
+volunteers. Whilst this is generally considered to be a strength, it was also noted that often the same 
+people held multiple roles. In dry times, this could put significant strain on volunteers and services. 
+• 
+Professionals: Decision making looks different now to 50 years ago with technical experts being widely 
+accepted into the primary production community. There is also generally a higher level of education on-
+farm, building on generational knowledge. 
+• 
+Economy: Across all primary production areas, the Limestone Coast contributes billions of dollars into the 
+State and National economies. 
+3.2. Challenges  
+• 
+Healthcare: Steep decline in local service providers, especially across health and wellbeing providers. 
+Since Covid in 2020, there has been a perceived reduction of services provided in the region. In some 
+cases, there are still shopfronts, however they are largely understaffed or covered by administrators only.  
+This has resulted in long waiting lists for mobile service providers or requires long distance travel to 
+Adelaide or Victoria to seek assistance. 
+• 
+Youth retention: The region has a large geographical footprint and relatively low population.Similar to 
+many regions, retention of young working age people is challenging.. 
+• 
+Housing: There are significant opportunities to grow the manufacturing sector, in particular value-add for 
+agricultural products. The Healthcare sector is also one of the fastest growing industries in the region. , 
+However there is no housing available to accommodate workforce growth.  Wastewater disposal, potable 
+water sources, and electricity supply are key elements preventing housing and industry growth across the 
+Limestone Coast. 
+3.3. Opportunities  
+• 
+Planning: Longevity planning is already normal practice in the Upper South East. From engagement we 
+know farmers teaching farmers is a preferred learning style. This means we have a strong base to expand 
+longevity planning and resilience across primary production networks. 
+• 
+Migration: There is a strong history of migrant workers in some parts of the region, which could be 
+continued to meet skills and worker shortages.
+
+21 
+• 
+Strategy: During consultation there was a clear desire for farm-level dry season strategy and best practice 
+resources. It was noted that the information is available but was clearly not accessible to people seeking 
+it. This challenge highlights the importance of communicating and promoting resources and services to 
+their target audience. 
+• 
+Tourism: The Limestone Coast has a diverse landscape, with significant State, National and Internationally 
+recognised natural features offering world class visitor opportunities. These include bushwalking, cave 
+tours, diving, fossil and shipwreck trails as well as renowned coastal beaches and townships. There are 
+also opportunities for expansion of agricultural tourism enterprises building a visitor economy that 
+contributes to the prosperity of the region.  
+3.4. Strategic Framework 
+Vision 
+Based on the evidence review (WSP, 2024) and community engagement (WSP, 2024), a vision for drought 
+resilience in the Limestone Coast has been developed: 
+A resilient community, economy and environment informed and prepared for drought 
+and dry times. 
+Strategic Priorities 
+This vision is supported by the three Strategic Priorities of Economic Resilience, Environmental Resilience and 
+Social Resilience. The Limestone Coast Strategic Priorities have been adapted from the Australian 
+Government’s Future Drought Fund (FDF).  
+The FDF’s three inter-connected strategic objectives (DAFF, 2025) seek to build:  
+• 
+economic resilience by growing the productivity and self-reliance of the agricultural sector 
+• 
+environmental resilience by improving the function of agricultural landscapes through effective 
+management of the natural resource base 
+• 
+social resilience by strengthening the social capital, wellbeing and connectedness of rural, regional 
+and remote agricultural communities. 
+Goals 
+One goal has been developed for each of the strategic priority areas to describe what resilience looks like in 
+this region. Each goal contributes to the vision and guides the actions required. These relationships are 
+further examined in the Theory of Change. The three goals are: 
+Economic Resilience 
+Ensuring primary producers and their supply chains 
+have the resources and skills to capitalise on good 
+years and successfully navigate dry times. 
+Environmental Resilience 
+Established systems are in place to replenish our 
+waterways, wetlands and landscapes ensuring a 
+sustainable future for our environment and 
+industry.
+
+22 
+Social Resilience 
+Enhanced community well-being and mental health 
+resilience by creating stronger networks, community 
+collaboration and equitable access to healthcare 
+and education. 
+Impacts 
+To ensure that the goals and vision can be achieved, the actions and outcomes in this plan must have a clear 
+impact. The detail of expected outcomes in the short, medium and long term is described in Section 9.2 - 
+Program Logic. The desired impact that will contribute to each of the goals are: 
+Economic Resilience 
+Primary production businesses and their 
+communities are self-reliant, productive and 
+profitable. 
+Environmental Resilience 
+Primary production landscapes are functional and 
+sustainable, with healthy natural capital. 
+Social Resilience 
+Primary production communities are resourceful, 
+adaptable and thriving. 
+Summary of Strategic Framework 
+Figure 7 shows the connection between each of the elements of the Strategic Framework. Section X includes 
+further discussion on how each of the elements fits together and the interactions with the implementation 
+pathways, 
+Vision 
+A resilient community, economy and environment informed and prepared for 
+drought and dry times. 
+Strategic Priorities 
+Economic Resilience 
+Environmental Resilience 
+Social Resilience 
+Goals 
+Ensuring primary producers and 
+their supply chains have the 
+resources and skills to capitalise 
+on good years and successfully 
+navigate dry times. 
+Established systems are in place 
+to replenish our waterways, 
+wetlands and landscapes 
+ensuring sustainable future 
+capacity for our environment and 
+industry. 
+Enhanced community well-being 
+and mental health resilience by 
+creating stronger networks, 
+community collaboration and 
+equitable access to healthcare 
+and education. 
+Impacts 
+Primary production businesses 
+and their communities are self-
+reliant, productive and profitable. 
+Primary production landscapes 
+are functional and sustainable, 
+with healthy natural capital. 
+Primary production communities 
+are resourceful, adaptable and 
+thriving. 
+Figure 7: Strategic Framework for Improving Drought Resilience in the Limestone Coast
+
+23 
+4. Intervention Options and Pathways 
+With a history of infrequent, albeit severe drought, the options and pathways identified by stakeholders 
+and primary producers for this plan focus on building a solid foundation (Stafford-Smith, 2019). As the 
+first plan addressing drought in the Limestone Coast, engagement with the community (WSP, 2024) and 
+review of existing strategic documents (WSP, 2024) demonstrated this need. 
+The actions focus on preparedness and recognise that as shown in the systems mapping, there are 
+many external factors that impact on enterprise success and regional resilience. The proposed pathways 
+provide an opportunity to bring people along, build trust and give confidence before stretching into the 
+unknown. The proposed pathways will also reduce reliance on external support in the longer-term. 
+Unlike regions who regularly experience prolonged drought, the lived experience of drought in the 
+Limestone Coast leads towards actions that help to maintain the status quo rather than seeking to 
+transform at this stage. 
+Resilience Assessment Process 
+The Resilience Assessment in Table 3 was determined by the Project Reference Group based on the 
+likely significance of change from the current system. A basic qualitative assessment was undertaken 
+due to the maturity level of this plan. The approach was also conservative, given the lack of data 
+available. In future updates, a more data driven approach may be possible, building on the baseline 
+offered by this Plan. 
+While there are detailed definitions available in the Glossary, the basic definition of the terms used for 
+the Resilience Assessment are: 
+Maintain:  
+keep the region the same 
+Modify:  
+adapt the system to meet newly defined goal/s 
+Transform: 
+radically change or build a new system 
+Prioritisation 
+In this first Drought Resilience Plan, all pathways shown in Table 3 are considered to be worthy of 
+investment. Within each pathway, outputs for each pathway have been sequenced where they show a 
+number next to each action.  
+Some actions identified by stakeholders and participants (see Section 7.1 What we heard) were not 
+included in Table 3 due to a range of factors including: 
+• 
+External drivers 
+• 
+Clear responsibility of an agency or organisation 
+• 
+Key strategy in another document e.g. Regional Growth Strategy 
+• 
+Not strongly related to drought. 
+These actions have been captured in Appendix 1 Supporting Pathways to ensure that they are not lost. 
+Future updates of the plan could include some of these external elements into a more mature 
+adaptation pathways approach (Stafford-Smith, 2019). 
+The delivery of priority actions will be dependent on uptake by partner organisations and community, 
+investment from all three levels of government and changing impacts from external factors.
+
+24 
+Pathways Approach 
+Intervention pathways have been based on the CSIRO Resilience Adaptation Pathways and 
+Transformation Approach (RAPTA) (O'Connell, 2019). The below options, pathways, and interventions 
+have been designed in consultation with the Limestone Coast community and plan partners. By using 
+the RAPTA approach we have taken diverse views of participants and designed responsive pathways to 
+meet community needs and expectations. 
+As recognised above, this Plan is the first of its kind for the Limestone Coast. As such, the triggers listed 
+in Table 3 are based on the information and feelings of those who participated in the engagement 
+phase of co-design (WSP, 2024). Future updates of this plan could include quantitative triggers for 
+action, as well as longer term priorities, reflecting a more mature adaptation pathways approach.
+
+25 
+4.1. Pillar Pathways 
+Table 3: Pillar Implementation Pathways and Actions 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+Triggers 
+During consultation we heard 
+retail stores without a business 
+plan were struggling, whilst those 
+with plans could implement 
+strategies such as moving old stock 
+or had diverse revenue streams to 
+assist whilst primary producers 
+weren't spending. 
+Promote greater awareness of 
+tools, techniques and 
+approaches to assist primary 
+producers and small business 
+survive a downturn in trade. 
+1. Business 
+Support - 
+Enhancing the 
+Small Business 
+Support 
+Program to 
+Build Business 
+Resilience for 
+Future Dry 
+Times 
+Develop new resources for small and medium 
+enterprises to manage periods of reduced trade. 
+Specifically reduced trade caused by dry times 
+and/or drought reducing primary producer 
+spending. Existing small business program could 
+be expanded for efficiency. 
+1. Increased awareness of drought resilience 
+information, practices and opportunities. 
+2. Increased information sharing and 
+knowledge building. 
+3. Increased sustainability of local businesses 
+preparedness for drought.  
+4. Improved business outcomes and long-term 
+sustainability. 
+5. Increased networking and relationship 
+building. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify 
+The 2024 late autumn break 
+highlighted the challenges 
+faced by businesses and 
+primary producers who had 
+not planned for alternative 
+operating conditions.  There 
+were increased mental health, 
+animal welfare, and business 
+sustainability concerns. 
+During consultation we heard that 
+some businesses, retail and 
+primary production, were not 
+saving and planning during the 
+good years to provide a buffer for 
+poor years. It was noted this was 
+because they hadn't considered 
+the inevitability of poor years. 
+especially younger, or less 
+experienced business owners. 
+Improving the financial viability 
+of small business during the good 
+times (to provide a buffer during 
+dry times) 
+. 
+Create a map of available support services (in a 
+variety of formats) promoting available services 
+(financial, relevant rebates/incentives, farm 
+advice/outreach, Mental Health etc. website with 
+linked services maintained by a lead agency. 
+Modify 
+1. Develop a program focussing on 
+Agriculture/Primary Production business support. 
+To assist these businesses, engage with best 
+practice principles. 
+2. Appoint a Project Coordinator for an Agri 
+Business Development Program. 
+Modify
+
+26 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+Triggers 
+During consultation we heard that 
+seasons are more variable and 
+harder to predict. An example was 
+that a lot of lower SE farmers were 
+caught unprepared in 2024 due to 
+a wet January followed by the late 
+break. Farms without a drought 
+management plan were struggling 
+and needing to make decisions 
+whilst emotions were high, whilst 
+farms that had plans in place were 
+able to make decisions earlier and 
+benefit as a result. 
+Encourage greater uptake of 
+Farm-Level Drought Plans that 
+address short term seasonal 
+conditions as well as long term 
+financial and on-farm strategies. 
+2. Farm-Level 
+Drought Plans – 
+Supporting 
+Primary 
+Producers to 
+Manage 
+Seasonal 
+Conditions and 
+Develop Longer 
+Term Strategies 
+Supporting primary producers to make multi-
+year cash flow projections for informed decision 
+making. 
+Short term seasonal management as well as 
+longer term options for adaptation or 
+diversification 
+2. Increased information sharing and 
+knowledge building. 
+3. Increased sustainability of local businesses 
+preparedness for drought.  
+4. Improved business outcomes and long-term 
+sustainability. 
+6. Increased resilience for local businesses by 
+securing and strengthening income streams. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify 
+The 2024 late autumn break 
+highlighted the challenges 
+faced by businesses and 
+primary producers who had 
+not planned for alternative 
+operating conditions.  There 
+were increased mental health, 
+animal welfare, and business 
+sustainability concerns. 
+Promote access to climate science and tools to 
+broaden the awareness of more variable and 
+unpredictable local conditions in the future. 
+1. Increased awareness of drought resilience 
+information, practices and opportunities. 
+2. Increased information sharing and 
+knowledge building. 
+3. Increased sustainability of local businesses 
+preparedness for drought.  
+4. Improved business outcomes and long-term 
+sustainability. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify 
+1. Create resources for farmers to develop 
+personalised Drought Management Plans to pre-
+plan what steps to take in late breaks, dry times 
+and drought. 
+2. Promote and educate community of benefits 
+in planning and maintaining plans. 
+1. Increased awareness of drought resilience 
+information, practices and opportunities. 
+3. Increased sustainability of local businesses 
+preparedness for drought.  
+4. Improved business outcomes and long-term 
+sustainability. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify
+
+27 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+Triggers 
+During consultation we heard 
+there were too many competing 
+priorities for community time. We 
+also experienced scheduling issues 
+when planning engagement 
+workshops with industry bodies 
+and support agencies having 
+workshops or events during the 
+same period, targeting the same 
+communities. 
+Improving collaboration and 
+cross promotion of events and 
+resources to streamline 
+availability and reduce confusion 
+and disengagement. 
+3. Industry 
+Collaboration - 
+Fostering 
+Collaboration 
+Between 
+Industry Bodies 
+and Agencies 
+1. Appoint a Project Coordinator for Industry 
+Collaboration. 
+2. Develop a steering committee across 
+Limestone Coast based primary production 
+bodies to share information and as appropriate 
+program and resources. 
+3. Create a calendar of events around key 
+production periods for engagement and 
+networking. 
+1. Increased awareness of drought resilience 
+information, practices and opportunities. 
+7. Improved collaboration and strengthening of 
+relationships. 
+8. Reduced duplication of services and reduced 
+consultation fatigue, providing better outcomes 
+for agencies and farmers. 
+9. Increased utilisation of existing drought 
+resilience knowledge and information. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify 
+The 2024 late autumn break 
+highlighted the disconnection 
+between industry bodies and 
+agencies. Several support and 
+engagement activities were 
+planned, however the 
+duplication of content, and 
+competing locations and 
+timeframes often lead to 
+greater confusion and stress 
+for the target audiences. 
+During consultation we heard that 
+not all farmers want to be 
+trailblazers. Some know they need 
+to change but want to be able to 
+make informed decisions on what 
+could work and if they can make 
+small changes each year to achieve 
+better resilience in a 5-10 year 
+plan. 
+Promote greater awareness of 
+tools, techniques and 
+approaches to assist primary 
+producers survive dry seasons 
+4. Sustainable 
+Practices - 
+Increase 
+Engagement in 
+Drought 
+Resilience Farm 
+Management 
+and Economic 
+Diversification 
+Projects 
+1. Conduct a gap analysis of the current research 
+and extension programs with Primary Producers. 
+2. Encourage co-design research and extension 
+programs with primary producers, SA Drought 
+Hub and Industry Bodies. 
+1. Increased awareness of drought resilience 
+information, practices and opportunities. 
+2. Increased information sharing and 
+knowledge building. 
+4. Improved business outcomes and long-term 
+sustainability. 
+7. Improved collaboration and strengthening of 
+relationships. 
+9. Increased utilisation of existing drought 
+resilience knowledge and information. 
+10. Increased understanding and awareness of 
+available support and services. 
+11. Increased use of support and services 
+thereby increasing preparedness, and future 
+funding. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Maintain 
+The SA Climate Change Act is 
+currently being amended to 
+include ambitious statewide 
+targets. To assist primary 
+producers meet the targets, 
+we need to make the existing 
+and continuing research 
+accessible to end users. 
+Promote drought resilient 
+practices demonstrated to be 
+effective in the South East.  
+Upper, Lower and coastal 
+practices in addition to whole of 
+region. 
+Develop case studies to promote drought 
+resilient farm management techniques 
+Maintain 
+Host field days to showcase available technology, 
+research and production improvements and how 
+they could be implemented. 
+Modify  
+Develop a multimodal program to identify and 
+promote drought resilience at farm level 
+resources and options.  
+Modify 
+Identify and implement demonstration sites 
+which show benefits of drought resilient 
+practices. 
+Modify 
+During consultation we heard 
+primary producers wouldn’t look 
+to PIRSA or LCLB for advice on 
+research and technology.  They 
+would however take advice from 
+their trusted specialists 
+(agronomists, animal dieticians, 
+vets etc) and their networks. 
+Promotion of latest drought 
+resilience farm management 
+research and emerging income 
+streams. 
+1. Development of drought resilience farm 
+management research and emerging income 
+stream advice. 
+2. Promotion of material to primary industry 
+supply chains.  
+3. Maintain resources and up to date 
+research/funding opportunity information. 
+Modify 
+Development of Primary Producer facing drought 
+resilience farm management research and 
+emerging income stream advice. 
+Modify
+
+28 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+Triggers 
+The short timeframe between 
+engaging a consultant and when a 
+draft plan was due to be submitted 
+for independent review did not 
+allow for meaningful engagement 
+with First Nations representatives. 
+Whilst some meetings did occur 
+and the RDRP added to the 
+agenda, formal discussions had not 
+commenced at the time of 
+completing this plan. The action 
+was derived from the existing 
+strategic priorities of the SEAFG. 
+Co-design a Caring for Country 
+plan that identifies activities to 
+improve the health of Country 
+and increase regional drought 
+resilience 
+5. First Nations 
+Co-design - 
+Empowering 
+First Nations’ 
+Caring for 
+Country 
+Develop a holistic Caring for Country plan and 
+deliver on-ground activities. 
+a) Recruit and appoint a project manager to work 
+closely with partner corporation (Burrandies 
+Aboriginal Corporation) throughout the project 
+b) Develop an engagement plan that effectively 
+captures the needs of the region's First Nations 
+people 
+c) Perform a desktop review of current Caring for 
+Country activities in the region and identify gaps  
+d) Identify future on-ground Caring for Country 
+activities that will support First Nations vision 
+e) Develop a Caring for Country plan 
+f) Engage local First Nations peoples to deliver 
+on-ground Caring for Country activities identified 
+in the plan that will increase regional drought 
+resilience 
+g) Deliver any required training to First Nations 
+peoples 
+15 Holistic planning of Caring for Country 
+activities with the understanding that activities 
+on Country are interconnected. 
+16 Increased social and economic participation 
+of First Nations; co-design emphasises self-
+determination, projects, and activities 
+important to First Nations peoples to make up 
+the plan, new fee-for-service opportunities. 
+17 Increased drought resilience. 
+18 Support biodiversity outcomes. 
+19 Reduce the risk and impact of bushfires. 
+Transform 
+First Nations 
+cultural 
+knowledge and 
+customs are 
+typically not 
+considered in 
+drought 
+resilience. First 
+Nations people 
+are not 
+consistently 
+empowered to 
+determine on 
+ground 
+activities and 
+decision 
+making 
+Acknowledgement that there 
+are deficiencies in 
+environmental management 
+when the input of First 
+Nations cultural knowledge is 
+not respected or included in 
+decision making. 
+During consultation we heard that 
+the loss of wetland areas was 
+negatively impacting on water 
+availability in the landscapes and 
+not allowing for ground water 
+recharge to sustainable levels 
+following dry seasons. The 
+availability of quality groundwater 
+for irrigation is also a significant 
+concern. 
+Advocate for the exploration of 
+alternate water resources and 
+determine the feasibility of 
+Managed Aquifer Recharge. 
+6. Alternative 
+Water - 
+Retaining water 
+in the landscape 
+and encouraging 
+the use of 
+alternative 
+water sources 
+Undertake a review of alternative water sources 
+within the region. Would need to include use 
+cases, treatment requirements, economic 
+viability, storage, disposal considerations, and 
+risk assessments for each source/use case. 
+18 Support biodiversity outcomes. 
+19 Reduce the risk and impact of bushfires. 
+20 Decrease pressure on groundwater resource 
+so recovery after drought is possible. 
+21 Determine feasibility of storing drain and 
+alternative water sources in the aquifers using 
+managed aquifer recharge (managed aquifer 
+recharge could increase the supply of 
+groundwater available during drought). 
+22 Identify alternative water sources that can 
+be used during drought. 
+23 Assist in carbon sequestration. 
+24 Increase the total volume of water available 
+in the region 
+Transform  
+This approach 
+seeks to instil a 
+completely 
+new approach 
+to managing 
+water 
+resources in 
+the region to 
+ensure 
+economic and 
+environmental 
+resilience. 
+The Limestone Coast is facing 
+a long-term climate trend of 
+drying and warming. The 
+region is already experiencing 
+declining groundwater levels 
+and increasing water quality 
+issues. Managing these 
+resources sustainably now 
+and for future generations is 
+critically important.  
+Create water use profiles for regional industries. 
+Undertake a Managed Aquifer Recharge 
+Feasibility Study building on pre-feasibility study 
+and current actions. 
+Ground truthing of predicted managed aquifer 
+recharge sites identified in pre-feasibility study 
+and engagement with landholders to identify 
+future demonstration sites for managed aquifer 
+recharge trials.
+
+29 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+Triggers 
+During consultation we heard that 
+supply chain industries felt 
+unprepared to respond to 
+customers who expressed physical, 
+financial, and/or mental stresses 
+associated with dry periods. 
+Reduce the stigma associated 
+with mental health and capitalise 
+on impromptu conversations 
+within trusted local networks. 
+7. Mental Health 
+- Improve 
+awareness and 
+remove barriers 
+to mental health 
+and well-being 
+resources 
+Mental health first aid for primary production 
+facing service providers. 
+2. Increased information sharing and 
+knowledge building. 
+7. Improved collaboration and strengthening of 
+relationships. 
+10. Increased understanding and awareness of 
+available support and services. 
+11. Increased use of support and services 
+thereby increasing preparedness, and future 
+funding. 
+12. Increased awareness of mental health 
+information, practices and opportunities. 
+13. Local industry focused program to provide 
+accessible mental health training and services. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify   
+The 2024 late autumn break 
+highlighted the regions long 
+wait list for mental health 
+support, and limited 
+knowledge by general 
+community members in 
+appropriate options and 
+resources to support family 
+and neighbours.  
+1. Appoint a Project Coordinator for Mental 
+Health Program. 
+2. Implement a steering committee with relevant 
+health and social stakeholders. 
+2. Undertake a desktop review of existing 
+literature resources, gaps and access barriers. 
+3. Create a map of available services/resources. 
+4. Create a gap analysis with recommendations. 
+Modify  
+Encourage investment in popular local initiatives 
+i.e. 'In the Head of a Country Bloke' podcast. 
+Maintain 
+During consultation, we heard that 
+isolation was an issue during dry 
+times due to increasing workloads 
+(on farm and in small business), 
+combined with reduced cashflow. 
+Groups wanted to help, but 
+needed small amounts of funding 
+with low administrative burden. 
+Provide opportunities for 
+communities to connect locally 
+during dry times. 
+8. Community 
+Connection – 
+Create 
+Connection in 
+Communities in 
+Good Times and 
+Dry Times 
+1. Promote low-cost opportunities for people to 
+gather. 
+2. Provide seed funding for community groups to 
+gather on local issues or with local interests. 
+2. Increased information sharing and 
+knowledge building. 
+7. Improved collaboration and strengthening of 
+relationships. 
+10. Increased understanding and awareness of 
+available support and services. 
+14. Increase in resilient individuals to prepare 
+for, cope with and recover from adverse events 
+such as drought. 
+Modify 
+The challenging 2023-24 
+season saw previously active 
+members of the community 
+withdraw and become 
+isolated. Already stretched 
+volunteers sought to provide 
+events, however the audit and 
+admin requirements for 
+grants outweighed the 
+benefits.
+
+30 
+5. Our Region 
+This section is based on a detailed evidence review (WSP, 2024), as well as the learnings from community 
+engagement (WSP, 2024) undertaken to inform the development of the Plan. It is intended to give an 
+overview of the diversity of the region as it relates to drought, rather than a comprehensive description of all 
+economic, environmental and social features. 
+Figure 8: Limestone Coast Regional Snapshot 
+5.1. Primary Industries 
+The Limestone Coast is a vital economic hub, with primary producers generating over $2.5 billion in regional 
+output (RDALC, 2022). National leaders in lucerne, canola, and small seeds, the region produces 83% of 
+Australia’s lucerne seed (Tourism SA, 2025). This is further supported by grains including wheat, barley, 
+legumes and other crops.  
+The region provides significant economic benefit to local communities, State Gross Domestic Product and the 
+country more broadly. Specialising in agriculture and food manufacturing, the Limestone Coast boasts a 
+robust economy and well-established primary production industries. Agriculture, forestry, and fishing employ 
+17.5% of the workforce (.id, 2024), with 94% of South Australia’s dairy herd located here. In seasons with high 
+vegetative growth, hay and silage are sold to other regions or stockpiled, while in poor seasons, it is utilised 
+on farm or sold within the Limestone Coast (Prance, 2023).  
+Many of the farms across the region are mixed-farming enterprises, with a combination of two or more crops, 
+livestock, viticulture, farm forestry and other sources of income. 
+The region’s fertile soils, historically reliable rainfall, and significant groundwater also support diverse crops 
+such as potatoes, carrots, and onions (PIRSA, 2022). Commercial forestry plantations cover around 2.6% of 
+the land area in the region, contributing 83% of the State’s forestry and logging output (Tourism SA, 2025).  
+There are some boutique industries and isolated farms that produce poultry, eggs and specialty pigs, as well 
+as larger enterprises supplying pork to the national market. Fishing, including southern rock lobster, abalone, 
+rainbow trout, salmon, and barramundi, also adds economic diversity. 
+Food and beverage manufacturing is also significant, with meat, wine and milk products making up the 
+majority of this industry.
+
+31 
+Figure 9: Gross Value of Production by Local Government Area and Commodity for 2020-2021 
+5.2. Water security landscape 
+The Limestone Coast has limited reliable surface water due to the porous nature of soils and the generally flat 
+topography. This makes the Limestone Coast heavily groundwater dependent. Groundwater supports primary 
+production, industry, town water supply and recreational facilities, and is iconic in how it has shaped the 
+region including globally significant wetlands. The quality and quantity of groundwater available is important 
+to environmental, social, cultural and economic values in the region.  
+There are two main groundwater systems: the upper unconfined Tertiary Limestone Aquifer (the unconfined 
+aquifer) and the underlying Tertiary Confined Sand Aquifer (confined aquifer). These two aquifers are 
+generally separated by a confining clay layer. The unconfined aquifer, recharged locally through rainfall, is 
+used for 90% of groundwater extraction, mainly for pasture irrigation (ABARES.). The confined aquifer, 
+considered old water, recharges from a site located in the Dundas Plateau in Victoria. Access to the confined 
+aquifer is limited with a precautionary approach to consumption due to the inability to recharge. 
+Water resources are managed through five water allocations plans (four groundwater and one surface water) 
+and a Water Affecting Activities Control Policy. Water allocation plans set out the rules for the allocation, 
+take, use and transfer of water. The Water Affecting Activities Control Policy regulates activities that can 
+impact the health and condition of water resources, the ecosystems that depend on them and other water 
+users. Water resources have been monitored in some parts of the region since the 1970s. 
+Water quality in the unconfined aquifer varies across the region, and water quality often influences the uses 
+currently dependent on it. The unconfined aquifer is fresh and shallow to the south but becomes increasingly 
+salty towards Kingston and the southern coast. Towards the Victorian border and to the north, the 
+groundwater is much deeper, and the water tends to be more saline. This has resulted in different irrigation 
+practices in the Padthaway, Tatiara and Tintinara-Coonalpyn area. 
+Groundwater provides a potential buffer against dry periods, however, not all landowners have access to 
+groundwater for irrigation. The timing of rainfall is particularly important for the autumn and spring breaks. 
+Below-average rainfall, or inappropriate timing can increase irrigation extraction, increasing stress on the 
+water resource and potentially raising soil salinity.
+
+32 
+The majority of water supply to townships in the Limestone Coast is managed by SA Water, who draw from 
+groundwater and also work within an allocation. The condition of infrastructure is a key factor in improving 
+sustainability for future needs, including preventing loss of water through leaking pipes and ensuring town 
+water supplies can be met. 
+The area of land available for agriculture in the Lower South East was significantly increased from the mid 
+1800s due to extensive drainage works to remove inundation. Drainage in the Upper South East from the 
+1990s focused on reducing dryland salinity by lowering the water table. The majority of this water has 
+historically flowed to sea; however, investigations have been undertaken to look at options to retain water in 
+the landscape. 
+Figure 10: South East Drainage System Map
+
+33 
+5.3. Social and community landscape 
+The Limestone Coast offers a diverse range of lifestyles, from a vibrant regional city to charming coastal 
+towns, from stunning natural wonders to luxurious cellar door experiences. The region hosts cultural and food 
+festivals, celebrating local produce and community spirit. There is also a strong focus on sport and recreation, 
+bringing local people together, as well as attracting State and National level competition. As the population 
+ages and dependency rates rise, the region has expanded its community, aged care, and disability services, 
+creating employment opportunities in healthcare and social assistance. 
+The region’s road infrastructure is crucial for productivity, connecting it to major freight routes including 
+Adelaide, Portland, Melbourne and the East Coast. Car dependency remains high across the region, with 
+limited availability of public transport services, and long distances that prevent walking and cycling for most 
+people.  
+Youth retention is a significant issue for the region, from both a social and economic perspective. Partnerships 
+with educational institutions provide some opportunities for supporting local talent development. In Mount 
+Gambier, the education precinct hosts TAFE and tertiary institutions, with plans in place for a forestry centre 
+of excellence and a technical college. However vocational and tertiary training opportunities are limited 
+outside of the regional centre.  
+Regional community groups foster social activities and networking opportunities across agricultural industries 
+and eco-based tourism. They also provide access to social infrastructure, including sports and recreational 
+centres, cultural, spiritual, and art facilities. 
+Figure 11: Regional Social Profile
+
+34 
+5.4. First Nations water focus 
+The Limestone Coast region is comprised of the lands of the Bunganditj (Boandik), Meintangk (Moandik), 
+Potaruwutij, Tatiara/Ngarkat, Tanganekald (Southern Clans), Marditjali and Ngarrindjeri First Nations Peoples. 
+First Nations corporations and groups in this region include the South East Aboriginal Focus Group (SEAFG), 
+Burrandies Aboriginal Corporation, Ngarrindjeri Aboriginal Corporation, and Ngarrindjeri Lands and Progress 
+Aboriginal Corporation. 
+Connection to, and caring for, Country is vital to the physical, spiritual, emotional, and cultural wellbeing of 
+First Nations Peoples. Country includes all physical and spiritual wellbeing connections of First Nations 
+peoples. 
+Under colonisation, the land of the Limestone Coast region has been intensely modified over a relatively short 
+period of time, with much of the land now being used for primary production purposes. The below figure 
+shows the impact that land clearing and draining programs have had on the abundance of wetlands in the 
+Limestone Coast; from 44% of the landscape pre-European settlement to 1.5-2.5% in 2016. 
+While many of these landscape modifications are complex and irreversible, it is important to carry out 
+activities that Care for Country and restore the landscape where possible. 
+The SEAFG vision for Country is that South East Aboriginal people will maintain and respect the natural 
+resources of Mother Earth and surrounding waters to establish sustainable resources for everyone. This vision 
+will be delivered through on ground activities that prioritise self-determination, cultural knowledge revival of 
+First Nations water and land management practices, increased economic participation, and walking together 
+with the Limestone Coast (LC) Landscape Board. 
+The LC Landscape Board (previously the SE NRM Board) has maintained a close working relationship with First 
+Nation groups in the region for over 20 years. The Lartara-Wirkei Cultural Governance Framework, developed 
+by the SEAFG in 2008, underpins LC Landscape Board’s strategic documents.   
+Placeholder for wetlands landscape map 
+Figure 12: Limestone Coast Wetlands Areas
+
+35 
+5.5. Environmental landscape 
+The Limestone Coast features diverse natural landscapes, from coastal plains to highlands, promoting 
+ecotourism, recreation, and environmental protection. These landscapes provide significant economic and 
+amenity value, supported by water availability, productive soils and a mild, wet climate (LCLB, 2024). The 
+region benefits from abundant water, but as populations grow and the climate changes, landscape-scale 
+water management has become crucial. Sustainable management of these environments, including First 
+Nations sites, is essential to preserving their values. Achieving sustainable water and energy use is vital in 
+protecting against the worsening impacts of climate change and future changes to dry times. Effective water 
+retention landscape-wide will enhance environmental longevity, benefiting both industries and the 
+community in years to come. 
+5.6. Economic landscape 
+The Limestone Coast, historically rooted in traditional industries such as primary production, forestry, fishing, 
+and manufacturing, is now experiencing significant growth in tourism and service sectors, particularly health 
+and aged care. This transition is driven by population growth and increasing demand in education and 
+government policy for healthcare. The region is also well-positioned to expand in the renewable energy 
+sector, especially in power infrastructure, to harness opportunities from Australia’s energy transition trends. 
+Contributing $5 billion to the South Australian economy, the Limestone Coast is a dynamic and diversified 
+region (.id, 2024). Long term economic prosperity will depend on maintaining agricultural cost-efficiency, 
+while supporting growth in other industries, and accommodating an ageing population. Ensuring robust 
+freight connectivity will be essential for future success. Overall, the Limestone Coast is poised for a 
+prosperous future, leveraging its rich history and embracing new opportunities in various sectors provided 
+that it can adapt to a changing climate. 
+5.7. Outlook and trajectory for the region 
+The Limestone Coast Region’s future is bright, with a strategic focus on economic and population growth, 
+agribusiness, healthcare, and tourism. Efforts to attract and retain a working-age population will support 
+vibrant communities, while leveraging competitive advantages in agribusiness and capturing employment 
+opportunities in healthcare and social assistance. Enhancing regional collaboration in tourism and securing 
+infrastructure investments are also key priorities, all driven by a shared commitment from regional leaders. 
+Key future trends for the region are: 
+• 
+Adapting to climate change 
+o Protecting livelihoods, infrastructure, and people's quality of life as our region's climate 
+continues to change. 
+o Key impacts to primary production including fluctuating commodity prices, transformed 
+landscapes and business models, increasing compound risks. 
+• 
+Net zero and the energy transition 
+o Global push to reach net zero, protecting biodiversity and managing resources efficiently. 
+o Rapid transition to a low-carbon economy, transitioning from fossil fuels by adopting 
+renewable energy sources like solar and wind, and increasing the use of electric and low-
+emission vehicles. 
+o Key impacts to primary production include adopting carbon offsets, carbon farming, and 
+reducing greenhouse emissions from livestock and other agricultural activities. 
+• 
+Promote health and wellbeing 
+o Rising healthcare demands from demographic changes, emerging diseases, and unhealthy 
+lifestyles requires healthy, sustainable products. 
+o Health, nutrition, and food safety will become increasingly important for food and agricultural 
+production.
+
+36 
+o Key impacts to primary production include new technologies for monitoring food quality, 
+promoting circular economy nutrients, reducing pesticide use, tracking food quality and 
+health implications, and improving access to diverse foods. Transitions to sustainable food 
+production systems and innovative food technologies such as lab-grown meat and seaweed-
+fed cattle to accommodate changing customer demands. 
+• 
+Geopolitical shifts 
+o Increased efforts to ensure global stability, trade, and economic growth. 
+o Key impacts to primary production: Despite global uncertainties and inequalities, there is 
+potential for enhanced global trade and agricultural exports, as well as growth in domestic 
+markets. Australia's reputation as a high-quality, ethical supplier for sustainably produced 
+products will become increasingly important. 
+• 
+The digital age 
+o The rapid growth of the digital and data economy could exacerbate inequalities, but also 
+create new jobs and alter the labour market. Advances in automation, genetics, and 
+synthetics are transforming food and fibre production. 
+o Key impacts to primary production include better decision-making, technological advances 
+like drone seeding and AI fire detection, labour automation, and improved pest and disease 
+control. 
+• 
+Human Diversity and Inclusion 
+o The importance of diversity, equity, and transparency in decision-making is increasing. 
+Economic planning now considers diverse systems, cities, and economies based on human 
+differences. 
+o 
+Key impacts to primary production include more agile and interconnected customer 
+engagement, a growing expectation for diverse workforces, and changing values of workers. 
+• 
+Supply chains vulnerabilities 
+o Global and regional supply chains are interconnected but vulnerable to disruptions. Increased 
+extreme weather events will cause community and supply chain disruptions, material scarcity, 
+and higher freight costs 
+o 
+Key impact to primary production: greenhouse gas emissions disclosure, buyer-supplier 
+collaboration, adoption of new business models, software security and planning to reduce 
+labour strikes and cyberattacks. 
+• 
+Circular economy 
+o Consumer behaviour is shifting towards reducing waste and supporting circular consumption 
+patterns. 
+o 
+Key impacts to primary production include improved farm management for wastewater and 
+waste reduction, energy and compost generation from materials, use of repurposed 
+materials, and adoption of regenerative farming techniques. 
+• 
+Valuing natural capital 
+o Producers are increasingly expected to protect biodiversity and invest in natural resources, 
+maintaining healthy ecosystems and water quality while avoiding habitat and species loss. 
+This enhances environmental stewardship. 
+o Key impacts to primary production include aligning with nature-disclosures, carbon 
+sequestration, market drive for biodiversity/ecosystem resilience, greater recognition of 
+landholder knowledge, drought and climate-resilient farming practices, preparation for 
+environmental volatility.
+
+37 
+6. About this Regional Drought Resilience Plan 
+6.1. What is resilience?  
+The ability of a system to absorb a disturbance and reorganise so 
+as to maintain the existing functions, structure and feedback. Also 
+see general resilience, specified resilience, economic resilience, 
+environmental resilience, and social resilience. 
+Droughts are a recurring challenge, and future droughts in the Limestone Coast are expected to be more 
+severe and frequent. To tackle this, we must enhance our drought resilience. We want to avoid chronic 
+stresses and episodic shocks degrading the performance of our community, our economy, and our natural 
+environment. 
+The International Consortium of Organizational Resilience identifies five areas of focus to build community 
+resilience. Each area can be strengthened or weakend impacting on community resilience and vulnerability. 
+For best community resilience outcomes, the system as a whole needs to be strong and flexible. This Plan 
+works on aspects from across the areas to build the Limestone Coast community’s resilience. By targeting 
+pathways across the areas of Healthy Environment, Strong Economy, Responsible Governance and a Prepared 
+System, our Regional Stakeholders can strengthen the community’s foundations to build a more resilient 
+future.  
+Figure 13: Community Resilience Framework 
+The ICOR model of Community Resilience was chosen as the five areas align well with this Plan’s three 
+strategic Priorities as demonstrated below.
+
+38 
+Figure 14: Plan Strategic Priorities Aligned to ICOR 
+Community Resilience Areas 
+Figure 15: What Resilience looks like for each Strategic Priority 
+•Essential operations resume quickly after onset of drought
+•Diversity of production across regions and organisations
+•Profitable businesses and stable cashflows
+•Increased productivity and healthy livestock, soils and flora
+•Minimal Price Shocks
+Economic Resilience
+•Improved water quality and quantity
+•Increased ground cover
+•Thriving native species and eradication of invasive species
+•Caring for Country practices well implemented and respected
+Environmental Resilience
+•Rapidly adjust to and successfully navigate difficult periods
+•Connected commuinty with healthy wellbeing mental resilience outlets
+•Committed to conserving water and implementing environmental strategies
+• Prepared for periods of reduced rainfall
+Social Resilience
+A Healthy Environment (ICOR, 2016) 
+• 
+Protects and restores the natural resource base 
+upon which life depends 
+• 
+Seeks to reduce climate impacts through 
+adaptation and mitigation efforts and increased 
+resource efficiencies 
+Responsible Governance 
+• 
+Provides community services 
+• 
+Enforces laws humanely 
+• 
+Protects its community members 
+• 
+Manages its finances under changing conditions 
+Strong Economy 
+• 
+Produces necessary resources 
+• 
+Has a diversified economy 
+• 
+Has access to financial and physical resources 
+• 
+Maintains the value of its currency 
+A Prepared System 
+• 
+Risk reduction activities are planned and funded 
+• 
+Networks and partnerships exist 
+• 
+Community members are preparedness educated 
+• 
+Organisations resilience initiatives are recognised 
+High Quality of Life 
+• 
+Access to education and information 
+• 
+Access to affordable housing and quality 
+healthcare 
+• 
+The existence of social freedoms
+
+39 
+6.2. Theory of Change 
+The Theory of Change for this Plan (Figure 16) seeks to demonstrate the relationships between the proposed 
+intervention pathways, the likely outcomes and impacts, how the impacts will create change towards the 
+three goals, and ultimately, to achieving the vision. The Theory of Change tests the assumptions that underpin 
+the Plan and offer an opportunity to discuss the limitations in the theory (Stafford-Smith, 2019). 
+In this case, the Theory of Change is broad, with limited depth, identifying the problem, goals and basic design 
+of interventions (Stafford-Smith, 2019). The approach is based on the Future Drought Fund Theory of Change 
+(DAFF, 2020) and is presented in a similar format, with the shared Strategic Priorities of Economic Resilience, 
+Environmental Resilience and Social Resilience. Future versions of the plan are likely to have greater detail, 
+based on more intensive engagement and more quantitative measures. 
+Situational Analysis 
+As outlined in this Plan, the frequency and severity of drought is predicted to increase by 40% by 2030 – a 
+prolonged, abnormally dry period when the amount of water available is insufficient to meet our normal use, 
+There is likely to be greater variation in the timing and amount of rainfall, combined with more hot days and 
+more extreme weather. 
+Logic narrative 
+The vision of this plan is a resilient community, economy and environment informed and prepared for drought 
+and dry times. The plan focuses on foundational activities that will increase preparedness and connectivity 
+across three priority areas. Nine causal pathways have been identified as necessary and sufficient to address 
+the three goals. 
+Assumptions 
+Key assumptions in this Theory of Change include: 
+• 
+When people have more knowledge, they act differently 
+• 
+Preparedness for drought will be prioritised over other risks 
+• 
+First Nations people in the Limestone Coast want to drive biodiversity and water outcomes 
+• 
+Investment in additional resources will be available 
+• 
+People and organisations want to connect 
+Limitations 
+External factors are the most significant limitation of this Theory. Despite extended dry seasonal conditions at 
+the time of writing, engagement with primary producers and other stakeholders was challenging due to the 
+number and impact of other issues they were facing including rising interest rates, low commodity prices, high 
+input costs, poor mental health, access to skilled workers and increased isolation.  
+Funding of actions will also determine the success of the theory, with long-term, stable income required to 
+build trust, relationships and results. Short bursts of funding have limited impact, particularly when there is a 
+lack of continuity for skilled staff.  
+The timeframe and scale of change required to achieve resilience across all three strategic priorities is 
+decades. However, there is a direct connection between the pathways and desired results. Monitoring, 
+evaluation and learning will inform the success of these pathways, with the development of continuous active 
+learning and adaptive governance processes (O'Connell, 2019).
+
+40 
+Figure 16: Theory of Change for Limestone Coast Drought Resilience Plan (to be formatted as a diagram in final plan)
+IF 
+THEN 
+HAS THE PATHWAY 
+IMPACT 
+TO CREATE CHANGE TOWARDS 
+GOALS 
+WHICH 
+CONTRIBUTES TO 
+THE VISION OF 
+Economic Resilience 
+If primary producers and 
+businesses in their communities 
+have access to business support 
+services… 
+Then more primary producers and businesses 
+will build skills in business planning, financial 
+literacy and risk management, increasing 
+resilience and profit. 
+Primary production 
+businesses and their 
+communities are self-
+reliant, productive and 
+profitable. 
+Modify - Working to adapt part of the system 
+to meet the newly defined goal of: 
+ Ensuring primary producers and their supply 
+chains have the resources and skills to 
+capitalise on good years and successfully 
+navigate dry times. 
+A resilient community, 
+economy and 
+environment informed 
+and prepared for drought 
+and dry times. 
+If primary producers had 
+enhanced understanding and 
+tools available to manage 
+changing drought and associated 
+risks for this region… 
+Then more primary producers have the 
+capacity to develop farm level drought plans 
+that address short term seasonal conditions as 
+well as long term financial and on-farm 
+strategies  
+If industry bodies and agencies 
+work together… 
+Then there will be greater uptake and efficiency 
+in services for communities with clear 
+communication and reduced duplication of 
+effort.  
+Environmental Resilience 
+If primary producers have access 
+to R&D for drought management 
+and sustainable farming 
+practices… 
+Then more primary producers will implement 
+best practice techniques, reducing impacts on 
+soils, water, biodiversity and pests. 
+Primary production 
+landscapes are functional 
+and sustainable, with 
+healthy natural capital. 
+Transform – radically changing the system 
+with a new structure, function, feedback and 
+identity to meet the goal of: 
+Established systems are in place to 
+replenish our waterways,  wetlands and 
+landscapes ensuring a sustainable future for 
+our environment and industry. 
+If First Nations people co-design 
+activities that improve the health 
+of Country… 
+Then First Nations people will be empowered to 
+improve biodiversity, reduce bushfire risk and 
+increase connection with Country. 
+If there is research into 
+alternative water sources and 
+retaining water in the 
+landscape… 
+Then reliance on groundwater for irrigation will 
+be reduced, alternative water supplies will be 
+available during drought and the health of 
+production and natural landscapes will 
+improve. 
+Social Resilience 
+If community members have 
+greater understanding of mental 
+health and well-being 
+resources… 
+Then there will be increased uptake of mental 
+health and well being services, building 
+individual and collective resilience.  
+Primary production 
+communities are 
+resourceful, adaptable and 
+thriving. 
+Modify - Working to adapt part of the system 
+to meet the newly defined goal of:  
+Enhanced community well-being and mental 
+health resilience by creating stronger 
+networks, community collaboration and 
+equitable access to healthcare and 
+education. 
+If gaps in mental health and well-
+being services are understood… 
+Then investment can be made to ensure 
+adequate services are available for to support 
+communities to be more resilient. 
+If individuals, groups and 
+communities have greater 
+opportunities for connections… 
+Then communities can foster relationships, 
+share knowledge and build networks.
+
+41 
+7. Engagement 
+designed with stakeholders and the wider community. The Engagement Outcomes Summary Report (WSP, 
+2024) provides a detailed description of the engagement undertaken. Table 4 provides a summary of the 
+different methods of engagement, the number of participants and the sectors represented. 
+Overall, engagement from livestock and cropping producers and their supporting industries were most 
+strongly represented. This has influenced some of the plan content, including the systems mapping and pillar 
+pathways. 
+Due to the timeframes for development of the plan, there were limited opportunities to capture 
+underrepresented industry sectors or communities. There is an opportunity in future planning processes to 
+identify and target sectors of the community and industry that are vulnerable to drought. 
+Table 4: Engagement Summary 
+Location(s) 
+Numbers 
+Engaged 
+Groups, Organisations, or Sectors Present 
+Have Your 
+Say Survey 
+Online. 
+22 
+Primary producers, retail stores, hospitality venues, 
+tourism providers, health and social service providers, 
+construction, mining, retired, education, other. 
+Street Walk 
+Conversations 
+Keith, Bordertown, 
+Naracoorte, Penola, 
+Coonawarra, Mount 
+Gambier, Millicent, 
+Beachport, Robe, 
+Kingston. 
+109 
+Primary producers, primary producer suppliers, vets, 
+livestock agents, retail stores, hospitality venues, 
+tourist information centres, travel agents, health and 
+social service providers, mechanical services, grocery 
+stores, financial institutes, trades people, volunteer 
+organisations. 
+Targeted 
+Interviews 
+Online and 
+telephone. 
+17 
+Primary producers, primary producers, suppliers, 
+industry bodies, health and social service providers, 
+emergency services, government agencies. 
+Workshops 
+Bordertown, 
+Naracoorte, Mount 
+Gambier, Kingston. 
+52 
+Primary producers, primary producer suppliers, vets, 
+livestock agents, retail stores, health and social service 
+providers, financial institutes, trades people, volunteer 
+organisations, emergency services, government 
+agencies. 
+Online 
+Workshop 
+Online 
+0 
+No registrations were received for this workshop. 
+7.1. What we heard  
+Overall, the plan reflects the messages that we heard during the early engagement. In particular, the details 
+and priority of actions or interventions is reflected in Section 4.1 Pillar Pathways. The supporting actions that 
+are important and may be subject to external or other factors, have been captured in Appendix 1 Supporting 
+Pathways. The lists below provide more information about the common themes for action that the 
+community would like to see. 
+Strategic Priority: Economic Resilience 
+Conduct a gap analysis of the current research and extension programs with primary producers
+
+42 
+To address the challenges faced by primary producers, particularly in the context of drought resilience, it is 
+essential to conduct a comprehensive gap analysis of the current research and extension programs. This 
+analysis should identify the existing knowledge gaps and areas where additional information is needed. By 
+collaborating with local primary producers, a series of tailored recommendations can be developed to bridge 
+these gaps. One significant issue highlighted by multiple stakeholders is the lack of knowledge around dry 
+sowing, which has become a critical concern due to the unusual lack of moisture. This situation underscores 
+the importance of addressing these knowledge gaps promptly. This emphasised the need for localised 
+research and tailored recommendations that are crucial to effectively support the primary producers. 
+Establishing a one-stop-shop portal of drought resilience resources 
+This initiative aims to create an online one-stop-shop portal of resources to help primary producers improve 
+their drought resilience. The portal would include seminars, case studies, demonstration plots, and a library of 
+resources provided by multiple agencies. 
+Raising awareness of available financial assistance and resources 
+This action aims to raise awareness of available financial assistance and resources. It is envisaged a third party 
+could produce a booklet or series of one-page information sheets outlining available resources and providing 
+basic facts and figures around services and who/what they are designed for. 
+Empowering farmers to develop and adopt personal drought plans 
+Recent dry periods have prompted many farmers to develop or reassess their personal drought plans. This 
+initiative involves workshops to support primary producers and empower them to develop, refine, and 
+implement their plans. By determining  trigger points for specific activities in their own operations (e.g., 
+reducing stocking levels, sourcing feed, or foregoing a winter crop), primary producers will be better placed to 
+make informed decisions. 
+Supporting primary producers to make multi-year cash flow projections 
+Feedback from accountants, bankers, and others indicated the value of multi-year cash flow projections for 
+informed decision making. This can be used to run scenarios of co-stressors (e.g., changing input costs, 
+commodity prices, etc.) and identifying potential pinch points in cash flows. Development of a toolkit of 
+collateral (e.g., case studies, fact sheets, where to find information, webinars, YouTube videos, links to 
+existing resources) supported by a multi-modal promotional campaign is recommended. 
+Facilitating a formal Young Farmers Network 
+Younger workshop participants have highlighted the success of young farmer networks in other regions. While 
+informal networks exist, establishing a formal network with broad regional coverage would help these groups 
+become self-sustaining and foster cohesive knowledge sharing and morale. 
+Adapting the current Limestone Coast Leaders program to include primary producer elements 
+To enhance the personal leadership skills of primary producers, this initiative proposes adapting the existing 
+Limestone Coast Leadership Program to include a primary producer stream. This would further develop soft 
+skills and networking opportunities for primary producers.
+
+43 
+Establishing a mentorship program for young farmers 
+There is a need for a mentorship program that pairs young farmers (mentees) with more experienced farmers 
+(mentors). Young farmers would benefit from learning from their more experienced counterparts, especially 
+regarding dry times. Conversely, experienced farmers could gain insights into newer and emerging 
+technologies. 
+Mapping available support services to increase awareness and uptake 
+Engagement has revealed significant confusion about available support services, including mental health 
+support, financial counselling, relevant rebates/incentives, and farm advice/outreach. This initiative aims to 
+map these support services in various formats that can be promoted widely and increase access to services. 
+Conducting an agritourism gap analysis to support next steps 
+Agritourism offers a potential additional income source for some primary producers. This initiative involves 
+conducting a gap analysis, surveying tourists to identify activities of interest, mapping existing agritourism 
+ventures, understanding barriers to adoption (e.g., complex planning regimes, increased workload, new skills), 
+and gauging interest among primary producers. The goal is to identify next steps to address gaps and realise 
+opportunities. 
+Advocating for a fairer deal from supermarkets for farm produce 
+Primary producers are significantly impacted by the market shares and pricing tactics of large supermarkets, 
+which reduce profit margins and financial buffers needed to survive dry times. Actions could involve making 
+regional submissions to inquiries into supermarket pricing/market shares or establishing a collective of local 
+industry groups to advocate together. 
+Promoting and increasing capacity of Rural Business Support Financial Counsellors 
+Engagement showed that many people had not heard of the services provided by the Rural Business Support 
+Financial Counsellors. In future dry times, it would be beneficial to provide a surge capacity in the workforce, 
+coupled with wide promotion of their existence and service offerings. 
+Leading an advocacy piece to address skilled and unskilled labour shortages 
+Feedback from various town businesses highlighted the challenge of attracting and retaining staff, which 
+constrains businesses from capitalising on prosperous times and building financial buffers. This action involves 
+leading an advocacy effort to lobby for increased incentives to attract workers to the region. Workforce 
+planning at the regional scale is also required. 
+Progress circular economy opportunities aligned with drought resilience 
+Circular economy practices can significantly enhance drought resilience by promoting sustainable resource 
+management and reducing dependency on finite resources. This initiative focuses on advancing specific 
+opportunities 1, 2, 3, 4, and 9 within the Limestone Coast Circular Economy Opportunities discussion paper. 
+These opportunities align with drought resilience: 
+1. Value-adding reject fruit and vegetables 
+2. Value-adding food waste from food processing for human consumption 
+3. Converting food waste to high-quality animal feed 
+4. Adopting regenerative agricultural practices 
+9. Better management of commonly recyclable materials locally 
+Encouraging and planning major work by tradespeople to be conducted during dry times 
+Engagement has revealed that the recent lack of rainfall has significantly slowed business for local 
+tradespeople, including fencing contractors, electricians, and builders. Many tradespeople and primary
+
+44 
+producers have observed that on-farm construction projects make up a significant component of work for 
+these construction businesses. In contrast, during prosperous times, the demand for tradespeople can be so 
+high that wait times become lengthy, which in turn drives up prices.  
+Given this dynamic, there are clear benefits to implementing programs that rely on tradespeople during dry 
+periods. For instance, offering grants for projects such as fencing off remnant biodiversity areas or upgrading 
+community facilities could be highly advantageous. These initiatives would not only provide much-needed 
+cash flow for tradespeople,  it would also support the suppliers of their materials. This could help to mitigate 
+the financial downturn that typically accompanies dry periods, ensuring a more stable economic environment. 
+Investigating rental availability and the housing market in the region 
+Feedback indicates the shortage of rental properties is hindering small and medium enterprises (SMEs) from 
+attracting workers. Without adequate housing options, these businesses may find it difficult to hire new 
+employees, which in turn affects their profitability during prosperous times. This profitability is crucial as it 
+provides a financial buffer during less favourable periods, such as dry times. 
+Strategic Priority: Environmental Resilience 
+Expanding the network of demonstration sites to promote increased groundwater recharge 
+Groundwater underpins primary production, industry, mining, and residential water supplies. Improving 
+groundwater recharge and aquifer management is necessary to support community and biodiversity co-
+benefits. Expanding the network of demonstration sites to include diverse soil types, rainfall zones, and 
+farming enterprises will help develop an evidence base of benefits and outcomes while quantifying costs. 
+Encouraging adoption of efficient water use practices across primary industries 
+This supporting action aims to encourage primary industries to adopt more efficient water use practices. 
+Interest in implementing water use efficiencies across multiple demographics was raised by community 
+members, encouraging maximum use of a scarce, declining resource. A study to assess the feasibility of 
+improving water use would enable primary industry users to do more with less. 
+Improving access to reputable climate science 
+This supporting action aims to enhance access to climate science, broadening awareness of increasingly 
+variable and unpredictable conditions and providing options to mitigate these risks. It could include a checklist 
+for primary producers to identify if variable conditions are affecting their enterprise. Complementary 
+information to support adaptation to a changing climate is recommended. 
+Promoting greater fire preparedness 
+Major fire events often follow dry periods. Fire preparedness is crucial for both communities and primary 
+producers to avoid compounding impacts. This initiative could involve collaborating with the local Country 
+Fire Service to leverage existing fire preparedness resources and conducting targeted promotions as fire 
+seasons approach. 
+Providing assistance to adopt more efficient irrigation practices 
+Providing assistance to adopt more efficient irrigation practices can reduce resistance to Water Allocation 
+updates and help primary producers maintain production levels if allocations are reduced. This action could 
+include personalised assessments, farm tours or demonstration plots to provide firsthand experience and is 
+best timed with prosperous periods (e.g., a bumper season) due to the associated cash influx. 
+Publishing real-time and historic data on aquifer levels, recharge, salinity, and extraction 
+This supporting action involves the provision of making up-to-date data on groundwater levels, salinity, 
+recharge, and extraction publicly accessible in an easy-to-understand format. This allows regional 
+stakeholders, primary producers, and others to gain a better understanding of groundwater dynamics. For
+
+45 
+example, providing graphs that display water levels or salinity over time, alongside rainfall data, can help 
+create a more informed community. This increased awareness can lead to greater support for necessary 
+changes to water allocations. 
+It is noted that a significant increase in groundwater monitoring would be required for this initiative to be 
+successful. 
+Advocating for the adoption of recycled water infrastructure 
+This initiative is crucial due to the region’s heavy reliance on groundwater, where demand often exceeds 
+supply. By utilising wastewater from both industrial and residential sources, the region can significantly 
+augment its water supply. However distance between users is the key challenge. 
+This initiative could start with mapping out industries that produce high volumes of wastewater and 
+identifying high-water users within the region. This mapping would help pinpoint localised areas where 
+wastewater recycling would be most feasible and beneficial. Implementing such infrastructure would not only 
+alleviate pressure on groundwater resources but also promote sustainable water management practices. 
+Where these arrangements already exist, consideration could be given to higher or highest value use. 
+This approach could involve collaboration with local industries and residential communities to develop 
+efficient recycling systems. By demonstrating the environmental and economic benefits of recycled water, 
+stakeholders can be encouraged to support and invest in these systems. Ultimately, this would lead to a more 
+resilient and sustainable water supply for the region, ensuring long-term water security. 
+Strategic Priority: Social Resilience 
+Incentivising additional medical staff to support the region 
+Towns under-serviced by doctors and pharmacists face greater challenges during dry times when mental and 
+physical health declines. This action aims to determine and provide incentives to attract additional medical 
+staff to provide health care services in the region, particularly to Penola, Bordertown, Kingston, and Millicent. 
+Leading advocacy to retain and attract young people back to the region 
+Engagement feedback highlights recurring difficulties in retaining and attracting young people to the region, 
+who could fill apprenticeship roles in local businesses. This challenge constrains businesses from capitalising 
+on prosperous times and building financial buffers to cope with downturns. This initiative involves leading an 
+advocacy effort to lobby for increased incentives to attract young people to stay, or return to the region. 
+Providing incentives to encourage adoption of larger residential rainwater tanks 
+While towns in the region are well-serviced by reticulated water, many people rely on rainwater for home 
+use. Incentives such as co-contributions or rebates would encourage residents to augment their rainwater 
+storage, allowing them to catch more water when it rains for use in dry times. 
+Understanding the challenges and opportunities for the local volunteer workforce 
+A consistent theme during the engagement period was the difficulty that volunteer organisations face in 
+attracting members, particularly younger members. Feedback also indicated that administrative processes are 
+burdensome for volunteers. This initiative involves conducting a detailed analysis of the key challenges faced 
+by volunteer organisations and identifying opportunities through a strengths, weaknesses, opportunities, and 
+threats (SWOT) analysis. The goal is to identify ways to reduce or consolidate administrative processes and 
+enhance volunteer engagement, while appropriately managing risk.
+
+46 
+8. Strategic Alignment 
+A review of existing strategies and plans with relevance to drought and/or resilience was completed to inform 
+the development of this Plan. The purpose was to avoid any duplication of effort, identify gaps, challenges, 
+opportunities and synergies between existing efforts and drought resilience outcomes (WSP, 2024). The 
+information was used to support the development of this Plan, particularly Section 3 Strengths, Challenges 
+and Opportunities and Section 5 Our Region. 
+Given the history of drought in the region and the purpose of these documents, it was not surprising that 
+overall, the review found very few references to drought. However, many of the documents acknowledged or 
+sought to address climate change more broadly. 
+Table 5: Local, Regional, State, National and International Plans Considered. 
+Local 
+Regional 
+City of Mount Gambier Strategic Plan 2020-2024 
+South East Drainage and Wetlands Strategy 2019 
+District Council of Grant Strategic Management Plan 
+2020-2030  
+Limestone Coast Regional Landscape Plan 2021-
+2026 
+District Council of Robe Draft Strategic Plan 2024-
+2028 Community Engagement Strategy 
+Limestone Coast Region (Landuse) Plan 
+Kingston District Council Strategic Plan 2023-2027  
+Regional Water Allocation Plans (Padthaway, 
+Tatiara, Tintinara, Coonalpyn, Morambro Creek, 
+Lower Limestone Coast) 
+Kingston District Council Community Plan 2019-2029 
+Lower Limestone Coast Prescribed Wells Area - 
+Groundwater Level and Salinity Status Report 
+2009-10 
+Naracoorte Lucindale Council Strategic Plan 
+Limestone Coast Destination & Tourism Marketing 
+Plan 2025 
+Tatiara District Council Strategic Plan 2020-30 
+Limestone Coast Regional Growth Strategy 2018 
+Wattle Range Council Climate Change Adaptation Plan 
+2022 
+Limestone Coast Regional Climate Change 
+Adaptation Plan and Regional Values and Climate 
+Change Report 2015  
+Wattle Range Council Strategic Plan 2023-2027 
+Local Government Emergency Management 
+Framework 
+State 
+National 
+Response to Drought in South Australia: A Case Study 
+in Adaptive Management 
+The Second National Action Plan to Implement the 
+National Disaster Risk Reduction Framework 
+Australia’s Tinderbox Drought (2017-2019) 
+Tracking Changes in South Australia’s Environment: 
+summary of our approach to trend and condition 
+report cards 2020 
+National Drought Agreement 2018
+
+47 
+Tracking Changes in South Australia’s Environment: 
+51 trend and condition report cards 2023 
+National Climate Resilience and Adaptation 
+Strategy 2021-2025 
+State of the Environment Summary Report 2023 
+National Climate Risk Assessment First Pass 
+Assessment Report 
+Carbon Farming Roadmap for South Australia 
+Resilience, and Preparedness Plan 2019 
+Drought Policy Review: Productivity Commission 
+International 
+SA Government - Drought Management and Recovery 
+for South Australian Pastoralists 2020-21 
+United Nations Sustainable Development Goals 
+SA Government – Water Security Statement 
+Guide to Climate Projections for Risk Assessment and 
+Planning in South Australia 2022 
+New Climate Projections for South Australia Maps and 
+Key Findings 2022 
+South Australian Guide for Drought Assistance 
+SA Drought Resilience Adoption and Innovation Hub – 
+Node Co-Design Workshops Report 
+SA Drought Hub Annual Report 2022-23 
+Climate Change Science and Knowledge Plan for 
+South Australia 2022
+
+48 
+9. Monitoring, Evaluation and Learning 
+9.1. Planning Process and Program Logic Overview 
+Figure 17 shows the largely linear process used to develop this Plan, incorporating the information collected through the initial Evidence Review, testing and adding 
+value through community and stakeholder engagement, influencing the content of the Plan. 
+Figure 17: Development of the Plan - Process Pathway 
+Planning & Inception 
+• Establish Project Reference 
+Group 
+o
+RDALC 
+o
+LCLB 
+o
+LCLGA 
+o
+PIRSA 
+o
+SA Drought Hub 
+• Consultant engaged 
+o
+WSP 
+Evidence Review 
+• Describing the system 
+• Exploring scenarios 
+• Economic, social and 
+environmental system review 
+• Future projections 
+• Local context 
+Consultation 
+• Stakeholder mapping 
+• Stakeholder & community 
+engagement 
+• Scope visions & goals 
+• Defining terms 
+• Hearing priorities 
+• Testing Evidence Review 
+findings 
+The Plan 
+• Mapping pathways based on 
+Evidence Review and 
+Consultation 
+• Articulating vision, goals, 
+priorities and definitions based 
+on Evidence Review and 
+Consultation 
+• Description of region and 
+projections based on Evidence 
+Review 
+• Theory of Change, Monitoring, 
+Evaluation, Learning 
+• Outcomes 
+Monitoring, Evaluation and Learning
+
+49 
+Figure 18 Overview of Program Logic
+
+50 
+9.2. Program Logic 
+Table 6: Program Logic 
+Inputs 
+Pathway 
+Short-Term Outcomes 
+Medium-Term Outcomes 
+Long-Term Outcomes 
+Impact 
+Strategic Priority: Economic Resilience 
+Goal: Ensuring primary producers and their supply chains have the resources and skills to capitalise on good years and successfully navigate dry times. 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+1. Business Support - Enhancing 
+the Small Business Support 
+Program to Build Business 
+Resilience for Future Dry Times. 
+1. More primary producers and businesses engaged 
+in strategic business planning, financial projecting 
+and risk assessment. 
+1. Primary producers and businesses 
+have built skills in business 
+planning, financial literacy and risk 
+management. 
+1. More primary producers and small 
+businesses adopt business 
+planning, financial literacy and risk 
+management to improve their 
+drought sustainability and 
+resilience. 
+Primary production 
+businesses and their 
+communities are self-
+reliant, productive and 
+profitable. 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+2. Farm-level Drought Plans – 
+Supporting Primary Producers to 
+Manage Seasonal Conditions 
+and Develop Longer Term 
+Strategies 
+1. More primary producers and businesses engaged 
+in farm-level drought planning to address short-
+term seasonal conditions and plan for longer term 
+options for adaptation or diversification, 
+1. Primary producers include drought 
+and climate risk in their planning 
+1. More primary producers are 
+empowered to successfully 
+navigate dry times. 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+3. Industry Collaboration - 
+Fostering Collaboration 
+Between Industry Bodies and 
+Agencies. 
+1. New partnerships are formed between industries 
+and agencies to share knowledge, collaborate and 
+partner more often to build drought resilience. 
+1. More drought resilience innovative 
+approaches and technologies are 
+being developed and adopted. 
+1. Industry networks collaboratively 
+promote and implement 
+transformative activities that improve 
+their resilience to drought. 
+Strategic Priority: Environmental Resilience 
+Goal: Established systems are in place to replenish our waterways, wetlands and landscapes ensuring a sustainable future for our environment and industry. 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+4. Sustainable Practices - 
+Increase Engagement in Drought 
+Resilience Farm Management 
+and Economic Diversification 
+Projects 
+1. More primary producers are engaged in the co-
+design of natural resource management related 
+research, development and extension activities. 
+2. A monitored central portal to access new and 
+existing resilience practices is accessible to the 
+community. 
+1. Improved collaboration between 
+natural resource management 
+bodies, governments, communities 
+and primary producers. 
+2. More primary producers have the 
+skills, data and support to apply 
+better practices. 
+1. More primary producers have 
+implemented best practice 
+techniques increasing their 
+businesses productivity and / or 
+profitability. 
+Primary production 
+landscapes are 
+functional and 
+sustainable, with 
+healthy natural capital. 
+1. Funding 
+2. Staffing 
+3. Partner/First Nation right holder 
+participation 
+3. Stakeholder participation 
+5. First Nations Co-design - 
+Empowering First Nations’ 
+Caring for Country 
+1. Strengthen existing relationships with First Nations 
+peoples of the region. 
+2. Holistic strategic planning of Caring for Country 
+activities important to First Nations peoples of the 
+region. 
+1. The community respects and values 
+Caring for Country priorities and 
+practices. 
+2. Increased opportunities for First 
+Nations to deliver Caring for 
+Country activities. 
+1. Community respects and values 
+Caring for Country priorities and 
+practices and seeks opportunities 
+to engage with First Nations  
+2. Improved wellbeing and health of 
+Country and increased connection 
+of First Nations to Country 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+6. Alternative Water - Retaining 
+water in the landscape and 
+encouraging the use of 
+alternative water sources  
+1. Identification of industry water needs. 
+2. Verification of pre-feasibility study 
+1. Establishment of managed aquifer 
+recharge trial sites. 
+2. Identify alternative water sources 
+that can be used by industry during 
+drought 
+1. Determination on the viability of 
+managed aquifer recharge in the 
+region.
+
+51 
+Inputs 
+Pathway 
+Short-Term Outcomes 
+Medium-Term Outcomes 
+Long-Term Outcomes 
+Impact 
+Strategic Priority: Social Resilience 
+Goal: Enhanced community well-being and mental health resilience by creating stronger networks, community collaboration and equitable access to healthcare and education. 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+7. Mental Health - Improve 
+awareness and remove barriers 
+to mental health and well-being 
+resources. 
+1. Improved access to, and greater utilisation of local 
+community mental health and wellbeing services. 
+2. Improvement in the capacity of the regional 
+communities to deal with mental health 
+challenges. 
+1. Sustainable community led 
+initiatives to deal with mental 
+health issues implemented. 
+1. Permanent infrastructure and 
+services available for the 
+community in times of drought. 
+Primary production 
+communities are 
+resourceful, adaptable 
+and thriving 
+1. Funding 
+2. Staffing 
+3. Stakeholder participation 
+8. Community Connection – 
+Create Connection in 
+Communities in Good Times 
+and Dry Times 
+1. Increased number of local events to connect 
+primary producers and their communities. 
+1. Sustainable community led 
+initiatives to build networks, share 
+knowledge and reduce isolation. 
+1. Community groups are self-
+sustaining. 
+9.3. Program Measures 
+Table 7: Program Measures 
+Economic Resilience 
+Short Term 
+1. Business Support 
+More primary producers and businesses engaged in strategic business planning, 
+financial projecting and risk assessment. 
+Number of program events organised. 
+Program participants can be surveyed to get their 
+opinion of whether the activities enabled them to 
+increase their awareness, knowledge and skill levels as a 
+result of their participation. In order to see the change in 
+their awareness, knowledge or skill level it is 
+recommended to conduct a pre-/ post-activity survey.  
+The number of events held, and participant/business 
+numbers can be recorded by the implementing regional 
+stakeholder. 
+Number of primary producers who participated in the business planning, 
+financial literacy and risk assessment events. 
+Number of farms and businesses who signed up to the program with 
+implemented drought/financial management plans. 
+Feedback of the participants about the usefulness and value of the 
+events/agencies. 
+2. Farm-level Drought 
+Plans 
+More primary producers and businesses engaged in farm-level drought planning to 
+address short-term seasonal conditions and plan for longer term options for 
+adaptation or diversification, 
+Number of program events organised. 
+Program participants can be surveyed to get their 
+opinion of whether the activities enabled them to 
+increase their awareness, knowledge and skill levels as a 
+result of their participation. In order to see the change in 
+their awareness, knowledge or skill level it is 
+recommended to conduct a pre-/ post-activity survey.  
+The number of events held, and participant/business 
+numbers can be recorded by the implementing regional 
+stakeholder. 
+Number of primary producers who participated in the business planning, 
+financial literacy and risk assessment events. 
+Number of farms and businesses who signed up to the program with 
+implemented drought/financial management plans. 
+Feedback of the participants about the usefulness and value of the 
+events/agencies. 
+Outcomes identified in Program Logic 
+Indicators/Measures 
+Monitoring and Evaluation Approaches 
+Short Term
+
+52 
+3. Industry 
+collaboration 
+New partnerships are formed between industries and agencies to share knowledge, 
+collaborate and partner more often to build drought resilience. 
+Number of projects and programs started in collaboration between 
+industries and agencies. 
+The number of projects and programs offered in 
+collaboration between industries and agencies. 
+Program participants can be surveyed to get their 
+opinion of whether the projects or programs were 
+beneficial. 
+Feedback of the participants about the usefulness and value of the 
+projects or programs. 
+Environmental Resilience 
+4. Sustainable  practices 
+More primary producers are engaged in the co-design of natural resource 
+management related research, development and extension activities. 
+Number of first time participants/businesses signed up to projects and 
+programs, along with details of repeat partners. 
+Use of simple survey devices i.e. Smilie face push buttons 
+at field days/on websites to allow capture of resource 
+and information access. More in-depth surveys could be 
+accessed by QR codes/links at event/on sites and/or 
+emailed out post event to attendees. 
+The number of requests for information or event 
+attendees can be recorded by the implementing regional 
+stakeholder. 
+A monitored central portal to access new and existing resilience practices is 
+accessible to the community. 
+Feedback of the participants about the usefulness and value of the 
+events/programs, and resources. 
+5. First Nations Co-
+design 
+Strengthen existing relationships with First Nations peoples of the region. 
+Engagement plan developed with First Nation partner organisations 
+(SEAFG and Burrandies Aboriginal Corporation) to ensure that First Nation 
+groups in the region are invited to contribute to the development of the 
+Caring for Country plan. 
+A comprehensive engagement plan is co-designed by 
+partner organisations. 
+Holistic strategic planning of Caring for Country activities important to First Nations 
+peoples of the region. 
+Number and distribution of engagement events held with First Nations 
+groups and individuals. 
+The number of attendees at engagement events across 
+the regions can be recorded. 
+6. Alternative Water 
+Identification of industry water needs. 
+Number of participants at engagement events 
+Number of participants and industries represented at 
+engagement events recorded. 
+Verification of pre-feasibility study 
+On-ground verification of predicted Managed Aquifer Recharge sites. 
+Record of the accuracy of the prediction model 
+developed in the pre-feasibility study to determine sites 
+suitable for managed aquifer recharge  
+Social Resilience 
+7. Mental Health  
+Improved access to, and greater utilisation of local community mental health and 
+wellbeing services. 
+Number of people accessing the mental health first responders training. 
+Program participants can be surveyed to get their 
+opinion of whether the program increased their 
+awareness, knowledge and skill levels as a first 
+responder. In order to see the change in their awareness, 
+knowledge or skill level it is recommended to conduct a 
+pre-/ post-activity survey.  
+The number of activities (sessions/ events/ training 
+programs) implemented can be recorded by the 
+implementing regional stakeholder. 
+Improvement in the capacity of the regional communities to deal with mental 
+health challenges. 
+Number or participants trained from each Local Government Area. 
+8. Community 
+Connection 
+Increased number of local events to connect primary producers and their 
+communities. 
+Number of community events hosted 
+The number of events held, and participant/business 
+numbers can be recorded by the implementing regional 
+stakeholder. 
+Number of participants at community events
+
+53 
+Medium Term 
+Economic Resilience 
+Medium Term 
+Small business support 
+Primary producers and businesses have built skills in business planning, financial 
+literacy and risk management 
+Proportion of participants who self-reported an improvement in their 
+business planning, financial literacy and risk management (against a 
+rubric).  
+Results captured in consultative sessions or focus group 
+discussions with the regional stakeholder. 
+The data collected (participants' surveys, registrations, 
+and feedback data) against the short-term outcomes can 
+also be used to respond to and support the medium-
+term outcomes. 
+Proportion of participants who intend to bring change into their business 
+as a result of their participation in the program. 
+2. Farm-level 
+Drought Plans 
+Primary producers include drought and climate risk in their planning 
+Proportion of participants who self-reported the inclusion of drought and 
+climate risk in their planning  
+Proportion of participants who intend to bring change into their business 
+as a result of their participation in the program. 
+Results captured in consultative sessions or focus group 
+discussions with the regional stakeholder. 
+The data collected (participants' surveys, registrations, 
+and feedback data) against the short-term outcomes can 
+also be used to respond to and support the medium-
+term outcomes. 
+Industry 
+collaboratio
+n 
+More drought resilience innovative approaches and technologies are being 
+developed and adopted. 
+Number of projects and programs developed and trialled in collaboration 
+between participating industries and agencies. 
+Results captured in Case studies, or Most Significant 
+Change approach by the regional stakeholder. 
+Environmental Resilience 
+Knowledge and best 
+practice 
+Improved collaboration between natural resource management bodies, 
+governments, communities and primary producers. 
+Feedback from farm group and industry body members. 
+Results captured in consultative sessions or focus group 
+discussions with Regional Stakeholders 
+The data collected (participants' surveys, registrations, 
+and feedback data) against the short-term outcomes can 
+also be used to respond to and support the medium-
+term outcomes. 
+More primary producers have the skills, data and support to apply better practices. 
+Number and type of stakeholders engaged per region. 
+Caring for Country 
+The community respects and values Caring for Country priorities and practices. 
+Increased engagement of First Nations to provide Caring for Country 
+activities or cultural advice. 
+Longitudinal study to determine how First Nations 
+perceive the level of respect for cultural knowledge and 
+practices in the community. 
+Increased opportunities for First Nations to deliver Caring for Country activities. 
+Number of Caring for Country activities delivered, and the number of fee-
+for-service contracts created for Caring for Country activities. 
+Record of the number of Caring for Country activities 
+delivered. 
+Record of the number of fee-for-service contracts to 
+deliver Caring for Country activities created.
+
+54 
+Water in Landscape 
+Establishment of managed aquifer recharge trial sites. 
+The number of managed aquifer recharge trial sites established on private 
+land. 
+Record of the number of landholder agreements entered 
+to establish managed aquifer recharge trial sites. 
+The metered volume of water returned to aquifer via 
+managed aquifer recharge. 
+Identify alternative water sources that can be used by industry during drought 
+Adoption of alternative water sources by industry. 
+Report from local stakeholders on new/alternative water 
+sources used and volumes (where possible). 
+Social Resilience 
+Mental 
+Health and 
+Wellbeing 
+Sustainable community led initiatives to deal with mental health issues 
+implemented. 
+Number of community led initiatives implemented and/or seeking grant 
+assistance. 
+Results captured in consultative sessions with the 
+regional stakeholders. 
+The data collected from Grant Guru access data. 
+8. 
+Connected 
+Communitie
+Increased number of local events to connect primary producers and their 
+communities. 
+Number of community led initiatives implemented and/or seeking grant 
+assistance. 
+Results captured in consultative sessions with the 
+regional stakeholders. 
+The data collected from Grant Guru access data. 
+Long Term 
+Economic Resilience 
+Long Term 
+Small business 
+support 
+More primary producers and small businesses adopt business planning, financial 
+literacy and risk management to improve their drought sustainability and resilience 
+Number of primary producers and businesses with current financial 
+management planning documents, updated within previous 2 year period.  
+These long-term outcomes are best captured at national 
+level by the federal government through separate 
+evaluation studies and other national statistics. 
+2. Farm-level 
+Drought Plans 
+More primary producers are empowered to successfully navigate dry times. 
+Number of primary producers who self-report confidence in preparing for 
+and responding to drought. 
+Industry 
+collaboration 
+Industry networks collaboratively promote and implement transformative activities 
+that improve their resilience to drought. 
+Stability and number of cross agency network programs. 
+Environmental Resilience 
+Knowledge and 
+best practice 
+More primary producers have implemented best practice techniques increasing 
+their businesses productivity and / or profitability. 
+Number of profitable primary production enterprises. 
+Decreased number of failed primary production enterprises. 
+These long-term outcomes are best captured at national 
+level by the federal government through separate 
+evaluation studies and other national statistics. 
+Caring for Country 
+Community respects and values Caring for Country priorities and practices and 
+seeks opportunities to engage with First Nations. 
+Number of on ground activities undertaken by First Nations. 
+Record of the number and range of Caring for Country 
+activities undertaken per year.
+
+55 
+Improved wellbeing and health of Country and increased connection of First 
+Nations to Country 
+Increased resilience of Country to drought and climate issues. 
+Ongoing reports on the wellbeing of Country by First 
+Nations partners. 
+Water in 
+Landscape 
+Determination on the viability of managed aquifer recharge in the region. 
+Delivery of a report on managed aquifer recharge effectiveness in the 
+region. 
+Economic feasibility study of managed aquifer recharge 
+for different water sources and systems. 
+Social Resilience 
+Mental Health & 
+Wellbeing 
+Permanent infrastructure and services available for the community in times of 
+drought. 
+Surge capacity of programs and services can meet increased demand 
+during drought events. 
+Reduced instance of primary producer suicides. 
+These long-term outcomes are best captured at national 
+level by the federal government through separate 
+evaluation studies and other national statistics. 
+8. Connected 
+Communities 
+Community groups are self-sustaining. 
+Number of community groups self-reporting confidence in continuing 
+their purpose.
+
+56 
+9.4. Evaluation Framework 
+The Evaluation framework is designed to translate across any of the pillars, to allow consistent evaluation and benchmarking of results.  
+Note: Target stakeholders are the people the pathway is designed to impact, participants are the people who took part in a particular pathway project/program. 
+Table 8: Evaluation Framework 
+Key evaluation 
+questions 
+Sub-questions 
+Measures   
+Proposed measurement methods 
+Who/what and when 
+How effective was the 
+pathway in achieving its 
+intended outputs and 
+outcomes? 
+To what extent has the pathway improved the resilience 
+and wellbeing of regional communities? 
+Is there any change in the target stakeholders towards 
+sustainable resilience? 
+Did the program improve the social connections and 
+networks between the target stakeholders? 
+Participant’s opinion of whether the activities enabled them to increase 
+their economic, environmental, and/or social resilience as a result of their 
+participation.  
+Number of pathway outputs and outcomes achieved at 12 month intervals 
+post implementation. 
+Sustainability of the achieved outputs and outcomes to provide ongoing 
+benefit to the target stakeholders and the community. 
+Sustainability of resultant social connections and networks to provide 
+ongoing benefit to the target stakeholders and the community. 
+Data from individual pathway ‘Program 
+Measures’ (9.3) can be used to respond 
+to these measures – it is pertinent to 
+collect data from the start of any 
+intervention or program. 
+Case studies can be used to 
+demonstrate results against some of 
+the evaluation questions. 
+Gap analysis can be undertaken to 
+review; 
+- 
+Target stakeholder’s vs 
+participants 
+- 
+Proposed impact vs achieved 
+impact 
+Program reference group to undertake 
+6 monthly review meetings to discuss 
+and record implementation progress. 
+The Project Reference Group 
+intend to appoint a Project 
+Manager to oversee the initial 
+implementation of the Regions 
+Drought Resilience Plan. It is 
+expected a part time 12 month 
+position would manage to keep 
+the program tracking until the 
+pathways begin to generate 
+their own momentum. The 
+position would be responsible 
+for monitoring, evaluation and 
+learning data collection and 
+reporting to the Project 
+Reference Group. Funding for 
+this position will need to be 
+considered outside of this plan. 
+How appropriate was 
+the implementation 
+process? 
+Was the implementation process clear and well received 
+by the targeted stakeholders? 
+Did the implementation process engage the target 
+stakeholders? 
+Were any target demographics missed in implementation? 
+Satisfaction level of participants regarding the overall implementation 
+process of each pathway. 
+Feedback of participant regarding the overall implementation process of 
+the program. 
+If all target demographics were represented in pathway participants. 
+To what extent did the 
+pathway achieve its 
+intended impact? 
+To what extent did the pathway improve the economic, 
+environmental and social conditions of the target 
+stakeholders? 
+To what extent do the target stakeholders believe they 
+have improved resilience to any kind of climate change 
+incidents (i.e., droughts, bushfire etc.) 
+Participant’s opinion of whether the activities enabled them to increase 
+their economic, environmental, and/or social resilience as a result of their 
+participation.  
+Examples of economic, environmental, and/or social benefits experienced 
+by the target stakeholders. 
+Sustainability of the achieved outputs and outcomes to provide ongoing 
+benefit to the target stakeholders and the community. 
+What helped or 
+hindered the pathways 
+meet their desired 
+outcomes? 
+What aspects of the implementation and delivery were 
+successful in achieving the desired impacts? 
+What aspects of the implementation and delivery impeded 
+progress towards the desired impacts? 
+Project reference group’s opinion of what elements helped or hindered the 
+pathways achieve their outputs and outcomes.
+
+57 
+Glossary 
+Key Term 
+Definition 
+Absorptive 
+Capacity 
+The ability of individuals and groups to continue without adapting or changing their 
+behaviour in respond to environmental and socioeconomic changes. 
+Adaptation 
+Adjustment or modification in natural and/or human systems in response to actual or 
+expected shocks and stresses to moderate harm, reduce vulnerability and/or exploit 
+beneficial opportunities. 
+Adaptive 
+Capacity 
+The ability of individuals and groups to adjust and respond to environmental and 
+socioeconomic changes. 
+Adaptive 
+Governance 
+Adaptive governance is defined by a focus on decentralised decision-making structures 
+and procedurally rational policy, supported by intensive natural and social science. 
+Decentralised decision-making structures allow a large, complex problem like global 
+climate change to be factored into many smaller problems, each more tractable for 
+policy and scientific purposes. 
+Adaptive 
+Pathways 
+A planning approach which the addresses uncertainty and challenges associated with 
+climate change decision-making. This approach allows for decisions that must be made 
+now, whilst identifying those that can be made in the future, providing strategic, flexible, 
+and structured decision-making. 
+Co-Design 
+The process of partnership to develop and formulate project delivery and agreed 
+objectives and needs, using participatory methods. A process of working together 
+utilising generative and explorative processes. 
+Community Led 
+An approach where the local and regional community work together to identify goals 
+that are important to them, develop and implement plans to achieve those goals, and 
+create collaborative relationships internally and with external actors - all while building 
+on community strengths and local leadership. 
+Drought 
+Drought in general means acute water shortage. Drought is a prolonged, abnormally dry 
+period when the amount of available water is insufficient to meet our normal use. 
+Drought 
+(Limestone 
+Coast Context) 
+For the Limestone Coast, the timing of rainfall is as important as the amount. The 
+cumulative effects of weather are also a contributing factor. Each industry and 
+geographic location have different rainfall and timing requirements. 
+Drought 
+Resilience 
+Drought resilience is a measure of a system’s ability to absorb, respond and recover to 
+drought risks. 
+Dry Times 
+In the Limestone Coast Region, a lack of rainfall at crucial times in the season, or a 
+failure of a season to break are the terms used by primary producers when describing 
+rainfall deficit seasons. Key differentiation is Dry Times are short, partial-one season in 
+duration, whereas Drought is an extended, multiyear event.   
+Economic 
+Resilience 
+The ability of the economy to absorb the economic impact of shocks and stressors 
+without changing the economic status or outcomes. 
+Environmental 
+Resilience 
+The ability of the natural environment to cope with a diverse range of shocks and 
+stressors while maintaining natural processes and ecosystem services.
+
+58 
+Key Term 
+Definition 
+Exposure 
+The presence of people; livelihoods; species or ecosystems; environmental functions, 
+services, and resources; infrastructure; or economic, social, or cultural assets in places 
+and settings that could be adversely affected. 
+Feedback Loop 
+Feedback loop is a process where the output of a system is fed back into the input, 
+resulting in circular cause and effect that can either amplify or diminish the effects of 
+droughts. It is used to visualise the interdependencies and interrelations of causes and 
+effects across different systems 
+Governance 
+Governance is the structures and processes by which individuals, groups and agencies in 
+a society share power and make decisions. It can be formally institutionalised, or 
+informal. 
+Green Drought 
+Green droughts refer to when the fields are green but there is insufficient rainfall to 
+saturate soils and generate run-off into dams or groundwater recharge. In the Limestone 
+Coast, this can be caused by early rain without sufficient follow up for the season to 
+break, limiting vegetation growth. 
+Groundwater 
+Recharge 
+Groundwater recharge occurs via two mechanisms: ‘river recharge’, where water leaks 
+from the base of a river, lake, wetland or reservoir, and ‘rainfall recharge’ where water 
+permeates downwards once the soil profile is saturated. 
+Groundwater 
+Salinity 
+The process whereby salts stored below the surface of the ground are brought close to 
+the surface by the rising watertable. The accumulation of salt degrades the upper soil 
+profile, with impacts on agriculture, infrastructure and the environment. 
+Independent 
+Review 
+CSIRO Assessment of this Plan and supporting documents against guidelines to 
+determine alignment with Future Drought Fund requirements. 
+Intervention 
+Options 
+Alternative or complementary actions, projects, programs, policies, initiatives, and 
+investments that are planned to bring about change in the system. 
+Local 
+Knowledge 
+Local knowledge and First Nations knowledge incorporate elements of lived experience 
+within a landscape, bearing witness to the operation of systems. It includes aspects of 
+people, landscape, culture – how people interact with surroundings and as part of 
+communities and processes. 
+Maintain 
+Preserving the system refers to efforts to keep the region (as it currently exists) the 
+same. 
+Modify 
+Efforts working to adapt part of the system to meet newly defined goals. 
+Primary 
+Production 
+Primary production includes the following sectors: aquaculture, commercial fishing, 
+grains and crops, food and beverage, forestry, grape and wine, horticulture, livestock, 
+wool, and dairy. 
+Project 
+Reference 
+Group 
+Made up of representatives from Regional Development Australia Limestone Coast, 
+Limestone Coast Landscape Board, Department of Primary Industry and Regions South 
+Australia, South Australia Drought Hub, and Limestone Coast Local Government 
+Association. 
+Resilience 
+The ability of a system to absorb a disturbance and reorganise to maintain the existing 
+functions, structure and feedback. Also see economic resilience, environmental 
+resilience, and social resilience. 
+Risk 
+The potential for adverse consequences for human or ecological systems, recognising 
+the diversity of values and objectives associated with such systems.
+
+59 
+Key Term 
+Definition 
+Salinity 
+Total Dissolved Solids (TDS) grams of salt per litre, measuring the amount of salt 
+dissolved within water. 
+Shock 
+Shocks are sudden and immediate events causing immediate damage and impact. 
+Examples include disease pandemic, bushfires, water crisis, cyber-attack, and extreme 
+heat. 
+Social 
+Resilience 
+The ability of the human society to cope with a diverse range of shocks and stressors 
+while maintaining existing social and community functions. 
+Stressor 
+An event that occurs gradually over a timeframe that causes an adverse effect, e.g., 
+drought. 
+System 
+The interaction of processes, networks, and inter-dependencies across a complex 
+‘whole’. 
+Theory of 
+Change 
+Refers to theories, causal mechanisms and assumptions that explain how and why 
+outcomes and impacts will be achieved through use, implementation and production of 
+proposed inputs, activities, and outputs. 
+Threshold 
+The point at which a change in a level or amount a controlling variable causes a system 
+to shift to a qualitatively different regime. Also referred to as a tipping point. 
+Transform 
+Radically change or build a new system. 
+Transformative 
+Capacity 
+The process of radically changing or building a new system with different structure, 
+functions, feedback, and identity. 
+Transitions 
+Transitions involve incremental changes to systems, slowly altering a situation. 
+Trends 
+Major global or regional influences that have driven change in the past and are expected 
+to shape change into the future. 
+Trigger Point 
+A pre-agreed situation or event, that when met, activates a management intervention. 
+Trigger points are usually defined in the planning phase. 
+Triple Bottom 
+Line 
+An approach which seeks to equally focus on economic, social, and environmental 
+outcomes. 
+Vulnerability 
+The propensity or predisposition to be adversely affected.
+
+60 
+Abbreviations 
+Abbreviation 
+Meaning 
+$ 
+(in) Australian Dollars 
+% 
+Percent  
+°C 
+Degrees Celsius 
+BOM  
+Bureau of Meteorology  
+COVID 
+Coronavirus disease 
+e.g.,  
+For example,  
+FDF 
+Future Drought Fund 
+kg/ha 
+Kilogram per hectare 
+LCLB 
+Limestone Coast Landscape Board 
+LGA 
+Local Government Area 
+LCLGA 
+Limestone Coast Local Government Association 
+PIRSA  
+Department of Primary Industries and Regions, South Australia 
+RAPTA 
+Resilience, Adaptation Pathways, and Transformation Assessment 
+RCP 
+Representative Concentration Pathway 
+RDALC 
+Regional Development Australia Limestone Coast 
+SA 
+South Australia  
+SEAFG 
+South East Aboriginal Focus Group 
+SENRM 
+South East Natural Resources Management Board 
+TAFE 
+Technical and Further Education  
+the Plan 
+THI 
+Temperature-Humidity Index
+
+61 
+References 
+.id. (2024). Informed Decisions Limestone Coast Region. SA, Australia. 
+ABARES. (n.d.). ABARES Agricultural Commodities 2020–21 by Local Government Area. 
+<https://public.tableau.com/app/profile/australian.bureau.of.agricultural.and.resource.economics.an
+d.sci/viz/A. 
+BOM. (2010). About Evapotranspiration. Retrieved from Bureau of Meterology: 
+http://www.bom.gov.au/watl/eto/about.shtml 
+BoM, C. &. (n.d.). Evapotranspiration. Retrieved from https://myclimateview.com.au/climate-
+data?commodity=Beef%20(southern)&climateFactor=autumn-
+pet&timePeriod=pastAndFuture&emissionScenario=medium 
+Bureau of Meteorology. (2022). Retrieved from http://www.bom.gov.au/climate/drought/knowledge-
+centre/understanding.shtml 
+Carto Graphics. (2013). Limestone Coast Map. Unley, SA. 
+CSIRO. (2017). Projection Summaries Murray Darling Basin . Retrieved from Climate Change in Australia: 
+https://www.climatechangeinaustralia.gov.au/en/projections-tools/regional-climate-change-
+explorer/clusters/?current=MBC&tooltip=true&popup=true 
+DAFF. (2020). Future Drought Fund Monitoring, Evaluation and Learning Framework. Retrieved from 
+https://www.agriculture.gov.au/sites/default/files/documents/mel-framework.pdf 
+Forestry: 
+https://www.agriculture.gov.au/sites/default/files/documents/fdf_Investment_Strategy_2024-
+28_FINAL_22JAN.pdf 
+DEW. (2022). Guide to Climate Projections for Risk Assessment and Planning in South Austraia. Department for 
+Environment and Water. Retrieved from 
+https://data.environment.sa.gov.au/Content/Publications/Guide%20to%20climate%20projections%2
+0for%20risk%20assessment%20and%20planning%20in%20South%20Australia%202022.pdf 
+DEW. (2024). South Australian Climate Projections Viewer. Retrieved from Department for Environment and 
+Water: https://www.environment.sa.gov.au/climate-viewer/details/ 
+DEWNR. (2013). Investigating Climate Change Impacts in South Australia's Cropping Zone. Retrieved from 
+Department of Environment, Water and Natural Resources: 
+https://cdn.environment.sa.gov.au/environment/docs/kb-fact-climate-change-erosion.pdf 
+Forestry SA. (n.d.). Our History, Forestry in the Early Days. Retrieved 2024, from 
+https://www.forestrysa.com.au/about-us/our-history/forestry-in-the-early-
+days/#:~:text=The%20first%20trial%20plantings%20took%20place%20at%20Bundaleer,known%20as
+%20the%20Green%20Triangle%2C%20at%20Mount%20Gambier. 
+GRDC. (2013). Telfer, Paul; Edwards, James; Kuchel, Haydn; Reinheimer, Jason; Bennett, Dion, Heat stress 
+tolerance of wheat. Retrieved from Grains Research & Development Corporation: 
+https://grdc.com.au/resources-and-publications/grdc-update-papers/tab-content/grdc-update-
+papers/2013/02/heat-stress-tolerance-of-wheat 
+Hope, P. e. (2015). Southern and South-Western Flatlands Cluster Report, Climate Change in Australia 
+Projections for Australia’s Natural Resource Management Regions: Cluster Reports. (M. e. Ekström, 
+Ed.) Retrieved from
+
+62 
+https://www.climatechangeinaustralia.gov.au/media/ccia/2.2/cms_page_media/168/SSWFLATLANDS
+_CLUSTER_REPORT.pdf 
+ICOR. (2016). The International Consortium of Organizational Resilience Community Resilience Framework. 
+LCLB. (2024). Limestone Coast Landscape Board. Retrieved from NRM Regions Australia: 
+https://nrmregionsaustralia.com.au/lclb 
+NFF. (2023). National Farmer Wellbeing Report, National Farmers Federation. Norco Foods. Retrieved from 
+https://norcofoods.com.au/wp-content/uploads/2023/03/1212_Farmer-wellbeing-
+report_Navigation_FINAL.pdf 
+O'Connell, D. M.-J.-S. (2019). Resilience Adaptation Pathways and Transformation Approach - A guide to 
+designing, implementing and assessing interventions for sustainable futures. version 2. Australia. 
+Papari, J. S.-K. (2021). How heatwaves and drought combine to produce the perfect firestorm. University of 
+New South Wales. Retrieved 2024, from https://www.unsw.edu.au/newsroom/news/2021/01/how-
+heatwaves-and-drought-combine-to-produce-the-perfect-firesto 
+PIRSA. (2022). Limestone Coast. Retrieved from Department of Primary Industries and Regions SA: 
+<https://www.pir.sa.gov.au/aginsightdata/limestone_coast>. 
+PIRSA. (n.d.). Appendix 1, History of the SE Drainage System Summary. 
+Prance, T. M. (2023). Sustainable Land Use for Dairying in the Limestone Coast, SA. 
+RDALC. (2022). Circular Economy Opportunities Limestone Coast. Retrieved from Regional Development 
+Australia Limestone Coast: https://rdalc.org.au/wp-content/uploads/2022/11/Circular-Economy-
+Opportunities-2022.pdf 
+SEWCB. (2019). South East Drainage and Wetland Strategy. Government of South Australia. South Eastern 
+Water Conservation and Drainage Board. Retrieved from 
+<https://cdn.environment.sa.gov.au/landscape/docs/lc/2019_se_drainage_wetlands_strategy.pdf> 
+Stafford-Smith, M. (2019). Theory of Change Primer, A STAP Advisory Document. Scientific and Technical 
+Advisory Panel to the Global Environment Facility. Retrieved from Global Environment Facility: 
+https://www.thegef.org/sites/default/files/council-meeting-
+documents/EN_GEF_STAP_C.57_Inf.04_Theory%20of%20Change%20Primer_0.pdf 
+Steffan, H. &. (2014). The Climate Council Heatwaves: Hotter, longer, more often. Retrieved 2024, from 
+https://www.climatecouncil.org.au/uploads/9901f6614a2cac7b2b888f55b4dff9cc.pdf 
+Tourism SA. (2025). South Australian Agritourism Sector Plan 2025. Retrieved from Tourism SA: 
+https://tourism.sa.gov.au/media/xcmjwtaf/south-australian-agritourism-sector-plan-2025.pdf 
+URS Forestry. (n.d.). Australia’s Green Triangle - A growing region with significant opportunities for forest 
+sector investment. Retrieved 2024, from 
+https://www.agriculture.gov.au/sites/default/files/sitecollectiondocuments/forestry/green_triangle_i
+nvestment_ver8.pdf#:~:text=Reflecting%20its%20name%2C%20the%20%E2%80%9CGreen%20Triangl
+e%E2%80%9D,sawntimber%2C%20wood%20panels%20and%20woodchip%20export.&t 
+WSP. (2024). Initial Resilience Assessment Evidence Review.  
+WSP. (2024). Stakeholder and Community Engagement - Outcomes Summary.
+
+63 
+Appendix 1 Supporting Pathways 
+Table 9: Supporting Implementation Pathways and Actions 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+During consultation we heard 
+primary producers are significantly 
+impacted by the commodity price 
+shifts and pricing tactics of large 
+supermarkets, which reduce profit 
+margins and financial buffers 
+needed to survive dry times. 
+Advocate for fairer deals on farm 
+produce. 
+Supporting 
+fairer practices 
+towards primary 
+producers.  
+1. Establishing a collective of local industry groups to 
+advocate together. 
+2. Make regional submissions to inquiries into 
+supermarket pricing/market shares. 
+2. Increased information sharing and knowledge building. 
+3. Increased sustainability of local businesses preparedness for 
+drought.  
+4. Improved business outcomes and long-term sustainability. 
+5. Increased networking and relationship building. 
+6. Increased resilience for local businesses by securing and 
+strengthening income streams. 
+7. Improved collaboration and strengthening of relationships. 
+10. Increased understanding and awareness of available support and 
+services. 
+14. Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify 
+Review local government restrictions and regulations 
+for farm gate sales, artisan, and small business with a 
+view to remove unnecessary red tape across the region. 
+Modify 
+During consultation we heard no 
+one could afford non-essential 
+spending leaving tradies (i.e. 
+fencers, electricians, builders and 
+plumbers) with reduced demand. 
+An example given was no longer 
+having waiting lists where 
+previously they were six months 
+long. 
+Support local labour businesses 
+during a downturn in trade 
+caused by dry times. 
+Advocate for 
+stimulus funding 
+during 
+significant dry 
+times. 
+1. Develop and maintain a Limestone Coast database of 
+infrastructure work on public buildings/spaces, and key 
+nature corridors that could be funded during dry 
+times/EOFY budgets. 
+2. Release funding for additional public maintenance 
+work during dry times as requested by the Local 
+Government Association. 
+3.  Release funding for additional environmental priority 
+programs during dry times as requested by the Local 
+Landscape Board. 
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+6. 
+Increased resilience for local businesses by securing and 
+strengthening income streams. 
+7. 
+Improved collaboration and strengthening of relationships. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify  
+During consultation we heard 
+businesses are struggling to attract 
+and retaining staff, which 
+constrains businesses from 
+capitalising on prosperous times 
+and building financial buffers. They 
+can't keep young people because 
+there are no opportunities or 
+resources for training or personal 
+and professional development. 
+They cannot encourage migration 
+to fill jobs as there is limited 
+housing available.   
+Retaining and attracting young 
+people back to the region. 
+Encouraging 
+sustainable 
+growth of our 
+region. 
+Undertake research in how to keep and/or attract 
+young people to the Limestone Coast. 
+1. 
+Increased awareness of drought resilience information, 
+practices and opportunities.  
+2. 
+Increased information sharing and knowledge building. 
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+5. 
+Increased networking and relationship building. 
+7. 
+Improved collaboration and strengthening of relationships. 
+9. 
+Increased utilisation of existing drought resilience knowledge 
+and information. 
+10. 
+Increased understanding and awareness of available support 
+and services. 
+11. 
+Increased use of support and services thereby increasing 
+preparedness, and future funding. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify 
+Develop a Limestone Coast Primary Production Leaders 
+program. 
+Modify 
+1. Advocate for accredited training programs within the 
+region so young people have the option to stay local. 
+2. Focus on in-region training for tomorrows 
+technologies/ jobs. 
+Modify 
+Increasing medical and 
+professional service access across 
+the region. 
+Lead an advocacy piece to address skilled and unskilled 
+labour shortages 
+Modify  
+1. Advocate for increased medical services across the 
+region. 
+2. Incentivising medical staff to reside in the region 
+Modify 
+Increase housing availability 
+across the region. 
+1. Identify businesses and spaces capable of providing 
+affordable worker accommodation. 
+2. Identify township specific barriers to population 
+growth such as water and wastewater services. 
+Maintain
+
+64 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+During consultation we heard the 
+lasting effects of historic bushfires 
+such as Ash Wednesday but also 
+more recent ones including at 
+Keilira in 2020. Fire preparation 
+was noted as a crucial activity 
+following dry seasons due to the 
+lack of moisture and reliance on 
+stored fodder. 
+Reduction of unnecessary 
+flammable fuel (fuel load) 
+sources in the region. 
+Encourage fire 
+preparedness in 
+our 
+communities to 
+prevent future 
+catastrophic 
+events. 
+1. Decrease unmonitored vegetation areas within the 
+region. 
+2. Establish partnerships between First Nations 
+initiatives and industry bodies. 
+3. Increase the business community awareness of 
+responsibility during dry times. 
+4. Support increased industry training such as Forestry 
+Fire Crew. 
+1. 
+Increased awareness of drought resilience information, 
+practices and opportunities.  
+2. 
+Increased information sharing and knowledge building. 
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+5. 
+Increased networking and relationship building. 
+10. 
+Increased understanding and awareness of available support 
+and services. 
+11. 
+Increased use of support and services thereby increasing 
+preparedness, and future funding. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify 
+During consultation we heard 
+there is significant waste across 
+industry. Whether it was using 
+unattractive fruit or food waste or 
+finding ways to recycle agricultural 
+plastics, the region could and 
+should be doing more to lead a 
+circular economy.  
+Progress Opportunities identified 
+in the Limestone Coast Circular 
+Economy Opportunities 
+discussion paper. 
+Encourage 
+investment in 
+Circular 
+Economy 
+initiatives 
+1. Value-adding reject fruit and vegetables, finding a 
+use for the estimated 77% SA food produced that is 
+not harvested.  
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+6. 
+Increased resilience for local businesses by securing and 
+strengthening income streams. 
+7. 
+Improved collaboration and strengthening of relationships. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify 
+2. Value-adding food waste from food processing for 
+human consumption, using potato, onion and wine 
+grape seeds for nutraceutical and bulk food 
+properties. 
+Modify 
+3. Converting food waste to high-quality animal feed. 
+Modify 
+4. Adopting regenerative agricultural practices. 
+Modify 
+9. Better management of agricultural plastics and 
+commonly recycled materials locally. 
+Modify 
+During consultation we heard the 
+need to be proactive in attracting 
+government funding and 
+investment into the region. This 
+will provide opportunities for the 
+region to diversify business 
+opportunities and be prepared to 
+meet State and Global Legislation 
+changes.  
+Raise awareness of 
+manufacturing income stream 
+diversification opportunities. 
+Support Industry 
+Transition for a 
+Sustainable 
+Tomorrow. 
+Link organisations to opportunities such as component 
+manufacture for defence 
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+6. 
+Increased resilience for local businesses by securing and 
+strengthening income streams. 
+7. 
+Improved collaboration and strengthening of relationships. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify 
+Coordination of the Limestone 
+Coast Net Zero Transition. 
+1. Appoint a Project Manager to lead a regional 
+transition program. 
+2. Review existing renewable energy supply chains 
+and opportunities in SA/Vic. 
+3. Strengthen industry understanding and 
+resilience of Net Zero requirements. 
+Modify 
+Raising awareness of state, 
+national and international 
+regulations. 
+Provide advice and resources to businesses on 
+complying with legislation and regulations such as. 
+• 
+State and National Net Zero Targets 
+• 
+International EU Carbon Border Adjustment 
+Mechanism (CBAM). 
+Modify 
+During consultation we heard that 
+farmers want to learn from other 
+farmers, not government bodies. 
+Historically industry bodies led 
+local networks and programs that 
+naturally led to knowledge sharing 
+across generations, as well as 
+disciplines. 
+Implement programs to support 
+Farmers teaching Farmers 
+Develop Farmer 
+teaching Farmer 
+opportunities 
+1. Appoint a Project Coordinator to develop and run a 
+Farmer teaching Farmer Program. 
+2. Establish a mentorship program to facilitate 
+information sharing between farmers. 
+3. Establish a Young Farmers Network. 
+4. Establish a primary producers leadership program. 
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+6. 
+Increased resilience for local businesses by securing and 
+strengthening income streams. 
+7. 
+Improved collaboration and strengthening of relationships. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Modify
+
+65 
+Option Origination 
+Option 
+Pathway 
+Outputs 
+Outcomes 
+Resilience 
+Assessment 
+During consultation we heard that 
+some industries required greater 
+water allocation and resources 
+than is sustainable for a resilient 
+future. 
+Advocate for planning 
+regulations and zones to exclude 
+inappropriate industry uses, as 
+well as protect crucial 
+environmental corridors. 
+Develop 
+consistent 
+planning zones 
+and overlays 
+Review land use regulations for appropriateness across 
+the seven local government areas. Advocate for 
+required changes. 
+3. 
+Increased sustainability of local businesses preparedness for 
+drought.  
+4. 
+Improved business outcomes and long-term sustainability. 
+7. 
+Improved collaboration and strengthening of relationships. 
+10. 
+Increased understanding and awareness of available support 
+and services. 
+14. 
+Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+15. Better future planning and development for the region. 
+Modify 
+During consultation we heard that 
+Rural Business Support Financial 
+Counsellors did not advertise the 
+service because they are only able 
+to meet existing demand without 
+seeking new referrals. 
+Advocate for the growth of Rural 
+Business Support Services. 
+Expand the 
+Rural Business 
+Support 
+Program to 
+Increase 
+Increase available Rural Business Support Officer 
+resources and staff. 
+2. Increased information sharing and knowledge building. 
+3. Increased sustainability of local businesses preparedness for 
+drought.  
+4. Improved business outcomes and long-term sustainability. 
+6. Increased resilience for local businesses by securing and 
+strengthening income streams. 
+14. Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+Maintain 
+Secure a surge capacity of Rural Business Support 
+Financial Counsellors for deployment during bad 
+seasons. 
+Modify 
+During consultation we heard that 
+local volunteers wear many hats in 
+good times and get burnt out 
+during dry times. The same people 
+often volunteer for several 
+committees and organisations, 
+which is not sustainable whilst also 
+dealing with business and family 
+concerns. 
+Improving support for 
+community volunteers. 
+Streamline 
+volunteer 
+process to 
+increase 
+participation. 
+Undertake a gap and opportunity analysis for pinch 
+points faced by volunteers. 
+1. Increased awareness of drought resilience information, practices and 
+opportunities. 
+2. Increased information sharing and knowledge building. 
+5. Increased networking and relationship building. 
+14. Increase in resilient individuals to prepare for, cope with and 
+recover from adverse events such as drought. 
+16. Increased sustainability of community club/service preparedness 
+for drought.  
+17. Improved community club/service outcomes and long-term 
+sustainability. 
+Maintain 
+Identify where red tape could be removed or reduced 
+from LGA requirements. 
+Modify 
+Create grant writing toolkits for volunteers and clubs 
+including acquittal processes. 
+Modify
+
+66 
+Appendix 2 Master List of Outcomes 
+Each pathway described in Table 3 of Section 4.1 - Pillar Pathways contains a numbered list of the Outcomes 
+expected to result from the proposed activities. The full list of outcomes is provided for reference below. 
+Table 10 Master List of Outcomes 
+1. Increased awareness of drought resilience information, practices and opportunities. 
+2. Increased information sharing and knowledge building. 
+3. Increased sustainability of local businesses preparedness for drought.  
+4. Improved business outcomes and long-term sustainability. 
+5. Increased networking and relationship building. 
+6. Increased resilience for local businesses by securing and strengthening income streams. 
+7. Improved collaboration and strengthening of relationships. 
+8. Reduced duplication of services and reduced consultation fatigue, providing better outcomes for 
+agencies and farmers. 
+9. Increased utilisation of existing drought resilience knowledge and information. 
+10. Increased understanding and awareness of available support and services. 
+11. Increased use of support and services thereby increasing preparedness, and future funding. 
+12. Increased awareness of mental health information, practices and opportunities. 
+13. Local industry focused program to provide accessible mental health training and services. 
+14. Increase in resilient individuals to prepare for, cope with and recover from adverse events such 
+as drought. 
+15. Holistic planning of Caring for Country activities with the understanding that activities on 
+Country are interconnected. 
+16. Increased social and economic participation of First Nations; co-design emphasises self-
+determination, projects, and activities important to First Nations peoples to make up the plan, new 
+fee-for-service opportunities. 
+17. Increased drought resilience. 
+18. Support biodiversity outcomes. 
+19. Reduce the risk and impact of bushfires. 
+20 Decrease pressure on groundwater resource so recovery after drought is possible. 
+21 Determine feasibility of storing drain and alternative water sources in the aquifers using 
+managed aquifer recharge (managed aquifer recharge could increase the supply of groundwater 
+available during drought). 
+22 Identify alternative water sources that can be used during drought. 
+23 Assist in carbon sequestration. 
+24 Increase the total volume of water available in the region

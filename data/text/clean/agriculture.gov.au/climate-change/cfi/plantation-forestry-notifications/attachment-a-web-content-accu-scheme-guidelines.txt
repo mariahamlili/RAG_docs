@@ -1,0 +1,891 @@
+Current as at 02 January 2025 
+Australian Carbon Credit Unit 
+Scheme (ACCU Scheme) 
+Plantation Forestry 
+Notification Guidelines 
+Guidance for proponents 
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+ii 
+© Commonwealth of Australia 2025 
+Ownership of intellectual property rights 
+the Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except 
+content supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: Climate Policy Section, Australian Carbon 
+and Forestry, Canberra, August. CC BY 4.0. 
+This publication is available at agriculture.gov.au/Australian Carbon Credit Units Scheme 
+Postal address GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+care and skill in preparing and compiling the information and data in this publication. Notwithstanding, the 
+for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using 
+or relying upon any of the information or data in this publication to the maximum extent permitted by law.
+
+Current as at 02 January 2025 
+Contents  
+Summary ............................................................................................................................................................iii 
+Using the Australian Carbon Credit Units Scheme Plantation Forestry Notification  
+Guidelines .................................................................................................................................................................. iii 
+Introduction ....................................................................................................................................................... 1 
+Australian Carbon Credit Units Scheme overview ...................................................................................... 1 
+ Australian Carbon Credit Units Scheme Plantation Forestry Method ............................................... 1 
+1 
+Requirements for proponents ............................................................................................................ 2 
+2 
+Assessment process ................................................................................................................................ 7 
+Responsibility of assessing and processing notifications ........................................................................ 7 
+Assessment outcomes ............................................................................................................................................. 7 
+Assessment phases .................................................................................................................................................. 8 
+3 
+Enquiries ................................................................................................................................................. 11 
+4 
+Relevant considerations for proponents ..................................................................................... 12 
+Material inaccuracies ........................................................................................................................................... 12 
+Withdrawal of notifications ............................................................................................................................... 12 
+False and misleading information .................................................................................................................. 12 
+Appeals ....................................................................................................................................................................... 12 
+5 
+Handling of information .................................................................................................................... 13 
+Confidential information .................................................................................................................................... 13 
+Privacy notice .......................................................................................................................................................... 13 
+Glossary ............................................................................................................................................................ 15 
+Appendix A – requirements of the Rule: proponent’s checklist ................................................... 19 
+Appendix B — the assessment process: step-by-step ...................................................................... 21 
+Stage 1 –Submitting and assessing a notification ..................................................................................... 21 
+Stage 2 – Primary assessment: initial findings (within 30 calendar days of notification being 
+lodged) ................................................................................................................................................................................. 21 
+Stage 3 – Additional assessment: proponent response period (within 20 calendar days of the 
+Agriculture Minister providing the original written statement)................................................................. 22 
+Stage 4.1 — Additional assessment: Scenario 1: proponent’s response not provided (within 
+30 calendar days of Agriculture Minister providing the original written statement) ....................... 22 
+Stage 4.2 — Additional assessment: Scenario 2: response provided (within 45 calendar days 
+of Agriculture Minister providing original written statement) ................................................................... 22 
+Example assessment process ............................................................................................................................ 23 
+Figures
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+ii 
+Figure 1: Notification assessment process …………………………………………………......................................10
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+iii 
+Summary 
+The Australian Carbon Credit Unit Scheme (ACCU Scheme) Plantation Forestry Method (the 
+method) provides a mechanism to increase carbon sequestration through the following eligible 
+activities: 
+1) establishing and maintaining a new plantation forest for commercial harvesting of wood 
+products (Schedule 1) 
+2) converting an existing short rotation plantation forest to a long rotation plantation forest 
+for commercial harvesting of wood products (Schedule 2) 
+3) avoiding conversion of an existing or recently harvested plantation forest (Schedule 3) 
+4) transitioning a plantation forest to a permanent forest, in situations where that 
+plantation is at risk of being converted to non-forested land (Schedule 4). 
+Schedules are the types of projects used under this method. 
+for Agriculture, Fisheries and Forestry (the Agriculture Minister) has a role to assess whether 
+proposed projects would lead to an undesirable impact on agricultural production in the region 
+where the project would be located. 
+Anyone who intends to apply for either a new plantation forestry project or an expansion of an 
+existing plantation forestry project under Schedule 1 are required to submit an ACCU scheme 
+Fisheries and Forestry (the department) so that an assessment of the impact on agricultural 
+production can be made. 
+For this determination, land in the project area is eligible land appropriate for the new 
+plantation project activity if, on the eligibility date: 
+ (a) there had been no relevant plantation on the land within the previous 7 years; and 
+ (b) there had been no native forest on the land within the previous 7 years. 
+Using the ACCU Scheme Plantation Forestry Notification 
+Guidelines  
+This document is to be taken as the guidelines as referred to in section 20B  Carbon Credits 
+(Carbon Farming Initiative) Rule 2015 (the Rule). These guidelines are designed to provide 
+clarity around the requirements to complete a notification and the associated assessment 
+process. These guidelines should be read in conjunction with the relevant legislation. This 
+document does not provide guidance on the ACCU project registration application process 
+undertaken by the Clean Energy Regulator (the Regulator).  
+This version of the guidelines is current as 2nd January 2025 and based on the  Carbon Credits 
+(Carbon Farming Initiative) Rule 2015. This is a controlled document—any documents appearing 
+in paper form or saved electronically are not controlled and should be checked against the 
+version published on the department’s website prior to use.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+iv 
+For ease of reference the following abbreviations are used in these guidelines. 
+Table 1 Use of abbreviations 
+Abbreviation 
+Full name 
+ACCUs 
+Australian Carbon Credit Units  
+the Agriculture 
+Minister 
+department. In this document the term ‘Agriculture Minister’ can also refer the department. 
+the Rule 
+Carbon Credits (Carbon Farming Initiative) Rule 2015 
+the Act 
+Carbon Credits (Carbon Farming Initiative) Act 2011 
+the Regulator 
+Clean Energy Regulator 
+the department 
+ERF 
+Emissions Reduction Fund 
+the method 
+Australian Carbon Credit Units  (ACCU Scheme) Plantation Forestry method 
+notification 
+Australian Carbon Credit Units plantation notification or an Australian Carbon Credit Units  
+plantation expansion notification  
+application 
+Australian Carbon Credit Units  Plantation project registration application  
+Proponent/s 
+Project proponent/s
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+1 
+Introduction 
+Australian Carbon Credit Units overview 
+The Australian Carbon Credit Units Scheme  is a voluntary scheme that aims to reduce 
+Australia’s greenhouse gas emissions by providing incentives for organisations and individuals 
+to adopt new practices and technologies in order to reduce emissions or sequester carbon 
+(capture and storage of carbon). 
+Emissions reduction activities are undertaken as offsets projects. Each person who seeks to 
+undertake a carbon offsets project will need to make an application to the Regulator. The 
+Regulator will consider whether the proposed project can be undertaken in accordance with a 
+methodology determination (also known as a method) and meet other scheme requirements. A 
+method sets out the rules for estimating emissions reductions for the relevant offset project. 
+Offsets projects undertaken in accordance with a method and approved by the Regulator can 
+generate Australian Carbon Credit Units (ACCUs). ACCUs can be sold to generate income, either 
+to the government through a carbon abatement contract, or in the secondary market. These 
+contracts will guarantee the price and payment for the future delivery of emissions reductions.  
+Australian Carbon Credit Units Plantation Forestry Method 
+The  Carbon Credits (Carbon Farming Initiative—Plantation Forestry) Methodology Determination 
+2022 also known as the ACCU Scheme Plantation Forestry Method (the method) was made by 
+the Minister for the Environment and Energy under subsection 106(4) of the Carbon Credits 
+(Carbon Farming Initiative) Act 2011 Carbon Credits (Carbon Farming Initiative) Act 2011. This 
+method builds on and replaces the Plantation forestry method (2017).  
+To ensure that a proposed project is undertaken in accordance with the method, an application 
+must be lodged with the Regulator for approval.  
+The Carbon Credits (Carbon Farming Initiative) Rule 2015 (the Rule) details additional 
+administrative procedures under the Act, associated with the method. The Rule provides a 
+Forestry in assessing whether proposed projects under the method would lead to an undesirable 
+impact on agricultural production in the region where the project would be located. Anyone who 
+intends to apply for either a new plantation forestry project or an expansion of an existing 
+plantation forestry project are required to submit a notification to the department by email.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+2 
+1 Requirements for proponents 
+Proponents who intend to apply for a project under the method must understand the relevant 
+requirements under the Act, the Method and the Rule. This section outlines the three 
+overarching requirements which proponents are strongly encouraged to understand before 
+submitting a notification and application: 
+1) The notification must be submitted in the period beginning 18 months prior to the date 
+of an application to the Regulator and ending on the day of that application.  
+2) The notification submitted to the department must contain the required information to 
+allow an assessment to be undertaken — see Appendix A for the requirements. 
+3) The project considered by the Agriculture Minister (as outlined in a notification) must be 
+essentially the same project ultimately considered by the Regulator (as outlined in an 
+application).  
+If the requirements outlined in this section (among others – please refer to the ACCU Scheme 
+project application process undertaken by the Regulator) are not met, the proposed project will 
+be deemed an ‘excluded offsets project’ and cannot be approved by the Regulator (i.e. the project 
+will be excluded from participating in the ACCU Scheme). 
+Proponents are encouraged to contact the department via email erfnotification@aff.gov.au to 
+discuss the requirements prior to submitting a notification. 
+Appendix A sets out the relevant requirements in the form of a checklist which can be used by 
+proponents to prepare and review a notification to ensure it includes the required information 
+prior to submission.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+3 
+Submission of a notification and application 
+Anyone who intends to apply for a project under the method, is required to submit: 
+1) a notification by email (erfnotification@aff.gov.au )  to the department so that the 
+potential for a proposed project to have undesirable impacts on agricultural production 
+can be assessed.  
+2) an application to the Regulator for approval, which is accompanied by a notification 
+which relates to the application and any information sent in connection with that 
+notification. 
+The notification must be submitted in the period beginning 18 months prior to the date of an 
+application to the Regulator and ending on the day of that application. Please note that 
+proponents can resubmit a notification and application if 18 months has expired. It is the 
+decision of the proponent whether they want to provide a notification to the department before 
+applying to the Regulator, or make an application to the Regulator and notification to the 
+department on the same day. 
+For each proposed new plantation forestry project or expansion of a project, an application and 
+a notification must be submitted to the Regulator and department respectively. This means that 
+if a project was approved by the Regulator, another project cannot be approved based upon the 
+same notification (i.e. a notification is valid only for one approved project). For example, if an 
+ACCU scheme plantation notification was submitted for a project up to 1,000 hectares anywhere 
+within the Australian Capital Territory, and then a project was approved by the Regulator for 
+800 hectares, that notification cannot be relied upon to declare a second project of 150 hectares 
+within the Australian Capital Territory; a new notification would be required. 
+Method of submitting a notification and all other correspondence and communication 
+All incoming notifications and subsequent correspondence must be submitted by midnight 
+(12am Eastern Standard Time) to the department via email erfnotification@aff.gov.au , and 
+include all required information as stipulated in Appendix A,  to be considered as submitted on 
+that day. Proponents must identify information in their notification or in any supporting 
+documents that they want treated as confidential and provide reasons for the request. The 
+department reserves the right to accept or refuse requests to treat information as confidential. 
+Confidential information may be released as required or authorised by law. 
+The Agriculture Minister and the department will also correspond via email to the proponent’s 
+nominated contact before midnight (12am Eastern Standard Time), as to be considered to have 
+been received on that day.  
+Proponents are encouraged to contact the department prior to submitting notifications to 
+ensure they meet the minimum requirements. All questions about the notification process can 
+be referred to the department’s Climate Policy Section. Please contact the Climate Policy Section 
+on 02 6272 3933 or email erfnotification@aff.gov.au . 
+For more information about project registration under the ACCU Scheme please contact the 
+Clean Energy Regulator on 1300 553 542 or email enquiries@cleanenergyregulator.gov.au.  
+Information required in a notification
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+4 
+There is no prescribed ‘application form’ required from a proponent, instead a notification is to 
+take the form of a written statement sent to the department via email 
+(ACCUnotification@aff.gov.au). 
+To make a valid notification the following information must be included: 
+1) The name, address and contact details of the proponent, including a designated email 
+address for the purposes of sending and receiving all correspondence relating to the 
+notification. 
+2) The address/es of the property/ies involved in the project. 
+3) A statement that outlines that the proponent is planning to either: 
+a) for a new project — seek the approval of a project to establish a new plantation 
+forest as an eligible offsets project; or 
+b) for an expansion project — seek an approval of a variation of an existing eligible 
+offsets project to add an area of land to the project area/s.  
+4) The maximum hectares of plantation to be included under the proposed project (please 
+note that your project will be deemed an ‘excluded offsets project’ by the Regulator if the 
+size of the project in your application exceeds the maximum size of the project stated in 
+your notification). 
+a) For a new project — set out the maximum project area size, in hectares, for all of 
+the proposed project area/s; or 
+b) For an expansion project — set out the maximum additional project area size, in 
+hectares, that will be added to the project area/s. 
+5) A geospatial map (preferably a shapefile) of the proposed ACCU Scheme project area/s at 
+an appropriate scale consistent with the CFI Mapping Guidelines | Clean Energy 
+Regulator.  
+6) A statement outlining the previous five years of agricultural land use history for the 
+project area, including the area, in hectares, of each land use type (including specific 
+commodity types e.g. names of crops and/or livestock). 
+7) A statement outlining the previous five years of agricultural production history of each 
+agricultural commodity produced by the project area. It is in the interest of the 
+proponent to include: 
+a) total production (actuals) by actual crop yields and stock numbers; or 
+b) where five years of production data is not available, a statutory declaration 
+setting out why an agricultural production history is unavailable.  
+In the absence of this data, averaged regional data will be used by the Australian Bureau 
+of Agricultural and Resource Economics and Sciences as a proxy for analysing the 
+significance of the agricultural production being removed.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+5 
+8) A statement outlining the project’s potential impact on agricultural production in the 
+region. Proponents should consider projected changes to the region’s agricultural 
+production as a result of the proposed project, as far as these relate to the 
+commodity/ies which were produced within the proposed project area/s. Consideration 
+should be given to: 
+a) Effects on regional agricultural industries, including potential reduced supply to 
+agricultural processors and agribusinesses. Where available, proponents should 
+provide the name and location of the processor related to the commodities 
+produced in the project area/s. 
+b) Bushfire, soil, weed and pest management impacts of the proposed project — the 
+project should not impact negatively on surrounding agricultural production 
+enterprises because absentee landlords are not (amongst other things) managing 
+bushfire risks, weeds, pests or erosion. 
+In relation to the project’s potential impact on agricultural production in the region, 
+‘region’ means the area of land, which is: 
+i.in the vicinity of the proposed project area; and 
+ii.may be subject to undesirable impacts on agricultural production as a result of 
+the proposed project going ahead. 
+In making an assessment, the Agriculture Minister may use Australian Bureau of 
+Statistics (ABS) Statistical Area Level 2 (SA2) and Level 4 (SA4) boundaries, or multiple 
+areas where required. 
+9) Any other information that the proponent deems to be relevant. 
+Please note that these guidelines only requires information that is listed in the Rule. However, as 
+this may be subject to change, it is suggested that proponents ensure that they have access to the 
+most recent version of the guidelines. 
+If a purported notification being lodged does not contain the information outlined above, it will 
+be considered to be incomplete and invalid. As a result, it will be taken never to have been made 
+and will not be assessed. The proponent will be contacted via their nominated email address to 
+inform them that a notification is invalid and cannot be assessed. 
+If a purported notification is found to be invalid, it is suggested that the proponent consider 
+withdrawing the project application if it has been submitted to the Regulator, as the project will 
+be an excluded offsets project. Proponents may submit a new application after submitting a valid 
+notification to the department in order to comply with this requirement, however this still does 
+not guarantee that the assessment will result in the project being an eligible offsets project.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+6 
+Notification and application consistency 
+The project that is the subject of a notification to the department must be largely the same as the 
+project in an application to the Regulator. That means the project outlined in the application, 
+including the area (size), location and activities must be consistent with, and no greater than, 
+that assessed by the Agriculture Minister. This means: 
+1) All of the proposed project area as set out in the application must be within the project 
+area set out in the notification.  
+2) The size of the proposed project area as set out in the application must not exceed the 
+maximum project area size set out in the notification. 
+a) This allows the project proponent to come forward with either an exact proposal 
+for a specific project area or a broader area of land on which they will establish 
+plantations — up to a particular size limit. For example, a project proponent 
+could identify 20,000 hectares in Queensland as potentially being part of a 
+project but specify that no more than 2,000 hectares of this area would be 
+converted into plantations. This would allow a project proponent to submit a 
+notification for an area before they had acquired the land to undertake the 
+project.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+7 
+2 Assessment process 
+Responsibility of assessing and processing notifications 
+The Agriculture Minister, with the support of the department, will be responsible for processing 
+and assessing notifications. Notifications will be processed in order of receipt, however where a 
+proponent submits more than one notification for a project, only the latest notification will be 
+assessed. 
+Assessment outcomes 
+One of two outcomes can arise from the assessment of a notification: the project either becomes 
+an excluded offset project or the project can proceed to be considered by the Regulator. If the 
+project proceeds to be considered by the Regulator, the project could be declared an eligible 
+offsets project by the Regulator if they are satisfied that all other relevant requirements have 
+been met. The proponent will receive notice about the status of their notification, regardless of 
+which outcome arises.  
+Excluded projects 
+Proposed projects will be excluded by the Agriculture Minister (i.e. become an excluded offset 
+project) if a written statement making an adverse impact finding is sent to the proponent and 
+the Regulator. An adverse impact finding is where the Agriculture Minister forms the opinion 
+that the proposed project would result in an undesirable impact on agricultural production in 
+the region where the project would be located. A proposed project would have an undesirable 
+impact if it would have an adverse or harmful impact on agricultural production in the region — 
+including but not limited to agricultural businesses and facilities, and agriculture related 
+businesses and facilities (e.g. agricultural product processors). 
+Unsuccessful proponents may submit a new notification.  
+The Agriculture Minister may overturn a past decision that resulted in a project becoming an 
+excluded offsets project, for instance if new information comes to light or circumstances change 
+in the region being assessed. The Agriculture Minister can only overturn adverse impact 
+findings. If a previous adverse impact finding statement is overturned the proponent can then 
+apply to the Regulator to approve the project. 
+Projects which can proceed to be assessed by the Regulator 
+In the absence of an adverse impact finding being made by the Agriculture Minister, the 
+proposed project as outlined in the application can proceed to be considered by the Regulator. It 
+may then be approved as an eligible offsets project by the Regulator if all other relevant scheme 
+requirements are met.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+8 
+Assessment considerations 
+The Agriculture Minister may broadly consider the following factors and the potential for them 
+to have undesirable impact on the region’s agricultural production, in forming an opinion about 
+whether to make an adverse impact finding: 
+1) The size of the proposed project area relative to the agricultural region and the 
+proportion of arable or pastoral land in the region to be impacted. 
+2) Types of commodities/industries to be impacted and their relative significance within 
+the region. The relative significance may be determined by considering, among other 
+factors, the size/value of commodities impacted by the proposed project as a proportion 
+of the region’s production. 
+3) Impacts on agricultural processors or agribusinesses in the region. 
+4) Impacts on infrastructure for the agricultural industry — for example, the capacity and 
+feasibility of existing infrastructure to support the proposed project and the rest of the 
+region’s agricultural industry. 
+5) Industry trends in the relevant region — for example, whether there are growing or 
+declining agricultural industries, or niche market products that will be impacted by the 
+project. 
+6) Recent land use changes. 
+7) Whether the proponent has considered bushfire, soil, weed and pest management for the 
+projects in place. 
+8) Other information on the region’s agricultural sector and potential impacts. 
+Assessment phases 
+There can be up to two phases of the assessment process. Firstly, a primary assessment of the 
+notification will be completed within 30 calendar days. Where the Agriculture Minister does not 
+intend to make an adverse impact finding (i.e. intend to exclude a project), the assessment 
+process finishes at this time. Where there is an intent to make an adverse impact finding, an 
+additional assessment is undertaken and will be finalised within a further 45 calendar days. 
+These assessment timeframes restart where a notification is submitted after being previously 
+withdrawn. 
+Figure 1 outlines the following assessment process.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+9 
+Primary assessment phase 
+There are two stages to the primary assessment phase. Firstly, the purported notification is 
+assessed upon lodgement to ensure that it contains the required information and is thus valid. 
+The timeframe for assessing the notification under Stage 1 begins on the day it was received if 
+the notification is found to be valid. Secondly, the Agriculture Minister will then assess the 
+notification under Stage 2, after which, one of two outcomes will occur: 
+1) If the Agriculture Minister intends to make an adverse impact finding (i.e. intends to exclude 
+the project), a written statement (the original written statement) will be sent by email to the 
+proponent within 30 calendar days, inviting a response within 20 calendar days. Where the 
+Agriculture Minister intends to make an adverse impact finding, proponents will enter an 
+additional assessment phase. 
+2) If the Agriculture Minister does not intend to make an adverse impact finding, the proponent 
+will be informed via email within 30 calendar days. The project as outlined in the application 
+can then proceed to be considered by the Regulator. The project may only be approved by 
+the Regulator after 30 calendar days has passed since the proponent submitted a 
+notification. 
+Additional assessment phase 
+This phase provides proponents an opportunity to provide a response within 20 calendar days 
+to the Agriculture Minister’s intent to make an adverse impact and to and have any response 
+considered by the Agriculture Minister, before a final decision is made (Stage 3).  
+Following the Agriculture Minister’s original written statement outlining an intention to make 
+an adverse impact finding, one of the following scenarios may occur: 
+1) Where a response is not received from the proponent within 20 calendar days of the 
+Agriculture Minister’s original written statement, another written statement will be sent 
+within 30 calendar days of the original written statement, stating that no response was 
+received. The project will become an excluded offsets project (Stage 4.1). 
+2) Where a response is received from the proponent, one of the following scenarios may 
+occur: 
+a. the Agriculture Minister will send another written statement making an adverse 
+impact finding within 45 calendar days of the Agriculture Minister sending the 
+original written statement; or 
+b. The department will inform the proponent that the Agriculture Minister has not 
+made an adverse impact finding and that the project can proceed to be 
+considered by the Regulator. The project may only be approved by the Regulator 
+after 45 calendar days have passed since the Agriculture Minister sent the 
+original written statement (Stage 4.2 – Scenario 2).  
+An acknowledgement of receipt of the original written statement that does not address the 
+issues raised by the Agriculture Minister will not be considered a ‘response’.  
+These assessment phases are described in more detail at Appendix B.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+10 
+Figure 1 Notification assessment process  
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+11 
+3 Enquiries  
+All questions about the notification process can be referred to the department’s Climate Policy 
+Section. The Climate Policy Section can be contacted on 02 6272 3933 or via email at  
+erfnotification@aff.gov.au . 
+More information about project registrations under the ACCU Scheme can be obtained from the 
+Regulator on 1300 553 542 or via email enquiries@cleanenergyregulator.gov.au.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+12 
+4 Relevant considerations for 
+proponents 
+Material inaccuracies 
+Any misunderstanding arising from a proponent’s failure to comply with the guidelines or 
+arising from material inaccuracies in a notification is the responsibility of the proponent. It is the 
+proponent’s responsibility to understand the guidelines and requirements to submit a valid 
+notification.  
+Withdrawal of notifications 
+A proponent may withdraw their notification at any point prior to a final decision being made, 
+via a written statement sent by email to ACCUnotification@aff.gov.au 
+False and misleading information 
+All information submitted must be complete, current and accurate at the time of notification. It is 
+a criminal offence under the Criminal Code Act 1995 to knowingly give false or misleading 
+information to a Commonwealth officer exercising powers under Commonwealth law. 
+Furthermore, if the information submitted by a proponent is false or misleading the Regulator 
+retains the right to refuse to declare a project an ‘eligible offsets project’, or revoke a declaration 
+made in relation to an eligible offsets project. The Regulator also retains the right to seek the 
+relinquishment of ACCUs where false or misleading information has been provided. 
+Appeals 
+Proponents are provided with an opportunity to respond to the Agriculture Minister’s written 
+statement of intent to exclude a project. Proponents may take this opportunity to provide 
+further information to support their notification before a final decision is made.  
+The Agriculture Minister’s final decision is not subject to merits review by the Administrative 
+Appeals Tribunal.  
+Unsuccessful proponents may submit a new notification.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+13 
+5 Handling of information 
+All documents held by the department, including those relating to notifications, are subject to 
+documents held by the department unless a document is exempt (for example, a document may 
+be exempt if disclosure of the document would amount to an unreasonable disclosure of 
+personal or business information). Where a request is made under the FOI Act, access to 
+information, including personal information, will be determined in accordance with the 
+provisions of that Act. 
+Confidential information 
+The confidentiality of the assessment process will be protected, and steps will be taken by the 
+department throughout the assessment process to ensure actual or perceived conflicts of 
+interest are declared and addressed. Proponents must identify information in their notifications 
+or in any supporting documents that they want treated as confidential and provide reasons for 
+the request. The department reserves the right to accept or refuse requests to treat information 
+as confidential. Confidential information may be released as required or authorised by law. 
+Privacy notice  
+Personal information is defined in the Privacy Act 1988 and includes information about an 
+identified individual, or an individual who is reasonably identifiable. 
+enquiry about the requirements of a Plantation Forestry Notification, you do not have to give 
+your name. 
+If you intend to apply for a project under the ACCU Scheme Plantation Forestry method, you are 
+required to submit a notification by email to the department and you will need to identify 
+yourself. Information required in the notification is described at Appendix A 
+The collection of your personal information is required by the Carbon Credits (Carbon Farming 
+Initiative) Rule 2015.The department collects this information to assess and make a decision on 
+your notification, as to whether it should be an excluded offsets project. If you fail to provide 
+some or all of the personal information required in the notification, it will be considered invalid.  
+The department may disclose information related to your notification to the Regulator for the 
+purposes of the assessment of your application for registration under the Plantation Forestry 
+Method, as there is a requirement that the project considered by the Agriculture Minister (as 
+outlined in a notification) must be essentially the same project considered by the Regulator (as 
+outlined in an application).  
+The department may also disclose your personal information from your notification to other 
+purposes, provided the disclosure is consistent with the Privacy Act and other relevant laws. 
+Your personal information will be used and stored in accordance with the Australian Privacy 
+Principles.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+14 
+If essential information to a proponent’s notification contains third party personal information, 
+it will be necessary for the proponent to gain consent of the third party to send their information 
+to the department, or remove all reference to a third party’s personal information. 
+For more information about accessing or correcting your personal information or making a 
+02 6272 3933.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+15 
+Glossary 
+Some of the terms below are defined in Section 20B(8) of the Rule and those definitions are the 
+authority for the purpose of these guidelines. However, in some instances the definitions in 
+these guidelines provide further information or clarification. 
+Term 
+Definition 
+Adverse impact finding 
+Where the Agriculture Minister forms the opinion that 
+the proposed new or expanded ACCU project would 
+result in an undesirable impact on agricultural 
+production in the region where the project would be 
+located, an adverse impact finding will be made. 
+Please refer to the related definitions of ‘undesirable 
+impacts’ and ‘region’. 
+Agriculture Minister 
+The Minister responsible for assessing ACCU Scheme 
+Plantation notifications, is the Minister responsible for 
+their delegate.  
+Section 20B (8) of the Rule, defines ‘Agriculture 
+Minister’ as:  
+(a) 
+the Minister administering the Agricultural and 
+Veterinary Chemicals Act 1994; or 
+(b) 
+an SES employee, or acting SES employee, 
+delegated responsibilities relating to this section by the 
+Minister covered by paragraph (a).  
+In this document references to ‘Agriculture Minister’ can 
+mean a delegate from the department, consistent with 
+paragraph (b) above. 
+Carbon sequestration 
+The general term used for the capture and storage of 
+carbon dioxide. Capture can occur at the point of 
+emission (e.g. from power plants) or through natural 
+processes (such as photosynthesis), which remove 
+carbon dioxide from the earth's atmosphere and which 
+can be enhanced by appropriate management practices. 
+Sequestration techniques include enhancing the storage 
+of carbon in forests and other vegetation.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+16 
+ACCU Scheme Plantation project 
+application (the application) 
+An application to the Regulator relating to the process of 
+declaring a project as an eligible offsets project such 
+that it is eligible to receive Australian Carbon Credit 
+Units (ACCUs) for the emission abatement achieved as 
+part of the project. 
+For more information about the application process you 
+can refer to the Regulator’s website. 
+ACCU Scheme Plantation 
+notification (the notification) 
+A notification which is the basis for the Agriculture 
+Minister forming an opinion about whether a proposed 
+new or expanded ACCU Scheme project would result in 
+an undesirable impact on agricultural production in the 
+region where the project would be located. The Rule 
+defines these as either a new ACCU Scheme plantation 
+notification or an ACCU Scheme plantation expansion 
+notification. 
+A notification is not a prescribed ‘application form’, it is 
+a written statement that contains the information 
+required by the Rule and these guidelines. 
+Each notification will be treated and assessed as a single 
+project regardless of the number of project areas 
+included. 
+The Rule and these guidelines set out what is required 
+in a notification. ACCU Scheme Plantation notification is 
+a defined term in section 20B (8) of the Rule. 
+Methodology determination 
+Under the  ACCU Scheme eligible emissions reduction 
+activities are defined in methodology determinations. 
+Methodology determinations are legislative instruments 
+setting out the rules for calculating abatement from 
+project activities. These methodology determinations 
+ensure that emissions reductions are genuine – that 
+they are both real and additional to business as usual 
+operations. Methodology determinations are often 
+referred to as ‘methods’. 
+Offsets project 
+Activities under the ACCU Scheme are undertaken as 
+offsets projects including; sequestration offsets projects; 
+or emissions avoidance offsets projects. An offsets 
+project must be covered by, and undertaken in 
+accordance with, a methodology determination.  
+‘Offsets project’ is a term defined in section 5 of the Act.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+17 
+Personal information 
+‘Personal information’, as defined in the Privacy Act 
+1988 (the Privacy Act), means any information or 
+opinion about an identified individual or an individual 
+who is reasonably identifiable, whether the information 
+or opinion is true or not, and whether the information 
+or opinion is recorded in material form or not. 
+Plantation forest 
+A plantation established by planting or seeding for the 
+harvest of forest products. A forest product can include 
+but is not limited to: sawn products; paper-based 
+products; biomass for bioenergy production; and 
+essential oils. 
+The Rule sets out the legal definition of a ‘Plantation 
+forest’ in relation to notifications. 
+Project area/s 
+An area of land on which the project has been, is being, 
+or is to be, carried out. 
+A project area/s could be one of the following: 
+1) a precise area on which the project area is to be 
+located or; 
+2) the boundaries of an area in which the proponent is 
+looking to define a smaller project area. 
+Applicants do not need to have acquired the land in the 
+proposed project area before making a notification. 
+However, it would be expected that the proponent has 
+the legal right to carry out the project before applying to 
+the Regulator. 
+‘Project area/s’ is a term defined in section 5 of the Act. 
+Purported notification 
+An unverified notification — i.e. one that has not been 
+assessed by the department to ensure that the required 
+information has been provided. A ‘notification’ is not a 
+notification until it is assessed, to ensure that it is 
+complete — i.e. contains the required information.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+18 
+Region 
+The area of land, which is in the vicinity of the proposed 
+project area, which may be subject to undesirable 
+impacts on agricultural production as a result of the 
+proposed project going ahead. 
+In making an assessment, the Agriculture Minister may 
+use Australian Bureau of Statistics (ABS) Statistical Area 
+Level 2 (SA2) and Level 4 (SA4) boundaries, or multiple 
+areas where required. 
+Undesirable impacts 
+An undesirable impact on agricultural production in the 
+region is where the proposed project would have an 
+adverse or harmful impact on agricultural production in 
+the region — including but not limited to agricultural 
+businesses and facilities, and agriculture related 
+businesses and facilities (e.g. agricultural product 
+processors). 
+The Agriculture Minister may broadly consider the 
+following factors in forming an opinion about whether a 
+project will have an undesirable impact: 
+• 
+The size of the proposed project area relative to 
+the agricultural region and the proportion of 
+arable or pastoral land in the region to be 
+impacted. 
+• 
+Type of commodities/industries to be impacted 
+and their relative significance within the region.  
+• 
+Impact on agricultural processors or 
+agribusinesses in the region, which may then 
+have a detrimental effect on the region’s 
+agricultural production. 
+• 
+Impact on infrastructure for the agricultural 
+industry. 
+• 
+Industry trends in the region. 
+• 
+Recent land use changes. 
+• 
+Whether the proponent has considered bushfire, 
+soil, weed and pest management for the project. 
+• 
+Other information on the region’s agricultural 
+sector and potential impacts.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+19 
+Appendix A – requirements of the Rule: 
+proponent’s checklist 
+Proponents considering a project involving the establishment of a new plantation forest, or an 
+expanded plantation forest must meet the following requirements. If the following requirements 
+(among others – please refer to the ACCU project application process undertaken by the 
+Regulator) are not met, the proposed project will be deemed to be an excluded offsets project. It 
+is encouraged that proponents use this checklist in preparing and reviewing a notification prior 
+to submission.  
+ 
+For each proposed new plantation forestry project or expansion project, a notification 
+must be submitted in the period beginning 18 months prior to the date of an application to the 
+Regulator and ending on the day of that application.  
+ 
+a notification by email (erfnotification@aff.gov.au ) to the department. 
+ 
+an application to the Regulator, which is accompanied by a notification which 
+relates to the application; and any information sent in connection with that 
+notification. 
+ 
+notification contains the required information, as follows: 
+ 
+the name, address and contact details of the proponent, including a designated 
+email address for receipt of all correspondence relating to the notification.  
+ 
+the address/es of the property/ies involved in the project. 
+ 
+a statement that outlines that the proponent is planning to either: vary the 
+declaration of an existing eligible offsets project to add an area of land to the 
+project area for the project; or seek the declaration of a project to establish a new 
+plantation forest as an eligible offsets project. 
+ 
+the maximum area in hectares, of plantation to be included under the proposed 
+project.  
+ 
+a geospatial map of the proposed ERF project area/s at an appropriate scale 
+consistent with the CFI Mapping Guidelines | Clean Energy Regulator. 
+ 
+a statement outlining the previous five years of agricultural land use history 
+within the project area, including the area, in hectares, of each land use type. 
+ 
+a statement outlining the previous five years of agricultural production history of 
+agricultural commodities within the project area, including the area, in hectares, 
+of each commodity OR 
+ 
+a statutory declaration proving an inability to provide production history, 
+where five years of production data is not available.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+20 
+ 
+a statement outlining the project’s potential impact on agricultural production in 
+the region, that considers: 
+ 
+projected changes in the region’s agricultural production as a 
+result of the proposed project, including: 
+ 
+effects on the regional agricultural industry such as 
+potential reduced supply to agricultural processors and 
+agribusinesses. 
+ 
+bushfire, soil, weed and pest management. 
+ 
+any other information deemed to be relevant by the 
+proponent. 
+ 
+The project considered by the Agriculture Minister (as outlined in a notification) must be 
+largely the same as the project considered by the Regulator (as outlined in an 
+application). In doing, so the following requirements have been met:  
+ 
+all of the proposed project area for the project (as set out in the application) is 
+within the potential project area set out in the notification. 
+ 
+the size of the proposed project area (as set out in the application) does not 
+exceed the maximum project area size set out in the notification.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+21 
+Appendix B — the assessment process: 
+step-by-step 
+Stage 1 –Submitting and assessing a purported notification 
+The proponent must send their purported notification to the department via email 
+(erfnotification@aff.gov.au ). A purported notification can be submitted on the same day or in 
+the period beginning 18 months prior to the date of making an application to the Regulator. The 
+proponent’s nominated contact will receive confirmation of receipt of the notification. All 
+correspondence must be submitted via email to eliminate the possibility of exceeding legislated 
+timeframes as a result of postal delays.  
+Following the proponent’s submission of the purported notification, an assessment of the 
+information provided will be undertaken to ensure it is complete. If the purported notification 
+contains the required information, it is considered valid and will proceed to stage 2 to be 
+assessed. If the purported notification does not contain the required information, the 
+notification is taken to have never been made and the assessment process will not begin. The 
+department will notify the proponent as to whether the purported notification is valid. If a 
+purported notification is not valid the department will also outline what information is missing. 
+Proponents are encouraged to contact the department prior to submitting a notification, in order 
+to discuss requirements so that they can avoid submitting an invalid notification. 
+In circumstances where a purported notification is found to be incomplete, proponents may 
+need to withdraw an application made to the Regulator to ensure it is consistent with the 
+timeframes mentioned above. A new project application may need to be submitted with a 
+complete notification.  
+Stage 2 – Primary assessment: initial findings (within 30 
+calendar days of notification being lodged) 
+The timeframe for assessing the notification in stage 2 begins on the day that the complete 
+notification was initially lodged. Within 30 calendar days, one of the following scenarios will 
+occur: 
+1) the Agriculture Minister, will send a written statement (the original written statement) 
+via email to the proponent stating that the Agriculture Minister intends to make an 
+adverse impact finding. This is where the Agriculture Minister forms a preliminary view 
+that the project will lead to an undesirable impact on agricultural production; or 
+2) the department will provide notice (via email) that the Agriculture Minister does not 
+intend to make an adverse impact finding and the project as outlined in the application 
+can proceed to be considered by the Regulator. It is noted that the project may only be 
+approved by the Regulator after 30 calendar days has passed since the proponent 
+submitted a notification.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+22 
+Stage 3 – Additional assessment: proponent response period 
+(within 20 calendar days of the Agriculture Minister 
+providing the original written statement) 
+Where the proponent receives a written statement from the Agriculture Minister stating that the 
+Agriculture Minister intends to make an adverse impact finding, the proponent has the 
+opportunity, within 20 calendar days, to send a response to the department via email 
+(erfnotification@aff.gov.au )with further information. An acknowledgement of receipt of the 
+original written statement that does not address the issues raised by the Agriculture Minister 
+will not be considered a ‘response’. The nominated contact will receive confirmation of receipt of 
+the response, if provided.  
+Stage 4.1 — Additional assessment: Scenario 1: proponent’s 
+response not provided (within 30 calendar days of 
+Agriculture Minister providing the original written 
+statement) 
+Where the proponent does not provide their response within 20 calendar days of the original 
+written statement, the Agriculture Minister will send a written statement to the proponent 
+within 30 calendar days of that statement, stating that no response was received and that the 
+project will be an ‘excluded offsets project’.  
+Stage 4.2 — Additional assessment: Scenario 2: response 
+provided (within 45 calendar days of Agriculture 
+Minister providing original written statement) 
+Where a response is provided within 20 calendar days of the original written statement, a final 
+decision will be provided to the proponent within 45 calendar days of sending the original 
+written statement. On the basis of the information provided by the proponent, one of the 
+following scenarios will occur: 
+1) The Agriculture Minister will send a written statement (via email) to the proponent 
+outlining the Agriculture Minister’s decision to make an adverse impact finding. This is 
+because the Agriculture Minister is of the opinion that the project will have an 
+undesirable impact on agricultural production; or 
+2) The department will provide notice (via email) to the proponent outlining that the 
+Agriculture Minister does not intend to make an adverse impact finding, and that the 
+project can proceed to be considered by the Regulator. The project may only be 
+approved by the Regulator after 45 calendar days have passed since the Agriculture 
+Minister sent the original written statement.
+
+Australian Carbon Credit Units Scheme Plantation Forestry Notification Guidelines: Guidance for proponents 
+23 
+Example assessment process 
+The following example outlines the assessment process as outlined above. 
+A proponent wants to start a new plantation forestry project. First, they prepare a notification 
+which includes a geospatial map of the potential project area, the maximum additional project 
+area size, in hectares, a statement of any potential impacts of carrying out the project in the 
+project area on agricultural production in the region, and information required by the guidelines 
+and Water Resources’ website. They send the purported notification to the department via email 
+(erfnotification@aff.gov.au ). The purported notification nominates an email address for the 
+receipt of all correspondence. 
+Upon receipt of the purported notification, the department confirms receipt of the notification 
+and proceeds to assess whether the required information has been provided. As the purported 
+notification includes all of the required information, the nominated contact receives notice that 
+the notification will be assessed. 
+Within 30 calendar days, the Agriculture Minister writes to the proponent to notify them of their 
+intention to make a finding that the project would have an undesirable impact on agricultural 
+production in the region. The Agriculture Minister invites the proponent to submit a written 
+response within 20 calendar days to the designated departmental email account.  
+Within 20 calendar days, the proponent submits a written response providing further 
+information in relation to the proposed project and its potential impact on agricultural 
+production in the region.  
+The proponent needs to wait for up to a further 25 calendar days (45 calendar days since the 
+original written statement was sent) for any written advice on whether the Agriculture Minister 
+has found the project would have an adverse impact on agricultural production in the region. As 
+the proponent does not receive a written statement from the Agriculture Minister after 45 
+calendar days the project can proceed to be assessed by the Regulator, and could be approved by 
+the Regulator if all other scheme requirements are met.

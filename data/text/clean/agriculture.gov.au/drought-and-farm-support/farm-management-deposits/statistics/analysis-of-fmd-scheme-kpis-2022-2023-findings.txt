@@ -1,0 +1,49 @@
+As part of ongoing monitoring and evaluation activities, the department developed revised key 
+performance indicators (KPIs) for the Farm Management Deposits (FMD) Scheme following the 2021 
+Long term, stable rolling averages or increases in number of FMD accounts and total FMD 
+A ratio that shows a positive relationship, at an industry level, between changes in farm cash 
+‘Industry level’ refers to industries for which ABARES collects farm cash income data for (beef, sheep, 
+The first KPI measures stability or growth in scheme uptake over time. Confirmation of stability or 
+growth shows the scheme provides the agriculture sector with an effective financial buffer and an 
+increased ability for primary producers to manage risks. A 10-year rolling average is used in the 
+The second KPI demonstrates that primary producers are using the scheme to suit their individual 
+circumstances to manage financial risk and enhance their financial capacity. The ratio is calculated by 
+dividing the percentage change in annual net FMD holdings by the percentage change in average 
+farm cash income (FCI). The net change is calculated on the difference between 1 July and 30 June. 
+At 30 June 2023, the 10-year rolling average of accounts remained stable, increasing by 0.1% to 
+50,047. The 10-year rolling average of FMD account holdings increased in real terms by 3.5% to 
+$6.84 billion, coinciding with continued strong seasonal conditions and farm performance across 
+Note: The number of accounts does not indicate the number of primary producers participating in 
+the FMD Scheme as a primary producer may hold multiple FMD accounts with different authorised 
+
+Analysis of Farm Management Deposits Scheme key performance indicators: 2022–23 findings  
+Figure 1: 10-year rolling average of FMD account holdings (real terms) and number of FMD 
+Note: Dollar values are presented in real terms (adjusted to 2022–23 values). Adjusting to real terms removes the effect of 
+inflation and allows financial values across different time periods to be compared in like terms. ABARES adjusts for inflation 
+Sources: Australian Agricultural and Grazing Industries Survey and Australian Dairy Industry Survey, and DAFF FMD statistics
+
+Analysis of Farm Management Deposits Scheme key performance indicators: 2022–23 findings  
+For 2022–23, a positive relationship between changes in farm cash income (FCI) and FMD holdings 
+was observed for each assessed industry (Table 1). FCI decreased in 5 of the 7 industries. This 
+coincided with a decrease in FMD holdings. FCI increased for two industries (cropping and dairy), 
+Table 1: Ratio of annual percentage change in FMD holdings to annual percentage change 
+a Cropping is reported as ‘grain’ in monthly FMD statistics b Mixed livestock and cropping is reported as ‘grain-sheep/beef’ 
+in monthly FMD statistics. c Broadacre comprises: beef, sheep, cropping, sheep-beef, and mixed livestock and cropping.  
+Sources: Australian Agricultural and Grazing Industries Survey and Australian Dairy Industry Survey, and DAFF FMD statistics 
+In addition, ABARES used a log-log linear regression model to test that the relationship between FCI 
+and FMDs holds over time and is statistically significant. ABARES conducted a log-log linear 
+regression on data for broadacre, cropping, mixed livestock and cropping, beef, sheep, and sheep-
+beef from 2002. A log-log linear regression is a statistical method that finds the relationships 
+between a dependent variable and one or more independent variables. The inputs to the linear 
+regression model were the dependent variable (value of FMD holdings) and the independent variable 
+(value of FCI), by industry. The FCI data for these industries are sourced from Australian Agricultural 
+and Grazing Industries Survey and Australian Dairy Industry Survey, which are run annually by 
+ABARES. The value of FMD holdings was sourced from monthly data provided to DAFF by ADIs. 
+The results from the model show evidence that a positive, long-term relationship exists at the 
+industry level, excluding dairy, between FMD holdings and FCI. Previous ABARES analysis highlighted 
+that individuals use FMDs to suit their particular circumstances, with usage varying by industry, 
+location and farm size. Dairy producers typically experience more consistent cashflow than 
+Australia (referred to as the Commonwealth). All material in this publication is licensed under a Creative Commons Attribution 4.0 
+International Licence except content supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Forestry, its employees and advisers disclaim all liability, including liability for negligence and for any loss, damage, injury, expense or cost 
+incurred by any person as a result of accessing, using or relying on any of the information or data in this publication to the maximum extent

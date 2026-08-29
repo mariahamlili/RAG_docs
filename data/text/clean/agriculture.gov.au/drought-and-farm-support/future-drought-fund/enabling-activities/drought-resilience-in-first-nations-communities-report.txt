@@ -1,0 +1,1975 @@
+Terri Janke and Company Pty Ltd 
+Lawyers and Consultants  
+PO Box 780 Rosebery NSW 1445 
+T |  02 9693 2577 
+Our Knowledge: Your Future 
+and the Environment 
+DROUGHT RESILIENCE AND INNOVATION IN 
+RURAL AND REMOTE FIRST NATIONS 
+COMMUNITIES 
+GAPS, BARRIERS, AND OPPORTUNITIES  
+FINAL REPORT 
+   Report prepared by Terri Janke & Company Pty Ltd.
+
+2 
+Terri Janke and Company acknowledge the First 
+Nations people of Australia as the traditional 
+custodians of the lands and waters on which we 
+live and work, and everywhere in Australia. We 
+offer our respect to the Elders of this Country and 
+extend that respect to First Nations Elders past, 
+present and emerging. 
+Acknowledgments 
+This report was prepared by Dr Terri Janke and Laura Melrose of Terri Janke and Company. 
+Support and guidance during consultation was provided by Clara Klemski and Anika Valenti. 
+Language 
+First Nations peoples may refer to themselves and be referred to by others in a variety of 
+ways, including as Aboriginal and Torres Strait Islander people; Indigenous people; 
+collectively as First Nations, First or Indigenous Australians or Australia’s First Peoples; and 
+individually according to language or geo-cultural community groups.  
+This document prefers the term First Nations peoples, though terms will be used 
+interchangeably throughout. When working with specific communities or language groups, it 
+is advisable to seek guidance from those in authority about the respectful and appropriate 
+language protocols. 
+Cultural notice 
+First Nations readers should be aware that this document may contain the names of 
+deceased Aboriginal and Torres Strait Islander peoples.
+
+3 
+Contents 
+Executive Summary .............................................................................................................. 4 
+1 
+Introduction .................................................................................................................... 5 
+1.1 
+Background............................................................................................................. 5 
+1.2 
+Indigenous Cultural and Intellectual Property .......................................................... 6 
+1.3 
+Integrating Indigenous knowledge ......................................................................... 11 
+2 
+First Nations Innovation and RDEA&C ......................................................................... 12 
+2.1 
+What is RDEA&C? ................................................................................................ 12 
+2.2 
+How do rural and remote First Nations communities currently use RDEA&C? ...... 12 
+2.3 
+Integrating and expanding Indigenous knowledge ................................................ 21 
+3 
+Indigenous Business in Remote Australia .................................................................... 21 
+3.1 
+Background........................................................................................................... 21 
+3.2 
+Demographics ....................................................................................................... 22 
+3.3 
+Indigenous entrepreneurship ................................................................................ 25 
+3.4 
+Existing entities in remote Australia ...................................................................... 26 
+3.5 
+Factors for success in First Nations business ....................................................... 26 
+4 
+Barriers to Innovation in Remote Australia ................................................................... 27 
+4.1 
+Education .............................................................................................................. 27 
+4.2 
+Trust ..................................................................................................................... 29 
+4.3 
+Land and waters ................................................................................................... 30 
+4.4 
+Resourcing ........................................................................................................... 31 
+4.5 
+Governance and structure ..................................................................................... 33 
+4.6 
+Community wellbeing ............................................................................................ 35 
+5 
+Summary of Opportunities and Recommendations ...................................................... 36 
+6 
+Appendices .................................................................................................................. 38 
+6.1 
+Methodology ......................................................................................................... 38 
+6.2 
+Literature Review .................................................................................................. 38 
+6.3 
+Acronyms and initials ............................................................................................ 43
+
+4 
+EXECUTIVE SUMMARY 
+First Nations people and communities have unique and interconnected ways of doing, being 
+and knowing. Underpinning everything is an understanding of the connections between 
+people, culture and Country. Indigenous heritage links to the past but is also a vibrant, 
+dynamic and living cultural practice. Any works, projects or partnerships involving First 
+Nations people and culture requires respect and understanding of the holistic and all-
+encompassing nature of Aboriginal and Torres Strait Islander cultures.  
+Indigenous Cultural and Intellectual Property, or ICIP, is a concept and a mechanism for 
+understanding, recognising and protecting cultural values. ICIP may often be referred to as 
+traditional knowledge or Indigenous knowledge, though really it encompasses much more 
+than this. ICIP refers to all aspects and elements of Indigenous peoples’ cultural heritage, 
+and the rights that Indigenous people hold in relation to that cultural heritage. The role of 
+ICIP is crucial to an analysis of the gaps, opportunities and barriers to Indigenous business 
+and innovation in remote and regional communities. 
+First Nations peoples are concentrated in rural and remote regions of Australia. According to 
+the Australian Bureau of Statistics, 38.9% of Indigenous people live in regional and remote 
+areas of Australia, compared to 9.5% of the non-Indigenous population.1  
+Indigenous business in Australia is a growing sector. Many successful businesses have 
+been started and expanded by First Nations people in remote and rural areas of Australia, 
+often focusing on bringing economic development and opportunity to their communities. 
+Factors in successful Indigenous businesses include community control, strong cultural 
+connections, local employment, good governance, flexibility, and access to funding. 
+Indigenous people and communities are demonstrating innovation in a wide variety of 
+sectors. Community groups and First Nations organisations are working in research and 
+development (R&D) and taking advantage of commercial opportunities to bring economic 
+benefit and socio-cultural advancement to their local areas, and wider communities. Some 
+areas in which this innovation has occurred include cultural fire, land and sea country 
+management, native nurseries and horticulture, the bushfoods and bush medicine industry, 
+education, technology, language, arts, health, and renewable energies.  
+Despite these examples of innovation, First Nations people in business face considerable 
+adversity in remote and rural communities. These include impacts of past economic 
+marginalisation and policies to restrict Indigenous wealth and economic growth 
+opportunities, as well as the ongoing impact of poor education, employment and health 
+outcomes, and higher rates of incarceration. Barriers to Indigenous innovation include lack of 
+education, skills and training, limited inter-cultural competency and literacy, lack of trust in 
+non-Indigenous partners and projects, restrictions associated with funding sources, low 
+visibility impacting resource availability, limited access to services and technology, poor 
+corporate governance, and impacts associated with low community wellbeing and social 
+disadvantage.  
+Improvement in this sector requires increased access to funding, facilitating knowledge 
+sharing and capacity building, support to access services and develop skills on Country and 
+1 Australian Bureau of Statistics, Estimates of Aboriginal and Torres Strait Islander Australians, June 
+2016 Census (online, released 31 August 2018) https://www.abs.gov.au/statistics/people/aboriginal-
+and-torres-strait-islander-peoples/estimates-aboriginal-and-torres-strait-islander-australians/jun-2016.
+
+5 
+in community, extension of existing technologies and innovative industry practices to remote 
+communities, and recognising the value and importance of strong cultural connections and 
+community wellbeing not only for social goals, but also organisational and commercial ones. 
+1 INTRODUCTION  
+1.1 Background 
+The Future Drought Fund (FDF) provides secure, continuous funding for drought resilience 
+initiatives. $100 million from this $5 billion dollar fund is made available each year to help 
+Australian farms and communities prepare for the impacts of drought.  
+The department’s FDF Drought Resilience Research and Adoption Program routinely 
+assesses National Drought Resilience Research and Adoption priorities. This helps ensure 
+future drought resilience research, development, extension, adoption, and commercialisation 
+(RDEA&C) activities stay focused on national priorities and the needs of primary producers 
+and rural and remote communities.  
+Terri Janke and Company (TJC) is a 100% Indigenous owned and run firm of lawyers and 
+consultants, with expertise in Indigenous engagement and Indigenous Cultural and 
+Intellectual Property (ICIP). The firm is led by Dr Terri Janke (Solicitor Director), a 
+Wuthathi/Meriam woman and multiple award-winning international expert in protection of 
+Indigenous knowledge and ICIP. 
+TJC brings a First Nations-led lens and perspective to the work of the FDF and has been 
+engaged by the department to deliver a desktop research project to identify gaps, barriers 
+and opportunities for drought innovation activities in rural and remote Indigenous 
+communities. This report discusses the research outcomes and analysis through the lens of 
+best practice engagement with First Nations peoples, including the role of ICIP in Indigenous 
+innovation and commercialisation, which a particular focus on rural and remote communities. 
+The sections of the report include: 
+1. Introduction – a background of the project, and introduction to ICIP and the existing 
+laws and protection frameworks in Australia; 
+2. Indigenous Business in Remote Australia – a characterisation of Indigenous 
+corporations and organisations in rural and remote communities, including a 
+discussion of factors of success; 
+3. First Nations Innovation and RDEA&C – consideration of some examples and 
+sectors where rural and remote Indigenous communities currently use RDEA&C, 
+including case study examples; 
+4. Barriers to Innovation in Remote Australia – a breakdown of identified barriers to 
+innovation in rural and remote communities, including associated opportunities for 
+improvement and mitigation;  
+5. Summary of Opportunities and Recommendations 
+6. Literature Review
+
+6 
+1.2 Indigenous Cultural and Intellectual Property 
+All engagement with Aboriginal and Torres Strait Islander people requires understanding of 
+and respect for Indigenous Cultural and Intellectual Property, or ICIP. ICIP may often be 
+referred to as traditional knowledge or Indigenous knowledge, though really it encompasses 
+much more than this. ICIP plays a pivotal role in Indigenous innovative capacities. 
+1.2.1 What is ICIP? 
+ICIP refers to all aspects and elements of Indigenous peoples’ cultural heritage, and the 
+rights that Indigenous people hold in relation to that cultural heritage. In terminology, ‘ICIP’ is 
+often used interchangeably with ‘cultural heritage’ and vice versa.  
+ICIP includes:  
+• 
+Traditional knowledge (TK) (including scientific, agricultural, technical and ecological 
+knowledge, ritual knowledge),  
+• 
+Traditional cultural expressions (TCEs) (including stories, artworks, designs and 
+symbols, literature and language), 
+• 
+Performances (ceremonies, dance and song),  
+• 
+Cultural objects (including, but not limited to arts, crafts, ceramics, jewellery, 
+weapons, tools, visual arts, photographs, textiles, contemporary art practices),  
+• 
+Ancestral remains (human remains and tissues), 
+• 
+Cultural environment resources (including minerals and species), 
+• 
+Secret and sacred material and information (including sacred/historically significant 
+sites and burial grounds), and 
+• 
+Documentation of Aboriginal and Torres Strait Islander peoples’ heritage in all forms 
+of media such as films, photographs, artistic works, books, reports and records taken 
+by others, sound recordings and digital databases.2 
+ICIP incorporates both tangible (sites, objects) and intangible (knowledge, oral stories, 
+performances) elements. 
+Understanding ICIP requires respect for cultural protocols around knowledge holding, 
+cultural authority, permissions, and communal ownership. Aboriginal and Torres Strait 
+Islander heritage is a dynamic, living heritage that is handed down from generation to 
+generation, which means that modern and emerging knowledges that have been developed 
+by Indigenous people based on history and culture can also be classified as ICIP. 
+ICIP is captured under Article 31 of United Nations Declaration on the Rights of Indigenous 
+Peoples (UNDRIP): 
+Indigenous peoples have the right to maintain, control, protect and develop 
+their cultural heritage, traditional knowledge and traditional cultural 
+expressions, as well as the manifestations of their sciences, technologies 
+and cultures, including human and genetic resources, seeds, medicines, 
+knowledge of the properties of fauna and flora, oral traditions, literatures, 
+2 Terri Janke, Our Culture: Our Future – Report on Australian Indigenous Cultural and Intellectual 
+Property Rights (Report prepared for Aboriginal and Torres Strait Islander Commission and the 
+Australian Institute of Aboriginal and Torres Strait Islander Studies, 1998).
+
+7 
+designs, sports and traditional games and visual and performing arts. They 
+also have the right to maintain, control, protect and develop their 
+intellectual property over such cultural heritage, traditional knowledge, 
+and traditional cultural expressions.3  
+Under the UNDRIP, Aboriginal and Torres Strait Islander people have the rights to:4  
+• 
+own, control, maintain and expand their ICIP;  
+• 
+ensure that any means of protecting ICIP is based on the principle of self-
+determination; 
+• 
+be recognised as the primary guardians and interpreters of their cultures;  
+• 
+authorise or refuse to authorise the commercial use of ICIP according to Indigenous 
+customary laws;  
+• 
+maintain the secrecy of Indigenous knowledge and other cultural practices;  
+• 
+guard the cultural integrity of their ICIP; 
+• 
+be given full and proper attribution for sharing their cultural heritage; and  
+• 
+control the recording of cultural customs and expressions and the particular language 
+which may be intrinsic to cultural identity, knowledge, skill and teaching of culture. 
+1.2.2 Intellectual property laws 
+ICIP rights are enshrined in the United Nations Declaration on the Rights of Indigenous 
+Peoples, but they are not currently protected under law in Australia. Best practice requires 
+that ICIP be considered and respected in a similar way to intellectual property (IP) rights 
+Legally, ICIP can be protected under Australian IP laws where it meets the requirements for 
+protection. 
+sound recordings, broadcasts and published editions. It is a requirement that the work be 
+protects the work for 70 years after the death of the creator. Generally, the owner of 
+painted, sculpted, etched, photographed, produced or otherwise recorded the work), unless 
+them being not recorded in material form (i.e. dance, songlines, traditional knowledge) or 
+beyond the time period of protection (i.e. ancient rock art). 
+1. Be attributed as the creator of the work,  
+2. Stop someone else from being credited as the creator, and  
+3. Ensure that their work is not subject to derogatory treatment (e.g., acts that are 
+harmful to the creator’s honour or reputation).  
+These rights are retained by the creator even where they assign (transfer) or licence their 
+3 United Nations Declaration on the Rights of Indigenous Peoples, GA Res 61/295, UN Doc 
+A/RES/61/295 (2 October 2007, adopted 13 September 2007) (‘UNDRIP’). 
+4 Janke (1998) p. 47.
+
+8 
+creator plus 70 years. Moral rights are limited to individual creators and are not capable of 
+recognising communal ownership of the ICIP incorporated in a work, such as where a 
+painting depicts a Dreaming story that is held and owned by a whole community.  
+Patents: Patents protect invented products and methods of manufacture which are novel 
+and include an inventive step. Patents give the patentee control over their invention in the 
+form of exclusive rights over their patented material to exploit the invention, or to authorise 
+another to exploit the invention, for the term of the patent. Patents have ICIP challenge when 
+inventions are derived from traditional knowledge such as medicinal remedies of plants. Any 
+use of Indigenous knowledge should be applied with the consent of the traditional 
+knowledge holders and should result in benefits back to communities.5 Patents can be 
+applied as a way to protect traditional methods but are expensive to obtain. 
+Confidential information: The law of confidential information and trade secrets protects 
+knowledge that is deemed confidential in nature, where the publication of it would cause 
+detriment to the owner of the knowledge. This can apply to secret/sacred information where 
+it is given under a duty to keep it secret. 
+There are also other forms of IP protection, including design law, plant breeders’ rights, and 
+trade marks. Plant breeders’ rights can be relevant when considering Indigenous interests 
+relating to traditional ecological knowledge (i.e. medicinal properties in particular plants). 
+Trade marks are often used to protect words and logos, but there are no laws to ensure that 
+Indigenous language words are only trade marked by or with the permission of Indigenous 
+people. 
+Any use of First Nations material must comply with IP law where applicable. There should 
+also be an appropriate contract in place addressing IP, including any licensing permissions 
+or assignment of ownership.  
+At the same time, best practice demands that parties identify any ICIP incorporated in the 
+First Nations material and seek cultural permission for use. This may include seeking 
+consent not only from the creator of the work, but also the wider Aboriginal or Torres Strait 
+Islander community, as well as giving proper attribution and sharing benefits.6 
+1.2.3 Best practice protocols for ICIP protection 
+Where there are gaps in the laws with regard to ICIP, proper protection can be enacted via 
+protocols and contract clauses. 
+Protocols are a method for implementing best practice standards in the operations of an 
+organisation, industry or government. They can outline a framework for action that must be 
+adhered to by staff or by partners seeking engagement. 
+Dr Terri Janke has developed the sector-leading True Tracks® Principles for best practice 
+Indigenous engagement. There are ten principles: 
+1. RESPECT - Aboriginal and Torres Strait Islander peoples have the right to maintain, 
+control, protect and develop their diverse cultures. ICIP rights should be considered 
+in addition to any legal or intellectual property (IP) rights that exist in material that 
+contains ICIP. 
+5 Terri Janke, True Tracks: Respecting Indigenous knowledge and culture (2021) NewSouth 
+Publishing, Sydney. 
+6 Janke (2021).
+
+9 
+2. SELF-DETERMINATION - Aboriginal and Torres Strait Islander people have the right 
+to self-determination in relation to their ICIP. Aboriginal and Torres Strait Islander 
+people must be encouraged and empowered in decision-making processes about 
+projects that involve or affect their ICIP. 
+3. COLLABORATION, CONSULTATION AND CONSENT - Free prior informed 
+consent for use of ICIP should be sought from Aboriginal and Torres Strait Islander 
+peoples. This is best achieved through collaboration and co-design of projects. This 
+includes giving adequate information about the risks and implications of giving 
+consent to use ICIP. 
+4. INTERPRETATION AND AUTHENTICITY - As the primary guardians of their 
+cultures, Aboriginal and Torres Strait Islander people should be involved in any 
+representation or interpretation of their ICIP. 
+5. CULTURAL INTEGRITY - Maintaining the integrity of ICIP is important for the 
+continuing practice of culture. 
+6. SECRET, SACRED AND PRIVACY - Aboriginal and Torres Strait Islander peoples 
+have the right to maintain their cultural practices relating to secret and sacred 
+information and knowledge. The privacy and confidentiality concerning aspects of 
+Aboriginal and Torres Strait Islander people’s personal and cultural affairs must also 
+be respected. 
+7. ATTRIBUTION - Aboriginal and Torres Strait Islander people should be 
+acknowledged as the owners and custodians of their ICIP. 
+8. BENEFIT SHARING - Aboriginal and Torres Strait Islander people have the right to 
+share in the benefits for use of their ICIP. 
+9. MAINTAINING ABORIGINAL AND TORRES STRAIT ISLANDER CULTURE - 
+Aboriginal and Torres Strait Islander cultures are not static, and measures need to be 
+taken so that Aboriginal and Torres Strait Islander people can maintain, revitalise and 
+advance their cultures 
+10. RECOGNITION AND PROTECTION - Use Australian law, protocols and policies to 
+recognise and protect ICIP rights. 
+Other examples of protocols include: 
+AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research: The 
+Australian Institute of Aboriginal and Torres Strait Islander Studies has created the AIATSIS 
+Code of Ethics for Aboriginal and Torres Strait Islander Research to ensure that research 
+with and about Australian Indigenous peoples follows a process of meaningful engagement 
+and reciprocity between the researcher and the individuals and/or communities involved in 
+the research.7  
+Our Knowledge Our Way: These caring for Country Best Practice Guidelines give a voice 
+to Indigenous land and sea managers, allowing them to both strengthen their knowledge and 
+build partnerships for knowledge sharing in caring for Country.8 
+7 AIATSIS, Code of Ethics for Aboriginal and Torres Strait Islander Research (2020) 
+https://aiatsis.gov.au/research/ethical-research/code-ethics.  
+8 NAILSMA and CSIRO, ‘Our Knowledge, Our Way guidelines’ (2020) 
+https://www.csiro.au/en/research/indigenous-science/indigenous-knowledge/our-knowledge-our-way.
+
+10 
+Australia Council for the Arts, Protocols for using First Nations Cultural and 
+Intellectual Property in the Arts: These Protocols are for creative practitioners working 
+with Indigenous artists or Indigenous cultural heritage in their creative practice. Those being 
+funded by the Australia Council grant assessment panels are required to comply with the 
+protocols.9 
+Collaborative Science on Kimberley Saltwater Country – A Guide for Researchers: 
+This guide was produced by traditional custodians in collaboration with partners and aimed 
+to address shortfalls in existing research practice and to provide consistency for researchers. 
+It provides access to established network of Aboriginal land and seas management 
+professionals, knowledgeable Elders and Aboriginal rangers, and emphasises the need for 
+consent, consultation and collaboration.10  
+Screen Australia, Pathways and Protocols: A guide to assist all filmmakers working with 
+Indigenous content and communities and provide advice about the ethical and legal issues 
+involved in transferring Indigenous cultural material to the screen. These Protocols are 
+relevant for any projects that involve filming on country.11 
+1.2.4 Access and benefit sharing laws  
+Access and benefit-sharing refers to the way in which genetic resources may be accessed, 
+and how the benefits that result from their use are shared between the people using the 
+resources and the people that provide them. 
+The Nagoya Protocol: The Nagoya Protocol (2014)12 implements one of the three main 
+objectives of the Convention on Biological Diversity (1992)13, which is to promote the fair and 
+equitable sharing of benefits arising from the utilisation of genetic resources. The Protocol 
+contains guidelines for the access to genetic resources, compliance with prior informed 
+consent, and mutually agreed terms. Australia has ratified the Convention on Biological 
+Diversity but has only signed (not ratified) the Nagoya Protocol. 
+The Bonn Guidelines: The Bonn Guidelines14 are a set of guidelines to assist users and 
+providers of genetic resources by setting standards in access and benefit sharing strategies. 
+The Guidelines promote the use of negotiating mutually agreed terms between contracting 
+parties (for example, between private parties or the State and Indigenous communities). The 
+Guidelines also promote obtaining free, prior and informed consent from providers. The 
+9 Australia Council for the Arts, Protocols for using First Nations Cultural and Intellectual Property in 
+the Arts (2019) https://australiacouncil.gov.au/investment-and-development/protocols-and-
+resources/protocols-for-using-first-nations-cultural-and-intellectual-property-in-the-arts/.  
+10 Kimberley Land Council et al, Collaborative Science on Kimberley Saltwater Country – A Guide for 
+Researchers (2017) https://www.ipaustralia.gov.au/sites/default/files/kimberley_indigenous_ 
+saltwater_science_project_-_copy_of_collaborative_science_on_kimberley_saltwater_country.pdf. 
+11 Screen Australia, Pathways & Protocols: a filmmaker’s guide to working with Indigenous people, 
+culture and concepts (2009) https://www.screenaustralia.gov.au/about-us/doing-business-with-
+us/indigenous-content/indigenous-protocols.  
+12 Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits 
+Arising from their Utilization to the 1992 Convention on Biological Diversity, opened for signature 29 
+October 2010. 
+13 Convention on Biological Diversity, opened for signature 5 June 1992, 1760 UNTS 79, (entered into 
+force 29 December 1993). 
+14 Secretariat of the Convention on Biological Diversity, Bonn Guidelines on Access to Genetic 
+Resources and Fair and Equitable Sharing of the Benefits Arising out of their Utilization, (Secretariat 
+of the Convention on Biological Diversity, 2002).
+
+11 
+guidelines do not specifically raise Indigenous Knowledge protection, but provide standards 
+for dealing with Indigenous communities, resources and knowledge. 
+Environment Protection and Biodiversity Conservation Act 1999 (Cth): The EPBC Act 
+and Regulation (2006) regulate access to biological resources in Commonwealth areas via 
+permit. Where access is for commercial or potential commercial purposes, the applicant 
+must enter into a benefit sharing agreement with the relevant access provider, including 
+protection for and recognition of ‘indigenous people’s knowledge’. 
+Biodiscovery Act 2004 (Qld): Amended in 2020, the Queensland Biodiscovery Act is the 
+only legislation in Australia that is fully compliant with the Nagoya Protocol. It establishes an 
+access and benefit-sharing framework for biodiscovery, including a traditional knowledge 
+obligation, requiring that biodiscovery entities (e.g. universities, pharmaceutical and research 
+organisations) take measures to use traditional knowledge only under an agreement with 
+knowledge holders. The legislation is accompanied by an explanatory Code of Practice, 
+Traditional Knowledge Guidelines and a Capacity Strengthening Toolkit.15 
+See also the Biological Resources Act 2006 (NT) and the Nature Conservation Act 2014 
+(ACT). 
+1.3 Integrating Indigenous knowledge  
+1.3.1 Indigenous Data Sovereignty 
+Indigenous people have conventionally not been involved in setting the agenda for what data 
+is collected, by whom, and for what purpose. Conventional data collection has resulted in the 
+surveillance and control of Indigenous peoples and policies against their interests.16 
+The concept of Indigenous Data Sovereignty (IDS) arose in response to the treatment of 
+Indigenous people and communities by conventional and colonial data collection and 
+management practices.  
+IDS requires that Indigenous people have governance of data that is generated by state 
+infrastructure, to shift the agenda to give equal weight to Indigenous aspirations rather than 
+just deficits. It also requires access and control of data for governance: information that 
+adequately reflects Indigenous cultural diversity, worldviews and priorities.17 
+15 ‘Traditional knowledge and biodiscovery’, Queensland Government (Web Page, 2020) 
+https://environment.des.qld.gov.au/licences-permits/plants-animals/biodiscovery/traditional-knowledge  
+16 Lovett, Raymond et al. (2019) ‘Good data practices for indigenous data sovereignty and 
+governance’. In A. Daly, S. K. Devitt, & M. Mann (Eds.), Good Data (pp. 26–36). Amsterdam: Institute 
+of Network Cultures. 
+17 Walter, M. and S. R. Carroll, (2021) ‘Indigenous Data Sovereignty, governance and the link to 
+Indigenous policy’. In Walter, M. et al, (eds) Indigenous data sovereignty and policy (pp. 1-20) (New 
+York: Routledge, 2021) 10; Smith, D.E. (2016) ‘Governing data and data for governance: the 
+everyday practice of indigenous sovereignty’. In Kukutai, Tahu and John Taylor (eds), Indigenous 
+Data Sovereignty: Towards an Agenda, CAEPR Research Monograph, 2016/34. Canberra: ANU 
+Press, pp. 117–138.
+
+12 
+18 
+2 FIRST NATIONS INNOVATION AND RDEA&C 
+2.1 What is RDEA&C? 
+The Department has identified the key action areas for increasing drought resilience as 
+research, development, extension, adoption and commercialisation (RDEA&C).  
+Research and development, or R&D, is a strategic necessity for innovation, and successful 
+outcomes from R&D should be communicated widely. In the drought resilience sector, 
+extension and adoption include communicating the benefits of R&D products and assisting 
+the uptake of tools and practices that will help to adapt to drought. 
+The Department has indicated that due to the wealth of stakeholder organisations already 
+operating in the drought resilience research and development space, including CSIRO, BoM, 
+research institutes and federal and state and territory government agencies, their focus will 
+be on extending already existing tools and strategies to the farm gate and rural, regional, 
+and remote communities.  
+For First Nations communities, these action areas may have significantly different meaning 
+and applications than for agricultural organisations and government agencies. 
+2.2 How do rural and remote First Nations communities currently use 
+RDEA&C? 
+There are some inspiring examples of commercialisation opportunities being advanced by 
+First Nations communities and businesses. Some of these examples are described in this 
+18 Maiam nayri Wingara Indigenous Data Sovereignty Collective and Australian Indigenous 
+Governance Institute (2018), Indigenous Data Sovereignty Communique, Canberra, 
+https://static1.squarespace.com/static/5b3043afb40b9d20411f3512/t/5b6c0f9a0e2e725e9cabf4a6/15
+33808545167/Communique%2B-%2BIndigenous%2BData%2BSovereignty%2BSummit.pdf.  
+Maiam nayri Wingara Indigenous Data Sovereignty Collective and the 
+Australian Indigenous Governance Institute convened the National Indigenous 
+Data Sovereignty Summit in 2018, with more than 40 Indigenous delegates and 
+representatives from Aotearoa New Zealand. The Summit delegates asserted 
+that in Australia, Indigenous peoples have the right to: 
+• 
+Exercise control of the data ecosystem including creation, 
+development, stewardship, analysis, dissemination and infrastructure. 
+• 
+Data that is contextual and disaggregated (available and accessible 
+at individual, community and First Nations levels). 
+• 
+Data that is relevant and empowers sustainable self-determination 
+and effective self-governance. 
+• 
+Data structures that are accountable to Indigenous peoples and First 
+Nations. 
+• 
+Data that is protective and respects our individual and collective 
+interests.
+
+13 
+section, with case studies extracted, though there may be many more. These examples are 
+not without their challenges, which will be considered in a later section. 
+2.2.1 Cultural fire in environmental management 
+Land management through fire and burning presents a unique opportunity for First Nations 
+communities. Being a country prone to bushfires necessarily requires environmental 
+practices and techniques that may reduce the negative impacts of fire. As Aboriginal and 
+Torres Strait Islander peoples have been managing these lands and waters for 60,000 
+years, their expertise is invaluable.  
+Cultural burning is an environmental practice based on this wealth of Indigenous ecological 
+knowledge (IEK). Cultural burns consider biodiversity, times of day, seasons and weather 
+patterns, are generally managed on foot and without accelerants, and reduce both needs for 
+large scale hazard reduction burns and risks of uncontrolled bushfires. This results in lower 
+greenhouse gas emissions, better outcomes for local communities, less harm to wildlife and 
+prime conditions for native flora and fauna.19 
+In Australia in 2021, there were at least 29 Indigenous-owned fire management projects and 
+organisations.20 Other similar examples include the Firesticks Alliance, the West Arnhem 
+Land Fire Abatement Project and the Indigenous Carbon Industry Network, all of which use 
+networks of relationships between traditional owners, Indigenous Ranger groups, 
+government, research institutes and private companies to implement IEK in land 
+management.  
+2.2.2 Bushfoods: blending old knowledge with new technology 
+IEK of native plants creates considerable opportunity for RDEA&C. Many First Nations 
+people and businesses are engaged in the bushfoods and bush medicine industry, in 
+growing or wild harvesting, farm management, product development, and sales.  
+19 Terri Janke, Clara Klemski and Laura Melrose, ‘Bushfires, climate change and Indigenous 
+Ecological Knowledge: healing country through holistic environmental management’ (2021) Australian 
+Environment Review, Vol 36(4), p. 94. 
+20 Fleur Kingham, “The impact of environmental law on Indigenous women in Australia” (Speech, 
+International Association of Women Judges Biennial Conference, Auckland New Zealand, 8 May 
+2021) http://classic.austlii.edu.au/au/journals/QldJSchol/2021/10.html.  
+CASE STUDY: Wilinggin Aboriginal Corporation, in the North Kimberley region 
+of WA, combines traditional fire management practices with contemporary 
+science to achieve both caring for Country outcomes and commercial benefit. 
+The corporation trains and employs Traditional Owners as fire specialists and 
+rangers who conduct regular savanna burns in return for carbon credits under 
+the federal Emissions Reduction Fund. 
+The corporation can access commercial benefit from their work by selling 
+carbon credits. The profits are reinvested into fire management operations and 
+programs that support elders to train young rangers, as well as innovations for 
+learning on Country, like incorporating drone technology and engaging pilots for 
+surveying. 
+Source: ORIC, ‘Credit for mitigating climate change’ (October 2021) 
+https://www.oric.gov.au/publications/spotlight/credit-mitigating-climate-change
+
+14 
+The Kakadu plum is an example of a native food with high commercial value. It has 
+commercial potential both as a food and as a cosmetic ingredient, for having the highest 
+recorded levels of vitamin C, antioxidants, and preservative and antimicrobial properties. 
+First Nations peoples in Australia’s top end have been using the Kakadu plum as food and 
+medicine for thousands of years.  
+The Northern Australia Aboriginal Kakadu Plum Alliance (NAAKPA) is an alliance of 
+Aboriginal-owned enterprises supplying Kakadu plum fruit and extracts for the Australian 
+market. NAAKPA currently represents 40%-45% of total Kakadu Plum produced in Australia 
+(2019) with a retail market value of AU$1.7 million.21 
+A discussion of some of the challenges of the bushfoods industry is included in Chapter 4 
+below. 
+2.2.3 Nurseries and horticulture 
+Given that Indigenous people have knowledge of plants, the development of Indigenous 
+nurseries is another way that Indigenous peoples and communities are contributing to 
+drought resilient objectives.  
+Zena Cumpston’s guide to uses of Indigenous plants lists 7 species that are drought tolerant 
+including Weeping Grass, Native Flax and Wallaby Grass.22 
+21 Australian Nuclear Science and Technology Organisation, ‘ANSTO helps verify the origin of 
+traditional Aboriginal products to benefit consumer confidence and Aboriginal enterprises’ (Article, 13 
+August 2021) https://www.ansto.gov.au/news/ansto-helps-verify-origin-of-traditional-aboriginal-
+products-to-benefit-consumer-confidence. 
+22 Cumpston, Zena (2020) Indigenous plant use: A booklet on the medicinal, nutritional and 
+technological use of indigenous plants, Clean Air and Urban Landscapes Hub, The University of 
+Melbourne, Victoria, Australia, https://nespurban.edu.au/wp-content/uploads/2020/08/Indigenous-
+plant-use.pdf. 
+CASE STUDY: NAAKPA member organisation Mamabulanjin Aboriginal 
+Corporation is working to expand the Kakadu plum industry. Rather than 
+harvesting wild trees like other member organisations, Mamabulanjin AC is 
+planting orchards and engaging in R&D to increase yields and cultivate tasty 
+harvests. 
+Mamabulanjin AC is also partnering with the Australian Nuclear Science and 
+Technology Organisation (ANSTO) and IP Australia to develop technological 
+methods of communicating information about the provenance of the plums. This 
+involves isotopic and elemental ‘fingerprinting’ technology and soil analysis for 
+geolocation, and a chain of custody ledger via blockchain to authenticate 
+transactions in a Kakadu Plum app. 
+These projects have been supported by funding from the Department of 
+Agriculture, Water and Environment (DAWE) and the Indigenous Land and Sea 
+Corporation (ILSC). 
+Sources:  
+• 
+ORIC, ‘Bush food, meet tech’ (Article, September 2021) 
+https://www.oric.gov.au/publications/spotlight/bush-food-meet-tech  
+• 
+‘ANSTO helps verify the origin of traditional Aboriginal products to benefit 
+consumer confidence and Aboriginal enterprises’, ANSTO (13 August 2021)
+
+15 
+Since the release of Dark Emu, Bruce Pascoe says that both Indigenous and non-
+Indigenous farmers have become more interested in growing native species such as 
+murrnong, native millet and kangaroo grass.23 The hard part of this interest and new industry 
+is ensuring that Indigenous peoples benefit from the sharing of their knowledge. 
+Other nurseries and horticulture projects include: 
+• 
+Black Duck Foods, co-founded by Bruce and Jack Pascoe. In March 2022, Black 
+Duck Foods entered into a partnership with the University of Melbourne-led project, 
+‘Whole-system Redesign of Broadacre Farming of SE Australia’. “This project will 
+demonstrate how pulses can be used as an integral part of crop rotations in grains 
+and graze, and grain farming systems where farm resilience is further enhanced by 
+incorporating native crops and grasses.”24 This project has also received grant 
+funding from DAWE. 
+• 
+Western QLD traditional custodians, JCU and UQ – Iningai, Mbarbaram (Atherton 
+Tablelands) and Batavia (Cape York) custodians are working on two parallel projects. 
+23 Chan, Gabrielle, ‘'All about the land': drought shakes farming to its Indigenous roots’, The Guardian 
+(online, 6 October 2018) https://www.theguardian.com/environment/2018/oct/06/all-about-the-land-
+drought-shakes-farming-to-its-indigenous-roots.  
+24 Southern Farming Solutions, ‘University of Melbourne led projects receive $2.1m through Drought 
+Resilience Innovation Grants’ (Article, 21 March 2022) https://sfs.org.au/article/university-of-
+melbourne-led-projects-receive-2-1m-through-drought-resilience-innovation-grants. 
+CASE STUDY: The Victorian based First People of the Millewa-Mallee 
+Aboriginal Corporation are working in research and production of drought 
+resilient native crops. 
+The project (funded by a DAWE FDF Drought Resilience Innovation grant) 
+conducts research in wattles, grasses and yams that can be grown under 
+minimal supervision in the Sunraysia Horticultural Area for use as gluten free 
+flour and foods. The Belar Nursey and Biocultural Resource Centre in Irymple is 
+Indigenous run and provides education and employment to the local Indigenous 
+community.  
+The rivers and floodplains in Mallee country have been scarred and destroyed 
+by farming. The First People of the Millewa-Mallee Aboriginal Corporation have 
+a Country and Water Plan which aims to repair the natural environment by 
+caring for Country which includes establishing rangers and establishing a native 
+seed bank and nursery. They are working with the Federation of Victorian 
+Traditional Owner Corporations to develop this plan. 
+Sources:  
+• 
+Innovation Grants (Web Page, accessed 25 April 2022) 
+https://www.awe.gov.au/agriculture-land/farm-food-drought/drought/future-
+drought-fund/research-adoption-program/drought-resilience-innovation-grants 
+• 
+Tamara Clark, ‘Irymple nursery run solely by indigenous community keen to 
+grow’, Sunraysia Daily (online, 20 April 2021) 
+https://www.sunraysiadaily.com.au/farming/4145540/irymple-nursery-run-
+solely-by-indigenous-community-keen-to-grow  
+• 
+First People of the Millewa-Mallee Aboriginal Corporation, Action Plan 2020, 
+https://static1.squarespace.com/static/59c30286e3df28fd2295efbb/t/5ef58fcff22
+174273c616d73/1593151597366/Low+res+Action+Plan.pdf
+
+16 
+They have partnered with James Cook University to turn plants with medicinal 
+properties into saleable remedies, and with the University of Queensland to bring 
+bush fruits and plants to the market, including a nursery and grow-house on 
+Turraburra.25 
+• 
+Pundi Produce – Dominic Smith is an Indigenous farmer growing native foods and 
+botanicals including wattle, river mint, lemon myrtle, quandongs and muntries in the 
+Riverland in South Australia. He also studies nursing and is using knowledge sharing 
+about sustainable farming practices and native foods to support troubled Indigenous 
+youth and people with mental health issues by connecting with country.26 
+• 
+Pathways Together Aboriginal Corporation operates a native nursery in Dubbo 
+and specialises in Aboriginal programs focused on education, employment, mental 
+health and well-being.27 
+• 
+Noongar Land Enterprise were the first Aboriginal grower group in Australia. The 
+group currently represents six Noongar landholding groups, aimed at creating 
+commercial profit from Indigenous-held land including a tree nursery, honey, bush 
+foods, and native revegetation.28  
+2.2.4 Regenerative land and water practices 
+The connection with country that is experienced by First Nations people has driven some 
+Indigenous businesses to work toward outcomes of sustainable farming and regeneration of 
+land and waters.  
+25 Willis, Carli, ‘Indigenous custodians work with universities to bring bush foods and remedies to 
+market’, ABC News (online, 19 March 2022) https://www.abc.net.au/news/2022-03-19/bush-foods-
+remedies-longreach-indigenous-university-project/100921012.  
+26 Schremmer, Jessica, ‘Aboriginal farmer sees native bush food as pathway to connect with troubled 
+youth’, ABC News (online, 1 March 2021) https://www.abc.net.au/news/2021-03-01/aboriginal-farmer-
+creates-reconnection-through-native-bush-foods/13194092; Smith, Dominic, ‘Empowering people 
+through education reconnection’, Pundi Produce (Blog, 30 Aug 2021) 
+https://pundiproduce.com.au/empowering-people-through-education/.  
+27 ‘Crown land unlocking ‘pathways’ for Aboriginal cultural heritage and health’, Mirage News (online, 
+25 March 2022) https://www.miragenews.com/crown-land-unlocking-pathways-for-aboriginal-750892/.  
+28 Noongar Land Enterprise, https://www.noongarlandenterprise.com.au/; Cornell, Anna, ‘Improving 
+On-Farm Biodiversity and Drought Resilience Day at Gunnado’, Northern Agricultural Catchments 
+Council (Blog, 30 March 2022) https://www.nacc.com.au/improving-on-farm-bodiversity-and-drought-
+resilience-day-at-gunnado/.
+
+17 
+Other opportunities for Indigenous people to be involved in innovation in this sector may 
+include desalination plants, such as those being implemented by the South Australian 
+government to provide potable water to remote Aboriginal communities.29  
+Traditional custodians are also being called on to guide projects funded by non-Indigenous 
+organisations. Telstra is conducting technology trials to plant and manage the reforestation 
+of 240 hectares of land at Yarrowyck in northern NSW, to store greenhouse gas emissions 
+and improve environmental resilience of the land with the guidance of the Anaiwan and 
+Kamilaroi/Gomeroi peoples.30  
+2.2.5 Land and sea management  
+Land and sea management is one of the largest sectors in which Aboriginal and Torres Strait 
+Islander businesses are involved.  
+Organisations like the Indigenous Desert Alliance offer support for Indigenous rangers by 
+facilitating connections and networking, coordinating projects, holding events and advocating 
+for important issues like fees for service.31 
+Further, research has suggested that funding and support of Indigenous land and sea 
+management programs in remote communities will have ‘spill over’ contributions to other 
+sectors in the region via several pathways. These include improved skills and experience 
+increasing human capital, trickle-down spending by funded Indigenous initiatives to other 
+29 Harris, Cecilia, ‘Remote SA town's new desalination plant’ Australian Water Association (online, 24 
+June 2021) https://www.awa.asn.au/resources/latest-news/business/assets-and-operations/remote-
+sa-towns-new-desalination-plant.  
+30 Parry, Danita, ‘Telstra trials technologies to grow the Australian carbon market’, Telstra (Media 
+Release, 24 March 2022) https://www.telstra.com.au/aboutus/media/media-releases/carbon-farm-trial.  
+31 See for example Commonwealth of Australia, National Indigenous Australians Agency, Fee for 
+Service in Indigenous Land and Sea Management: Impact Assessment and Analysis (2018) 
+CASE STUDY: Beemurra Aboriginal Corporation is the only Aboriginal-run 
+backgrounding business in Western Australia. When first taking ownership of 
+the 1200-hectare property in Yallalie Downs, the original plan was to breed 
+goats, then lease for crops and run sheep, but the returns were low.  
+Beemurra AC took governance training offered by ORIC and were funded by 
+the then-Indigenous Land Corporation (now the ILSC) to switch to cattle 
+backgrounding. Cattle backgrounding is a gradual transition process to prepare 
+cattle for entering a feedlot and minimising their distress, resulting in them 
+achieving goal weights without delays. 
+The corporation use rotational grazing to ensure the pastures recover. Now that 
+Beemurra has established a solid commercial basis, it is looking forward to 
+driving regenerative agriculture projects, and supporting young people’s cultural 
+connections with country. 
+Sources:  
+• 
+ORIC, ‘Backgrounding cattle, foregrounding community (Article, June 2021) 
+https://www.oric.gov.au/publications/spotlight/backgrounding-cattle-
+foregrounding-community
+
+18 
+Indigenous-owned goods and service providers in the region, and increasing the productive 
+capacity of the region in general, which influences the productivity of other businesses.32 
+2.2.6 Education  
+Some initiatives by First Nations people include the integration of traditional knowledge in 
+western education.  
+2.2.7 Technology 
+New technologies present great opportunity to First Nations businesses and entrepreneurs, 
+when they have access to them.  
+32 Jarvis, Diane et al, ‘Are Indigenous land and sea management programs a pathway to Indigenous 
+economic independence?’ (2018) The Rangeland Journal, vol. 40, pp. 423-424. 
+CASE STUDY: Nyungar elder Clint Hansen is teaching Indigenous land 
+conservation methods at Geraldton TAFE, including rehydrating creeks and 
+rivers, controlled burning in a holistic way, and regenerative agriculture using 
+de-stress stock methods. The course includes practical work on a farm east of 
+Geraldton, where students work alongside the owners to help regenerate the 
+property. 
+Source:  
+• 
+Barndon, Glenn, ‘Indigenous regenerative land management included in 
+agricultural program at TAFE’, ABC News (online, 21 July 2020) 
+https://www.abc.net.au/news/2020-07-21/indigenous-regenerative-land-
+education-course-at-tafe/12268326 
+CASE STUDY: Cherbourg Aboriginal Shire Council is using artificial 
+intelligence technology to monitor waste and improve recycling. 
+The Council has partnered with the Peregian Digital Hub, Cherbourg and 
+Noosa Councils, Advance Queensland and the Indigenous Land and Sea 
+Corporation to create and apply the software for waste management.  
+“The data analysts segment objects in the images and assign them with the 
+correct category. Over time the software gradually learns to differentiate 
+between objects like aluminium cans and steel tins that can be in various states 
+of disrepair.” 
+Cherbourg is home to about 1,200 people, of whom 98% are Indigenous (ABS, 
+2016 Census). In addition to the positive environmental outcomes from more 
+efficient waste management, the project has created funding and revenue 
+opportunities as well as employment and upskilling opportunities in an 
+emerging industry for the residents of Cherbourg. 
+Source:  
+• 
+‘AI helps Indigenous Council recycle’, Local Government Focus (1 November 
+2021) https://lgfocus.com.au/news/2021/11/01/ai-helps-indigenous-council-
+recycle/  
+• 
+Cormack, Holly, ‘AI tech to put town ahead of the pack’, The Chronicle (online, 
+30 March 2021) https://www.pressreader.com/australia/the-chronicle-
+8992/20210330/281797106784797
+
+19 
+33 
+2.2.8 Languages  
+First Nations languages carry deep spiritual significance and connections to ancestors, 
+Country and values. They may be owned communally and shared by communities or may be 
+subject to specific cultural protocols and restrictions as to their meanings and uses.  
+Language has been used by Indigenous organisations to empower connection to Country 
+and taking care of species and biodiversity, by linking traditional names of flora, fauna, 
+seasons and other things to western science. 
+33 Case studies provided by Michael Davis, Agribusiness division, Indigenous Land and Sea 
+Corporation, consultation on 26 April 2022. 
+CASE STUDY: Indigenous digital agency INDIGI LAB collaborated with the 
+NSW National Parks and Wildlife Service to create 360-degree, virtual reality 
+videos aimed at inspiring kids to learn more about Aboriginal culture in the 
+NSW region. 
+The partnership trained five Indigenous rangers to use the technology and then 
+produced seven videos that explored Sydney Harbour, Katoomba, Kosciuszko 
+National Park, Lake Mungo, Dorrigo National Park and the Coffs Harbour 
+region. The videos comprise language, Dreaming stories, information about 
+plants and animals as well as Aboriginal history that stretches back for 
+thousands of years. 
+Sources:  
+• 
+‘Watch: Indigenous Reality adds new dimensions to Virtual Reality’, Welcome 
+to Country (16 October 2017) https://www.welcometocountry.org/indigenous-
+reality-virtual-reality/  
+• 
+‘Aboriginal rangers get hands on with the latest technologies’, NITV (14 
+October 2017) 
+https://www.sbs.com.au/nitv/culture/article/2017/10/12/aboriginal-rangers-get-
+hands-latest-technologies   
+CASE STUDY: Yugul Mangi Rangers and Ngukurr Language Centre have 
+partnered with Macquarie University to enter Western and Indigenous scientific 
+knowledge from South East Arnhem Land into the Atlas of Living Australia 
+(ALA). It provides two-way Indigenous engagement to encourage more 
+Indigenous content, and importantly it creates feedback loops to make the ALA 
+more relevant and useful for Indigenous people. 
+The Yugul Mangi Rangers, along with Emilie Ens (Macquarie University), the 
+Ngukurr Language Centre, and the community have collected and documented 
+language and knowledge about plants and animals over 6 years. In 2020 they 
+published this knowledge as the Cross-cultural guide to some animals and 
+plants of South East Arnhem Land, which is available for purchase.  
+Source:  
+• 
+‘Indigenous Ecological Knowledge’, Atlas of Living Australia 
+https://www.ala.org.au/indigenous-ecological-knowledge/
+
+20 
+2.2.9 Arts and culture 
+First Nations arts and culture is a large industry. Creation and sale of artistic goods like 
+paintings, weavings, photographs, artefacts and tools are an area in which many Indigenous 
+people are engaged in commercial enterprise.  
+Often, these works carry significant meaning or messages.  
+2.2.10 Health and wellbeing 
+Indigenous communities are spearheading programs to address food and water security.  
+2.2.11 Renewable energy  
+Indigenous organisations all over the country are getting involved in funded projects and joint 
+ventures invested in renewable energies. These projects often involve constructing 
+renewable energy facilities such as wind farms on Indigenous owned or managed land.  
+CASE STUDY: Pormpuraaw Art & Culture Centre Incorporated has become 
+known worldwide for its artists’ creations utilising recycled materials and ghost 
+nets. Ghost nets are plastic fishing nets illegally dumped by commercial fishers 
+at sea, killing fish, birds and other ocean life. Many of these animals, such as 
+crocodiles, sea turtles and barramundi, have significant cultural importance to 
+the people of Pormpuraaw. The artists collect the washed-up ghost nets along 
+the beach and create sculptures representing their totems. 
+As Pormpuraaw’s only export industry the Art Centre provides an opportunity 
+for local artists to earn an income from their art practices. The Centre supports 
+artists through showcasing and selling their works and it acts as a community 
+‘Keeping Place’ of local artefacts, photographs, language, stories, art, and other 
+items that need to be preserved and available for future generations. 
+Sources:  
+• 
+Pormpuraaw Art & Culture Centre, https://pormpuraawartculture.com/  
+• 
+Australian Museum, ‘Ghost net art’ (Web Page, 26 May 2020) 
+https://australian.museum/learn/cultures/atsi-collection/ghost-net-art/   
+CASE STUDY: The Yuwaya Ngarra-li partnership between the Dharriwaa 
+Elders Group, an Association of Aboriginal Elders in Walgett, NSW, and the 
+University of New South Wales are coordinating a community-led program, the 
+‘Walgett Food and Water for Life Program’ (WFW4L).  
+The aim of WFW4L is to improve nutrition and wellbeing outcomes of the local 
+Aboriginal community through sustainable solutions to food and water 
+insecurity, and develop and evaluate a model for improving outcomes in 
+Aboriginal and Torres Strait Islander communities across Australia. 
+Sources:  
+• 
+Hart, Ashleigh Chanel et al, ‘Indigenous Community-Led Programs to Address 
+Food and Water Security: Protocol for a Systematic Review’ (2021) vol. 
+18(12) International Journal of Environmental Research and Public Health 6366 
+http://dx.doi.org/10.3390/ijerph18126366   
+• 
+A community in action: How Walgett is redefining food systems’ (Blog, October 
+2021) https://www.dharriwaaeldersgroup.org.au/index.php/yuwayangarrali/38-
+yn-publications/215-un-food-summit-2021-walgett-case-study
+
+21 
+In this sector, First Nations groups, unions, industry bodies and academics have 
+collaborated to establish the First Nations Clean Energy Network. They aim to forge 
+partnerships between communities and industry to develop renewable energy projects on 
+Indigenous land to provide reliable power and end energy insecurity.34 
+2.3 Integrating and expanding Indigenous knowledge 
+Combining Indigenous knowledge and western science presents a great many benefits for 
+both Indigenous and non-Indigenous people. First Nations groups have the opportunity to 
+explore, revive and share their culture and knowledge base where past colonial practices 
+may have resulted in significant knowledge loss and dispossession. In addition, non-
+Indigenous organisations such as governments, researchers and other entities can learn and 
+gain from the expertise of the oldest living culture on this planet, who have cared for the land 
+and waters of this country for 60,000 years. In other countries, this knowledge has proven 
+invaluable. In South Africa, a research survey into implementation of Indigenous knowledge 
+in drought risk reduction found that two thirds of respondents relied on Indigenous 
+knowledge in their farming practices and drought risk reduction.35 
+Having noted this opportunity, it is vital that use and application of Indigenous knowledge is 
+done with the consent and co-design of First Nations communities. Partnering organisations 
+and research bodies should approach First Nations groups with an understanding of ICIP 
+and Indigenous Data Sovereignty, and be prepared to learn and respect any particular 
+cultural protocols that apply to that group. 
+3 INDIGENOUS BUSINESS IN REMOTE AUSTRALIA 
+3.1 Background 
+First Nations peoples are concentrated in rural and remote regions of Australia. According to 
+the OECD territorial definition, 48% of First Nations people live in predominantly rural 
+regions compared to 17% of the non-Indigenous population.36 Data from the Australian 
+34 Lannin, Sue, ‘First Nations clean energy network set up to deliver cheap and reliable power to 
+Indigenous communities’, ABC News (online, 17 Nov 2021) https://www.abc.net.au/news/2021-11-
+17/first-nations-clean-energy-network-bringing-renewable-power/100623596.  
+35 Muyambo, Fummi, Yonas T Bahta and Andries J Jordaan, ‘The role of indigenous knowledge in 
+drought risk reduction: A case of communal farmers in South Africa’ (2017) Jamba – Journal of 
+Disaster Risk Studies, vol. 9(1), p. 410.  
+36 OECD (2020), Linking Indigenous Communities with Regional Development in Australia, OECD 
+Rural Studies, OECD Publishing, Paris, https://doi.org/10.1787/ab4d8d52-en, ch 2. 
+CASE STUDY: The Northern Territory Indigenous Business Network (NTIBN) 
+has partnered with the Octopus Group to create majority Indigenous-owned JV 
+Desert Springs Octopus (DSO) and provide low-cost renewable energy to 
+support infrastructure investments in Northern Australia.  
+DSO will build both an energy grid for the NT as well as support remote off-grid 
+Indigenous communities to shift from diesel power to renewable energies. 
+Source:  
+• 
+Brendan How, ‘NT’s $50 billion Indigenous renewable energy partnership’, 
+Innovation Aus (online, 25 February 2022) https://www.innovationaus.com/nts-
+50-billion-indigenous-renewable-energy-partnership/.
+
+22 
+Bureau of Statistics gives a similar picture, with 38.9% of Indigenous people living in Outer 
+Regional, Remote or Very Remote areas of Australia, as opposed to Inner Regional or Major 
+Cities. This compares to 9.5% of the non-Indigenous population.37  
+On the commercial front, the Indigenous business sector is growing, though it has a long 
+way to go before reaching equity with non-Indigenous businesses. Indigenous people are 
+involved in business in remote Australia in various capacities, both as employees and as 
+business owners. These enterprises operate in a variety of sectors, including mining, 
+agriculture, environmental management and tourism. 
+3.2 Demographics 
+3.2.1 Indigenous business sector 
+The National Indigenous Australians Agency (NIAA) estimates that of the 2.1 million 
+businesses in Australia, around 12,000-16,000 are Indigenous-owned.38 Indigenous 
+businesses and involvement of Aboriginal and Torres Strait Islander people in commercial 
+enterprises are difficult to measure. 
+Other sources of data come from non-government organisations and networks like Supply 
+Nation. Supply Nation is a national database of Indigenous businesses. With approximately 
+2335 registered supplier members, each of which needs a minimum of 50% Indigenous 
+ownership to be registered, Supply Nation has estimated that it represents about 20% of all 
+business in the Indigenous business sector. These total approximately 11,660 Indigenous-
+owned businesses. This statistic is based on Census data on the number of Indigenous 
+owner-managers, though Supply Nation have noted this is not a perfect measure of 
+Indigenous businesses due to challenges with reporting. Further, as the businesses 
+registered with Supply Nation are generally larger than the rest of the sector, their 
+representations of total Indigenous revenue and employment are estimated to be higher, 
+44% and 51% respectively.39 
+There is no one dataset that comprehensively totals all Indigenous businesses in Australia. 
+Indigenous businesses are often registered under the Corporations (Aboriginal and Torres 
+Strait Islander) Act 2006 (CATSI Act) but may also be registered under the Australian 
+Securities and Investment Commission (ASIC), the Corporations Act 2001, or any state or 
+territory legislation (e.g. associations). There are also numerous Indigenous charities and 
+not-for-profit organisations registered under the Australian Charities and Not-for-profits 
+Commission (ACNC), who may still undertake commercial activities as long as they are 
+within the scope of advancing their charitable purpose, and who may also be joint registered 
+with the Office of the Registrar of Indigenous Corporations (ORIC) as a corporation.  
+The distinction between Indigenous businesses and Indigenous corporations and 
+organisations is often blurred. Indigenous businesses may be sole traders or companies 
+incorporated under the Corporations Law, state associations laws, or the CATSI Act. 
+Indigenous businesses that are incorporated under the Corporations Law are often run by 
+37 Australian Bureau of Statistics, Estimates of Aboriginal and Torres Strait Islander Australians, June 
+2016 Census (online, released 31 August 2018) https://www.abs.gov.au/statistics/people/aboriginal-
+and-torres-strait-islander-peoples/estimates-aboriginal-and-torres-strait-islander-australians/jun-2016.  
+38 NIAA, Indigenous Business Sector Strategy 2018-2028, (‘NIAA IBSS’) p. 4 
+https://www.niaa.gov.au/sites/default/files/publications/ibss_strategy.pdf. 
+39 Supply Nation, State of Indigenous Business: Driving growth across the Indigenous business sector 
+(Research Report No. 1, December 2020) https://supplynation.org.au/research-paper/state-of-
+indigenous-business-driving-growth/, p. 6.
+
+23 
+Indigenous entrepreneurs, with the shares being majority owned by individual Indigenous 
+people. Indigenous corporations incorporated under the CATSI Act are registered with 
+ORIC, and instead of shareholders they have members. Their distribution of profits is 
+decided by the collective and they operate in accordance with agreed objects for the benefit 
+of the group. ‘Indigenous organisations’ is a wider term which includes corporations as well 
+as Indigenous companies limited by guarantee or registered under state associations law. 
+These Indigenous organisations are not primarily focused on profit returns to the business 
+owners but provide community services such as native title representative bodies or other 
+community membership-based organisations.  
+In one specific class, there are approximately 3400 Aboriginal and Torres Strait Islander 
+corporations registered with ORIC under the CATSI Act. In this chapter, unless expressed 
+otherwise, statistics and information about ‘Indigenous corporations’ in Australia refer to 
+Aboriginal and Torres Strait Islander corporations registered with ORIC under the CATSI 
+Act.  
+3.2.2 Business types 
+Aboriginal and Torres Strait Islander businesses cover a range of products and services. 
+They include registered native title bodies corporate (RNTBCs), health and community 
+services, housing, hospitality, construction, education and training, art centres, community 
+stores, tourism ventures, and land management, among others.40  
+There are also numerous Indigenous alliances and networks that operate in commercial and 
+socio-economic sectors, such as the Indigenous Carbon Industry Network or the First 
+Nations Bushfood and Botanical Alliance Australia. These entities are registered as 
+companies in their own right, but their work involves bringing together smaller organisations, 
+businesses and sole traders in their respective industries, often from diverse and remote 
+areas. 
+Approximately two thirds of Indigenous corporations have joint registration as charities.41 
+The majority of Indigenous corporations are community run, membership based and not for 
+profit. There are also many Indigenous organisations registered solely under the ACNC.  
+Some corporations are landholding entities. These include organisations holding land under 
+legislation like the Aboriginal Land Rights (Northern Territory) Act 1976 or the Queensland 
+Indigenous Land Acts, or other forms of tenure including pastoral leases, land trusts or 
+freehold title.  
+Some corporations have registered subsidiary companies to manage their commercial 
+interests. These are often proprietary limited entities. The Indigenous corporation manages 
+members and community services, while the subsidiary may be registered under ASIC or the 
+Corporations Act and manages associated commercial functions, such as civil engineering, 
+providing services to mining operations, or others.42 
+21 March 2022) https://data.gov.au/dataset/ds-dga-2c072eed-d6d3-4f3a-a6d2-
+8929b0c78682/details?q= (‘ORIC dataset’). 
+41 Consultation with Gerrit Wanganeen, Deputy Registrar, ORIC, 21 April 2022. 
+42Ibid.
+
+24 
+3.2.3 Geographic location  
+Aboriginal and Torres Strait Islander corporations are spread all across Australia, from 
+Tasmania to the Torres Strait, though are largely concentrated in Western Australia, north 
+Queensland and the Northern Territory.  
+A majority of Aboriginal and Torres Strait Islander corporations are based in rural and 
+regional Australia. Information about the breakdown of these geographic locations by 
+postcode is available in public datasets provided by ORIC.43 
+3.2.4 Business size 
+Under the CATSI Act, corporations are classed as either small, medium or large based on 
+their gross operating income, gross assets, and number of employees.44 
+The vast majority are small corporations – more than 2500. Just over 700 are medium 
+corporations, while large corporations number less than 200.  
+In 2020-2021, close to 1200 corporations reported having zero employees. Corporations 
+with 1-4 employees and 5-24 employees numbered very similarly, with approximately 270 
+each, and 174 corporations reported more than 24 employees.45 
+3.2.5 Boards of Indigenous companies  
+Indigenous corporations display a much higher percentage of women in board seats than 
+ASIC corporations.46 In fact, at time of writing, across all registered Indigenous corporations, 
+female board members outnumber male board members.47  
+Youth are not as highly represented on Indigenous boards, largely due to the value placed 
+on eldership and cultural authority. This may contribute to challenges faced by some 
+43 ORIC dataset (21 March 2022). 
+44 ORIC, ‘Corporation size and reporting’ (Web Page) https://www.oric.gov.au/publications/catsi-fact-
+sheet/corporation-size-and-reporting.  
+45 ORIC dataset (21 March 2022). 
+46 Consultation with Gerrit Wanganeen, Deputy Registrar, ORIC, 21 April 2022. 
+47 Total women: 9628; total men: 9029. Source: ORIC dataset (21 March 2022). 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+QLD
+WA
+NT
+NSW
+SA
+VIC
+ACT
+TAS
+No. of registered businesses
+State or territory
+Sizes of Indigenous businesses
+Small
+Medium
+Large
+
+25 
+corporations, as younger people may be better informed about methods of western law and 
+process.48  
+3.3 Indigenous entrepreneurship 
+The Indigenous business sector has grown substantially over the past decade since the 
+establishment of Indigenous Procurement Policies (IPP) within Commonwealth and State 
+governments. Aboriginal and Torres Strait Islander men are more than twice as likely to be 
+self-employed as Aboriginal and Torres Strait Islander women.49 
+Supply Nation has supported greater engagement by corporations and government 
+members to engage Indigenous business in their supply chains. In 2020, businesses 
+registered with Supply Nation had an estimated annual revenue of $3.9 billion and more than 
+30,000 total employees.50 
+The Indigenous business sector is growing at great speed. Between 2015 and 2019, 
+procurement spending on Supply Nations suppliers grew from $31 million to $952 million.51 
+The IPP has enabled the growth of Indigenous joint ventures (IJVs) that have been able to 
+partner with the energy and mining sector. These opportunities appear to be growing, 
+according to media reports. For example: 
+• 
+Perth-based renewable energy company Infinite Blue Energy has signed an 
+agreement with Aboriginal-owned business Boya Energy to build and develop a 
+planned 10MW green hydrogen plant in Northam, WA.52  
+Green hydrogen requires large quantities of water throughout the process, though it 
+can vary depending on techniques and technologies. When compared to the 
+extractive industry however, if Australia became a major supplier of a large-scale 
+global hydrogen industry by 2050, water consumption may be the equivalent of about 
+one-third of the water used now by the Australian mining industry.53 
+• 
+In the Northern Territory, the NT Indigenous Business Network (NTIBN) has 
+partnered with the Australian subsidiary of Octopus Group to create majority 
+Indigenous-owned JV Desert Springs Octopus (DSO) and provide low-cost 
+renewable energy to support infrastructure investments in Northern Australia.54 DSO 
+will build both an energy grid for the NT as well as support remote off-grid Indigenous 
+communities to shift from diesel power to renewable energies. 
+A concern in the industry is black-cladding, where a non-Indigenous organisation uses an 
+Indigenous organisation as a front or pass through. Black-clad JV arrangements often 
+48 Consultation with Gerrit Wanganeen, Deputy Registrar, ORIC, 21 April 2022. 
+49 NIAA IBSS, p. 4.  
+50 Supply Nation (2020) p. 1. 
+51 Supply Nation (2020) p. 9. 
+52 Joshua S Hill, ‘Infinite Blue signs deal with indigenous energy group for solar hydrogen plant’, 
+Renew Economy, https://reneweconomy.com.au/infinite-blue-signs-deal-with-indigenous-energy-
+group-for-solar-hydrogen-plant/. See Boya Water Solutions - 
+https://www.boyaenergy.com.au/watersolutions 
+53 Department of Industry, Innovation and Science (Cth), Australia’s National Hydrogen Strategy 
+(COAG Energy Council, 2019) https://www.industry.gov.au/sites/default/files/2019-11/australias-
+national-hydrogen-strategy.pdf p. 12. 
+54 How, Brendan, ‘NT’s $50 billion Indigenous renewable energy partnership’, Innovation Aus (online, 
+25 February 2022) https://www.innovationaus.com/nts-50-billion-indigenous-renewable-energy-
+partnership/.
+
+26 
+feature the bulk of the benefits going to the non-Indigenous partner and disadvantage or 
+detriment to the Indigenous business, and/or do not represent a genuine demonstrated level 
+of equitable partnership and benefit.55 
+3.4 Existing entities in remote Australia 
+There are also a number of existing successful Aboriginal and Torres Strait Islander 
+organisations and peak bodies active in rural and remote Australia. These include: 
+• 
+Ninti One facilitates partnerships and projects to create economic opportunity and 
+empowerment, improve service delivery and boost the livelihoods of Aboriginal and 
+Torres Strait Islander people. https://www.nintione.com.au/  
+• 
+Desert Knowledge Australia (DKA) is a not-for-profit statutory corporation of the 
+NT, committed to developing opportunities for a stronger and more connected desert 
+and remote Australia. It supports learning, socioeconomic development, research 
+and environmental sustainability in Central Australia. https://www.dka.com.au/  
+• 
+Centre for Appropriate Technology Limited (CfAT) works to research, design, 
+develop and teach appropriate technologies and deliver technical training to 
+Indigenous people living in remote communities. It supports sustainable and 
+enterprising communities by delivering appropriate fit-for-purpose technology, 
+including practical project design, technical innovation, infrastructure, and training 
+services. https://cfat.org.au/  
+• 
+Indigenous Desert Alliance (IDA) is an Indigenous controlled, member-based 
+organisation that plays a vital role in 'Keeping the Desert Connected' and building 
+resilience for desert ranger programs. https://www.indigenousdesertalliance.com  
+3.5 Factors for success in First Nations business 
+Understanding the features and reasons for success in First Nations business is important to 
+an analysis of their capacity, and to apply lessons to other projects and endeavours. There 
+are several factors, some unique to First Nations businesses and others more universally 
+applicable.  
+Effective Aboriginal and Torres Strait Islander-managed businesses often display the 
+following characteristics: 
+• 
+Facilitating community ownership and control 
+• 
+Embedding culture in business practices and operations 
+• 
+Employing local Aboriginal and Torres Strait Islander staff 
+• 
+Harnessing existing community capacity and its leaders 
+• 
+Implementing good governance 
+• 
+Establishing trusting partnerships 
+• 
+Keeping the implementation timelines flexible 
+• 
+Using community development approaches56 
+Of course, without cash flow and commercial opportunities, no business can succeed. Other 
+factors which may impact an Indigenous business’s ability to grow include access to 
+55 Supply Nation, ‘Black cladding’ (Web Page) https://supplynation.org.au/about-us/black-cladding/.  
+56 Morley, Sam, ‘What works in effective Indigenous community-managed programs and 
+organisations’, CFCA Paper no. 32, Australian Institute of Family Studies (2015) p. 4.
+
+27 
+capital/finance and grants, and support from government programs such as IPP, which 
+enable opportunities for procurement. 
+4 BARRIERS TO INNOVATION IN REMOTE AUSTRALIA 
+Chapter 2 of this report outlined some notable examples of innovation in the First Nations 
+business sector, but the fact remains that Aboriginal and Torres Strait Islander corporations 
+face considerable adversity when compared to their non-Indigenous counterparts. Ordinary 
+business challenges such as product development, market analysis and building a consumer 
+base are compounded by circumstances of historic disadvantage and societal 
+marginalisation.  
+Aboriginal and Torres Strait Islander people in the business sector contend with a variety of 
+challenges. These include impacts of past economic marginalisation and policies to restrict 
+Indigenous wealth, home ownership, business ownership and economic growth 
+opportunities, low intergenerational wealth transfer, the ongoing impact of poor education, 
+employment and health outcomes, and higher rates of incarceration. In many cases, First 
+Nations people have been denied the opportunity to enter the market, even where they may 
+arguably have the best right to be there. For example, in 2019, the Australian bushfoods 
+industry was estimated to be valued at $21.5 million, but less than 15% of Aboriginal 
+businesses are engaged in this multimillion-dollar industry.57 Further, survey-based research 
+suggests that overall Indigenous representation in the supply chain, from growers to farm 
+managers to exporters, was less than 1% in 2019.58  
+These circumstances of disadvantage have consequences for First Nations people’s ability 
+to acquire land or assets that can be leveraged to grow wealth or start businesses. In 
+addition, businesses in remote or rural Australia have to contend with these same 
+circumstances, as well as lower access to essential infrastructure, skilled labour, technology, 
+business networks and business advice.59 
+An analysis of the barriers to innovation faced by businesses in rural and remote First 
+Nations communities can be flipped to highlight the opportunities for improvement. It is noted 
+that some of the barriers identified in this report are outside of the scope of the Future 
+Drought Fund to rectify, however they are still included for completeness of analysis. If the 
+department is to meet its aim of increased participation of Indigenous communities in 
+drought resilience RDEA&C, these barriers must be mitigated as far as possible.  
+4.1 Education  
+4.1.1 Skills and training 
+Education is a core barrier to economic success for First Nations people. Effective operation 
+in business and commercial sectors is hampered by deficits in understanding how to do 
+57 Department of Primary Industries and Regional Development (WA), ‘Setting up for Success: 
+Bushfoods’ (2021), p. 3,  
+https://www.agric.wa.gov.au/sites/gateway/files/Setting%20up%20for%20Success%20-
+%20Bushfoods%20web_0.pdf. 
+58 Mitchell, Ruby and Joshua Becker, ‘Bush food industry booms, but only 1 per cent is produced by 
+Indigenous people’ ABC News (19 January 2019) https://www.abc.net.au/news/rural/2019-01-19/low-
+indigenous-representation-in-bush-food-industry/10701986.  
+59 NIAA IBSS, p. 4.
+
+28 
+business in a general sense, contracting, laws around native title, land ownership 
+frameworks, and other complexities.60 
+Statistically, people with at least an upper secondary education are more likely to be 
+economically active, have higher income and have better health than individuals with lower 
+or no education. In predominantly rural regions, the share of Indigenous peoples with at least 
+upper secondary education is only 34%, which is less than half that of non-Indigenous 
+people.61 
+“There are many challenges in creating economy on country.”62 
+Many of the skill sets needed to drive potential Indigenous-led industries (e.g. bushfoods) 
+don’t exist in rural and remote communities. Innovation and commercial growth require 
+people with knowledge of all different aspects of the business, including IP, packaging, 
+health, research, product development, etc. This extends further to technical expertise in 
+industries like fisheries and aquaculture, where even mainstream Australia struggles to find 
+experts in some cases.63 The catch of this challenge is that often, people need to move to 
+more urban areas to gain these skills, which then takes them away from the area that needs 
+them.  
+A further complicating issue for the future is how vulnerable certain jobs and industries are to 
+automation. Jobs that perform non-routine tasks that are high skilled (professionals and 
+managers) and low skilled (personal and community services) are growing and have lower 
+risk from automation and digitalisation. Mid and lower skilled jobs where Indigenous peoples 
+have a greater share of employment (machinery operators, drivers and labourers) have 
+higher risk of automation. These risks are compounded by regions experiencing 
+socioeconomic factors like lower education levels, a more rural economy that relies on a 
+smaller number of industries and employers, and a larger tradable sector where Indigenous 
+people are statistically less likely to be employed (i.e. professional, scientific, technical or 
+financial services). This generates potential future risks for the Indigenous workforce 
+because a higher proportion are in rural areas, and they generally have lower skills than the 
+non-Indigenous population.64 
+OPPORTUNITY: Funding education and training programs where First Nations people 
+can learn within their communities and on their Country will help to grow skills and 
+expertise in remote communities. 
+4.1.2 Language and cultural protocols 
+Some Indigenous people in rural and remote First Nations communities speak their own 
+languages and may need assistance with translation for communications in English.  For 
+many Indigenous groups, it is best to communicate in plain English and to consider using 
+Indigenous concepts of communication, such as using more visuals or Indigenous points of 
+view. 
+60 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+61 OECD (2020). 
+62 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+63 Consultation with Michael Davis, Indigenous Land and Sea Corporation – Agribusiness division, 26 
+April 2022. 
+64 OECD (2020).
+
+29 
+Cultural protocols can also be a factor. First Nations communities often have specific rules 
+and protocols around decision-making processes. These may impact deadlines set by 
+external parties or be a barrier to communication between Indigenous and non-Indigenous 
+organisations.  
+OPPORTUNITY: Agencies and organisations seeking to engage with Indigenous 
+peoples and support growth in remote communities need an understanding of 
+cultural protocols and translators or cultural interpreters if necessary.65 This can be 
+achieved by engaging Indigenous expert advisors, employing cultural liaisons and 
+building relationships with communities. 
+4.1.3 Understanding of ICIP rights 
+First Nations communities in rural and remote areas often have low knowledge or 
+understanding of what is meant by Indigenous Cultural and Intellectual Property, or what 
+their rights are in relation to ICIP.  
+Some sectors are more protective or concerned about sharing of Indigenous knowledge than 
+others. For many areas, including arts and culture, there is a sense that the information is 
+already out there, and it is too late to protect it. For bushfoods and native flora, however, 
+much still remains unknown to western science, and there is great concern amid First 
+Nations communities about protecting that knowledge.66 First Nations people also may have 
+low trust in organisations seeking to use and share their knowledge due to past instances of 
+information being stolen without attribution or benefit sharing. Recording information, using 
+traditional knowledge and traditional cultural expression will require free, prior informed 
+consent. The observance of cultural protocols for use of ICIP is key to effective engagement 
+and to share knowledge given that Indigenous information has been exploited in the past. 
+OPPORTUNITY: Facilitating the extension of the work of First Nations advocates to 
+remote communities relating to ICIP, negotiating contracts, respect and protection of 
+traditional knowledge and other complexities.67  
+4.2 Trust  
+4.2.1 Protecting traditional knowledge 
+Western legal systems are often insufficient to protect traditional knowledge. Patents have 
+been approved for non-Indigenous ownership of traditional medicine practices, without credit 
+or profit to the Indigenous sources of that information.68 Indigenous words are trade marked 
+without consent, and art styles are mimicked without recourse.69  
+65 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+66 Consultation with Michael Davis, Indigenous Land and Sea Corporation – Agribusiness division, 26 
+April 2022. 
+67 See, for example, the workshops designed and delivered by Terri Janke and Company: 
+https://www.terrijanke.com.au/workshop.  
+68 See for example the Gumby Gumby patent. https://www.smh.com.au/business/the-economy/a-
+native-plant-is-exposing-the-clash-between-traditional-knowledge-and-western-conventions-
+20190925-p52upf.html  
+69 See for example the Fake Art Harms Culture campaign. 
+https://visualarts.net.au/advocacy/campaigns/fake-art/
+
+30 
+Past practices such as this can have significant impact on the trust that First Nations people 
+and organisations feel when engaging with non-Indigenous organisations and governments 
+and in industries.  
+OPPORTUNITY: Implement and observe Indigenous Cultural and Intellectual Property 
+Protocols and Indigenous Data Sovereignty and Indigenous Data Governance policies 
+to guide engagement and support First Nations groups to build trust in engaging with 
+non-Indigenous people and markets. 
+4.3 Land and waters 
+4.3.1 Access to land 
+Aboriginal and Torres Strait Islander people have a complicated legal relationship to land in 
+Australia, as although they are the First Peoples of this country and have been the traditional 
+owners of the land and waters for 60,000 years, the law offers only limited recognition of that 
+connection. 
+Land underpins public and private investment in Australia (including access to resources, 
+business creation and home ownership). Our financial system is based on land ownership, 
+which presents challenges to Indigenous peoples who either don’t have land or don’t want to 
+use it. First Nations communities hold the freehold title to approximately 17% of the country, 
+mainly in the Northern Territory and South Australia.70 Often, First Nations organisations will 
+have had to fight hard to get their country back, which may limit their willingness to use it as 
+security.71  
+Noting that Indigenous ownership and access to land is outside the scope of the Future 
+Drought Fund, it is still included here for completeness in an analysis of the barriers to 
+innovation in rural and remote communities.  
+4.3.2 Water rights 
+Lack of access to water deprives Aboriginal people of opportunities to exercise self-
+determination, care for Country, and generate wealth from agricultural production. Aboriginal 
+people currently own less than 1% of water rights in the Murray-Darling Basin.72  
+Aboriginal people have been calling for recognition of cultural flows in policy and practice. 
+Cultural flows are “water entitlements that are legally and beneficially owned by the 
+Indigenous Nations of a sufficient and adequate quantity and quality to improve the spiritual, 
+cultural, environmental, social and economic conditions of those Indigenous Nations”.73 
+The ILSC is doing a lot of work presently in supporting Indigenous water rights.  
+70 Nicholas, Josh, Calla Wahlquist, Andy Ball and Nick Evershed, ’Who owns Australia?’ The 
+Guardian (online, 17 May 2021) https://www.theguardian.com/australia-news/ng-
+interactive/2021/may/17/who-owns-australia.  
+71 Consultation with Michael Davis, Indigenous Land and Sea Corporation – Agribusiness division, 26 
+April 2022. 
+72 O’Donnell, Erin et al, ‘Returning water rights to Aboriginal people’ Pursuit (online, 6 April 2021) 
+https://pursuit.unimelb.edu.au/articles/returning-water-rights-to-aboriginal-people.  
+73 Murray-Lower Darling Rivers Indigenous Nations (MLDRIN), Echuca Declaration (19 May 2010) 
+https://www.mdba.gov.au/sites/default/files/pubs/sa-mldrin-echuca-declaration-2009.PDF.
+
+31 
+As above, it is noted that Aboriginal water rights are not within the work areas of the Future 
+Drought Fund. Nevertheless, it is included here for completeness and for awareness of the 
+issue.  
+4.3.3 Restrictions from funding frameworks  
+Many sources of funding and land grants for First Nations peoples carry conditions and 
+restrictions on permitted uses.  
+Freehold land owners can do what they want with their land. Native title and funding 
+framework, by contrast, are too restrictive for commercial agricultural practices for Aboriginal 
+people. Grants from the ILSC can take years to yield funding and are often subject to strict 
+conditions.  
+Current systems for facilitating Indigenous access and management of land are business 
+responsive and paternalistic, and present a challenge to remote and rural communities who 
+may not have the knowledge or resources to manage compliance.74 
+OPPORTUNITY: Reduce ‘red tape’ around grant funding and land use structures and 
+make funding sources more accessible for First Nations peoples.  
+4.4 Resourcing 
+4.4.1 Visibility 
+First Nations businesses operating in low-visibility industries face unique challenges. This is 
+particularly evident in the bushfoods and bush medicine sector. 
+Despite the fact that bushfoods and bush medicine are inherently innovative (in the sense of 
+their ‘newness’ to the western market – native flora have of course been in use by First 
+Nations people for thousands of years), Indigenous businesses often struggle to profit from 
+this innovation. Bushfoods and bush medicines are perceived as microbusinesses, often 
+gimmicky markets,75 rather than the impressive industry that they could be. There are some 
+notable exceptions, such as the Melaleuca alternifolia or tea tree, though this native 
+botanical has been extensively marketed by both Indigenous and non-Indigenous 
+businesses. 
+Emerging industries don’t have the same existing supply chains and pathways to market as 
+conventional farming and agriculture. Indigenous businesses have to work harder to set up 
+their own facilities and marketplaces. This comprises product development, patenting, trade 
+marking and marketing, and many other aspects.76 Add to this the demands of the food 
+safety process and commercial production, and it begins to explain why there are 
+approximately 6,400 known native foods and botanicals, but only 18 are in commercial 
+production.77  
+74 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022; Consultation with Michael Davis, Indigenous Land and Sea 
+Corporation – Agribusiness division, 26 April 2022. 
+75 Mitchell and Becker (2019).  
+76 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+77 Riga, Rachel, ‘Australian bush tucker industry push to transform native foods for international 
+consumption’, ABC News (online, 17 Nov 2019) https://www.abc.net.au/news/2019-11-17/native-
+bush-foods-australian-bush-tucker-going-global/11658008.
+
+32 
+Low visibility can mean there is often a lack of research in the sector. To continue with the 
+bushfoods example, there are exceptions like the Kakadu plum, but many native florae are 
+under-researched. For instance, there are approximately 150 edible species of wattle seed 
+in Australia, yet only one has a significant scientific backing.78  In many circumstances, First 
+Nations groups have been willing to partner with universities or research organisations in 
+collaborative partnerships to investigate the properties and develop products using native 
+flora. These partnerships can be highly successful and mutually beneficial where they are 
+conducted with respect for best practice standards and applicable cultural protocols around 
+uses of Indigenous ecological knowledge. It is important that any research that is conducted 
+in these fields has respect for the cultural frameworks, restrictions and ICIP of Indigenous 
+peoples.  
+OPPORTUNITIES:  
+Support a vision and picture of a First Nations-led native food and pharmaceuticals 
+industry.  
+Deliver funding for First Nations-led research projects to investigate and develop 
+other native Australian plants and resources, on their terms and with respect and 
+protection for Indigenous Cultural and Intellectual Property, and benefit sharing 
+arrangements.  
+Provide support and resourcing to build supply chains and pathways to market to 
+help transition from isolated microbusinesses to a broad First Nations-led industry. 
+4.4.2 Funding 
+Low visibility of industries and businesses can result in low availability of funding, further 
+limiting the capacity of small First Nations businesses to grow and innovate.  
+Funding processes can also be complicated and restrictive, making it challenging for First 
+Nations organisations without staff experienced in grant writing and acquittal to get access to 
+funding.  
+Common reasons for funding applications by First Nations organisations being unsuccessful 
+include: 
+• 
+Viability of the project proposal  
+• 
+Governance of organisation applying and their perceived capability to deliver the 
+project 
+• 
+Lack of technical expertise79 
+Indigenous businesses are creative. They have no lack of imagination and are big on 
+aspiration, but the practical side is difficult. Community leaders in remote places are 
+stretched thin with responsibilities.  
+OPPORTUNITY: Support First Nations businesses to apply for funding grants by 
+developing viable project plans, building strong organisational governance structures 
+and preparing sufficient proposals.  
+78 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+79 Consultation with Michael Davis, Indigenous Land and Sea Corporation – Agribusiness division, 26 
+April 2022.
+
+33 
+4.4.3 Access to services  
+Remote communities often have limited access to services. This doesn’t only mean 
+healthcare, schools and infrastructure, but extends further to specialised services relevant to 
+particular industries. Farmers and agriculturalists in remote communities or regions have to 
+be highly self-reliant, with only limited access to the consultants or agronomists that may be 
+more readily available in populated areas.80 This exacerbates the impact of problems in 
+many cases, as consultants are only called in to deal with problems, rather than to 
+proactively assist with growth and expansion.  
+In addition, costs of living in remote communities may be much higher for necessities like 
+groceries and petrol. For example, average food prices in the Kimberley are 14.5 per cent 
+higher than in Perth.81  
+OPPORTUNITY: Incentivise or facilitate industry-specific goods and services being 
+available to rural and remote communities. 
+4.4.4 Technology  
+Rural and remote communities often don’t have the same access to developing technologies 
+as urban centres.  
+The power of technology in Indigenous business is evident, in examples like the 
+Mamabulanjin Aboriginal Corporation case study above, and in many more contexts. 
+Conversely, the impacts of not having access to industry-specific technology can be severe. 
+In consultation, stakeholders referred to an example where 400 cows died on a remote cattle 
+station because didn’t have it didn’t have the technology to monitor the water and didn’t 
+know the bore was out.82 Technology can assist with remote communities and businesses 
+becoming proactive, rather than reactive. 
+OPPORTUNITY: Extension of existing technologies to rural and remote Indigenous 
+communities and businesses will assist their growth and competitiveness in the 
+market.  
+Models like NAILSMA83 and others where Indigenous people are collecting data about the 
+changes in the environment will be an important opportunity. Indigenous data and 
+knowledge of cultural practices, what is happening on Country, seasonal changes, etc., will 
+be important for managing drought resilience. These data sets will enable First Nations 
+people and organisations to plan and manage the environment and help the wider Australian 
+community. Indigenous data sovereignty will need to be considered in managing these 
+projects. 
+4.5 Governance and structure 
+4.5.1 Unincorporated groups  
+Many First Nations organisations are unincorporated. There is a degree of difficulty in 
+moving from a group of people sitting around and talking to building the commercial structure 
+80 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022.  
+81 Office of Northern Australia, Green Paper (2014) p. 31. 
+82 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+83 North Australian Indigenous Land and Sea Management Alliance Ltd, https://nailsma.org.au/
+
+34 
+and productivity of an Aboriginal Corporation under the CATSI Act, or any other kind of 
+registered corporation or organisation. Incorporating carries additional costs and legal and 
+financial requirements which may be challenging for First Nations organisations.  
+Unincorporated organisations carry additional risks for members, as they can be individually 
+and personally responsible for any debts, liabilities, or insurance claims. Unincorporated 
+organisations are also unable to hold assets and may have difficulty accessing grants as 
+funding programs will often require funding recipients to be incorporated. 
+4.5.2 Directorship and management 
+Research has found that the majority of failed Indigenous corporations resulted from the 
+poor performance of their directors and staff, either intentionally or negligently.84 This is 
+consistent with trends of corporate failure for non-Indigenous businesses.  
+Analysis conducted by ORIC of 93 failed Indigenous corporations between 1996 and 2008 
+revealed seven classes of Indigenous corporate failure. Anecdotally, many of the issues 
+described in this report are still the reasons for Indigenous corporate failure to date, though 
+with some differences in frequency.85 
+A significant risk to Indigenous corporations comes from the performance of the people in 
+charge of the organisation. 42% of failed corporations experienced a lack of diligence in their 
+directors, including not meeting obligations, holding meetings or registering members, while 
+25% reported mismanagement in accounting or record keeping. Notably, the corporations 
+that failed due to governance issues were largely revived following a period of special 
+administration, which suggests that corporate governance support services and training 
+would improve outcomes both before and after corporate failure.86 
+OPPORTUNITY: Increased access to corporate governance training and funding 
+sources to allow businesses and corporations to hire staff with the skills to manage 
+accounting, reporting, compliance and other affairs. Once these basic necessities for 
+operating a corporation are met, Indigenous businesses will be freer to consider 
+opportunities for expansion and innovation in their respective product or service 
+areas.  
+4.5.3 Competing business models 
+First Nations businesses are often social enterprises. They operate with the dual purpose of 
+improving social welfare and community connectedness, as well as having a commercial 
+mission of profit and economic success.  
+Many of these businesses represent an innovation in and of themselves, of being a “cultural 
+business”. ‘Cultural business activities are customary activities in which goods and services 
+are produced for the market using culturally derived knowledge and skills and communally 
+owned resources, and include the manufacture of arts and crafts’.87 Businesses of this 
+model, such as Indigenous art centres, bushfoods industries or cultural tourism ventures, 
+innovatively apply their ICIP and traditional knowledge in a commercial context. There is 
+84 ORIC, Analysing key characteristics in Indigenous corporate failure (Research paper, March 2010). 
+85 Consultation with Gerrit Wanganeen, Deputy Registrar, ORIC, 21 April 2022. 
+86 ORIC (2010) pp. 47-48, 70. 
+87 Jones, Janice et al., ‘Barriers to grassroots innovation: The phenomenon of social-commercial-
+cultural trilemmas in remote indigenous art centres’ (2021) Technological Forecasting & Social 
+Change, vol. 164, p. 2.
+
+35 
+growth in new sectors including energy, mining and facilities management and also JVs with 
+larger companies who provide infrastructure.  
+Businesses operating with these dual missions face what has been referred to as the ‘social-
+commercial-cultural trilemma’. Though enterprises of this type offer considerable benefit to 
+remote communities such as employment, economic development and sharing of 
+Indigenous culture with Australia and the world, the different values and needs of each 
+purpose create tensions. These tensions include: 
+• 
+Employment models and expectations – Western ideas of schedules and 
+performance measures, as compared to Indigenous conceptions of work hours which 
+might be contingent on the season, weather or tide; 
+• 
+Productivity – in the context of art centres, for example, where First Nations artists 
+may be driven to create work for cultural or spiritual reasons, rather than in response 
+to commissions or profit. Researchers have also pointed out that customary activities 
+such as hunting, fishing and spending time on country constitute a productive use of 
+time for First Nations people; 
+• 
+Skilled management – while boards of directors usually comprise elders and cultural 
+authorities, low levels of commercial experience among remote First Nations 
+communities mean management positions are often filled by non-Indigenous people. 
+This causes upset for communities who would rather upskill local people rather than 
+bringing in external talent.88 
+OPPORTUNITY: Recognising and harnessing the value and importance that 
+Indigenous people place on relationships, culture, Country and community may help 
+to solve issues. Connecting with key First Nations organisations, families, cultural 
+authority figures and elders, and cultivating relationships built on trust, can help to 
+advance organisational goals as well as social and cultural ones.89 
+4.6 Community wellbeing   
+4.6.1 Mental health 
+Insufficient access to health and support systems can have significant impacts on rural and 
+remote communities. Farmers and agriculture-reliant communities can face severe mental 
+health impacts from drought and other environmental circumstances.  
+4.6.2 Context of disadvantage 
+The poverty and violence that exists in some remote communities presents challenges to 
+businesses in some cases. Research notes that these are rarer than the commercial 
+tensions described above at 4.5, though they are still worth noting. Challenges resulting from 
+this context include lack of work-life balance, minimal support systems, and conflicts over 
+money.90 
+OPPORTUNITY: Investing in community wellbeing and healing programs and 
+community inclusion systems to recognise the significant impact that remote living, 
+drought, social disadvantage and other factors can have on community health.  
+88 Jones et al (2021), pp. 6-10.  
+89 Jones et al (2021), p. 10. 
+90 Jones et al (2021), p. 10.
+
+36 
+5 SUMMARY OF OPPORTUNITIES AND RECOMMENDATIONS  
+1.  
+Education 
+1.1  
+Funding education and training programs where First Nations people can learn within 
+their communities and on their Country will help to grow skills and expertise in remote 
+communities. 
+1.2 
+Agencies and organisations seeking to engage with Indigenous peoples and support 
+growth in remote communities need an understanding of cultural protocols and translators or 
+cultural interpreters if necessary.91 This can be achieved by engaging Indigenous expert 
+advisors, employing cultural liaisons and building relationships with communities. 
+1.3 
+Facilitating the extension of the work of First Nations advocates to remote 
+communities relating to Indigenous Cultural and Intellectual Property, negotiating contracts, 
+respect and protection of traditional knowledge and other complexities.92  
+2. 
+Trust 
+2.1 
+Develop Indigenous Cultural and Intellectual Property Protocols and Indigenous Data 
+Sovereignty and Indigenous Data Governance policies to guide engagement and support 
+First Nations groups to build trust in engaging with non-Indigenous people and markets. 
+3 
+Land and water  
+3.1 
+Reduce ‘red tape’ around grant funding and land use structures and make funding 
+sources more accessible for First Nations peoples. 
+4. 
+Resourcing 
+4.1 
+Supporting a vision and picture of a First Nations-led native food and medicine 
+industry. Deliver funding for First Nations-led research projects to investigate and develop 
+native Australian plants and resources, on their terms and with respect and protection for 
+Indigenous Cultural and Intellectual Property, and benefit sharing arrangements. Provide 
+support and resourcing to build supply chains and pathways to market to help transition from 
+isolated microbusinesses to a broad First Nations-led industry. 
+4.2 
+Support First Nations businesses to apply for funding grants by developing viable 
+project plans, building strong organisational governance structures and preparing sufficient 
+proposals. 
+4.3 
+Incentivise or facilitate industry-specific goods and services being available to rural 
+and remote communities. 
+4.4 
+Extension of existing technologies to rural and remote Indigenous communities and 
+businesses to assist their growth and competitiveness in the market. 
+5. 
+Governance and structure 
+5.1 
+Increased access to corporate governance training and funding sources to allow 
+businesses and corporations to hire staff with the skills to manage accounting, reporting, 
+compliance and other affairs. Once these basic necessities for operating a corporation are 
+91 Consultation with Amanda Garner, General Manager, First Nations Bushfoods and Botanicals 
+Alliance Australia, 20 April 2022. 
+92 See, for example, the workshops designed and delivered by Terri Janke and Company: 
+https://www.terrijanke.com.au/workshop.
+
+37 
+met, Indigenous businesses will be freer to consider opportunities for expansion and 
+innovation in their respective product or service areas. 
+5.2 
+Recognising and harnessing the value and importance that Indigenous people place 
+on relationships, culture, Country and community may help to solve issues. Connecting with 
+key families, cultural authority figures and elders and cultivating relationships built on trust 
+can help to advance organisational goals as well as social and cultural ones.93 
+6. 
+Community wellbeing 
+6.1  
+Investing in community wellbeing and healing programs and community inclusion 
+systems to recognise the significant impact that remote living, drought, social disadvantage 
+and other factors can have on community health. 
+93 Jones et al (2021), p. 10.
+
+38 
+6 APPENDICES 
+6.1 Methodology 
+This report is informed by desktop research and consultation sessions. A complete list of all 
+sources reviewed is included in the literature review at the end of this report.  
+Consultation was conducted with Office of the Registrar of Indigenous Corporations (ORIC) 
+to understand and characterise the demographics and features of Indigenous corporations in 
+rural and remote communities. Also consulted was the National Indigenous Australians 
+Agency (NIAA), to discuss their current work areas and build an understanding of how rural 
+and remote Indigenous communities use RDEA&C.  
+Additional consultation was conducted with the First Nations Bushfoods and Botanicals 
+Alliance Australia (FNBBAA) and the Agribusiness division of the Indigenous Land and Sea 
+Corporation (ILSC). 
+We note that a comprehensive understanding of the gaps, barriers and opportunities for 
+Indigenous businesses in remote and rural communities requires meaningful, extensive and 
+direct on the ground engagement with those businesses and communities. This report 
+should be considered as a starting point, to provide an overview of issues in the literature 
+relevant to Indigenous drought resilience and a guide to further consultation, research and 
+investigation in this sector.  
+6.2 Literature Review 
+Articles/Books/Research 
+Australian Bureau of Statistics, Estimates of Aboriginal and Torres Strait Islander 
+Australians, June 2016 Census (online, released 31 August 2018) 
+https://www.abs.gov.au/statistics/people/aboriginal-and-torres-strait-islander-
+peoples/estimates-aboriginal-and-torres-strait-islander-australians/jun-2016 
+(updated 21 March 2022) https://data.gov.au/dataset/ds-dga-2c072eed-d6d3-4f3a-a6d2-
+8929b0c78682/details?q= 
+Commonwealth of Australia, National Indigenous Australians Agency, Fee for Service in 
+Indigenous Land and Sea Management: Impact Assessment and Analysis (2018) 
+Cumpston, Zena (2020) Indigenous plant use: A booklet on the medicinal, nutritional and 
+technological use of indigenous plants, Clean Air and Urban Landscapes Hub, The 
+University of Melbourne, Victoria, Australia, https://nespurban.edu.au/wp-
+content/uploads/2020/08/Indigenous-plant-use.pdf 
+Department of Primary Industries and Regional Development (WA), ‘Setting up for Success: 
+Bushfoods’ (2021), 
+https://www.agric.wa.gov.au/sites/gateway/files/Setting%20up%20for%20Success%20-
+%20Bushfoods%20web_0.pdf
+
+39 
+Department of Industry, Innovation and Science (Cth), Australia’s National Hydrogen 
+Strategy (COAG Energy Council, 2019) https://www.industry.gov.au/sites/default/files/2019-
+11/australias-national-hydrogen-strategy.pdf 
+Janke, Terri, Our Culture: Our Future – Report on Australian Indigenous Cultural and 
+Intellectual Property Rights (Report prepared for Aboriginal and Torres Strait Islander 
+Commission and the Australian Institute of Aboriginal and Torres Strait Islander Studies, 
+1998). 
+Janke, Terri, True Tracks: Respecting Indigenous knowledge and culture (2021) NewSouth 
+Publishing, Sydney. 
+Janke, Terri, Clara Klemski and Laura Melrose, ‘Bushfires, climate change and Indigenous 
+Ecological Knowledge: healing country through holistic environmental management’ (2021) 
+Australian Environment Review, Vol 36(4). 
+Jarvis, Diane et al, ‘Are Indigenous land and sea management programs a pathway to 
+Indigenous economic independence?’ (2018) The Rangeland Journal, vol. 40, pp. 423-424 
+Jones, Janice et al., ‘Barriers to grassroots innovation: The phenomenon of social-
+commercial-cultural trilemmas in remote indigenous art centres’ (2021) Technological 
+Forecasting & Social Change, vol. 164. 
+Kingham, Fleur,  “The impact of environmental law on Indigenous women in Australia” 
+(Speech, International Association of Women Judges Biennial Conference, Auckland New 
+Zealand, 8 May 2021) http://classic.austlii.edu.au/au/journals/QldJSchol/2021/10.html.  
+Lovett, Raymond et al. (2019) ‘Good data practices for indigenous data sovereignty and 
+governance’. In A. Daly, S. K. Devitt, & M. Mann (Eds.), Good Data (pp. 26–36). Amsterdam: 
+Institute of Network Cultures 
+Morley, Sam, ‘What works in effective Indigenous community-managed programs and 
+organisations’, CFCA Paper no. 32, Australian Institute of Family Studies (2015) 
+Muyambo, Fummi, Yonas T Bahta and Andries J Jordaan, ‘The role of indigenous 
+knowledge in drought risk reduction: A case of communal farmers in South Africa’ (2017) 
+Jamba – Journal of Disaster Risk Studies, vol. 9(1), p. 410 
+NIAA, Indigenous Business Sector Strategy 2018-2028, 
+https://www.niaa.gov.au/sites/default/files/publications/ibss_strategy.pdf 
+O’Donnell, Erin et al, ‘Returning water rights to Aboriginal people’ Pursuit (online, 6 April 
+2021) https://pursuit.unimelb.edu.au/articles/returning-water-rights-to-aboriginal-people 
+OECD, Linking Indigenous Communities with Regional Development in Australia (2020) 
+OECD Rural Studies, OECD Publishing, Paris, https://doi.org/10.1787/ab4d8d52-en 
+ORIC, Analysing key characteristics in Indigenous corporate failure (Research paper, March 
+2010). 
+Smith, D.E. (2016) ‘Governing data and data for governance: the everyday practice of 
+indigenous sovereignty’. In Kukutai, Tahu and John Taylor (eds), Indigenous Data 
+Sovereignty: Towards an Agenda, CAEPR Research Monograph, 2016/34. Canberra: ANU 
+Press, pp. 117–138
+
+40 
+Supply Nation, State of Indigenous Business: Driving growth across the Indigenous business 
+sector (Research Report No. 1, December 2020) https://supplynation.org.au/research-
+paper/state-of-indigenous-business-driving-growth/ 
+Walter, M. and S. R. Carroll, (2021) ‘Indigenous Data Sovereignty, governance and the link 
+to Indigenous policy’. In Walter, M. et al, (eds) Indigenous data sovereignty and policy (pp. 1-
+20) (New York: Routledge, 2021)  
+News/Media 
+‘A community in action: How Walgett is redefining food systems’, Dharriwaa Elders Group 
+(Blog, October 2021) 
+https://www.dharriwaaeldersgroup.org.au/index.php/yuwayangarrali/38-yn-publications/215-
+un-food-summit-2021-walgett-case-study 
+‘Aboriginal rangers get hands on with the latest technologies’, NITV (online, 14 October 
+2017) https://www.sbs.com.au/nitv/culture/article/2017/10/12/aboriginal-rangers-get-hands-
+latest-technologies    
+‘AI helps Indigenous Council recycle’, Local Government Focus (online, 1 November 2021) 
+https://lgfocus.com.au/news/2021/11/01/ai-helps-indigenous-council-recycle/  
+Australian Nuclear Science and Technology Organisation, ‘ANSTO helps verify the origin of 
+traditional Aboriginal products to benefit consumer confidence and Aboriginal enterprises’ 
+(Article, 13 August 2021) https://www.ansto.gov.au/news/ansto-helps-verify-origin-of-
+traditional-aboriginal-products-to-benefit-consumer-confidence 
+Barndon, Glenn, ‘Indigenous regenerative land management included in agricultural program 
+at TAFE’, ABC News (online, 21 July 2020) https://www.abc.net.au/news/2020-07-
+21/indigenous-regenerative-land-education-course-at-tafe/12268326  
+Chan, Gabrielle, ‘'All about the land': drought shakes farming to its Indigenous roots’, The 
+Guardian (online, 6 October 2018) 
+https://www.theguardian.com/environment/2018/oct/06/all-about-the-land-drought-shakes-
+farming-to-its-indigenous-roots 
+Cormack, Holly, ‘AI tech to put town ahead of the pack’, The Chronicle (online, 30 March 
+2021) https://www.pressreader.com/australia/the-chronicle-
+8992/20210330/281797106784797  
+Cornell, Anna, ‘Improving On-Farm Biodiversity and Drought Resilience Day at Gunnado’, 
+Northern Agricultural Catchments Council (Blog, 30 March 2022) 
+https://www.nacc.com.au/improving-on-farm-bodiversity-and-drought-resilience-day-at-
+gunnado/ 
+‘Crown land unlocking ‘pathways’ for Aboriginal cultural heritage and health’, Mirage News 
+(online, 25 March 2022) https://www.miragenews.com/crown-land-unlocking-pathways-for-
+aboriginal-750892/ 
+Harris, Cecilia, ‘Remote SA town's new desalination plant’ Australian Water Association 
+(online, 24 June 2021) https://www.awa.asn.au/resources/latest-news/business/assets-and-
+operations/remote-sa-towns-new-desalination-plant.  
+Hart, Ashleigh Chanel et al, ‘Indigenous Community-Led Programs to Address Food and 
+Water Security: Protocol for a Systematic Review’ (2021) vol. 18(12) International Journal of 
+Environmental Research and Public Health 6366 http://dx.doi.org/10.3390/ijerph18126366
+
+41 
+Hill, Joshua S., ‘Infinite Blue signs deal with indigenous energy group for solar hydrogen 
+plant’, Renew Economy, https://reneweconomy.com.au/infinite-blue-signs-deal-with-
+indigenous-energy-group-for-solar-hydrogen-plant/ 
+How, Brendan, ‘NT’s $50 billion Indigenous renewable energy partnership’, Innovation Aus 
+(online, 25 February 2022) https://www.innovationaus.com/nts-50-billion-indigenous-
+renewable-energy-partnership/ 
+Lannin, Sue, ‘First Nations clean energy network set up to deliver cheap and reliable power 
+to Indigenous communities’, ABC News (online, 17 Nov 2021) 
+https://www.abc.net.au/news/2021-11-17/first-nations-clean-energy-network-bringing-
+renewable-power/100623596 
+Mitchell, Ruby and Joshua Becker, ‘Bush food industry booms, but only 1 per cent is 
+produced by Indigenous people’ ABC News (19 January 2019) 
+https://www.abc.net.au/news/rural/2019-01-19/low-indigenous-representation-in-bush-food-
+industry/10701986 
+Nicholas, Josh, Calla Wahlquist, Andy Ball and Nick Evershed, ’Who owns Australia?’ The 
+Guardian (online, 17 May 2021) https://www.theguardian.com/australia-news/ng-
+interactive/2021/may/17/who-owns-australia 
+O’Donnell, Erin et al, ‘Returning water rights to Aboriginal people’ Pursuit (online, 6 April 
+2021) https://pursuit.unimelb.edu.au/articles/returning-water-rights-to-aboriginal-people 
+ORIC, ‘Backgrounding cattle, foregrounding community’ (Article, June 2021) 
+https://www.oric.gov.au/publications/spotlight/backgrounding-cattle-foregrounding-
+community  
+ORIC, ‘Bush food, meet tech’ (Article, September 2021) 
+https://www.oric.gov.au/publications/spotlight/bush-food-meet-tech 
+ORIC, ‘Credit for mitigating climate change’ (Article, October 2021) 
+https://www.oric.gov.au/publications/spotlight/credit-mitigating-climate-change  
+Parry, Danita, ‘Telstra trials technologies to grow the Australian carbon market’, Telstra 
+(Media Release, 24 March 2022) https://www.telstra.com.au/aboutus/media/media-
+releases/carbon-farm-trial 
+Riga, Rachel, ‘Australian bush tucker industry push to transform native foods for 
+international consumption’, ABC News (online, 17 Nov 2019) 
+https://www.abc.net.au/news/2019-11-17/native-bush-foods-australian-bush-tucker-going-
+global/11658008 
+Schremmer, Jessica, ‘Aboriginal farmer sees native bush food as pathway to connect with 
+troubled youth’, ABC News (online, 1 March 2021) https://www.abc.net.au/news/2021-03-
+01/aboriginal-farmer-creates-reconnection-through-native-bush-foods/13194092 
+Smith, Dominic, ‘Empowering people through education reconnection’, Pundi Produce (Blog, 
+30 Aug 2021) https://pundiproduce.com.au/empowering-people-through-education/ 
+Southern Farming Solutions, ‘University of Melbourne led projects receive $2.1m through 
+Drought Resilience Innovation Grants’ (Article, 21 March 2022) 
+https://sfs.org.au/article/university-of-melbourne-led-projects-receive-2-1m-through-drought-
+resilience-innovation-grants
+
+42 
+‘Watch: Indigenous Reality adds new dimensions to Virtual Reality’, Welcome to Country 
+(online, 16 October 2017) https://www.welcometocountry.org/indigenous-reality-virtual-
+reality/   
+Willis, Carli, ‘Indigenous custodians work with universities to bring bush foods and remedies 
+to market’, ABC News (online, 19 March 2022) https://www.abc.net.au/news/2022-03-
+19/bush-foods-remedies-longreach-indigenous-university-project/100921012 
+Policies/Protocols 
+AIATSIS, Code of Ethics for Aboriginal and Torres Strait Islander Research (2020) 
+https://aiatsis.gov.au/research/ethical-research/code-ethics.  
+Australia Council for the Arts, Protocols for using First Nations Cultural and Intellectual 
+Property in the Arts (2019) https://australiacouncil.gov.au/investment-and-
+development/protocols-and-resources/protocols-for-using-first-nations-cultural-and-
+intellectual-property-in-the-arts/.  
+Kimberley Land Council et al, Collaborative Science on Kimberley Saltwater Country – A 
+Guide for Researchers (2017) 
+https://www.ipaustralia.gov.au/sites/default/files/kimberley_indigenous_ 
+saltwater_science_project_-
+_copy_of_collaborative_science_on_kimberley_saltwater_country.pdf 
+Maiam nayri Wingara Indigenous Data Sovereignty Collective and Australian Indigenous 
+Governance Institute (2018), Indigenous Data Sovereignty Communique, Canberra, 
+https://static1.squarespace.com/static/5b3043afb40b9d20411f3512/t/5b6c0f9a0e2e725e9ca
+bf4a6/1533808545167/Communique%2B-
+%2BIndigenous%2BData%2BSovereignty%2BSummit.pdf 
+Murray-Lower Darling Rivers Indigenous Nations (MLDRIN), Echuca Declaration (19 May 
+2010) https://www.mdba.gov.au/sites/default/files/pubs/sa-mldrin-echuca-declaration-
+2009.PDF 
+NAILSMA and CSIRO, ‘Our Knowledge, Our Way guidelines’ (2020) 
+https://www.csiro.au/en/research/indigenous-science/indigenous-knowledge/our-knowledge-
+our-way.  
+Office of Northern Australia, Green Paper (2014) p. 31. 
+Screen Australia, Pathways & Protocols: a filmmaker’s guide to working with Indigenous 
+people, culture and concepts (2009) https://www.screenaustralia.gov.au/about-us/doing-
+business-with-us/indigenous-content/indigenous-protocols 
+‘Traditional knowledge and biodiscovery’, Queensland Government (Web Page, 2020) 
+https://environment.des.qld.gov.au/licences-permits/plants-animals/biodiscovery/traditional-
+knowledge  
+Websites 
+Australian Museum, ‘Ghost net art’ (Web Page, 26 May 2020) 
+https://australian.museum/learn/cultures/atsi-collection/ghost-net-art/ 
+‘Indigenous Ecological Knowledge’, Atlas of Living Australia (Web Page, accessed 28 April 
+2022) https://www.ala.org.au/indigenous-ecological-knowledge/  
+Noongar Land Enterprise, https://www.noongarlandenterprise.com.au/
+
+43 
+North Australian Indigenous Land and Sea Management Alliance Ltd, https://nailsma.org.au/  
+ORIC, ‘Corporation size and reporting’ (Web Page) 
+https://www.oric.gov.au/publications/catsi-fact-sheet/corporation-size-and-reporting 
+Pormpuraaw Art & Culture Centre, ‘Our Story’ (Web Page) 
+https://pormpuraawartculture.com/  
+Supply Nation, ‘Black cladding’ (Web Page) https://supplynation.org.au/about-us/black-
+cladding/ 
+International instruments 
+Convention on Biological Diversity, opened for signature 5 June 1992, 1760 UNTS 79, 
+(entered into force 29 December 1993). 
+Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of 
+Benefits Arising from their Utilization to the 1992 Convention on Biological Diversity, opened 
+for signature 29 October 2010. 
+United Nations Declaration on the Rights of Indigenous Peoples, GA Res 61/295, UN Doc 
+A/RES/61/295 (2 October 2007, adopted 13 September 2007) (‘UNDRIP’) 
+Secretariat of the Convention on Biological Diversity, Bonn Guidelines on Access to Genetic 
+Resources and Fair and Equitable Sharing of the Benefits Arising out of their Utilization, 
+(Secretariat of the Convention on Biological Diversity, 2002) 
+6.3 Acronyms and initials 
+ABS 
+Australian Bureau of Statistics  
+AC 
+Aboriginal Corporation 
+ACNC 
+Australian Charities and Not-for-profits Commission 
+AIATSIS  
+Australian Institute of Aboriginal and Torres Strait Islander Studies  
+ALA 
+Atlas of Living Australia 
+ANSTO 
+Australian Nuclear Science and Technology Organisation  
+ASIC 
+Australian Securities and Investment Commission  
+BoM 
+Bureau of Meteorology 
+CATSI Act 
+Corporations (Aboriginal and Torres Strait Islander) Act 2006 (Cth) 
+CfAT 
+Centre for Appropriate Technology Limited  
+CSIRO 
+Commonwealth Scientific and Industrial Research Organisation 
+DAWE 
+DKA 
+Desert Knowledge Australia  
+DSO 
+Desert Springs Octopus  
+EPBC Act  
+Environment Protection and Biodiversity Conservation Act 1999 (Cth)  
+FDF  
+Future Drought Fund
+
+44 
+FNBBAA 
+First Nations Bushfoods and Botanicals Alliance Australia  
+IBSS 
+Indigenous Business Sector Strategy 
+ICIP  
+Indigenous Cultural and Intellectual Property 
+IDA 
+Indigenous Desert Alliance  
+IDS 
+Indigenous Data Sovereignty  
+IEK 
+Indigenous ecological knowledge  
+IJVs 
+Indigenous joint ventures  
+ILSC 
+Indigenous Land and Sea Corporation  
+IP 
+intellectual property  
+IPP 
+Indigenous Procurement Policies  
+JV  
+joint venture 
+MLDRIN 
+Murray-Lower Darling Rivers Indigenous Nations  
+NAAKPA 
+Northern Australia Aboriginal Kakadu Plum Alliance  
+NAILSMA 
+North Australian Indigenous Land and Sea Management Alliance  
+NIAA 
+National Indigenous Australians Agency  
+NTIBN 
+Northern Territory Indigenous Business Network  
+OECD 
+Organisation for Economic Co-operation and Development 
+ORIC 
+Office of the Registrar of Indigenous Corporations  
+R&D 
+research and development  
+RDEA&C 
+research, development, extension, adoption, and commercialisation  
+RNTBCs 
+registered native title bodies corporate  
+TAFE 
+Technical and Further Education 
+TCEs 
+Traditional cultural expressions  
+TJC  
+Terri Janke and Company  
+TK 
+Traditional knowledge  
+UNDRIP 
+United Nations Declaration on the Rights of Indigenous Peoples 
+UNTS 
+United Nations Treaty Series  
+WFW4L 
+Walgett Food and Water for Life Program

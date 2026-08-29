@@ -1,0 +1,170 @@
+Report on phase 2 of virtual 
+reality (VR) to support  
+foot-and-mouth disease 
+(FMD) preparedness 
+Trialling the upgraded experience 
+Animal Health Policy Branch
+
+2 
+© Commonwealth of Australia 2023 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for 
+any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the 
+information or data in this publication to the maximum extent permitted by law. 
+Acknowledgement of Country 
+We acknowledge the Traditional Custodians of Australia and their continuing connection to land and sea, waters, 
+environment and community. We pay our respects to the Traditional Custodians of the lands we live and work on, their 
+culture, and their Elders past and present.
+
+3 
+Aim of this report 
+This report is to document the findings of the phase 2 VR to support FMD training experience trials.  
+Key points 
+Users unfamiliar with VR technology may experience more challenges with the experience. 
+In general, the department’s role should be to work with training providers to incorporate VR 
+technology into relevant training modules where appropriate. 
+In general VR should be used to augment other training modalities, rather than as the sole 
+delivery method.  
+It is most useful for giving people a sense of novel environments, examining 3d objects, and 
+coarse hands-on motor skills. 
+There are challenges with distribution of the experience, and also due to the rapid pace of 
+development of the technology. These need to be overcome to make widespread use of this 
+technology for training. 
+Introduction and background 
+Phase 1 was a report available on the departmental website and a virtual reality experience from 
+Novus Res, based on the learning content of the EuFMD (The European Commission for the Control 
+of Foot-and-Mouth Disease) online courses and real time training. This virtual reality experience was 
+trialled within the department and received favourable feedback. 
+In view of the results of the trials, and the improvements in technology, a second phase was 
+commissioned – an upgraded experience developed by Novus Res. This was subsequently trialled, 
+and the learnings from these trials are detailed in this report. 
+Key deliverables and timeline  
+Phase 2 commenced in September 2021 and concludes with the publishing of this report. It includes: 
+development of the upgraded experience, including: 
+o more complex modules 
+o more complex user interaction with objects 
+o multiplayer capability 
+o exploring the process for distribution of the experience. 
+feedback on the content of the upgraded experience by a technical review group 
+trials of the upgraded experience 
+reporting on the findings of these trials. 
+The formal trials on the completed experience were held at the following times: 
+EuFMD trials in June 2022 
+A video of the upgraded experience can be found here: VR demonstration video
+
+4 
+Key findings 
+DAFF Trials 
+The key findings for the departmental were developed from 19 user questionnaire responses and the 
+debrief discussions that were held with the trial individuals at the conclusion of each trial session. 
+The majority of users had used VR before. The key findings were as follows: 
+The VR experience (headset wearing and moving through VR) was comfortable, and there 
+were minimal concerns about motion sickness. 
+VR for FMD training works best by supplementing other ways of training such as face to face 
+training and online training, rather than being the sole training modality. This supplemental 
+material may include pre-reading, debriefing and practical sessions.  
+It would be helpful if the 3-dimensional content that VR training covered was also available 
+via web-based portals that could be explored on a phone or computer. Although the VR 
+method is usually more engaging for learning of 3-dimensional content, a phone or computer 
+is likely to be more convenient.  
+There are arguments for and against short VR sessions (10-15 minutes or less), and it largely 
+depends on the individual user. Short sessions are more comfortable overall and allow time 
+for breaks and other learnings. However, some users find that it breaks the immersion and 
+learning, and their main discomfort is the disorientation of transitioning between the real 
+and virtual world. A reasonable approach is several short sessions with short breaks between 
+them – such as for reviewing content and debriefing – within a longer daily session. 
+The aspects that the users would most like to see improved is increased simplicity of object 
+manipulation and more gamified elements. VR is best for providing coarse manipulation of 
+objects and letting people feel present in an environment. 
+The training experiences that the users would be most interested in seeing would be hands-
+on biosecurity such as simulating a response, airport screening, learning about industry 
+locations such as a piggery, conducting decontamination procedures, necropsies, sampling, 
+and disease detection. 
+Almost all users indicated that they thought that each virtual reality module improved their 
+understanding of each topic area. Almost all would also recommend a training module based 
+on this VR experience to colleagues to improve their understanding of FMD training. All 
+would be willing to participate in VR trials in the future. 
+EuFMD Trials 
+The key findings from the 10 EuFMD trainees who used it were similar - although they were less 
+positive about the experience. The key findings from the EuFMD trials were that: 
+there was a mixed reaction to the experience with either strong positive feeling or negative 
+feeling. Overall, there was positive score for the training experiences 
+the highest positive score was for the module 1 – setting up a biosecurity control point 
+several users would have preferred a physically simpler experience and only a small proportion 
+of trainees had used VR before.
+
+5 
+The EuFMD findings are more likely to be representative of the overall sentiment of a random cohort 
+of trainees than the departmental trials. This is because most of the departmental trainees had 
+already shown positive interest in VR before their trials. 
+Distribution 
+There were a number of challenges in trialling the distribution methods as follows. 
+Meta (previously Facebook and Oculus) discontinued the business model, instead rolling into 
+a consumer version that required a personal Meta login. This meant that there was no longer 
+a fleet-based distribution system. 
+The only methods of distribution are publicly available App Labs early-access store or private 
+distribution through sending the experience to users and having them upload it to their 
+headsets via side-loading. There was not the option of hosting it on a closed section of the 
+App Lab store for private distribution. 
+COVID required management during the trial period, including cleaning the headsets 
+between each use and allowing a sufficient period of time to pass to mitigate the risks as per 
+WHS advice. 
+Because of COVID and increased risk of travel, departmental trials were limited to Canberra. The 
+experience was also distributed to EuFMD to trial.  
+In view of the potential legal risk, and administrative overhead of widely supporting the experience, 
+public distribution through the App Lab was not pursued. 
+Trial methods 
+The internal departmental trials were held from September and October of 2022 in Canberra as per 
+the following procedure: 
+The people selected were predominately in department, from those who had volunteered in 
+the previous phase 1 trials or had otherwise been recommended or expressed interest.  
+It also did include limited trails with several staff from external organisations who had 
+expressed interest.  
+20 people formally trialled the completed experience and filled out a feedback survey. One 
+questionnaire was incomplete, so 19 questionnaires were processed.  
+Additionally, an informal discussion session held immediately after the testing and comments 
+from this discussion were also recorded. 
+Only the single-player experience was trialled by the users. Due to the complexity of having 
+users test the multiplayer module, it was decided not to proceed with formal testing of 
+multiplayer. 
+An observer guided the user through the process for safety and provided guidance in the 
+experience. A health and safety usage sheet was reviewed before the experience, and a user 
+guide was provided. 
+COVID safe and hygiene procedures were followed. The guide wore a face mask. The user 
+was also given this option if they wished. The user also wore an eye-mask to minimise 
+contact with the headset, and the headsets and controller were both wiped with non-
+alcoholic cleaner between users.
+
+6 
+The EuFMD trials were held from June 2022 and followed the following procedure: 
+One section of their usual training cohort was selected for VR training. This likely made the 
+positive and negative findings more representative of an overall population of potential VR 
+trainees than the departmental trainees, who were largely self-selected. 
+10 people used the experience and provided formal written feedback using a modified form 
+of the survey sheet used in the departmental trials. 
+Next steps 
+Virtual reality is an emerging field. The hardware and software for VR is still maturing, with several 
+competitors that are rapidly evolving their products. It is likely to be several years before the 
+technology has stabilised. Valuable lessons can also be learned from similar industries to biosecurity, 
+such as emergency services, medical, and industrial VR training as well as education and gaming. 
+VR is of most benefit where it builds on a mature base of existing traditional (online, classroom, 
+practical) training. Rather than wholesale experiences of VR training, it may best to see it as an 
+additional way of exploring specific elements of traditional content that might benefit from the 
+greater interactivity and visualisation of the 3D content. Creating 3D and especially VR content is a 
+complex process.  
+Distribution of the experience is also complex. So, difficulty of overcoming these barriers should be 
+clearly justified by the benefit of the VR experience for a particular piece of learning content. Two 
+examples of potential good cases for use in VR noted by users were setting up of a biosecurity 
+control point, and for exploring of 3D models of lesions. 
+It is hoped that this phase 2 report combined with the phase 1 report will provide a foundation of 
+understanding for future VR developers. This is particularly for development of VR for biosecurity 
+related fields. The timeframe for these developments depends on the risks and opportunities for 
+training, technological progress, and speed of adoption in the wider community of VR.

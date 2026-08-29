@@ -26,6 +26,9 @@ Permitted scheduling interactions:
 - **Request** a proposal via the scheduling API (owner-initiated async job).
 - **Explain** an existing schedule or unscheduled reason (`/api/assistant/schedule-explanations`).
 - Emit **inert rule/task candidates** for owner review (`/api/assistant/rule-candidates`).
+- **Evaluate** hypothetical task feasibility read-only (Phase 11+ deferred): deterministic
+  pre-check at draft time — feasible / better alternative / infeasible — with no
+  placement or active-record writes. See [`PLAN.md`](../PLAN.md) Phase 11+.
 
 FarmFlow reads PostgreSQL structured rows only — never raw retrieval output or
 model text. Trust boundary 7 is one-way: proposal *request* out; no placement in.

@@ -1,0 +1,1221 @@
+The aquatic proficiency 
+testing program for the Asia-
+Pacific region  
+2018 to 2022: final report
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+ii 
+© Commonwealth of Australia 2024 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: DAFF 2024, Regional proficiency testing 
+program for aquatic animal disease diagnostic laboratories in the Asia-Pacific 2018 to 2022: final report, Department of 
+Agriculture, Fisheries and Forestry, Canberra, November. CC BY 4.0. 
+This publication is available at https://www.agriculture.gov.au/agriculture-land/animal/aquatic/international_activities. 
+GPO Box 858 Canberra ACT 2601 
+Teleph1 1800 900 090 
+Web agriculture.gov.au 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for 
+any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the 
+information or data in this publication to the maximum extent permitted by law. 
+Acknowledgements 
+Competitiveness White Paper. 
+The authors thank the collaborating partners – the Network of Aquaculture Centres in Asia-Pacific (NACA), Proficiency 
+testing team and the Australian Fish Diseases Laboratory at CSIRO’s Australian Centre for Disease Preparedness (ACDP) – 
+for their contributions to the planning, implementation and management of the program, and the 57 participating 
+laboratories across the Asia-Pacific region for their enthusiastic input. 
+Acknowledgement of Country 
+We acknowledge the Traditional Custodians of Australia and their continuing connection to land and sea, waters, 
+environment and community. We pay our respects to the Traditional Custodians of the lands we live and work on, their 
+culture, and their Elders past and present.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+iii 
+Summary 
+The Regional Proficiency Testing Program for Aquatic Animal Diagnostic laboratories in the Asia-
+Pacific (APL-PT program) ran from 2018 to 2022. It carried forward the legacy of the successful Asia-
+Pacific regional proficiency testing program that ran from 2012 to 2014. The objectives were to 
+strengthen regional capability to accurately diagnose important aquatic animal diseases that impact 
+on trade, productivity and the environment. The program enhances the diagnostic capability of the 
+regional network of aquatic diagnostic laboratories in Southeast Asia and the Oceanic region to 
+detect significant aquatic transboundary diseases. These outcomes are increasingly important as 
+countries in the Asia-Pacific are major producers and trading partners of aquaculture products with 
+Australia. The future of production in the Asia-Pacific region only appears to accelerate. Further, the 
+APL-PT program continued the work to increase confidence in the testing performance of Australia’s 
+trading partner laboratories that are certified or approved to test the presence or absence of disease 
+agents for aquatic animal commodity exports. 
+Fisheries and Forestry (DAFF). The program was jointly managed by DAFF and the CSIRO Australian 
+Animal Health Laboratory (AAHL; now renamed the Australian Centre for Disease Preparedness 
+(ACDP). Development and implementation of the APL-PT program was managed by the Steering 
+Committee, which caonsisted of members from ACDP Fish Diseases Laboratory (ACDP-AFDL), ACDP 
+Proficiency Testing Scheme Provider (ACDP-PTSP), and DAFF. 
+A total of 57 laboratories including 19 countries in the Asia-Pacific region participated in the APL-PT 
+program. 8 rounds were conducted according to ISO 17043 standards and participants were provided 
+with confidential reports on their testing proficiency after each round. CSIRO-ACDP was available to 
+provide technical guidance to participants experiencing difficulties in achieving accurate results. 
+Diagnostic performance was assessed against 10 priority fish and crustacean diseases, with the 
+selection of pathogens chosen from the following agreed-upon list: 
+1) 
+White spot syndrome virus (WSSV) 
+2) 
+Yellow head virus genotype 1 (YHV-1) 
+3) 
+Taura syndrome virus (TSV) 
+4) 
+Infectious myonecrosis virus (IMNV) 
+5) 
+Infectious hypodermal and haematopoietic necrosis virus (IHHNV) 
+6) 
+Vibrio parahaemolyticus Pir-A and Pir-B toxin gene (AHPND)  
+7) 
+Megalocytivirus (RSIV)  
+8) 
+Nervous necrosis virus (NNV) 
+9) 
+Koi herpesvirus (KHV) 
+10) Spring viraemia of carp virus (SVCV).
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+iv 
+Testing for acute hepatopancreatic necrosis disease causing Vibrio parahaemolyticus (AHPND) 
+became accredited under ISO17043 for the APL-PT program in December 2020. 
+Over 8 rounds of testing, 57 laboratories from 19 countries were assessed, with an overall accuracy 
+of 78%. The qPCR method consistently outperformed conventional PCR across all disease agents, 
+with higher accuracy rates. Certain pathogens like SVCV and NNV showed variability and lower 
+accuracy with conventional PCR, but qPCR yielded more reliable results, particularly for IHHNV, KHV, 
+and YHV-1. Despite some fluctuations in accuracy, particularly with specific pathogens like TSV in 
+certain rounds, the overall diagnostic performance was strong, with laboratories generally achieving 
+over 80% accuracy using qPCR. The program successfully met its objectives, demonstrating the 
+laboratories' ability to improve their accuracy in detecting selected priority aquatic pathogens. 
+The APL-PT program has been essential in ensuring accurate diagnostics and maintaining quality 
+assurance in laboratories involved in aquatic animal health management. It supports countries' trade 
+declarations, industry sustainability, and disease prevention. The program provided a critical 
+opportunity for regional laboratories to enhance their diagnostic capabilities, especially since no 
+similar international program exists. Participation in the program and its associated workshops 
+allowed laboratories to improve their skills, share ideas, and address diagnostic challenges. The 
+report for the regional workshop held in 2018 in Thailand can be found on the NACA website. The 
+participants and the steering committee have recommended to continue fostering collaboration and 
+discussion through similar structure PT programs and workshops, to further improve diagnostic 
+performance and regional cooperation. 
+Proficiency Testing provider  
+The program provided access to proficiency testing services from an accredited provider and drew on 
+the expertise of ACDP-PTSP and ACDP-AFDL to develop required testing reagents and materials for 
+participants. ACDP was selected on a non-competitive basis due to its established record of 
+delivering laboratory proficiency testing programs, specialist expertise and availability of material 
+requires for the testing programs. The ACDP-PTSP is also a National Association of Testing Authorities 
+(NATA) accredited proficiency testing provider (ISO 17043).  
+ACDP-AFDL is also Australia’s national reference laboratory for aquatic animal diseases and has the 
+required experience and biosecurity infrastructure to coordinate delivery of this large-scale program. 
+Roles and responsibilities were well-defined for project collaborators to ensure the effective 
+contribution of expertise necessary to manage the program. Throughout the program, scientists in 
+the PT provider team and ACDP-AFDL were able to provide expert advice troubleshooting to 
+participants to improve their procedures if required.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+v 
+Contents 
+Summary ..................................................................................................................................... iii 
+Proficiency Testing provider ............................................................................................................ iv 
+1 
+Program objectives and expected outcomes .......................................................................... 1 
+1.1 
+Objectives .......................................................................................................................... 1 
+1.2 
+Expected outcomes ........................................................................................................... 1 
+2 
+Planning and preparation – 2017 ........................................................................................... 2 
+2.1 
+Collaborator responsibilities and pre-planning ................................................................. 2 
+2.2 
+Requirements for participation ......................................................................................... 2 
+2.3 
+NACA hosted workshop ..................................................................................................... 3 
+3 
+Program implementation – 2018 to 2022 ............................................................................... 4 
+3.1 
+Sample preparation ........................................................................................................... 4 
+3.2 
+Quality control – homogeneity testing .............................................................................. 5 
+3.3 
+Quality control – stability testing ...................................................................................... 5 
+3.4 
+Positive controls ................................................................................................................ 6 
+3.5 
+Sample distribution ........................................................................................................... 6 
+3.6 
+Testing and reporting ........................................................................................................ 6 
+3.7 
+Results analysis .................................................................................................................. 7 
+4 
+Program results ..................................................................................................................... 9 
+4.1 
+Laboratory testing ............................................................................................................. 9 
+4.2 
+Laboratory issues and feedback ...................................................................................... 17 
+5 
+Assessment against objectives and outcomes ....................................................................... 19 
+5.1 
+Statement against the program objectives ..................................................................... 19 
+5.2 
+Assessment against the expected outcomes .................................................................. 20 
+6 
+Recommendations for future proficiency testing programs ................................................... 22 
+6.1 
+Ensure participant familiarity with proficiency testing processes .................................. 22 
+6.2 
+Ensure diseases are of highest priority to participants ................................................... 22 
+6.3 
+Ensure the highest standards of quality assurance ......................................................... 22 
+6.4 
+Encourage testing continuity for all proficiency testing rounds ..................................... 23 
+6.5 
+Maintain confidentiality proficiency testing.................................................................... 23 
+6.6 
+Enhance pre-border biosecurity ...................................................................................... 23 
+6.7 
+Proficiency testing workshop .......................................................................................... 23 
+7 
+Conclusions .......................................................................................................................... 25 
+Appendix A: Regional Proficiency Testing program partner responsibilities ................................... 26 
+References .................................................................................................................................. 27
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+vi 
+Tables 
+Table 1 Disease agents in Crustacean and Finfish panel ......................................................................... 6 
+Table 2 Assessment Key .......................................................................................................................... 7 
+Table 3 Example results summary table.................................................................................................. 8 
+Table 4 Average % of acceptable results across all rounds using conventional and qPCR ................... 15 
+Table 5 Percentage increase of laboratories performing qPCR over time ............................................ 17 
+Table 6 Organisational responsibilities ................................................................................................. 26 
+Figures 
+Figure 1 Number of laboratories participating in PT for each pathogen in rounds 1 and 2 ................... 9 
+Figure 2 Number of laboratories participating in PT for crustacean and finfish panels from round 3 to 
+8 ............................................................................................................................................................. 10 
+Figure 3 WSSV ‘acceptable’ results ....................................................................................................... 10 
+Figure 4 YHV-1 ‘acceptable' results ....................................................................................................... 11 
+Figure 5 TSV ‘acceptable’ results ........................................................................................................... 11 
+Figure 6 IMNV ‘acceptable’ results ....................................................................................................... 12 
+Figure 7 IHHNV ‘acceptable' results ...................................................................................................... 12 
+Figure 8 AHPND ‘acceptable’ results ..................................................................................................... 13 
+Figure 9 Megalocytivirus ‘acceptable' results ....................................................................................... 13 
+Figure 10 NNV ‘acceptable’ results ....................................................................................................... 14 
+Figure 11 KHV ‘acceptable’ results ........................................................................................................ 14 
+Figure 12 SVCV 'acceptable’ results ...................................................................................................... 15 
+Figure 13 Average % of acceptable results across all rounds using conventional and qPCR ................ 16
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+1 
+1 Program objectives and expected 
+outcomes 
+Proficiency testing is a means for laboratories to assess the effectiveness of their methods to detect 
+pathogens. It is an opportunity for them to identify technical issues with their practices and to 
+improve their performance over successive rounds with expertise from the ACDP-PTSP and the AFDL. 
+Laboratories who participated in the previous regional PT program (2013 to 2014) showed significant 
+improvement in their diagnostic performance for detection of aquatic animal pathogens. This 
+initiative supports Australia’s commitment to address the lack of ongoing and accessible proficiency 
+testing programs for aquatic animal health laboratories in the Asia-Pacific, which was identified as a 
+major capability deficit by the Regional Advisory Group for Aquatic Animal Health (an advisory group 
+to Network of Aquaculture Centres in Asia-Pacific (NACA)) at their ninth meeting in November 2010 
+and re-iterated at their 19th meeting in November 2020 (NACA 2010, NACA 2020). 
+1.1 
+Objectives  
+The 4 objectives of the regional PT program were to:  
+1) 
+Strengthen regional capability to diagnose important aquatic diseases that impact on trade, 
+industry sustainability and/or productivity 
+2) 
+Support the region’s government laboratories in maintaining/improving their capacity to 
+diagnose aquatic animal diseases through a proficiency testing service that includes analysis of 
+results, provision of reports to laboratories and repeat testing (if necessary) 
+3) 
+Increase confidence in the testing performance of Australia’s trading partner laboratories that 
+are certified or approved to test the presence or absence of disease agents for aquatic animal 
+commodity exports 
+4) 
+Determine the potential for a self-supported laboratory proficiency testing program that meets 
+regional needs and Australian objectives for aquatic animal health management in the region. 
+1.2 
+Expected outcomes  
+Expected outcomes from the regional PT program included: 
+1) 
+Increased confidence in the testing performance of laboratories certified/licensed by trading 
+partner countries to test the disease status of aquatic animal commodity exports. This will be 
+based on evidence that laboratory methods, protocols and reporting criteria are appropriate 
+and that accurate results for proficiency testing rounds are reported 
+2) 
+Improved diagnostic capability of the regional network of aquatic diagnostic laboratories in 
+Southeast Asia and the Oceanic region to detect important aquatic transboundary diseases. This 
+will be measurable during the life of the project based on improvements in aggregated 
+diagnostic proficiency testing results.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+2 
+2 Planning and preparation – 2017  
+2.1 
+Collaborator responsibilities and pre-planning  
+The project ran for 5 years from 2018 to 2022, though preparatory activities occurred in 2017. Years 
+2 to 5 involved 8 rounds of proficiency testing (2 rounds a year) for participating laboratories.  
+The project was overseen by a steering committee consisting of representatives from the 2 partner 
+organisations: DAWR (now DAFF) and AAHL (now ACDP). The Steering Committee was responsible 
+for: 
+• 
+finalising the regional PT implementation plan 
+• 
+determining which international laboratories will participate in the program 
+• 
+determining priority diseases to be included in the program 
+• 
+considering communications and technical support required to encourage participation 
+• 
+considering risks to project implementation and providing advice on actions to mitigate those 
+risks 
+• 
+monitoring project progress  
+• 
+reviewing project reports and communications. 
+The department was responsible for funding the project through the Agriculture Competitiveness 
+White Paper and overall project coordination. The ACDP-PTSP was responsible for communication 
+with participating laboratories and logistics around fulfilling contractual obligations. This included 
+preparing sample materials, conducting quality assurance checks in accordance with ISO 17043 
+requirements and drafting de-identified reports for each testing round. ACDP oversaw the sourcing 
+and inactivation of disease materials, provided support in the preparation of sample materials, 
+conducted quality assessment on the prepared samples and provided technical advice on the running 
+of each round. NACA was responsible for co-hosting a workshop in March 2019 as a means of direct 
+communication between representatives from the program and laboratory participants. Specific 
+roles and responsibilities for each collaborative partner are detailed in Appendix A: Regional PT 
+program partner responsibilities.  
+2.2 
+Requirements for participation  
+Across 19 countries (14 being NACA member countries), 57 laboratories participated in the 8 rounds 
+of aquatic animal disease diagnostic proficiency testing. Participating countries included Bangladesh, 
+Cambodia, China, Hong Kong SAR, India, Indonesia, Iran, Malaysia, Philippines, Sri Lanka, Thailand 
+and Vietnam.  
+The Competent Authority (CA) in each country nominated laboratories to participate in the program. 
+Nominated laboratories were principally government laboratories that were directly responsible for 
+assisting the national CA with aquatic animal health management, which includes coordinating the 
+national surveillance and disease reporting system, diagnosis of emergency aquatic animal diseases 
+and other diagnostic activities to support trade of aquatic animals and their products. Laboratories
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+3 
+were also required to possess adequate infrastructure, including trained personnel, hardware and 
+reagents, to participate in at least 1 round of polymerase chain reaction. Up to 5 diagnostic 
+laboratories of all countries in the Asia-Pacific region that receive an Official Development Assistance 
+(ODA) defined by the United Nations, were invited to participate in the program at no cost to the 
+participant. Additional laboratories from some countries were able to participate in later rounds as 
+other countries could not nominate 5 laboratories or were willing to pay fees for their involvement. 
+In general, non-ODA recipient countries were asked to pay small pre-determined fees. Some private 
+laboratories were able to participate with the fees upon their nominations by CAs, if they provided 
+diagnostic services, on behalf of the relevant CAs, for live aquatic animals (that is, ornamental fish) or 
+seafood commodities (for example, frozen prawns for human consumption) that were traded with 
+Australia.  
+2.3 
+NACA hosted workshop 
+A workshop on the APL-PT program was hosted by NACA on 13 and 14 March 2019 in Bangkok, 
+Thailand. The aim was to provide an avenue for direct communication with laboratory 
+representatives to discuss issues participants had during the first 2 rounds of completed testing. It 
+was an opportunity for participants to enhance their understanding of diagnostic standards, quality 
+assurance and proficiency testing procedures within a collaborative setting.  
+In total, 50 people representing 33 laboratories across 12 participating Asia-Pacific countries 
+Water and the Environment (now DAFF), NACA and CSIRO-ACDP facilitated the workshop. Learn 
+more about the 2018 to 2022 workshop report.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+4 
+3 Program implementation – 2018 to 
+2022 
+3.1 
+Sample preparation 
+ACDP-PTSP and ACDP-AFDL were responsible for preparing testing materials for the program. 
+Pathogen material for the 10 previously identified priority diseases were generated and rigorous 
+quality assurance procedures followed to develop test materials. In 2018, bulk lots of ethanol-fixed 
+material (prawn tissue, bacterial suspensions and cell culture) containing non-viable (non-infectious) 
+pathogens were produced at 2 different concentrations. In 2019 and 2020, bulk lots of prawn 
+haemolymph, bacterial suspensions (for AHPND) or cell culture supernatant containing non-viable 
+(non-infectious) pathogen were produced at 2 different concentrations via inactivation with 50 kGy 
+of gamma-irradiation. Homogeneity and stability testing were performed on these samples 
+afterwards.  
+Inactivated samples were sent to each participating laboratory with instructions to test for the 
+pathogen using their standard diagnostic PCR assay according to the diagnostic capability of their 
+laboratory. Participants were blinded to the disease agent contained in the sample, that is, 
+laboratories did not know which pathogen they were testing for. Participating laboratories used a 
+variety of extraction methods and PCR methodologies, including conventional PCR and real-time PCR 
+(qPCR), commercial kit methods and referenced methods (such as those referenced in the WOAH 
+Aquatic Manual). 
+In 2018 the 4 finfish viruses were prepared in cell culture and then fixed in a final ethanol 
+concentration of 80% (v/v) at 23°C to 24°C for 24 hours. Following primary inactivation, the 
+precipitate was consolidated by centrifugation, the supernatant discarded and the pellet 
+resuspended in fresh 80% (v/v) ethanol to produce the working stock. The stock was further diluted 
+in 80% (v/v) ethanol containing uninfected cell culture supernatant to achieve a range of 
+concentrations expected in naturally infected fish. Negative samples were prepared using uninfected 
+cell cultures. In 2019 and 2020, the sample format changed from ethanol-fixed to gamma-irradiated 
+(50 kGy) lyophilised samples to facilitate more cost-effective transportation. The 4 finfish viruses 
+were prepared in cell culture and gamma-irradiated (50 kGy). After irradiation, the stock material 
+was diluted in uninfected cell culture supernatant (also gamma-irradiated 50 kGy) to produce a range 
+of concentrations expected in naturally infected fish.  Negative samples were prepared using 
+uninfected cell cultures.  
+The 6 prawn pathogens were initially (2018) supplied as non-infectious prawn tissue homogenates 
+and bacterial suspensions, fixed in 80% (v/v) ethanol. 1 batch of confirmed test-negative uninfected 
+prawn tissue was used as a negative sample for all agents and was also used as the “diluent” for 
+preparing positive samples of varying concentration. For the prawn viral pathogens, haemolymph 
+was used and for the prawn bacterial pathogen, a bacterial suspension was used. Gamma-irradiated 
+haemolymph and bacterial suspensions were diluted in a gamma-irradiated uninfected negative 
+diluent to prepare positive samples of varying concentrations. The uninfected negative diluent was 
+used as a negative sample for all prawn pathogens.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+5 
+ACDP-AFDL prepared large volumes (>100 mL) of moderate and weak concentrations of sample for 
+the program. The bulk preparations were checked in triplicate using real-time PCR (qPCR), prior to 
+samples being aliquoted. The ethanol-fixed samples were aliquoted into tubes of 500 µL each, which 
+permitted a single extraction only. The gamma-irradiated samples were aliquoted into glass vials of 
+200 µL each, which permitted multiple extractions. They then underwent homogeneity testing. 
+Samples for DNA or RNA extraction were identified in the instructions provided to participants. A 
+negative and positive control was required for each test as part of internal quality control.   
+In 2018 on commencement of round 1, ethanol-fixed samples were used to prepare the panels, and 
+this continued until the completion of round 5 in 2020. In 2021, on commencement of round 6 and 
+until the end of round 8 in 2022, gamma-irradiated lyophilised samples were used. 
+In 2019 on commencement of round 3, all disease agents were presented in combined pathogen 
+panels covering diseases of crustacea and finfish, however prior to this, disease agents were 
+presented pathogen specific panels.  
+3.2 
+Quality control – homogeneity testing 
+Quality control via homogeneity testing was conducted in accordance with NATA ISO/IEC 17043 
+standards.  
+Homogeneity quality control testing was performed on all new sample batches by randomly selecting 
+10 samples (tubes) and performing qPCR testing in duplicate. Where available, WOAH-recommended 
+primers and probes were used for quality control analysis but if they were unavailable, ACDP-AFDL 
+‘in-house’ qPCR assays were used. Only samples passing homogeneity, with a coefficient of variation 
+less than 5%, were utilised for proficiency testing.  
+3.3 
+Quality control – stability testing 
+Stability quality control testing was performed in line with NATA ISO/IEC 17043 standards and CSIRO 
+ACDP stability testing protocols. 
+Stability testing was performed before and after of each round of PT. If samples did not meet 
+stability criteria during pre-round testing, then these will not be included in the PT panel. If samples 
+did not meet stability criteria during post-round testing, then these samples will not to be included in 
+statistical analysis and would be for observation only. 
+For pre-round stability testing, samples were checked within 6 months of a PT round commencing, 
+and for post-round stability testing, upon completion of each round 4  samples were re-checked to 
+ensure samples were stable. Pre- and post-round stability testing was undertaken using real-time 
+PCR. All samples were adequately stable for use in the 8 PT rounds. 
+The Quality Assurance system accounts for homogeneity results and stability outcomes and 
+acceptance criteria for a sample was a mean Ct coefficient of variation of less than 5%.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+6 
+3.4 
+Positive controls  
+A panel of positive control material for PCR testing was able to be prepared and sent to participating 
+laboratories at their request. This was free of charge and for the purpose of initial PCR setup and to 
+ensure conditions were adequate for testing in rounds.  
+3.5 
+Sample distribution 
+The PT panels were presented as either the crustacean and/or finfish panels, containing 6 or 4 
+disease agents respectively. Participating laboratories selected one or both species disease panels. 
+Table 1 Disease agents in Crustacean and Finfish panel 
+Panel 
+Disease agents 
+Crustacean 
+White spot syndrome virus (WSSV) 
+Yellow head virus genotype 1 (YHV-1) 
+Taura syndrome virus (TSV) 
+Infectious myonecrosis virus (IMNV) 
+Infectious hypodermal and haematopoietic necrosis virus (IHHNV) 
+Vibrio parahaemolyticus (AHPND) 
+Finfish 
+Megalocytivirus 
+Nervous necrosis virus (NNV) 
+Koi herpesvirus (KHV) 
+Spring viraemia of carp virus (SVCV) 
+Each country was to arrange appropriate permissions for import of the inactivated material and were 
+to ensure appropriate disposal after testing. Participating countries had a predetermined 
+coordinating laboratory that received packaged samples and distributed them to other laboratories 
+within that country, using a transport and distribution method of their choice. 
+Samples for round 1 was sent in May 2018, round 2 in November 2018, round 3 in June 2019, round 
+4 in Nov 2019, round 5 in January 2021, round 6 in September 2021, round 7 in 31 January 2022 and 
+round 8 in September 2022.  
+Samples were sent to each participating laboratory with instructions to test them for specified 
+pathogens using their standard molecular diagnostic technique. Each laboratory received samples 
+labelled with unique codes and could test the samples in any order. 
+3.6 
+Testing and reporting 
+Results were reported by the participating laboratory directly to ACDP-PTSP team, who then 
+provided an independent assessment. De-identified aggregate results were generated as progress 
+reports, which were shared with DAFF and all participants. Progress reports contained a summary of 
+activities for the relevant testing period, including information on the tests provided, a list of 
+participated laboratories for each round, de-identified aggregate results and a statistical analysis for 
+PT rounds. DAFF did not have access to information on the identity of each PT result for an individual 
+participating laboratory.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+7 
+A confidential report was provided back to each laboratory by CSIRO-PTSP after each round and this 
+was not shared with any other organisation. CSIRO-PTSP are qualified to provide this service by an 
+independent laboratory accreditation authority and the terms of confidentiality are consistent with 
+contractual arrangements and meet ISO 17043 standards.  
+A final report was provided to DAFF on project completion. It contained the de-identified information 
+on all rounds, along with consideration of requirements and feedback for ongoing aquatic animal 
+proficiency testing and how this could be facilitated. Countries or laboratories have the prerogative 
+to use the results from the program as they wish.  
+One round of retesting was offered to laboratories who reported incorrect results at the end of each 
+testing round.  
+3.7 
+Results analysis 
+For real time assays, Ct values and a qualitative interpretation were provided. For conventional 
+assays, only a qualitative interpretation were provided. 
+Each laboratory was assessed based on agreement with the qualitative values assigned to each 
+sample in the panel. Subsequent comments were rated:  
+• 
+‘Acceptable’ if results agreed with assigned values 
+• 
+‘Unacceptable’ if results did not agree with assigned ‘positive’ or ‘negative’ label. 
+Where laboratories use real time PCR, additional statistical analysis was performed on either 
+identical or related samples to provide information on assay sensitivity and specificity. Laboratories 
+needed to report detection of each sample in a panel and provide the Ct value for statistical analysis 
+to be possible. Outputs of analysis may result in additional assessment comments such as 
+‘Acceptable with observation’ or ‘Acceptable with condition’.  
+Each laboratory was assessed according to Error! Reference source not found. based on agreement w
+ith the assigned qualitative values and performance in the statistical analysis. Ultimately, the basis of 
+proficiency was based only on the qualitative interpretation of results submitted by the laboratory. 
+Table 2 Assessment Key  
+Qualitative 
+Assessment 
+Comment 
+The overall rating for each laboratory will reflect the most significant findings made, but less 
+significant findings will also be noted. 
+Acceptable 
+Agreement with assigned results. No 
+statistical differences were noted for the 
+sample pair assessed. No specific follow-up is 
+recommended. 
+Qualitative results align with assigned result. 
+No statistical outliers identified. 
+Acceptable with 
+observation 
+Qualitative results are acceptable. Statistical 
+differences are noted but not considered 
+significant. No specific follow-up is 
+recommended. 
+Qualitative results align with assigned result. 
+Results may be identified as an outlier in the 
+Youden plot. 
+Results may be identified as an outlier in Z-score 
+assessment where they are <-3 - indicating 
+increased analytical sensitivity compared to the 
+median for the samples assessed.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+8 
+Statistical analysis provided a Z-score which compared a laboratory result to the group median (and 
+quartiles) and assessed the difference in Ct values reported by each laboratory. Z-scores indicate how 
+many standard deviations a data point (in this case, a laboratory CT result) is from the mean. Youden 
+plots were used to analyse real time PCR data. These are graphs used to evaluate laboratory 
+performance results; the closer the plot points to the central diagonal line, the more accurate the 
+diagnostic result was to the reference sample. 
+Results outside the produced ellipse may have resulted in the additional assessment comments for 
+the laboratory as it indicates a data point outside the 99th percentile boundary for median Ct values. 
+Data was provided in combination of graphs and tables. An example is provided in the summary, 
+Table 3 Example results summary table,  which compares the results of conventional PCR performed 
+on KHV samples. Eight of 10 laboratories submitted results that aligned with the assigned values. 
+Table 3 Example results summary table  
+Agent 
+Batch 
+C1 
+F1 
+H1  
+I1 
+R1 
+T1 
+U1 
+AD1 
+AN1 
+AT1 
+Agreement  
+KHV 
+Mod 
+Positive  
+Positive  
+Positive  
+Positive  
+Negative  
+Highly positive 
+Positive 
+Light positive  
+Positive 
+Positive 
+90% 
+KHV 
+Weak 
+Positive  
+Positive  
+Positive  
+Positive  
+Positive  
+Mild positive 
+Positive 
+Negative 
+Positive 
+Positive 
+90% 
+KHV 
+Weak 
+Positive  
+Positive  
+Positive  
+Positive  
+Positive  
+Weak positive  
+Positive 
+Negative 
+Positive 
+Positive 
+90% 
+RSIV 
+Mod 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+RSIV 
+Weak 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+RSIV 
+Weak 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+NNV 
+Mod 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+NNV 
+Mod 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+NNV 
+Weak 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+SVCV 
+Mod 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+SVCV 
+Mod 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+SVCV 
+Weak 
+Negative  
+Negative  
+Negative  
+Negative  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+100% 
+Neg 
+Neg 
+Negative  
+Negative  
+Negative  
+Positive  
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+Negative 
+90% 
+Acceptable with 
+condition 
+Qualitative results are acceptable. Statistical 
+discrepancies are noted that warrant review. 
+Qualitative results align with assigned result. 
+Results are identified as an outlier in the Z-score 
+(and as a result the Youden plot) and are greater 
+than the median. 
+Unacceptable 
+Results do not agree with assigned values. 
+Review of procedures is highly 
+recommended. 
+Irrespective of statistical analysis, qualitative 
+results do not align with assigned results. 
+Observation 
+Observations noted about test results for additional assays performed beyond the scope of the 
+PT panel.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+9 
+4 Program results  
+4.1 
+Laboratory testing 
+Diagnostic performance should be interpreted by noting that each round contained a different 
+number of laboratories, despite laboratories being encouraged to participate in consecutive rounds 
+for continuity in data. Some laboratories were not able to participate in ongoing rounds due to 
+financial, logistical and sometimes unknown circumstances. The results in this section reflect the 
+broad variation of experience that different laboratories with the Asia-Pacific have with testing of the 
+disease agents.   
+Despite a variable number of laboratories who participated in each round, there were a similar 
+number of enrolments for each pathogen. From round 3 (inclusive), disease agents were combined 
+to form either the crustacean or finfish disease panel. This was to better reflect a diagnostic setting 
+wherein laboratories would be testing for several agents in the one sample and is reflected in Figure 
+2.  
+Figure 1 Number of laboratories participating in PT for each pathogen in rounds 1 and 2 
+WSSV white spot syndrome virus. YHV-1 yellow head virus genotype 1. TSV taura syndrome virus. IMNV infectious 
+myonecrosis virus. INNHV infectious hypodermal and haematopoietic necrosis virus. AHPND Vibrio parahaemolyticus. NNV 
+nervous necrosis virus. KHV Koi herpesvirus. SVCV spring viraemia of carp virus.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+10 
+Figure 2 Number of laboratories participating in PT for crustacean and finfish panels from 
+round 3 to 8 
+The average ‘acceptable’ diagnostic test result was designated as any laboratory who accurately 
+assigned a positive or negative value to the samples in the panel. For example, in round one, 50% of 
+laboratories testing for WSSV reported results correctly using conventional PCR. In round 8, 77% of 
+laboratories reported WSSV results correctly using the same PCR method. The percentage of 
+laboratories who had an ‘acceptable’ assessment during each round is presented in Figure 12. 
+Figure 3 WSSV ‘acceptable’ results
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+11 
+Figure 4 YHV-1 ‘acceptable' results 
+Figure 5 TSV ‘acceptable’ results
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+12 
+Figure 6 IMNV ‘acceptable’ results  
+Figure 7 IHHNV ‘acceptable' results
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+13 
+Figure 8 AHPND ‘acceptable’ results  
+Figure 9 Megalocytivirus ‘acceptable' results
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+14 
+Figure 10 NNV ‘acceptable’ results  
+Figure 11 KHV ‘acceptable’ results
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+15 
+Figure 12 SVCV 'acceptable’ results 
+Table 4 Average % of acceptable results across all rounds using conventional and qPCR 
+Disease agent  
+Conventional PCR 
+qPCR 
+WSSV 
+69.5 
+83.3 
+YHV-1 
+65.2 
+88.8 
+TSV 
+63.8 
+81.7 
+IMNV 
+69.3 
+76.4 
+IHHNV 
+83.1 
+89.7 
+VpAHPND 
+69 
+79.2 
+Megalocytivirus  
+81.3 
+85.9 
+NNV 
+64.8 
+81.5 
+KHV 
+79 
+88.8 
+SVCV 
+49.3 
+65.4
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+16 
+Figure 13 Average % of acceptable results across all rounds using conventional and qPCR 
+WSSV white spot syndrome virus. YHV-1 yellow head virus genotype 1. TSV taura syndrome virus. IMNV infectious 
+myonecrosis virus. INNHV infectious hypodermal and haematopoietic necrosis virus. AHPND Vibrio parahaemolyticus. NNV 
+nervous necrosis virus. KHV Koi herpesvirus. SVCV spring viraemia of carp virus.  
+Over 8 rounds of testing, a total of 57 laboratories across 19 countries were assessed 2,219 times. 
+Laboratories received a correct assessment 1,732 times. Trendlines across all disease agents show a 
+consistently higher percentage of laboratories with an accurate detection of the pathogen using 
+qPCR compared to conventional PCR methods across all rounds and disease agents.  
+Using conventional PCR, SVCV showed an overall lowest average percentage of acceptable results 
+across all rounds with a figure of 49.3% with a marked variability in accurate pathogen detection 
+between each round. TSV and NNV similarly showed a reduced average, though the reduced 
+performance in NNV could be attributed to the outlier in round 6, where only 11% of laboratories 
+who participated returned an ‘acceptable result’. Conventional PCR methods were most accurate 
+with IHHNV, Megalocytivirus and KHV, which is expected due to their relatively high rates of 
+acceptable results across each round.  
+Using qPCR, SVCV also revealed the lowest average percentage of acceptable results across all 
+rounds at 65.4%. This may be attributed to laboratory issues and feedback outlined in Section 4.2. 
+IHHNV had the strongest diagnostic performance with the average at 89.7%, with both KHV and 
+YHV-1 following closely in performance with their average at 88.8%. In round 6, TSV received the 
+lowest accurate detection rate in that round across all disease agents. Despite this, TSV performed 
+strongly across the rest of the rounds and maintained a strong average of 81.7% overall.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+17 
+On completion of the 8 rounds, participating laboratories demonstrated a strong ability to accurately 
+detect the selected pathogens. Accurate diagnostic results were consistently over 80% using the 
+qPCR method and were only slightly reduced when using the conventional PCR methods.  
+4.2 
+Laboratory issues and feedback 
+Laboratories demonstrated a shift towards using qPCR over conventional PCR throughout the life of 
+the program as seen in Error! Reference source not found.. There are consistently less erroneous r
+esults detected using qPCR compared to conventional PCR for each round. There is overall a modest 
+improvement in the performance of laboratories using qPCR to detect pathogens accurately across 
+each round, particularly with SVCV which has a positively sloping gradient as seen in Figure 12. 
+Table 5 Percentage increase of laboratories performing qPCR over time  
+Agent  
+% increase of labs using qPCR from R1 to either R6, R7 or R8 
+WSSV  
+33 
+IHHNV 
+25 
+IMNV 
+26 
+TSV 
+31 
+YHV-1 
+26 
+VpAHPND 
+25 
+Megalocytivirus (RSIV)  
+22 
+NNV 
+37 
+KHV 
+34 
+SVCV 
+18 
+Of note, new laboratories from the region were invited to join from round 6 onwards. Not all 
+participants in the program were able to complete proficiency testing in more than 1 round (as per 
+initial requirement). This may account for the spike in ‘unacceptable’ results as seen in most disease 
+agents, except for VpAHPND. Laboratories may not have had an opportunity to submit further results 
+to show whether improvements in their techniques could impact their testing ability.   
+As with the previous regional PT program, the APL-PT program provided a valuable means for 
+diagnostic laboratories in the region to improve their aquatic animal disease diagnostic capability. 
+Improved diagnostic capability will have direct effects on preventing the introduction through early 
+detection and early intervention, hence preventing establishment and spread of trans-boundary 
+disease in the Asia-Pacific region. This supports domestic and international trade by strengthening 
+their diagnostic competency to detect and manage aquatic animal disease of regional significance.  
+ACDP-PTSP and ACDP-AFDL ran the program efficiently and provided feedback to the individual 
+laboratories. General feedback included:  
+• 
+Failure to detect positive samples  
+− 
+Requires improvement in agent detection and assay sensitivity: 
+− 
+Review reagent storage conditions
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+18 
+− 
+Review nucleic acid extraction method 
+− 
+Review PCR methods including freeze-thaw cycles for primers and probes, regent 
+conditions and pipetting techniques  
+• 
+Reporting false positives 
+− 
+Review sources of contamination including handling protocols  
+− 
+Review technical and administrative issues to reduce incorrect reporting and sample 
+contamination  
+• 
+Delayed and misreporting 
+− 
+It was the participants’ responsibility to provide a qualitative result (despite obtaining a Ct 
+value) as this was the basis of a result being assessed as acceptable or unacceptable. The 
+PT provider was not able to assume or offer a result interpretation. Occasionally, when a 
+laboratory did not provide a qualitative result, results were not able to be incorporated 
+into final outcomes.  
+− 
+Incorrect data interpretation and failure of authorisation procedures (a positive gel band or 
+valid Ct result being reported as negative) 
+− 
+COVID-19 resulted in significant challenges to logistics around panel delivery and 
+subsequent delay in testing and reporting. The program was granted a 6-month extension 
+such that ACDP PT could meet the milestones.  
+− 
+COVID-19 also resulted in the subdivision of round 5 into 2 reports in ensure an inclusive 
+outcome for reporting. This occurred at a time when many laboratories were experiencing 
+stop work orders and needed extra time to perform testing.  
+• 
+Laboratory processing 
+− 
+Minor complications were reported by some laboratories affecting their ability to process 
+test samples, such as difficulties in accessing diagnostic kits and reagents, inadequate 
+staffing levels and equipment downtime.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+19 
+5 Assessment against objectives and 
+outcomes 
+This regional aquatic animal disease laboratory proficiency testing program delivered 8 rounds of 
+high quality (stable and homogenous) proficiency testing materials, to a maximum of 57 aquatic 
+animal disease diagnostic laboratories in 19 countries in the Asia-Pacific region over 5 years. 
+5.1 
+Statement against the program objectives 
+The APL-PT program was established with 3 objectives. A statement of achievement against each of 
+the objectives is provided below: 
+1) 
+Strengthen regional capability to diagnose important aquatic diseases that impact on trade, 
+industry sustainability and/or productivity – Achieved 
+10 aquatic animal pathogens of importance to the Asia-Pacific region were included in the regional 
+PT program. The 57 participating laboratories prioritised these based on their importance for trade, 
+impacts as trans-boundary diseases or their impacts on production.  
+There is some variability in the aggregate data, averaged across all participant laboratories across all 
+rounds, depending on the disease agent tested. Reasons for this are discussed in Section 4.2 
+Laboratory issues and feedback. Despite this, The APL-PT program demonstrated improvement in 
+diagnostic performance in almost every pathogen offered between individual rounds. The benefits of 
+the program are profound; the unique ability of the APL-PT program to highlight areas of weakness 
+for laboratories and to subsequently provide them an opportunity to access expert knowledge on 
+improving their molecular diagnostic techniques cannot be understated. Small improvements in 
+diagnostic capability for high-risk diseases (that is, high likelihood of spread and high consequence 
+ratings) can have significant impacts for industry productivity in the affected countries, aquatic 
+animal health and trade.  
+2) 
+Support laboratories in maintaining/improving their capacity to diagnose aquatic animal 
+diseases through a proficiency testing service that includes analysis of results, provision of 
+reports to laboratories and repeat testing (if necessary) – Achieved 
+At the completion of each testing round, participant laboratories were provided with their individual 
+test results. These would either affirm their capability to correctly diagnose the selected pathogens 
+or highlight deficiencies which may require further investigation or action (for example, to 
+re-evaluate diagnostic protocols, increase staff training in diagnostic protocols and procedures or 
+invest in improved technologies). Technical assistance and training in proficiency testing procedures 
+were provided at the 2019 workshop and throughout testing rounds. ACDP-PTSP offered samples for 
+retesting to laboratories who incorrectly reported results and wished to retest samples as part of 
+their in-house troubleshooting protocol. 
+3) 
+Increase confidence in the testing performance of Australia’s trading partner laboratories that 
+are certified or approved to test the presence or absence of disease agents for aquatic animal 
+commodity exports.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+20 
+This outcome has been well-demonstrated through the selection process for participating 
+laboratories, which includes government and private laboratories. Government laboratories are 
+selected as they perform diagnostic serves for their aquatic animal industries, including those 
+involved in their export sectors. Private laboratories are eligible as fee-paying participants if they 
+provide diagnostic services on behalf of their competent authorities (CA). The participation of these 
+laboratories is managed to ensure their methods, protocols and reporting criteria are appropriate by 
+Australia’s accredited PT provider (ADCP-PTSP). This allows for confidence in the interpretation of the 
+de-identified collective data obtained at completion of the program. The improvement in accuracy 
+across PT rounds enhances regional confidence in laboratory performance and their role in country 
+certification and licencing, thereby supporting our pre-border biosecurity outcomes. 
+4) 
+Determine the potential for a self-supported laboratory proficiency testing program that meets 
+regional needs and Australian objectives for aquatic animal health in the region – Achieved 
+The Asia-Pacific proficiency testing program meets regional needs for aquatic animal disease 
+diagnostic testing and was accessed by 19 Asia-Pacific countries. Together with the previously 
+completed APL-PT program from 2013, laboratories are now better accustomed to procedures 
+involved in a proficiency testing program. This includes sample preparation techniques, testing 
+methodologies, data analysis, and reporting procedures specific to the proficiency testing program. 
+The program is increasingly well known in the Asia-Pacific region; the ACDP-PTSP team received 
+many enquiries from laboratories worldwide to participate. The fee-for-service structure allows 
+laboratories that have not been selected for sponsorship to still engage in the program, though at a 
+cost. This approach allows a broader range of laboratories to engage in the program and access the 
+valuable opportunities it provides for quality assurance and performance assessment. It is 
+recommended to continue the APL-PT program as the benefits are multinational and diverse.  
+Since completion of the APL-PT program, China has started their own national PT program to assess 
+the diagnostic performance of selected aquatic animal health laboratories. It is Australia’s hope that 
+other countries in the Asia- Pacific will follow their initiative and organise a suitable PT program that 
+can meet the needs of their country. Doing so will expand the regional network of aquatic animal 
+disease diagnostic laboratories and PT program providers, which will strengthen the confidence in 
+safe trade between partner countries.  
+5.2 
+Assessment against the expected outcomes  
+1) 
+Increased confidence in the testing performance of laboratories certified/licensed by trading 
+partner countries to test the disease status of aquatic animal commodity exports. This will be 
+based on evidence that laboratory methods, protocols and reporting criteria are appropriate 
+and that accurate results for proficiency testing rounds are reported. 
+The project successfully achieved this outcome, as outlined in Objective 3. The APL-PT program 
+rigorously assessed and improved the diagnostic capability of participating laboratories, thereby 
+contributing to regional safe and sanitary trade practices for aquatic commodities.  
+2) 
+Improved diagnostic capability of the regional network of aquatic diagnostic laboratories in 
+Southeast Asia and the Oceanic region to detect important aquatic transboundary diseases. This
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+21 
+will be measurable during the life of the project based on improvements in aggregated 
+diagnostic proficiency testing results.    
+The project demonstrates that there is scope for improvement in the accurate detection of certain 
+pathogens. The program helps facilitate harmonised testing procedures across participating 
+countries in the SE Asia and the Oceanic region to elevate the region’s diagnostic capability. This is 
+assessed using de-identified, aggregated PT results.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+22 
+6 Recommendations for future 
+proficiency testing programs  
+6.1 
+Ensure participant familiarity with proficiency 
+testing processes  
+The face-to-face 2019 workshop and virtual 2020 workshop were valuable components of the 
+program. They provide opportunities in further educate principles of laboratory quality assurance, 
+proficiency testing process and preparation for subsequent PT rounds with improved understanding 
+and knowledge for participating laboratories. It also addressed the broader goals of capacity building 
+for aquatic animal disease diagnostic testing in the region and established a network with laboratory 
+stakeholders.  
+Section 4.2 Laboratory issues and feedback of this report, identifies some issues that influenced 
+laboratory participation and reporting—some issues are considered unavoidable (for example, 
+COVID-19 restrictions) and represent ongoing challenges for certain countries but others can be 
+mitigated. This program has demonstrated the benefit of a well-planned preparatory workshop to 
+discuss collective priorities, to communicate proficiency testing processes and, to alert participants 
+to any necessary preparations (e.g. securing funding, servicing equipment or training staff). 
+6.2 
+Ensure diseases are of highest priority to 
+participants 
+The 10 pathogens selected for testing are pathogens of highest priority to the region, in terms of 
+their potential impact if they were to enter or become established in a country. They are pathogens 
+of highest common priority to aquatic animal disease diagnostic laboratories in the region.  
+In 2019, a change was made to the agent-specific panels; they were combined into either the 
+crustacean or the finfish disease panel. Laboratories were able to select either one, or both, of these 
+panels. This modification aimed to better represent a diagnostic setting, providing a more 
+comprehensive and relevant testing scenarios for the participating laboratories. 
+6.3 
+Ensure the highest standards of quality 
+assurance 
+The ACDP-PTSP was responsible for meeting ISO 17043 requirements which is essential for 
+demonstrating their competence and impartiality in the provision of the PT program. The ACDP-PTSP 
+team have extensive experience in providing the previous successfully completed APL-PT program 
+and in the pathogens being tested.  
+The proficiency testing program has been well designed to meet the requirements of the broader 
+laboratory quality management system for participating laboratories. Many laboratories which have 
+ISO accreditation 17025 are required to participate in a proficiency testing program and the APL-PT 
+program is the only PT program available to government laboratories in the Asia-Pacific region at no
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+23 
+cost. Rigorous quality assurance measures are required to ensure valid diagnostic test results, that is, 
+test materials can reliably produce expected results and all processes are sound and repeatable. This 
+is necessary to meet Australia’s overall objectives of improved regional diagnostic capability and 
+biosecurity management as assessed in Section 5 Assessment against objectives and outcomes.  
+6.4 
+Encourage testing continuity for all proficiency 
+testing rounds  
+Laboratories were required to participate in at least 2 rounds of proficiency testing for the same 
+pathogens or disease panels. However, this was not always the case due to unforeseen 
+circumstances, such as new laboratories joining the program in place of other nominated ones or 
+laboratories being unable to submit results in time. To obtain the greatest benefit, participating 
+laboratories should be encouraged to commit to participation in proficiency testing as a routine and 
+ongoing activity. Collecting information about reasons for inconsistent participation among 
+laboratories would be a useful feedback tool. Steering committee members may consider measures 
+to mitigate barriers to participation in future PT programs as a result. Information gathering may be 
+considered via surveys or questionnaires.  
+6.5 
+Maintain confidentiality proficiency testing 
+To ensure strong participation, proficiency testing programs must be designed to provide clear 
+benefits to individual laboratories (detailed confidential feedback and, where possible, assistance to 
+improve) while seeking to achieve the wider objective of stronger regional diagnostic capability. The 
+proficiency testing program must maintain a quality system and accreditation to ISO/IEC 17043 
+standards. All information supplied by laboratories as part of the program must be treated with strict 
+confidentiality, and de-identified reports provided to ensure that no individual laboratory's results 
+are disclosed. 
+6.6 
+Enhance pre-border biosecurity 
+The sustained and increasing interest in Australia’s APL-PT program, clearly demonstrates regional 
+countries’ ongoing commitment to improving sanitary safe trade in aquatic animal and their 
+products. By providing a means to increase confidence within the region to accurately detect 
+significant aquatic diseases, meet quarantine and pre-border requirements, future PT programs 
+remain an important mechanism to achieve Australia’s overall biosecurity and trade objectives.  
+To further strengthen these objectives, it is recommended that DAFF continue to play a central role 
+in the laboratory selection process. This includes strategically inviting specific laboratories to 
+participate, such that those laboratories with the greatest potential impact on regional biosecurity 
+and trade are engaged in the program.  
+6.7 
+Proficiency testing workshop  
+A workshop with participating laboratories is recommended to address several key areas identified 
+during the proficiency testing program, such as discussion on the programs key objectives and 
+outcomes (Section 5 Assessment against objectives and outcomes) It is likely that some laboratories 
+were unable to participate in sequential, or even more than 1 round, which limited their ability to 
+demonstrate improvements in testing procedures. Further, feedback provided from the program
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+24 
+revealed technical difficulties in detecting positive samples, false positives, delayed or misreporting 
+and operational challenges (as detailed in Section 4.2 laboratory issues and feedback). A workshop 
+would provide an ideal platform to collaboratively address these topics, facilitate direct 
+communication of suggested improvements, and establish a regional network of laboratories. This 
+network would foster optimal diagnostic performance, promote effective information sharing 
+(including of the latest scientific information) and create a collective forum for problem-solving 
+diagnostic challenges facing the Asia-Pacific region.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+25 
+7 Conclusions 
+The APL-PT program rounds ran from 2018 to 2022 and successfully concluded with a total of 8 
+rounds of PT, 1 in-person participating laboratory workshop in Bangkok, and another online 
+workshop seeking additional participants. A total of 57 aquatic animal disease diagnostic laboratories 
+from 19 Asia and the Pacific countries participated in the program. Over 8 rounds of testing, those 
+laboratories were assessed 2219 times, of which 1732 times laboratories received a correct 
+assessment. PT panels consisted of 4 finfish diseases and 6 crustacean diseases of regional 
+significance. All feedback reports were provided to participating laboratories confidentially, with 
+some additional testing opportunities provided for laboratories who provided an incorrect initial 
+result. The performance of participating laboratories has markedly improved during the 4-year 
+program as shown in Figure 3 to Figure 12. Trendlines across all disease agents show a consistently 
+higher performance for laboratories using qPCR for pathogen detection, compared to conventional 
+PCR methods across all rounds and disease agents. 
+The APL-PT program has played a crucial role in assuring accurate and precise diagnostic test results 
+and maintain laboratory quality assurance systems in association with aquatic animal health 
+management. These laboratories support their countries’ competent authority declarations of 
+sanitary safety for trade in aquatic animals and their products, industry productivity and 
+sustainability and help prevent the spread of significant trans-boundary diseases. They have a 
+responsibility to maintain a consistently high level of diagnostic competency to provide their aquatic 
+animal industries with these services. With the absence of any similar international PT program for a 
+range of aquatic animal diseases of regional significance, the 2018-2022 Asia-Pacific PT program for 
+aquatic animal disease laboratories, has provided laboratories with critical opportunities to 
+strengthen their laboratory diagnostic capability.   
+The program evaluated laboratory performance as part of a broader laboratory quality management 
+system. Laboratories must uphold high standards of diagnostic capability provide confidence to 
+industry stakeholders and trading partners, particularly as trade in aquaculture in Asia-Pacific 
+countries expand rapidly. The competent authorities rely on a strong laboratory network to protect 
+public health, support aquaculture and fisheries industries, and prevent the introduction and spread 
+of trans-boundary diseases in the Asia-Pacific region.  
+Proficiency testing provides laboratories a unique and structured training opportunity to enhance 
+their knowledge, skills and techniques in diagnostic aquatic animal diseases. The APL-PT program 
+encouraged active participation and the associated workshop allowed personnel in the international 
+diagnostic laboratory community to come together and discuss ideas and troubleshoot for improved 
+diagnostic performance. These issue and feedback can be further discussed in the near future, at an 
+in-person workshop that brings together representatives from all participating laboratories in the 
+region.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+26 
+Appendix A: Regional Proficiency 
+Testing program partner 
+responsibilities  
+ACDP-AFDL. Project partner responsibilities are described in Table 6 Organisational responsibilities. 
+Table 6 Organisational responsibilities 
+Organisation 
+Responsibilities 
+Fisheries and Forestry (DAFF) 
+Overall project coordination 
+Chair project steering committee 
+Development of contracts with AAHL 
+Project reporting to funding scheme 
+Coordination with the Sub-committee on Aquatic Animal Health (SCAAH) on 
+progress and findings of the APT-PT program  
+Australian Centre for Disease 
+Preparedness-Proficiency 
+Testing Scheme Provider 
+(ACDP-PTSP) 
+Participate in project steering committee  
+Prepare planning document as required by ISO 17043 
+Prepare sample materials and conduct quality assurance, such that samples are 
+suitable for international distribution  
+Communicate PT schedule, send out details and testing time frames to 
+participants 
+Distribute samples to participating laboratories 
+Receive and collate laboratory test results 
+Draft de-identified reports for each testing round  
+Ensure confidentiality of testing results is maintained 
+Provision of limited technical advice to participating laboratories 
+Reporting on contractual obligations 
+Australian Centre for Disease 
+Preparedness Fish Diseases 
+Laboratory (ACDP-AFDL)  
+Participate in project steering committee 
+Source and inactivate disease materials, and aliquot samples suitable for nucleic 
+acid analysis at a range of concentrations 
+Provide support in the preparation of sample materials and conduct quality 
+assessment of samples prepared 
+Provide technical advisory role in the planning, assessment and reporting for 
+each round.
+
+The aquatic proficiency testing program for the Asia-Pacific region - 2018 to 2022: final report 
+27 
+References 
+NACA 2010, https://enaca.org/?id=606, Network of Aquaculture Centres in Asia-Pacific, Bangkok, 
+Thailand, accessed 7 February 2023.   
+NACA 2020, https://enaca.org/?id=1147, Network of Aquaculture Centres in Asia-Pacific, Bangkok, 
+Thailand, accessed 7 February 2023.

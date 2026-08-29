@@ -1,0 +1,2468 @@
+National biosecurity 
+plan guidelines 
+for the Australian land-based abalone industry
+
+Creative Commons Attribution 3.0 Australia Licence is a standard form licence agreement that allows you to 
+copy, distribute, transmit and adapt this publication provided you attribute the work. A summary of the licence 
+terms is available from creativecommons.org/licenses/by/3.0/au/deed.en. The full licence terms are available 
+from creativecommons.org/licenses/by/3.0/au/legalcode. 
+Cataloguing data 
+Attribute this publication (and any material sourced from it, unless specified otherwise) as: Spark, E., Roberts, 
+S., Deveney, M., Bradley, T.,Dang, C., Wronski, E., Walker, M., and Savva, N., PIRSA Fisheries and Aquaculture, 20
+ater Resources, Canberra August 2018. CC BY 3.0. 
+ISBN 9781760031671 
+This publication is available at www.agriculture.gov.au/animal/aquatic/guidelines-and-resources. 
+Postal address GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+due care and skill in preparing and compiling the information and data in this publication. Notwithstanding, 
+liability for negligence and for any loss, damage, injury, expense or cost incurred by any person as a result 
+of accessing, using or relying upon any of the information or data in this publication to the maximum extent 
+permitted by law. 
+About this publication 
+The National Biosecurity Guidelines for the Land Based Abalone Industry were developed as part of Activity 
+1.1 of AQUAPLAN 2014-2019, Australia’s National Strategic Plan for Aquatic Animal Health, under Fisheries 
+Resources funded the project through the FRDC.  Primary Industries and Regions South Australia (PIRSA) and 
+the Australian Abalone Growers Association also provided in-part funding. The Sub-Committee on Aquatic 
+Animal Health endorsed the document in October 2017 and the Animal Health Committee in February 2018. 
+Writing group members 
+Elise Spark  
+© Commonwealth of Australia 2018
+Ownership of intellectual property rights
+by the Commonwealth of Australia (referred to as the Commonwealth).
+Creative Commons licence
+All material in this publication is licensed under a Creative Commons Attribution 3.0 Australia Licence, save for 
+content supplied by third parties, logos and the Commonwealth Coat of Arms.
+–   Primary Industries and Regions South Australia
+Shane Roberts 	 –   Primary Industries and Regions South Australia
+Marty Deveney 	 –   South Australian Research and Development Institute
+Tracey Bradley 	 –   Department of Economic Development, Jobs, Transport and Resources, Victoria
+Cecile Dang 	
+–   Department Primary Industries, and Regional Development, Western Australia
+Eileen Wronski 	 –   Department of Primary Industries, Parks, Water and Environment, Tasmania
+Melissa Walker 	 –   Department of Primary Industries, New South Wales
+Nicholas Savva 	 –   Australian Abalone Growers Association
+Comments were provided by other persons during the development of the National Biosecurity Plan Guidelines 
+for the Land Based Abalone Industry. These contributions are gratefully acknowledged, in particular the 
+contributions of the industry and government participants who attended the abalone workshop.
+Cover Image Source: Primary Industries and Regions South Australia
+
+Contents
+INTRODUCTION	
+1
+USING THESE BIOSECURITY PLANNING GUIDELINES	
+2
+ABALONE DISEASES OF SIGNIFICANCE	
+4
+MAJOR ROUTES FOR DISEASE TRANSMISSION	
+6
+WHAT TO INCLUDE IN YOUR BIOSECURITY PLAN	
+7
+SECTION 1. ENTERPRISE INFORMATION	
+7
+Production details	
+7
+Key contacts	
+7
+SECTION 2. MAPS AND DIAGRAMS	
+8
+Farm locality and features	
+8
+Farm maps and schematic diagrams	
+9
+SECTION 3. ROUTINE MEASURES TO ADDRESS MAJOR DISEASE
+TRANSMISSION ROUTES	
+11
+Additional farm-specific risks – not covered by these guidelines	
+11
+Animals	
+13
+People	
+15
+Equipment, vehicles and vessels	
+18
+Water, waste and feed	
+20
+SECTION 4. ADDITIONAL SUPPORTING MEASURES	
+21
+Training	
+21
+Record keeping	
+22
+SECTION 5. EMERGENCY PROCEDURES	
+23
+SECTION 6. LEGISLATIVE AND JURISDICTIONAL REGULATORY 
+REQUIREMENTS	
+24
+SECTION 7. DOCUMENT CONTROL AND REVISION RECORD	
+25
+SECTION 8. AUDIT RECORD	
+25
+SECTION 9. SUPPORTING DOCUMENTS	
+26
+Source: Yuko Hood
+
+These guidelines have been developed to provide Australian land-based abalone farms with the 
+tools and templates to create fully auditable biosecurity plans.
+Biosecurity plans are important because they provide disease prevention and response 
+measures specific to your farm. They also fulfill biosecurity requirements for movement and 
+trade in ‘like’ abalone.
+In 2015, the Animal Health Committee endorsed the Abalone Health Accreditation Program as 
+a nationally agreed document to facilitate trade in abalone livestock. The program requires that 
+farms develop an auditable biosecurity plan in addition to, in most states, employing targeted 
+and sentinel surveillance.
+These guidelines are part of the Fisheries Research and Development Corporation (FRDC) 
+project, Development of sector-specific biosecurity plan templates and guidance documents for 
+the abalone and oyster aquaculture industries (project number: 2016-245). We have developed 
+them:
+¬
+¬
+in accordance with the national Aquaculture Farm Biosecurity Plan: generic guidelines and 
+template (www.agriculture.gov.au/fisheries/aquaculture/farm-biosecurity-plan)
+¬
+¬
+based on input from a government/industry workshop held on 8 and 9 September 2016.
+Worldwide, there is increasing risk of significant aquatic animal diseases and pests, both known 
+and unknown, emerging and spreading. Australia currently has a favorable aquatic animal health 
+status. To maintain this, farmers must work towards implementing preventative biosecurity 
+measures rather than reacting to a disease outbreak.
+Effective biosecurity is integral to any successful production system as it helps minimise 
+unnecessary costs, can improve production outcomes, and helps maintain trade and market 
+access. Those measures aimed at preventing disease entering your farm in the first place can 
+lead to a significant return on your investment.
+Preventing disease not only protects your business, but has wider benefits for the industry and 
+communities that would potentially be devastated by a significant disease outbreak. Ownership 
+and buy-in by your staff is critical for successfully implementing and operating farm biosecurity. 
+INTRODUCTION
+Biosecurity is a set of measures that help to prevent or reduce the risk of introducing 
+disease onto your farm, spreading disease within your farm, or spreading disease from 
+your farm to the aquatic environment or to other aquatic enterprises.
+Staff must understand that they can help protect their jobs, and ultimately the 
+industry, by preventing the introduction of or minimising the spread of disease.
+Source: Yuko Hood
+1
+
+This document is designed to help abalone farmers:
+¬
+¬
+develop a farm biosecurity plan
+¬
+¬
+strengthen an existing farm biosecurity plan
+To develop an effective biosecurity plan, farmers need to consider a number of factors. These guidelines provide 
+information, as well as templates and other resources, to help you assess risks common to land-based abalone 
+farms. This will help you develop a biosecurity plan tailored for your farm.
+The guidelines identify the major routes of potential disease transmission in abalone farms, including disease 
+entry, spread within your farm and spread from your farm. This will help you assess:
+¬
+¬
+risks associated with each route of disease transmission
+¬
+¬
+on-farm measures to minimise the risk of disease transmission
+¬
+¬
+what other supporting documents you will need to develop a comprehensive plan, for example standard 
+operating procedures (SOPs).
+You will also need to consider any additional risks specific to your farm, and associated risk management 
+measures, that you may require.
+Each farm will have a different spectrum of biosecurity challenges and operating environments because of 
+variations in:
+¬
+¬
+operation size
+¬
+¬
+farm location and layout
+¬
+¬
+disease status of the region or state/territory
+¬
+¬
+proximity to wild abalone populations, fish processors and other aquaculture sites
+¬
+¬
+number and type of species farmed
+¬
+¬
+available resources.
+You will need to develop an individual farm biosecurity plan that takes your farm’s uniqueness into account. This 
+ensures that the plan is practical for your operation, as well as being as simple and as low cost as possible to 
+achieve desired biosecurity outcomes.
+The guidelines provide supporting documentation, including templates and example SOPs, as appendices to help 
+you develop your plan. You will need to tailor some documents (for example, farm-specific SOPs) specifically for 
+your farm. See Appendix 8 for help on writing an SOP. 
+You will not need to duplicate existing documents, systems or records. However, where appropriate, reference 
+these within your biosecurity plan.
+Once you have navigated through these guidelines and assessed individual farm risks, you can create a farm 
+biosecurity plan. Appendix 10 provides an electronic biosecurity plan editable template.
+USING THESE BIOSECURITY 
+PLANNING GUIDELINES
+2
+
+Appendix 9 provides a self-audit checklist against which you can assess your completed plan. Use this checklist 
+to highlight any remaining gaps.
+Open file icon indicates templates provided to help develop individual farm 
+biosecurity plans.
+Pen and paper icon indicates supporting details and other information to include in 
+your farm biosecurity plan.
+Tick on paper icon indicates risk management measures to implement and 
+document. These measures are auditable.
+Symbols used in these guidelines:
+A comprehensive biosecurity plan will be a mandatory requirement of any import protocol.
+3
+
+Three diseases are currently listed as national reportable diseases of abalone (Table 1). These diseases are a 
+threat to farm production and to market access and trade.
+ABALONE DISEASES OF 
+SIGNIFICANCE
+Disease
+Pathogen type
+Presence in Australia
+Abalone Viral Ganglioneuritis (AVG)
+Viral
+Endemic (in Australia)
+Xenohaliotis californiensis
+Bacterial 
+Exotic (not in Australia)
+Perkinsus olseni 
+Parasitic
+Endemic (in Australia)
+Table 1. National reportable diseases of abalone
+Source: Tracey Bradley
+4
+
+The Fisheries Research and Development Corporation website (www.frdc.com.au) is also an excellent resource 
+for emerging issues and latest research. In addition to known diseases of significance, or those listed as 
+reportable, there are potentially other diseases (for example, emerging or unknown diseases) that may be a 
+future risk to production. Good farm biosecurity should be aimed at preventing entry and spread of both known 
+and unknown disease. 
+Access the full and current list of National Reportable Diseases of Aquatic Animals on the Department of 
+Agriculture and Water Resources website
+(at www.agriculture.gov.au/animal/aquatic/reporting/reportable-diseases).
+Under state and territory legislation farmers, aquaculture technicians, veterinarians and researchers, or anyone 
+else involved in abalone aquaculture, must immediately report these, as well as any additional jurisdiction-
+specific diseases, to the relevant authority if suspected or detected. States and territories commonly refer to 
+these diseases as Notifiable Diseases and lists are available on relevant jurisdiction websites.
+The diseases shown in Table 1 include a range of pathogen types (viral, bacterial and parasitic). Farm biosecurity 
+planning needs to consider these types and how they are spread when determining risk management measures 
+such as appropriate decontamination.
+Key reportable abalone disease resources to help you identify such diseases include:
+1.	 Aquatic Animal Diseases Significant to Australia: Identification Field Guide 4th Edition, available on the 
+guidelines-and-resources/aquatic_animal_diseases_significant_to_australia_identification_field_guide)
+This guide is also available as a free App that can be downloaded from the App Store (Apple devices), Google 
+Play (Android devices) and Microsoft Store (Windows devices). We recommend that you and your staff 
+install this on your mobile phones.
+Resources website (at www.agriculture.gov.au/animal/aquatic/aquavetplan)
+You can find AQUAVETPLAN manuals here for Abalone Viral Ganglioneuritis and Withering Syndrome of 
+Abalone.
+3.	 OiE Disease Chapters – Diseases of Molluscs, available on the World Organisation for Animal Health 
+website (at www.oie.int/international-standard-setting/aquatic-manual/access-online/).
+Source: Yuko Hood
+5
+
+Figure 1 outlines the biosecurity risk levels of a farm and the major ways that disease can be transmitted onto 
+(entry-level), within (internal), and from (exit-level) land-based abalone farms:
+¬
+¬
+entry-level transmitters – stock (for example, broodstock, wild abalone, other farm stock), intake water, 
+feed, people (for example, staff and visitors), equipment and vehicles, and other animals (for example, 
+vermin, wild birds, other animals entering via the intake water or returning escapees)
+¬
+¬
+internal transmitters – stock, water, people, equipment, vehicles, and other animals can transmit diseases
+¬
+¬
+exit-level transmitters – stock (including mortalities, discarded product, escaped abalone), discharge water, 
+people, equipment, vehicles, and other animals and wastes.
+When high levels of infection come into close contact with susceptible hosts, it is likely that the disease will 
+become established and spread. 
+MAJOR ROUTES FOR 
+DISEASE TRANSMISSION
+Source: K. Ellard, (2015). Disease recommendations to support aquatic animal health?  
+Proceedings of the Third OIE Global Conference on Aquatic Animal Health, Session 4, 137­143.  
+For farms, stock (especially broodstock) and wild abalone, water, and the movement of 
+equipment and people present the highest risk pathways for introducing and spreading 
+disease. Address these pathways as a priority. 
+Figure 1. Different levels of farm biosecurity 
+6
+
+Your farm biosecurity plan needs to be read and interpreted by a range of people including farm staff, external 
+auditors and jurisdictional staff. As such it should be easy to follow, with clear information and diagrams. 
+Below, we have outlined a suggested layout and inclusions to help you develop a comprehensive and concise 
+biosecurity plan.
+Enterprise information provides essential background detail about your farm. This includes the scale and scope 
+of the operation. 
+WHAT TO INCLUDE IN YOUR 
+BIOSECURITY PLAN
+ENTERPRISE INFORMATION
+Production details
+Key contacts
+Section 1
+Summarise detail of all relevant elements of farm production.
+Document key details for internal and external contacts, relevant to farm 
+management, biosecurity and stock health.
+Relevant details include:
+¬
+¬
+stock source(s)
+¬
+¬
+product, including species, size and market
+¬
+¬
+farm activities – all production and administrative activities
+¬
+¬
+staff – number and areas of responsibility
+¬
+¬
+any associated sites linked to the farm.
+Relevant contacts include:
+¬
+¬
+company, farm and specific area managers
+¬
+¬
+consulting veterinarians/abalone health professionals
+¬
+¬
+government aquatic animal health contacts
+¬
+¬
+laboratories used
+¬
+¬
+other industry representatives (for example, association representatives).
+7
+
+Farm design and availability of infrastructure will determine how you can manage biosecurity. Include relevant 
+information in this section of the plan.
+MAPS AND DIAGRAMS
+Farm locality and features
+Section 2
+Provide a locality map and associated farm information.
+You will need to assess and document specific disease transmission risks based on farm location. Relevant 
+details include:
+¬
+¬
+status of state or territory, region and/or bay for known diseases or marine pests of concern (for example, 
+Abalone Viral Ganglioneuritis [AVG])
+¬
+¬
+proximity to other aquaculture production (for example, marine-based abalone farms, other aquaculture 
+leases, fish processors)
+¬
+¬
+proximity to potential high-risk sites (for example, wild abalone populations)
+¬
+¬
+presence and type of wildlife (birds), feral animals or vermin
+¬
+¬
+nearby roads, towns, boat ramps, marinas.
+Source: Yuko Hood
+8
+
+Farm maps and schematic diagrams
+Facility layout
+Provide a farm layout map and associated access information.
+It is likely that you will need more than one farm map in your biosecurity plan, to cover different levels of detail. 
+Ensure maps and diagrams include the following information.
+¬
+¬
+perimeter fences
+¬
+¬
+farm entry/exit points and gates (and if gates are 
+lockable)
+¬
+¬
+access/biosecurity sign location(s)
+¬
+¬
+access road(s)
+¬
+¬
+car park(s)
+¬
+¬
+reception point for farm visitors
+¬
+¬
+sheds/storage areas, tanks and other 
+infrastructure
+¬
+¬
+water intake and discharge pipes/channels
+¬
+¬
+water pumps and filtration equipment
+¬
+¬
+vehicle loading/delivery area(s)
+¬
+¬
+wash down/disinfection area(s)
+¬
+¬
+mortality pit(s)
+¬
+¬
+sedimentation pond(s)
+¬
+¬
+emergency muster point(s).
+Appendix 1 includes a biosecurity sign.
+R1. The farm has a secure perimeter or otherwise well-defined boundary establishing a 
+clearly defined biosecurity zone.
+R3. Access gates are lockable and locked when no company personnel are on site.
+R2. You can close the main production area entrance to vehicle traffic if you activate the 
+emergency response plan.
+R4. Clearly display entry signage that provides direction for visitors and includes 
+company contact details.
+Relevant details include the presence and location of:
+9
+
+Production areas and biosecurity zone classifications 
+Provide a farm diagram outlining production areas and associated biosecurity zone 
+classifications.
+R5. Divide the farm into biosecurity zones with zone-specific requirements relating to 
+access, entry and exit procedures, and dedicated equipment.
+R6. Clearly display biosecurity zone signage, consistent with biosecurity zone definitions 
+and familiar to all personnel.
+Be sure to include:
+¬
+¬
+entry and exit points for each production area/zone
+¬
+¬
+the location of any physical biosecurity measures between production areas/zones (for example, 
+disinfection/sanitisation points, boot change areas)
+¬
+¬
+the class of stock within each production area/zone (for example, broodstock, juveniles, growout)
+¬
+¬
+the number of tanks or raceways in each area (to give an indication of farm size)
+¬
+¬
+typical stock and staff/visitor movements including those between farm production areas/zones and 
+between sites (if applicable).
+Ensure you describe biosecurity zones (Table 2) shown in diagrams, and used in your farm biosecurity plan, in 
+detail within supporting SOPs.
+Biosecurity zone
+Access
+Extreme (red)
+¬
+¬
+highly restricted
+¬
+¬
+authorised personnel only
+¬
+¬
+no entry to any other zones following access.
+High (amber)
+¬
+¬
+limited access
+¬
+¬
+authorised personnel only
+Moderate (yellow)
+¬
+¬
+limited access
+¬
+¬
+authorised personnel only
+Low (green)
+¬
+¬
+no access restrictions (staff or visitors).
+Table 2. Summary of example farm biosecurity zones
+10
+
+This section outlines routine risk management measures to address major disease transmission routes 
+common to land-based abalone farms (as per page 6).
+Routine measures are implemented and followed as part of normal daily farm operations. For each measure, 
+we have assigned a risk category. These will help to highlight the measures you need to prioritise to provide the 
+highest degree of assurance that you will not introduce or spread disease. 
+The risk-rating categories, based on a risk assessment, are outlined in Table 3.
+ROUTINE MEASURES TO ADDRESS MAJOR DISEASE 
+TRANSMISSION ROUTES
+Additional farm-specific risks – not covered by these guidelines
+Section 3
+Provide a locality map and associated farm information.
+When developing your farm-specific biosecurity plan, you will also need to assess any additional risks 
+associated with your specific farm, not covered in these guidelines. You will need to implement appropriate risk 
+management measures. We have outlined this process below.
+Risk category
+Potential risk level
+Category A
+Failure to implement risk management measures may result 
+in a critical risk of disease transfer.
+Category B
+Failure to implement risk management measures may result 
+in a high risk of disease transfer.
+Category C
+Failure to implement risk management measures may result 
+in a moderate risk of disease transfer.
+Category D
+Failure to implement risk management measures may result 
+in a low risk of disease transfer. 
+Table 3. Risk-rating categories
+Identify risks and perform a risk assessment
+Identify any additional farm-specific risks (or routes of disease transmission). Perform a risk assessment for 
+each risk identified:
+¬
+¬
+estimate the likelihood of disease entering the farm by this route
+¬
+¬
+determine the consequence of disease entry by this route
+The level of risk posed is disease-dependent. As your farm biosecurity plan is not targeted at a specific disease, 
+it is best practice to consider the worst-case scenario – an exotic or other emergency (or significant) abalone 
+disease such as Withering Syndrome.
+1
+11
+
+Figure 2. Risk estimation matrix
+Figure 3. Assessment of disease consequences
+Risk level
+Action
+1–2 Negligible
+Acceptable level of risk. No action required.
+3–5 Low
+Acceptable level of risk. On-going monitoring may be 
+required.
+6–10 Medium
+Unacceptable level of risk. Active management is required 
+to reduce the level of risk.
+12–15 High
+Unacceptable level of risk. Intervention is required to 
+mitigate the level of risk.
+16–25 Extreme
+Unacceptable level of risk. Urgent intervention is required
+to mitigate the level of risk.
+12
+
+Medium, high or extreme risks are considered unacceptable and require you to implement management 
+measures. Monitor low risks to ensure the risk profile does not change over time.
+You can find detailed information on performing a risk assessment in part 3 (pages 25 to 28) of the Aquaculture 
+Resources website
+(at www.agriculture.gov.au/fisheries/aquaculture/farm-biosecurity-plan).
+Identify appropriate risk management measures 
+Develop or identify associated supporting documentation 
+Manage risks with a variety of measures, including physical (for example, infrastructure and equipment), 
+procedural (for example, production practices and training) or other supporting measures (for example, signage). 
+To address any specific additional risks identified for your farm, consider each of these measures as part of a 
+standard approach.
+Support risk management measures with appropriate documentation (for example, SOPs, checklists, record 
+keeping templates) outlining detailed risk management measures.
+For example, your biosecurity plan may identify a risk management measure as the ‘use of footbaths 
+between biosecurity zones’. Appropriate documentation to support this practice would be a ‘Disinfection SOP’, 
+which details the type of disinfectant used, when it requires inspection and how regularly and by whom the 
+disinfectant is to be changed. Do not include this level of detail in the body of your farm biosecurity plan, but 
+instead reference the appropriate supporting documentation. You could use a document number, name or other 
+relevant code to reference an SOP.
+Accompany SOPs by a date-stamped checklist wherever possible to provide evidence that an accountable 
+staff member is following the SOP procedure(s). Supervisors, managers and/or auditors can readily monitor 
+checklists.
+The most significant risk for bringing disease onto a farm is through stock, especially if you don’t know the 
+health status of the stock.
+Manage stock introduction and movement carefully to minimise this risk. See Table 4 for a summary of risk 
+management measures.
+2
+3
+Animals
+Objective: Minimise the risk of stock and other animal movement introducing and 
+spreading disease.
+13
+
+Risk category
+Risk management measures
+(A) Critical
+R7. Obtain health status information and appropriate permits for stock before 
+it enters the farm. Ensure the health status of any introduced stock is equal 
+to or better than that of stock already present. Permanently quarantine stock 
+if you cannot achieve this.
+R8. Permanently quarantine introduced stock of unknown (for example, wild) 
+or lower health status. This includes isolation in separate water from all other 
+farm stock in separate production units/dedicated quarantine facilities with 
+appropriate biosecurity measures.
+R9. House multiple marine aquaculture species (for example, oysters and 
+abalone) separately, with appropriate biosecurity measures and do not share 
+water across species.
+(B) High
+R10. Inspect stock on introduction to the farm and clean if required.
+R11. Dispose of mortalities or unwanted stock in an appropriate manner* 
+that is approved by the relevant jurisdictional authority. Ensure dead 
+or unwanted stock is not returned to the environment or accessible to 
+scavengers (for example, birds).
+R12. Investigate health problems (suspected diseases) with assistance from 
+aquatic animal health professionals.
+R13. Ensure staff responsible for managing abalone husbandry are trained 
+in, and aware of, their role and responsibility in reporting signs of disease and 
+high mortality.
+R14. In accordance with jurisdictional requirements, immediately inform 
+relevant authorities of any significant, unexplained mortality event or 
+suspected reportable disease.
+R15. Keep stock stress to a minimum by ensuring appropriate water quality, 
+hygiene, stocking density, nutrition and handling.
+R16. Prevent escapees.
+R17. Control birds or exclude them from production areas.
+Table 4. Risk management measures for stock and animal movement
+14
+
+Risk category
+Risk management measures
+(C) Moderate
+R18. Inspect abalone health, mortality and behaviour daily. Record this 
+information.
+R19. Remove mortalities twice weekly (at a minimum).
+(D) Low
+R20. Ensure domestic animals (for example, cats and dogs) do not have 
+access to production areas at any time.
+R21. Bait vermin as necessary (if you observe live rodents, droppings or 
+nests).
+The risk of people introducing disease to your farm is greatest if they have recently visited other farms, or 
+environments potentially containing diseases of concern. 
+Contaminated skin, clothing and footwear can all potentially spread disease. See Table 5 for a summary of risk 
+management measures.
+*For further disposal information, see the AQUAVETPLAN Operational Procedures Manual – 
+Disposal at www.agriculture.gov.au/animal/aquatic/aquavetplan/disposal.
+People
+Objective: Minimise the risk of people movement introducing and spreading disease.
+Source: Katie Scutt
+15
+
+Staff
+Appendix 2 is an example of a pre-employment biosecurity declaration.
+Risk category
+Risk management measures
+(B) High
+R22. Do not permit staff to visit other aquaculture sites or seafood 
+processors before entering the farm (unless they have been appropriately 
+decontaminated).
+(D) Low
+R23. To ensure effective disinfection at all times, locate footbaths (or provide 
+the opportunity to change into zone-specific boots) and hand sanitation 
+stations at the farm entrance/exit and between biosecurity zones.
+R24. Ensure boots worn in production areas are not worn or taken outside 
+their designated production area.
+R25. Ensure staff attend work in laundered, clean clothes each day.
+R26. Only permit designated staff to routinely enter farm quarantine areas.
+R27. Ensure work flow is unidirectional (from low- to high-risk zones) when 
+staff need to access multiple zones during a day. Make sure you have an 
+appropriate procedure when this is not possible.
+Table 5. Risk management measures for staff movement
+Source: Tracey Bradley
+16
+
+Visitors – contractors, suppliers and other service personnel, family 
+and neighbours
+Appendix 3 provides a visitor biosecurity declaration template.
+Appendix 4 provides a visitor log template.
+Appendix 5 provides suggested farm entry conditions for visitors.
+Risk category
+Risk management measures
+(B) High
+R28. All visitors must complete a biosecurity declaration on arrival to ensure 
+you assess their risk to farm biosecurity. Consider refusing entry to high-risk 
+visitors.
+(C) Moderate
+R29. Limit movement of people onto and through the farm, in particular 
+restrict visitor access to quarantine zones.
+R30. Appropriately disinfect all visitors on production area entry and exit 
+using footbaths (or provide the opportunity to change into zone-specific 
+boots) and hand sanitation stations.
+(D) Low
+R31. Visitors must sign-in on arrival (by completing the farm visitor log) and 
+undergo a farm biosecurity induction.
+R32. Clearly display farm entry requirements to visitors at the sign-in point.
+R33. Ensure contractors conduct routine maintenance work within 
+quarantine area(s), where possible, between batches and before final 
+disinfection.
+R34. The farm manager must approve all visitors and visits must be 
+unidirectional from lowest to highest risk areas.
+R35. Accompany visitors at all times when on site.
+Table 6. Risk management measures for visitor movement
+17
+
+Depending on their history of use, contaminated equipment, vehicles or vessels can carry and spread disease 
+agents.
+Equipment and vehicles pose the greatest risk of disease transfer if used off-site (for example, dive equipment 
+or vehicles returning from fish processors) or in association with stock or wild fish, especially if these are 
+diseased. See Table 7 for a summary of risk management measures.
+Equipment, vehicles and vessels
+Risk category
+Risk management measures
+(B) High
+R36. Do not permit equipment, vehicles or vessels that have been in 
+contact with off-site abalone or water used to hold or process off-site 
+abalone to enter the farm. In exceptional circumstances, make sure you can 
+appropriately clean and disinfect* such equipment, vehicles or vessels, or 
+those of unknown origin or status, before using on the farm.
+(C) Moderate
+R37. Use specific equipment, clearly labelled, per zone.
+R38. Do not remove equipment from its dedicated zone and use elsewhere 
+on the farm.
+R39. Keep equipment used for multiple aquatic marine species (for example, 
+oysters and abalone) species specific and do not share.
+R40. If moving equipment between zones or species (for example, an 
+expensive item), ensure you clean and disinfect* it appropriately.
+R41. Keep equipment properly maintained and appropriately 
+decontaminated* as required. Ensure maintenance records are maintained 
+and up-to-date.
+Table 7. Risk management measures for equipment, vehicle and vessel movement
+Objective: Minimise the risk of equipment, vehicle or vessel movement introducing 
+and spreading disease.
+18
+
+Risk category
+Risk management measures
+(D) Low
+R42. Park visitor vehicles in a dedicated parking area.
+R43. Ensure the farm has a dedicated delivery and loading area.
+R44. Regularly clean all farm areas and keep free of rubbish and clutter.
+R45. Clean contractor tools before entry and ensure they are free of dust/
+organic matter.
+*Use appropriate cleaning and disinfection methods where deemed necessary based on risk.
+Appropriate cleaning and disinfection methods are outlined in the:
+¬
+¬
+AQUAVETPLAN Operational Procedures Manual – Decontamination, found on the Department of 
+Agriculture and Water Resources website (at www.agriculture.gov.au/animal/aquatic/aquavetplan/
+decontamination)
+¬
+¬
+Australian Pesticides and Veterinary Medicines Authority (APVMA) permit to allow hypochlorite for 
+disinfecting abalone harvesting equipment and for decontamination against Abalone Viral Ganglioneuritis 
+(AVG), found on the APVMA website (at portal.apvma.gov.au/permits; to view the current permit search 
+using keywords hypochlorite and abalone).
+You can also find biofouling management guidelines, for minimising the spread of marine pest species, on 
+Documents/Aquaculture_guidelines.pdf).
+Source: Tracey Bradley
+19
+
+Farm water supply can pose a significant risk of disease transfer depending on if the source water carries 
+disease. This is particularly important if there are host animals in the water source, or if it is close to water 
+discharge from other aquatic enterprises or processors. See Table 8 for a summary of risk management 
+measures.
+Water, waste and feed
+Table 8. Risk management measures for water, waste and feed
+Risk category
+Risk management measures
+(A) Critical
+R46. Treat incoming water appropriately (for example, screens on intake 
+pipes, filtration) to minimise the risk of disease/pest entry.
+R47. Treat discharge water from dedicated quarantine facilities appropriately 
+to minimise the risk of disease/pest establishment in the marine 
+environment.
+(B) High
+R48. Ensure water intake and outflow avoid cross contamination.
+R49. Ensure water flow within the farm minimises disease spread between 
+biosecurity zones.
+R50. Dispose of other waste appropriately (for example, used water filters, 
+fouling, faeces).
+(D) Low
+R51. Regularly service and maintain filtration equipment and keep a record.
+R52. Ensure potable water is available for cleaning and disinfection 
+procedures.
+R53. Only use manufactured or appropriately treated feeds.
+Objective: Minimise the risk of water, waste and feed introducing and spreading 
+disease.
+20
+
+ADDITIONAL SUPPORTING MEASURES
+Section 4
+Objective: Ensure all farm staff understand they share the responsibility of 
+maintaining farm biosecurity and must practice good biosecurity in all their work.
+Training
+Appendix 6 provides suggested training record template.
+Ensure all staff are appropriately trained so they understand both farm- and role-specific biosecurity 
+requirements.
+Staff need to understand the major routes of disease transmission and signs of abalone ill-health.
+Use a training record to ensure you do not overlook staff training. It will also remind you to refresh training 
+regularly (annually at a minimum), as well as after you update any procedures or associated documents.
+You can also use a training record to document additional role-specific training such as sample collection, 
+packaging and submission.
+R54. Ensure the farm has a biosecurity manager responsible for creating, maintaining and 
+reviewing the biosecurity plan, associated documents and activities including staff training.
+R55. Ensure that staff can readily access the farm biosecurity plan and all associated 
+documents at all times.
+R56. Provide all staff with a farm biosecurity induction and ongoing biosecurity training 
+relevant to their role. Document this and ensure it encompasses:
+¬
+¬
+the farm biosecurity plan
+¬
+¬
+the emergency response plan
+¬
+¬
+SOPs, associated documents including checklists and work practices that support 
+these plans.
+21
+
+Objective: Record information necessary to support good biosecurity practices, in 
+accordance with the farm biosecurity plan.
+Record keeping
+Good record keeping is necessary for auditing farm biosecurity plans and to provide demonstrable proof that 
+you are following biosecurity protocols. 
+In the event of a disease outbreak, you can use these records to trace the potential source of disease and 
+identify breakdowns in adherence to biosecurity protocols. You can also use them to help review and improve 
+farming practices and protocols.
+The minimum information that you should record is outlined below.
+R57. Maintain detailed records about stock movements and inventory and keep them 
+readily accessible.
+R58. Maintain detailed stock health, mortality and water quality records and keep them 
+readily accessible.
+Stock movements
+Stock health, mortality and water quality records
+Records of stock movements and inventory are essential for tracing activities in the event of a disease outbreak. 
+At a minimum, we suggested you include:
+¬
+¬
+source of stock, including original and most recent source (if different)
+¬
+¬
+movement of stock within the farm (for movement between different biosecurity zones such as nursery 
+and grow out)
+¬
+¬
+movement of stock from the farm, to other farms or to processors. 
+Records for each movement should include the following at a minimum:
+¬
+¬
+date of movement
+¬
+¬
+batch or other identifier
+¬
+¬
+number of individuals
+¬
+¬
+buyer (for sales) or stock origin, including contact details
+Health and performance records provide evidence that you are regularly monitoring stock. Records, especially of 
+mortalities, help you monitor for unusual health problems. 
+At a minimum, we suggest you include:
+¬
+¬
+mortalities (including the method of disposal and if you have archived any samples)
+¬
+¬
+details of any poorly performing abalone
+¬
+¬
+water quality information
+¬
+¬
+results of laboratory testing associated with clinical disease or undertaken for  health certification purposes 
+or Abalone Health Accreditation Program surveillance.
+1
+2
+22
+
+EMERGENCY PROCEDURES 
+Section 5
+Objective: Ensure you develop emergency procedures and identify additional biosecurity 
+measures to implement if there is a suspected emergency animal disease or serious 
+endemic disease. This could be either on the farm, or because of an increased threat of 
+introducing disease if an outbreak is suspected in the state/territory or region.
+Appendix 7 provides an emergency response plan template.
+An emergency response plan is an essential document for each farm and must provide clear guidelines as to the:
+¬
+¬
+specific trigger(s) for an emergency animal disease alert (for example, mortality rate, abnormal stock 
+behavior)
+¬
+¬
+key emergency contacts
+¬
+¬
+notification pathways and responsibilities, including jurisdictional notification
+¬
+¬
+high biosecurity risk management measures that you need to immediately implement when you activate 
+the emergency plan – this includes stock movement and farm access restrictions (examples of these are 
+included within the emergency response plan template)
+¬
+¬
+sample collection, storage and submission guidelines
+¬
+¬
+disposal and quarantine protocols
+¬
+¬
+the physical location and/or web link of key response or other resource documents (for example, 
+AQUAVETPLAN, jurisdiction disease response plan(s), farm disease response plan(s)).
+www.agriculture.gov.au/animal/aquatic/aquavetplan), and other jurisdictional requirements.
+Farm emergency plans should also include the procedures you need to follow in the event of a non-disease 
+emergency that may influence farm biosecurity, for example a power failure, water treatment failure or natural 
+disaster. This will ensure you have clearly identified responsibilities, notification pathways and other procedures 
+before such an event.
+R59. Ensure the farm has an emergency response plan.
+23
+
+LEGISLATIVE AND JURISDICTIONAL REGULATORY 
+REQUIREMENTS
+Section 6
+Farm practices must comply with:
+¬
+¬
+relevant agency and jurisdictional legislation (local, federal and state/territory)
+¬
+¬
+license conditions
+¬
+¬
+requirements of the Abalone Health Accreditation Program (for participating farms).
+We have looked at other regulatory requirements in previous sections, including:
+R60. Adhere to applicable import requirements and obtain translocation permits for all 
+stock and equipment movement.
+R11. Dispose of mortalities or unwanted stock in an appropriate manner that is approved 
+by the relevant jurisdictional authority. Ensure dead or unwanted stock is not returned to 
+the environment or accessible to scavengers (for example, birds)..
+R62. Only keep commercially farmed species on site in accordance with license conditions.
+R61. Undertake batch testing or surveillance requirements in compliance with jurisdictional 
+regulations or the Abalone Health Accreditation Program.
+R14. In accordance with jurisdictional requirements, immediately inform relevant 
+authorities of any significant, unexplained mortality event or suspected reportable disease.
+R63. Ensure any veterinary medicines provided to stock are compliant with relevant state 
+and national legislation (including the Commonwealth regulator, Australian Pesticides and 
+Veterinary Medicines Authority).
+24
+
+DOCUMENT CONTROL AND REVISION RECORD
+AUDIT RECORD
+Section 7
+Section 8
+This ensures you provide evidence to demonstrate your plan is being maintained as a living document and is 
+continually reviewed and updated based on:
+¬
+¬
+changed biosecurity threats
+¬
+¬
+ongoing learnings
+¬
+¬
+infrastructure upgrades
+¬
+¬
+changes in farm practices
+¬
+¬
+newly available risk management tools or information
+¬
+¬
+audit recommendations.
+Include both:
+¬
+¬
+internal and external audits
+¬
+¬
+scheduled and completed audits
+Note key outcomes/audit recommendations for reference and to demonstrate that you are critically reviewing 
+your plan. 
+Include brief but specific notes of any findings or required corrections, or refer to a detailed document containing 
+this information.
+Include document control information and a revision record in your farm biosecurity plan.
+Include a record of any audits completed (if applicable).
+R64. Ensure you regularly review the farm biosecurity plan (annually at a minimum).
+R65. Regularly audit your farm biosecurity plan (annually at a minimum) to ensure you are 
+implementing it effectively and improving on it as appropriate.
+25
+
+SUPPORTING DOCUMENTS 
+Section 9
+This list ensures you can readily identify supporting documents and make them accessible for review and audit. 
+You do not need to include them in the body of your plan. Keep them elsewhere (to ensure version control is 
+preserved) or include them as appendices. 
+We suggest you include the following supporting documents (Table 9), although you may incorporate multiple 
+topics into the same SOP depending on your farm. Farm size, number of staff and scale of production are all 
+likely to influence SOP requirements.
+Checklists are essential supporting documents and you should use them in association with SOPs wherever 
+possible. Checklists provide the evidence that an accountable staff member is following procedures outlined in 
+an SOP at correct intervals.
+Include a list of associated documents (SOPs, checklists and record keeping templates) 
+that are referenced within your farm biosecurity plan.
+R66. Clearly identify supporting documents (for example, SOPs, checklists and templates) 
+associated with the farm biosecurity plan and keep them readily available.
+Suggested standard operating 
+procedures and checklists 
+Record keeping templates/other 
+documents
+New employee induction and training 
+Pre-employment biosecurity declaration 
+Farm visitors 
+Visitor biosecurity declaration
+Stock arrivals, movement and dispatch
+Visitor log 
+Escapee prevention, inspection and collection
+Farm entry conditions for visitors
+Collecting and disposing of mortalities and other 
+waste
+Staff training record
+Disinfection 
+---
+Farm biosecurity zones 
+---
+Emergency response plan
+---
+Table 9: Standard operating procedures and record keeping
+Each individual farm’s biosecurity plan, and its effective implementation and operation, will 
+directly influence the ability of the abalone industry to withstand an outbreak of disease, and 
+the cost of control.
+26
+
+BIOSECURITY SIGN
+Appendix 1
+You can buy corflute signs at www.farmbiosecurity.com.au/buy-a-gate-sign/
+27
+
+PRE-EMPLOYMENT BIOSECURITY DECLARATION
+Appendix 2
+I, …………………………………………………………………………………………… hereby agree to abide by MY EMPLOYER’S 
+BIOSECURITY rules and standards.
+I understand the following applies at all times:
+I must:
+1.	
+attend work in clean, laundered clothes
+2.	
+only enter those areas of the farm I am approved to access
+3.	
+follow a one-directional flow of work (from low-risk to high-risk zones) if required to enter more than one 
+zone during daily work
+4.	
+immediately report any biosecurity breaches to management
+5.	
+immediately report any suspicion of disease to management.
+I must not:
+1.	
+visit other aquaculture sites or seafood processors for 24 hours before entering the farm unless I have had 
+a full head-to-toe shower and changed into clean, laundered clothes and shoes
+2.	
+wear or take boots outside their designated production area
+3.	
+move any zone-specific equipment to any other zone. 
+Signature ……………………………………………………………… Date ………………………………………………
+28
+
+VISITOR BIOSECURITY DECLARATION
+Appendix 3
+1.	
+Are you entering production areas of the farm?
+Yes	
+o□	
+No	
+o□
+2.	
+Have you been in contact with any aquaculture or the aquatic environment in the previous 24 hours, 	 	
+including:
+¬
+¬
+recreational fishing
+¬
+¬
+seafood processors
+¬
+¬
+water sports/activities (including diving)
+Yes	
+o□	
+No	
+o□
+(Go to question 3)
+3.	
+If yes, have you had a head-to-toe shower and changed into clean clothes and shoes?
+Yes	
+o□	
+No	
+o□
+-	
+postpone non-essential visit
+-	
+farm manager to assess risk before granting access
+I ……………………………………………………………. agree to abide by the entry conditions for visitors.
+Signature ……………………………………………………………… Date ………………………………………………
+29
+
+VISITOR LOG
+Appendix 4
+Date
+Name
+Company
+Contact 
+number
+Visitor 
+biosecurity 
+declaration 
+completed
+Time in
+Time Out
+30
+
+FARM ENTRY CONDITIONS FOR VISITORS
+Appendix 5
+Entry to this farm is subject to the following conditions:
+If entering production areas, visitors must not have been in contact with any other 
+aquaculture, seafood processors or the aquatic environment on the same day (or within the 
+previous 24 hours).
+Visitors must complete a visitor biosecurity declaration.
+Visitors must wear boots provided.
+Visitors must complete the visitor’s log.
+Visitors must clean/sanitise hands before entering production areas.
+31
+
+TRAINING RECORD
+Appendix 6
+Date
+Subject/topic/document
+Trainer
+I understand the training 
+delivered and have read 
+and understand the 
+associated document(s)
+(signature of employee)
+Due date of 
+refresher
+Employee name: __________________________ Position: ______________________________
+Minimum training requirements:
+¬
+¬
+Farm biosecurity plan: _____________________________________________________
+¬
+¬
+Emergency response plan: __________________________________________________
+¬
+¬
+Role-specific standard operating procedures: ______________________________________
+¬
+¬
+Other: ________________________________________________________________
+32
+
+Title
+Name
+Contact details
+Company/general manager
+<name>
+Mobile:
+Phone:
+Email:
+Farm manager
+<name>
+Mobile:
+Phone:
+Email:
+District veterinary officer
+<name>
+Mobile:
+Phone:
+Email:
+Aquatic animal health officer
+<name>
+Mobile:
+Phone:
+Email:
+Consultant veterinarian
+<name>
+Mobile:
+Phone:
+Email:
+Fishwatch Hotline (or 
+equivalent)
+<name>
+Mobile:
+Phone:
+Email:
+Laboratory
+<name>
+Mobile:
+Phone:
+Email:
+Emergency Animal Disease 
+Watch Hotline
+<name>
+Phone: 1800 675 888
+EMERGENCY RESPONSE PLAN TEMPLATE
+Appendix 7
+This document outlines employee actions and responsibilities if an emergency animal disease is suspected on 
+the farm. 
+Plan trigger
+Important contacts
+Unusually high, unexplained mortality. <Define this for your farm (for example, a specific mortality rate, 
+abnormal stock behaviour)>.
+Include contacts appropriate to your farm. The table below contains some examples
+33
+
+Action
+Responsibility
+Complete/date
+1.
+Contact the relevant authority through the relevant 
+reporting pathway for your state/territory (for 
+example, district veterinary officer, aquatic animal 
+health officer, the Emergency Animal Disease Watch 
+Hotline or the Fishwatch Hotline)
+Name:
+Position:
+Y/N
+<date>
+2.
+Follow all instructions as the relevant authority 
+directs.
+Name:
+Position:
+Y/N
+<date>
+3.
+Collect, package and submit samples for pathology 
+as the relevant authority directs.
+Name:
+Position:
+Y/N
+<date>
+4.
+Do not dispatch any stock from the farm until the 
+relevant authority approves it.
+Name:
+Position:
+Y/N
+<date>
+5.
+Isolate any suspected or known diseased stock.
+<name>
+Y/N
+<date>
+6.
+Stop all movements of stock between tanks and 
+zones.
+Name:
+Position:
+Y/N
+<date>
+7.
+Restrict farm access to visitors:
+¬
+¬
+secure the farm perimeter
+¬
+¬
+deny access to non-essential visitors
+¬
+¬
+postpone routine repair/maintenance
+¬
+¬
+postpone non-essential deliveries, including 
+stock.
+Name:
+Position:
+Y/N
+<date>
+8.
+Check for escapees.
+Name:
+Position:
+Y/N
+<date>
+9.
+Check sentinel stock (if applicable).
+Name:
+Position:
+Y/N
+<date>
+10. Do not let personnel, equipment and machinery 
+leave the farm until the relevant authority approves 
+it.
+Name:
+Position:
+Y/N
+<date>
+Notifications and responsibilities
+When this plan is triggered, employees must immediately implement the following practices.
+<Allocate responsibilities to relevant personnel.>
+34
+
+Action
+Responsibility
+Complete/date
+11. Restrict staff access to farm production areas. 
+Only let authorised staff carry out essential stock 
+management and husbandry procedures.
+Name:
+Position:
+Y/N
+<date>
+12. Ensure you make all staff aware of the actions being 
+taken and their individual responsibilities.
+Name:
+Position:
+Y/N
+<date>
+13. Advise all customers/processors immediately 
+affected.
+Name:
+Position:
+Y/N
+<date>
+14. Compile a list of movements over the preceding two 
+weeks – including stock, personnel, equipment and 
+machinery.
+Name:
+Position:
+Y/N
+<date>
+15. Implement husbandry changes – reduce feeding to 
+cut waste and uneaten food in tanks, and increase 
+water flow.
+Name:
+Position:
+Y/N
+<date>
+16. Arrange a dive inspection of nearby wild populations 
+to check for signs of disease (as the relevant 
+authority advises).
+Name:
+Position:
+Y/N
+<date>
+35
+
+Sample collection, packaging and dispatch
+Sample collection
+Sample labelling
+Packaging samples
+Packaging samples
+Collect samples as the relevant authority advises.
+Document which staff members you have trained in sample collection and packaging.
+Follow these guidelines when submitting fresh samples:
+¬
+¬
+Collect samples aseptically.
+¬
+¬
+Do not submit dead animals unless specifically requested to do so, submit live (preferably moribund) 
+samples from affected tanks.
+¬
+¬
+Place samples in individual sterile containers (do not mix ‘healthy’ specimens with those from affected 
+tanks if asked to submit both).
+¬
+¬
+Keep samples refrigerated or on ice to prevent decomposition and ensure sufficient ice is included to 
+keep samples cool throughout transport.
+¬
+¬
+Ensure that sample labels will remain attached and legible. 
+¬
+¬
+Unlabeled samples are unacceptable.
+¬
+¬
+Labels should include: 
+-	
+farm descriptor (for example, name or license number)
+-	
+contact details
+-	
+date 
+-	
+descriptor, based on what has been requested (for example, ‘abalone from affected tank’).
+¬
+¬
+Carefully pack samples to avoid breakage, leakage or contamination. 
+¬
+¬
+Place samples in non-breakable, leak-proof containers – do not use glass jars.
+¬
+¬
+Pack samples in an appropriate container (for example, a disposable poly box or foam esky) together 
+with sufficient paper or other absorbent material to soak up any leakage. Secure the lid.
+¬
+¬
+Submit samples as soon as possible following collection. 
+¬
+¬
+Submission details:
+Name: of state or territory laboratory
+Address: you are submitting samples to
+Contact number: of laboratory liaison or case manager
+Name and contact number: of courier – arrange transport directly through the relevant authority or 
+laboratory (ensure these arrangements are clear in this plan)
+36
+
+Disposal and quarantine protocols
+Key response plans
+Insert disposal protocol information (for example, ‘In the event that this plan is triggered double-bag mortalities 
+and dispose of in a mortality pit that is immediately covered over. Do not return dead stock to the environment 
+or let scavengers have access to them’).
+You need to consider disposal options in this plan, depending on the volume of stock. For further information, 
+and Water Resources website (at www.agriculture.gov.au/SiteCollectionDocuments/animal-plant/aquatic/
+aquavetplan/disposal-manual.pdf).
+Insert details of quarantine protocols, including isolation and disinfection, or reference a farm-specific 
+quarantine SOP
+Insert the details of any other response plans or documents for other abalone diseases if applicable.
+If you identify Abalone Viral Ganglioneuritis (AVG), your farm will follow:
+¬
+¬
+the requirements of ‘AQUAVETPLAN – Disease Strategy Manual – Abalone Viral Ganglioneuritis’, found 
+Library/Images/DAFF/__data/assets/pdffile/0020/2403371/abalone-aquavetplan.pdf [include the 
+electronic and/or physical location on site])
+¬
+¬
+any specific state or territory emergency response documents (insert their electronic and/or physical 
+location on site)
+¬
+¬
+directions from the relevant authority.
+If you identify Withering Syndrome (infection with Xenohaliotis californiesnsis), your farm will follow:
+¬
+¬
+the requirements of ‘AQUAVETPLAN – Disease Strategy Manual – Withering Syndrome of Abalone’, 
+SiteCollectionDocuments/animal-plant/aquatic/aquavetplan/withering-abalone.pdf [include the 
+electronic and/or physical location on site])
+¬
+¬
+any specific state or territory emergency response documents (insert their electronic and/or physical 
+location on site)
+¬
+¬
+directions from the relevant authority.
+37
+
+HOW TO WRITE A SIMPLE STANDARD 
+OPERATING PROCEDURE
+Appendix 8
+Standard Operating Procedures (SOPs) provide detailed and clear instructions on how to carry out a task/tasks. 
+This means that any employee can carry out the task/tasks correctly each and every time. 
+A well-written SOP will also help ensure that trainers have covered all relevant details.
+Key considerations when writing a standard operating procedure
+Suggested format
+¬
+¬
+Ensure the SOP is concise, but still contains all the necessary information to perform the procedure. 
+¬
+¬
+Keep SOPs short and consider breaking longer SOPs into multiple shorter SOPs.
+¬
+¬
+Where appropriate, use tables, lists, flow diagrams, photos, icons and/or other graphics rather than 
+large blocks of text. These can be more effective than text alone.
+¬
+¬
+Write for the target audience (those using the SOP) in plain English. Ensure steps are clear.
+¬
+¬
+Avoid vague statements. Use language such as ‘must use’ rather than ‘please use’ or ‘should use’.
+¬
+¬
+Ensure SOPs follow a logical thought process and number the steps to complete the procedure.
+Title
+Purpose
+Responsibilities 
+Example: Disposal of Biological Waste SOP (DBW1.0)
+Consider assigning a brief reference code or number that you can use in your farm biosecurity plan and other 
+documents.
+What is the reason for having this procedure, what is its aim?
+For example: This procedure aims to ensure you dispose of biological waste properly, including abalone 
+mortalities, to minimise the risk of spreading disease from the farm.
+You may also need to include relevant additional (non-biosecurity) reasons for having this procedure (for 
+example, work health and safety or environmental protection requirements).
+List staff member(s) and what they are required to do. For example:
+Staff member(s)
+Responsibility
+All
+Understand and follow this procedure. Report any breach of this procedure to 
+your supervisor or the farm manager immediately.
+Administration officer
+Order replacement mortality bags when supervisor or farm manager advises.
+Farm manager
+Ensure all staff follow this SOP.
+Maintain and update this SOP.
+38
+
+Definitions
+Document control
+Procedure
+Include definitions of any technical terms or acronyms used. Omit this section if not required.
+To ensure the SOP remains relevant and appropriately updated, include document control information.
+List the activities and tasks that make up this procedure, as well as any checklists staff members need to use. 
+For example:
+1.	
+Check tanks daily for mortalities.
+2.	
+Record any mortalities on the daily checklist.
+3.	
+Immediately report any mortalities over x% to the farm manager. Do not remove mortalities in this instance 
+until the farm manager advises, as you may need to observe the situation further and collect samples.
+4.	
+Remove mortalities from tanks at the end of each day, moving from lower to higher risk zones (for example, 
+grow out, then nursery).
+5.	
+Sanitise hands and boots between zones as per the Disinfection SOP.
+6.	
+Place mortalities into mortality bags and seal with tape.
+7.	
+Place sealed bags into the mortality pit.
+8.	
+Do not return to any production area following mortality disposal.
+9.	
+Advise the administration officer when ‘x’ bags remain so they can order more.
+Document control
+Details
+Approval/review
+Details
+Version
+e.g. 1.0
+Approved by
+Name
+Position
+Status
+e.g. Approved, Draft
+Date approved
+<date>
+Contact
+Name
+Position
+Next review due
+<date> (should not 
+exceed 12 months)
+39
+
+AUDIT CHECKLIST
+Appendix 9
+Page 
+ref.
+Associated 
+req.
+Infrastructure and facility 
+standards
+Yes
+No
+N/A
+Corrective action/
+comments
+9
+R1, R2
+Does the farm have a secure 
+perimeter? Can you close off access 
+to prevent vehicle entry when 
+required?
+9
+R3
+Are access gates closed and locked 
+during non-business hours?
+9
+R4
+Is there adequate signage to inform 
+visitors of the biosecure area and 
+what they need to do on arrival?
+10
+R5
+Do clear biosecurity zones exist 
+on the farm? Do zone-specific 
+procedures support this?
+10
+R6
+Are staff familiar with the farm’s 
+biosecurity zones and associated 
+requirements?
+20
+R46 to R48
+Does water intake, discharge and 
+flow throughout the farm minimise 
+disease entry and spread?
+14
+R16
+Do you prevent escapees 
+appropriately?
+20
+R51
+Can you provide evidence to 
+demonstrate an appropriately 
+maintained water treatment/
+filtration? 
+18, 
+19, 
+20
+R41, R44, 
+R52
+Can you provide evidence of 
+appropriately maintained and 
+cleaned farm infrastructure and 
+equipment? Is potable water 
+available for cleaning?
+18
+R37 to R40
+Is equipment used on the farm 
+dedicated to a zone (or species) and 
+clearly labelled as such?
+18, 
+19
+R36, R45
+Do you assess any equipment 
+brought onto the farm for risk and 
+appropriately treat it (clean and/or 
+disinfect)?
+19
+R42, R43
+Does the farm have dedicated areas 
+for visitor parking and delivery/
+loading?
+40
+
+Page 
+ref.
+Associated 
+req.
+Personnel standards
+Yes
+No
+N/A
+Corrective action/
+comments
+16
+R22, R24 to 
+R27
+Does each employee sign a 
+‘Pre-Employment Biosecurity 
+Declaration’ that specifies farm and 
+role biosecurity requirements?
+16
+R23
+Are hand sanitisation stations 
+and footbaths (or separate boots) 
+available, and used, at production 
+area entrance/exit and where 
+required between biosecurity zones?
+17
+R31
+Is there a visitors’ log that all visitors 
+must complete on arrival?
+17
+R28
+Do all visitors sign a visitor 
+biosecurity declaration? Match this 
+to the visitors’ log.
+17
+R32
+Do you prominently display the farm 
+entry conditions for visitors near the 
+visitors’ log?
+17
+R29, R30, 
+R33 to R35
+Are there appropriate (and 
+documented) procedures in place to 
+manage the risks posed by visitors 
+to the farm?
+21
+R54
+Does the farm have a specified 
+biosecurity manager?
+Page 
+ref.
+Associated 
+req.
+Production practices
+Yes
+No
+N/A
+Corrective action/
+comments
+14
+R8, R9, 
+Do you house and manage stock of 
+different disease risk separately?
+14
+R7, R10
+Is there an appropriate procedure 
+in place for stock introduction and 
+stock movement within and from 
+the farm?
+14, 
+15
+R11, R19
+Is there an appropriate procedure in 
+place for disposing of dead stock?
+14
+R15
+Are appropriate procedures in place 
+to optimise stock health?
+14, 
+15, 
+22
+R12, R18, 
+R58
+Can you provide evidence to 
+demonstrate you regularly monitor 
+stock health and you investigate any 
+health problems?
+41
+
+Page 
+ref.
+Associated 
+req.
+Documentation and training
+Yes
+No
+N/A
+Corrective action/
+comments
+14
+R13
+Are farm production staff 
+appropriately trained in reporting 
+disease and mortality? 
+23
+R59
+Does the farm have an emergency 
+response plan?
+21
+R55, R56
+Are all staff aware of the location, 
+content and their role and 
+responsibilities associated with the 
+farm’s emergency response plan, 
+biosecurity plan and associated 
+documents (for example, SOPs)?
+21
+R56
+Do you have a current training 
+record for each employee?
+22
+R57
+Is there a system in place to record 
+stock inventory and movements and 
+can you readily interrogate this for 
+tracing purposes? 
+25
+R64, R65
+Can you provide evidence, through 
+revision and audit records, that you 
+critically review the biosecurity plan 
+and improve on it as appropriate?
+26
+R66
+Can you readily identify and provide 
+on request all supporting documents 
+associated with the farm biosecurity 
+plan?
+Page 
+ref.
+Associated 
+req.
+Production practices
+Yes
+No
+N/A
+Corrective action/
+comments
+14
+R17, R20, 
+R21
+Do you effectively prevent and 
+control farm access by wildlife, 
+vermin or domestic animals?
+20
+R53
+Do you only use manufactured or 
+appropriately treated feeds?
+14, 
+14, 
+24
+R11, R14, 
+R60 to R63
+Can you provide evidence that 
+employees know and adhere to 
+all applicable legislative and/or 
+jurisdictional requirements? Provide 
+evidence of required documentation.
+42
+
+BIOSECURITY PLAN TEMPLATE
+Appendix 10
+How to use template
+Use this template to create a farm biosecurity plan. For further information, use the National Biosecurity Plan 
+Guidelines for the Australian Land Based Abalone Industry www.agriculture.gov.au/animal/aquatic/guidelines-
+and-resources in conjunction with this template. 
+We have included explanatory text in blue, which you can delete after completing your plan.
+Replace the text in red with details specific to your farm.
+Delete information or risk management measures that do not apply to your farm.
+Add additional information or risk management measures applicable to your farm.
+Delete this section when you have completed your plan.
+Available templates are shown in green next to the template symbol. The National 
+Biosecurity Plan Guidelines for the Australian Land Based Abalone Industry has 
+templates in the appendices, which you can modify for your farm.
+43
+
+ENTERPRISE INFORMATION
+Production details
+Key contacts
+Section 1
+Add additional categories to this table as required, or delete any categories or detail not applicable.
+Add additional contacts to this table as required, or delete any contacts not applicable.
+Category
+Details
+Broodstock and/or stock source
+<enter details>
+Species/product
+Species:
+Size of product:
+Market:
+Site activities
+For example:
+¬
+¬
+broodstock quarantine, conditioning and spawning
+¬
+¬
+nursery and grow out
+¬
+¬
+company administration
+Staff
+Farm production staff: <number> (consider further breakdown of 
+staff per zone)
+Administration staff: <number>
+Senior management: <number>
+Associated sites
+<enter details>
+Name
+Position
+Contact details
+<name>
+Company/general manager
+Mobile/phone:
+Email:
+<name>
+Farm manager
+Mobile/phone:
+Email:
+<name>
+Administration manager
+Mobile/phone:
+Email:
+<name>
+Operations manager
+Mobile/phone:
+Email:
+Internal Contacts
+44
+
+Name
+Position
+Contact details
+<name>
+Aquatic animal health officer
+Mobile/phone:
+Email:
+<name>
+District veterinary officer
+Mobile/phone:
+Email:
+<name>
+Consulting veterinarian
+Mobile/phone:
+Email:
+<name>
+Laboratory
+Mobile/phone:
+Email:
+<name>
+Industry representative
+Mobile/phone:
+Email:
+<name>
+Courier
+Mobile/phone:
+Email:
+External Contacts
+45
+
+MAPS AND DIAGRAMS
+Farm locality and features
+Section 2
+Add additional categories to this table as required, or delete any categories not applicable.
+Obtain maps from google maps www.google.com.au/maps. Satellite images help demonstrate the farm location 
+relative to major towns, roads and other infrastructure in the area.
+Create diagrams easily within this document by inserting shapes of various colour and size.
+Ensure maps are large, clear and legible.
+You may be able to combine some maps or diagrams depending on the size and/or complexity of the farm.
+Category
+Details
+Farm location and access
+¬
+¬
+address, state, region of state
+¬
+¬
+closest town name, distance from closest town
+¬
+¬
+GPS coordinates
+¬
+¬
+road(s) from which you can access the farm.
+Disease status of state/region
+Known diseases or marine pests of concern (for example, Abalone 
+Viral Ganglioneuritis [AVG]) for the state (or region).
+Proximity to other aquaculture 
+production
+For example:
+¬
+¬
+marine-based abalone farms
+¬
+¬
+other aquaculture leases
+¬
+¬
+processors.
+Proximity to high-risk sites
+For example, wild abalone populations, ports
+Other
+For example:
+¬
+¬
+presence and type of wildlife, feral animals or vermin
+¬
+¬
+significant natural features
+¬
+¬
+boat ramps, marinas.
+Insert a small map of the wider state area with the farm location marked. Then insert a larger farm locality map 
+and mark applicable additional information. Use symbols to mark relevant features, for example:
+Farm
+Processor
+Wild abalone population
+46
+
+R1. The farm has a secure perimeter or otherwise well-defined boundary establishing a 
+clearly defined biosecurity zone.
+R3. Access gates are lockable and locked when no company personnel are on site.
+R5. Divide the farm into biosecurity zones with zone-specific requirements relating to 
+access, entry and exit procedures, and dedicated equipment.
+R2. You can close the main production area entrance to vehicle traffic if you activate the 
+emergency response plan.
+R4. Clearly display entry signage that provides direction for visitors and includes 
+company contact details.
+R6. Clearly display biosecurity zone signage, consistent with biosecurity zone definitions 
+and familiar to all personnel.
+Farm maps and schematic diagrams
+Farm layout
+Production areas and biosecurity zone classifications
+Biosecurity sign
+Insert a farm layout map/diagram and include details relating to the following risk management measures. 
+Display these as part of the map/diagram or list them as additional information.
+Insert a diagram of farm production areas and their associated biosecurity zone classifications. Display details 
+relating to the following risk management measures, applicable to your farm, as part of the map/diagram or as 
+additional information.
+47
+
+Biosecurity zone
+Access
+Extreme (red)
+¬
+¬
+highly restricted
+¬
+¬
+authorised personnel only
+¬
+¬
+no entry to any other zones following access.
+High (amber)
+¬
+¬
+limited access
+¬
+¬
+authorised personnel only
+Moderate (yellow)
+¬
+¬
+limited access
+¬
+¬
+authorised personnel only
+Low (green)
+¬
+¬
+no access restrictions (staff or visitors).
+Example farm biosecurity zones
+Develop supporting SOPs to capture further detailed information relating to your biosecurity zone 
+classifications, such as who is authorised to access each zone, entry and exit procedures and any additional 
+relevant information.
+48
+
+ROUTINE MEASURES TO ADDRESS MAJOR DISEASE 
+TRANSMISSION ROUTES
+Section 3
+Amend the risk management measures outlined in the following sections to reflect actual farm practices. Add 
+specific detail where applicable and delete any measures not applicable. 
+For example, amend ‘Mortalities or unwanted stock are disposed of in an appropriate manner.’ to reflect the 
+actual procedure: ‘Place mortalities in plastic bags, seal with tape and place in a mortality pit. Cover the pit every 
+x weeks.’
+Animals
+Objective: Minimise the risk of stock and other animal movement introducing and 
+spreading disease.
+Risk category
+Risk management measures
+Supporting 
+documentation
+(A) Critical
+R7. Obtain health status information and 
+appropriate permits for stock before it enters the 
+farm. Ensure the health status of any introduced 
+stock is equal to or better than that of stock 
+already present. Permanently quarantine stock if 
+you cannot achieve this.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R8. Permanently quarantine introduced stock of 
+unknown (for example, wild) or lower health status. 
+This includes isolation in separate water from all 
+other farm stock in separate production units/
+dedicated quarantine facilities with appropriate 
+biosecurity measures.
+R9. House multiple marine aquaculture species 
+(for example, oysters and abalone) separately, with 
+appropriate biosecurity measures and do not share 
+water across species.
+49
+
+Risk category
+Risk management measures
+Supporting 
+documentation
+(B) High
+R10. Inspect stock on introduction to the farm and 
+clean if required.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R11. Dispose of mortalities or unwanted stock in 
+an appropriate manner* that is approved by the 
+relevant jurisdictional authority. Ensure dead or 
+unwanted stock is not returned to the environment 
+or accessible to scavengers (for example, birds).
+R12. Investigate health problems (suspected 
+diseases) with assistance from aquatic animal 
+health professionals.
+R13. Ensure staff responsible for managing 
+abalone husbandry are trained in, and aware of, 
+their role and responsibility in reporting signs of 
+disease and high mortality.
+R14. In accordance with jurisdictional requirements, 
+immediately inform relevant authorities of 
+any significant, unexplained mortality event or 
+suspected reportable disease.
+R15. Keep stock stress to a minimum by ensuring 
+appropriate water quality, hygiene, stocking 
+density, nutrition and handling.
+R16. Prevent escapees.
+R17. Control birds or exclude them from production 
+areas.
+50
+
+Risk category
+Risk management measures
+Supporting 
+documentation
+(C) Moderate
+R18. Inspect abalone health, mortality and 
+behaviour daily. Record this information.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R19. Remove mortalities twice weekly (at a 
+minimum).
+(D) Low
+R20. Ensure domestic animals (for example, cats 
+and dogs) do not have access to production areas 
+at any time.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R21. Bait vermin as necessary (if you observe live 
+rodents, droppings or nests).
+51
+
+People
+Staff
+Objective: Minimise the risk of people movement introducing and spreading disease.
+Risk category
+Risk management measures
+Supporting 
+documentation
+(B) High
+R22. Do not permit staff to visit other aquaculture 
+sites or seafood processors before entering 
+the farm (unless they have been appropriately 
+decontaminated).
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+(D) Low
+R23. To ensure effective disinfection at all times, 
+locate footbaths (or provide the opportunity 
+to change into zone-specific boots) and hand 
+sanitation stations at the farm entrance/exit and 
+between biosecurity zones.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R24. Ensure boots worn in production areas are not 
+worn or taken outside their designated production 
+area.
+R25. Ensure staff attend work in laundered, clean 
+clothes each day.
+R26. Only permit designated staff to routinely 
+enter farm quarantine areas.
+R27. Ensure work flow is unidirectional (from 
+low- to high-risk zones) when staff need to access 
+multiple zones during a day. Make sure you have an 
+appropriate procedure when this is not possible.
+Pre-employment 
+biosecurity 
+declaration 
+Pre-employment 
+biosecurity 
+declaration 
+52
+
+Visitors – contractors, suppliers and other service personnel, family 
+and neighbours
+Risk category
+Risk management measures
+Supporting 
+documentation
+(B) High
+R28. All visitors must complete a biosecurity 
+declaration on arrival to ensure you assess their 
+risk to farm biosecurity. Consider refusing entry to 
+high-risk visitors.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+(C) Moderate
+R29. Limit movement of people onto and through 
+the farm, in particular restrict visitor access to 
+quarantine zones.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R30. Appropriately disinfect all visitors on 
+production area entry and exit using footbaths 
+(or provide the opportunity to change into zone-
+specific boots) and hand sanitation stations.
+(D) Low
+R31. Visitors must sign-in on arrival (by completing 
+the farm visitor log) and undergo a farm biosecurity 
+induction.
+R32. Clearly display farm entry requirements to 
+visitors at the sign-in point.
+R33. Ensure contractors conduct routine 
+maintenance work within quarantine area(s), 
+where possible, between batches and before final 
+disinfection.
+R34. The farm manager must approve all visitors 
+and visits must be unidirectional from lowest to 
+highest risk areas.
+R35. Accompany visitors at all times when on site.
+Visitor log
+Entry conditions 
+for visitors
+Visitor 
+biosecurity 
+declaration
+53
+
+Equipment, vehicles and vessels
+Risk category
+Risk management measures
+Supporting 
+documentation
+(B) High
+R36. Do not permit equipment, vehicles or vessels 
+that have been in contact with off-site abalone or 
+water used to hold or process off-site abalone to 
+enter the farm. In exceptional circumstances, make 
+sure you can appropriately clean and disinfect* 
+such equipment, vehicles or vessels, or those of 
+unknown origin or status, before using on the farm.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+(C) Moderate
+R37. Use specific equipment, clearly labelled, per 
+zone.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R38. Do not remove equipment from its dedicated 
+zone and use elsewhere on the farm.
+R39. Keep equipment used for multiple aquatic 
+marine species (for example, oysters and abalone) 
+species specific and do not share.
+R40. If moving equipment between zones or 
+species (for example, an expensive item), ensure 
+you clean and disinfect* it appropriately.
+R41. Keep equipment properly maintained and 
+appropriately decontaminated* as required. Ensure 
+maintenance records are maintained and up-to-
+date.
+Objective: Minimise the risk of equipment, vehicle or vessel movement introducing 
+and spreading disease.
+(D) Low
+R42. Park visitor vehicles in a dedicated parking 
+area.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R43. Ensure the farm has a dedicated delivery and 
+loading area.
+R44. Regularly clean all farm areas and keep free 
+of rubbish and clutter.
+R45. Clean contractor tools before entry and 
+ensure they are free of dust/organic matter.
+54
+
+Water, waste and feed
+Risk category
+Risk management measures
+Supporting 
+documentation
+(A) Critical
+R46. Treat incoming water appropriately (for 
+example, screens on intake pipes, filtration) to 
+minimise the risk of disease/pest entry.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R47. Treat discharge water from dedicated 
+quarantine facilities appropriately to minimise the 
+risk of disease/pest establishment in the marine 
+environment.
+(B) High
+R48. Ensure water intake and outflow avoid cross 
+contamination.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R49. Ensure water flow within the farm minimises 
+disease spread between biosecurity zones.
+R50. Dispose of other waste appropriately (for 
+example, used water filters, fouling, faeces).
+(D) Low
+R51. Regularly service and maintain filtration 
+equipment and keep a record.
+Add titles or codes of 
+any associated SOPs, 
+checklists or record 
+keeping templates in 
+this column
+R52. Ensure potable water is available for cleaning 
+and disinfection procedures.
+R53. Only use manufactured or appropriately 
+treated feeds.
+Objective: Minimise the risk of water, waste and feed introducing and spreading 
+disease.
+55
+
+ADDITIONAL SUPPORTING MEASURES
+Section 4
+Objective: Ensure all farm staff understand they share the responsibility of 
+maintaining farm biosecurity and must practice good biosecurity in all their work.
+Training
+R54. Ensure the farm has a biosecurity manager responsible for creating, maintaining and 
+reviewing the biosecurity plan, associated documents and activities including staff training.
+R55. Ensure that staff can readily access the farm biosecurity plan and all associated 
+documents at all times.
+R56. Provide all staff with a farm biosecurity induction and ongoing biosecurity training 
+relevant to their role. Document this and ensure it encompasses:
+¬
+¬
+the farm biosecurity plan
+¬
+¬
+the emergency response plan
+¬
+¬
+SOPs, associated documents including checklists and work practices that support 
+these plans.
+Describe what training is undertaken by staff, how it is recorded and how often it is refreshed.
+Site biosecurity manager details:
+Training record template
+Name
+Contact details
+Responsibilities
+<name>
+Mobile:
+Phone:
+Email:
+<insert details>
+56
+
+Objective: Record information necessary to support good biosecurity practices, in 
+accordance with the farm biosecurity plan.
+Record keeping
+R57. Maintain detailed records about stock movements and inventory and keep them 
+readily accessible.
+R58. Maintain detailed stock health, mortality and water quality records and keep them 
+readily accessible.
+Stock movements
+Stock health, mortality and water quality records
+1
+2
+Outline how and what stock movement information is kept and accessible – this may involve referencing 
+existing systems.
+Outline how and what stock health, mortality records and water quality records are kept and accessible. This 
+may involve referencing existing systems.
+Reference the site emergency response plan (ERP) here, clearly noting its electronic and physical location.
+Outline the trigger for enacting the ERP, such as a specific mortality rate or abnormal stock behaviour.
+EMERGENCY PROCEDURES 
+Section 5
+Objective: Ensure you develop emergency procedures and identify additional biosecurity 
+measures to implement if there is a suspected emergency animal disease or serious 
+endemic disease. This could be either on the farm, or because of an increased threat of 
+introducing disease if an outbreak is suspected in the state/territory or region.
+R59. Ensure the farm has an emergency response plan.
+Emergency response plan template
+57
+
+Outline any legislative and/or jurisdictional requirements that apply to the farm and describe how the farm is 
+adhering to these. 
+LEGISLATIVE AND JURISDICTIONAL REGULATORY 
+REQUIREMENTS
+Section 6
+R60. Adhere to applicable import requirements and obtain translocation permits for all 
+stock and equipment movement.
+R62. Only keep commercially farmed species on site in accordance with license conditions.
+R61. Undertake batch testing or surveillance requirements in compliance with jurisdictional 
+regulations or the Abalone Health Accreditation Program.
+R63. Ensure any veterinary medicines provided to stock are compliant with relevant state 
+and national legislation (including the Commonwealth regulator, Australian Pesticides and 
+Veterinary Medicines Authority).
+DOCUMENT CONTROL AND REVISION RECORD
+Section 7
+Document control
+Details
+Approval/review
+Details
+Version
+e.g. 1.0
+Approved by
+Name
+Position
+Status
+e.g. Approved, Draft
+Date approved
+<date>
+Contact
+Name
+Position
+Next review due
+<date> (should not 
+exceed 12 months)
+Revision record
+Date
+Version
+Revision description
+Date
+e.g. 1.0
+Should be brief but specific – avoid vague statement like ‘plan updated’ 
+but rather state ‘SOP XXXX added’, ‘Key contact details amended’.
+R64. Ensure you regularly review the farm biosecurity plan (annually at a minimum).
+58
+
+AUDIT RECORD
+Section 8
+R65. Regularly audit your farm biosecurity plan (annually at a minimum) to ensure you are 
+implementing it effectively and improving on it as appropriate.
+Date
+Type
+Auditor(s)
+Audit notes – remedial action
+Date of next 
+audit
+Date
+Internal or 
+external
+Name of 
+auditor
+Should be brief but specific – avoid 
+vague statements such as ‘minor 
+changes made’. Instead provide details 
+or reference to a full audit report.
+Next audit date
+SUPPORTING DOCUMENTS 
+Section 9
+R66. Clearly identify supporting documents (for example, SOPs, checklists and templates) 
+associated with the farm biosecurity plan and keep them readily available.
+Standard operating procedures
+Record keeping templates/other documents
+New employee induction and training
+Pre-employment declaration
+Farm visitors
+Visitor biosecurity declaration
+Stock arrivals, movement and dispatch 
+Visitor log
+Escapee prevention, inspection and collec-
+tion
+Farm entry requirements for visitors
+Collection and disposal of mortalities and 
+other waste
+Staff training record
+Disinfection
+N/A
+Farm biosecurity zones 
+N/A
+Emergency response plan
+Emergency response plan
+List documents that are referenced in, or associated with, this plan. Add documents to this table as required and 
+delete any that are not applicable. 
+59
+
+Source: Katie Scutt
+60
+
+61

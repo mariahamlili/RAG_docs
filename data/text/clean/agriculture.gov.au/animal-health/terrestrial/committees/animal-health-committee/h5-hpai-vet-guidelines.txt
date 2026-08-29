@@ -1,0 +1,1284 @@
+National H5 high 
+pathogenicity avian influenza 
+guidelines for veterinarians
+
+ii 
+© Commonwealth of Australia 2026 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: Animal Health Committee 2026, National H5 
+CC BY 4.0. 
+This publication is available at birdflu.gov.au 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and for 
+any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the 
+information or data in this publication to the maximum extent permitted by law. 
+Acknowledgement of Country 
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and 
+waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, and 
+recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, 
+fisheries and forestry industries. 
+Credits 
+Cover photo: © Beatrice Banes.
+
+iii 
+Contents 
+Introduction ................................................................................................................................. 1 
+1 
+Purpose and scope ................................................................................................................ 2 
+1.1 
+Out-of-scope ...................................................................................................................... 2 
+2 
+Veterinarians and emergency animal disease responses ......................................................... 3 
+2.1 
+Veterinarian engagement in an EAD response .................................................................. 3 
+2.2 
+Implications of a H5 bird flu response for veterinary premises ........................................ 3 
+2.3 
+Veterinary premises in which H5 bird flu has been detected ........................................... 4 
+3 
+When to suspect H5 bird flu .................................................................................................. 5 
+3.1 
+Clinical signs of H5 bird flu in animals ............................................................................... 5 
+3.2 
+Notification ........................................................................................................................ 5 
+4 
+Health and safety precautions when H5 bird flu is suspected or confirmed ............................. 7 
+5 
+Recommendations for managing spread of H5 bird flu ........................................................... 8 
+5.1 
+Triage ................................................................................................................................. 9 
+5.2 
+Admission and isolation ................................................................................................... 11 
+5.3 
+Management of animals suspected or confirmed to have H5 bird flu............................ 12 
+5.4 
+Management of deceased animals.................................................................................. 13 
+6 
+General advice for clients ..................................................................................................... 14 
+6.1 
+Health concerns and medical assistance ......................................................................... 14 
+6.2 
+Other health considerations ............................................................................................ 15 
+Appendix A: Avian influenza: current knowledge ......................................................................... 16 
+Overview of avian influenza viruses .............................................................................................. 16 
+Avian influenza transmission ......................................................................................................... 16 
+Incubation period .......................................................................................................................... 18 
+Avian influenza and human health ................................................................................................ 19 
+Appendix B: Avian influenza response arrangements in Australia ................................................. 20 
+Reporting obligations .................................................................................................................... 20 
+Arrangements for emergency animal diseases ............................................................................. 20 
+Vaccination for avian species ........................................................................................................ 21 
+Appendix C: Avian influenza sampling, submission and testing ..................................................... 22 
+Sample collection ........................................................................................................................... 22 
+How to submit samples ................................................................................................................. 23 
+State and territory details .............................................................................................................. 25 
+Appendix D: Triage decision-making framework ........................................................................... 27 
+Appendix E: Triage tent example ................................................................................................. 28
+
+iv 
+Appendix F: Resources ................................................................................................................. 29 
+Glossary ...................................................................................................................................... 31 
+Abbreviations ................................................................................................................................. 32 
+References .................................................................................................................................. 34 
+Tables 
+Table D1 Queensland contact details .................................................................................................... 25 
+Table D2 New South Wales contact details .......................................................................................... 25 
+Table D3 Victoria contact details ........................................................................................................... 25 
+Table D4 Tasmania contact details ........................................................................................................ 25 
+Table D5 South Australia contact details .............................................................................................. 26 
+Table D6 Western Australia contact details .......................................................................................... 26 
+Table D7 Northern Territory contact details ......................................................................................... 26 
+Figures 
+Figure A1 Avian influenza transmission pathways (a) ........................................................................... 18 
+Figure A2 Avian influenza transmission pathways (b)........................................................................... 18 
+Figure D1 Procedure for swab collection .............................................................................................. 23 
+Figure D2 Biological substance label ..................................................................................................... 24 
+Figure E1 Triage decision-making framework ....................................................................................... 27 
+Figure F1 Triage tent example ............................................................................................................... 28
+
+1 
+Introduction 
+If you are aware of, or suspect avian influenza in any animal, you must report it to the Emergency Animal 
+Disease Hotline on 1800 675 888 (available 24/7). This number can be called from anywhere in Australia and 
+will be connected to the local state or territory government agency for advice. Reporting is a legal requirement. 
+These guidelines have been produced to assist private veterinarians to manage the risk of H5 high 
+pathogenicity avian influenza at their premises. 
+Since 2021, a new strain of high pathogenicity avian influenza (HPAI) H5Nx clade 2.3.4.4b, 
+(colloquially and hereafter referred to as H5 bird flu) has resulted in severe and widespread 
+outbreaks in poultry, wild birds, and terrestrial and marine mammals around the world. 
+H5 bird flu was first confirmed in a single wild migratory bird (brown skua) found in southern 
+Western Australia in June 2026. 
+Compared to previous H5 bird flu viruses, the clade 2.3.4.4b viruses have increased pathogenicity, 
+replication and viral shedding in wild birds; increased avian and mammalian host range; increased 
+viral persistence in the environment; an ability to spread via a wide range of avian species; and the 
+ability of wild birds to directly infect poultry without a low pathogenicity avian influenza (LPAI) 
+mutation event. 
+Veterinarians should prepare for H5 bird flu, so that measures can be quickly implemented to limit 
+disease spread, while continuing to provide appropriate veterinary services for animals in their care. 
+This includes the development of a biosecurity plan and H5 bird flu protocols specific to their staff 
+and premises. Information provided in this document will support this process. 
+Important additional information, such as current knowledge on H5 bird flu, response arrangements in 
+Australia, sample collection and submission, examples of triage decision-making frameworks and triage tents 
+can be found in the Appendices. Quick references, links to resources and fact sheets are also included as 
+Appendices in this guidance document.
+
+2 
+1 Purpose and scope 
+This document has been developed as a collaborative effort with state/territory government 
+representatives, the Australian Veterinary Association, Wildlife Health Australia and private 
+veterinary practitioners. 
+The purpose of these guidelines is to: 
+• 
+assist Australian veterinarians to reduce the risk of introducing H5 bird flu into their premises 
+• 
+limit the potential for disease spread 
+• 
+provide advice on the management of suspected or confirmed cases of H5 bird flu. 
+The guidelines are aimed at veterinarians in clinical practice who provide veterinary services at 
+veterinary premises to non-commercial domestic animals and wildlife. 
+These guidelines will support veterinarians to develop biosecurity plans and guide decision-making 
+for H5 bird flu before, during and after a disease outbreak. The guidelines may also assist veterinary 
+and non-veterinary managers of private practices to assess and mitigate potential risks and support 
+business continuity.  
+1.1 
+Out-of-scope 
+The guidelines do not provide specific guidance for offsite veterinary activities, although many 
+principles may be applicable to farm visits and house calls. Compensation, management of pest 
+animals and response activities undertaken by veterinarians formally engaged by government in the 
+field (e.g. surveillance/sample collection during an emergency animal disease (EAD) response) are 
+also out of scope. 
+There is uncertainty about how a detection or outbreak of H5 bird flu may unfold in Australia. These 
+guidelines will be revised as new information becomes available to maintain their currency.
+
+3 
+2 Veterinarians and emergency 
+animal disease responses 
+Additional information on EAD response arrangements in Australia can be found in Appendix B. 
+2.1 
+Veterinarian engagement in an EAD response 
+Veterinarians play an essential role in EAD responses. Private veterinarians may be involved through 
+their routine clinical activities, such as identifying suspect cases among their patients, including 
+wildlife, in addition to providing accurate, trusted information about H5 bird flu to their clients and 
+the local community. 
+Veterinarians may also be formally engaged in a response through the responding government 
+agency. The National Guidance document on the engagement of private veterinarians during an 
+emergency animal disease response (updated June 2023) guides how private veterinarians are 
+engaged during EAD responses. 
+2.2 
+Implications of a H5 bird flu response for 
+veterinary premises 
+During an EAD response, private veterinarians will be required to liaise with their state or territory 
+biosecurity agency to report animals suspected of being infected with H5 bird flu. Veterinarians may 
+also be requested to support other response activities at their premises, such as triaging suspect 
+cases, collecting samples for laboratory testing, and welfare assessments. 
+Heightened biosecurity measures and other response activities may influence how veterinary 
+services can be delivered during an outbreak. For veterinary premises situated within declared areas 
+(i.e. areas impacted by the outbreak and subject to disease control measures under relevant 
+biosecurity EAD legislation), potential measures that may be implemented by state or territory 
+government agencies include: 
+• 
+Movement controls – if a veterinary premises is in, or an animal originates from, a declared 
+area, movement restrictions may apply to animals, animal products, and vehicles. The specifics 
+of these restrictions will be communicated by the authorities managing the outbreak. 
+• 
+Disease surveillance – monitoring for and reporting of clinical signs, routine surveillance and/or 
+sample collection (if directed) for laboratory testing (at a government veterinary laboratory) to 
+detect H5 bird flu to determine the extent of an outbreak, inform response actions and 
+preventative biosecurity measures, and support assessment of the effectiveness of control 
+activities. 
+• 
+Specific disposal and decontamination procedures for items that may be contaminated with 
+virus, to avoid the spread of H5 bird flu (see section 5).
+
+4 
+2.3 
+Veterinary premises in which H5 bird flu has 
+been detected 
+If H5 bird flu is confirmed in a patient at a veterinary premises it needs to be reported to the relevant 
+state or territory biosecurity agency who will work with the authorised decision maker for the 
+premises. Risk assessment will determine actions to limit spread and zoonotic potential while 
+optimising animal welfare outcomes and business continuity. 
+The state/territory biosecurity agency will work with the veterinary premises until any risk of further 
+disease transmission is managed. 
+An established biosecurity plan for the veterinary premises will assist authorities and inform risk 
+assessments to support management of cases suspected or confirmed to have H5 bird flu 
+(see section 5). 
+H5 bird flu is a nationally notifiable human health disease, and any detection will be notified to the 
+state/territory health department. They will determine what measures need to be implemented and 
+whether any people require monitoring or medical support. The veterinary practice should also 
+notify the relevant workplace health and safety (WHS) authority. 
+For H5 bird flu detections in new locations, a communication campaign will also be undertaken which 
+will include notification of appropriate professional bodies, including the Australian Veterinary 
+Association and state or territory veterinary registration authorities.
+
+5 
+3 When to suspect H5 bird flu 
+3.1 
+Clinical signs of H5 bird flu in animals 
+A veterinarian may suspect an animal has H5 bird flu from the presenting clinical signs and history 
+(see section 5.1.2). H5 bird flu affects a broad range of avian and mammalian species, and infection 
+can lead to a wide range of clinical signs including: 
+• 
+neurological (ataxia, paralysis, seizures, tremors, abnormal posture, torticollis, head tilt, circling, 
+behavioural abnormalities) 
+• 
+respiratory (conjunctivitis, nasal and oral discharge, excessive lacrimation, corneal oedema, 
+coughing, sneezing, dyspnoea, tachypnoea, oedema of the head) 
+• 
+gastrointestinal (diarrhoea) 
+• 
+sudden death (without prior clinical signs) including the potential for mass mortality 
+• 
+other (cyanosis – wattles, combs, legs; decreased and/or abnormal egg production). 
+Clinical signs in non-poultry avian species are variable between species and among individuals but 
+generally include neurological or respiratory signs. Waterfowl, seabirds, shorebirds and predatory 
+and scavenging species appear most susceptible to severe disease. Some species may be 
+asymptomatic or show only very mild clinical signs. 
+While the risk of cats becoming infected with H5 bird flu is low, they appear to be particularly 
+susceptible to severe, rapidly progressing illness, often resulting in death. The likelihood of dogs 
+becoming infected with H5 bird flu continues to be low (Beacon 2025, AVMA 2025). 
+Dairy cattle may exhibit various nonspecific clinical signs (FAO 2024), including low appetite, reduced 
+milk production, and abnormal appearance of milk (thickened, discoloured). In contrast to H5 bird flu 
+infection in birds, most affected dairy cattle reportedly recover with supportive care, and mortality or 
+culling rates generally remain below 2% (AVMA 2025). Note the estimated risk to the Australian dairy 
+industry is low (DAFF 2025). 
+Based on cases overseas, wild mammal infections are most likely to occur in predatory or scavenging 
+species, and marine mammals that have close contact with seabirds and their environments. 
+Additional information on H5 bird flu, including pathways of transmission can be found in 
+Appendix A. 
+Video footage of clinical signs associated with H5 bird flu has been collected by the South African 
+Foundation for the Conservation of Coastal Birds (SANCCOB) during avian influenza outbreaks in 
+South Africa from 2017 to 2021. The video footage can be viewed on the SANCCOB website.    
+3.2 
+Notification 
+In Australia, infection with influenza A viruses in birds (including but not limited to H5 bird flu) is a 
+nationally notifiable animal disease.
+
+6 
+However, if you are aware of, or suspect avian influenza in any animal, you must report it to the 
+Emergency Animal Disease Hotline on 1800 675 888 (available 24 hours, 7 days a week). 
+See Appendix B for more information on reporting obligations.
+
+7 
+4 Health and safety precautions when 
+H5 bird flu is suspected or 
+confirmed 
+If H5 bird flu is suspected in an animal, based on clinical signs and history, veterinarians should 
+implement measures to protect themselves and others (e.g. staff and clients) from potential 
+exposure to the virus. This may include: 
+• 
+keeping the animal in a clearly signed isolation area 
+• 
+avoiding unprotected close or direct physical contact with the animal 
+• 
+minimising the number of staff required to interact with the animal, where practicable 
+• 
+wearing personal protective equipment (PPE) when handling the animal. If workers are required 
+to wear PPE, they must be trained in and demonstrate an understanding of when and what PPE 
+to use, how to properly put on, use, take off, dispose of, and maintain PPE 
+• 
+taking particular care during aerosol-generating procedures 
+• 
+practicing good hygiene and decontamination procedures 
+• 
+timely disposal of all potentially contaminated PPE and other materials following interaction 
+with the animal, in a designated, labelled, hazardous waste receptacle. 
+The current risk of H5 bird flu to people in Australia is low. Overseas, people have been infected with 
+H5 bird flu, typically after close contact with infected birds, animals or contaminated environments. 
+The Australian Centre for Disease Control (CDC) has developed the National guidelines for avian 
+influenza – protecting people who work with birds and wildlife, which outlines infection prevention 
+measures, including hygiene practices and PPE use (including donning and doffing), to protect 
+workers from exposure to H5 bird flu when handling birds and wildlife. 
+Annual seasonal influenza vaccination is recommended for all staff and volunteers at veterinary 
+premises. Although the vaccine does not protect against bird flu, it may help prevent people being 
+infected with seasonal flu at the same time, which will reduce the risk of the viruses mixing to create 
+a new virus that may be more serious to human health. 
+Additional information 
+• 
+Bird flu toolkit for people who work with birds
+
+8 
+5 Recommendations for managing 
+spread of H5 bird flu 
+Veterinarians and practice owners should assess biosecurity and WHS risks specific to their premises, 
+daily routines and staff, particularly those that could become critical during a H5 bird flu outbreak. 
+They should then identify practical measures to reduce those risks. All findings and actions should be 
+clearly documented in a premises-specific biosecurity plan. 
+Veterinary premises should maintain robust baseline hygiene and biosecurity practices at all times, 
+even with healthy animals and no known H5 bird flu. Enhanced biosecurity and hygiene measures, 
+along with clear triggers for when they should be activated, should be documented in the biosecurity 
+plan. Potential triggers include: 
+• 
+confirmed H5 bird flu cases in Australia 
+• 
+confirmed H5 bird flu detection within the state or territory 
+• 
+veterinary premises located within a declared area 
+• 
+advice/directives from state/territory authorities. 
+Enhanced biosecurity measures may include: 
+• 
+enhanced PPE (refer to section 3.5 of the National guidelines for avian influenza: protecting 
+people who work with birds and wildlife) 
+• 
+patient triage for H5 bird flu (see section 5.1) before entry to premises (e.g. speaking to the 
+owner by telephone, conducting the consultation outside) 
+• 
+dedicated triage and isolation areas 
+• 
+tailoring workflows to the H5 bird flu disease status of patients within the premises 
+• 
+enhanced hygiene measures for disposal of waste products and equipment (biosecure disposal 
+methods are listed in the AUSVETPLAN Response Strategy: Avian influenza, and the 
+AUSVETPLAN Operational Manual – Disposal 
+• 
+ensuring cleaning and decontamination processes are effective for H5 bird flu: 
+− 
+avian influenza viruses are very susceptible to detergents, soaps and many disinfectants 
+− 
+effective disinfectants that are safe for equipment and surface disinfection around animals 
+include Safe4®, F10®and Virkon 
+− 
+prior to disinfection, all organic matter must be removed 
+− 
+refer to the disinfectant’s Safety Data Sheet (SDS) for correct concentration, application 
+method, contact time and safety precautions 
+− 
+detailed information can be found in the AUSVETPLAN Operation Manual – 
+Decontamination.
+
+9 
+• 
+creation of a standard operating procedure document and ensuring all staff are aware of and 
+ready to action appropriate cleaning and decontamination processes in the event of a suspect 
+or confirmed positive case 
+• 
+in the event of a suspect or positive case being detected in the premises, delaying other non-
+essential or non-urgent veterinary consultations until full decontamination has occurred where 
+feasible, with appropriate signage on affected areas. 
+Up-to-date contact information for all owners and wildlife rescuers, rehabilitators and carers should 
+be maintained to facilitate rapid, thorough investigation in the event of a H5 bird flu detection 
+relevant to the premises. This information will also assist state and territory authorities in managing 
+potential human health risks. 
+Additional information 
+• 
+NSW H5N1 Clinic Biosecurity Plan Template 2026 [Word] 
+• 
+Wildlife Health Australia 
+National Wildlife Biosecurity Guidelines 
+WHA risk mitigation toolbox for wildlife care providers with a focus on H5 bird flu  
+• 
+Australian Veterinary Association High Pathogenicity Avian influenza 
+Avian influenza preparedness toolkit poster  
+High Pathogenicity Avian Influenza in pet birds, backyard poultry and wild birds 
+Guidelines for Veterinary Personal Biosecurity 
+• 
+Zoo animals – Farm Biosecurity. 
+5.1 
+Triage 
+Triage procedures should reflect the premises and individual animal risk assessments and available 
+resources. Triage should be undertaken prior to patient arrival or entry to the veterinary premises to 
+support biosecurity management, where possible. 
+The premises and patient risk factors will inform and strengthen biosecurity planning across all stages 
+of patient management, including enquiries, triage, admission, monitoring, treatment, discharge and 
+waste disposal. 
+5.1.1 Premises risk factors 
+Veterinary premises should individually assess their specific risks which may include: 
+• 
+considering the characteristics of their client base, location, service delivery area and the 
+likelihood of receiving high‑risk species or cases 
+• 
+evaluating risks associated with specific activities undertaken involving birds and wildlife or 
+other high-risk species (e.g. admission, examination, hospitalisation, anaesthesia/surgery, 
+euthanasia)
+
+10 
+• 
+considering whether temporary restrictions or alternative arrangements are required during an 
+H5 bird flu outbreak and how they might be implemented (e.g. immediate referral of specific 
+species or cases to alternative facilities at the time of initial contact from the client). These 
+arrangements should be established in advance of an outbreak 
+• 
+determining the potential pathways for virus entry, including animals, fomites carried by 
+people, equipment, and biological materials and their implications for overall exposure risk 
+• 
+appraisal of the physical layout and capacity of the premises to support separation, isolation, or 
+dedicated isolation areas 
+• 
+business continuity considerations, including staffing and any staff-specific risks. 
+5.1.2 Patient risk factors 
+When evaluating individual animals as part of triage the following factors should be considered to 
+determine the likelihood of H5 bird flu infection: 
+• 
+What is known about the origin of the animal 
+− 
+wild, captive, domestic 
+− 
+outdoor access 
+− 
+contact with wild birds 
+− 
+contact with an infected premises or animal 
+− 
+proximity to known H5 bird flu detections (including within declared areas) 
+− 
+proximity to wild bird mortality events 
+− 
+contact with/proximity to poultry farms, backyard poultry 
+− 
+exposure to potentially contaminated environments (e.g. wetlands, high-density wild bird 
+areas). 
+• 
+Species susceptibility 
+− 
+All bird species should be considered potentially susceptible, but higher risk taxa include 
+poultry (chickens, turkeys), waterfowl (ducks, swans, geese), seabirds (e.g. gulls, terns, 
+noddies, shearwaters), shorebirds (e.g. stilts, sandpipers, curlews, knots), and predatory or 
+scavenging species (e.g. eagles, hawks, owls, crows, ravens). 
+− 
+Mammalian predators or scavengers may also be at increased risk through the ingestion of 
+animals/carcasses infected with H5 bird flu (e.g. cats, foxes, ferrets, and possibly marsupial 
+predators and scavengers such as Tasmanian devils and possums). 
+− 
+Note: cats infected with H5 bird flu appear to be particularly susceptible to severe illness, 
+often resulting in death. 
+• 
+More detailed information on bird species susceptibility is available on the AviFluMap: a H5 Bird 
+Flu Model Tool for Australia’s Wild Birds (HPAI Dashboard). 
+• 
+Recent introductions, movements or attendance at events where animals accumulate e.g. 
+shows. 
+• 
+Number of animals affected 
+− 
+High morbidity or mortality, or rates above expected baselines for the species may indicate 
+increased index of suspicion for H5 bird flu.
+
+11 
+• 
+Presenting clinical signs 
+− 
+Neurological, respiratory, or gastrointestinal signs may be indicative of H5 bird flu. 
+• 
+Consumption of raw dairy, egg or poultry products (including retail pet diets that contain raw 
+chicken meat), where H5 bird flu involves poultry or dairy cattle. 
+• 
+Owner or human contact with other susceptible species, contaminated environments, and 
+known infected premises. 
+Information gathered during triage will guide subsequent actions, which may include: 
+• 
+immediate notification via the Emergency Animal Disease Hotline (1800 675 888) if there is a 
+suspicion that the animal is infected with H5 bird flu 
+• 
+further evaluation and potential admission 
+• 
+euthanasia on welfare grounds, consistent with relevant animal welfare legislation – animals 
+should not be euthanised solely on the suspicion that they may have been exposed to H5 bird 
+flu 
+• 
+referral to another veterinarian, rehabilitator or facility, noting that such arrangements should 
+be established in advance, as part of H5 bird flu biosecurity planning. 
+A process for managing animals, including those with clinical signs of H5 bird flu, presenting without 
+prior notification should be established. This could involve: 
+• 
+providing signage requesting people not to enter the building until they have contacted staff via 
+phone 
+• 
+directing clients to a designated triage area for patient evaluation by staff wearing appropriate 
+PPE 
+• 
+making prior arrangements with other veterinary practices or wildlife facilities for further 
+evaluation. 
+An example of a triage decision-making framework can be found at Appendix D. 
+5.2 
+Admission and isolation 
+The approach to admission and isolation will be influenced by the level of suspicion for H5 bird flu 
+(considering the outlined triage factors). The following provides guidance for patients that have been 
+assessed as requiring further evaluation: 
+• 
+examine outdoors whenever practical; if indoors, move the animal directly to the 
+consultation/isolation room 
+• 
+maximise ventilation (e.g. open windows – if feasible and appropriate, HEPA filtration if 
+available) 
+• 
+avoid contact with other animals and clients 
+• 
+use disposable equipment where possible
+
+12 
+• 
+use appropriate PPE and infection prevention and control measures (refer to section 3.5 of the 
+National guidelines for avian influenza: protecting people who work with birds and wildlife). 
+For animals assessed as requiring admission, additional measures to further reduce risks to other 
+animals and staff should be considered and may include: 
+• 
+Placement of new patient admissions in a dedicated isolation area with enhanced biosecurity 
+and infection‑control measures. 
+• 
+Prompt testing to confirm/exclude H5 bird flu 
+− 
+testing is undertaken in consultation with government authorities, in government 
+veterinary laboratories. 
+• 
+Isolation throughout the incubation period with frequent monitoring for clinical signs. The 
+incubation period for avian influenza viruses varies with animal species and age, virus subtype, 
+virus dose and virulence. HPAI virus incubation in wild birds can be up to 7 days (WHA 2025). 
+Based on the World Organisation for Animal Health (WOAH) Terrestrial animal health code, the 
+incubation period at the flock level is 14 days. The social welfare needs of certain species will 
+need to be considered during the isolation period. 
+• 
+For multiple animals originating from the same event or location, consideration can be given to 
+managing these animals as a single isolation/quarantine unit, i.e. if one animal tests positive for 
+H5 bird flu, control measures will apply to all animals in that unit. 
+5.3 
+Management of animals suspected or confirmed 
+to have H5 bird flu 
+State or territory biosecurity agencies will work with the decision maker for the veterinary premises 
+to manage confirmed cases of H5 bird flu in animals at the premises. The clinical decision-making for 
+confirmed cases of H5 bird flu in an animal at a veterinary premises will be based on the 
+veterinarian’s professional judgement, guided by advice from the state or territory biosecurity 
+agency. 
+There may be situations, such as those involving confirmed H5 bird flu in livestock or where large 
+numbers of confirmed and suspect cases are at the premises, where the management will be 
+mandated by the state/territory biosecurity agency. 
+5.3.1 Euthanasia 
+Decisions regarding euthanasia will be based on the veterinarian’s professional judgement, animal 
+welfare considerations, including the animal’s prognosis and risk of suffering and for owned animals, 
+informed consent by the animal’s owner. 
+Some animals with clinical disease due to H5 bird flu have a poor prognosis for survival and pose an 
+ongoing transmission risk. Where clinical signs consistent with H5 bird flu are observed and no 
+alternative diagnosis is identified, especially in higher-risk animals (e.g. wild birds – see section 5.1.2), 
+euthanasia may be appropriate. Confirmed cases may require euthanasia.
+
+13 
+5.3.2 Treatment 
+If circumstances warrant consideration of treatment (e.g. domestic pets, cattle, valuable, rare, or 
+endangered species) this should only be undertaken under advice and guidance from relevant 
+government authorities and with a clear plan for mitigating any animal welfare and public health 
+concerns and the resultant biosecurity risks. 
+5.4 
+Management of deceased animals 
+Unless specific alternate arrangements have been established by government authorities, small 
+numbers of carcasses and any contaminated materials should be double-bagged (leakproof plastic 
+bags), securely sealed and externally decontaminated with an appropriate disinfectant. Disposal of 
+sealed bags should comply with clinical/hazardous waste protocols. Appropriate PPE must be worn. 
+For large numbers of carcasses that cannot be practically managed through normal waste disposal 
+options, seek advice from state/territory biosecurity or environmental agencies. 
+National guidelines for carcass management and disposal following detection of H5 bird flu in 
+Australia are available at: 
+• 
+Public guidelines for carcass management 
+• 
+Public guidance for disposal of dead wildlife 
+• 
+National principles for wildlife carcass management.
+
+14 
+6 General advice for clients 
+If H5 bird flu is suspected in a client’s bird or other animal, authorities should be immediately notified 
+via the Emergency Animal Disease Hotline. Clients should also be advised of the zoonotic potential of 
+H5 bird flu and directed to appropriate and current public health advice and resources for 
+information on managing the risk of exposure to themselves and others. 
+Advice outlined in these guidelines can be used to inform clients of risks to other animals supported 
+by the following resources. 
+Additional information and resources 
+• 
+Australian Veterinary Association 
+• 
+Prepare pets and wildlife for H5 bird flu - DCCEEW 
+Fact sheets 
+Videos 
+Posters 
+6.1 
+Health concerns and medical assistance 
+H5 bird flu is a nationally notifiable human health disease. People should be informed to seek 
+medical advice if they are concerned about possible exposure to H5 bird flu. They can contact: 
+• 
+their local GP 
+• 
+their nearest public health unit. 
+If bird flu is confirmed or strongly suspected in an animal, the relevant public health authorities will 
+be notified. They will determine what measures need to be implemented and whether any people 
+require monitoring or medical support. Notification directly to health authorities is especially 
+important when human clinical signs are present or if potential exposure to H5 bird flu has occurred. 
+To make these assessments, health authorities will work with veterinarians and animal owners to 
+identify any individuals they may need to contact. 
+Additional information and resources 
+• 
+Bird flu (avian influenza) – Australian Centre for Disease Control 
+• 
+National guidelines for avian influenza: protecting people who work with birds and wildlife 
+• 
+Bird flu toolkit for people who work with birds 
+• 
+Bird flu (avian influenza) – NSW Health 
+• 
+Avian influenza in humans (bird flu) - QLD Government
+
+15 
+6.2 
+Other health considerations 
+6.2.1 Mental health 
+The response to an H5 bird flu outbreak can impact mental health. If you need mental health 
+support, talk to your GP or other primary health care provider. 
+Additionally, the mental health and suicide prevention contacts page lists organisations, websites 
+and services that offer support, counselling and information. 
+The AVA has a free and confidential telephone counselling service that can be accessed by AVA 
+members and their immediate families, along with any veterinary professionals that work for an AVA 
+member veterinarian (even if they are not members themselves). The service is available 24 hours a 
+day, 7 days a week. To access the AVA’s telephone counselling service, call 1300 687 327 or visit AVA 
+Telephone counselling. 
+Additional information and resources 
+• 
+AVA Telephone counselling 
+• 
+How to get help with your mental health – Queensland Government 
+• 
+Mental Health Line – NSW 
+• 
+Psychological first aid booklet – Australian Red Cross (PDF 2.6 MB) 
+• 
+Psychological First Aid – Australian Red Cross
+
+16 
+Appendix A: Avian influenza: current 
+knowledge 
+Overview of avian influenza viruses 
+Avian influenza is an infectious disease caused by influenza A viruses that primarily affects domestic 
+and wild birds but is increasingly being reported in both terrestrial and aquatic mammals. Influenza A 
+viruses are classified according to the serological subtypes of their surface glycoproteins, 
+haemagglutinin (HA) and neuraminidase (NA). To date, 17 HA and 9 NA subtypes are recognised in 
+birds and are found in different combinations (WHA 2025). 
+Avian influenza virus strains are also classified into 2 categories according to molecular 
+characteristics of the virus and the severity of disease in poultry (Figure A1): 
+• 
+high pathogenicity strains (HPAI), which can cause severe clinical signs of disease and potentially 
+high mortality 
+• 
+low pathogenicity strains (LPAI), which typically cause few or mild clinical signs. 
+This classification only refers to the virulence of the avian influenza virus in poultry and does not 
+correlate with severity of illness in humans or non-poultry species. 
+LPAI viruses are part of the natural viral community in wild birds. Avian influenza virus subtypes H5 
+and H7 have the capacity to mutate from LPAI into HPAI when they spill over from wild birds to 
+poultry. All previous outbreaks of HPAI in poultry in Australia are linked to LPAI spillover from wild 
+birds, including the 2024 and 2025 H7 outbreaks in Victoria, New South Wales and the Australian 
+Capital Territory. 
+The dominant HPAI strain currently circulating globally is the HPAI H5Nx clade 2.3.4.4b (referred to as 
+H5 bird flu in these guidelines). This strain has caused unprecedented outbreaks in poultry, wild birds 
+and mammals (both wild and domestic) in many countries. Enhanced awareness, surveillance and 
+response preparedness is required to facilitate early detection and effective and efficient 
+management. 
+Avian influenza transmission 
+Avian influenza viruses are shed in the faeces and respiratory secretions of infected birds (wild and 
+domestic). The virus is transmitted by direct and indirect contact with these secretions and 
+excretions. Virus can spread through contact with contaminated environments and through the 
+movements of infected live animals or contaminated animal products and fomites. 
+The emergence of the current H5 bird flu strain represents a significant shift, as it is now spreading as 
+a high pathogenicity strain between wildlife species, within the poultry industry, and from poultry 
+back to wildlife (Figure A1). Migratory wild birds infected with H5 bird flu play a role in the wider 
+transmission of the virus.
+
+17 
+A wide range of wild and domestic mammals have been infected with H5 bird flu overseas, 
+particularly marine mammals and mammals that prey or scavenge on birds. The Food and Agriculture 
+Organisation (FAO) website provides a comprehensive list of the species of birds and mammals that 
+have been affected by H5 bird flu. 
+Detections in livestock (including dairy cattle, goats, sheep, alpacas and pigs) have generally been 
+associated with environments and water sources contaminated by infected birds. 
+For dairy cattle, raw milk is recognised as the major source of infectious virus. Therefore, the 
+movement of cows that are lactating or in late gestation are responsible for most transmission of 
+virus between herds. Within-herd transmission predominately occurs via contact with raw milk 
+during the milking process. To date, sustained H5 bird flu transmission has only been observed in 
+dairy cattle in the United States and has been associated with only 2 genotypes (B3.13 and D1.1). All 
+other livestock detections, including in Norwegian dairy cattle, have been limited to single farms with 
+no onward spread. The risk H5 bird flu clade 2.3.4.4b poses to the Australian dairy industry is 
+currently considered low (with high uncertainty) (Hall et al. 2025). 
+Infection of terrestrial carnivores with H5 bird flu typically occurs via the consumption of infected 
+birds, carcasses or products. Sources of infection that have been implicated as potential sources of 
+virus exposure for domestic cats, in particular, include: 
+• 
+unpasteurised milk, cream or colostrum 
+• 
+raw or undercooked meat, especially poultry – this may include retail pet diets that contain raw 
+meat 
+• 
+sick or dead infected birds, livestock and their environments. 
+Infection of marine mammals is thought to occur via close contact with or consumption of infected 
+birds or contact with marine environments contaminated with virus from infected birds. 
+Transmission between pinnipeds (seals and sea lions) is also thought to occur (Uhart 2024). 
+Spread patterns of high pathogenicity avian influenza have recently evolved from a historically 
+known scenario to a new one (Figure A1). Both scenarios may coexist in the current epidemiological 
+situation: 
+a) 
+Historical pathway – prior to the emergence of H5 HPAI clade 2.3.4.4b (H5 bird flu). This 
+includes all H7 outbreaks that have occurred in Australia. 
+b) 
+Transmission pathways for H5 HPAI since emergence of H5 HPAI clade 2.3.4.4b overseas. 
+This is based on overseas experience (adapted from a graphic courtesy of Michelle Wille). 
+Note that the H5 bird flu dairy cow scenario depicted is based on clade 2.3.4.4b genotypes 
+B3.13 and D1.1 which to date have caused disease in dairy cows in the United States only.
+
+18 
+Figure A1 Avian influenza transmission pathways (a) 
+Source: Adapted from WOAH. 
+Figure A2 Avian influenza transmission pathways (b) 
+Source: Adapted from WOAH. 
+Incubation period 
+The incubation period for avian influenza viruses can vary in length, depending on factors such as the 
+virus strain, the dose and route of exposure, host species, host age, and environmental conditions. 
+Clinical signs in birds typically develop 2 to 14 days after exposure. However, birds can start shedding 
+the virus before showing clinical signs and may continue to do so after apparent recovery. 
+The World Organisation for Animal Health (WOAH) recognises 14 days as the incubation period for 
+bird flu in poultry for control programs. 
+HPAI virus incubation in wild birds can range from a few hours to 7 days (WHA 2025). 
+The incubation period for other avian species and mammals is unknown.
+
+19 
+For dairy cattle, clinical signs at the herd level can take up to 12 to 21 days to manifest after 
+introduction (USDA 2024). 
+Avian influenza and human health 
+Although uncommon, human infection with H5 bird flu does occur, and is primarily acquired through 
+close, prolonged or unprotected exposure to infected poultry/birds, dairy cows or contaminated 
+environments. Most cases have been mild. However, in very rare cases, it has caused severe disease 
+and death. People with a weak or compromised immune system are more at risk of severe disease. 
+Based on available information, the FAO, World Health Organization (WHO) and WOAH have 
+assessed the global public health risk of influenza A (H5) viruses as low, and the risk of infection for 
+occupationally exposed persons as low to moderate depending on the risk mitigation measures in 
+place and the local avian influenza epidemiological situation.
+
+20 
+Appendix B: Avian influenza response 
+arrangements in Australia 
+Reporting obligations 
+In Australia, infection with influenza A viruses in birds, including but not limited to H5 bird flu, are 
+notifiable at both national and state or territory levels. Although avian influenza infections in unusual 
+hosts (e.g. cats, dairy cattle) are not specifically included on the national list, there is an expectation 
+that such detections are promptly notified at the national level, consistent with Animal Health 
+Committee Policy Decision 18-08. This is supported by state and territory legislation relating to 
+notifiable animal diseases or prohibited matter. 
+Cases of HPAI in birds and some other animal species, need to be notified to WOAH through its 
+global reporting systems. Reporting obligations vary slightly based on the animal species in which the 
+detection occurs. The department is responsible for managing all international notifications to 
+WOAH. 
+Arrangements for emergency animal diseases 
+Australia has nationally agreed response and cost-sharing arrangements in place to respond to 
+emergency animal diseases (EADs). 
+EAD response deeds and agreements 
+The Emergency Animal Disease Response Agreement (EADRA) is a legally binding deed between the 
+nationally coordinated, cost-shared response to EAD outbreaks. Its primary aim is to ensure fast, 
+effective containment and eradication of disease. 
+An outbreak of H5 bird flu in wildlife is unlikely to be eradicated or contained. The National 
+Management Agreement for H5 HPAI in Wildlife (the H5 NMA) provides a national framework for 
+responding to incursions of H5 bird flu in wildlife. The aim of a response to H5 bird flu in wildlife 
+under the H5 NMA is to manage the immediate impacts of an outbreak on wildlife health and 
+welfare, biodiversity and social amenity while establishing the necessary systems to move from an 
+emergency response to longer term management. 
+AUSVETPLAN 
+The AUSVETPLAN (Australian Veterinary Emergency Plan) is a nationally endorsed framework for the 
+management of EADRA listed diseases in Australia. 
+The AUSVETPLAN Response strategy: Avian influenza contains the nationally agreed approach for the 
+response to an incident, or suspected incident, of avian influenza in poultry or captive birds (which 
+includes zoo birds) in Australia. 
+While the default policy for an outbreak of HPAI in commercial poultry in the AUSVETPLAN Response 
+strategy: Avian influenza is to contain and eradicate the disease using stamping out (culling) and a 
+range of other strategies, this is not the case for other categories of birds (e.g. non-commercial
+
+21 
+poultry and captive birds). The strategies used during a response to an outbreak of H5 bird flu in 
+these situations will depend on the assessed risk which will include consideration of the overall 
+response objective, the risk of disease spread to humans and other susceptible species, and animal 
+welfare. 
+International experience with H5 bird flu indicates that conventional control measures may be 
+insufficient and unsustainable. Given the complexity of the disease and the potential involvement of 
+a wide range of species, including wildlife, control strategies may need to be adapted to minimise 
+disease spread. 
+There are several other AUSVETPLAN supporting documents of relevance to H5 bird flu including 
+management and operational manuals (e.g. decontamination, disposal, destruction), and guidance 
+documents. 
+Incident management during an EAD outbreak 
+Technical decisions on EAD response strategies and activities are made at a national level by the 
+Consultative Committee on Emergency Animal Disease (CCEAD), involving representatives from 
+government, industry and other relevant stakeholders. Implementation of response activities is the 
+responsibility of the biosecurity agency in each state and territory. 
+Vaccination for avian species 
+The Avian influenza vaccination policy for rare, protected and valuable avian species provides for 
+vaccination of eligible rare, protected and valuable avian species with approval from the relevant 
+national decision-making body and the jurisdictional Chief Veterinary Officer of the state or territory 
+where vaccine use is proposed. The policy gives details on the requirements and circumstances 
+under which vaccination could be permitted. 
+The vaccination of poultry is currently not permitted.
+
+22 
+Appendix C: Avian influenza sampling, 
+submission and testing 
+H5 bird flu is a notifiable disease and therefore diagnostic testing must only be undertaken with the 
+oversight and approval of the relevant state/territory biosecurity agency and carried out at a 
+government veterinary laboratory. 
+Point of care diagnostic testing (or pen-side testing) refers to the use of test kits in the field (outside 
+of authorised laboratories), to test animals for specific diseases. The use of point of care testing for 
+animals is regulated by the animal biosecurity authority in each state or territory. Currently, there are 
+no point-of-care diagnostic tests for H5 bird flu approved for use in Australia. 
+Sample collection 
+If you suspect animal/s may be infected with H5 bird flu, immediately notify the Emergency Animal 
+Disease Hotline on 1800 675 888 or the relevant state/territory biosecurity agency. 
+Duty Hotline staff may provide advice on sample collection and submission. Additional technical 
+information is available on the website of the relevant state/territory veterinary laboratory. 
+The following information is largely applicable to the collection of samples from avian species. For 
+advice on the collection of samples from mammalian species, please contact the relevant 
+state/territory veterinary laboratory. 
+The recommended samples to be submitted from birds for avian influenza testing are oropharyngeal 
+and cloacal swabs. 
+Using a clean, sterile swab, swab the mucosal surface of the oropharynx and cloaca (Figure D1), using 
+a separate swab for each. Place the swab into a vial containing virus transport media (VTM), or 
+saline, agitate briefly, then break off the swab tip into the vial and seal. Discard the remaining swab 
+stem. Following collection, place the vials in labelled zip-lock bags and store at 4°C and maintain this 
+temperature during transit to the laboratory.
+
+23 
+Figure D1 Procedure for swab collection 
+Note: Procedure for swab collection: a) diagram of oral cavity; b) to d) tracheal/oropharyngeal swab and e) cloacal swab. 
+Source: Avian Sample Collection for Influenza A and Newcastle Disease, Animal and Plant Health Inspection Service (U.S. 
+How to submit samples 
+Sample packaging 
+When packaging samples for avian influenza exclusion: 
+• 
+Clearly label all samples with the anatomical location (i.e. oropharyngeal or cloacal) and bird ID, 
+with a permanent marker. 
+• 
+Send samples chilled and not frozen (e.g. in a box or esky with an ice pack or freezer brick). 
+• 
+Samples must be properly packaged to prevent leakage and cross contamination during 
+transport and to maintain their integrity for laboratory testing (double bagging is 
+recommended).
+
+24 
+• 
+Do not send specimens in glass bottles, poor-quality plastic containers, syringes or gloves. 
+• 
+Transport samples in a sturdy insulated container. 
+• 
+If transporting with a commercial carrier, samples are to be consigned as ‘Biological Substance 
+Category B’ (UN 3373) and packed according to International Air Transport Association (IATA) 
+packing instruction 650 and if being transported by air, should be packed by someone certified 
+in IATA packaging. 
+• 
+A fully completed laboratory submission form, with a detailed history and record of clinical 
+signs, treatments and contact details should accompany all submissions. Given the zoonotic risk, 
+some laboratories may require submissions for H5 avian influenza testing to include a warning 
+note, such as ‘avian influenza exclusion’. 
+• 
+Samples are to be submitted using your preferred courier service to the relevant state/territory 
+laboratory. 
+In NSW, the EMAI laboratory has a contract with Metrostate Couriers, and a consignment note can 
+be provided by customer service staff to submitters to use this service at no cost to the submitter. 
+Shipping label for Category B biological substances 
+The label should print with the proper dimension of an Infectious Substance label (minimum 
+dimensions: 50 mm on a side, and the proper shipping name ‘Biological Substance, Category B’ must 
+be in letters at least 6 mm high). 
+Affix the label to the package by covering with clear plastic tape, so that moisture will not cause 
+printer ink to run. 
+Ensure all samples are double bagged and shipped in a hard-sided container (a hard esky or a foam 
+esky inside a cardboard box). 
+Figure D2 Biological substance label
+
+25 
+NSW specific H5 HPAI Preparedness Resource Videos have been prepared by the Australian Registry 
+for Wildlife Health, covering H5 bird flu, correct donning and doffing of PPE, sample collection 
+(swabbing) for H5 bird flu and sample shipping to the NSW government laboratory (EMAI lab). 
+State and territory details 
+Table D1 Queensland contact details 
+Laboratory name 
+Biosecurity Sciences Laboratory 
+Email 
+bslclo@dpi.qld.gov.au 
+Phone 
+(07) 3708 8762 
+After hours: EAD Hotline 1800 675 888 
+Delivery address 
+Specimen Receipt (Loading Dock 12) 
+Biosecurity Sciences Laboratory 
+Health and Food Science Precinct 
+39 Kessels Road 
+COOPERS PLAINS QLD 4108 
+Website 
+Biosecurity Sciences Laboratory 
+Table D2 New South Wales contact details 
+Laboratory name 
+Elizabeth Macarthur Agricultural Institute 
+Email 
+laboratory.services@dpi.nsw.gov.au 
+Phone 
+EMAI customer service – 1800 675 623 
+Delivery address 
+Regional Veterinary Laboratory 
+Elizabeth Macarthur Agricultural Institute 
+Woodbridge Road 
+Menangle NSW 2568 
+Website 
+dpird.nsw.gov.au/laboratory-
+services/veterinary 
+Table D3 Victoria contact details 
+Laboratory name 
+AgriBio – Veterinary Diagnostic Services 
+Email 
+Vet.Diagnostics@agriculture.vic.gov.au 
+Phone 
+(03) 9032 7515 
+Delivery address 
+AgriBio Specimen Reception 
+Main Loading Dock 
+5 Ring Road 
+La Trobe University 
+Bundoora VIC 3083 
+Website 
+agriculture.vic.gov.au/support-and-
+resources/services/diagnostic-services 
+Table D4 Tasmania contact details 
+Laboratory name 
+Animal Health Laboratory 
+Email 
+specimenreception@nre.tas.gov.au 
+Phone 
+(03) 6777 2111 
+Delivery address 
+Animal Health Laboratory – Specimen 
+Reception
+
+26 
+165 Westbury Road, 
+PROSPECT, TAS, 7250. 
+Website 
+nre.tas.gov.au/biosecurity-tasmania/animal-
+biosecurity/animal-health-laboratories/animal-
+health-laboratory 
+Table D5 South Australia contact details 
+Laboratory name 
+Gribbles Veterinary Pathology (VETLAB) 
+Email 
+glenside.enquiries@gribbles.com.au 
+Phone 
+(08) 8202 3300 
+After hours: EAD Hotline 1800 675 888 
+Delivery address 
+Glenside Laboratory 
+33 Flemington Street 
+Glenside, SA 5065 
+Website 
+gribblesvets.com.au 
+Table D6 Western Australia contact details 
+Laboratory name 
+DPIRD Diagnostics and Laboratory Services 
+Email 
+DDLS@dpird.wa.gov.au 
+Phone 
+(08) 9368 3351 
+Delivery address 
+Duty Pathologist – Specimen Reception 
+Department of Primary Industries and Regional 
+Development 
+Building 102, 3 Baron-Hay Court 
+South Perth WA 6151 
+Website 
+dpird.wa.gov.au/businesses/biosecurity/diagnostics-
+and-laboratory-services/animal-pathology/ 
+Table D7 Northern Territory contact details 
+Laboratory name 
+Berrimah Veterinary Laboratory 
+Email 
+bvl@nt.gov.au 
+Phone 
+(08) 8999 2249 
+Delivery address 
+Berrimah Veterinary Laboratory 
+29 Makagon Road 
+Berrimah NT 0828 
+Website 
+daf.nt.gov.au/biosecurity/laboratory-
+services/berrimah-veterinary-laboratory
+
+27 
+Appendix D: Triage decision-making 
+framework 
+This document has been kindly shared by WA Wildlife Inc. 
+At the time of writing, this information was provided as a working draft only and is presented as an 
+example that may not reflect current practices. 
+In the development of protocols, please use this document for reference only and be guided by 
+consideration of risk factors for H5 bird flu specific to your location, species under care and work 
+practices, as well as the outbreak status or number of detections in Australia at the time. 
+While clinical signs can suggest H5 bird flu, confirmation of infection requires submission of samples 
+for diagnostic testing at the relevant state/territory government veterinary laboratory. 
+Figure E1 Triage decision-making framework
+
+28 
+Appendix E: Triage tent example 
+Figure F1 illustrates a triage tent setup. This has been kindly provided by Dr Andrew Hill from 
+Currumbin Wildlife Sanctuary. 
+Figure F1 Triage tent example
+
+29 
+Appendix F: Resources 
+• 
+− 
+Bird flu (avian influenza) 
+• 
+Department of Climate Change, Energy, the Environment and Water 
+− 
+H5 avian influenza (bird flu) 
+• 
+Wildlife Health Australia  
+Information for animal health professionals and wildlife carers 
+− 
+H5 bird flu Resource Centre 
+• 
+Animal Health Australia 
+− 
+Informing EAD Responses – AUSVETPLAN  
+− 
+AUSVETPLAN Response Strategy for Avian influenza 
+− 
+AUSVETPLAN Operational Manual – Disposal 
+− 
+AUSVETPLAN Operational Manual – Decontamination 
+− 
+AUSVETPLAN Wild animal response strategy 
+• 
+Australian Registry for Wildlife Health 
+− 
+Highly Pathogenic Avian Influenza Preparedness Resources 
+- 
+HPAI Field Officer Workshop Training – Resource Manual 
+- 
+HPAI Preparedness Workshop for Veterinary Professionals 2025 – Presentation 
+- 
+HPAI Preparedness Workshop for Veterinary Professionals 2026 – Resource Manual 
+- 
+H5N1 Clinic Biosecurity Plan Template 2026 
+- 
+HPAI Field Officer Online Training Module 
+- 
+HPAI Preparedness Resource Videos 
+• 
+Australian Veterinary Association 
+− 
+AVA HPAI Webpage – includes downloadable resources 
+− 
+Australian Veterinary Association Personal Biosecurity 
+− 
+AVA Policy – High Pathogenicity Avian Influenza in pet birds, backyard poultry and wild 
+birds 
+− 
+AVA Emergency Disaster Response 
+• 
+Australian Centre for Disease Control 
+− 
+Bird flu (avian influenza) – Australian Centre for Disease Control 
+− 
+National guidelines for avian influenza: protecting people who work with birds and wildlife 
+− 
+Bird flu toolkit for people who work with birds 
+• 
+State and territory avian influenza website resources 
+− 
+Queensland 
+− 
+New South Wales
+
+30 
+− 
+Victoria  
+− 
+Tasmania 
+− 
+South Australia  
+− 
+Western Australia  
+− 
+Northern Territory  
+• 
+International resources  
+- 
+World Organisation for Animal Health 
+• 
+American Veterinary Medical Association  
+-   Avian influenza
+
+31 
+Glossary 
+Term 
+Definition 
+captive bird 
+Any bird (other than poultry species) that is kept in (permanent) captivity, including but not 
+limited to those that are kept for shows, exhibitions, zoological collections, or competitions, 
+as well as pet birds, and those kept for breeding and/or selling. This includes wild birds that 
+are temporarily in captivity under the dedicated care of a wildlife carer. 
+domestic animal 
+An animal that is of a domesticated state and lives under captive management and control 
+to serve a purpose. 
+poultry 
+Chickens, turkeys, guineafowl, ducks, geese, quail, pigeons, pheasants, partridges, emus and 
+ostriches that are reared or kept in captivity. 
+poultry (non-commercial 
+e.g. backyard poultry) 
+Poultry kept in captivity for purposes other than the production of commercial animal 
+products, restocking supplies of game, and/or breeding for these purposes. 
+wild birds 
+Any avian species that are free living in their natural environment without direct human 
+intervention or control. This includes native and exotic/introduced bird species. 
+wildlife (captive) 
+Native or exotic non-domesticated animal species that live under captive management or 
+control (e.g. zoo animals and animals in care). 
+wildlife (native) 
+Animal species that are endemic or indigenous to the whole or parts of Australia, whether 
+captive or non-captive. Also referred to as native wildlife. 
+wildlife in 
+rehabilitation/in care 
+A wild animal that is brought temporarily into captivity for care due to orphaning, sickness 
+or injury. 
+AUSVETPLAN 
+Australian Veterinary Emergency Plan. A series of response plans that describe the proposed 
+Australian approach to an emergency animal disease incident. The documents provide 
+guidance based on sound analysis, linking policy, strategies, implementation, coordination 
+and emergency-management plans (Informing EAD Responses – AUSVETPLAN - Animal 
+Health Australia). 
+Consultative Committee 
+on Emergency Animal 
+Diseases (CCEAD) 
+The key technical coordinating body for animal health emergencies. Members are state and 
+territory chief veterinary officers, representatives of CSIRO-ACDP and the relevant 
+industries, and the Australian Chief Veterinary Officer as chair. 
+declared area 
+A defined tract of land that is subjected to disease control restrictions under emergency 
+animal disease legislation. There are 2 types of declared areas: restricted area and control 
+area. 
+restricted area 
+A relatively small legally declared area around infected premises and dangerous contact 
+premises that is subject to strict disease controls and intense surveillance. The limits of a 
+restricted area and the conditions applying to it can be varied during an incident according 
+to need. 
+control area 
+A legally declared area that acts as a disease-free buffer between the restricted area and the 
+outside area (the limits of a control area and the conditions applying to it can be varied 
+during an incident according to need) where the disease controls and movement controls 
+applied are of lesser intensity than those in a restricted area 
+decontamination 
+Includes all stages of cleaning and disinfection. 
+disinfectant 
+A chemical used to destroy disease agents outside a living animal. 
+disinfection 
+The application, after thorough cleansing, of procedures intended to destroy the infectious 
+or parasitic agents of animal diseases, including zoonoses. Applies to premises, vehicles and 
+different objects that may have been directly or indirectly contaminated. 
+Emergency Animal 
+Disease Hotline 
+24-hour free call service for reporting suspected incidences of exotic and notifiable diseases 
+– 1800 675 888. 
+Emergency Animal 
+Disease Response 
+Agreement (EADRA) 
+Agreement between the Australian, state and territory governments and livestock industries 
+on the management of emergency animal disease responses. Provisions include
+
+32 
+participatory decision-making, risk management, cost sharing, the use of appropriately 
+trained personnel and existing standards such as AUSVETPLAN. 
+fomites 
+Inanimate objects (e.g. boots, clothing, equipment, instruments, vehicles, crates, packaging) 
+that can carry an infectious disease agent and may spread the disease through mechanical 
+transmission. 
+incubation period 
+The period that elapses between the introduction of the pathogen into the animal and the 
+first clinical signs of the disease. 
+infected premises (IP) 
+A premises on which animals meeting the case definition are or the causative agent of the 
+emergency animal disease is present, or there is a reasonable suspicion that either is 
+present, and that the relevant chief veterinary officer or their delegate has declared to be an 
+infected premises. 
+movement control 
+Restrictions placed on the movement of animals, people and other things to prevent the 
+spread of disease. 
+notifiable disease 
+Means a disease listed by the Veterinary Authority, and that as soon as detected or 
+suspected, should be brought to the attention of this Authority, in accordance with national 
+regulations. For Australia: 
+A notifiable disease is one that must be reported to the relevant state or territory's 
+department of primary industries or agriculture by phoning the Emergency Animal 
+Disease Hotline on 1800 675 888. 
+stamping out 
+The strategy of eliminating infection from premises through the destruction of animals in 
+accordance with the particular AUSVETPLAN manual, and in a manner that permits 
+appropriate disposal of carcasses and decontamination of the site. 
+surveillance 
+A systematic program of investigation designed to establish the presence, extent or absence 
+of a disease, or of infection or contamination with the causative organism. It includes the 
+examination of animals for clinical signs, antibodies or the causative organism. 
+susceptible animals 
+Animals that can be infected with a particular disease agent. 
+suspect animal 
+An animal not known to have been exposed to a disease agent but showing clinical signs 
+requiring differential diagnosis. 
+zoonosis 
+A disease or infection that is naturally transmissible from vertebrate animals to human. 
+ Abbreviations 
+Term 
+Definition 
+AHA 
+Animal Health Australia 
+AUSVETPLAN 
+Australian Veterinary Emergency Plan 
+AVA 
+Australian Veterinary Association 
+CCEAD 
+Consultative Committee on Emergency Animal Diseases 
+CDC 
+Centre for Disease Control 
+EAD 
+Emergency animal disease 
+EADRA 
+Emergency Animal Disease Response Agreement 
+FAO 
+Food and Agriculture Organisation 
+H5 NMA 
+National Management Agreement for H5 HPAI in Wildlife 
+HPAI 
+High pathogenicity avian influenza 
+LPAI 
+Low pathogenicity avian influenza 
+PPE 
+Personal protective equipment 
+VTM 
+Virus Transport Media 
+WHO 
+World Health Organization
+
+33 
+WHS 
+Work Health and Safety 
+WOAH 
+World Organisation for Animal Health
+
+34 
+References 
+AVMA 2025, Avian influenza in pets and backyard flocks, American Veterinary Medical Association, 
+accessed June 2026. 
+Beacon 2025, Infection with highly pathogenic avian influenza (HPAI) (H5N1) in a domestic, 
+immunocompromised dog following consumption of wild waterfowl in Alberta, Canada, Beacon, 
+accessed June 2026  
+DAFF 2025, Risk assessment of H5 bird flu in Australian dairy cattle and other livestock, Department 
+of Agriculture, Fisheries and Forestry, accessed June 2026. 
+Hall, RN, White, P, Worsfold, D, Matsumoto, N, Schlosberg, O, MacPhillamy, I, Hillman, A, Badger, S, 
+Zalcman, E, Cowled, BC, Hunnam, J. 2025, Risk assessment of high pathogenicity avian influenza to 
+Forestry, accessed June 2026. 
+Uhart, M. M., Vanstreels, R. E. T., Nelson, M. I., Olivera, V., Campagna, J., Zavattieri, V., Lemey, P., 
+Campagna, C., Falabella, V., & Rimondi, A. 2024, Epidemiological data of an influenza A/H5N1 
+outbreak in elephant seals in Argentina indicates mammal-to-mammal transmission, Nature 
+Communications, DOI: 10.1038/s41467-024-53766-5, accessed June 2026. 
+WHA 2025, Avian influenza in wildlife in Australia, Wildlife Health Australia, accessed June 2026.

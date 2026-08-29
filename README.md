@@ -1,131 +1,95 @@
-# RAG Site Ingest
+# RAG_docs — FarmCore Corpus & Assistant Monorepo
 
-A sitemap-first website ingestion pipeline for building RAG-ready documents.
+This repository has **two cooperating tracks** for Australian agriculture RAG:
 
-This project is designed for sites that publish XML sitemaps and may protect direct HTTP access with Cloudflare or similar bot mitigation. It discovers sitemap URLs, expands nested sitemap indexes, normalizes and deduplicates page URLs, classifies assets, downloads content politely, extracts clean text, renders cleaned HTML pages to PDF, and writes a manifest for downstream RAG chunking.
-
-## FarmCore AI / RAG documentation
-
-SOTA Assistant & Knowledge track docs (contracts for UI and Scheduling teams):
-
-| Doc | Purpose |
-|---|---|
-| [Diary.md](Diary.md) | Living engineering diary (failures, decisions, progress) |
-| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | System shape, trust boundaries, corpus composition |
-| [docs/PLAN.md](docs/PLAN.md) | Phased build (0–10) with entry/exit criteria |
-| [docs/API.md](docs/API.md) | Full `/api/` contracts and ownership matrix |
-| [docs/EXTENSIBILITY.md](docs/EXTENSIBILITY.md) | Tool/stage/provider registries |
-| [docs/MAPPING.md](docs/MAPPING.md) | DesignDoc → FarmCore → priority |
-| [docs/DOCUMENTATION_STANDARDS.md](docs/DOCUMENTATION_STANDARDS.md) | ADR + Diary standards |
-| [docs/adr/](docs/adr/) | Architecture Decision Records 0001–0010 |
-| [docs/openapi/openapi.design.yaml](docs/openapi/openapi.design.yaml) | Design-time OpenAPI (v0.4.0) |
-| [DesignDoc.md](DesignDoc.md) | Original RAG design rationale |
-| [FARMCORE_DOCS/](FARMCORE_DOCS/) | FarmCore product / system-shape source |
-
-## Features
-
-- Discover sitemap entry points from `robots.txt` and common sitemap paths.
-- Expand sitemap indexes, nested sitemaps, and `.xml.gz` sitemap files.
-- Normalize URLs and strip common tracking parameters.
-- Classify HTML pages versus existing file assets such as PDF and DOCX.
-- Fetch with retries, rate limiting, and browser fallback via Playwright.
-- Optional `crawl4ai` backend for browser-led, RAG-oriented HTML ingestion.
-- Extract clean text and simplified HTML using `trafilatura`.
-- Render cleaned HTML to PDF using `WeasyPrint`.
-- Save a JSONL manifest for PDFs, extracted text, and crawl metadata.
-
-## Project layout
+| Track | Folder | What it does |
+|---|---|---|
+| **Corpus ingest** | [`ingest/`](ingest/) | Download, organise, and extract text from `agriculture.gov.au` (and similar sites) |
+| **Assistant runtime** | [`farmcore/`](farmcore/) | Django API, retrieval contracts, audit, stub chat (`CAI-001+`) |
+| **Shared contracts** | [`shared/`](shared/) | Schemas both tracks must agree on (e.g. `chunks-v1`) |
+| **Corpus on disk** | [`data/`](data/) | PDFs, text, manifests (large dirs; see `data/README.md`) |
+| **Documentation** | [`docs/`](docs/) | Architecture, API, ADRs, sprint plan, product notes |
 
 ```text
-rag_site_ingest/
-  config.example.yaml
-  requirements.txt
-  scraper/
-    main.py
-    config.py
-    fetch.py
-    sitemap.py
-    classify.py
-    extract.py
-    render_pdf.py
-    manifest.py
-    utils.py
-  tests/
+RAG_docs/
+├── README.md                 ← you are here
+├── docker-compose.yml        ← FarmCore stack (Postgres, Redis, MinIO, web, worker)
+├── pytest.ini
+├── config.yaml               ← local ingest config (gitignored; copy from ingest/config/)
+│
+├── ingest/                   ← OFFLINE corpus pipeline (no FarmCore DB access)
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── config/               ← example YAML templates
+│   ├── scraper/              ← Python package: discover → fetch → extract
+│   └── tests/
+│
+├── farmcore/                 ← ONLINE assistant / documents Django app
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── manage.py
+│   ├── accounts/ farms/ documents/ assistant/ scheduling/
+│   └── tests/
+│
+├── shared/
+│   └── schemas/              ← chunks-v1 JSON schema + validator
+│
+├── data/
+│   ├── manifests/            ← JSONL inventories, tier lists (in git)
+│   ├── pdf/ office/ text/ raw/  ← bulky corpus (local; may be in git)
+│   └── README.md
+│
+└── docs/
+    ├── README.md             ← documentation index
+    ├── ARCHITECTURE.md PLAN.md API.md …   ← CAI / assistant contracts
+    ├── adr/ openapi/
+    ├── diary/                ← engineering diary
+    ├── design/               ← original RAG pattern reference
+    └── product/              ← FarmCore product working notes
 ```
 
-## Installation
+## Quick start — corpus ingest
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r ingest/requirements.txt
 playwright install chromium
+cp ingest/config/example.yaml config.yaml   # or ingest/config/agriculture.yaml
+
+PYTHONPATH=ingest python -m scraper.main discover \
+  --root-url "https://www.agriculture.gov.au" --config config.yaml
 ```
 
-To use the `crawl4ai` HTML backend, its own setup command is recommended after install:
+See [`ingest/README.md`](ingest/README.md) for `plan-library`, `fetch-library`, and PDF text extraction.
+
+## Quick start — FarmCore assistant (Phase 0 stub)
 
 ```bash
-crawl4ai-setup
+docker compose up --build
+# API: http://localhost:8000/api/assistant/messages
 ```
 
-## Quick start
+Or local SQLite: see [`farmcore/README.md`](farmcore/README.md).
 
-1. Copy `config.example.yaml` to `config.yaml` and adjust values.
-2. Discover sitemaps.
-3. Build the URL inventory.
-4. Ingest a sample set before running the full site.
+## Tests
 
 ```bash
-python -m scraper.main discover --root-url "https://www.dpird.nsw.gov.au" --config config.yaml
-python -m scraper.main inventory --root-url "https://www.dpird.nsw.gov.au" --config config.yaml
-python -m scraper.main ingest --root-url "https://www.dpird.nsw.gov.au" --config config.yaml --limit 10
-```
-
-To try the `crawl4ai` backend, set `html_backend: crawl4ai` in `config.yaml` and run the same ingest command.
-
-## Commands
-
-### Discover sitemap entry points
-
-```bash
-python -m scraper.main discover --root-url "https://www.dpird.nsw.gov.au" --config config.yaml
-```
-
-Writes a sitemap manifest to `data/manifests/sitemaps.json`.
-
-### Expand sitemaps into a normalized URL inventory
-
-```bash
-python -m scraper.main inventory --root-url "https://www.dpird.nsw.gov.au" --config config.yaml
-```
-
-Writes a JSONL inventory to `data/manifests/url_inventory.jsonl`.
-
-### Ingest pages and assets
-
-```bash
-python -m scraper.main ingest --root-url "https://www.dpird.nsw.gov.au" --config config.yaml --limit 50
-```
-
-Outputs:
-
-- `data/raw/`: raw HTTP responses and copied assets
-- `data/text/`: extracted text files
-- `data/pdf/`: rendered or copied PDFs
-- `data/manifests/documents.jsonl`: RAG-oriented metadata manifest
-
-## Notes for Cloudflare-protected sites
-
-The target domain currently blocks plain command-line HTTP requests with a Cloudflare challenge. This project therefore supports a browser fallback using Playwright. For some sites you may still need to run Chromium non-headless or reuse browser state/cookies if the site applies stronger protection.
-
-When `html_backend` is set to `crawl4ai`, HTML pages are fetched through `crawl4ai`'s browser crawler while sitemap XML and binary assets continue to use the lighter direct fetch path.
-
-## RAG workflow after ingestion
-
-The pipeline stops at document generation plus manifest creation. The next stage should chunk the text files, attach chunk metadata, and feed them into your embedding and vector database workflow.
-
-## Test
-
-```bash
+pip install -r ingest/requirements.txt -r farmcore/requirements.txt
 pytest
 ```
+
+## Documentation map
+
+| Need | Start here |
+|---|---|
+| System design & trust boundaries | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) |
+| Build phases & exit criteria | [`docs/PLAN.md`](docs/PLAN.md) |
+| API contracts | [`docs/API.md`](docs/API.md) |
+| 4-week CAI tickets | [`docs/CAI_SPRINT_PLAN.md`](docs/CAI_SPRINT_PLAN.md) |
+| Engineering log | [`docs/diary/Diary.md`](docs/diary/Diary.md) |
+| Product / team notes | [`docs/product/`](docs/product/) |
+
+## Boundary rule
+
+`ingest/` **never** connects to the FarmCore database. Handoff is an immutable
+**snapshot** (`chunks.jsonl` + manifest) imported by FarmCore in later phases.

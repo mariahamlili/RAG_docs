@@ -1,0 +1,4121 @@
+Goulburn Mulwaree Council 
+and Wingecarribee Shire Council
+REGIONAL 
+DROUGHT 
+RESILIENCE 
+PLAN
+
+This map is indicative only (as of September 2024).
+ACKNOWLEDGEMENT 
+OF COUNTRY 
+Goulburn Mulwaree Council and Wingecarribee Shire Council 
+acknowledges and pays our respects to the Aboriginal elders 
+both past and present and acknowledge the traditional 
+custodians of the land on which we all live. We acknowledge, 
+in particular, the Gundungurra, Ngunawal, Tharawal and 
+Dharug peoples as the traditional custodians of the lands that 
+are addressed within this report.
+While every care has been taken in preparing this publication, the State of New South Wales, Goulburn Mulwaree Council and Wingecarribee 
+Shire Council accepts no responsibility for decisions or actions taken as a result of any data, information, statement or advice, expressed or 
+implied, contained within. To the best of our knowledge, the content was correct at the time of publishing.
+Further, any and all actions identified within this plan for further consideration and implementation are subject to securing external funding 
+for Council facilitation.
+Front Cover Image Source: AzmanJaka, iStock, 2024
+
+CONTENTS
+Introduction...............................................................6
+Our Region...................................................................7
+Vision...........................................................................9
+A plan for drought resilience ................................... 10
+Purpose of the GMC and WSC RDRP.........................12
+The Process...............................................................12
+Following footsteps...................................................20
+What do we mean by drought and resilience?..........28
+Our Region and Our Droughts.................................. 32
+Lived Experience........................................................36
+Future Drought Projections and Impacts..................38
+Our Drought Resilience ........................................... 40
+Adaptive Capacity .....................................................40
+Exposure to drought .................................................49
+Associated Hazard Shocks.........................................52
+Local Drought Impact Pathways and Sensitivity........52
+Drought Resilience Assessment.................................53
+Our Drought Resilience Action Plan.......................... 55
+Resilience theme 1: Resilient local communities......62
+Resilience theme 2: Resilient local economies .........66
+Resilience theme 3: Resilient landscapes..................70
+Resilience theme 4: Resilient regional 
+water supply..............................................................74
+Implementation Requirements.................................78
+Lasting Governance ..................................................78
+Monitoring, Evaluation and Learning (MEL).............. 80
+Monitoring................................................................80
+Evaluation .................................................................80
+Learning ....................................................................81
+References............................................................... 82
+APPENDIX................................................................ 84
+Appendix A: RDRP Stakeholder Engagement List......85
+Appendix B: Performance and Outcome 
+Indicators...................................................................86
+Appendix C: CSIRO Suggestions for future 
+plan updates..............................................................90
+Figures
+Figure 1: Goulburn Mulwaree Council 
+and Wingecarribee Shire Council RDRP Area..............8
+Figure 2: RDRP development process........................13
+Figure 3: The multiple dimensions of drought 
+vulnerability ..............................................................29
+Figure 4: Components of drought adaptive 
+capacity.....................................................................30
+Figure 5: Millennium Drought Rain Deciles...............34
+Figure 6: 2017-2019 Rain Deciles..............................35
+Figure 7: Change in annual mean precipitation.........38
+Figure 8: Change in annual mean soil moisture 
+percentiles.................................................................38
+Figure 10: Projected changes in number of days 
+with max temperature above 35oC...........................39
+Figure 11: Change in annual mean drought index 
+(Keetch-Byram index values).....................................39
+Figure 9: South East Climate Change Snapshot.........39
+Figure 12: January and July Rainfall: Goulburn 
+(Goulburn TAFE AWS) and Wingecarribee.................49
+Figure 13: January and July Temperature: 
+Goulburn (Goulburn TAFE AWS) and 
+Wingecarribee (Moss Vale AWS)...............................49
+Figure 14: Combined Drought Indicators for South 
+East NSW - 12 Months to December 2019................50
+Figure 15: Vegetation Index for South East NSW 
+as at December 2019.................................................51
+Figure 16: RDRP Action Plan Program Logic..............59
+Figure 17: Resilience pathway ..................................61
+Figure 18: Governance system..................................79
+Tables
+Table 1: Depth of engagement..................................19
+Table 2: Strategic alignment......................................21
+Table 3: Literature, Tools and Studies .......................26
+Table 4: Adaptive capacity dimensions of Goulburn 
+Mulwaree Council.....................................................41
+Table 6: SWOT assessment........................................54
+Table 7: Sequential priority criteria...........................58
+
+KEY TERMS 
+AND ACRONYMS
+KEY TERMS
+Key Terms
+Adaptation
+Adjustment or modification in natural and/or human systems in response to actual or 
+expected shocks and stresses to moderate harm, reduce vulnerability and/or exploit beneficial 
+opportunities. 
+Adaptive 
+capacity
+The ability of a system to adjust to climate change (including climate variability and 
+extremes) to moderate potential damages, take advantage of opportunities or cope with the 
+consequences.
+Climate change
+Large-scale, long-term shift in the planet's weather patterns and average temperatures.
+Drought 
+Refer to page 28.
+Economic 
+resilience
+The ability of the economy to absorb the economic impact of shocks and stressors without 
+changing the economic status or outcomes.
+Environmental 
+resilience
+The ability of the natural environment to cope with a diverse range of shocks and stressors 
+while maintaining natural processes and ecosystem services.
+Governance
+Governance is the structures and processes by which individuals, groups and agencies in a 
+society share power and make decisions. It can be formally institutionalised, or informal.
+Hazard
+The potential occurrence of a natural or human-induced physical event or trend that may 
+cause loss of life, injury, or other health impacts, as well as damage and loss to property, 
+infrastructure, livelihoods, service provision, ecosystems and environmental resources.
+Hazard, 
+exposure, 
+vulnerability, 
+and resilience
+Terms commonly used among practitioners in the disaster and risk management and climate 
+resilience communities; however, they can have different interpretations. This report uses 
+definitions provided by the Intergovernmental Panel on Climate Change (IPCC) and, when 
+applicable, the United Nations International Strategy for Disaster Reduction (UNISDR).
+Intervention 
+options
+Alternative or complementary actions, projects, programs, policies, initiatives and investments 
+that are planned to bring about change. 
+Local 
+Knowledge
+Local knowledge and First Nations knowledge incorporate elements of lived experience 
+within landscape, bearing witness to the operation of systems. It includes aspects of people, 
+landscape, culture-how people interact with surroundings and as part of communities and 
+processes.
+Preparation
+Action to prepare for and protect against natural hazards and reduce impacts when events 
+occur.
+Prevention
+Action to understand and mitigate natural hazard risk.
+Recovery
+Action to assist communities, organisations and other stakeholders to recover from natural 
+hazards and reduce future risk.
+Resilience
+The ability of a system, community or society exposed to hazards to resist, absorb, 
+accommodate, adapt to, transform and recover from the effects of a hazard in a timely and 
+efficient manner, including through the preservation and restoration of its essential basic 
+structures and functions through risk management.
+Risk
+The potential for adverse consequences for human or ecological systems, recognising the 
+diversity of values and objectives associated with such systems.
+4
+
+Key Terms
+Shock
+Sudden, short-term events that threaten a city or region. Examples include major storms, 
+floods, bush fires, heatwaves, disease outbreaks, terrorism.
+Social 
+Resilience
+The ability of human society to cope with diverse range of shocks and stressors, while 
+maintaining existing social and community functions.
+Standardised 
+Precipitation 
+Index
+Uses precipitation only; can characterise drought or abnormal wetness at different time scales 
+which correspond with the time availability of different water resources (e.g. soil moisture, 
+snowpack, groundwater, river discharge and reservoir storage).
+Stressor
+An event that occurs gradually over a timeframe that causes an adverse effect. 
+Succession 
+planning
+The term succession planning refers to a strategy to pass leadership roles down to another 
+employee or group of employees within a business. Succession planning ensures that 
+businesses continue to run smoothly and without interruption, after important people move on 
+to new opportunities, retire, or pass away.
+Threshold
+The point at which a change in a level or amount a controlling variable causes a system to shift 
+to a qualitatively different regime.
+Transform
+The process of radically changing or building a new system with different structure, functions, 
+feedback and identity.
+Trigger point
+A pre-agreed situation or event, that when met, activates a management intervention.
+Vulnerability
+The propensity or predisposition to be adversely affected by hazards. Vulnerability 
+encompasses multiple elements including exposure to risk, sensitivity or susceptibility to 
+harm, and differential patterns of capacities to cope and adapt. It is the opposing definition of 
+Resilience characterising system weaknesses as opposed to its strengths. 
+ACRONYMS AND ABBREVIATIONS
+Acronyms and Abbreviations
+ABS
+Australian Bureau of Statistics
+BoM
+Bureau of Meteorology
+CSIRO
+Commonwealth Scientific and Industrial 
+Research Organisation
+DRR
+Disaster Risk Recovery
+EPA
+Environmental Protection Authority
+FDF
+Future Drought Fund
+GDP
+Gross Domestic Product
+GHG
+Greenhouse Gas Emissions
+GMC
+Goulburn Mulwaree Council
+Acronyms and Abbreviations
+KPI
+Key Performance Indicators
+IPCC
+Intergovernmental Panel on Climate Change
+LLS
+Local Land Services
+LGA
+Local Government Area
+NGO
+Non-Government Organisation 
+NSW
+New South Wales
+NSW 
+DPIRD
+NSW Department of Primary Industries and 
+Regional Development
+RDRP
+Regional Drought Resilience Plan
+WSC
+Wingecarribee Shire Council
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+5
+
+INTRODUCTION
+Source: Goulburn Australia Website, 2024
+6
+
+Goulburn Mulwaree Council (GMC) and Wingecarribee Shire Council 
+Drought Fund and the NSW Government to prepare a Regional Drought 
+Resilience Plan (RDRP) for the region. 
+The RDRP is focused on empowering our communities 
+to be resilient to the impacts of drought; effectively 
+preparing in advance so that when drought does occur 
+its impacts during are minimised as are the time and 
+costs associated with recovery. A drought resilient 
+community is one that has the capacity to resist, 
+absorb, accommodate, recover, transform and thrive 
+in a timely and effective manner in response to the 
+effects, shocks and stressors of drought, and in doing 
+so enable positive economic, social, environmental and 
+governance outcomes.  
+Achieving resilience needs to start by recognising two 
+key factors:
+•	Drought is not simply low rainfall; if it was, much 
+of inland Australia would be in almost perpetual 
+drought. Drought is typified by abnormal periods 
+of dryness, but the definition of “abnormal” and 
+“dryness” varies across communities and with their 
+associated land use and economies.
+•	Drought is not simply an agricultural issue. 
+While farmers often feel its impacts most directly, 
+drought is unique amongst natural hazards as it 
+is typically a slow onset disaster that permeates 
+through communities as it develops, affecting not 
+only agricultural productivity, but upstream and 
+downstream supply chains, individual and community 
+health and wellbeing, and the condition and quality 
+of the natural environment and community places. As 
+it is slow onset, it is also often slow in recovery, with 
+the scars of drought on communities often lasting 
+long after its incidence.
+The RDRP approach recognises the multi-dimensional 
+impacts and significance of drought to communities 
+and seeks to provide a holistic planning framework 
+to prepare communities for future droughts through 
+building economic, environmental, and social resilience.
+A key element of the RDRP is that it is a community 
+responsive and community integrated plan. Ultimately, 
+it is the practices of individuals and communities that 
+will define their level of resilience to drought and the 
+actions recommended within this plan are focussed 
+on enabling behavioural and cultural change regarding 
+drought within the two LGAs (hereafter ‘the region’). 
+The actions themselves have been identified through 
+an engagement program across our region, focussed on 
+understanding the lived experience of drought in all its 
+dimensions, and how this experience can be improved 
+into the future.
+OUR REGION
+The Goulburn Mulwaree and Wingecarribee Shire Local 
+Government Areas cover a combined area of 5,900 
+square kilometres, encompassing large portions of 
+both the Southern Tablelands and Southern Highlands 
+regions of NSW. 
+The Southern Tablelands is located west of the Great 
+Dividing Range and is geographically characterised by 
+high, flat country that has been extensively grazed since 
+European settlement in the early 1820’s. The Southern 
+Highlands is located to the south-west of Sydney and 
+sits on a plateau of the Great Dividing Range, between 
+500 – 900 metres above sea level. Distinct from 
+the intensively grazed Southern Tablelands region, 
+the Southern Highlands has a high percentage of 
+mountainous nature conservation land including the 
+Morton National Park. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+7
+
+Just as the two LGAs are distinct in their geography and landform, they have distinct land uses, demographics, 
+economies and communities (Figure 1). The combined population is approximately 86,600 people, with the major 
+urban centres of Moss Vale, Mittagong, Bowral and Goulburn hosting approximately 60% of this population.
+This plan primarily seeks to address commonalities in drought vulnerabilities between the two LGAs while 
+recognising and responding to their differences where practicable. 
+Figure 1: Goulburn Mulwaree Council and Wingecarribee Shire Council RDRP Area
+This diversity across the LGAs is mirrored in its First Nations stewardship. The traditional custodians of the Goulburn 
+Mulwaree and Wingecarribee Shire region are the Gundungurra, Ngunawal, Tharawal and Dharug peoples. The 
+Goulburn Mulwaree region is also a traditional meeting place for many First Nations groups, having cultural 
+significance to a number of Aboriginal peoples beyond its local custodians. 
+It is important to note for a drought planning document, that water is not merely a resource for our Aboriginal 
+peoples; it is a living entity intertwined with their existence, spirituality, and cultural heritage. There are numerous 
+locations of high importance across the region used by our communities that have a strong connection with water, 
+such as the Wollondilly River, Wingecarribee River and Mulwaree Flats. 
+Our Aboriginal peoples possess a wealth of traditional knowledge that can contribute to drought resilience 
+strategies, including a deep understanding of sustainable natural resource management. This knowledge and their 
+demonstrable perpetual commitment to the good stewardship of Country makes their ongoing involvement within 
+this RDRP of first order importance. 
+8
+
+VISION
+Our vision for drought resilience was informed by community views on the need for drought 
+awareness in the context of a shifting demographic; the importance of community-led support and 
+cooperative action; and an acknowledgement of the experience-based knowledge of our agricultural 
+and land care communities in building drought resilience. 
+Our vision is that the communities of our region:
+•	Are aware of the drought hazards to the region and the many ways it impacts upon our people, 
+our environment and economy
+•	Integrate and implement drought responsive actions in the way they carry out their work, live their 
+lives and plan their futures
+•	Foster social cohesion through taking personal responsibility for the management of water 
+resources, while recognising water is a common resource shared within a community 
+•	Are aware of, and have access to, an array of public and private support networks that can be 
+called upon before, during and after drought events.
+Ultimately, we seek to develop communities that are aware, 
+active and structured in such a way that, when under the stress 
+of drought, our economies remain prosperous, our communities 
+remain connected, and our environment is protected.
+The actions earmarked within this RDRP and developed through consultation with the affected 
+communities seeking to progress the region towards this vision. Just as the frequency and 
+magnitude of drought continues to shift with forecast climate change impacts, so too the nature 
+and composition of our communities is shifting in response to broader cultural, economic and 
+development drivers. The achievement of this resilience vision will be incremental and adaptive over 
+time and its proposed actions will need to be reviewed, updated and expanded to respond to this 
+resultant evolving landscape of drought exposures, sensitivities and vulnerabilities. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+9
+
+A PLAN FOR 
+DROUGHT RESILIENCE 
+Australia is recognised as one of the driest continents and countries on earth. So much so that living amidst drought 
+and harsh conditions has now formed part of our culture, heritage and international standing. Yet, the economic, 
+social and environmental impacts of drought are far-reaching, complex and often disastrous at a personal, local, 
+regional and even national level. The forecast climate change trajectory for the country (and for our region) is one 
+of both increased frequency of drought and increased intensity of drought (AdaptNSW, 2024).
+The impacts of such increases will flow through to the households and communities of our region. Those 
+businesses with high water dependency and those households with limited access to water, will be the first to 
+be affected, resulting in a decline in productivity and personal financial and emotional stresses. Ultimately, the 
+increased exposure to drought as a result of climate change may lead to the closure of currently viable businesses 
+or incidence of associated mental health issues and self-harm. From such localised impacts, the impacts of drought 
+can flow out into a myriad of interdependent social, environmental and economic systems through various 
+pathways. For example:
+•	Loss of environmental amenity where a browning 
+environment decreases tourism and affects the 
+viability of tourism-based industries
+•	Reduced local feed/water availability requires 
+purchasing of feed/water from other regions; 
+affecting local transport, logistics and supply chains 
+and associated costs, as well as the introduction of 
+invasive weeds and insects with imported feed
+•	Limited rainfall increases demand for lower quality 
+water sources, elevating health risks particularly 
+within ageing populations
+•	Limited water availability for public space 
+maintenance diminishes community wellbeing 
+•	Financial restrictions and familial stresses encourages 
+anti-social behaviour, or increased truancy amongst 
+school children, leading to lowered educational 
+outcomes
+•	Dry conditions contribute to higher risk of bushfire 
+and associated direct and indirect damages
+•	Drought conditions encourage pest and weed 
+migration at a time in which individuals and councils 
+have limited resources for control.
+was established in September 2019 to provide continuous funding for drought resilience initiatives, seeking to 
+build drought resilience in Australia’s agricultural sector, the agricultural landscape and communities. The FDF 
+(2020-2024) has four priority focus areas:
+•	Better climate information – enabling farmers, businesses and communities to better understand climate risk
+•	Better planning – helping Australian farmers and agricultural regions plan for drought
+•	Better practices – Promoting the adoption of farming and natural resource management (NRM) practices and 
+technologies to improve drought resilience 
+•	Better prepared communities – enabling and empowering community leaders, networks and organisations that 
+reinforce community resilience. 
+10
+
+The NSW Regional Drought Resilience Planning Program 
+(The Program), delivered under the ‘Better planning’ 
+priority, represents a joint initiative between the NSW 
+agricultural regions in the development of Regional 
+Drought Resilience Plans that can be implemented 
+by councils and their communities to manage future 
+drought risk. The resulting plans seek to focus on 
+innovative ways to build regional drought resilience, 
+taking steps to plan now to stem the impact of future 
+drought on our region.
+The overarching purpose of The Program is to delivery 
+RDRPs which:
+•	Create stronger connectedness and greater social 
+capital within communities, contributing to wellbeing 
+and security
+•	Empower communities to implement transformative 
+activities that improve their resilience to drought
+•	Support more primary producers to adopt whole-of-
+system approaches to natural resource management 
+to improve the natural resource base for long-term 
+productivity and landscape health.
+The Program recognises that drought is not solely 
+an issue for the agricultural sector, and takes a 
+triple-bottom line approach to deliver against three 
+inter-connected strategic priorities:
+•	Economic resilience of the regional economy and an 
+innovative and profitable agriculture region
+•	Environmental resilience for sustainable and 
+improved functioning of farming landscapes
+•	Social resilience for resourceful and adaptable 
+communities.
+The RDRPs focus is on the community as a system to 
+enhance economic, built, environmental, and social 
+capacity to endure, respond and evolve to current and 
+changing drought conditions. 
+Source: Russell102 , iStock 2024
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+11
+
+PURPOSE OF THE GMC AND WSC RDRP
+A drought resilient region is one that is prepared, active and structurally resourced to respond to drought if and 
+when it occurs, so that our economy remains prosperous, our communities remain connected and our environment 
+is protected. This plan seeks to support realisation of our drought resilience vision by:
+•	Directly preparing our communities by providing a useful starting point for the understanding of drought and its 
+impacts
+•	Supporting an active and engaged community to be encouraging participation in the development of the plan and 
+identifying actions and responsibilities for the community to take up into the future
+•	Supporting development of structures and services to strengthen drought resilience in the region by identifying 
+existing short-comings or opportunities for improvement. 
+Source: Lauren McLaughlin Photography
+THE PROCESS
+To achieve these aims, a three-phase approach has been adopted, including:
+PHASE ONE: 
+a desktop review of key regional 
+strategic plans, drought impact 
+literature and regional data to 
+inform a preliminary assessment 
+of local economic, social and 
+environmental drought resilience.
+PHASE TWO: 
+stakeholder consultation to 
+encourage community co-design 
+and RDRP ownership, as well as 
+identify priority resilience themes 
+and actions.
+PHASE THREE: 
+development of an action 
+plan to enhance the drought 
+resilience of the local economy, 
+community and environment, 
+as well as the monitoring and 
+evaluation framework to support 
+implementation.  
+12
+
+Figure 2 provides an overview of the process adopted. The critical component to the entire process has been 
+the community engagement activities to extract drought lived experience, issues and concerns, and community 
+suggestions for how resilience may be improved.
+The overall development of the RDRP was guided by the Project Control Group, comprised of representatives from 
+Goulburn Mulwaree Council, Wingecarribee Shire Council, and NSW DPIRD.   
+THE JOURNEY TO DROUGHT RESILIENCE
+Figure 2: RDRP development process
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+13
+
+Community Engagement 
+A fundamental premise in the preparation of the report has been the understanding that drought is ultimately 
+experienced most deeply at the individual and community level, and that the nature of that experience varies 
+greatly between, and even within, communities. Any RDRP that is not based upon the experience and knowledge of 
+the communities it seeks to address, risks misguided application and planning.
+Accordingly, this RDRP has considered community and stakeholder feedback (including feedback obtained from 
+other previous and ongoing projects) to help understand and respond to the key community concerns and 
+already identified opportunities to improve the preparedness and resilience of the community to drought. For 
+example, following the 2020 droughts and fires WSC has established community integrated planning groups to 
+advance Southern Highlands Farming Community Resilience and Preparedness, which have periodic workshops 
+to advance resilience, including activities such as the Response Recovery and Resilience Expo in 2021. The results 
+of this engagement provided key stakeholder insights and contacts from the community, agricultural industry, and 
+government partners which has contributed to the engagement approach for this RDRP. 
+To inform the engagement program design a stakeholder list was prepared followed by an analysis of the 
+methodology appropriate for the engagement with key stakeholders using the International Association for Public 
+Participation (IAP2) spectrum.
+Various stakeholders have shared their perspectives 
+on how the drought has impacted them and has 
+influenced their local environment and their livelihood. 
+A complete list of organisations engaged is provided at 
+Appendix A. The community has been engaged through 
+various approaches, including:
+•	Project Control Group (PCG) and Community Leaders 
+meeting – project direction meeting held in April 
+2024 to discuss local drought impacts, opportunities 
+and barriers for enhancing regional resilience and 
+potential resilience actions. Attendees included:
+	- Representatives from GMC and WSC
+	- Representatives from NSW DPIRD 
+	- Tablelands Farming Systems 
+	- Agribusiness and Equine Strategic Working Group, 
+Wingecarribee 
+	- Goulburn Chamber of Commerce & Industry
+	- Marulan Region Chamber of Commerce.
+•	Community survey - seeking broad community 
+feedback from across both LGA’s via the online 
+drought resilience survey open for feedback during 
+April and May 2024. The survey was also circulated to 
+over 150 stakeholders from community and industry 
+groups and organisations, government agencies, and 
+media outlets and through both Council’s Facebook 
+pages and shared on LinkedIn.
+•	Targeted stakeholder meetings (six) with key 
+community groups and organisations, including:
+	- Local Land Services
+	- Water NSW
+	- Business representative groups
+	- Southern NSW Local Area Health District
+	- NSW Health Rural Adversity Mental Health Program 
+(RAMHP) 
+	- Goulburn Mulwaree Sustainability Hub 
+	- Community Voice for Hume 
+	- Landcare Goulburn Mulwaree – Regenerative 
+Grazing and Framing Group
+	- The Southern Highlands Farming Community 
+Resilience and Preparedness Working Group
+	- The Interagency Group.
+•	Community Focus Groups (two) were held in May 
+2024 for interested community members and 
+invitations were extended to village representatives 
+from across both Councils. The participants at 
+these sessions included the members of the 
+Wingecarribee Community Reference Panel (including 
+representatives from the community in the Climate 
+Change and Environment, Community, and Economy 
+sectors) and from the Southern Highlands Landcare 
+Network.
+14
+
+The survey was distributed to 
+162 
+DISTRIBUTION LISTS 
+67 
+SURVEY RESPONSES
+9 
+STAKEHOLDER MEETINGS
+3 WORKSHOPS, 
+40 PARTICIPANTS 
+4 FACEBOOK POSTS 
+by both Goulburn Mulwaree and 
+Wingecarribee Shire Councils promoting 
+the opportunity to provide feedback 
+through the survey
+3,123 REACH
+3,371 IMPRESSIONS
+11 LIKES 
+3 SHARES
+2 
+MEDIA ARTICLES 
+1 
+E NEWSLETTER ARTICLE 
+distributed, 27 link clicks, 3596 recipients, 
+2019 newsletter opens
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+15
+
+Learnings from community engagement
+The engagement activities focused on capturing learnings from the Millennium Drought and the 2017-19 Drought. 
+The engagement sessions were broadly targeted at understanding stakeholders: 
+•	Lived experiences during the previous drought periods
+•	Perceptions of the region’s drought resilience
+•	Experiences of drought support mechanisms
+•	Ideas for, and barriers to, increasing drought resilience of the region in the future
+•	Perceptions on the outcomes of effective drought management planning.
+The engagement sessions were structured to capture stakeholder 
+groups across the RDRP pillars of social, economic and environmental 
+resilience. The engagement sessions were also timed to suit relevant 
+stakeholder groups, for example business representative sessions were 
+held out of business hours (6:00pm). Of the six targeted stakeholder 
+group meetings and two Community Focus Groups, three targeted 
+stakeholder meetings and one Community Focus Groups were well 
+attended, with the remaining sessions having low attendance. To 
+capture the input of stakeholders not attending the planned sessions a 
+series of one-on-one conversations were held virtually. A small number 
+of stakeholders were also engaged via email correspondence. 
+In total, more than 100 individuals, and community, agency, and 
+industry organisations and groups contributed their feedback in the 
+development of the actions and recommendations of this RDRP.
+Community Focus Group Meeting, 
+Wingecarribee Shire Council, 
+16 May 2024
+16
+
+A Snapshot of Key Stakeholder Insights on the RDRP
+“ Each drought, or the longer drought goes on, diminishes one’s 
+ability to thrive - it can seem hopeless, and we just survive and 
+get through, frustrated that we weren’t able to better prepare. “ 
+Community member 
+“ We need to be pragmatic and look 
+ahead at the weather. We need to be 
+positive and proactive and look 6-12 
+months ahead. If it says it will be a horrific 
+period of drought ahead then you need to 
+start selling sheep, you don’t suddenly get 
+drought, you have time to plan.’
+I like the word resilience; you need to be 
+resilient mentally, but you also need to 
+plan and take steps. “
+Local Farmer
+“ Things like water 
+restrictions and watching 
+the area become drier and 
+drier made me and my family 
+anxious over an extended 
+period and made us question 
+whether we should live in a 
+regional area. “
+Community member
+“ Drought affects farmers 
+mentally, it puts stress on the 
+brain, and diminishes good 
+decision making as drought 
+progresses. Therefore, access 
+to help is critical and can assist 
+farmers so they are not making 
+decisions when under the 
+pump. “ 
+Health Representative
+“ Habitat resilience 
+is important to the 
+community through 
+preservation and tree 
+planting on properties to 
+prepare for drought. Also, 
+protecting the habitats of 
+our iconic animals such 
+as the platypus and Rakali 
+(Australian otter) so they 
+can survive drought “ 
+Landcare Representative 
+“ Feeding stock was a challenge as hay and silage was in short supply, poor 
+quality and very expensive “
+Local farmer
+“ Farmers are not necessarily social people, and this contributes to their isolation and 
+poor mental health. Especially during droughts when the going gets tough “ 
+Farming representative 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+17
+
+Managing perspectives
+Community engagement encountered a diverse range of perspectives on drought in the region and appropriate 
+actions to build the resilience of the community, economy and environment. The diversity of views was both 
+a strength and challenge for plan development. A diverse range of perspectives has resulted in a broad array 
+of complementary actions which aim to build the resilience systems of the region. Conflicting perspective on 
+individual themes and actions were resolved by referring to the RDRP Program objectives and vision, where 
+conflicts were resolved by refocusing towards achieving common outcomes. Ultimately, all stakeholders consulted 
+were united in a desire to increase the overall resilience of the region and conflicting perspectives were rare. 
+Impact on Local Economies
+Community Information and Support
+Feed Supply for Livestock
+Water Supply and Management
+Depth of engagement
+In terms of depth of engagement with key 
+stakeholder groups, Table 1 summarises the 
+level of engagement with key stakeholder 
+groups and resulting recommendations for 
+future updates of the RDRP. 
+18
+
+Table 1: Depth of engagement
+NO. STAKEHOLDER 
+ATTENDANCE 
+ENGAGEMENT 
+LEVEL 
+WHY?
+RECOMMENDATIONS 
+FOR FUTURE 
+ENGAGEMENT 
+1
+Environmental 
+Representatives
+7
+High
+Representation from this group was high 
+due to their high interest in the outcomes 
+and actions to be included in this report. 
+Feedback was provided through the 
+stakeholder meetings, workshops and 
+survey. 
+These stakeholders possess local 
+knowledge of landholder and property 
+owners land management practices 
+and the impact of drought on the local 
+environment.
+Engage these 
+representatives early 
+to ensure identification 
+of the appropriate 
+key environmental 
+representatives and 
+methods for engagement.
+2
+Health 
+Representatives
+4
+High
+Representation from this group was high 
+due to their high interest in the outcomes 
+and actions to be included in this report. 
+Feedback was provided through the 
+stakeholder meetings, workshops, and 
+survey. 
+Participation by various health 
+representatives has provided valuable 
+feedback on the impact of drought on 
+the health and wellbeing of farmers and 
+property owners in both Council areas. In 
+addition, we have a greater understanding 
+of the local services and programs 
+available to support the community.
+Engage these 
+representatives early to 
+ensure identification of key 
+health representatives and 
+methods for engagement.
+3
+Business 
+Representatives 
+4
+Moderate
+Representatives from the business 
+community were interested in providing 
+their feedback during the engagement 
+program, and we tailored our program 
+to ensure we were providing accessible 
+opportunities to engage with the business 
+community. We received feedback from 
+business representatives through the 
+workshops, stakeholder meetings, and 
+survey. 
+Identify alternate 
+methods for engagement 
+in consultation with the 
+business community to 
+increase the participation 
+and ownership of the 
+actions for inclusion with 
+the RDRP. 
+4
+Farmer 
+Representatives 
+3
+Moderate
+Farmers and NSW Farmers were interested 
+in providing their feedback through the 
+engagement program however were 
+limited in their capacity to provide this 
+feedback. Farmers provided their feedback 
+over the phone and at stakeholder 
+workshops. 
+Engage with farmers and 
+NSW Farmers early to 
+identify the preferred 
+approach for engagement 
+with other farmers and the 
+method of engagement. 
+This may include 
+stakeholder interviews and/ 
+or attendance at key events 
+that farmers attend to 
+solicit greater participation. 
+5
+Government 
+Agencies 
+3
+Moderate
+There was moderate interest from 
+those representing various Government 
+Agencies, and this could be attributed 
+to their capacity to provide feedback. 
+We received feedback from these 
+representatives through the workshops, 
+stakeholder meetings, and survey. 
+Increase the timeframe for 
+consultation to allow for 
+increased review time for 
+Government Agencies. 
+6
+Village 
+Representatives 
+2
+Low
+Various attempts were made to engage 
+with village representatives to ensure 
+their feedback was captured. We received 
+lower engagement from these groups, 
+this could be attributed to some village 
+representatives being members of various 
+groups and providing their feedback as a 
+representative of an alternate group. 
+Identify key community 
+leaders who can indicate 
+their level of interest 
+in the outcomes of the 
+RDRP report and provide 
+feedback throughout the 
+engagement program 
+in consultation with key 
+community leaders. 
+7
+First Nations 
+Representatives 
+1
+Low
+Feedback was sought from both the 
+Pejar and Illawarra LALCs and assistance 
+was provided by Aboriginal Partnerships 
+Managers who sought feedback from the 
+LALCs on the RDRP, with the Pejar LALC 
+consulted through their board, however, 
+no detailed feedback from either LALC was 
+received. 
+Engage earlier with the 
+Aboriginal Partnerships 
+Managers and allow for an 
+extended timeframe for 
+feedback to be gathered 
+from the Local Aboriginal 
+Land Council’s (LALCs).
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+19
+
+FOLLOWING FOOTSTEPS
+It is important to note that the RDRPs and FDF, while bringing focus and activity to the issue, 
+are the latest but not the first piece of planning in response to drought and its impacts. This 
+is true at a local, regional level and at a national level. Table 2 summarises the key local, 
+regional and national strategies into which the GMC and WSC RDRP will integrate, while Table 3 
+summarises some of the significant literature, tools and studies undertaken that have informed 
+the understanding of current and future drought hazard to the region and potential actions in 
+response. It is important that the RDRP, where possible, seeks to find synergies with the regional 
+strategic plans, to enhance drought resilience while simultaneously contributing to the broader 
+economic, environmental, and social objectives of the region.
+It is recognised that several drought specific studies have recently been undertaken within 
+the region, including the Baselining Drought study undertaken by the Southern NSW Drought 
+Resilience Adoption and Innovation Hub (2022). This broad and consultation intensive study 
+sought to describe and define the experience of drought across southern NSW and form the basis 
+for assessing changes required, barriers to overcome and potential opportunities to improve 
+drought resilience within the farming community. This RDRP is not seeking to rework ground 
+previously covered, but rather supplement previous contributions to regional drought resilience 
+(e.g. whereas the Baseline Drought study is focussed on farmer impacts, this RDRP seeks to 
+expand out the application across the broader economic, environmental and social disciplines). 
+Where potential actions/recommendations identified as part of this RDRP have been/will be 
+addressed as part of other initiatives, the relevant actions were not taken forward for further 
+implementation.
+Source: Panoramic views of Bowral in NSW Southern Highlands, Elias Bitar, iStock, 2024
+20
+
+Table 2: Strategic alignment
+STRATEGY/PLAN
+ALIGNMENT AND RELEVANCE TO THE RDRP
+National/State Drought Plan
+National Drought Agreement
+current National Drought Agreement (NDA). The NDA sets out a joint 
+approach to drought preparedness, responses and recovery, with a focus 
+on accountability and transparency. The NDA identifies the need to support 
+farming businesses and farming communities to manage and prepare for 
+climate variability and strengthen risk management practices to enhance 
+long-term preparedness and resilience. The current NDA expires on 30 
+June 2024 and is being reviewed ahead of the implementation of the next 
+intergovernmental agreement on drought. 
+Key NDA objectives supported by this RDRP are:
+•	Enable farming businesses, farming families and farming communities 
+to manage and prepare for drought, climate change and variability, by 
+supporting their long-term sustainability and resilience, the adoption of 
+robust risk management practices and sound natural resource management. 
+•	Increase the adoption by farming businesses and the farming sector of 
+self-reliant, sustainable and resilient approaches to manage business risks, 
+through improved skills and business decision-making, and the adoption of 
+new knowledge and tools from research and development.
+•	Ensure services to mitigate the effects of drought on health and wellbeing 
+are accessible to farming families and farming communities.
+•	Ensure support measures are accessible and clear information is available 
+for those in need, in collaboration with relevant stakeholders.
+•	Provide decision makers, industry and the public with access to common 
+sources of quality, drought-related data to improve policy and business 
+decision making.
+CSIRO Drought Resilience 
+Mission
+In September 2021, the CSIRO launched three “missions” to guide the 
+investment of $150 million in research and development collaborations 
+targeted at tackling Australia’s biggest agriculture and food challenges, 
+including: drought resilience; trusted agrifood exports; and future protein.
+The CSIRO Drought Resilience Mission (Mission) is to reduce the impact of 
+Australian droughts by 30 per cent by 2030.
+The aim of the Mission is to protect jobs and agricultural profitability, 
+strengthen the economic resilience and water security of regional 
+communities, and improve environmental outcomes.
+This RDRP seeks to support the Mission by identifying practical and 
+measurable solutions to reduce the impact of drought on our communities, 
+primary producers, and the environment by 2030. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+21
+
+Water Security Strategy/Plan
+The NSW Water Strategy
+Department of Planning, Industry and Environment
+NSW Water 
+Strategy
+August 2021
+www.dpie.nsw.gov.au
+The NSW Government has developed the NSW Water Strategy, a 20-year, 
+state-wide strategy to improve the security, reliability and quality of the state’s 
+water resources over the coming decades. The NSW Water Strategy addresses 
+key challenges and opportunities for water management and service delivery 
+across the state and set the strategic direction for the NSW water sector over 
+the long-term.
+The NSW Water Strategy sets the overarching vision for 12 regional and two 
+metropolitan water strategies
+The NSW Water Strategy defines 7 priorities for the state’s water resources. 
+This RDRP supports the priorities of:
+•	Priority 4 – Increase resilience to changes in water availability (variability 
+and climate change).
+•	Priority 5 – Support economic growth and resilient industries within 
+a capped system.
+•	Priority 6 – Support resilient, prosperous and liveable cities and towns.
+The Greater Sydney Drought 
+Response Plan
+Greater Sydney 
+Drought Response 
+Plan Overview 
+Being prepared for drought  
+August 2022 
+The Greater Sydney Drought Response Plan (GSDRP) sets out how Sydney 
+Water, WaterNSW and the NSW Government will work together to respond 
+to droughts in the future. Both GMC and WSC are within the Greater Sydney 
+catchment and source water from the WNSW operated Wingecarribee 
+Reservoir. Actions implemented under the GSDRP are likely to have 
+implications for water supply in the region, via any drought response triggers 
+included in the Greater Sydney Water Sharing Plans. 
+The GSDRP introduces the framework of a staged drought response by 
+defining actions and decisions that are required pre drought, as drought 
+conditions develop and intensify, and during recovery. 
+The GSDRP also identifies a need to develop rainfall independent supply to 
+enhance drought resilience. An action that is supported by this RDRP. 
+22
+
+Regional Strategy/Plan
+Southern Tablelands Regional 
+Economic Development 
+Strategy (REDS) + 2023 Update
+SOUTHERN TABLELANDS REgiONAL EcONOmic DEvELOpmENT STRATEgy 2018-2022
+2018-2022 
+Southern 
+Tablelands 
+Regional
+Economic 
+Development 
+Strategy 
+VISION 
+To grow the region’s 
+core strengths in 
+agriculture, energy, 
+extractive 
+industries, aged care, 
+transport, and 
+tourism and deliver a 
+highly liveable 
+community which 
+attracts and rewards 
+residents and 
+visitors. 
+Developed with the support of the NSW Government as part of the 
+Regional Economic Development Strategies program to assist local 
+councils and their communities in regional NSW. June 2018. 
+The Southern Tablelands REDS articulate a framework for identifying 
+actions crucial to achieving the regional vision aims to leverage the Region’s 
+endowments: its topography, water, climate and soils, natural resources, 
+proximity to Sydney and Canberra (including the road and rail access), 
+extractive and mineral resources, lifestyle advantages, historic heritage and 
+villages, public order and safety institutions, hospitals, local institutions and 
+strong leadership, labour supply and specialist labour skills.
+The identified endowments are the basis of the Region’s specialisations in 
+Sheep and Beef Cattle Farming, Meat and Meat Product Manufacturing, 
+Public Order and Safety Services, Construction Material Mining, Road Freight 
+Transport, Residential Care Services and Tourism, as well as the potentially 
+emerging specialisation in renewable energy generation. 
+The Southern Tablelands REDS identify priorities to sustain, build, realise 
+and enhance. Of relevance to the development of the RDRP, the Southern 
+Tablelands REDS seeks to identify opportunities to:  
+•	Sustain the Region’s agriculture and agricultural processing advantage, 
+especially in livestock 
+•	Build on the Region’s core strength in energy generation and natural 
+resource extraction.
+The 2023 update provides an updated evidence base to guide governments in 
+making policy and investment decisions to enhance resilience.
+Wingecarribee Regional 
+Economic Development 
+Strategy – 2023 Update
+The Wingecarribee REDS was first developed in 2018 and reviewed in 2023. 
+The 2023 update identified that despite recent shocks (drought, bushfire, 
+covid) impacting many endowments, key endowments remain, such as:
+•	Proximity to Sydney, Canberra, and Illawarra 
+•	Water, climate and soil 
+•	Education & healthcare infrastructure 
+•	Substantial labour supply 
+•	Local institutions and strong leadership 
+•	Aboriginal & historic heritage 
+The Wingecarribee REDS – 2023 update also discussed strengths, 
+vulnerabilities, and opportunities. For example, identifying agriculture 
+opportunities in emerging specialist industries such as horse breeding, niche 
+produce such as truffles and garlic, and flexible approaches to land use 
+planning to alleviate constraints on agriculture. 
+Department of Regional NSW 
+Southern Tablelands Regional Economic Development 
+Strategy – 2023 Update 
+regional.nsw.gov.au 
+Department of Regional NSW 
+Wingecarribee Regional Economic Development Strategy 
+– 2023 Update
+regional.nsw.gov.au 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+23
+
+Regional Strategy/Plan
+Wingecarribee 2040 Local 
+Strategic Planning Statement
+The Wingecarribee Local Strategic Planning Statement (LSPS) sets out the 
+20-year land use vision for the region and provides a long-term planning 
+framework to meet the economic, housing, social and environmental needs of 
+the community.
+The LSPS outlines six key land use themes including: our environment and 
+sustainability, our rural lands, our economy, our housing, our infrastructure, 
+and our place. Each land use theme includes a set of planning priorities and 
+actions to achieve the communities’ vision for the Wingecarribee Shire.
+The LSPS identifies key water priorities as:
+•	Increase of alternative water supplied to decrease dependency on 
+distributed water
+•	Increase uptake in rainwater tanks and dual reticulation recycled water in 
+new development and alternations and additions to existing developments
+•	Reduced potable water used for non-potable uses.
+This RDRP identifies water savings actions to support the listed water 
+priorities. 
+Community Strategic Plan - 
+Wingecarribee 2041
+Community Strategic Plan
+Wingecarribee 2041
+We're with you
+The Community Strategic Plan - Wingecarribee 2041 (Wingecarribee 2041) is a 
+community-led long-term plan which considers the community’s current and 
+future needs and aspirations. Wingecarribee 2041 is divided into five themes: 
+leadership, people, places, environment and economy. Of relevance to the 
+RDRP, Wingecarribee 2041 has the stated overarching goals of:
+•	Goal 2.1: A healthy, happy, active and resilient community
+•	Goal 4.4: A resilient Shire that takes action on climate change
+Goulburn Mulwaree 
+Community Strategic Plan 2042
+Goulburn Mulwaree
+Community Strategic Plan 2042
+The Goulburn Mulwaree Community Strategic Plan (CSP) is Informed by 
+community input and sets out a long-term vision for the region to 2042 and 
+identifies priorities and strategies for achieving this. The CSP is currently in the 
+draft community consultation phase. 
+Priorities that are relevant to the RDRP include:
+C.8 Improve community understanding of ways to care for yourself and others 
+during extreme weather events and natural disasters
+C.9 Plan for and maintain climate resilient community facilities that cater to 
+community needs in changing conditions 
+C.10 Plan, respond and recover from natural disasters
+C.11 Maintain a balance between growth, development, environmental 
+protection, and agriculture through sensible planning
+D.13 Ensure high quality water supply options for the towns in the region
+D.15 Investigate safe and secure water supply and sewer collection options to 
+accommodate regional growth and drought.
+WINGECARRIBEE 2040
+LOCAL STRATEGIC PLANNING STATEMENT
+WSC .N SW.GOV.AU
+Working with you
+24
+
+Regional Strategy/Plan
+Southeast NSW Resilience 
+Blueprint
+South East NSW
+Adapting to a changing world
+This project is jointly funded by the Commonwealth 
+and the New South Wales Government.
+ATTACHMENT 11.3
+The South-East NSW Resilience Blueprint (Resilience Blueprint) is a high-
+level regional framework seeking to address a wide array of natural hazards, 
+including drought, and identify ways in which the South-East NSW region 
+(including GMC and WSC) can mainstream resilience into the everyday 
+activities of its communities. The Resilience Blueprint and its priorities are 
+opportunities that can be explored and taken forward by those with a role 
+in contributing to resilience to embed its consideration as part of day-to-day 
+processes. 
+Different stakeholders can use the resilience directions that follow to filter 
+those that are relevant to different roles, responsibilities, circumstances and 
+needs.
+Source: Heritage Goulburn Courthouse, Tahlia Aubusson
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+25
+
+Table 3: Literature, Tools and Studies 
+TOOL
+DESCRIPTION
+Drought Resilience Adoption 
+and Innovation Hubs
+adoption and innovation hubs in 2021, with the aim of connecting farmers 
+with agricultural experts in their region to harness innovation and adopt new 
+practices.
+A Southern NSW Innovation Hub (see below) provides local resources within 
+in NSW. However, the broader hubs provide resources and data relating to the 
+experience of drought more broadly across Australia.
+Southern NSW Innovation Hub
+Led by Charles Sturt University, the hub seeks to combat drought and form 
+the epicentre of user-driven innovation, research and adoption and facilitate 
+transformational change through the co-design of research, development, 
+extension, adoption and commercialisation activities. 
+The Baselining Drought (2022) study was undertaken to establish a shared 
+understanding of what constitutes drought in the current context across 
+southern and central NSW. The purpose of establishing a drought baseline was 
+to understand what drought means for communities and primary producers 
+of the region as a basis for assessing required changes, barriers to change, and 
+opportunities to improve drought resilience. The baselining study provides 
+valuable insights into drought impacts in the GMC and WSC region. 
+NSW Government DroughtHub
+An online assistance and information portal for NSW primary producers to 
+prepare for and manage drought.
+26
+
+TOOL
+DESCRIPTION
+NSW Government AdaptNSW 
+website
+An online assistance and information portal to inform and empower 
+communities, businesses, households and government to adapt to climate 
+change.
+Farming Forecaster
+Managed by a consortium comprised of Monaro Farming Systems, South 
+East / ACT Local Land Services, Tablelands Farming Systems and Bookham 
+Agricultural Bureau, Farming Forecaster is an online dashboard providing 
+soil moisture content and landscape health data captured from regional soil 
+moisture probe networks.
+While the wealth of knowledge regarding drought and drought management is extensive, perhaps the largest 
+knowledge base is held by our Aboriginal peoples. This knowledge base is recognised in other elements of natural 
+resource planning within NSW, including the establishment of the Aboriginal Water Programs, focussed on 
+establishing a future where water for Aboriginal people is embedded in water planning and management in NSW 
+to improve access to, and ownership of, water for cultural, spiritual, social, environmental and economic benefit 
+to Aboriginal communities. A key element of this program is the establishment of Regional Aboriginal Water 
+Committees for Aboriginal people across NSW to provide advice on water planning and management, as well the 
+“Yarning with Communities” and engagement program for water resources at a local level. The potential to tap this 
+knowledge bank in the specific context of drought resilience has not been fully explored at this point in time.
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+27
+
+WHAT DO WE MEAN BY DROUGHT 
+AND RESILIENCE?
+What is drought? 
+There is no universal definition of drought, nor is there a single type of drought. At a high-level, the 
+Bureau of Meteorology (BoM) defines drought as a prolonged, abnormally dry period when the 
+amount of available water is insufficient to meet our normal use1 and states Drought is not simply 
+low rainfall; if it was, much of inland Australia would be in almost perpetual drought.
+Each drought period is accompanied by a range of factors that impact the environment, people, 
+and the economy in different ways. For this reason, drought is measured in different ways and at 
+different timescales:
+•	Meteorological drought occurs when there is a deficiency in current rainfall compared to the long-
+term seasonal average (negative deviation from the mean).
+•	Agricultural drought occurs when there is a moisture deficit in the soil during critical growing 
+seasons or there is a long-term impact on the producer’s capacity to produce feed for livestock.
+•	Hydrological drought occurs when there a prolonged moisture deficit leading to shortages in 
+surface water, groundwater and depleted dam and reservoir levels. 
+•	Socio-economic drought is the combined impacts of insufficient water supply on the flow of 
+economic goods and human wellbeing. 
+•	Snap droughts or flash droughts occur when there is an acute decline in rainfall coupled with a 
+rapid spike in temperatures causing soils to dry out quickly. 
+This RDRP does not adopt a strict single definition of drought when referring to abnormal periods 
+of dryness, rather it seeks to adopt a broad concept of drought which incorporates all the measures 
+above to examine the different pathways by which an abnormally dry period can impact on society, 
+the economy, and the environment. 
+1 http://www.bom.gov.au/climate/drought
+Source: John Carnemolla, iStock, 2024
+28
+
+What is resilience? 
+As with “drought”, there are similarly many potential definitions of resilience. For the purposes of this RDRP, the 
+United Nations Officer for Disaster Risk Reduction (UNDRR, 2022) definition of resilience has been adopted:
+The ability of a system, community or society exposed to hazards to 
+resist, absorb, accommodate, adapt to, transform and recover from the 
+effects of a hazard in a timely and efficient manner, including through 
+the preservation and restoration of its essential basic structures and 
+functions through risk management. 
+This definition highlights the multifaceted components of drought resilience. This is in accordance with standard 
+resilience frameworks that provide a conceptual framework for considering the various indicators contributing 
+to drought resilience or, conversely, drought vulnerability. The UN (2019) multiple dimensions model (Figure 3) 
+provides one such model, identifying vulnerability / resilience to drought as a function of two main elements:
+•	The adaptive capacity 
+•	The impact of drought
+A resilient region is one that has high adaptive capacity. It has the capacity to resist, absorb, accommodate, recover, 
+transform and thrive through a range of drought impacts.
+Figure 3: The multiple dimensions of drought vulnerability (Source: UN, 2019)
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+29
+
+Adaptive Capacity 
+Adaptive capacity is a critical component of 
+understanding the potential resilience of the region 
+because it considers and represents the resources 
+available to adapt to and absorb the impacts of drought 
+(ABARES, 2022). The UN (2019) describes these 
+resources as various forms of capital:
+•	Social capital – factors that impact social 
+connectedness (such as government, access to 
+services, employment and income distribution)
+•	Human capital – influences on the productivity of 
+people and labour (such as education and health)
+•	Financial capital – access to income, savings and 
+credit (such as income and debt level) 
+•	Manufactured capital – infrastructure and the built 
+environment 
+•	Natural capital – land, water and biological resources 
+of the region.
+Essentially, areas with greater capital resources are 
+likely to have higher adaptive capacity as the resources 
+are available to either moderate direct impacts or 
+redistribute capital as needed (i.e. a person with a 
+larger water tank is less likely to worry about a short 
+dry spell).
+This RDRP applies a similar consolidated lens, 
+viewing adaptive capacity across three inter-related 
+characteristics of our region:
+•	Economic adaptive capacity – The ability of the 
+economy to absorb the economic impact of shocks 
+and stressors without change the economic status 
+or outcomes (i.e. elements of financial capital, 
+manufactured capital, and social capital)
+•	Environmental adaptive capacity – The ability of the 
+natural environment to cope with a diverse range 
+of shocks and stressors while maintaining natural 
+processes and ecosystem services (i.e. natural capital, 
+elements of manufactured capital)
+•	Social adaptive capacity – The ability of human 
+society to cope with a diverse range of shocks and 
+stressors while maintaining existing social and 
+community functions (i.e. social capital, human 
+capital)
+In contrast to many other natural hazards, drought 
+typically represents a chronic stressor (i.e. a long-term, 
+slow burning issue that can incrementally overwhelm 
+the adaptive capacity of a region) rather than a shock 
+(i.e. a sudden large-scale event that disrupts the 
+economic, social and environmental systems). Based on 
+the engagement activities undertaken, the developing 
+stressors within the region are typically associated with 
+diminishing productivity, diminishing financial reserves 
+and income, diminishing water and feed supplies, 
+diminishing emotional reserves. The shocks of drought 
+are typically indirect in nature and associated with joint 
+probabilities of other hazards (e.g. bushfire, heatwaves 
+and flood). However, community engagement did 
+identify some direct drought shocks arising (e.g. mass 
+sudden vegetation die-back or fish kills) where certain 
+viability trigger levels are reached. The adaptive 
+capacity of a region needs to be able to handle both 
+shocks and stressors for the region to be considered 
+resilient.
+Figure 4: Components of drought adaptive capacity
+30
+
+Absorptive and Transformative capacity 
+While adaptive capacity is the focus of the UN (2019) framework, the resilience dimensions of absorptive capacity 
+and transformative capacity will also contribute to the resilience of the Goulburn Mulwaree and Wingecarribee 
+Shire Communities. It is important to acknowledge that resilience actions will not always relate to capacity to 
+adapt (availability of capital resources) but also the capacity to absorb and transform, and that all three resilience 
+dimensions will contribute to a systems-based approach to increasing drought resilience. 
+Oxfam (2017) describes absorptive and adaptive capacity as:
+•	Absorptive capacity – is the capacity to ‘bounce back’ from shocks and stressors such as extreme weather events. 
+Absorptive capacity involves the capacity of a community to anticipate, plan for, and cope with shocks and 
+stressors
+•	Transformative capacity – relates to fundamental changes in structures that cause vulnerability to a shock or 
+stressor, as well as the mechanisms for sharing risk amongst a community so that marginalised members are 
+not inequitably impacted. Transformative capacity typically relates to long-term structural changes and ongoing 
+changes. 
+Drought impact
+The consequence of a drought upon a community or region can be divided into two elements:
+•	Exposure – the exposure of the region to drought conditions (e.g. how common an occurrence is drought within 
+our region and will this change into the future). A brief history of our regions previous exposure to drought and 
+potential drought future is provided below.
+•	Sensitivity – the responsiveness of a region to a drought when it occurs (e.g. a house that only has a small water 
+tank may quickly and severely notice a reduction in rainfall). The challenge with drought is that the impact 
+pathways are numerous and complex. A description of the major impact pathways and associated sensitivities for 
+our region is provided below.
+Typically, the exposure of a community to drought hazard and the sensitivity of a community to drought hazard are 
+used to describe the potential for adverse impacts to arise as result of drought. Against such impacts, the adaptive 
+capacity of the community can be overlain to manage and mitigate these impacts, revealing ultimately the true 
+resilience/vulnerability of the community to drought.
+Applying the theory
+For the purpose of this RDRP a simplified exploration of adaptive capacity and drought impacts was undertaken 
+through literature review and community engagement, seeking to: 
+•	Identify exposure and sensitivity to drought by understanding the lived experience of community members 
+and evaluating historic data sources to reveal the direct impacts of drought across the region’s environmental, 
+economic and social systems
+•	Identify the adaptive capacity of the region through assessment of key indicators and community sentiment as to 
+the region’s strengths and weaknesses regarding preparation, response and recovery to drought.
+Combining these two elements, the RDRP describes the environmental, economic and social resilience of our 
+region and recommends a suite of actions to further strengthen this resilience. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+31
+
+OUR REGION 
+AND OUR DROUGHTS
+Source: Tarago landscape, Goulburn Mulwaree Council, 2024
+32
+
+Like much of rural Australia, the Goulburn Mulwaree and Wingecarribee Shire region has a long relationship with 
+drought. The agricultural foundations of the area go together with living through climatic challenges of all types. 
+The region has experienced several drought periods since European settlement, and many hundreds prior to it. 
+The Bureau of Meteorology records significant drought periods affecting the region over the last century as:
+•	The Federation Drought (1895 to 1902)
+•	The 1914 to 1915 Drought
+•	The World War II Drought (1938 to 1945)
+•	The 1965 to 1968 Drought
+•	The 1982 to 1983 Drought
+•	The Millennium Drought (1997 to 2009)
+•	The 2017 to 2019 Drought.
+
+This is roughly one significant drought every 20 years. To assess the current drought resilience of the region, the 
+environmental, social and economic impacts of the Millennium Drought and 2017 to 2019 Drought have been 
+reviewed, while noting the broader definition of drought being considered as part of the RDRP. These two droughts 
+represent those for which the most robust data sets exist.
+Both these droughts were followed by devastating bushfires, with the 2009 fires following the Millennium Drought 
+and the 2019/2020 bushfires following the 2017-2019 drought. 
+Source: Streetscape, Bundanoon, Destination NSW
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+33
+
+The Millennium Drought
+The Millennium Drought occurred between 1997 and 2009, severely impacting the southeast and southwest of 
+the continent. A defining feature of the Millennium Drought was the prolonged periods without significant rainfall 
+episodes during the cooler seasons (Figure 5) coupled with above average summer temperatures, particularly 
+at the tail end of drought between 2005 - 2007. The combination of prolonged dryness coupled with above 
+average summer temperatures severely depleted major water storages, devastated cropping regions of NSW 
+and Queensland and led to the introduction of extreme water restrictions across the towns and cities of eastern 
+Australia. 
+Figure 5: Millennium Drought Rain Deciles (Source: BOM, 2020)
+34
+
+The 2017 to 2019 Drought
+The 2017 to 2019 Drought was preceded by a period of high rainfall over the winter and spring of 2016 followed by 
+a sharp decline in 2017 through to 2019. The drop in rainfall was particularly acute within the Murray Darling Basin 
+region, where the 36-month period between 2017 to 2019 was the driest on record. The 2017 to 2019 Drought was 
+characterised by intense dry conditions in the cool seasons, followed by moderate rainfall in the October-December 
+period in 2017 and 2018. 2019 was particularly dry, with the extreme cool season dryness extending into the 
+warmer months of October – December. Figure 6 shows the intense dryness of the April-September period 
+(right) within the 36-month drought period (left). It can be observed that the rain decile ranges indicate that the 
+April-September period was the driest on record in the region. 
+Figure 6: 2017-2019 Rain Deciles - (L) average annual rainfall (R) average rainfall April - September (Source: BoM 2019)
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+35
+
+LIVED EXPERIENCE
+The impact of these events for our region were extensive and diverse. A more detailed assessment of the impacts 
+of drought against key indicators is discussed in the assessment of Adaptive Capacity, however, the following 
+aspects highlighted by local communities and media at the time provide a snapshot of the breadth of impact 
+pathways arising:
+•	Environmental:
+	- Increased death of wombats in the region because of increased mange spread as wombats are 
+forced to congregate closer together to access feed
+	- Loss of habitat and water led to migration of hundreds of thousands of bird species away from 
+the region, affecting local pollination while also causing issues for areas receiving new bird 
+species
+	- No soil moisture means propagation of seeds is reduced and reduced ecological growth and 
+diversity
+	- Higher probability of invasive weed incursions due to absence of climate limitations on some 
+species capacity to survive
+	- Interruption of community volunteer native tree planting programs.
+•	Economic:
+	- Significant farm operational cost increases to cover feed and water
+	- Increased cattle yard sales as farmers look to reduce stock in response to higher cost of feed and 
+water
+	- Loss of investment in breeding and adaption of livestock to local conditions when farms destock 
+	- Local stock feed growth not possible due to lack of soil moisture and high costs of carting water
+	- Coming out of drought, farmers are faced with uncertainty and limited funds as to whether to 
+invest in restocking strategies or to seek alternate income opportunities
+	- Landowners recovering from drought may feel the need to invest in protection of natural 
+resources and soil reserves which help recovery after drought, but the economic returns are 
+likely only to be felt 20 years later after the next drought.
+•	Economic / Social
+	- Cancellation of annual events such as the Goulburn All-Breed bull sale which act as broader 
+community-shaping activities
+	- During the Millennium Drought the Goulburn municipal water supply, serving over 20,000 
+people reached critically low levels with less than 12 months of supply remaining
+	- City of Goulburn spent more than 2 years on the top level of water restrictions in the Millennium 
+Drought, forcing behavioural changes and business operational changes
+	- Farms and agricultural companies reduce investment on social activities (e.g. removing 
+sponsorship of local sporting clubs) leading to reduced community activities and cohesiveness. 
+36
+
+•	Social
+	- Water restriction changing the culture regarding household water use also leading to lower 
+sanitation and hygiene outcomes and social tensions between those who follow the restriction 
+and those who do not
+	- Negative community sentiment towards other regions due to water reserves being utilised 
+in other regions, such as Wingecarribee Reservoir used to augment water supply to Greater 
+Sydney and Shoalhaven 
+	- Closure of recreation facilities such as local swimming pools and sporting fields reduces 
+opportunities for social interaction 
+	- Loss of established farms leading to secondary impacts on town businesses, employment and 
+schools
+	- Emotional distress at loss of crops and gardens due to insufficient watering
+	- Emotional distress at lax water attitudes in neighbouring LGAs and regions where available 
+water reserves were not at risk to the same extent
+	- Farmers working 7 days a week sourcing feed and water, with associated high stress and fatigue 
+and limited time for families or recreation.
+While the array of negative impacts is substantial, the drought also led to the creation of many initiatives and 
+actions, from both within the community and government, that strengthened the community identity and bonds of 
+our region, including:
+•	Establishment of Mayoral Emergency Relief Funds, 
+through which business and individuals contributed 
+to support their affected farmers
+•	Wingecarribee Shire Council formally supported 
+farmers through the deferral of rates payments
+•	Resilience Ready Expo’s coordinated local community 
+associations
+•	The Country Women’s Association playing an active 
+role in coordinating community events and providing 
+support and connection to households during 
+drought
+•	Goulburn Mulwaree Council initiative providing 
+farmers with 450 bales of hay delivered by the Rapid 
+Relief Team Goulburn 
+•	Establishment of The Big Dry Regional Services 
+Guide providing online information for those seeking 
+financial, emotional, and health support services 
+across drought affected areas
+•	Goulburn Mulwaree Council coordinating water 
+carting services for residents not on mains water 
+Financial Counsellors free services 
+•	Establishment of the NSW Government’s Farm 
+Tracker system, enabling farmers to access timely 
+support information to aid decision making
+•	Government introducing low interest loans to 
+increase feed and water storage to manage dry 
+conditions.
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+37
+
+FUTURE DROUGHT PROJECTIONS AND IMPACTS
+Current climate change forecasts suggest that drought conditions are expected to worsen across the broader 
+south-east NSW region. While both Goulburn Mulwaree and Wingecarribee may not be as exposed as other more 
+inland LGAs, both the frequency and magnitude of drought is anticipated to increase. This will be driven by:
+•	Long term reduced average annual precipitation (Figure 7)
+•	Long term increases in summer and spring temperatures, leading to increased evapotranspiration and reduced 
+soil moisture (Figure 8).
+Figure 7: Change in annual mean precipitation (adapted from the South East NSW Resilience 
+Blueprint (CRJO, 2022)
+Figure 8: Change in annual mean soil moisture percentiles (adapted from the South East 
+NSW Resilience Blueprint (CRJO, 2022)
+38
+
+The NSW Office of Environment and Heritage South 
+East and Tablelands Climate change snapshot forecasts:
+•	Maximum summer and spring temperatures are 
+projected to increase by 2.4oC by 2070, with the 
+greatest increases in temperatures likely to be 
+experienced away from the coast (Figure 9)
+•	Minimum temperatures are expected to increase by 
+2.0oC by 2070
+•	Spring rainfall is projected to decrease, while 
+autumn and summer rainfall is projected to increase. 
+Increased warm weather rainfall is likely to mean that 
+water storages and soil moisture will be adversely 
+impacted by evaporation, compounding the impacts 
+of lower cool weather rainfall
+•	The region, on average, is projected to experience 
+an extra three days above 35oC per year by 2070, 
+while the area to west of Goulburn is projected to 
+experience up to 30 additional days above 35oC by 
+2070 (Figure 10). 
+Projected changes
+DECREASING
+INCREASING
+INCREASING
+DECREASING 
+IN SPRING
+INCREASING 
+IN AUTUMN
+INCREASING
+Figure 9: South East Climate Change Snapshot 
+(Source: NSW OEH, 2014)
+South East 
+Tablelands
+Change in annual 
+average number 
+of days with 
+temperatures  
+above 35°C
+>40 
+30 – 40 
+20 – 30 
+10 – 20 
+5 – 10 
+1 – 5 
+0 – 1
+Figure 10: Projected changes in number of days with 
+max temperature above 35oC (Source: NSW OEH, 2014)
+Without appropriate intervention and planning, 
+the drought impacts currently incurred are likely to 
+significantly worsen. Figure 11 suggests that by 2070, 
+Wingecarribee LGA will face a 20% increase in the 
+likelihood of drought by 2070, with the Goulburn 
+Mulwaree LGA will face a 33% increase. 
+Figure 11: Change in annual mean drought index (Keetch-Byram index values) (adapted from 
+the South East NSW Resilience Blueprint (CRJO, 2022)
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+39
+
+OUR DROUGHT 
+RESILIENCE 
+Based on the results of the community engagement undertaken, impacts and effects of previous drought and 
+assessment of key indicators, the RDRP undertook a LGA specific evaluation of the Adaptive Capacity, Exposure and 
+Sensitivity to drought.
+ADAPTIVE CAPACITY 
+The adaptive capacity dimensions of Goulburn Mulwaree are summarised in Table 4, and Wingecarribee Shire in 
+Table 5.
+Overall, the two LGAs appear to have relatively strong capital resources that could contribute to the adaptive 
+capacity of the region. The two LGAs display, at a high level, a relatively healthy and educated population 
+with highly diversified economies. The high proportion of land use (natural capital) for agricultural purposes 
+appears to be the clear impact pathway for drought conditions to affect the two LGAs socially, economically, and 
+environmentally. For both LGAs, agricultural activities represent the dominant land use.
+Source: Andrii Medvediuk, iStock, 2024
+40
+
+Table 4: Adaptive capacity dimensions of Goulburn Mulwaree Council (Source: Informed Decisions, Rhelm)
+DIMENSION 
+INDICATOR 
+Social capital: 
+Income distribution: Income 
+distribution is in line with 
+Regional NSW, with slightly 
+higher proportion of population 
+in medium-higher income ranges 
+than the Regional NSW average. 
+From a social capital perspective, 
+this indicates there is not a high 
+proportion of income disparity in 
+the region. 
+Employment: Current 
+unemployment rate of 3.2%, 
+diversified employment with low 
+dependency on agriculture sector 
+for job creation. The economic 
+mix is in line with Regional NSW 
+average. 
+This mix of employment indicates 
+there is a not a strong reliance on 
+one sector of the economy for job 
+creation.
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+41
+
+Natural capital
+Land use: Goulburn Mulwaree 
+land use is characterised by a 
+high proportion dryland grazing 
+(brown) and dryland cropping 
+(yellow), with some nature 
+conservation land on fringes 
+(purples)
+Water supply: The LGA has a 
+diversified water supply however 
+all are likely to become strained 
+during drought periods. 
+There are three major water storages for the Goulburn Mulwaree region 
+are:
+•	The Pejar Dam (9,000ML at capacity) on the Wollondilly River
+•	The Sooley Dam (4,140ML at capacity) on the Bumana Creek
+•	Rossi Weir (330ML) downstream on the Wollondilly River
+The town of Goulburn is also able to source water from the Wingecarribee 
+Reservoir via the Highland Source Pipeline.
+Human Capital
+Education level: All levels of 
+education have increased over the 
+last 20-years, representative of the 
+changing mix of economic activity 
+over time. A higher proportion 
+of educated population is likely 
+to strengthen human capital 
+due to increased employment 
+opportunities. 
+42
+
+Human Capital
+Health and disease prevalence: 
+around 50% of the population 
+report no long-term health 
+conditions, while the number 
+of people reporting a mental 
+health condition is in line with the 
+Regional NSW average (1 in 10). 
+Population age distribution: 
+The population distribution of 
+Goulburn Mulwaree is in line with 
+the Regional NSW average, with 
+a slightly higher proportion of the 
+population in the 55-75 age range 
+and slightly lower proportion in 
+the 25-45 age range. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+43
+
+Economic Capital
+Gross Regional Product: GRP 
+growth is observed to be stable 
+over time, and not to be sensitive 
+to water intensive industries such 
+as agriculture 
+Value add by industry: Health 
+care and social services and 
+construction are highest value 
+industries. The high value of non-
+agriculture output provides some 
+buffering of the economy during 
+drought periods. 
+44
+
+Table 5: Adaptive capacity dimensions of Wingecarribee Shire (Source Informed Decisions, Rhelm)
+DIMENSION 
+INDICATOR 
+Social capital: 
+Income distribution: 
+Wingecarribee Shire has a 
+relatively higher proportion of 
+middle-to-high-income earners 
+than the Regional NSW average, 
+and a relatively low proportion of 
+low-income earners. 
+Employment: The current 
+unemployment rate is 3.2%, with 
+diversified employment and low 
+dependency on agriculture sector 
+for job creation. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+45
+
+Natural capital
+Land use: Wingecarribee Shire 
+land use is characterised by a high 
+proportion of natural conservation 
+land (purple), and dryland grazing 
+(brown) 
+Water Supply
+The Wingecarribee Reservoir 
+may be likely to come under 
+strain during drought conditions, 
+meaning the region may be 
+exposed to water security issues. 
+The Wingecarribee Reservoir, located on the Wingecarribee River, about 15 
+km southeast of Bowral is the main source of water for communities within 
+the Wingecarribee Shire. The Wingecarribee Reservoir has a capacity of 
+around 30,000 ML and is part of the Shoalhaven Scheme, which during 
+drought conditions is drawn on to augment Sydney and Illawarra water 
+supplies.
+Under the Greater Sydney Water Sharing Plan, water supply to 
+Wingecarribee Shire can be augmented from Tallowa Dam under limited 
+conditions (access to water below -1 metre storage levels is not permitted). 
+Human Capital
+Education level: Higher education 
+levels have increased over the 
+last 20-years, representative of 
+changing demographics. Higher 
+education levels may enhance 
+adaptive capacity due to increased 
+employment opportunities.
+46
+
+Human Capital
+Health and disease prevalence: 
+around 55% of the population 
+report no long-term health 
+conditions, while 1 in 8 report a 
+mental health condition, which is 
+slightly higher than the average for 
+Regional NSW (1 in 10). 
+Population age distribution: 
+Wingecarribee Shire has an aging 
+population when compared to the 
+Regional NSW average. While this 
+age category is primarily non-
+agricultural, drought impacts are 
+likely to be experienced through 
+water restrictions and urban 
+amenity impacts (loss of green 
+space etc)
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+47
+
+Financial and Economic Capital
+Gross Regional Product: GRP 
+growth is observed to be stable 
+over time and not to be sensitive 
+to water intensive industries such 
+as agriculture 
+Value add by industry: Health 
+care and social services and 
+construction are highest value 
+industries. High value of non-
+agriculture industries is likely to 
+increase adaptive capacity as 
+there is low dependency on water 
+sensitive industries. 
+48
+
+EXPOSURE TO DROUGHT 
+Within the region, rainfall and temperature conditions during the Millennium Drought and 2017-2019 Drought 
+were similar to those observed across most of southeast NSW. Figure 12 and Figure 13 show that rainfall 
+was generally higher in January than July, and that periods of high rainfall were often accompanied by high 
+temperatures. It is shown in Figure 12 and Figure 13 that the low rainfall in 2017 and 2019 was accompanied by the 
+highest January temperatures in the 20-year period depicted in the figures. 
+In terms of the various types of droughts, the NSW Department of Primary Industries (NSW DPI) began publishing 
+the NSW Seasonal Update in 2017. The NSW Seasonal Update includes regional drought ratings based on the 
+Combined Drought Indicator (CDI). The CDI uses remote sensing and on-ground reports to measure the drought 
+indicators of rainfall, soil moisture and plant growth against long-run average to assess phases of drought. A 
+CDI rating of Drought or Intense Drought indicates that a single or all three drought indicators, respectively, are 
+significantly below the long run average. The CDI is not a declaration of drought, rather it is an information tool for 
+primary producers to stay informed of prevailing climatic conditions.
+The CDI indicators for South Eastern NSW as of December 2019 are shown in Figure 14 and Figure 15. Figure 
+14 indicates that, for the 12 months to 2019, much of the region was in experiencing either Drought or Intense 
+Drought conditions. Figure 15 shows vegetation density in December 2019 was well below the long run average 
+(> -5%), signifying that agricultural activity had been severely impacted by insufficient rain and prolonged low soil 
+moisture levels for the previous 12 months.
+Figure 12: January and July Rainfall: Goulburn (Goulburn TAFE AWS) and Wingecarribee (Moss Vale AWS) (Source: BoM)
+Figure 13: January and July Temperature: Goulburn (Goulburn TAFE AWS) and Wingecarribee (Moss Vale AWS) 
+(Source: BoM)
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+49
+
+Figure 14: Combined Drought Indicators for South East NSW - 12 Months to December 2019 (NSW DPIRD, 2019)
+50
+
+Figure 15: Vegetation Index for South East NSW as at December 2019 (NSW DPIRD, 2019)
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+51
+
+ASSOCIATED HAZARD SHOCKS
+While drought is primarily a slow onset natural hazard stressor, it can be associated with an array of 
+inter-related rapid natural hazards, including:
+•	Extreme temperatures and heatwaves – Acute extreme temperatures can lead to health risks, 
+particularly of aging populations, as well as higher energy costs for associated cooling. Such events 
+can rapidly exacerbate existing drought conditions by rapidly reducing remaining surface and soil 
+water/moisture
+•	Bushfire – The likelihood and severity of bushfires increases with the moisture content present 
+within the available vegetation and decaying matter. Drought condition, particularly early on in 
+their formation can significantly increase drought risk. The magnitude of the 2020 fires in the area 
+were enhanced through the preceding 2017-19 drought
+•	Flood – The occurrence of a flood does not necessarily represent the end of a drought and often 
+the first flood following a drought can be severe as the hardened nature of the ground increasing 
+imperviousness as well as the presence of high volumes of litter and material entrained by the 
+floods
+•	Dieback – the gradual loss of water sources for ecological communities may reach a tipping point 
+for some communities, beyond which the ecological community effectively collapses because of 
+core elements (often trees or fresh water for aquatic communities) dying/disappearing. Such shifts 
+can be sudden and are often dramatic visual impacts to surrounding residents
+•	Dust – For prolonged droughts, pending the nature of the region, the loss of moisture within soils 
+can lead to increased likelihood of dust-storm occurrence. While ranging significantly in size and 
+impact, larger events can significantly affect local air quality and can be associated with health 
+issues for aging populations.
+LOCAL DROUGHT IMPACT PATHWAYS AND 
+SENSITIVITY
+When a community is exposed to a drought, the magnitude of impact within the community (i.e. the 
+sensitivity of the community to the drought) will reflect the characteristics of the community and the 
+impact pathways present: the relational link between the effect of the drought and the economic/
+environmental and social activities of the community. Key impact pathways present within our 
+region include:
+•	Transport and connectivity 
+	- Road and transport infrastructure condition 
+may deteriorate during drought, increasing 
+transportation costs
+	- Our community has limited access to public 
+transport in some locations, reducing access 
+to services, particularly for community 
+members without access to private 
+transport. This socio-economic disadvantage 
+may deteriorate further under drought 
+conditions.
+•	Housing and property
+	- Increase housing/mortgage/rent stress 
+because of lower incomes and greater 
+expenditure on responding to drought
+	- Low rental incomes as renters move out of 
+the drought affected area
+	- Housing stock condition deteriorates as 
+maintenance works diminish
+	- Rural small holdings may not be well 
+managed during drought leading to 
+increased risk of associated natural hazard 
+shocks, weeds and pest growth.
+52
+
+•	Health and Wellbeing
+	- While larger health centres are available in both 
+Sydney and Canberra, the limitation of the region’s 
+immediate health care service providers can 
+struggle to meet the provision of continuous and 
+adequate health care support (particularly mental 
+health) during droughts
+	- Aging populations, like those within Wingecarribee 
+Shire, are more sensitive to drought impacts than 
+younger populations. In particular, social isolation, 
+mental health and the ability to access services are 
+issues of concern.
+•	Employment and businesses
+	- The region can face the inability to attract skilled 
+workforce as a results of drought conditions
+	- Unemployment rates typically increase during 
+drought, particularly for economies that lack 
+diversity in industries, as lower productivity and 
+reduce incomes decreases workforce demand.
+•	Industry
+	- Both LGAs have a historic heavy reliance upon 
+agriculture and related services for income and 
+employment, naturally increasing the sensitivity of 
+the economy to drought 
+	- Drought induced lack of feed within the agriculture 
+sector leads to increased importation of feed from 
+other areas, and with it, increased pests and weeds.
+•	Land and Water
+	- The Wingecarribee LGA, due to its connectivity 
+to the substantial resource of the Greater Sydney 
+Water Catchment areas has a relatively high-water 
+security.
+	- The Goulburn Mulwaree LGA, since the completion 
+of the Highland Source Pipeline, also has access to 
+water supplies of Greater Sydney Water Catchment, 
+although this did not prevent the need for water 
+carting in the 2017-2019 drought. 
+	- Both LGAs have over 30% of the total population 
+not connected to the Council/Sydney Water 
+operated distribution network and must rely on 
+their own water sources
+	- Competition for limited water supplied between 
+land-owners and large industry, such as mine 
+operators requiring extractive water for dust 
+suppression 
+	- Drought related land and water degradation can 
+lead to significant native eucalypt and vegetation 
+dieback, amenity impacts, and cultural implications 
+and impacts to Aboriginal peoples.
+DROUGHT RESILIENCE ASSESSMENT
+A review of the adaptive capacity, exposure and sensitivity of our region as presented above allowed the 
+identification of the resultant drought resilience strengths, weaknesses, opportunities and threats (SWOT) across 
+our economic, environmental and social systems. The SWOT components are defined as:
+•	Strengths are existing positive attributes of the region that already contribute to drought resilience 
+•	Weaknesses are attributes of the region that could be improved to enhance drought resilience 
+•	Opportunities are positive factors of the region that could be harnessed to contribute to enhance drought 
+resilience
+•	Threats are external conditions that negatively impact drought resilience now and into the future.
+The SWOT assessment results are presented in Table 6.
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+53
+
+Table 6: SWOT assessment
+SOCIAL 
+ECONOMIC
+ENVIRONMENTAL
+Strengths
+The Regional Economic and 
+Development Strategies (REDS) 
+summarised in Table 2 highlight 
+the strength in regional social 
+institutions, such as healthcare, 
+governance and law and order. 
+The regional population as a 
+whole is both in good health and 
+higher education levels have been 
+increasing over the last 20-years, 
+indicating a reasonable level of 
+social adaptive capacity.
+The region has highly diversified 
+economies with relatively low 
+dependency on water sensitive 
+industries such as agriculture
+Stakeholders reported that there 
+has been an improvement in the 
+natural resource management 
+(NRM) farming practices over the 
+last 20-years and provided examples 
+LLS programs and locally developed 
+technology to provide warnings of 
+the onset of drought (for example, 
+soil moisture monitoring equipment 
+that informs drought planning - 
+when moisture drops to 80% below 
+average signals it’s time to destock 
+and preserve feed).
+Weaknesses
+Both LGAs within the region are 
+characterised by aging populations 
+which may be more susceptible to 
+physical health impacts and risks 
+associated with drought. 
+Stakeholders reported that regional 
+communities can become socially 
+isolated in times of drought and that 
+it is hard to know who is struggling 
+with mental and physical health. 
+Stakeholders also reported that 
+there is a lack of awareness of 
+where to go to seek help. 
+Stakeholders reported that the 
+changing demographics of the 
+region can create tensions during 
+drought periods as people less 
+familiar with rural living ignore 
+waters conservation warnings and 
+property maintenance.
+The recent evolving demographic 
+nature of the region has led to a 
+loss of local drought knowledge and 
+social support networks which are 
+important during times of stress. 
+While the diversified economies 
+of the region provide economic 
+resilience in terms of total economic 
+output, the agricultural industry 
+remains highly sensitive to the 
+impacts of drought. Stakeholders 
+also reported that impacts on the 
+agriculture industry are likely to 
+affect related wholesale and retail 
+industries, and that downturns 
+in agriculture are likely to be felt 
+economically in the smaller towns 
+and villages more so than the larger 
+regional centres. 
+Stakeholders reported that while 
+the sections of farming community 
+maintain drought management 
+plans, a large portion of the farming 
+and broader commercial community 
+do not maintain plans. Time, cost, 
+and knowledge were seen as the 
+main barriers to plan development. 
+Stakeholders reported that feed 
+security is an economic challenge 
+for sheep and cattle farmers in the 
+region, this has been exacerbated 
+by changing ownership and use 
+of properties previously used as 
+cropping for hay.
+Stakeholders reported that there 
+is some resistance to adopt more 
+NRM farming practices amongst 
+established farmers, and that 
+distributing information and sharing 
+knowledge within the farming 
+community is a challenge. 
+Stakeholders also reported that 
+management of invasive weeds and 
+wildlife management is challenging 
+during drought periods, particularly 
+on vacant lots, and lots with 
+absentee landowners. 
+The increased importation of fodder 
+increases the risk of biosecurity 
+hazards such as priority weeds, 
+feral animals, disease and insects 
+incursions for example fire ants.
+Regional economic strategies 
+identify the increased water 
+and land use demand posed by 
+residential population growth and 
+housing developments as a key 
+challenge for future water security. 
+54
+
+SOCIAL 
+ECONOMIC
+ENVIRONMENTAL
+Opportunities
+Stakeholders reported that existing 
+community-based groups (such as 
+the Country Women’s Association 
+and local Men’s Sheds) provide 
+an informal support service for 
+community members during times 
+of drought and climate stress. The 
+community groups could provide 
+important learnings of the type 
+of social issues occurring, and 
+preferred methods of community 
+engagement and support resources. 
+There is an opportunity 
+for the establishment of a 
+community-based group contact 
+register to champion drought 
+related welfare resources. 
+There is an opportunity for strong 
+social institution (strength) to act as 
+information and response centres 
+during drought onset and drought 
+periods.
+The REDS summarised in Table 2 
+demonstrate that both LGAs are 
+actively seeking options to diversify 
+the agriculture industry and invest 
+in infrastructure to improve drought 
+resilience. Examples include 
+the equine industry growth and 
+investment in regional saleyards and 
+knowledge hubs. 
+Improving rainfall independent 
+supply and groundwater aquifer 
+recharge is a state and regional 
+priority and the RDRP could seek to 
+identify local rainfall independent 
+supply schemes to leverage the 
+state level strategic priorities.
+Stakeholders identified that while 
+changing demographics and vacant 
+landowners’ properties may 
+present a social and environmental 
+challenge, the vacant land 
+may present opportunities for 
+community-based land leasing feed 
+banks schemes or co-ops where 
+vacant land is used to grow crops 
+for feed, or intensive farming (i.e. 
+wheat or cereals). 
+The state and regional strategies 
+summarised in Table 2 emphasise 
+that maintaining healthy waterways 
+and landscapes are a state and 
+regional planning priority. 
+The RDRP for the region should seek 
+to leverage this strategic priority 
+where possible.
+There is an opportunity to expand 
+the use of locally developed soil 
+moisture monitoring technology 
+across the entire region. 
+There is also an opportunity to 
+leverage State based drought 
+forums such as NSW DPI Seasonal 
+Update, Drought Signals Dashboard 
+and CDI to provide leading 
+indicators to the community of the 
+onset of drought. 
+Increased development across 
+towns and villages increases the 
+capacity for water catchment on 
+private land through the installation 
+of stormwater capture on buildings. 
+Ensuring this captured water is 
+used for services such as flushing 
+of toilets and watering gardens 
+can ease some of the stress on the 
+municipal supply.
+There is an opportunity to establish 
+a working relationship with 
+WaterNSW to better forecast water 
+demand for the region, particularly 
+the demands of the increasing 
+residential population. 
+Threats
+In a drought resilience sense, the key social economic and environmental threat to the region is the predicted 
+changes in climate. The rising temperatures, decreases in cool season rail and increases in warm season rain are 
+likely to be a threat to water security and landscape health.
+Stakeholders identified water security as a key issue for the area and communicated a desire for the RDRP to 
+address water security issues. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+55
+
+OUR DROUGHT 
+RESILIENCE ACTION PLAN
+Source: Stephenallen75, iStock, 2024
+56
+
+Empowering our communities to enhance drought resilience through 
+co-operative action
+Our Action Plan is presented in themes, actions and timeframes (short, medium, and long). The themes emerged 
+over the program of stakeholder engagement as recurrent issues of concern for the region’s community. The 
+actions are primarily stakeholder identified actions, that are specific, readily implementable, and measurable. The 
+actions aim to build social cohesion through resourcing the community to build knowledge and provide care, and 
+to create networking opportunities so those existing knowledge holders within the community can share their 
+experience. The actions are designed to offer practical solutions that will build the region’s cooperative pathway to 
+a more resilient future.
+The four resilience themes that guide our priority resilience actions are (Figure 17):
+Resilient local 
+communities
+Resilient local 
+economy
+Resilient 
+landscapes
+Resilient domestic 
+water supply
+Stakeholders identified a number of actions under each of these themes. The adoption of resilience actions put 
+forward by the community within this plan were based on an assessment of their: 
+•	Alignment with community sentiment and concern
+•	Alignment with the overall RDRP vision for the region
+•	Similarity / duplication of other initiatives already 
+underway 
+•	Clarity of implementation pathway
+•	Alignment with established regional community plans 
+and strategies 
+•	Effectiveness in addressing regional drought 
+resilience.
+This RDRP Plan is preceded by a Draft RDRP that was independently evaluated by the CSIRO against a set of 
+evaluation criteria. A set of five resilience themes, five priority actions and twenty-one secondary actions were 
+included in the Draft RDRP. These actions were socialised with key stakeholder groups for feedback in a series 
+of workshops. The CSIRO evaluation and stakeholder engagement has led to the revisions of actions to be 
+‘foundational’ or ‘sequential’, and revised action plan comprised of four themes, four foundational actions and 
+twenty-three sequential actions. Within the twenty-seven actions (4 foundational and 23 sequential), ten actions 
+have been revised from the draft plan. Lastly, CSIRO provided several suggestions for future plan changes to be 
+applied over time as circumstances and knowledge change. The list of suggestions for future plan changes is 
+provided at Appendix C. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+57
+
+A high-level set of criteria were adopted to establish a sequential pathway towards the identified outcomes for each 
+resilience theme. Prioritising the actions in a sequential pathway or, ‘adaption pathway’, ensures that the actions 
+that will provide the foundation and build momentum for future resilience actions are prioritised and presented 
+in an actionable format to encourage short-term implementation. The adaption pathway approach ensures that 
+resilience measures are appropriately scaled and provide the region with a level of flexibility in incorporating 
+continued learning into resilience building. 
+The criteria adopted are summarised in Table 7. 
+Table 7: Sequential priority criteria
+PRIORITY LEVEL
+CRITERIA
+Foundation action
+Momentum building actions that provide the foundation for future actions. The actions 
+have a low risk of over investment, high ease of implementation and high likelihood 
+of short-term improved resilience. The Foundation actions are likely to maintain or 
+modify current systems, rather than transform.
+Sequential or 
+supporting action
+Actions that are sequential in nature and have a moderate-to-high risk of over 
+investment, medium-to-long term improvement in resilience. The sequential actions 
+may maintain, modify or transform current systems.
+It is acknowledged that several legitimate drought resilience issues and actions were identified by stakeholders that 
+are established as priority actions in other Local and State Government plans, such as economic diversity actions 
+covered by Regional Economic Development Strategies (REDS) and water sharing challenges managed by NSW 
+Water Sharing Plans. These actions have not been included within this plan.
+Source: Bowral, iStock, Kokkai Ng, 2024
+58
+
+Vision: We seek to develop communities that are prepared, active and structured in such a way that, 
+when under the stress of drought, our economies remain prosperous, our communities remain connected, 
+and our environment is protected
+RESILIENCE 
+THEME
+RESILIENT LOCAL 
+COMMUNITIES
+RESILIENT LOCAL 
+ECONOMIES
+RESILIENT 
+LANDSCAPES
+RESILIENT WATER 
+SUPPLY
+Impact
+Regional communities are 
+resourceful, connected & 
+thriving
+Local businesses are informed, 
+resourced and prepared
+Agricultural landscapes 
+are sustainable, 
+functional, with healthy 
+natural capital
+Regional water supply is 
+secure, sustainable and 
+resilient to shocks. 
+Resilience 
+Outcomes 
+(S1) More community 
+members are resourced 
+to provide community led 
+intervention
+(S2) Stronger community 
+connectedness and greater 
+awareness contributing to 
+community wellbeing
+(EC 1) More local businesses 
+adopt strategies to reduce 
+financial exposure to drought
+(EN1) More primary 
+producers preserve 
+natural capital while also 
+sustaining productivity 
+and profitability. 
+(EN 2) More primary 
+producers adopt whole-
+of-system approaches 
+to NRM to restore the 
+natural resource base 
+and preserve long-term 
+landscape health.
+(S3) More water users 
+are informed about water 
+security issues and adopt 
+sustainable water use 
+practices to sustain water 
+supply
+Foundation 
+Action
+1.0 Creation of a dedicated 
+(part-time) Resilience Officer 
+resource, to be funded by 
+DRF grant 
+2.0 Formalise networks, 
+accountabilities and roles for 
+promoting pro-active ‘good-
+year’ business planning 
+3.0 Creation of a 
+(temporary part-time) 
+Agriculture Outreach 
+Officer role
+4.0 The establishment 
+of water sharing and 
+availability online 
+dashboard to increase 
+community awareness 
+and visibility of water 
+management during 
+drought 
+Secondary 
+Actions
+1.1 Identify opportunities 
+for collaboration between 
+organisations providing 
+rural health care programs 
+(e.g. RAHMP) and local 
+community organisations 
+(farming groups, sporting 
+clubs etc) to promote 
+wellbeing
+1.2 Engage with real estate 
+and property agents 
+regarding access pathways 
+for support and education 
+regarding drought
+1.3 Develop a community 
+‘first-aid’ kit to assist in 
+community driven out-reach 
+in times of drought and 
+climate stress
+1.4 Establish and formalise 
+network of community 
+organisation leaders to 
+coordinate and promote 
+drought response measures 
+(e.g. 1.5).
+1.5 Establishment of 
+network of community 
+‘drop-in centres’ or ‘drought 
+support hubs’ at community 
+organisation locations 
+1.6 Establishment of a youth 
+resilience ambassador role
+1.7 Identify the needs of 
+young people during periods 
+of climate stress and create a 
+10-point Youth Action Plan.
+2.1 Promotion of proactive 
+‘good-year’ business resilience 
+planning through creation of 
+online ‘resilience’ planning 
+template and online resource 
+directory 
+2.2 Organise business 
+networking events for local 
+businesses to share learnings on 
+resilient business practices
+2.3 Investigate opportunities 
+for non-agricultural major 
+events to attract tourism to 
+the region, including greater 
+utilisation/activation of town 
+and village assets typically used 
+for agricultural purposes such 
+as regional show grounds or 
+properties 
+2.4 Investigate opportunities for 
+Aboriginal community led water 
+/ land tourism operations
+2.5 The establishment of a small 
+farm processor co-op, where 
+smaller farms pool farming 
+machinery and equipment
+2.6 The establishment of a 
+member-based regional feed 
+store co-ops for livestock 
+producers
+2.7 Implementation of training, 
+education and traineeship/
+apprenticeship programs for 
+off-farm income generating 
+activities
+3.1 The establishment 
+of an online directory of 
+landscape management 
+grant opportunities, 
+information resources 
+and tools, and education 
+materials practices
+3.2 The promotion of 
+‘wet year’ landscape 
+management and 
+planning activities to 
+proactively promote 
+landscape health under all 
+climate conditions – i.e. 
+promotion of practices 
+to prepare for drought in 
+‘wet years’ 
+3.3 Engage local 
+aboriginal knowledge 
+holders within local land 
+care groups and practice 
+committee
+3.4 Establish partnerships 
+between local agricultural 
+land holders and 
+academic institutions to 
+trial innovative landscape 
+health management 
+practices
+4.1 The creation of a 
+‘water-wise’ educational 
+campaign targeting 
+community attitudes and 
+behaviours for domestic 
+water use during drought 
+and non-drought periods, 
+including promoting 
+behaviours that manage, 
+store and re-use both 
+potable and non-potable 
+water
+4.2 promotion of 
+existing water security 
+initiatives to encourage 
+adoption of on-farm 
+water management and 
+retention planning and 
+management practices 
+during wet-years
+4.3 Micro-grants for 
+retrofitting older buildings 
+in rural villages with water 
+conservation equipment, 
+or replacing aged water 
+conservation equipment 
+4.4 Engage local 
+aboriginal knowledge 
+holders within local land 
+care groups and practice 
+committee
+4.5 Consideration of co-
+operative water storage 
+mechanism for farmers 
+to facilitate local water-
+carting services
+Inputs and 
+activities 
+Grant funding and establishment of funding models, establishing partnerships and relationship building, formalising 
+nested governance framework for implementation and ongoing monitoring and evaluation, ongoing communications and 
+stakeholder engagement. 
+Figure 16: RDRP Action Plan Program Logic
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+59
+
+SHORT-TERM
+MEDIUM-TERM
+LONG-TERM
+Actions that create momentum in 
+resilience building and maintain or 
+modify current systems 
+Low risk of over investment, high 
+ease of implementation, high 
+likelihood of short-term improved 
+resilience
+Actions that build resilience and 
+modify current systems
+Moderate risk of over investment, 
+sequential in nature, moderate 
+implementation lead time
+Actions that build resilience and 
+transform current systems
+Moderate-to-high risk of over 
+investment, transformative in 
+nature, long implementation lead 
+time
+1.0 Creation of a dedicated part-
+time Resilience Officer resource, to 
+be funded by DRF grant
+1.1 Resilience Officer to Identify 
+opportunities for collaboration 
+between organisations providing 
+rural health care programs (e.g. 
+RAHMP) and Community services 
+(e.g. Services NSW) and local 
+community organisations (farming 
+groups, sporting clubs etc) to 
+promote wellbeing
+1.2 Resilience Officer to engage 
+with real estate and property agents 
+regarding access pathways for 
+support and education regarding 
+drought
+1.3 Develop a community ‘first-aid’ 
+kit to assist in community driven 
+out-reach in times of drought 
+and climate stress, contents to be 
+informed by Actions 1.1 and 1.2. 
+First aid kit could be physical or 
+downloadable ‘app’.
+1.6 Establishment of a youth 
+resilience ambassador role
+1.7 Identify the needs of young 
+people during periods of climate 
+stress and create a 10-point Youth 
+Action Plan
+1.4 Establish and formalise network 
+of community organisation leaders 
+to coordinate and promote drought 
+response measures (e.g. 1.5). 
+This action, and Action 1.6, could 
+be formalised as a ‘Resilience 
+Committee’ which periodically 
+meets with Council to determine 
+resilience planning actions
+1.5 Establishment of network 
+of community ‘drop-in centres’ 
+or ‘drought support hubs’ at 
+community organisation locations 
+such Country Women’s Association 
+locations or Men’s Sheds
+60
+
+SHORT-TERM
+MEDIUM-TERM
+LONG-TERM
+2.0 Establish accountability and local 
+ownership of resilience planning for 
+businesses and primary producers
+2.1 Promotion of proactive ‘good-
+year’ business resilience planning 
+through creation of online 
+‘resilience’ planning and education 
+web page
+2.2 Organise business networking 
+events for local businesses to share 
+learnings and drought management 
+practices
+2.3 Investigate opportunities for 
+non-agricultural major events 
+to attract tourism to the region, 
+including greater utilisation/
+activation of town and village 
+assets typically used for agricultural 
+purposes such as regional show 
+grounds or properties
+2.4 Investigate opportunities for 
+Aboriginal community led water / 
+land tourism operations
+2.5 The establishment of a small 
+farm processor co-op, where 
+smaller farms pool farming 
+machinery and equipment
+2. 6 The establishment of a 
+member-based regional feed store 
+co-op for livestock producers
+2.7 Implementation of training, 
+education and traineeship/
+apprenticeship programs for off-
+farm income generating activities
+3.0 Creation of a (temporary part-
+time) Agriculture Outreach Officer 
+role
+3.1 The establishment of an online 
+directory of landscape management 
+grant opportunities, information 
+resources and tools, and education 
+materials
+3.2 The promotion of ‘wet year’ 
+landscape management and 
+planning activities to proactively 
+promote landscape health under all 
+climate conditions – i.e. promotion 
+of practices to prepare for drought 
+in ‘wet years’
+3.3 Engage local aboriginal 
+knowledge holders within local land 
+care groups and practice committee
+3.4 Establish partnerships between 
+local agricultural land holders 
+and academic institutions to 
+trial innovative landscape health 
+management practices
+4.0 The establishment of a water 
+sharing and availability resource 
+to increase community awareness 
+and visibility of water management 
+during drought
+4.1 Water wise education campaign 
+for domestic water use including 
+options to manage, store and re-use 
+water
+4.2 promotion of existing water 
+security initiatives to encourage 
+adoption of on-farm water 
+management and retention 
+planning and management practices 
+during wet-years
+4.3 Micro-grants for retrofitting 
+older buildings in rural villages with 
+water conservation equipment, or 
+replacing aged water conservation 
+equipment
+4.4 Engage local aboriginal 
+knowledge holders within a local 
+land care groups and practice 
+committee
+4.5 Cooperative water storage 
+mechanism to facilitate local water 
+carting or sharing services
+Figure 17: Resilience pathway 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+61
+
+RESILIENCE THEME 1: 
+RESILIENT LOCAL COMMUNITIES
+Regional communities are resourceful, connected 
+and thriving 
+(S1) More community members are resourced to provide community-led intervention 
+and assistance.
+(S2) Stronger community connectedness and greater awareness contributing to community 
+wellbeing. 
+Community mental health impacts are significant and far-reaching during times of drought and 
+climate stress. There are many ways in which drought can impact communities, economy and 
+landscapes, but ultimately it is the people within the community who experience the stress 
+and anxiety of a drought’s many impact pathways. Edwards et al (2015) report the impacts of 
+drought increase the incidence of mental health issues by up to 10% in rural communities. The 
+impacts of drought on mental health are also broad, ranging from burnout and stress to more 
+severe mental illness issues of anxiety and depression. At the most severe end of the spectrum, 
+anecdotal evidence suggests the that the incidence of domestic violence increases dramatically 
+with the onset of drought, and that the relative risk of suicide can increase by up to 15% in rural 
+males aged between 30-49 as the severity of drought increases. 
+There are a range of existing programs targeting rural mental health, such as the Rural Adversity 
+Mental Health Program (RAMHP) which targets community knowledge and education through 
+outreach. RAMHP coordinators are employed by Local Health Districts and are embedded within 
+agricultural communities across NSW. However, these resources can become stretched during 
+times of climate stress. Healthcare representatives and community members reported that 
+enabling the community to assist one another during times of drought would assist in enhancing 
+community resilience. 
+Source: Marulan Kite Festival Markets with Crowds, Goulburn Mulwaree Council, 2024
+62
+
+Stakeholders reported that the uneven impacts of drought, rural nature of farming, and lack of awareness of 
+support services mean that those who are suffering may struggle to seek help. The shifting demographic of the 
+region is also playing a role in the social isolation of community members. The incidence of established community 
+members leaving the region has reportedly led to loss of social support networks for existing community members, 
+and feelings of isolation and lack of support for new community members. 
+The sensitivity of local communities and economies to drought is also highly variable across the region. The 
+community and economic activity of the regional economic centres are relatively diversified, with a mix of both 
+agricultural and non-agricultural based activity. While the smaller towns and villages have a higher reliance on 
+agricultural activity. The community within the larger regional economic centres may therefore be less aware 
+of the impacts of drought on fellow community members than those in the smaller towns and villages. Drought 
+also impacts age groups differently, with stakeholders reporting that rural youth are often overlooked but 
+experience drought impacts in reduced capacity to access and finance schooling and recreation activities, as well as 
+experiencing feelings of stress and anxiety from witnessing drought impacts on family and family farms. 
+Finally, stakeholders reported high fatigue and burnout amongst the agricultural community during times of 
+drought. The result is that daily tasks become arduous, individuals have limited time for recreation or family, and it 
+is challenging to find avenues of support for things like financial assistance and personal wellbeing. 
+A priority action of this RDRP is to seek funding for the establishment of a Resilience Officer to establish networks 
+with key government and community stakeholders and to develop resources to support lasting community 
+wellbeing systems. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+63
+
+FOUNDATION ACTION 1.0: 
+CREATION OF RESILIENCE 
+OFFICER (PART-TIME) ROLE 
+The purpose of the Resilience 
+Officer is to create a resource 
+with accountability for 
+delivering the supporting 
+and sequential community 
+wellbeing actions as well 
+as complementary actions 
+identified under other 
+resilience themes. Primary 
+responsibilities would include 
+developing productive 
+working relationships with 
+key government, community 
+and business organisations 
+to establish networks and 
+resources to promote 
+community wellbeing. 
+A key outcome of the role 
+should be the development of 
+the ‘First-aid’ kit (Action 1.3)
+The role would likely be 
+temporary part time role and 
+could be could be funded 
+through DRF grant, or other 
+government grant funding 
+avenues. 
+IMPLEMENTATION PLAN SUMMARY:
+Timeframe
+Short term – by June 2026
+Costs
+$150,000
+Funding 
+opportunities:
+•	RDRP/DRF funding
+•	Leveraging of existing resources
+Strategic 
+alignment
+•	National Drought Agreement (objectives d. and e.)
+•	Goulburn Mulwaree Community Strategic Plan 2042 (C.8)
+•	Community Strategic Plan - Wingecarribee 2041 (Goal 2.1)
+•	South East NSW Resilience Blueprint (Themes 1 – 3)
+IMPLEMENTATION:
+Implementation 
+steps:
+•	Seek funding
+•	Establish role description and objectives
+•	Advertise for role 
+•	Engage with relevant government agencies (such as 
+RAHMP and Service NSW) and community organisations 
+on establishing working relationship
+Action facilitator: •	Council
+Key 
+Stakeholders:
+•	NSW Health (RAHMP)
+•	Service NSW
+•	Relationships Australia
+•	Community organisations 
+•	Local businesses 
+Risks
+•	Lack of available funding
+•	Unable to retain suitable resource
+•	Low government and community engagement with 
+Drought Resilience Officer
+MONITORING AND EVALUATION:
+Resilience 
+outcomes:
+•	More community members are resourced to provide 
+community-led intervention and assistance, resulting in 
+lower rates of drought induced stress and depression
+•	Stronger community connectedness and greater awareness 
+contributing to community wellbeing.
+Indicators/
+Targets: 
+•	Recruitment of suitable resource 
+•	Productive engagement with Government agencies, 
+community organisations and local businesses 
+•	Lower incidence of reported poor mental health 
+Stakeholder 
+Engagement 
+Activities 
+•	Promotion of Drought Resilience Officer role through 
+Council social media, local print media, employment 
+websites, local radio advertisements 
+64
+
+SUPPORTING AND SEQUENTIAL ACTION
+ACTION FUNDAMENTALS
+1.1
+Identify opportunities for collaboration 
+between organisations providing rural health 
+care programs (e.g. RAHMP) and Community 
+services (e.g. Services NSW) and local 
+community organisations (farming groups, 
+sporting clubs etc) to promote wellbeing
+Maintain/modify/transform: Maintain existing roles in 
+providing community wellbeing support.
+Modify government, community and business networks to 
+support community wellbeing outcomes
+Preceding action: Retention of Resilience Officer/
+establishment of accountability for action
+Potential facilitator: Resilience Officer/Council
+1.2
+Resilience Officer to engage with real estate 
+and property agents regarding access 
+pathways for drought support and education 
+for new residents 
+Maintain/modify/transform: Modify existing pathway to 
+reach new residents
+Preceding action: Retention of Resilience Officer/
+establishment of accountability for action
+Potential facilitator: Resilience Officer/Council
+1.3
+Develop a community ‘first-aid’ kit to assist 
+in community driven out-reach in times 
+of drought and climate stress and provide 
+resources to alleviate stress (e.g., food and 
+transport vouchers). Contents to be informed 
+by Actions 1.1 and 1.2. First aid kit could be 
+physical or downloadable ‘app’, with tailored 
+‘kits’ for age groups.
+Maintain/modify/transform: Modify drought resilience 
+resources to provide regionally tailored drought assistance 
+packages 
+(longer term) Transform the role of community members in 
+providing wellbeing support to fellow community members
+Preceding action: 1.1 and 1.2 to inform resources 
+Potential facilitator: Resilience Officer/Council
+1.4
+Establish and formalise network of 
+community organisation leaders to coordinate 
+and promote drought response measures 
+(e.g. 1.5). This action, and Action 1.6, could be 
+formalised as a ‘Resilience Committee’ which 
+periodically meets with Council to determine 
+resilience planning actions 
+Maintain/modify/transform: Modify community 
+organisation networks to established defined roles in 
+responding to community shocks and stressors (i.e. not 
+isolated to drought)
+Preceding action: 1.0 
+Potential facilitator: Resilience Officer/Council/Community 
+Organisations 
+1.5
+Establishment of network of community 
+‘drop-in centres’ or ‘drought support hubs’ 
+at community organisation locations such 
+Country Women’s Association locations or 
+Men’s Sheds
+Maintain/modify/transform: Modify community 
+organisation networks to established defined roles in 
+responding to community shocks and stressors (i.e. not 
+isolated to drought)
+Preceding action: 1.4
+Potential facilitator: Resilience Officer/Council/Community 
+Organisations 
+1.6
+Establishment of a youth resilience 
+ambassador role 
+Maintain/modify/transform: Create/Modify role of youth 
+representation on Council committees to create avenue for 
+youth representation in Regional resilience planning 
+Preceding action: 1.0 / Not required
+Potential facilitator: Resilience Officer/Council 
+1.7
+Identify the needs of young people during 
+periods of climate stress and create a 10-point 
+Youth Action Plan. 
+Identification of actions from the UNICEF 
+Australia NSW Youth Summit on Living with 
+Drought that are implementable within the 
+region, either in isolation or as part of the 
+‘first-aid kit’ (Action 1.3).
+Maintain/modify/transform: 
+Preceding action: 1.4
+Potential facilitator: Youth Resilience Officer/Resilience 
+Officer
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+65
+
+RESILIENCE THEME 2: 
+RESILIENT LOCAL ECONOMIES 
+Local businesses are informed, resourced and prepared
+(EC 1) More local business and primary producers adopt proactive ‘good-year’ planning practices 
+and strategies to reduce financial exposure to drought
+(EC) Businesses and primary producer communities are connected and share learnings to 
+improve collective economic resilience of the region 
+The sensitivity of the businesses and primary producers within the region to drought and climate 
+variability is highly variable. The shifting demographics of the region over the past 20 years has 
+brought a wealth of non-agricultural income and industry to the area. ABS (2021) data show that 
+gross regional product (GRP) has grown steadily over the last twenty-years, despite downturns 
+in the value agricultural output during the Millennium Drought and 2017-2019 drought (Table 
+3 and Table 4). GRP growth is largely due to growth of high value industries such as health care 
+and social assistance, and construction over the past twenty-years. At a high level, this indicates 
+that the relatively diversified economies and high non-agricultural income has buffered the 
+regional economies from the impact of drought. However, the headline GRP growth trend is 
+likely masking the impacts of drought on smaller businesses, particularly those in smaller towns, 
+agricultural communities and industries downstream of agriculture such as retail and wholesale 
+industries.
+Source: Bendooly Estate, Berrima, Destination NSW
+66
+
+The region is characterised by urban centres surrounded by smaller towns and villages. The major urban 
+centres of Moss Vale, Mittagong, Bowral and Goulburn host approximately 60% of the regions 86,600 people. 
+Stakeholders reported that the business environment in the larger urban centres is relatively more stable than 
+smaller towns such as Robertson and Marulan. Stakeholders reported that the business environment in smaller 
+towns is challenging due to a combination of factors such as climate variability and the seasonal nature of tourism 
+influxes. The nature of the business environment in the smaller towns and villages means that small shocks can 
+lead to closure of businesses, as businesses struggling with profitability are forced to close. An aging population, 
+particularly within Wingecarribee, while driving economic strength in industries supporting retirement lifestyles, 
+does limit investment in other areas, particularly commercial and industrial trade.
+A number of solutions were put forward to increase the resilience of local economies, from small scale planning 
+solutions to structural solutions targeting greater diversification of economic activity. It is noted that both the 
+Southern Tablelands and Wingecarribee Regional Economic Development Strategies (REDS) include priorities for 
+economic diversification. 
+Stakeholders reported that while the region’s agricultural industry typically prepare farm management plans 
+including drought management measures, the local business community generally does not adopt drought 
+management planning practices. Issues of time, cost and knowledge were identified as key barriers to adopting 
+drought management planning. Stakeholders also reported that there are opportunities to improve proactive 
+planning practices undertaken during ‘good-years’ to prepare for economic downturn. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+67
+
+FOUNDATION ACTION 2.0: 
+FORMALISE NETWORKS, 
+ACCOUNTABILITIES AND 
+ROLES FOR PROMOTING 
+PRO-ACTIVE ‘GOOD-YEAR’ 
+BUSINESS PLANNING 
+Stakeholders reported a 
+need to promote pro-active 
+business planning during 
+the ‘good-years’ to prepare 
+for economic downturns 
+resulting from shocks and 
+stressors. Stakeholders 
+reported that business 
+resilience planning should 
+extend beyond drought 
+resilience planning and 
+cover resilience in general, 
+including such things as 
+income diversification and 
+managing seasonal variations 
+in trade and staff availability. 
+There are several potential 
+commerce and primary 
+producer groups within the 
+region with an interest in 
+improving resilient business 
+practices. The first step is 
+to establish and formalise 
+roles in promoting business 
+resilience planning. The 
+establishment of networks, 
+roles and functions will 
+support sequential actions 
+for the development of 
+resources, programs, and 
+schemes to support improved 
+planning practices 
+IMPLEMENTATION PLAN SUMMARY:
+Timeframe
+Short term – by June 2026
+Costs
+$20,000
+Funding 
+opportunities:
+•	RDRP/DRF funding
+•	Leveraging existing resources
+Strategic 
+alignment
+•	National Drought Agreement (objective f.)
+•	Goulburn Mulwaree Community Strategic Plan 2042 (C.10)
+•	Community Strategic Plan - Wingecarribee 2041 (Goal 4.4)
+IMPLEMENTATION:
+Implementation 
+steps:
+•	Seek funding
+•	Engage with NSW Small Business Commissioner on 
+potential for assistance
+•	Engage with chamber of commerce and business 
+representative groups
+•	Secure resources 
+Action 
+facilitator:
+•	Council/Resilience Officer (if retained)
+•	Local chamber of commerce and business representative 
+groups
+•	Local farming groups
+Key 
+Stakeholders:
+•	Council
+•	NSW Small Business Commissioner 
+•	Local business chambers 
+•	Local business representatives 
+•	Planning template developers 
+•	NSW DPIRD – Regional Economic Development
+•	Destination NSW – Destination Networks
+Risks
+•	Lack of available funding
+•	Lack of engagement from local businesses and primary 
+producers
+•	Unable to establish roles and functions
+MONITORING AND EVALUATION:
+Resilience 
+outcomes:
+•	More local business adopt strategies to reduce financial 
+exposure to drought
+Indicators/
+Targets: 
+•	Key stakeholders active in the promotion of resilience 
+planning
+•	Number of local businesses engaged in resilience planning 
+practices 
+•	Lower reported incidence of drought related business 
+closures 
+Stakeholder 
+Engagement 
+Activities 
+•	Identification of key stakeholders
+•	Identification of action enablers 
+68
+
+SUPPORTING AND SEQUENTIAL ACTION
+ACTION FUNDAMENTALS
+2.1
+Promotion of proactive ‘good-year’ 
+business resilience planning through 
+creation of online ‘resilience’ planning 
+template and online resource 
+directory
+Maintain/modify/transform: Maintain current economic activity 
+through improved resilience planning
+Preceding action: Action 2.0 
+Potential facilitator: Resilience Officer/Council, local chambers of 
+commerce, local farming and primary producer groups
+2.2
+Organise business networking events 
+for local businesses to share learnings 
+on resilient business practices
+Maintain/modify/transform: Maintain current economic activity 
+through improved resilience planning 
+Modify business practices to diversify income streams and sales 
+platforms
+Preceding action: Action 2.0 
+Potential facilitator: Resilience Officer/Council, local chambers of 
+commerce, local farming and primary producer groups
+2.3
+Investigate opportunities for non-
+agricultural major events to attract 
+tourism to the region, including 
+greater utilisation/activation of town 
+and village assets typically used for 
+agricultural purposes such as regional 
+show grounds or properties 
+Maintain/modify/transform: Modify use of existing regional assets 
+to provide new tourism attractors to increase economic activity
+Preceding action: Action 2.0 
+Potential facilitator: Resilience Officer/Council, local chambers of 
+commerce, local farming and primary producer groups, Destination 
+NSW – Destination Network
+2.4
+Investigate opportunities for 
+Aboriginal community led water / 
+land tourism operations 
+Maintain/modify/transform: Modify use of existing regional assets 
+to provide new tourism attractors to increase economic activity
+Preceding action: N/A
+Potential facilitator: Pejar LALC, DPIRD, Council 
+2.5
+The establishment of a small farm 
+processor co-op, where smaller 
+farms pool farming machinery and 
+equipment
+Maintain/modify/transform: Maintain primary production activity 
+through supporting smaller producers to engage in sustainable 
+business practices 
+Transform current farming networks to support formalised 
+productive working relationships
+Preceding action: Action 2.0/Action 3.0
+Potential facilitator: Agricultural Outreach Officer, local farming 
+groups 
+2.6
+The establishment of a member-
+based regional feed store co-ops for 
+livestock producers
+Maintain/modify/transform: Maintain primary production activity 
+through supporting smaller producers to engage in sustainable 
+business practices 
+Transform current farming networks to support formalised 
+productive working relationships
+Preceding action: Action 2.0/Action 3.0
+Potential facilitator: Agricultural Outreach Officer, local farming 
+groups 
+2.7
+Implementation of training, education 
+and traineeship/apprenticeship 
+programs for off-farm income 
+generating activities
+Maintain/modify/transform: Transform and diversify economic 
+structures to create employment pathways in non-water sensitive 
+industries 
+Maintain agricultural employment pathways by ensuring young 
+people are aware resilience building resources and educated 
+landscape health practices 
+Preceding action: 1.7
+Potential facilitator: Local Chamber of Commerce
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+69
+
+RESILIENCE THEME 3: 
+RESILIENT LANDSCAPES
+Agricultural landscapes are sustainable, functional, with healthy 
+natural capital
+(EN 1) More primary producers preserve natural capital while also sustaining productivity and 
+profitability. 
+(EN 2) More primary producers adopt whole-of-system approaches to NRM to restore the natural 
+resource base and preserve long-term landscape health. 
+Stakeholders reported that there are several environmental groups and government agencies 
+operating within the region, with the view to promote the adoption of natural resource 
+management practices and landscape health management. Government agencies and 
+environmental groups operating in the region include:
+•	Local Land Services (LLS)
+•	Landcare
+•	Southern NSW Drought Hub
+•	Sustainable Goulburn Mulwaree
+•	Regen Action
+•	Rivers of Carbon
+•	Independent Council for Ecosystem 
+Restoration (ICER) Warragamba rehydration 
+and restoration project.
+Source: Wingecarribee Local Government Area, DCCEEW, 2024
+70
+
+Further, stakeholders were keen to point out that there are many motivated and experienced landholders and 
+primary producers within the region who have had success implementing land care and sustainable farming 
+practices to build landscape resilience. These members of the community hold valuable knowledge, and skill sets 
+that would be of great benefit to the wider agricultural community. 
+Finally, local farming groups such as Tableland Farming Systems have developed publicly available landscape health 
+and livestock performance monitoring tools such as the online resource Farming Forecaster. Farming Forecaster is a 
+publicly available online dashboard which publishes soil health and moisture information captured by a network of 
+soil moisture probes within the region. 
+While there is a wealth of knowledge and programming within the region, stakeholders report there a disjointed 
+approach to land care and resource management across the region and a lack of motivation and resources to alter 
+farming practices. Stakeholders also reported there are opportunities for neighbouring properties to work together 
+to adopt sustainable land management practices and share knowledge and resources. 
+A number of solutions were provided to increase the uptake of landscape health management practices in the 
+region, ranging from education resources to regenerative agriculture ‘field days’. A priority action of this RDRP is for 
+the creation of an Agricultural Outreach Officer position to facilitate the building of partnerships between land care 
+groups, primary producers, and levels government for the purpose of knowledge sharing and building cooperative 
+capacity. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+71
+
+FOUNDATION ACTION 
+3.0: THE CREATION OF A 
+TEMPORARY PART-TIME 
+AGRICULTURE OUTREACH 
+OFFICER ROLE 
+The purpose of the 
+Agriculture Outreach Officer 
+is to facilitate the connection 
+of agricultural land holders 
+with farming community 
+networks, relevant 
+government agencies, 
+farming groups and land 
+care organisations, and First 
+Nations organisations. The 
+Agriculture Outreach officer 
+would also be accountable for 
+the supporting and sequential 
+resilient landscape actions as 
+well as creating foundations 
+from complementary 
+measures under resilience 
+theme 2 (Actions 2.4, 2.5, 2.6, 
+4.2, input into Actions 1.3 and 
+1.4). 
+The role is likely to be a 
+temporary part-time role 
+in the short term and could 
+potentially be funded by an 
+RDRP grant. 
+IMPLEMENTATION PLAN SUMMARY:
+Timeframe
+Short term – by June 2026
+Costs
+$150,000 
+Funding 
+opportunities:
+•	RDRP funding
+•	Drought Ready and Resilient Fund
+Strategic 
+alignment
+•	National Drought Agreement (objective c.)
+•	Goulburn Mulwaree Community Strategic Plan 2042 (C.10)
+•	Community Strategic Plan - Wingecarribee 2041 (Goal 4.4)
+IMPLEMENTATION:
+Implementation 
+steps:
+•	Seek funding
+•	Establish role description and objectives
+•	Advertise for role 
+•	Engage with relevant land care organisations and 
+government agencies on establishing working 
+relationships
+Action facilitator:
+•	Council
+Key Stakeholders:
+•	Local landholders
+•	NSW DPIRD 
+•	LLS
+•	CSIRO
+•	Land care organisations
+Risks
+•	Lack of available funding
+•	Unable to retain resources
+•	Low engagement from local farming community
+MONITORING AND EVALUATION:
+Resilience 
+outcomes:
+•	More primary producers are connected with land care and 
+management agencies
+•	More primary producers preserve natural capital while 
+also sustaining productivity and profitability. 
+•	More primary producers adopt whole-of-system 
+approaches to landscape health to preserve long-term 
+landscape health.
+Indicators/
+Targets: 
+•	Retention of qualified resource
+•	Number of agricultural landholders engaged 
+•	Creation of landscape health resources 
+•	Adoption of ‘wet year’ planning and farming practices 
+Stakeholder 
+Engagement 
+Activities 
+•	Radio advertisements, farming and land care group 
+information sessions and member communications, online 
+recruitment resources
+72
+
+SUPPORTING AND SEQUENTIAL ACTION
+ACTION FUNDAMENTALS
+3.1
+The establishment of an online directory of 
+landscape management grant opportunities, 
+information resources and tools, and 
+education materials
+Maintain/modify/transform: Maintain current systems by 
+consolidating information sources in a single directory, and 
+promoting the directory to the agriculture community 
+Preceding action: 3.0 
+Potential facilitator: Agricultural Outreach Officer/ Land 
+care organisations/farming groups 
+3.2
+The promotion of ‘wet year’ landscape 
+management and planning activities to 
+proactively promote landscape health under 
+all climate conditions – i.e. promotion of 
+practices to prepare for drought in ‘wet years’ 
+Maintain/modify/transform: Modify farming practices to 
+promote broad adoption of pro-active landscape health 
+measures 
+Preceding action: 3.0 / isolated action
+Potential facilitator: Agricultural Outreach Officer/ Land 
+care organisations/farming groups 
+3.3
+Engage local aboriginal knowledge holders 
+within local land care groups and practice 
+committee
+Maintain/modify/transform: Modify farming practices 
+to incorporate learnings from local First Nations land 
+managers 
+Preceding action: 3.0 / isolated action
+Potential facilitator: Agricultural Outreach Officer/ Land 
+care organisations/farming groups 
+3.4
+Establish partnerships between local 
+agricultural land holders and academic 
+institutions to trial innovative landscape 
+health management practices 
+Maintain/modify/transform: Transform farming practices by 
+incorporating innovative land management practices 
+Preceding action: 3.0 / isolated action
+Potential facilitator: Agricultural Outreach Officer/ Land 
+care organisations/farming groups 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+73
+
+RESILIENCE THEME 4: 
+RESILIENT REGIONAL WATER SUPPLY
+Regional water supply is sustainable, secure, and resilient to 
+shocks
+(S 3) More water users are informed about water security issues and adopt sustainable water use 
+practices to sustain secure water supply
+The shifting demographics of the region over time has led to varying levels of community 
+understanding on the importance of water conservation both under non-drought and drought 
+conditions. Current and expected growth in the residential population is also expected to put a 
+strain on water supply during future drought events. 
+Goulburn Mulwaree and Wingecarribee Shire have diversified water supply options. Both 
+Councils own and operate dams and source water from the WaterNSW owned and operated 
+Wingecarribee Reservoir. Goulburn Mulwaree primarily sources water from the Council operated 
+Pejar and Sooley Dams, with connectivity to the Wingecarribee Reservoir through the Highland 
+Source Pipeline. Wingecarribee Shire is supplied by the Council operated Bundanoon Dam and 
+the WaterNSW operated Wingecarribee Dam. Under the Greater Sydney Water Sharing Plan, 
+water supply to Wingecarribee Shire can be augmented from the WaterNSW operated Tallowa 
+Dam in the Shoalhaven catchment under limited capacity conditions. However, both Councils 
+reported that they may increase reliance on the WaterNSW operated Wingecarribee Reservoir in 
+the future due to cost and demand pressures created by growth in residential population. 
+Source: Artesian bore Australia, John Carnemolla, iStock, 2024
+74
+
+Stakeholders reported that over time there has been a decline in understanding of the importance of water 
+conservation practices, both in urban and semi-rural domestic water users. As community members who 
+experienced the severe restrictions of the Millennium Drought have left the region, and people less accustomed to 
+living in a rural environment have settled in the region, there has been a shift in expectations for water availability, 
+cost and security. Rural and regional residential living campaigns have often not been accompanied by water-wise 
+and resource use education campaigns. 
+A compounding issue is that the residential and recreational buildings in the older towns and villages of the region 
+are not equipped with water conservation equipment, meaning residents, and building occupants are solely reliant 
+on town water. Similarly, equipment installed during the Millennium Drought is becoming aged and in need of 
+replacement. 
+During the Millennium Drought, Goulburn’s town water supply levels reached critically low levels, leading to the 
+implementation of the highest possible water restrictions (level 5) and warnings that the town had less than 12 
+months of water supply remaining. Water security was improved by the construction of the Highland Source 
+Pipeline in 2011, however stakeholders report that water carting was required during the 2017-2019 drought 
+and Goulburn Mulwaree Council provided urban water taps for domestic use through the Mayoral Relief Fund. 
+Illustrating that while water security has improved, there is a need enhance domestic water conservation practices.
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+75
+
+FOUNDATION ACTION 4.0:  
+THE ESTABLISHMENT OF WATER 
+SHARING AND AVAILABILITY 
+RESOURCES TO INCREASE 
+COMMUNITY AWARENESS AND 
+VISIBILITY OF WATER MANAGEMENT 
+DURING DROUGHT.
+This action includes the development 
+of online dashboard and public drinking 
+water level signage (similar to green to 
+red ‘Fire Danger Today’ signs).
+Stakeholder consultation highlighted 
+community concern with how water 
+is managed and shared between 
+catchments in drought conditions 
+under NSW Government Water 
+Sharing Plans. Some concern was 
+based on a misunderstanding of water 
+sharing conditions and arrangements, 
+a belief that other catchments 
+received favourable water allocations. 
+Community sentiment of ‘getting a bad 
+deal’ contributed to feelings of stress 
+and anxiety during drought periods. 
+The purpose of this action is to create 
+a transparent resource to provide 
+community members with information 
+on:
+•	How water is shared between 
+catchments within the Greater Sydney 
+Drinking Water Catchment 
+•	Dam levels and water restriction 
+levels on any given day
+The public display of drinking water 
+level signage would contribute to 
+elevating community awareness of 
+the importance of, and individual 
+accountability for, responsible 
+consumption of potable water. 
+IMPLEMENTATION PLAN SUMMARY:
+Timeframe
+Medium term – by June 2027
+Costs
+$50,000 
+Funding 
+opportunities:
+•	RDRP funding
+•	Drought Ready and Resilient Fund
+Strategic 
+alignment
+•	Goulburn Mulwaree Community Strategic Plan 
+2042 (D.13 and D.15)
+•	Wingecarribee 2040 Local Strategic Planning 
+Statement 
+•	Greater Sydney Water Strategy (P.2)
+IMPLEMENTATION:
+Implementation 
+steps:
+•	Identify funding sources
+•	Establish accountabilities 
+•	Establish resource materials
+Action facilitator:
+•	Council
+Key Stakeholders:
+•	WaterNSW
+•	Sydney Water
+•	NSW DCCEW
+•	NSW DPIRD
+Risks
+•	Lack of available funding
+•	Low community engagement
+MONITORING AND EVALUATION:
+Resilience 
+outcomes:
+•	More rural residential water users are 
+informed about water security issues and 
+adopt sustainable water use practices to 
+sustain secure town water supply
+Indicators/
+Targets: 
+•	Sufficient funding secured
+•	Publication of online resource
+Stakeholder 
+Engagement 
+Activities 
+•	Radio advertisements, local mailouts, 
+promotion through local community groups, 
+real estate agents promoting dashboard to 
+new property buyers 
+76
+
+SUPPORTING AND SEQUENTIAL ACTION
+ACTION FUNDAMENTALS
+4.1
+The creation of a ‘water-wise’ educational 
+campaign targeting community attitudes and 
+behaviours for domestic water use during 
+drought and non-drought periods, including 
+promoting behaviours that manage, store and 
+re-use both potable and non-potable water
+Maintain/modify/transform: modify community attitudes 
+on responsible water management practices 
+Preceding action: 4.0 
+Potential facilitator: Council, WaterNSW, NSW DCCEW
+4.2
+Promotion of existing water security initiatives 
+farm Emergency Water Infrastructure Rebate 
+Scheme, NSW Government Drought Ready 
+and Resilient Fund, ANU Sustainable Farms 
+Enhance farm dams resource to encourage 
+adoption of on-farm water management and 
+retention planning and management practices 
+during wet-years
+Maintain/modify/transform: Maintain and/or modify 
+on-farm water management practices that maintaining or 
+installing water management infrastructure 
+Preceding action: 3.0 / not required
+Potential facilitator: Agriculture Outreach Officer/Council
+4.3
+Micro-grants for retrofitting older buildings 
+in rural villages with water conservation 
+equipment, or replacing aged water 
+conservation equipment
+Maintain/modify/transform: Maintain or modify rural water 
+conservation practices by replacing or installing required 
+equipment
+Preceding action: not required
+Potential facilitator: Council / NSW Government
+4.4
+Engage local aboriginal knowledge holders 
+within  local land care groups and practice 
+committee
+Maintain/modify/transform: Modify on farm water 
+conservation practices based on First Nations learnings 
+Preceding action: 3.0 / not required
+Potential facilitator: Agriculture Outreach Officer, land care 
+groups
+4.5
+Consideration of co-operative water storage 
+mechanism for farmers to facilitate local 
+water-carting services
+Maintain/modify/transform: Transform regional water 
+sharing arrangements to increase cooperative capacity / 
+resilience reserves
+Preceding action: 3.0 / not required
+Potential facilitator: Agriculture Outreach Officer, land care 
+groups, farming groups
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+77
+
+IMPLEMENTATION REQUIREMENTS
+This RDRP sets out a prioritised approach to realise our vision for the region. The proposed actions represent an 
+array of initiatives to be led by community members, stakeholders, local and state government. Moreover, it is 
+recognised that while actions are best delivered locally, the ability to draw upon multi-jurisdictional learnings from 
+similar projects (as well as consider any associated broader requirements) ultimately leads to better outcomes. The 
+successful delivery of the plan (and any of its actions) will be reliant upon:
+•	Community ownership – A commonality across the proposed actions is the change in understanding and action 
+by local community members as the ultimate driver to the RDRP success. While the actions identified above have 
+been developed through community engagement, the continued adoption of the actions at both and individual 
+and community groups level will be important. Identifying community working groups or key community 
+representatives to support localised implementation will be critical
+•	Local Government ownership – Both GMC and WSC are committed to enhancing the drought resilience or the 
+region. Both Council’s already operate a number of working groups and dedicated resources to managing natural 
+hazards and this plan will fall within and support these existing portfolios. Additional personnel support is likely to 
+be required to facilitate implementation, such as the creation of a Drought Resilience Officer role 
+•	State and Federal ownership – This RDRP forms one of many currently in development across NSW and the 
+ongoing regional co-ordination, as well as and cross-jurisdictional learning opportunities, will be critical to 
+the success of both this RDRP and the broader program. The federal government likewise has a national level 
+coordination and funding role that support the delivery of state and local programs.
+LASTING GOVERNANCE 
+This RDRP provides a set of community driven actions within a sequential framework, designed to achieve a 
+set of resilient outcomes. While it is a community-led plan, implementation of the actions will require a level of 
+coordination across all levels of government, as well as a variety of NGOs. An agreed governance arrangement for 
+all aspects will be required to ensure consistency and clarity in plan implementation, given the array of contributing 
+parties. Key to its successful implementation, will be funding commitments to support the governance process 
+and ultimate delivery from community, local, state and federal agencies. The ultimate structure of the governance 
+framework will likely depend on ongoing implementation of the Regional Drought Resilience Planning Program, 
+and coordination of implementation between Federal and State Governments. This RDRP identifies key governance 
+roles at different levels of implementation (Figure 18). 
+The envisioned Governance system (Figure 18) is based on nested responsibilities at different levels of Federal 
+and State, Local and Community levels. The foundation of the Governance system will be the creation of a Local 
+Government level Project Control Group and a community level Working Group. It is envisioned that these groups 
+will meet periodically to monitor and review action implementation, as defined under the Monitoring, Evaluation, 
+and Learning (MEL) Framework. It is also envisioned that the RDRP will be a live document, and that a formal 
+review will be conducted after five years of publication of this RDRP (2030). 
+78
+
+Figure 18: Governance system
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+79
+
+MONITORING, EVALUATION 
+AND LEARNING (MEL)
+The RDRP is envisioned to be a live document. As our communities change, and our drought exposure continues to 
+change and evolve there is a need to:
+•	Review the resilience indicators and update the resilience assessment 
+•	Review climate projections 
+•	Review the implementation of current actions
+•	Update the proposed action list.
+A Benefits Realisation Plan (BRP) will be developed to support the RDRP and act as the mechanism to coordinate 
+reviews and ensuring ongoing performance enhancement throughout the life of the plan. A robust Monitoring, 
+Evaluation, and Learning (MEL) Framework will be central to the BRP. The key elements are included below. 
+MONITORING
+The monitoring framework is centred on a set of outcome indicators that are directly linked to the 
+outcomes described in Figure 17. This plan envisions that the RDRP Working Group will track the 
+outcome indicators over the next five-years and that the outcome indicators will be refreshed on 
+review of this RDRP. The outcomes indicator framework is provided at Appendix B. 
+EVALUATION 
+The evaluation framework sets out the types and frequencies of evaluation to be performed 
+under the RDRP MEL framework. It also defines the envisioned roles of stakeholders and partners 
+and provides a system for tracking evaluation findings over time. The evaluation plan will include 
+thematic benefit realisation evaluations, programmatic evaluations, and a summative evaluation. 
+It is envisioned benefit realisation evaluations will be undertaken annually to assess the extent 
+to which the measurable target outcomes for each thematic action defined within the outcome 
+indicator framework (Appendix B) are being met. 
+It is envisioned the programmatic evaluations will take place every six-months. Programmatic 
+evaluation will review. 
+•	Implementation – The timeframe, governance and budget for delivery are being met and 
+understood
+•	Finance – The action has available funding for completion 
+•	Risks – Risks to the action are understood and appropriate mitigation measures are identified 
+•	Engagement – Community and government sentiment regarding the action (and its successful 
+implementation) has been sought and given. 
+80
+
+The summative evaluation should take place five years after the publication of this RDRP. The summative 
+evaluation will be a comprehensive review of the periodic benefits realisation and programmatic performance 
+review outputs. It is envisioned that the summative valuation will also include a revision of the resilience 
+assessment of the region, a review of future climate predictions and economic shocks, and any required changes 
+to resilience pathway actions. The CSIRO list of suggested future plan updates is provided at Appendix C and it is 
+expected to inform future plan updates considered at the summative evaluation. 
+As part of the summative review, all existing proposed actions will be assessed for continued relevance in terms of:
+•	Alignment with the overall RDRP vision for the region (if changed)
+•	Similarity / duplication of other initiatives already underway 
+•	Alignment with community sentiment and concern
+•	Clarity of implementation pathway
+•	Lessons learned resilience actions undertaken by GMC, WSC or other RDRP plans.
+LEARNING 
+Reflection and continuous learning will be facilitated though the formalisation of a learning plan. The 
+learning plan will ensure that information captured through the monitoring and evaluation stages of 
+the RDRP MEL framework will inform decision making on resilience actions to be altered, pursued, or 
+if necessary, ceased. 
+It is envisioned that an annual MEL workshop will be held involving members of the RDRP Working 
+Group to be formalised under the Governance Framework. The annual MEL Workshop will report 
+the outcomes of ongoing evaluations and promote sharing of learning across the RDRP thematic 
+actions. Learnings should be recorded within a workshop report and used to evaluate future changes 
+to this RDRP, to be considered at the summative evaluation. 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+81
+
+REFERENCES
+Source: City center of Goulburn, NSW, Australia, Kokkai Ng, iStock, 2024
+82
+
+Australian Bureau of Statistics [ABS] (2021). 2021 Census Data, https://www.abs.gov.au/census 
+Australian Bureau of Meteorology [BoM]. Recent and historical rainfall maps, 
+http://www.bom.gov.au/climate/maps/rainfall
+Australian Bureau of Meteorology [BoM]. Understanding drought, 
+http://www.bom.gov.au/climate/drought/knowledge-centre/understanding.shtml 
+Crossman, N (2019). Drought Resilience, Adaptation and Management Policy Framework: Supporting Technical 
+Guidelines, United Nations Convention to Combat Desertification, Germany, August. 
+Department of Regional NSW (2023). Wingecarribee Regional Economic Development Strategy – 2023 Update, 
+February
+Department of Regional NSW (2023). Southern Tablelands Economic Development Strategy - 2023 Update, February
+Fleming-Munoz D, Whitten S, Bonnet G (2023). The economics of drought: A review of impacts and costs, CSIRO, 
+Brisbane & Canberra [online resource] https://onlinelibrary.wiley.com/doi/epdf/10.1111/1467-8489.12527 
+Informed Decisions [online resource] https://economy.id.com.au/goulburn and 
+https://economy.id.com.au/wingecarribee 
+NSW Department of Planning and Environment (2022). Greater Sydney Water Strategy, August
+NSW Department of Planning and Environment (2022). Greater Sydney Drought Response Plan Overview, August
+NSW Department of Primary Industries, NSW Seasonal Update – December 2019 [online resource] 
+https://www.dpi.nsw.gov.au/climate-landing/ssu/december-2019 
+NSW Department of Primary Industries, Combined Drought Indicator [online resource] https://edis.dpi.nsw.gov.au/ 
+NSW Environmental Protection Agency Soil Condition [online resource] 
+https://www.soe.epa.nsw.gov.au/all-themes/land/soil-condition 
+NSW Office of Heritage and Environment (2014). South East and Tablelands Climate change snapshot
+Wingecarribee Shire Council The Wingecarribee Local Strategic Planning Statement
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+83
+
+APPENDIX
+Source: Sheep heading for shearing shed, John Carnemolla, iStock, 2024
+84
+
+APPENDIX A: RDRP STAKEHOLDER ENGAGEMENT LIST
+•	Agribusiness and Equine Strategic Working Group, 
+Wingecarribee
+•	Australian Organics Plus 
+•	Bowral Co-op
+•	Business Southern Highlands
+•	Community Voice for Hume 
+•	Country Women’s Association 
+•	Department of Planning and Infrastructure (DPI)
+•	Department of Primary Industries and Regional 
+Development (DPIRD)
+	- Youth Community & Delivery Team
+	- Aboriginal Partnerships Program
+	- Regional Economic Development
+•	Exeter Business 
+•	Goulburn Chamber of Commerce 
+•	Goulburn Mulwaree Community Sustainability Hub
+•	Goulburn Mulwaree Sustainability Hub 
+•	Grow Southern Highlands
+•	Illawarra Local Aboriginal Land Council (LALC)
+•	Jim Hindmarsh (Livestock Agency)
+•	Landcare Goulburn Mulwaree – Regenerative Grazing 
+and Framing Group
+•	Local Land Services (LLS)
+•	Marulan Region Chamber of Commerce 
+•	National Parks and Wildlife Services (NPWS)
+•	NSW Health - Rural Adversity Mental Health Program 
+(RAMHP)
+•	Pejar Local Aboriginal Land Council (LALC)
+•	Regen Action 
+•	Robertson Business Chamber 
+•	Rural Financial Counsellor 
+•	Service NSW
+•	Southern Highlands Agribusiness 
+•	Southern Highlands Community Garden Network
+•	Southern NSW Local Area Health District (LAHD)
+•	Sustainable Goulburn
+•	Tablelands Farming Systems
+•	TAFE NSW
+•	The Interagency Group.
+•	The Southern Highlands Farming Community 
+Resilience and Preparedness Working Group
+•	Water NSW
+•	Wingello Village Store 
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+85
+
+APPENDIX B: PERFORMANCE AND OUTCOME 
+INDICATORS
+OUTCOME
+ACTION
+PERFORMANCE INDICATOR
+OUTCOME INDICATOR
+Resilience local communities: Regional communities are resourceful, connected & thriving
+(S1) More 
+community 
+members are 
+resourced 
+to provide 
+community led 
+intervention
+1.0 Creation of a dedicated 
+(part-time) Resilience Officer 
+resource, to be funded by DRF 
+grant
+1. Secure funding by target date
+2. Retention of one resource per LGA 
+by target date
+1. Community survey 
+data shows lower 
+incidence of poor 
+mental health (e.g. 
+ABS census data, 
+population health 
+surveys)
+2. Increase in 
+participation in 
+community-driven 
+outreach initiatives 
+such as ‘check-in on 
+your neighbour
+1.3 Develop a community 
+‘first-aid’ kit to assist in 
+community driven out-reach 
+in times of drought and 
+climate stress
+1. First aid kit list of resources 
+established by target date
+2. First aid kit launched by target date
+1.6 Establishment of a youth 
+resilience ambassador role
+1.Role description established by 
+target date
+2. Role filled by target date
+1.7 Identify the needs of 
+young people during periods 
+of climate stress and create a 
+10-point Youth Action Plan.
+1. Youth resilience workshop held by 
+target date
+2. 10-point Youth Action Plan 
+developed by target date
+(S2) Stronger 
+community 
+connectedness 
+and greater 
+awareness 
+contributing 
+to community 
+wellbeing.
+1.1 Identify opportunities 
+for collaboration between 
+organisations providing rural 
+health care programs (e.g. 
+RAHMP) and local community 
+organisations (farming groups, 
+sporting clubs etc) to promote 
+wellbeing
+1. Partnerships established by target 
+date
+2. Preliminary list of collaboration 
+events established by target date
+1. Community survey 
+data shows lower 
+incidence of poor 
+mental health (e.g. 
+ABS census data, 
+population health 
+surveys)
+2. Increase in 
+participation in 
+community-driven 
+outreach initiatives 
+such as ‘check-in on 
+your neighbour’
+1.2 Engage with real estate 
+and property agents regarding 
+access pathways for support 
+and education regarding 
+drought
+1. Target number of real estate agents 
+engaged by target date
+2. List of potential pathways 
+established by target date
+1.4 Establish and formalise 
+network of community 
+organisation leaders to 
+coordinate and promote 
+drought response measures 
+(e.g. 1.5).
+1. Target number of community 
+organisation and NGO leaders 
+engaged by target date
+2. Network formalised by target date
+1.5 Establishment of 
+network of community 
+‘drop-in centres’ or ‘drought 
+support hubs’ at community 
+organisation locations 
+1. Target number of community 
+organisation and NGO leaders 
+engaged by target date
+2. Network of ‘drop-in’ centres 
+formalised by target date
+86
+
+OUTCOME
+ACTION
+PERFORMANCE INDICATOR
+OUTCOME INDICATOR
+Resilient local economies: Local businesses are informed, resourced and prepared
+(EC 1) 
+More local 
+businesses 
+adopt 
+strategies 
+to reduce 
+financial 
+exposure to 
+drought
+2.0 Formalise networks, 
+accountabilities and roles for 
+promoting pro-active ‘good-
+year’ business planning 
+1. Network members engaged by 
+target date
+2. Network and responsibilities 
+formalised by target date
+1. Local chambers 
+of commerce and 
+business groups report 
+target number of 
+businesses developing 
+resilience plans and 
+implementing practices
+2. Target percentage 
+reduction in drought 
+related business 
+closures within the 
+region 
+3. Value of regional 
+economic output 
+declines by less than 
+10% during prolonged 
+drought periods 
+2.1 Promotion of proactive 
+‘good-year’ business resilience 
+planning through creation of 
+online ‘resilience’ planning 
+template and online resource 
+directory
+1. Accountability for development 
+of online template and resource 
+directory established by target date
+2. Online template launched by target 
+date
+2.2 Organise business 
+networking events for local 
+businesses to share learnings 
+on resilient business practices
+1. Target number of resilient business 
+networking events established by 
+target date
+2.3 Investigate opportunities 
+for non-agricultural major 
+events to attract tourism to 
+the region, including greater 
+utilisation/activation of town 
+and village assets typically 
+used for agricultural purposes 
+such as regional show grounds 
+or properties
+1. List of potential events and venues 
+established by target date
+2. first event held by target date
+2.4 Investigate opportunities 
+for Aboriginal community 
+led water / land tourism 
+operations
+1. Accountability for action established 
+by target date
+2. List of opportunities established by 
+target date
+3. List of operators formalised by 
+target date
+2.5 The establishment of a 
+small farm processor co-op, 
+where smaller farms pool 
+farming machinery and 
+equipment
+1. Accountability for action established 
+by target date 
+2. Potential co-op members engaged 
+by target date
+3. Co-op governance framework 
+established by target date
+2.6 The establishment of 
+a member-based regional 
+feed store co-op for livestock 
+producers
+1. Accountability for action established 
+by target date 
+2. Potential co-op members engaged 
+by target date
+3. Co-op governance framework 
+established by target date
+2.7 Implementation of 
+training, education and 
+traineeship/apprenticeship 
+programs for off-farm 
+income generating activities, 
+particularly focused toward 
+regional youth
+1. Accountability for action established 
+by target date
+2. Potential programs established by 
+target date
+3. Program partnerships established 
+by target date
+4. Program launched by target date
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+87
+
+OUTCOME
+ACTION
+PERFORMANCE INDICATOR
+OUTCOME INDICATOR
+Resilient landscapes: Agricultural landscapes are sustainable, functional, with healthy natural capital
+(EN1) More 
+primary 
+producers 
+preserve 
+natural capital 
+restore 
+the natural 
+resource base 
+and preserve 
+long-term 
+landscape 
+health, while 
+also sustaining 
+productivity 
+and 
+profitability. 
+3.0 Creation of a (temporary 
+part-time) Agriculture 
+Outreach Officer role
+1. Secure funding by target date 
+2. Retention of one resource per LGA 
+by target date
+1. Value of agricultural 
+output is sustained 
+during drought periods
+2. Drought indicators 
+such as NSW DPIRD 
+vegetation index report 
+greater vegetation 
+density during dry 
+periods than previous 
+drought periods (i.e. 
+2019-20 drought)
+3. Agricultural 
+employment is 
+sustained during 
+drought periods
+3.1 The establishment 
+of an online directory of 
+landscape management grant 
+opportunities, information 
+resources and tools, and 
+education materials
+1. Accountability for action established 
+by target date
+2. Directory launched by target date
+3.2 The promotion of ‘wet 
+year’ landscape management 
+and planning activities, and 
+resources to proactively 
+promote landscape health 
+under all climate conditions 
+– i.e. promotion of practices 
+to prepare for drought in ‘wet 
+years’ 
+1. Accountability for action established 
+by target date
+2. Program launched by target date
+3.3 Engage local aboriginal 
+knowledge holders within a 
+local land care groups and 
+practice committee
+1. Accountability for action established 
+by target date
+2. Program launched by target date
+3. Target number of workshop 
+attendees 
+3.4 Establish partnerships 
+between local agricultural 
+land holders and academic 
+institutions to trial 
+innovative landscape health 
+management practices
+1. Accountability for action established 
+by target date
+2. Program launched by target date
+88
+
+OUTCOME
+ACTION
+PERFORMANCE INDICATOR
+OUTCOME INDICATOR
+Resilient water supply: Regional water supply is secure, sustainable and resilient to shocks
+(S3) More 
+water users 
+are informed 
+about water 
+security issues 
+and adopt 
+sustainable 
+water use 
+practices to 
+sustain water 
+supply
+4.0 The establishment of a 
+water sharing and availability 
+resource to increase community 
+awareness and visibility of 
+water management during 
+drought 
+1. Accountability for action 
+established by target date
+2. Program launched by target date
+1. Reduced demand for 
+water delivery (carting) 
+services during 
+drought periods, when 
+compared to previous 
+drought 
+4.1 Water wise education 
+campaign for domestic water 
+use including options to 
+manage, store and re-use water
+1. Accountability for action 
+established by target date
+2. Campaign launched by target date
+4.2 promotion of existing water 
+security initiatives to encourage 
+adoption of on-farm water 
+management and retention 
+planning and management 
+practices during wet-years
+1. Accountability for action 
+established by target date
+2. Resource launched by target date
+4.3 Micro-grants for retrofitting 
+older buildings in rural villages 
+with water conservation 
+equipment, or replacing aged 
+water conservation equipment
+1. Accountability for action 
+established by target date
+2. Funding source identified
+3. Number of successful grant 
+applications 
+4.4 Engage local aboriginal 
+knowledge holders within a 
+local land care groups and 
+practice committee
+1. Accountability for action 
+established by target date
+2. Aboriginal knowledge holders 
+identified by target date
+3. Program launched by target date
+4.5 Consideration of co-
+operative water storage 
+mechanism for farmers to 
+facilitate local water-carting 
+services
+1. Accountability for action 
+established by target date 
+2. Potential co-op members engaged 
+by target date
+3. Co-op governance framework 
+established by target date
+4. Program launched by target date
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+89
+
+APPENDIX C: CSIRO SUGGESTIONS FOR FUTURE PLAN 
+UPDATES
+RDRP 
+COMPONENT 
+SUGGESTED CHANGE FOR FUTURE PLANS 
+Component 1: 
+Definition, 
+vision, goals and 
+outcomes
+Future plan updates could ensure ‘transformation’ is carefully considered as an element of the 
+definition of resilience, and that the needs for transformation are explored and reflected in 
+priority actions.
+Future plan updates could explore transition, and transformation needs in the region to 
+achieve the stated vision.
+Component 2: 
+Stakeholder 
+engagement, 
+participation, 
+and partnerships
+In future plan updates, it would be helpful to consider how stakeholder engagement could be 
+extended to include any missing sectors and segments of the community. Also the approach 
+could be deepened to support a more community-owned plan.
+Future plan updates and implementation should be underpinned by stronger partnership 
+arrangements with clearly defined roles and responsibilities.
+Component 3: 
+Active learning 
+and adaptive 
+governance
+Future plan updates could include details about explicit structured processes to support active 
+learning and ongoing adaptation of the plan and its actions. Facilitated structured learning 
+processes could also be explicitly embedded in the monitoring, evaluation and learning (MEL) 
+section with potential for the Project Control Group to have a leading role.
+Future plan updates could outline formal adaptive governance arrangements that clearly 
+address the following three questions: (i) How will the governance arrangements ensure 
+ongoing appropriate representation of groups with different vulnerabilities to drought, 
+including First Nations communities and non-farming populations? (ii) How will the 
+governance be nested with other governance structures and ensure that decisions are 
+made at the appropriate level (the level closest to where they will have an impact? (iii) How 
+will responsibilities and ownership of the plan be balanced with rights and resources at 
+appropriate levels for coordinating and implementing resilience-building activities?
+Component 4: 
+Evidence base, 
+a stocktake of 
+past and current 
+relevant work 
+and alignment
+Future plan updates could include more discussion about the references cited, so that readers 
+may better understand how these works connect to and align with the plan. This would help 
+strengthen the analysis of its evidence base.
+Future plan updates could include further analysis of the key linkages between the other 
+plans and policies, and their implications for understanding and contributing to the region’s 
+resilience, (e.g. vulnerability to drought and the economic, social and environmental impacts). 
+Doing so would help the plan provide a more integrated picture of the state of the region’s 
+resilience, and explicitly show how the actions proposed in the plan, and those listed in the 
+other plans and policies, are linked.
+Component 5: 
+System 
+description 
+and resilience 
+assessment
+Future plan updates could do more to better reflect details of the system. This could be 
+achieved by understanding experiences and perspectives from across diverse groups, including 
+First Nations people. A profile of drought impacts for those non-agricultural sectors identified 
+as significant (e.g. health care, retail and construction) could also be included. Furthermore, 
+the profile could describe the employment benefits of those highest value industries for the 
+region (e.g. health and social administration, and construction) to better inform the degree to 
+which they can contribute to building drought resilience.
+Future plan updates could go beyond characterising impacts and vulnerabilities to provide a 
+more comprehensive assessment of what confers resilience to drought in different sectors, 
+supply chains and segments of communities. Such an assessment would better inform 
+resilience-building pathways and intervention options by explicitly considering the capacities 
+(anticipatory, absorptive, adaptive and transformative) of the region’s different sectors and 
+community segments to drought and related stresses and shocks.
+Future plan updates could include a resilience assessment that provides quantitative and 
+empirical evidence in key economic and social variables over time. This assessment could show 
+demographic changes in the diversity of businesses, livelihoods and employment opportunities 
+for different community segments; emergent versus declining types of industries; and labour 
+mobility among different industry and sectors. Together, this evidence will better inform the 
+analysis of socioeconomic resilience of the region to drought.
+90
+
+RDRP 
+COMPONENT 
+SUGGESTED CHANGE FOR FUTURE PLANS 
+Component 6: 
+Future scenarios
+Future plan updates could include an exploration of alternative future scenarios that consider 
+other key drivers of change (e.g. global economic disruptions) and how these may interact 
+with the identified future impacts of drought. These future scenarios should consider a mix of 
+livelihoods and sectors, including those that rely less on agriculture and water. A participatory-
+based scenario development process and its outcomes could inform active learning and 
+adaptive governance for future plan updates and implementation.
+Component 7: 
+Intervention 
+options and 
+pathways for 
+building regional 
+resilience
+Future plan updates could introduce the concept of adaptation pathways that create options 
+for future drought preparedness, response and recovery. Such pathways should also contain 
+triggers and decision criteria to help navigate uncertainties when choosing which options to 
+implement when.
+Future plan updates could build on the adaptive capacity and SWOT analyses and assess the 
+type and nature of change needed to the region’s services, livelihoods, sectors, value chains 
+and subsystems for building resilience to drought and related stresses and shocks. Based on 
+this assessment, the proposed intervention options may be classified according to whether 
+they contribute to maintaining, modifying or transforming different aspects of the region. 
+These exercises may also help with identifying additional and innovative initiatives associated 
+with aspects of the region that need to be modified or transformed to build resilience.
+Component 8: 
+Assessment 
+of pathways 
+and theory 
+of change for 
+recommended 
+actions
+Future plan updates could consider developing more resilience-related criteria and means for 
+assessing each action. This assessment could include considering whether each selected action 
+is necessary, whether it forms a set, whether the priority and secondary actions are sufficient 
+to achieve the stated outcomes and impacts, and whether they contribute to building regional 
+drought resilience.
+Component 9: 
+Monitoring, 
+evaluation, and 
+learning
+Future plan updates could have a well-developed theory of change that builds on the existing 
+program logic. It could explain the assumed mechanisms by which the proposed actions are 
+intended to bring about desired outcomes and impacts. This will involve working backwards 
+from the vision and themes to identify the changes required and the causal mechanisms, as 
+well as the outcomes, outputs and activities needed to achieve the desired changes. A more 
+robust theory of change could also guide the development of the plan’s monitoring, evaluation 
+and learning (MEL) processes.
+Component 10: 
+Integration 
+between 
+components
+Future plan updates could explore the development of robust theory of change and detailed 
+monitoring, evaluation and learning (MEL) that could enhance clarity through better 
+interaction and linkages between the plan components.
+GOULBURN MULWAREE COUNCIL AND WINGECARRIBEE SHIRE COUNCIL REGIONAL DROUGHT RESILIENCE PLAN - SEPTEMBER 2024
+91

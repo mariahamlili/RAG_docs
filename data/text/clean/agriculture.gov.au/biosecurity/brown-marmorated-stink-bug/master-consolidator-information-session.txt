@@ -1,0 +1,268 @@
+MANAGEMENT OF 
+LCL / FAK CONTAINERS
+15 August 2023
+Hitchhiker Pests Policy
+
+Agenda
+• Acknowledgement of country
+• When to lodge an MC declaration
+• How to register as an MC
+• How to access the new portal
+• Types of MC declarations
+•
+Nil Risk
+•
+Treated Onshore
+•
+Treated Offshore
+•
+Partially Treated Offshore
+•
+Unknown Risk
+• Common Holds and ICS messages
+•
+SPHOLD
+•
+COND REL
+•
+SPREF
+•
+GAS
+• Common scenarios and solutions
+•
+Change of SCR type from LCL to FCL / FCX
+•
+SP Hold still present after lodgement
+•
+Changing a declaration type
+•
+FIXLOC directions
+• Department contacts
+• Questions
+
+When to lodge an MC declaration
+LCL / FAK containers are managed for BMSB risk at the container level. This includes LCL consignments 
+that are manufactured in and / or shipped from a target risk country, between 1 September and 30 April 
+(inclusive).
+If your LCL / FAK container is subject to the measures when the cargo report is lodged, it will be referred 
+for a Seasonal Pest hold (SPHOLD), and the cargo reporter will receive a message that an MC declaration 
+is required to be submitted – see below. If you believe your cargo is not subject to the measures, a Nil 
+Risk MC declaration will still be required to lift the hold.
+Note: You will need to provide appropriate documentation that verifies your container is out of scope.
+Important: If your LCL / FAK container does not have an SPHOLD at the container level and you do not 
+receive this message in the ICS, DO NOT SUBMIT AN MC DECLARATION – your LCL / FAK container is 
+not subject to BMSB seasonal measures and does not require a declaration to be lodged for clearance.
+
+How to register as an MC
+Master Consolidators intending to provide declarations about LCL / FAK containers to the department 
+must register their company as a Master Consolidator and identify individual users via a unique email 
+address on the Master Consolidator Registration form.
+Each user who intends to submit MC declarations, is required to register as a User under the MC ID for 
+their company. Each individual submitting declarations is required to have their own User ID and login. 
+Sharing of User ID’s will be recorded as a non-compliance for the Master Consolidator and may result in 
+increased intervention of LCL / FAK containers.
+Once registered, the department will provide users with an email containing your MC ID, a temporary 
+password, and a link to the online declaration form to set your own password. You must use your own 
+unique login to lodge a MC declaration.
+Registration Forms can be found here:
+https://www.agriculture.gov.au/biosecurity-trade/import/before/brown-marmorated-
+stink-bugs/lclcontainers#master-consolidator-registrations
+Completed Master Consolidator registration forms are to be sent to SPP@aff.gov.au.
+
+How to access the new portal
+Once you have registered and have received your MC ID, log on to the departmental portal using your 
+registered username, password and two factor authenticator code.
+The Master Consolidator Declaration form can be accessed through the department portal via 
+https://portal-forms.agriculture.gov.au
+Detailed instructions on how to login and lodge a Master Consolidator Declaration Form and 
+troubleshooting information is available at: 
+https://www.agriculture.gov.au/sites/default/files/documents/master-consolidator-user-guide.pdf.
+
+Types of MC declarations
+There are five risk status types that can be declared:
+1. Treated offshore - the entire container with target high risk goods has been treated offshore, or
+2. Partially treated - all the target high risk goods inside the container have been treated offshore, or
+3. Treatment onshore - the entire container is nominated for onshore treatment, or
+4. Nil risk - the entire container does not have any target high risk goods inside, or
+5. Unknown risk - the contents of the container are unknown and nominated to be held at an
+approved arrangement (AA) site pending further information to be provided.
+Important: You must ensure that details entered for the ‘Vessel Id’ and ‘Voyage Number’ match exactly 
+what has been declared in ICS on the sea cargo report. If this information does not match, the system 
+cannot release the hold on your container.
+
+Nil Risk
+All goods within the container are Nil risk and do not meet any of the criteria outlined in the BMSB 
+seasonal measures by the department. This also includes containers that have been shipped out of 
+season but have still been flagged whilst the BMSB profiles are active in ICS.
+DO NOT use this option unless everything within the container is out of scope for BMSB seasonal 
+measures. If there are target high risk goods within the container that have been treated and the 
+balance is Nil risk, you will have to use the “Partially Treated” option as the “Nil Risk” option is not the 
+correct declaration type to lodge for this scenario and may result in a non-compliance being issued.
+
+Treated Onshore
+Not all target high risk goods OR nil goods have been treated offshore and whole container will need to 
+be treated onshore to mitigate the BMSB risk. It is the Master Consolidators responsibility to clear 
+treatment of goods with all relevant importers / brokers, as this decision lies solely with the Master 
+Consolidator. If any goods within the container cannot be treated for any reason, export will be the 
+only option available. Deconsolidation for part treatment is not permitted, if the whole container 
+cannot be treated onshore, the container will be directed for export.
+
+Treated Offshore
+All goods within the container can be treated on the one certificate as an FCL, or across multiple 
+certificates as LCLs, but ALL goods must have been treated offshore, not just the target high risk goods.
+If ALL goods have not been treated, and only the target high risk goods have been treated, please 
+select the “Partially Treated” declaration type, as the “Treated Offshore” option is not the correct 
+declaration type to lodge for this scenario and may result in a non-compliance being issued.
+Important: The container and seal for all goods and package quantities must be linked to the relevant 
+treatment certificate(s) via an acceptable consignment link, failure to do so will result in the whole 
+container requiring onshore treatment or export.
+
+Partially Treated Offshore
+Only part of the container has been treated i.e. All target high risk goods within the container. These 
+goods can be treated on the one certificate as consolidated cargo, or across multiple certificates as 
+LCL’s, but ALL target high risk goods must have been treated offshore.
+If all target high risk goods have not been treated offshore, then please use the “Treated Onshore” as 
+the “Partial Treatment” option is not the correct declaration type to lodge for this scenario and may 
+result in a non-compliance being issued.
+Important: The container and seal for all goods and package quantities must be linked to the relevant 
+treatment certificate(s) via an acceptable consignment link, failure to do so will result in the whole 
+container requiring onshore treatment or export.
+
+Unknown Risk
+Any declaration lodged as Unknown will be subject to a Full Import Declaration (FID) assessment. 
+Additional information will need to be sent to BMSBprocessing@aff.gov.au once the contents and risk 
+has been identified, including but not limited to a manifest and bill of lading. The Master Consolidator 
+is required to follow up on all containers lodged under this option and provide relevant information 
+once all FID’s have been lodged in ICS.
+Important: If there is no contact or declaration made by the relevant Master Consolidator for the 
+container after 35 business days, the container will be directed for export.
+
+Common Holds and ICS messages
+There are many different hold types within the ICS. The only hold for BMSB relating to LCL / FAK 
+containers is:
+SPHOLDM – Seasonal Pest Hold
+Common holds and/or messages mistaken for BMSB holds are:
+CONDREL – Conditional Release (pending department intervention on noted entry)
+SPREF – Seasonal Pest Referral
+GAS – Aqis Gas Hold
+HELD – Consolidated Status with no impediment details
+CHAINED UNDERBOND – Underbond movement not approved due to chaining
+Important: All LCL/FAK containers subject to BMSB Seasonal Measures will be held at the container level 
+on the wharf with an AQIS SEASONAL PEST HOLD (SPHOLDM) until an MC declaration has been lodged. 
+Individual House Bills (HBOLs) will not be held by BMSB holds they only apply at the container level.
+
+SPHOLDM
+If you have a AQIS SEASONAL PEST HOLD (SPHOLDM) and you receive a message in ICS directing you 
+to lodge an MC declaration, you will not be able to move your container until a declaration has been 
+completed. There is no way to have this hold lifted without a MC declaration. 
+Important: If you have lodged an MC declaration and ICS is still showing this message, please check that 
+your declaration has the correct vessel, voyage and container information as what has been declared in 
+the ICS.
+
+CONDREL
+If your FCL is showing a CONDITIONAL RELEASE message, your container is subject to department 
+intervention outlined in the noted entry. Your conditional release will clear once you have completed 
+all onshore interventions and receive a final release. 
+Important: Your consolidated status will remain HELD until your container has been assessed and cleared 
+from both DAFF and ABF requirements.
+
+SFREF
+If your House Bill (HBOL) is showing an AQIS SEASONAL PEST REFERRAL (SPREF) message, this is NOT a 
+hold. It is a system reference recognising that the goods on this HBOL has been profiled for BMSB and 
+applied a SPHOLD at the container level. The AQIS SEASONAL PEST REFERRAL message will remain on 
+the status summary review screen. Do not contact the department requesting that the SPREF be lifted, 
+it cannot be lifted as it is not a hold. 
+Important: If your container is showing as HELD, please check ICS to ensure that there are no other 
+ABF or AQIS holds as this is usually what is holding your HBOL if your container has a CONDCLEAR 
+or SUBUBMOV.
+
+GAS HOLD
+If your FCL is showing a AQIS GAS HOLD message, your container is subject to Giant African Snail 
+measures, this is not BMSB related. These holds cannot be lifted by the BMSB Processing Team, and 
+your container will be held until the risk has been investigated and / or mitigated by the Container NCC 
+team (containerncc@aff.gov.au).
+Important: Hitchhiker Pests Policy (HPP) and the BMSB Processing team cannot action these holds, they 
+are not BMSB related.
+
+HELD
+Important: An AQIS SEASONAL PEST REFERRAL is not a hold or an impediment. It will not impede the 
+movement of your container. If you have made payment and ICS has not updated your status from HELD, 
+ABF may need to do a recalc on the system.
+If your FCL or HBOL is showing a consolidated status of HELD, with no underbond conditions or 
+impediment details in the supplementary information (AQIS SEASONAL PEST REFERRAL is only a 
+system message, it is not an impediment), it is usually being held by ABF. 
+Please check that the cargo report has been evaluated and / or the import declaration has been paid as 
+these will hold your container on the ABF side. DAFF cannot action these holds.
+
+CHAINED UNDERBOND
+If your FCL is showing a consolidated status of HELD and / or your Underbond Conditions show NO 
+MOVEMENT ALLOWED, your underbond may be chained. 
+If the state of your underbond is CHAINED, you will need to contact ABF regarding your underbond 
+application as DAFF cannot action underbond movements or approvals.
+
+Common scenarios and solutions
+The scenarios below answer the most frequently asked questions regarding the importation of 
+goods during the BMSB risk season:
+Change of SCR type from LCL to FCL/FCX
+Changes to BMSB treatment rates to include timber
+FIXLOC Directions
+My container is still held in ICS after declaration lodgement
+
+Change of SCR type from LCL to FCL/FCX
+Important: ICS cannot automatically lift this hold once it has been applied. You must contact the BMSB 
+processing team to have your container released.
+Once a cargo type is reported in ICS as an LCL and referred for BMSB, an SPHOLD will be placed on the 
+container. If the cargo type is amended to an FCL / FCX, the SPHOLD will remain at the container level 
+even after the LCL report has been withdrawn. The system will not automatically lift the hold. If this 
+occurs, please email BMSBprocessing@aff.gov.au with your OBOL verifying the FCL cargo type, to have 
+the hold lifted.
+
+Changes to BMSB treatment rates to include timber
+Occasionally goods being imported will require onshore treatment for BMSB and treatment to address 
+commodity concerns like timber. If this is the case, once you have lodged your declaration you will have 
+to contact BMSBprocessing@aff.gov.au to amend the automated direction as this cannot be done via 
+the portal. 
+It is important that the rate gets changed to meet the higher requirements of the timber concern 
+otherwise your goods will be subject to a second treatment as the BMSB rate does not meet the timber 
+requirements.
+
+FIXLOC Directions
+Important: Do not continue to lodge declarations and / or amendments via the online portal to change / 
+fix the location, this can only be amended manually by the BMSB Processing team.
+If you receive a FIXLOC direction for your container via AIMS, you will need to contact 
+BMSBprocessing@aff.gov.au with the location you have nominated, and the entry number associated.
+This usually occurs when the selected approved arrangement in the declaration does not have the 
+direction required active for their location.
+You may need to change your AA nomination to one that has been approved to carry out the required 
+onshore intervention. This cannot be fixed via the online portal or by lodging amended or additional 
+declarations.
+
+Container is still held in ICS after 
+MC declaration lodgement
+Important: The BMSB Processing team is the only team that can advise and /or have this SPHOLD lifted. 
+If you have lodged your declaration, please wait up to an hour for messaging to update in ICS. If you 
+have waited and the hold still has not been lifted, please log back into the MC portal and review your 
+declaration. In most cases, a hold not lifting is due to the Vessel ID and/or the Voyage ID not matching 
+what has been reported in ICS on the Sea Cargo Report for the container. 
+If this is the case, please see the ‘what happens if I’ve made a mistake’ section of the Master 
+Consolidator User Guide. If the details in your lodgement are correct and your container is still held, 
+please contact BMSBprocessing@aff.gov.au to investigate further.
+
+Department contacts
+Hitchhiker Pests Policy: SPP@aff.gov.au
+For questions and information related directly to BMSB Seasonal Measures that cannot be answered 
+by visiting the website. Submission of MC registration form.
+BMSB Processing Team: BMSBprocessing@aff.gov.au
+For questions and information related directly to BMSB LCL / FAK assessment and directions and / or 
+MC declaration lodgement only.
+BMSB treatments: BMSBtreatments@aff.gov.au
+Questions and information related directly to offshore BMSB treatments and treatment providers, 
+including treatment certificates.
+Treatments: treatments@aff.gov.au
+Requests for 4.7 secure unpack directions only and enquiries regarding finalisation of onshore BMSB 
+treatment directions.
+Import Assessments: ImportAssessment@aff.gov.au
+Any assessment or direction queries relating to imports including FIDs lodged via COLs, UPEs and 
+Carnets.
+
+Questions

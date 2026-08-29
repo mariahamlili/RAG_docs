@@ -8,3 +8,8 @@ config.yaml
 logs/
 single_*.jsonl
 config.httpx.yaml
+ingest/config/local.yaml
+farmcore/.venv/
+farmcore/db.sqlite3
+farmcore/.env
+secrets/

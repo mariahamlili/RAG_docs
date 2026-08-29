@@ -1,0 +1,3362 @@
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+BOARD-IN-CONFIDENCE 
+CABINET-IN-CONFIDENCE 
+1 
+L\350069927.1 
+Australian Pesticides and Veterinary Medicines Authority
+Strategic Review Report - July 2023 
+Clayton Utz
+Level 10, 2 Phillip Law Street, Canberra ACT 2601
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+IMPORTANT NOTICE 
+Any statement of opinion or conclusion made in this Report is based on the 
+documentation that has been provided and is not a conclusive statement or assertion 
+of fact.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+Contents 
+1. 
+Executive summary .............................................................................................. 3 
+1.2 
+Scope of this report ............................................................................... 5 
+1.3 
+Summary of findings in relation to key issues ....................................... 5 
+2. 
+Background ........................................................................................................... 8 
+2.1 
+The APVMA ........................................................................................... 8 
+2.2 
+Context underlying this review ............................................................... 8 
+2.3 
+Approach and scope of the Report ...................................................... 10 
+3. 
+Regulatory performance .................................................................................... 11 
+3.1 
+Introduction and approach to assessing regulation ............................. 11 
+3.2 
+Key observations and findings ............................................................. 12 
+3.3 
+The APVMA's regulatory posture ........................................................ 13 
+3.4 
+Registrations, assessments and approvals ......................................... 15 
+3.5 
+Monitoring, compliance and enforcement ........................................... 20 
+3.6 
+Comments from case studies .............................................................. 33 
+3.7 
+Influencing factors and areas for future examination .......................... 35 
+4. 
+Financial management and procurement ......................................................... 37 
+4.1 
+Introduction, scope and approach of our review ................................. 37 
+4.2 
+What are the key requirements for the APVMA? ................................ 37 
+4.3 
+Does the APVMA achieve compliance with relevant requirements? .. 41 
+4.4 
+Compliance with other Finance Law: other matters ............................ 45 
+5. 
+Operations ........................................................................................................... 47 
+5.1 
+Introduction, scope and key issues ..................................................... 47 
+5.2 
+Personnel and operational matters...................................................... 48 
+5.3 
+Governance ......................................................................................... 52 
+6. 
+Glossary ............................................................................................................... 58 
+7. 
+Appendix:  APVMA Functions ........................................................................... 60
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+3 
+1. 
+Executive summary 
+1.1.1 
+The Australian Pesticides and Veterinary Medicines Authority (APVMA) is the independent 
+statutory authority responsible for the regulation of agricultural chemicals and veterinary 
+medicines in Australia.   This Report is a strategic review of the APVMA's allocation of 
+regulatory priorities, its capability to carry out the full scope of its regulatory functions and its 
+operations. 
+1.1.2 
+This report was commissioned by the Board of the APVMA (Board) at the request of the 
+Minister, in response to serious allegations raised during the Senate Estimates Hearing for the 
+Rural and Regional Affairs and Transport Legislation Committee in November 2022, and 
+further serious allegations raised during the independent review undertaken by Ms Mary 
+Brennan between December 2022 and February 2023 (Brennan Review).  This report 
+focuses on material relating to the period 2019 - 2022. 
+1.1.3 
+Based on the current material, we draw the following findings to the Board's immediate 
+attention. 
+The APVMA's overall regulatory posture requires examination and re-evaluation. 
+The material reviewed as part of this report does not indicate any instances where agvet 
+chemical products have been registered inappropriately.  However, we are concerned about 
+the impact of the APVMA's key regulatory priorities and how the allocation of those priorities 
+may have otherwise impacted its approach to regulation.  In particular, we are concerned 
+that the APVMA's focus on timeframes for registrations, assessments and approvals has 
+prioritised regulatory performance in relation to registrations, assessments and approvals 
+over regulatory performance in relation to monitoring, compliance and enforcement. 
+There are capacity building opportunities for the APVMA in relation to compliance 
+and enforcement. 
+The material reviewed indicates an educational approach to enforcement and a reticence to 
+pursue alternative, and more significant, enforcement measures.  We accept that an 
+educational approach to enforcement may be appropriate for minor contraventions and note 
+that the APVMA appears confident and capable to respond to alleged contraventions 
+through educational measures, such as the use of formal warnings. However, educational 
+measures will not always be appropriate, particularly where an alleged contravention is 
+serious.  The material reviewed indicates one instance where the APVMA elected to 
+proceed with educative enforcement measures, despite referral for criminal prosecution or 
+civil penalty proceedings having been recommended as appropriate enforcement measures 
+for that alleged contravention.  The material reviewed for the purposes of this report does 
+not reveal a motivation for the decision not to proceed with criminal prosecution or civil 
+penalty proceedings in that instance. 
+The Board should assess how the APVMA can build and diversify its compliance and 
+enforcement capabilities to ensure that the APVMA is equipped to respond appropriately to 
+serious contraventions in the future. 
+The APVMA's current timeframe performance targets do not align with realistic 
+regulatory best practice. 
+While we do not suggest that any agvet chemical products have been registered 
+inappropriately, we are concerned that setting targets of 100% for timeframe compliance 
+and making timeframes the key driver and performance metric for registrations, 
+assessments and approvals is not realistic, and does not reflect regulatory best practice or 
+resourcing.  This issue is interlinked with the APVMA's operational challenges as aiming for 
+100% timeframe compliance inevitably impacts the capacity and workload for the APVMA's 
+staff. 
+The APVMA's approach to regulation appears to align with industry interests.  
+There are instances where the APVMA's level of engagement with industry stakeholders 
+should be carefully examined. Accepting that part of being a regulator is engaging with and
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+4 
+working with industry, the information reviewed includes instances where the APVMA's 
+approach appears focused on assisting industry.  Alignment with industry interests also 
+appears to be embedded into the APVMA's regulatory priorities and culture.  The APVMA's 
+emphasis on timely registrations, assessments and approvals over monitoring, compliance 
+and enforcement is a prioritisation that, on one view, best serves industry interests.  While 
+this review does not purport to provide an explanation for this perception, we do recommend 
+that the APVMA's approach to engaging with industry be re-evaluated as a matter of priority. 
+A majority of the APVMA's ongoing chemical reviews have been in progress for 
+nearly two decades. 
+One of the APVMA's core monitoring programs - the Chemical Review Program - is 
+experiencing significant and protracted delays in finalising its review of registered agvet 
+chemicals.  Of the 10 ongoing chemical reviews, eight have been in progress for over 
+15 years or more, with seven ongoing for nearly 20 years.  While this report does not draw 
+conclusions with respect to the effects of these chemicals or seek to pre-empt the outcome 
+of ongoing reviews, the underlying causes of the delays affecting the Chemical Review 
+Program should be investigated as a matter of priority as such delays are not an acceptable 
+regulatory outcome. 
+There appear to be deficiencies in the APVMA's current capacity in relation to 
+financial management around procurements.   
+The material reviewed indicated a baseline knowledge and awareness of the 
+Commonwealth procurement requirements and a knowledge of the need to comply with 
+these requirements.  However, the material also reflected deficiencies in both the level of 
+staff knowledge and awareness of procurement requirements and in the systems used by 
+the APVMA to manage procurements.  We are particularly concerned that these 
+deficiencies may have led to non-compliance with the Commonwealth Procurement Rules 
+for one particular key service contract procurement.  We recommend that the Board 
+consider further investigation in relation to compliance for this procurement. 
+Staff turnover may have impacted capability across key operational and business 
+areas. 
+The APVMA faces challenges in staff capability across key operational and business 
+areas.  The high volume of employee turnover in recent years, including immediately 
+following the relocation of the agency from Canberra to Armidale, has likely contributed to 
+challenges for the APVMA. The APVMA has needed to rapidly upskill staff with key 
+corporate knowledge in relation to the Australian Public Service, the Commonwealth 
+procurement rules, the APS Values and the APS Code of Conduct.  
+The APVMA has an unacceptable volume of personnel related complaints for an 
+agency of its size - including allegations of serious misconduct. 
+The seriousness of the complaints and allegations made by current and former APVMA staff 
+is also cause for concern and further attention by the Board. Both the seriousness of the 
+allegations, the concentration of the allegations and the wide-ranging nature of the 
+allegations requires immediate further assessment by the Board.  The Board and the 
+APVMA should also continue to progress the initiatives already implemented, and should 
+continue to act and implement strategies to ensure that the APVMA is a safe and respectful 
+workplace. 
+The APVMA's governance structure, including the relationship between the CEO and 
+the Board, should be clarified. 
+The role of the Board and the Board's relationship with the CEO should be clarified to 
+promote effective oversight and strategic governance of the APVMA going forward. In 
+particular, it may be prudent to: 
+• 
+outline in detail the role of the Board in the context of the administration of the 
+APVMA; 
+• 
+review, revise and clarify guidance about the relationship between the Board and 
+the CEO, including by implementing formal reporting and briefing guidance from 
+the CEO to the Board; and
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+5 
+• 
+expand the number of Board members to facilitate the inclusion of additional skill 
+sets. 
+A summary of findings in relation to key issues is set out below at 1.3. 
+1.2 
+Scope of this report 
+1.2.1 
+This Strategic Review Report (Report) was undertaken by way of desktop review and 
+analysis.  
+1.2.2 
+The Report focuses on the following key issues: 
+regulatory performance (section 3); 
+financial management and procurement (section 4); and  
+operations, organisational and governance issues (section 5). 
+1.2.3 
+This Report is based on the period until February 2023, with a particular focus on the 
+period between 2019 - 2022.   
+1.2.4 
+Accordingly, and unless otherwise stated, references to the APVMA and the members of the 
+APVMA executive in this Report refer to the personnel occupying those substantive positions 
+during the relevant period.  
+1.2.5 
+In this respect, we note that an interim CEO was appointed in February 2023 and confirm that 
+matters since that time are not within the scope of this Report, other than to the extent 
+necessary to provide context or clarity in relation to specific issues.  
+1.3 
+Summary of findings in relation to key issues 
+1.3.1 
+A summary of the key findings and takeaways in relation to each issue is set out below. 
+Summary of key findings and takeaways 
+Regulatory performance 
+• 
+During the period 2019 - 2022, the APVMA's focus in undertaking regulatory 
+activities were achieving timeframes for registrations and assessments and 
+industry stakeholder engagement.  This is captured by the APVMA's own goal-
+setting, which include 100% targets for timeframe compliance. Compliance 
+targets of 100% are unrealistic, do not reflect best regulator practice and may 
+contribute to a reduction in regulatory performance. 
+• 
+During the period 2019 - 2022, the APVMA's level of activity in relation to 
+compliance and enforcement activities declined.   
+• 
+The compliance and enforcement activities that were taken indicate that the 
+APVMA adopted a low risk profile approach.   
+• 
+There are instances where this low risk profile approach arguably did not align 
+with the severity of the non-compliance being addressed. 
+• 
+It appears that the APVMA has limited capacity to progress ongoing monitoring 
+activities, with the most notable example being the protracted progression of its 
+Chemical Review Program.  In particular, it is concerning that a number of 
+chemical reviews have been ongoing for over 20 years. 
+• 
+Having regard to best practice principles for government regulators, it appears 
+that during the period 2019 - 2022, the APVMA's approach to regulation did not
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+6 
+Summary of key findings and takeaways 
+achieve an appropriate balance across all regulatory performance principles and 
+potentially demonstrated a skew towards collaboration and engagement with 
+stakeholders. The APVMA's approach to issuing infringement notices either 
+indicates a reticence to penalise industry or a lack of capability to appropriately 
+investigate, prepare and issue infringement notices. 
+• 
+Potential factors that may influence the APVMA's regulatory posture include the 
+implementation of recommendations from previous reviews, the APVMA's 
+relationship with industry, the APVMA's funding model and the APVMA's 
+organisational structure. The APVMA appears reticent to take compliance and 
+enforcement action against industry. 
+Financial management and procurement 
+• 
+There is a need for capacity building among APVMA staff at all levels to promote 
+applied awareness of procurement requirements.   
+• 
+Based on the materials provided to us, there appears to be an absence of robust 
+systems for the purposes of managing and tracking procurements and 
+minimising the risk of noncompliance with relevant requirements. There also 
+appears to have been a lack of guidance and internal processes for staff to 
+understand how to comply with procurement requirements. 
+• 
+We have material doubts as to whether one of the select procurements reviewed 
+for the purposes of this Report complied with Commonwealth procurement 
+requirements, including in relation to value for money, maintaining documentation 
+commensurate with the scale, scope and risk of the procurement, ensuring the 
+procurement is efficient, effective and economical and that the work order for the 
+procurement was appropriate. In relation to this procurement, speed of 
+implementation may have been prioritised to the detriment of compliance with 
+procurement requirements. 
+• 
+There appears to be significant limitations on the APVMA's case management 
+systems which may be impacting compliance with procurement requirements and 
+is likely limiting the APVMA's capacity to prepare or maintain sufficient 
+documentation to achieve or demonstrate compliance with relevant procurement 
+requirements and detect non-compliance with procurement requirements.   
+• 
+The APVMA's manual record keeping systems for procurements also limits its 
+ability to assess and improve its procurement performance. 
+Operations 
+• 
+During the period 2019 - 2022, the APVMA received a significant number of 
+personnel related complaints.  The volume of complaints is of high concern 
+having regard to the size of the agency.  The allegations also suggest a 
+consistent theme of dissatisfaction in the manner that complaints were handled 
+or progressed. 
+• 
+It should be noted that a number of the allegations and complaints made by staff 
+were very serious. We understand that, where appropriate, allegations have 
+been referred to the relevant authorities for further investigation. 
+• 
+Significant and recent changes to the APVMA's staff profile following the 
+relocation of the office to Armidale in 2019, has most likely impacted corporate 
+knowledge, workload, and work capacity as well as changes to its governance 
+structure (with the Board having been introduced in early 2022). We understand 
+only a small proportion of previous APVMA staff moved from Canberra to 
+Armidale and it may be inferred that the new staff and lack of previous APS 
+knowledge and experience impacted the operations of the APVMA.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+7 
+Summary of key findings and takeaways 
+• 
+The current governance structure, and in particular, the relationship between the 
+CEO and the Board, needs to be carefully examined and more clearly defined.   
+• 
+This lack of clear delineation of roles was probably a factor in the APVMA's 
+leadership failing to escalate serious issues which would normally require the 
+Board's strategic oversight. 
+• 
+Robust reporting and strategic frameworks, including a clear charter of the 
+Board's roles and responsibilities, may enhance the way that the APVMA 
+identifies and responds to significant challenges in the future.  
+• 
+Greater reporting between the APVMA and the Department and Minister would 
+allow for the APVMA to greater integrate into the overall APS and executive 
+framework and policy settings.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+8 
+2. 
+Background 
+2.1 
+The APVMA 
+2.1.1 
+The APVMA is an independent statutory authority and body corporate established under the 
+Agricultural and Veterinary Chemicals (Administration) Act 1992 (Cth) (Administration Act). It 
+is a Commonwealth entity within the portfolio of the Minister for Agriculture, Fisheries and 
+Forestry. 
+2.1.2 
+As the national regulator of agricultural and veterinary chemical products in Australia, the 
+APVMA operates in partnership with State and Territory governments to administer laws 
+relating to the regulation and control of such chemicals up to the point of retail sale. These 
+functions are addressed in further detail in Section 3 and the Appendix of this Report. 
+2.1.3 
+In addition to the powers and functions conferred by the Administration Act, the APVMA also 
+administers the Agvet Code pursuant to the Agricultural and Veterinary Chemicals Act 1994 
+(Cth) (AVC Act) and Agricultural and Veterinary Chemicals Code Act 1994 (Cth) (Agvet Code 
+Act), and the levying of agricultural and veterinary products under the Agricultural and 
+Veterinary Chemical Products (Collection of Levy) Act 1994 (Cth) (collectively the AVC 
+legislation).1  
+2.1.4 
+The APVMA performs a range of regulatory functions under the AVC legislation. There are 
+three broad categories by reference to which these functions may be described: 
+Assessment functions – including suitability assessments for the supply of 
+chemical (and constituent) products and other chemical safety reviews; 
+Advisory and consultation functions – including in relation to the development of 
+industry standards and guidelines, and the management and control of chemical 
+products and their constituents; and 
+Investigatory and enforcement functions – including monitoring and compliance 
+activities, and enforcement action (ranging from issuing warnings and enforceable 
+directions to the suspension or cancellation of statutory approvals). 
+2.1.5 
+The key activities undertaken by the APVMA in performing each of these functions (and the 
+powers conferred on it to do so) are detailed in the table at the Appendix. 
+2.2 
+Context underlying this review 
+The November Senate Estimates Hearing 
+2.2.1 
+On 8 November 2022, the Senate Rural and Regional Affairs and Transport Legislation 
+Committee convened a hearing in Canberra (November Senate Estimates Hearing).  The 
+then CEO attended the November Senate Estimates Hearing on behalf of the APVMA. 
+2.2.2 
+At the November Senate Estimates Hearing, Senator Whish-Wilson asked the CEO a question 
+about 'an incident that occurred at a staff Christmas party in 2021, in which a senior male staff 
+member allegedly urinated on other staff members'.2  The CEO stated in response that she 
+was 'not aware of it in that context… I am aware of an incident that occurred in a private 
+1 While the APVMA receives some funding through government appropriations, it is a cost-recovered agency with the 
+majority of its income sourced from industry levies, fees and charges (which comprised $41.570 million of the 
+APVMA's total income of $43.657 million in the 2021-2022 financial year). 
+2 Hansard transcript (Tuesday, 8 November 2022) Rural and Regional Affairs and Transport Legislation Committee, 
+page 49.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+9 
+capacity - not at a work function'.3  During the remainder of the questioning for this hearing, the 
+CEO stated that she had been made aware of the matter but that 'there was no official 
+complaint made'.4  
+2.2.3 
+At the conclusion of the November Senate Estimates Hearing, the Minister described the 
+allegations put to the CEO by Senator Whish-Wilson as 'obviously very concerning' noting that 
+he had not previously been aware of the allegations and would seek an urgent briefing from 
+the Department.5 
+The Brennan Review 
+2.2.4 
+On 23 November 2022, the Minister appointed an independent reviewer, Mary Brennan, to 
+undertake an external review into the workplace culture of the APVMA (Brennan Review).  As 
+part of her external review, Ms Brennan spoke with current and former APVMA employees.  
+On 8 February 2023, Ms Brennan provided an interim report to the Minister (Interim Report).   
+2.2.5 
+Having regard to the seriousness of additional allegations reported in the Interim Report, the 
+Minister discontinued the Brennan Review and referred the allegations to the Australian Public 
+Service Commissioner and the relevant policing authorities. 
+2.2.6 
+These referred matters are not the subject of this review and we make no comment or 
+conclusion in relation to those matters.  
+Request for the current report 
+2.2.7 
+Following the discontinuation of the Brennan Review, the Minister also requested that the 
+Board immediately consider and provide a report to the Minister addressing the following 
+issues, including: 
+issues raised regarding the APVMA's regulatory performance, including allegations 
+of fee anomalies, and relationships with industry and compliance with statutory 
+timelines being prioritised over the safe registration of chemical products; 
+a review of the issues raised in relation to the financial management of the agency, 
+including the potential misuse of public resources in a significant IT procurement; 
+and 
+a review of the issues raised in relation to the administration and operation of the 
+agency more generally, including any Code of Conduct investigations as 
+appropriate. 
+2.2.8 
+The present Report has been prepared in response to the Minister's request to the Board.  The 
+present review focuses on the first two issues as listed above.  In relation to the third issue, 
+this Report considers the current administration and operations of the APVMA but is not a 
+workplace culture report or workplace relations report. 
+2.2.9 
+The present review runs in parallel to the matters referred to other authorities and mentioned 
+at 2.2.5 above.  
+3 Hansard transcript (Tuesday, 8 November 2022) Rural and Regional Affairs and Transport Legislation Committee, 
+page 50. 
+4 Hansard transcript (Tuesday, 8 November 2022) Rural and Regional Affairs and Transport Legislation Committee, 
+page 50. 
+5 Hansard transcript (Tuesday, 8 November 2022) Rural and Regional Affairs and Transport Legislation Committee, 
+page 51.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+10 
+2.3 
+Approach and scope of the Report 
+2.3.1 
+This Report has been prepared in accordance with the following stages: 
+1 
+Scoping 
+and 
+requests 
+for 
+information 
+• 
+Requests for documents falling within the scope of the 
+matters to be addressed in the Report were made. 
+• 
+Relevant publicly available documents were also reviewed 
+for the purposes of preparing this Report. 
+2 
+Desktop 
+review 
+• 
+A desktop review of the documents provided was 
+undertaken.   
+• 
+This includes documents provided by the APVMA, as well 
+as other documents and information provided to us in the 
+course of the review, including by APVMA employees and 
+the Board. 
+3 
+Report 
+preparation 
+• 
+This Report and the accompanying recommendations have 
+been prepared. 
+2.3.2 
+We have not conducted interviews with staff of the APVMA for the purposes of this review.  
+2.3.3 
+The current executive of the APVMA has been fully supportive in attempting to provide us with 
+all relevant information and documentation. 
+2.3.4 
+The information that the APVMA has provided as part of this review has been limited to the 
+information that it has been able to collect using its document management platform and other 
+case management systems. We have also been provided with a limited and unsorted selection 
+of other hard-copy documents comprising APVMA correspondence and file notes.   
+2.3.5 
+Given the volume of documents held by the APVMA and its system limitations, we prepared 
+specific requests for information based on the matters raised in the Minister's letter initiating 
+this review. We understand the information provided has been at times filtered for relevance.  
+2.3.6 
+Based on the information that was provided, we prepared supplementary requests to target 
+additional relevant information. While some of this information was provided in response to the 
+supplementary requests, we understand there is still additional relevant information which has 
+not been provided - noting the known limitations associated with the APVMA's current 
+document management platform as detailed below. Given this, the documentary material we 
+have been able to review from the APVMA is not comprehensive.   
+2.3.7 
+We note that we have also had regard to publicly available material in completing this review. 
+2.3.8 
+We understand that the document management platform used by the APVMA is heavily reliant 
+on manual user filing and does not have any automated filing functionality. Further, we 
+understand that there is an inherent limitation as to the amount of relevant information that can 
+be extracted from the APVMA's document management platform.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+11 
+3. 
+Regulatory performance 
+Summary of key findings and takeaways 
+• 
+During the period 2019 - 2022, the APVMA's focus in undertaking regulatory 
+activities were achieving timeframes for registrations and assessments and 
+industry stakeholder engagement.  This is captured by the APVMA's own goal-
+setting, which include 100% targets for timeframe compliance. Compliance 
+targets of 100% are unrealistic, do not reflect best regulator practice and may 
+contribute to a reduction in regulatory performance. 
+• 
+During the period 2019 - 2022, the APVMA's level of activity in relation to 
+compliance and enforcement activities declined.   
+• 
+The compliance and enforcement activities that were taken indicate that the 
+APVMA adopted a low risk profile approach.   
+• 
+There are instances where this low risk profile approach arguably did not align 
+with the severity of the non-compliance being addressed as discussed later in 
+this section. 
+• 
+It appears that the APVMA has limited capacity to progress ongoing monitoring 
+activities, with the most notable example being the protracted progression of its 
+Chemical Review Program.  In particular, it is concerning that a number of 
+chemical reviews have been ongoing for over 20 years. 
+• 
+Having regard to best practice principles for government regulators, it appears 
+that during the period 2019 - 2022, the APVMA's approach to regulation did not 
+achieve an appropriate balance across all regulatory performance principles and 
+potentially demonstrated a skew towards collaboration and engagement with 
+stakeholders. The APVMA's approach to issuing infringement notices either 
+indicates a reticence to penalise industry or a lack of capability to appropriately 
+investigate, prepare and issue infringement notices. 
+• 
+Potential factors that may influence the APVMA's regulatory posture include the 
+implementation of recommendations from previous reviews, the APVMA's 
+relationship with industry, the APVMA's funding model and the APVMA's 
+organisational structure. The APVMA appears reticent to take compliance and 
+enforcement action against industry. 
+3.1 
+Introduction and approach to assessing regulation 
+Scope 
+3.1.1 
+The Minister requested the Board to report on allegations relating to the APVMA's regulatory 
+performance, including regarding fee anomalies, relationships with industry and compliance 
+with statutory timelines being prioritised over the safe registration of agvet chemical products. 
+Approach to examining the APVMA's regulatory performance 
+3.1.2 
+In examining the APVMA's regulatory performance, we have considered open-source material 
+and the APVMA's own published statistics that indicate how the APVMA undertakes its 
+regulatory activities, including the frequency of its regulatory activities and its approach to 
+regulation as described in its strategic material, including the Statements of Expectation and 
+Intent, the most recent of which were exchanged between then Minister David Littleproud MP 
+and the APVMA in March 2022.  The APVMA's strategic approach to regulation, as captured in 
+its public facing documents and its own performance measures, is considered in section 3.3. 
+3.1.3 
+To further contextualise this material, which provides a high-level indication of the APVMA's 
+regulatory performance, we have also identified case studies for each category of regulatory
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+12 
+activity.  These case studies provide insight into the manner in which the APVMA has 
+undertaken its regulatory functions in recent years.   
+3.1.4 
+These case studies also provide illustrative examples of the matters that should be addressed 
+as a priority when considering the future strategic direction of the APVMA from a regulatory 
+performance perspective. 
+Approach to assessing the APVMA's regulatory performance 
+3.1.5 
+We have considered the APVMA's approach to regulation having regard to the 
+Commonwealth's Resource Management Guide 128 (RMG128) for regulatory performance.  It 
+is in the context of the principles set out in RMG128 that we have examined specifically the 
+APVMA's regulatory posture and approach to registrations, assessments and approvals, and 
+monitoring and compliance activities. 
+3.1.6 
+The RMG1286 sets out a best practice guide for regulators and three core principles that 
+should inform the manner in which Commonwealth regulatory functions are performed, those 
+being: 
+Principle 1: Continuous improvement and building trust (in terms of 
+performance, capability and culture, developing organisational values that support 
+best practice, utilising internal and external accountability processes, and 
+harmonising activities with other regulators); 
+Principle 2: Risk-based and data driven (monitoring and proportionate managing 
+of risks, maintaining essential safeguards and compliance strategies, and choosing 
+efficient and cost-effective regulatory actions); and 
+Principle 3: Collaboration and engagement (transparency in communication and 
+decision-making, regular and timely engagement with stakeholders via a range of 
+3.2 
+Key observations and findings  
+3.2.1 
+We have set out in detail our analysis of the APVMA's regulatory performance at section 3.6, 
+and section 3.7. 
+3.2.2 
+We make the following key observations about the APVMA's regulatory performance: 
+the APVMA's primary regulatory priorities appear to be to meet timeframes for 
+registrations, assessments and approvals and industry stakeholder engagement.  
+This position is reflected in the APVMA's public facing communications, its 
+performance metrics, internal communications and industry engagement and 
+registration and assessment statistics; 
+the APVMA is less active in relation to enforcement activities.  When the APVMA 
+does engage in enforcement related activities, the APVMA appears to favour 
+education letters and formal warnings over compliance action and appears to have 
+a low risk appetite for compliance action more generally;  
+the APVMA's assessment, investigations and monitoring statistics suggest that in 
+general, the APVMA is not overly active in the enforcement space and there are 
+material concerns arising from the decision making processes of the APVMA in 
+relation to regulatory compliance and the regulatory capture of the APVMA;  
+6 Department of Finance, Resource Management Guide 128: Regulator Performance 
+https://www.finance.gov.au/government/managing-commonwealth-resources/regulator-performance-rmg-128.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+13 
+(d) 
+the protracted progression of the APVMA's Chemical Review Program indicates 
+that the monitoring aspect of the APVMA's regulatory activities is not a priority when 
+compared with registrations, assessments and approvals. There are concerns that 
+this has resulted in some chemicals remaining in products in Australia where they 
+have been banned in other jurisdictions; 
+(e) 
+overall, the APVMA's approach to regulation, coupled with its engagement with 
+specific stakeholders in certain instances has a high risk of regulatory capture by 
+industry; and 
+(f) 
+potential factors that may influence the APVMA's regulatory posture include 
+recommendations from previous reviews, the APVMA's relationship with industry, 
+and the APVMA's organisational structure. 
+3.2.3 
+Putting these observations in the context of the principles set out in RMG128, we make the 
+following findings about the APVMA's regulatory performance: 
+in relation to Principle 1 (continuous improvement), the information about the 
+manner in which the APVMA has carried out its regulatory activities between the 
+period 2019 - 2022 suggests that the APVMA resources for monitoring may be 
+limited and that the APVMA has a very low risk appetite in relation to undertaking 
+compliance and enforcement activities; 
+in relation to Principle 2 (risk based and data driven), the information available 
+indicates that the APVMA approaches its monitoring, compliance and enforcement 
+activities with a low-risk appetite, insofar as the quantum and frequency of these 
+activities is low. This raises a concern that the action being taken by the APVMA is 
+not proportionately managing compliance risks. However, the timeframe compliance 
+targets and completion for registrations, assessments and approvals could, on one 
+view, indicate a higher risk tolerance for the registration of agvet chemical products; 
+and 
+in relation to Principle 3 (collaboration and engagement), it is clear that the APVMA 
+is highly engaged with its stakeholders.  The material we have reviewed indicates 
+that transparency, communication and engagement with stakeholders is a 
+regulatory priority for the APVMA, at a public, organisational and executive level.  
+The nature of the APVMA's stakeholder relationships arguably inform and 
+contextualise its regulatory approach in other areas, and in particular its lack of 
+compliance and enforcement action. The issue is that prioritising stakeholder 
+relationships may result in a reduction in compliance activity where that activity 
+would otherwise be appropriate. 
+3.3 
+The APVMA's regulatory posture 
+3.3.1 
+We consider that the APVMA's own self-described regulatory posture is critical to 
+understanding and contextualising its regulatory performance. 
+3.3.2 
+In order to understand the APVMA's regulatory posture, we have considered its annual 
+reports, other public facing documents such as its annual compliance plan, and its 
+communications with industry as set out in its quarterly newsletters.  This publicly available 
+material indicates that the APVMA considers that its primary regulatory priorities are timeliness 
+and collaboration with industry.  Further, this material indicates that the APVMA's focus lies 
+with registration, assessments and approvals for agvet chemical products, and appears 
+publicly to be less focused on matters related to monitoring, compliance and enforcement 
+activities. 
+3.3.3 
+In its 2021 - 2022 Annual Report, the APVMA opened its section on regulatory performance 
+with the following statement:
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+14 
+In 2021-22, the APVMA has remained focused on ensuring Australians are 
+provided with timely access to safe and effective agricultural and veterinary 
+chemical products that support agricultural productivity and improved animal health. 
+This year we maintained our strong timeframe performance, completing 97% of 
+applications for pesticides, veterinary medicines and permits within statutory 
+timeframes.7 
+3.3.4 
+The APVMA's 2021 - 2022 strategic priorities are described as delivery, engagement, reform 
+and foundation.8  In its annual report, the APVMA sets out a series of activities for each 
+strategic priority.  The APVMA measures its performance against the activities for each 
+strategic priority by way of identified performance measures.  Timeframe compliance is 
+consistently communicated across publicly published materials as one of the APVMA's 
+regulatory performance measures.  Four of the APVMA's self-imposed six key performance 
+measures in relation to regulation are related to timeliness or compliance with statutory 
+timeframes.9 
+3.3.5 
+The APVMA's 2022-2023 Compliance Plan describes its approach to regulation as being 
+informed by intelligence led delivery, collaborative engagement, and a continuous 
+improvement approach to reform.10  Our assessment is that the Compliance Plan reflects an 
+education and engagement based approach to regulation rather than an investigation and 
+enforcement based approach.   
+3.3.6 
+In the year 2021-2022, the APVMA set a target of 100% compliance for the following activities 
+falling under the strategic priority of "delivery":11 
+100% of applications to be finalised within legislative timeframes for risk based 
+assessment and registration of pesticides and veterinary chemicals; 
+100% of audits conducted to the Australian Good Manufacturing Practice Code 
+closed within 3 months of receipt; 
+100% of reconsiderations completed in accordance with the Chemical Review 
+Program Plan; and 
+(d) 
+100% of Annual Compliance Plan activities completed in accordance with the 
+Annual Compliance Plan. 
+3.3.7 
+100% compliance targets may detract regulators from most efficiently using their resources to 
+manage risks and maximise regulatory opportunities.  
+3.3.8 
+These kinds of targets are inconsistent with risk-based regulation practice, which requires an 
+evidence-based means of targeting the use of resources and prioritising attention to the 
+highest risks in accordance with a transparent, systematic and defensible framework.12 
+Risk-based regulation requires regulators 'focus on risks not rules'.13 A published case study of 
+one Australian regulator found that genuinely responding to complex problems with 
+7 2021-2022 Annual Report, page 4. 
+8 2021-2022 Annual Report, page 28. 
+9 APVMA Annual Report 2021-2022, page 98, Figure 1. 
+10 APVMA 2022-23 Compliance Plan. 
+11 APVMA Annual Report 2021-2022, pp 28-33. 
+12 Julia Black and Robert Baldwin, 'Really Responsive Risk-Based Regulation' (2010) 32(2) Law and Policy 181, 181. 
+13 Ibid, 184.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+15 
+appropriate solutions based on minimising risk could be hampered where staff felt 'pressured 
+to act quickly'.14  
+3.3.9 
+Best practice regulation requires regulators to focus on cases offering strategic opportunities to 
+create public value.15 Regulatory culture that is too focused on procedures and timelines for 
+performance can hinder regulators from adopting a responsive posture or focusing on 
+opportunities for systemic change.16 Regulatory commentators have relevantly observed that 
+overemphasis on 'key performance indicators (KPIs) and risk-reduction metrics can be highly 
+dangerous things. They have a place but must be kept in their place'.17 
+3.3.10 
+While the 100% compliance target indicates the APVMA's strong commitment to these aspects 
+of its performance, allocating target percentages of 100% may not reflect the most effective or 
+appropriate regulatory approach, particularly when dealing with complex and technical subject 
+matter.  
+3.4 
+Registrations, assessments and approvals 
+3.4.1 
+Registrations, assessments and approvals of agvet chemical products form a large and critical 
+part of the APVMA's regulatory remit.  All agvet chemical products sold in Australia must be 
+registered by the APVMA.  As part of the registration process, the APVMA is required to 
+assess the potential effects of agvet chemical products on the health and safety of people, 
+animals, crops and the environment.  The APVMA will then consider whether any particular 
+restrictions should be placed on the manner in which is the agvet chemical product is used.  
+Once an agvet chemical product is registered by the APVMA, it is approved for the purposes 
+and the uses stated on its label. 
+3.4.2 
+Applications may also be made for permits allowing agvet chemical products to be used in a 
+manner that is not permitted by the label. 
+3.4.3 
+Registrations, assessments and approvals are a critical part of the APVMA's regulatory role 
+because an inability to register a particular agvet chemical product may have trade and retail 
+impacts.  The corollary of this is that this aspect of the APVMA's regulatory functions requires 
+a high level of interface and engagement with industry stakeholders, including manufacturers 
+and suppliers.18 
+How does the APVMA describe its approach to registrations and assessments? 
+3.4.4 
+The APVMA's public facing materials include resources for applicants seeking to register or 
+vary regulated products and actives, as well as statistics in relation to the APVMA's regulatory 
+performance for each quarter.  
+3.4.5 
+Significant attention in the APVMA's public facing materials is focused on emphasising the 
+importance of timeliness in processing registrations and assessments.  Communications in 
+relation to timeframe performance has increased since 2020.  For example, since 2020, the 
+APVMA has published quarterly regulatory newsletters on its website, which relevantly 
+14 Bridget Malcolm and Mieke van der Bijl-Brower, Developing a Systemic Design Practice to Support an Australian 
+Government Regulatory Agency (Paper delivered to Relating Systems Thinking and Design Symposium, 13-15 
+October 2016, Toronto), 8: http://openresearch.ocadu.ca/id/eprint/1915/. 
+15 John Braithwaite, 'Responsive Excellent' in C Coglianese (ed) Achieving Regulatory Excellence (Brookings 
+Institution Press, 2017) 23. 
+16 Ibid 27. 
+17 Ibid 32. 
+18 The APVMA regulates the use of agvet chemicals up until the point of sale, after which regulation is undertaken by 
+the States and Territories.  See:  APVMA website, Agvet chemical regulation.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+16 
+includes a summary of the APVMA's registration and assessment timeframes for each 
+quarter.19   
+3.4.6 
+The APVMA's published statistics indicate that the APVMA has, in recent years, significantly 
+improved its compliance with statutory timeframes.  The APVMA publishes quarterly 
+performance reports with statistics in relation to its timeframe compliance for applications and 
+the number of applications in progress for the reporting period.20  A comparison of the quarterly 
+reports for the July - September quarter from 2017 to 2022 suggests an increase in timeframe 
+performance, particularly from 2020 onwards.21 
+Quarterly performance report Overall timeframe performance 
+July - September 2017 58% 
+July - September 2018 86% 
+December 2019 87% 
+July - September 2020 94% 
+July - September 2021 94.7% 
+July - September 2022 96.9% 
+3.4.7 
+The APVMA has not to our knowledge published any other data concerning quality, 
+challenges, compliance, enforcement or risk management - the inference being that this data 
+subset was not a focus or concern for the APVMA.  
+3.4.8 
+The APVMA's public-facing approach to prioritising timeframes for registrations and 
+assessments appears to have flowed through to its internal discussions and its discussions 
+with stakeholders.  The material we have reviewed indicates that timeframe compliance was a 
+frequent theme in discussions both within the APVMA and in the APVMA's discussions with its 
+external stakeholders.   
+Potential impacts of a timeframe-oriented focus 
+3.4.9 
+Although it is not possible to conclusively make a determination on the basis of the material 
+reviewed for this Report, the information available suggests that there is a risk that the 
+APVMA's objective of timeliness may have been pursued to the detriment of other regulatory 
+activities, including investigations, monitoring, compliance and enforcement.   
+3.4.10 
+In particular, we note the following allegations raised in the material reviewed for this Report.  
+While the list below describes the allegations as made, given the general nature of the 
+allegations and the scope of the review undertaken for the purposes of this Report, it is not 
+possible to assess the veracity of each allegation: 
+the APVMA expedited the approval of registrations for certain agvet chemical 
+products, including where staff processing registrations were at times directed to 
+approve certain chemical agvet chemical products; 
+19 See:  APVMA website, Newsletters. 
+20 See:  APVMA website, Performance statistics. 
+21 See:  APVMA website, Performance statistics and archives.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+17 
+employees were directed to undertake work specifically to assist particular industry 
+stakeholders in relation to specific agvet chemical product registrations; 
+senior APVMA staff appeared to advocate internally for the registration of particular 
+agvet chemical products from particular companies (including where APVMA staff 
+were former employees of those companies); 
+(d) 
+progress for outstanding applications was permitted to plateau after the relevant 
+statutory timeframe for determination of the application had passed.  As we 
+understand it, the inference arising out of this allegation is that where an application 
+was not be completed before the statutory deadline, it would not be prioritised after 
+the deadline had passed because completion of the application would no longer 
+positively contribute to the key performance indicator for timeframe compliance; and  
+(e) 
+concerns from staff that Australia may be missing out on the newest chemicals 
+because international companies feel they cannot trust the registration system. This 
+is of course an allegation that is worthy of further review and investigation. 
+Registrations and assessments case study:  Changes to labelling for 2,4-D products 
+3.4.11 
+In particular, the 2,4-D case study captures an instance where the APVMA made a decision at 
+the conclusion of a lengthy chemical review process and gave holders less than 24 hours to 
+implement the decision.   
+3.4.12 
+This case study illustrates the impact of the APVMA's impractical approach to timeframe 
+management in regulatory decision-making. 
+Cancellation and suspension of 2,4-D product labels 
+3.4.13 
+2,4-D is used as a herbicide and a weed killer, targeting broadleaf weeds.  Weedkillers 
+containing 2,4-D are regularly used in agricultural settings in Australia, including in relation to 
+crops grown for human consumption. 
+3.4.14 
+A summary of the relevant key milestones in the APVMA's regulatory decision-making process 
+in relation to the cancellation and suspension of 2,4-D product labels is as follows: 
+Date 
+Milestone and descriptions 
+2003 
+Chemical review of 2,4-D begins 
+In 2003, the APVMA began its reconsideration of 2,4-D as part of the 
+Chemical Review Program, due to concerns about the impact of 2,4-D on 
+human health (including occupational health and safety) and the 
+environment (including impacts on waterways and non-target animals and 
+plants).22 
+24 October 
+2019 
+Proposed regulatory decision for 2,4-D is published 
+On 24 October 2019, the APVMA published its proposed regulatory 
+decisions with respect to the reconsideration of 2,4-D.  This relevantly 
+included an attachment identifying 2,4-D product labels that were proposed 
+to be affirmed and varied by the final regulatory decision.23 
+3 September 
+2020 
+Chemical review of 2,4-D is finalised and published  
+22 APVMA website, 2,4-D. 
+23 APVMA Special Gazette, 24 October 2019.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+18 
+Date 
+Milestone and descriptions 
+On 3 September 2020, the APVMA completed its chemical review of 2,4-D 
+(2,4-D Decision).  This decision included as an attachment a list of labels 
+that were proposed to be affirmed and varied.24  This decision cancelled the 
+registration and label of only a single product. 
+30 
+September 
+2020 
+Cancellation and suspension of 2,4-D labels 
+On 30 September 2020, the APVMA published a further Special Gazette 
+notice in relation to approved labels for 2,4-D products (2,4-D Notice).25  
+This notice immediately cancelled or suspended previously approved labels 
+for registered 2,4-D products - including products listed in the 2,4-D 
+Decision, made earlier that month, as being affirmed and varied.   
+The 2,4-D Notice issued on 30 September 2020 accordingly reflected a 
+change in position from the APVMA as to the registration status of product 
+labels for over 230 products.26 
+Additionally, the 2,4-D Notice prescribed requirements that came into effect 
+on 1 October 2020 - the very next day after the 2,4-D Notice - for suppliers 
+of 2,4-D products to immediately update supply instructions for all affected 
+2,4-D products sold.   
+The 2,4-D Notice provided holders with a 12 month buffer period to update 
+existing affected 2,4-D product labels. 
+3.4.15 
+The material we have reviewed indicates that industry representatives were not provided with 
+prior notice of the APVMA's decision to cancel or suspend the affected 2,4-D products.   
+3.4.16 
+As a result of the decision, holders were required to make new applications in relation to 
+affected 2,4-D products and/or product labels, and suppliers had to immediately provide copies 
+of the updated supply instructions with less than 24 hours' notice.  The documentation that we 
+have reviewed does not appear to provide an explanation as to why this change was 
+communicated with less than 24 hours' notice for implementation. 
+3.4.17 
+In our view, it is concerning that a regulator would make a decision with such broad ranging 
+impact on holders, manufacturers and suppliers with a notice period of less than 24 hours to 
+implement certain mandatory requirements flowing from that decision.  This is particularly the 
+case in circumstances where the decision made on 30 September 2020 reflected a change in 
+position from that communicated in October 2019 and 3 September 2020.  
+3.4.18 
+Regulatory best practice should have seen greater forewarning provided to those impacted by 
+the decision in circumstances where the most recent communication from the APVMA on 
+3 September 2020 indicated that existing product labels would be affirmed and varied and had 
+not listed any product labels for cancellation or variation.  
+Registrations and assessments case study:  item 25 assessment 
+3.4.19 
+The APVMA also dedicated its resources to assisting holders to expedite applications for 
+permits and changes to labelling requirements.  Employees of the APVMA at the time of this 
+decision later commented that the push to expedite these applications was inappropriate. 
+24 APVMA Special Gazette, Thursday 3 September 2020 - see Attachment 2. 
+25 APVMA Special Gazette, Wednesday, 30 September 2020. 
+26 Specifically, labels were cancelled for 195 products and labels were suspended for 38 products.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+19 
+3.4.20 
+This case study relates to the apparent dedication of APVMA resources to assist a company 
+(referred to as Company A) to expedite an application. 
+Background:  item 25 assessment 
+• 
+The APVMA published a proposed regulatory decision in relation to an agvet 
+chemical.  This relevantly included the proposed introduction of restrictions to 
+products containing this agvet chemical (affected products). 
+• 
+Company A raised concerns about the proposed restrictions and requested that 
+the APVMA commence an item 25 technical assessment to consider an 
+independent assessment obtained by Company A.   
+• 
+Company A argued that having regard to the conclusions in the independent 
+assessment, there was a basis for the APVMA to not impose all of the 
+proposed restrictions initially contained in the proposed regulatory decision. 
+• 
+Internal email correspondence shows that during this item 25 assessment, the 
+APVMA approached Company A to obtain Company A's views - as a member 
+of industry - about how the revised proposed restrictions could be presented.  It 
+also appears that as a result of this exchange, Company A sought input from 
+other industry stakeholders to report back to the APVMA as to industry's 
+feedback about the proposed restrictions. 
+• 
+The APVMA completed the item 25 assessment.  The completed assessment 
+indicates that the APVMA accepted, in part, Company A's position and the 
+independent assessment provided in support of its position.  The assessment 
+also appears to adopt the format of the revised proposed restrictions with 
+Company A's input. 
+• 
+The material we have reviewed also includes references from APVMA 
+employees that made observations which appear to relate to the level of 
+assistance provided to Company A, including that the research being 
+undertaken by APVMA employees appeared to be for the purposes of 
+supporting Company A's position in advocating for changes to the proposed 
+restrictions. 
+• 
+The material we have reviewed also indicates that this item 25 assessment was 
+prioritised and expedited.  One purpose for this was presumably to minimise 
+the potential adverse commercial impacts on Company A. 
+3.4.21 
+This case study is not in and of itself demonstrative of any impropriety by the APVMA with 
+respect to the assistance that it provided to Company A.  In this respect, we note that an 
+item 25 assessment is a specific type of technical pre-application assistance that potential 
+applicants can seek from the APVMA prior to making an application in relation to an agvet 
+chemical product.  
+3.4.22 
+However, we do consider that this case study raises the following issues with respect to the 
+approach of the APVMA to its regulatory function: 
+it appears to us, based on the material we have reviewed, that senior members of 
+the APVMA's leadership at the time were involved in assisting Company A to 
+identify an item 25 assessment as a pathway through which to bring about changes 
+to the proposed regulatory decision; 
+the actions of APVMA staff in actively consulting with Company A, and through 
+Company A, other members of industry, as to proposed changes to the restrictions 
+raises concerns about whether the APVMA was, in this instance, adopting an 
+evidence-based approach to undertaking the item 25 assessment; and
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+20 
+to the extent that the allegations raised by employees in relation to the assistance 
+provided to Company A as part of this case study are accurate, it is also concerning 
+if staff of the APVMA approached the item 25 assessment with a view to supporting 
+Company A's position, rather than undertaking an independent and evidence-based 
+approach to the technical assessment. 
+What could these case studies indicate about registrations, assessments and 
+approvals? 
+3.4.23 
+The APVMA made the 2,4-D product labelling decision with significant implications for industry 
+and provided less than 24 hours' notice to holders whose products would be affected by the 
+decision.  It is not clear to us why this notice period was so limited but note that it appears it 
+would have been clear to the APVMA that the immediate change to labelling requirements and 
+new supply instructions was going to be very difficult for industry to comply with. 
+3.4.24 
+In this instance, the lack of a buffer period allowing for holders and suppliers to get across the 
+new labelling requirements appears to have resulted in backlash from industry which the 
+APVMA then felt compelled to respond to by way of assisting industry.  Making significant 
+regulatory decisions in this way is not, in our view, best practice regulation. 
+3.4.25 
+In terms of what these case studies indicate about registrations, assessments and approvals: 
+the labelling decision shows a lack of best practice from the APVMA with respect to 
+timing and transparency for a decision with a wide-ranging industry impact; and 
+the item 25 assessment:  
+(i) 
+is indicative of an industry focused approach to undertaking 
+assessments; and 
+(ii) 
+raised concerns about the overall approach of the APVMA - that is, 
+whether it was approaching the assessment independently or with a 
+focus on facilitating an outcome for industry. 
+3.5 
+Monitoring, compliance and enforcement 
+3.5.1 
+After an agvet chemical product is registered in Australia, the APVMA can continue to monitor 
+that agvet chemical product.  The purpose of ongoing monitoring is, among other things, to 
+maintain the safe and effective use of agvet chemicals, including having regard to their 
+potential impacts on human, animal and plant health and environmental impacts.   
+3.5.2 
+One of the APVMA's key monitoring initiatives is its Chemical Review Program.  The purpose 
+of chemical reviews is to determine whether registered agvet chemicals are still safe to use, 
+based on the latest information (including scientific research) from both Australian and 
+international sources. Monitoring may result in changes to existing production registrations or 
+requirements - for example, additional conditions on the use of a particular agvet chemical 
+product or the imposition of further limitations on the circumstances in which a registered agvet 
+chemical product may be used, or changes to the labelling requirements for a particular 
+registered agvet chemical product.   
+3.5.3 
+Additionally, once an agvet chemical product is registered, individuals, companies or 
+organisations responsible for a registered agvet chemical product or active constituent must 
+continue to comply with the relevant requirements with respect to labelling, advertising, 
+manufacturing, importing, selling or supplying that registered agvet chemical product or active 
+constituent. 
+3.5.4 
+Pursuant to Division 9A of the Agvet Code, the APVMA can exercise statutory powers to 
+address non-compliance with those statutory obligations.  Non-compliance action is taken at 
+the discretion of the APVMA and can range from educational measures (for example, warning 
+letters) for minor contraventions to criminal prosecution for the most serious categories of
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+21 
+contravention.  The APVMA may decide to take compliance and enforcement action after 
+investigating allegations of non-compliance, which can be reported to the APVMA by the 
+industry and by members of the community. 
+3.5.5 
+The proper and consistent exercise of these powers is, in our view, clearly critical to the 
+APVMA carrying out its functions as a regulator.  Quality assurance through monitoring as part 
+of the Chemical Review Program is critical to ensure that registered agvet chemical products 
+are safe for use in Australia.  Effective compliance and enforcement action is necessary to 
+deter non-compliance at all levels of industry, including manufacturers, importers and 
+distributors.   
+How does the APVMA describe its approach to enforcement activities? 
+3.5.6 
+The APVMA states that it monitors compliance with the Agvet Code by monitoring marketed 
+product labels, undertaking compliance campaigns, and completing audits.27  The APVMA also 
+publishes its compliance statistics (described in more detail further below). 
+3.5.7 
+The APVMA has published an Annual Compliance Plan in relation to its enforcement activities.  
+All three items in the Annual Compliance Plan for 2021-2022 were directed towards 
+education.28  
+3.5.8 
+In 2021, the APVMA also published Enforcement Guidelines describing its approach to 
+regulatory enforcement.29  We observe that this document is explanatory in nature and sets out 
+each of the possible enforcement pathways that the APVMA can use and the circumstances 
+where it may consider using them. 
+3.5.9 
+Based on material that we have reviewed that describes the APVMA's internal compliance 
+culture, it appears that there has been a very low risk appetite for compliance action.  While it 
+does not appear that this is an official internal risk setting with respect to compliance and 
+enforcement activities, it may be indicative of a broader compliance culture that has a very low 
+risk tolerance.  This type of compliance culture would appear to be consistent with the 
+APVMA's compliance statistics (considered in detail below).  
+3.5.10 
+Additionally, a number of concerns were raised in the material reviewed for this Report 
+regarding the APVMA's enforcement and compliance function, including: 
+that the APVMA had a practice of "discounting" infringement notices; 
+when it became clear that the practice of discounting was not legal, the APVMA did 
+not issue any infringement notices for a period of time because the penalty amount 
+was seen as being too high; 
+that there had been a failure to take appropriate and proportionate regulatory action 
+in relation to non-compliance; and 
+(d) 
+in general, a lack of priority afforded to the enforcement and regulatory activities of 
+the APVMA. 
+How does the APVMA undertake enforcement activities? 
+3.5.11 
+The material we have been provided supports a conclusion that the APVMA does not appear 
+to approach enforcement or compliance through penalties as a core part of its business.   
+27 APVMA website, 'How we monitor compliance'. 
+28 APVMA Annual report 2021-2022, page 32. 
+29 See:  Enforcement Guidelines, current to 5 January 2022; first published in 2021.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+22 
+3.5.12 
+We note for completeness that the APVMA can also regulate risks associated with agvet 
+chemical products through control measures on agvet chemical products, which included 
+cancelling or suspending registrations, approvals or permits; imposing registration or permit 
+conditions; restricting access to a chemical; or requiring certain information to be 
+communicated on a product label.30  In preparing this Report, we have distinguished control 
+measures (set out in Part 4 of Schedule 1 of the Agvet Code) from the APVMA's enforcement 
+powers (set out in Part 9A of Schedule 1 of the Agvet Code). 
+3.5.13 
+It was difficult to obtain information about the APVMA's enforcement caseload.  
+Comprehensive statistics were available for the period 1 July 2019 to 3 April 2020.  The 
+difficulty in obtaining statistics seems to stem from a lack of proper systems to track active 
+cases.  We understand from information submitted as part of this review that the APVMA uses 
+a MS Teams page to track cases.  It is essential that the APVMA is able to report on its 
+enforcement activities and a proper system for recording and tracking matters should be 
+implemented as a priority. 
+3.5.14 
+The table below, shows how cases were resolved during the period 1 July 2019 to 3 April 
+2020: 
+Outcomes of Closed Cases 
+No. of Cases 
+Administrative Action 
+1 
+Administrative Action Completed 
+3 
+Formal warning issued 
+3 
+Infringement Notice 
+2 
+Insufficient information available 
+1 
+Insufficient information to proceed 
+1 
+Low Priority 
+8 
+Negotiated compliance: Claims withdrawn 
+3 
+Negotiated compliance: Education 
+4 
+Negotiated compliance: Published notice withdrawn 
+2 
+Negotiated compliance: Unregistered product withdrawn 
+3 
+No Offence 
+21 
+Recall Action 
+8 
+Recall actions completed 
+1 
+Referred for ABF 
+3 
+Referred to ABF for disposal of unregistered product 
+18 
+30 See:  Risk analysis framework.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+23 
+Outcomes of Closed Cases 
+No. of Cases 
+Referred to another agency 
+2 
+Voluntary compliance completed 
+4 
+Total number of cases31 
+88 
+3.5.15 
+In other words, infringement notices (the most serious enforcement action apparently 
+undertaken in the period) were issued in respect of less than 2.5% of closed matters.  For 
+more than 97% of enforcement matters, the matter appears to have been dealt with by 
+negotiation or other administrative action.  These statistics appear to indicate that the 
+APVMA's approach to regulation is as a facilitative/educative regulator. 
+3.5.16 
+These statistics may not be surprising if the majority of the issues being considered were trivial 
+or technical non-compliance issues.  However, the material we have been provided does not 
+suggest that to be the case.  Of the closed matters, more than 50% were assessed as being 
+medium or high risk.  For example, one matter classed as high risk was in relation to 
+advertising or supplying an unregistered product.  That matter was resolved by issuing a 
+formal warning. 
+3.5.17 
+These matters suggest that the APVMA has failed to take appropriate and proportionate 
+regulatory action in relation to non-compliance assessed as medium or high risk.  It would be 
+necessary to examine each matter to make a conclusive finding about this, but one inference 
+that could be drawn from these statistics is that the APVMA typically favours regulatory action 
+by way of informal warnings rather than more serious penalties, such as infringement notices, 
+criminal prosecutions or civil penalty proceedings.  We observe that regulatory best practice 
+would not support avoiding serious compliance action where the relevant alleged 
+contravention warrants a strong regulatory response. 
+3.5.18 
+One of the specific allegations raised in the material we have reviewed related to a practice of 
+"discounting" the amount of infringement notices.  The information we have been provided 
+suggests that this practice was common in 2018-2019 but appears to have been discontinued 
+after that time.  To this end, we note that none of the infringement notices that were issued 
+within the period 17 May 2018 to 10 September 2019 were for the amount specified in the 
+legislation. 
+3.5.19 
+According to the information we were provided, no infringement notices were then issued until 
+20 February 2020.  The infringement notices issued since that date, and their ultimate 
+outcome, is set out below: 
+Offence 
+Outcome 
+Section 89 of the Agricultural and Veterinary 
+Chemicals Code Act 1994 
+Paid 
+Reg 48(1) 
+Paid 
+Reg 53(2) 
+Withdrawn - representations 
+made by the company 
+Reg 48(1) 
+Withdrawn - administrative error 
+(date of contravention) 
+31 We note that the total number of cases resolved cannot be reconciled with the number of cases reported as being 
+finalised in the same period (which is 75).  Other than further reinforcing the difficulties with the APVMA's reporting on 
+enforcement matters, nothing turns on this issue.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+24 
+Offence 
+Outcome 
+Reg 51(2) 
+Withdrawn - administrative error 
+(date of contravention) 
+Section 105 (1) of the Agricultural and 
+Veterinary Chemicals Code Act 1994 
+Paid 
+Section 105 (1) of the Agricultural and 
+Veterinary Chemicals Code Act 1994 
+Paid 
+Section 78 (1) of the Agricultural and Veterinary 
+Chemicals Code Act 1994 
+Withdrawn & enforceable 
+undertaking entered  
+Section 80 (1) of the Agricultural and Veterinary 
+Chemicals Code Act 1994 
+Withdrawn & formal warning 
+issued 
+Section 69B(1)(ii) of the Agricultural and 
+Veterinary Chemicals (Administration) Act 1992  
+Paid 
+Section 88 (2) of the Agricultural and Veterinary 
+Chemicals Code Act 1994 
+Paid 
+3.5.20 
+The table above shows that of the 11 infringement notices issued, 5 (or about 45%) were 
+subsequently withdrawn.   
+3.5.21 
+This material leads us to an inference that the APVMA: 
+may not have taken appropriate and proportionate regulatory action in relation to 
+matters involving medium or high risk; 
+does not make sufficient use of the regulatory tools available to it, and in particular, 
+does make sufficient use of infringement notices; and 
+too readily agrees to withdraw infringement notices that it does issue. 
+Recent statistics in relation to the APVMA's monitoring and compliance activities 
+3.5.22 
+More recent compliance statistics also suggest a clear preference for enforcement by way of 
+education and engagement over infringement notices, enforceable undertakings, civil 
+proceedings and prosecutions.32  Indeed, it should be noted that no civil penalty proceedings 
+or prosecutions have been commenced by the APVMA to date.   
+3.5.23 
+The APVMA's own published statistics appear to indicate a downward trend in compliance 
+activities since FY2020-2021 continuing through to FY2022-2023.   
+32 See:  APVMA website, Performance statistics.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+25 
+3.5.24 
+The graphs below show the APVMA's compliance statistics for the period FY2020-2021 - 
+FY2022-2023.33 
+Summary of investigations 
+FY2020-21 
+FY2021-22 
+FY2022-23 
+(through Q3) 
+Investigations commenced 
+152 
+128 
+111 
+Investigations closed 
+155 
+113 
+58 
+Average number of days to close an 
+investigation 
+178 
+160 
+80 
+Investigations remaining open 
+1 
+0 
+25 
+Summary of enforcement outcomes 
+FY2020-21 
+FY2021-22 
+FY2022-23 
+(through Q3) 
+Education letters 
+14 
+80 
+49 
+Formal warnings 
+24 
+22 
+9 
+Infringement notices 
+2 
+1 
+1 
+Enforceable undertakings 
+2 
+4 
+2 
+Civil proceedings 
+0 
+0 
+0 
+Prosecutions 
+0 
+0 
+0 
+33 These graphs have been prepared based on the Compliance Statistics published by the APVMA on its website:  
+Assessment, Investigation and Monitoring. 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Investigations
+commenced
+Investigations closed
+Average number of
+days to close an
+investigation
+Investigations
+remaining open
+Summary of investigations:  FY2020-21 to FY2022-23
+FY2020-21
+FY2021-22
+FY2022-23 (through Q3)
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+26 
+3.5.25 
+The above data leads to the following propositions: 
+there has been an overall drop in regulatory compliance activity - it is not clear to us 
+as to why this is the case; 
+there has been a very significant increase in sending "education letters" rather than 
+the undertaking of more formal regulatory action - again, we can only assume that 
+this focus on education was part of the regulatory posture of the APVMA to not take 
+a contentious approach to issues with industry participants; and 
+there was an apparent unwillingness to utilise all regulatory levers available. 
+3.5.26 
+The majority of formal warnings issued during the period FY2020-21-FY2022-23 were issued 
+in relation to supplying or selling agricultural or veterinary chemical products rather than the 
+industry manufacturers, where the recipient of the warning:  
+supplied the product in contravention of the conditions of its registration; or  
+where the relevant product was not registered under the Agvet Code.34  
+3.5.27 
+The list of infringement notices published for the period from March 2020 onwards included 
+fines for failing to comply with requirements of a recall notice, failing to comply with importation 
+requirements, failing to provide records, providing false or misleading information and for 
+publishing notices that offer to sell unregistered chemical products.35 
+34 The APVMA can issue a formal warning pursuant to s 145J of the Agvet Code for a contravention of the 
+Agvet Code. 
+35 APVMA website, Assessment, Investigation and Monitoring. 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Education
+letters
+Formal
+warnings
+Infringement
+notices
+Enforceable
+undertakings
+Civil
+proceedings
+Prosecutions
+Summary of enforcement outcomes
+FY2020-21
+FY2021-22
+FY2022-23 (through Q3)
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+27 
+3.5.28 
+The following sections detail particular case studies that highlight the approach of the APVMA 
+to monitoring and compliance regulatory activities. 
+Monitoring case study:  Chemical Review Program 
+Summary 
+The Chemical Review Program is one of the APVMA's key regulatory monitoring activities. 
+The Chemical Review Program was established in 1995.36  The purpose of the Chemical 
+Review Program is for the APVMA to undertake a review of a registered active constituent 
+where scientific information obtained after registration suggests the existence of previously 
+unknown risks to human health, animal or crop safety, the environment or trade, or suggests 
+that the product is not effective.37 
+A large proportion of the chemicals subject to review as part of the Chemical Review 
+Program have been under review for a protracted period of time, with some reviews ongoing 
+for nearly 20 years. 
+While measures were introduced to encourage shorter completion timeframes for chemical 
+reviews in 2014 (imposing a maximum statutory timeframe of 57 months for the most 
+complex categories of review),38 these measures were not retrospective, and at present it 
+appears that limited progress has been made in relation to finalising ongoing chemical 
+reviews. 
+3.5.29 
+We understand that there are presently 10 categories of chemicals subject to ongoing review 
+as part of the Chemical Review Program.39  Of these, eight of the reviews have been ongoing 
+for 15 years or more, with seven ongoing for nearly 20 years (legacy reviews).  The 
+longest-running review has been ongoing since December 1996.   
+3.5.30 
+The APVMA's website suggests that it anticipates that final regulatory decisions will be made 
+in relation to each of the in-progress chemical reviews by July 2025.  We have some doubts 
+about this statement given that a previous proposed regulatory decision timeline from October 
+2021 suggests that all proposed regulatory decisions would be completed by the end of 2023. 
+What could the Chemical Review Program tell us about monitoring? 
+3.5.31 
+The legacy chemical reviews account for 80% of the Chemical Review Program.  The 
+information available to us suggests that there are significant delays and limited progress in 
+relation to the outstanding chemical reviews.  This is particularly concerning for the legacy 
+reviews.   
+3.5.32 
+The information that we have reviewed in relation to the Chemical Review Program case study 
+has comprised of publicly available information and additional information confirmed by the 
+APVMA.  Given that the Chemical Review Program is a key component of the APVMA's 
+regulatory monitoring function, we consider that the pace of the Chemical Review Program is 
+not acceptable.  
+36 APVMA website:  Chemical review process. 
+37 APVMA website:  Chemical review process. 
+38 APVMA website:  Chemical review process. 
+39 APVMA website:  Listing of chemical reviews.  We note that there are 25 listed entries marked as 'in progress' but 
+that there are certain chemicals falling within the scope of one chemical review (eg. anticoagulant rodenticides and 
+neonicotinoids).
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+28 
+3.5.33 
+The reasons for this outcome may be that the APVMA:  
+has not placed the necessary importance on the review program; and/or 
+has not focussed on the program; and/or  
+requires additional resourcing to continue to progress the outstanding reviews, and 
+in particular, the legacy reviews that were commenced between 15 and 27 years 
+ago.  
+Compliance case study:  Company B 
+3.5.34 
+This case study concerns the APVMA's regulatory decision-making for alleged breaches of the 
+Agvet Code relating to an agvet chemical product.  In our view, this case study raises 
+concerns about the APVMA's capability and willingness to undertake investigations and 
+compliance measures. 
+Background:  Compliance case study - Company B 
+Investigation 
+• 
+The APVMA undertook an investigation into Company B in relation to a range of 
+alleged contraventions of the Agvet Code. 
+• 
+The investigation into Company B resulted in the preparation of at least nine 
+evidence matrices for various potential contraventions.  An APVMA staff member 
+indicated that their estimate of the total number of potential contraventions as 
+being over 20.  It was not possible to conclusively verify this estimate based on 
+the records reviewed for the purposes of this report. 
+Compliance action 
+• 
+As a result of its investigation, the APVMA sent Company B an education letter.  
+The APVMA's compliance team records include a statement that 'the present 
+facts indicate that an enforcement outcome of an infringement notice would be 
+appropriate' and proceeded to also issue Company B with three infringement 
+notices. 
+• 
+All three of these infringement notices were eventually withdrawn.  Two 
+infringement notices were withdrawn on the basis that they were invalid because 
+they had been dated and issued one day after the expiry of the statutory 
+timeframe (despite the notices being ready for issue prior to the expiry of that 
+statutory timeframe).  The third infringement notice was withdrawn after 
+Company B contended that it had been invalidly issued.  The APVMA appears to 
+have made the decision to withdraw the third infringement notice on the basis 
+that its own records could not support continuing to press the infringement notice. 
+• 
+Internal APVMA records show that a further contravention by Company B was 
+not pressed after the APVMA was contacted by an officer from Company B.  The 
+records in relation to this discussion suggest that Company B proposed to the 
+APMVA's compliance officer that Company B be 'educated first' and offered to 
+provide feedback on some of the APVMA's template forms.  It appears that 
+Company B did proceed to provide that feedback, the APVMA revised its forms, 
+and compliance action in relation to this contravention was not pressed.  
+Internal APVMA views 
+• 
+Internal APVMA records include statements from senior members of the 
+regulatory team to the effect that no further enforcement action would be 
+undertaken without briefing to the APVMA executive. 
+• 
+One view expressed by a staff member of the APVMA was that there was a 
+reluctance within the APVMA to issue infringement notices to Company B
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+29 
+Background:  Compliance case study - Company B 
+because the APVMA did not want to invite the perception that they were 'picking 
+on' Company B. 
+What could the Company B case study tell us about enforcement? 
+3.5.35 
+It is an undesirable outcome that the attempted regulatory action in this case resulted in the 
+withdrawal of all three infringement notices issued in relation to contraventions that were 
+assessed by the APVMA as being serious enough to warrant enforcement action.  
+3.5.36 
+We make the following observations about this case study: 
+the instances of the three withdrawn infringement notices, and in particular the two 
+instances where infringement notices were incorrectly dated one day outside the 
+statutory timeframe, raise concerns that there were deficiencies in the APVMA's 
+internal investigation processes such that key dates for enforcement action were 
+missed; 
+the openness of the APVMA to changing its approach based on a suggestion by 
+Company B as an alternative to the APVMA taking enforcement action against 
+Company B is, in our view, not a best practice regulatory response.  This is 
+because it either suggests that the APVMA was willing to adopt a more lenient 
+approach on the basis of a suggestion from Company B or that the APVMA had not 
+undertaken sufficient investigative action to support the proposed enforcement 
+action prior to approaching Company B with its proposal to take enforcement 
+action; and 
+the information we have reviewed does not provide an explanation for why the 
+APVMA issued only three infringement notices despite APVMA staff expressing the 
+view that there may have been were over 20 potential alleged contraventions.  
+Compliance case study:  Company C 
+3.5.37 
+The material that we have reviewed as part of this case study suggests that the APVMA did 
+not take enforcement measures that were proportional to the alleged contravening conduct.  
+Having regard to the seriousness of the alleged contravening conduct, the APVMA did not 
+exercise its regulatory functions in a manner that was appropriate in the circumstances. 
+Background:  Compliance case study - Company C 
+• 
+Company C was the supplier of an agvet chemical product (Product X).  
+Product X was relevantly used on crops intended for human consumption. 
+• 
+The APVMA commenced an investigation after it became aware of allegations 
+that certain batches of Product X were contaminated during manufacturing.  
+These allegations were brought to the APVMA's attention through adverse 
+experience reports and do not appear to have been drawn to the APVMA's 
+attention by Company C.  As a result of the contamination, growers that had 
+used Product X alleged that they experienced significant crop loss. 
+• 
+The investigation included the review of documentary material, witness 
+interviews and requests to Company C for additional information in relation to the 
+alleged contravention.  This included information suggesting that Company C 
+were aware of the contamination three months prior to the contamination being 
+brought to the APVMA's attention. 
+• 
+APVMA staff whose comments were reviewed as part of this review stated, in 
+relation to the facts giving rise to this case study, that there were factors that, in
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+30 
+Background:  Compliance case study - Company C 
+their view, warranted a very strong regulatory response that was different to the 
+action that was taken.  The documents we have reviewed indicates that this view 
+was consistent with internal and external recommendations made as to the 
+appropriate level of enforcement action for the alleged contraventions in this 
+case. 
+• 
+The internal documents produced by the APVMA indicate that the AVPMA 
+executive ultimately decided to take enforcement action in the form of a formal 
+warning letter to Company C.  
+• 
+The APVMA's internal documents indicate that it took the APVMA's executive 
+over 6 months to make a decision in relation to the decision brief addressing 
+proposed enforcement action against Company C as a result of the alleged 
+contraventions. 
+• 
+The documents produced by the APVMA indicate that the decision to issue a 
+formal warning was made following the expiry of the statutory referral period for a 
+brief to the Commonwealth Director of Public Prosecutions (CDPP) for potential 
+prosecution. 
+• 
+APVMA staff also expressed the opinion that one possible explanation for the 
+decision to take enforcement action by way of a warning letter for what appeared 
+to be a significant and serious contravention was the that the APVMA wanted to 
+avoid prosecuting Company C. 
+Regulatory framework: the APVMA's enforcement powers 
+3.5.38 
+In its Enforcement Guidelines, the APVMA identifies seven general categories of enforcement 
+actions which are available to it, being:40 
+formal warnings; 
+infringement notices; 
+administrative notices and orders made under legislation;  
+(d) 
+proceedings for court orders provided for under legislation; 
+(e) 
+enforceable undertakings; 
+(f) 
+prosecution; and 
+(g) 
+suspension or cancellation of approval, registration, permit, licence or authority. 
+3.5.39 
+The Enforcement Guidelines go on to state that the choice of enforcement action in each 
+matter will be determined by reference to the seriousness of the contravention and the desired 
+outcome in the circumstances of that matter, but that, as a guide:41 
+warning letters are generally reserved for low or minor contraventions; 
+infringement notices for minor contraventions; 
+40 See:  APVMA Enforcement Guidelines, page 12. 
+41 Ibid.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+31 
+administrative notices and orders (with the exception of cancellation of approvals, 
+registrations, licences or permits) for moderate to serious contraventions; 
+(d) 
+enforceable undertakings are considered to be an alternative enforcement action 
+for moderate contraventions; and 
+(e) 
+court orders, prosecutions and cancellations of approvals, registrations, permits or 
+licences are generally reserved for major or serious contraventions of legislation. 
+3.5.40 
+We have also examined an internal APVMA instruction document which provides consistent 
+guidance on the enforcement options that are available for contraventions by reference to their 
+'risk level'. Relevantly, the document identifies the following types of enforcement action as 
+being generally appropriate against each level of risk: 
+high/very high risk: criminal prosecution, civil penalty proceedings; 
+high/medium risk: enforceable undertakings, infringement notice, injunction, 
+enforceable direction, cancellation/suspension/recall; 
+low risk: formal warning; and 
+(d) 
+very low risk: advisory letter. 
+3.5.41 
+The instruction document relevantly describes the decision-making process for resolving 
+contraventions following compliance enquiries or investigations as follows: 
+The Case Officer may consult with superiors and colleagues to determine the best 
+method of case resolution. All recommendations to resolve contraventions should 
+be supported by a Case Decision Record that recommends appropriate 
+enforcement response(s) proportionate to the matter. It must be clearly documented 
+why the recommended option is recommended above all other available options.  
+Where otherwise available enforcement actions are not being recommended, it is 
+good administrative practice to document why such measures are not 
+recommended. This provides a sound record of the decision making process and 
+helps to inform robust decisions that stand up to future reviews. 
+The Case Decision Record should be reviewed by the officer’s supervisor before 
+being provided to the Director, Compliance, for approval.  
+Recommendations for use of punitive enforcement actions will include preparation 
+of a briefing for the Enforcement Committee to ensure executive oversight and 
+awareness ...  
+Once agreement is reached on the path for resolution of the contravention, the 
+Case Officer must record the decision on the Compliance case file and take 
+appropriate action to put the agreed recommendations into effect ... 
+3.5.42 
+Unlike other enforcement options, the commencement of proceedings is identified as requiring 
+"Executive (delegate) approval" (where referral for criminal prosecution is proposed) or 
+"Delegate approval" (in the case of civil penalty proceedings). 
+3.5.43 
+Consistently, the Enforcement Guidelines only indicate that the referral of a brief to the CDPP 
+specifically is a matter for executive decision-making. The Enforcement Guidelines state that 
+'the decision to refer for consideration of criminal proceedings is generally made by the
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+32 
+APVMA Chief Executive Officer or General Counsel' based on the circumstances of the 
+alleged offending and consideration of whether prosecution is in the public interest.42  
+3.5.44 
+Based on the documents we have reviewed it is not possible to conclude whether the 
+APVMA's executive team deliberately delayed the progression of the referral to CDPP or 
+otherwise acted so as to avoid prosecuting Company C. 
+3.5.45 
+However, the material before us suggests: 
+it does not appear to have been contested that Product X was contaminated and 
+resulted in crop loss;  
+an internal APVMA investigation was completed in relation to Product X and 
+revealed that Company C became aware of a potential contamination some three 
+months prior to notifying the APVMA; 
+a recommendation was made to the APVMVA executive to refer the matter to the 
+CDPP for potential prosecution of Company C's alleged contravention of the Agvet 
+Code.  A significant period of time later, the APVMA executive rejected this 
+proposed course of action shortly before the statutory limitation period expired 
+having required additional briefing materials and advice before arriving at the final 
+decision to only issue a formal warning;  
+(d) 
+considerable periods of time passed between different internal actions for the 
+management of the case, including an apparent failure to align legal and non-legal 
+workstreams to ensure that information could be provided promptly and in 
+completeness for decision-making purposes;  
+(e) 
+a recommendation was made to the APVMVA executive that it was appropriate to 
+commence civil penalty proceedings against Company C for the alleged 
+contravention and that, alternatively, an enforceable undertaking should be 
+considered given the seriousness of Company C's conduct and culpability; and 
+(f) 
+despite this advice, and internal assessments of the matter as being of a 
+high/serious risk level, the only enforcement action ultimately taken against 
+Company C was the issuing of a formal warning. 
+3.5.46 
+It is our view that Company C's conduct in this case presented an appropriate case for 
+enforcement action in the form of criminal or civil proceedings to be taken.  
+3.5.47 
+The material we have reviewed suggests that Company C were aware of the potential 
+contamination some three months before the contaminated Product X was recalled, but chose 
+not to disclose relevant information to the APVMA in a timely manner as it was required to 
+under the Agvet Code.  While the contamination was not caused by Company C (having 
+seemingly occurred at the manufacturing stage), Company C's subsequent conduct in not 
+promptly passing all relevant information on to the APVMA is, in our view, clearly on the 
+serious end of the scale when considering the types of activities that fall within the APVMA's 
+regulatory purview.   
+3.5.48 
+It is not satisfactory that a regulatory body in this position elected to take enforcement action 
+reserved for the most minor of contraventions in circumstances where Company C's conduct, 
+on the information available, appeared to be at the upper end of seriousness.   
+3.5.49 
+This case study raises the following issues: 
+the APVMA's executive team appeared reluctant or reticent to undertake major 
+regulatory action - consistently wanting reassurance that the action was 
+42 See:  APVMA Enforcement Guidelines, pages 19-20.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+33 
+appropriate. Even when this advice confirmed the appropriateness of undertaking 
+such action, no such action was taken; 
+why there were material delays in considering regulatory action in the first place 
+and why action was not taken against other involved companies; 
+an apparent a lack of awareness about the use of enforcement activity to deter 
+non-compliance by holders.  Based on the information available to us, this lack of 
+awareness appears to extend both to when enforcement action ought to be taken, 
+and how to effectively undertake that enforcement action; and  
+(d) 
+the material we have reviewed about this case (including decision briefs and 
+minutes) contain little if any indication as to any motive(s) which informed each 
+stage of decision-making or the reasons underlying the APVMA's decisions: 
+(i) 
+to not refer the investigation to the CDPP (including whether this was 
+informed by the short timeframe within which the decision had to be 
+made or reliance on advice); or  
+(ii) 
+to not pursue civil penalty proceedings or an enforceable undertaking 
+contrary to the recommendations consistently expressed in advice; or  
+(iii) 
+that a formal warning was the most appropriate enforcement option, or 
+why this required the approval the APVMA's executive. 
+3.6 
+Comments from case studies 
+3.6.1 
+The APVMA's primary focus area of regulation is in collaboration and engagement with 
+stakeholders - particularly industry stakeholders.  While stakeholder engagement is 
+acknowledged in Principle 1 (continuous improvement and building trust) and Principle 3 
+(collaboration and engagement) of the best practice guide for Commonwealth regulators 
+RMG128, we consider that the level of priority afforded to industry interests may have resulted 
+in continuous improvement, collaboration and engagement efforts being focused on 
+maintaining industry stakeholder satisfaction, impacting the APVMA's ability to undertake 
+regulatory activities in a more risk based and data driven manner (Principle 2 of RMG128). 
+3.6.2 
+The material we have reviewed in relation to registrations and assessments indicates that the 
+APVMA's executive team from 1 January 2018 to 11 February 2023 were highly engaged with 
+industry.  This includes: 
+regular meetings with industry, including where industry members are recorded as 
+offering opinions on how the APVMA should undertake its regulatory activities and 
+non-public requests for industry input as to the content of draft regulations affecting 
+the regulation of agvet chemicals; 
+consultation with industry in relation to the APVMA's regulatory approach; 
+working with industry to develop training materials for all phases of the product 
+development process, seasonal timeframes and the operations of the supply chain, 
+to inform APVMA staff of the ramifications and timing of their decisions; and 
+(d) 
+allegations (as discussed in relation to the Company A case study) that APVMA 
+staff were directed to undertake research for Company A to assist Company A with 
+a prospective application for registration. 
+3.6.3 
+Of course, there will be instances where it is entirely appropriate for regulators to consult with 
+industry stakeholders, however care should be taken to ensure that the regulator maintains an 
+appropriate level of independence from the entities that it regulates.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+34 
+3.6.4 
+In this respect, there are aspects of the case studies that indicate an approach to regulation 
+that arguably risks good compliance outcomes. We note as follows: 
+the APVMA's practice of regularly discounting infringement notices during 2018-
+2019, and the statistics for the period 2020 - 2022 indicating the withdrawal of 45% 
+of infringement notices issued, and the withdrawing of infringement notices in the 
+Company B case study.  These practices in relation to infringement notices suggest 
+the APVMA viewed penalties imposed on industry constituents as being open to 
+leniency or to be used for the purposes of negotiation.  This approach is not 
+consistent with best practice principles for government regulators, and, when 
+considered over time, gives the impression that the APVMA is prioritising a 
+collaborative and engaged relationship with industry above consistent enforcement 
+outcomes;43 
+the regulatory priorities that the APVMA has itself identified are consistent with 
+industry interests but may not result in good regulatory outcomes.  Industry is the 
+beneficiary of a 100% compliance target for the timeliness of registrations and 
+approvals. While regulators should not be criticised for prioritising timeliness in its 
+regulatory activities, or indeed working with industry, we consider that the material 
+we have reviewed suggests that timeliness is clearly prioritised for registrations and 
+assessments over monitoring, compliance and enforcement.  The case study in 
+relation to the delays faced by the Chemical Review Program indicate that the 
+APVMA's targets in relation to timeliness are not replicated across all regulatory 
+areas; 
+the perception that the APVMA prioritises industry interests in its approach to 
+regulation was raised by multiple staff members from different business areas within 
+the APVMA whose comments have been considered as part of this report; 
+(d) 
+the APVMA's published information and statistics in relation to monitoring, 
+compliance and enforcement indicate at the outset that there is either a lack of 
+appetite or a lack of capability in undertaking its monitoring, compliance and 
+enforcement functions against industry.  This is apparent from the Chemical Review 
+Program as well as the Company B and Company C case studies;  
+(e) 
+the protracted nature of the Chemical Review Program illustrates the challenges 
+that the APVMA faces in relation to resourcing and progressing this aspect of its 
+regulatory activities.  Chemical reviews are, by their nature, complex and technical, 
+and require significant consultation and review of a large volume of material.  In 
+acknowledging these challenges, we are concerned that the slow progress to 
+finalise ongoing chemical reviews - with at least eight ongoing reviews having been 
+in progress for over 15 years - is a vulnerability that needs to be addressed when 
+assessing the APVMA's regulatory performance.  In particular, if the APVMA 
+intends to maintain a position as a benchmark for regulation of agvet chemicals 
+internationally, the progress of the chemical reviews needs to increase;   
+(f) 
+the APVMA has not exercised its compliance and enforcement powers in relation to 
+civil penalty proceedings or prosecutions.  We accept that it is of course open to 
+regulators to adopt a regulatory approach that is primarily educative.  However, 
+even an educative approach should not, in our view, wholly exclude the use of a 
+regulator's enforcement powers where the seriousness of an alleged contravention 
+clearly warrants the exercise of those powers.  The material and contextual 
+information we have reviewed as part of this report suggests that industry 
+relationships and low enforcement capacity within the APVMA may also be factors 
+43 As noted in the Company B case study, it is not possible for us to determine, based on the material that we have 
+reviewed, whether infringement notices were withdrawn on the basis that the recipients made further representations 
+or provided additional contextual information to the APVMA.  For completeness, we note that if this were the case, 
+this could indicate a need for further capacity building with respect to investigations and enforcement and determining 
+the appropriate stage at which to issue an infringement notice.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+35 
+that have contributed to an enforcement approach that favours education over 
+penalties;   
+(g) 
+it is possible that the high engagement with industry priorities contributed to a 
+proportionally higher allocation of APVMA resources towards assessments and 
+registrations (which are more business critical regulatory decisions for industry) 
+over monitoring and enforcement (which could be said to pose potential adverse 
+consequences for industry); and44  
+(h) 
+multiple APVMA staff referred to the APVMA executive stating that 99% certainty of 
+non-compliance was required by staff prior to undertaking enforcement action.  We 
+understand that the APVMA executive have denied this characterisation of the 
+threshold for taking enforcement and compliance action.  Regardless of whether 
+this allegation is accurate, the fact that the allegation was made and was raised by 
+APVMA staff in the material reviewed for this Report suggests the need for a 
+regulatory culture reset at the APVMA to clarify the thresholds for taking 
+enforcement and compliance action, and to build confidence and capacity for staff 
+in those business units to assist with undertaking those regulatory responsibilities.  
+This is something that is recognised by Principle 1 of RMG128, which states that 
+regulators should 'actively build staff capability, including ensuring staff have 
+relevant knowledge of the regulatory craft and the industry they regulate, and have 
+the capacity and are empowered to identify and implement improved practices'.45 
+The need for staff to feel confident confronting regulatory risks is also addressed by 
+Principle 2 of RMG128, which states that regulators should 'focus on risk culture, 
+build staff understanding of regulator's approach to risk and how it flows to day-to-
+day decision-making'.46 
+3.6.5 
+The approach to funding the APVMA through the collection of levies, fees and charges 
+(representing 89% of its revenue) from industry may also result in a perceived conflict with the 
+APVMA's interest as a regulator of the industry.  
+3.6.6 
+While we accept that there are a variety of different approaches to regulation that may be 
+taken by regulators, including approaches that focus on education rather than enforcement, we 
+consider that the APVMA's current approach to regulation creates vulnerabilities with respect 
+to: 
+the perception that the APVMA is not responding to serious instances of 
+non-compliance; 
+the perception that the APVMA is prioritising stakeholder engagement and 
+timeliness in registrations and assessments in a manner than compromises the 
+quantum and quality of other regulatory activities, and in particular, monitoring, 
+compliance and enforcement; and 
+the perception that the APVMA lacks the internal capability and risk appetite to 
+respond to serious non-compliance where that non-compliance does occur. 
+3.7 
+Influencing factors and areas for future examination 
+3.7.1 
+Identifying potential influences on the APVMA's current regulatory posture are relevant to 
+considerations about the APVMA's future potential regulatory approach. 
+44 See:  APVMA website, Assessment, Investigation and Monitoring. 
+45 RMG128, Principle 1:  Continuous improvement and building trust - best practice advice. 
+46 RMG128, Principle 2:  Risk based and data driven - best practice advice.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+36 
+3.7.2 
+We have identified the following factors that may influence the APVMA's regulatory 
+performance. 
+implementing recommendations from previous reviews into the APVMA, including 
+the 2021 Independent Review of the Pesticides and Veterinary Medicines System 
+in Australia (Systems Report); 
+the APVMA's relationship with industry, and its approach to engagement with 
+industry, including how this is influenced by the APVMA's funding model; and 
+the APVMA's then organisational structure, including how regulatory functions are 
+allocated across different business units, the strategic oversight by the Board, staff 
+resourcing, and infrastructure resourcing and capability. 
+3.7.3 
+As has been discussed, the APVMA consistently indicates that its key priorities are improving 
+registration and assessment timeframes and being engaged with industry.  This is apparent 
+from the APVMA's own descriptions of its regulatory priorities and the metrics it applies to 
+measure regulatory performance.  It could also be inferred from the statistics we have 
+reviewed in relation to the improvement in timeframes for registrations and assessments, 
+which has improved, while the number of investigations appears to have decreased, and the 
+Chemical Review Program remains affected by delays. 
+3.7.4 
+We note that recommendations in relation to timeframe compliance and engagement with 
+industry featured heavily in the Systems Report.47  The Systems Report was a public facing 
+document prepared following extensive stakeholder consultation (including extensive 
+consultation with industry).  The Systems Report recommended a 'contemporary regulatory 
+system', and suggested, in essence, that the APVMA develop a more collaborative approach 
+to regulation with industry. The Systems Report included recommendations for the APVMA to 
+move towards regulating industry with an outcomes-based focus (rather than process 
+focused), to regulate with an approach that 'take[s] advantage of industry's best practice' and 
+for 'clear channels to be put in place to enable industry to propose improvements to regulatory 
+arrangements to maintain dynamism in the regulatory system and to reduce the need for 
+once-a-decade regulatory overhauls as has been the case over decades past'.48 
+3.7.5 
+It appears that the APVMA's prioritisation of timeframe compliance and engagement with 
+industry in its regulatory approach arises from concerns raised in previous reviews about a 
+lack of compliance with statutory timeframes, and a lack of transparent performance indicators 
+in relation to timeframe compliance.  
+3.7.6 
+We do not disagree with these concerns, and importantly nor do we suggest that the APVMA 
+should become adversarial in its dealings with industry, however we do believe that the 
+APVMA needs to find a middle ground that provides confidence to industry, stakeholders and 
+the public as to the fairness, transparency and robustness of the agvet regulatory framework 
+and its implementation. 
+47 Final Report of the Independent Review of the Pesticides and Veterinary Medicines Regulatory System in Australia 
+by Ken Matthews AO, Dr Anne Astin AM PSM, Dr Mary Corbett and Dr Craig Suann, completed in May 2021. 
+48 Systems Report, page 33.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+37 
+4. 
+Financial management and procurement 
+Summary of key findings and takeaways 
+• 
+There is a need for capacity building among APVMA staff at all levels to promote 
+applied awareness of procurement requirements.   
+• 
+Based on the materials provided to us, there appears to be an absence of robust 
+systems for the purposes of managing and tracking procurements and 
+minimising the risk of noncompliance with relevant requirements. There also 
+appears to have been a lack of guidance and internal processes for staff to 
+understand how to comply with procurement requirements. 
+• 
+We have material doubts as to whether one of the select procurements reviewed 
+for the purposes of this Report complied with Commonwealth procurement 
+requirements, including in relation to value for money, maintaining documentation 
+commensurate with the scale, scope and risk of the procurement, ensuring the 
+procurement is efficient, effective and economical and that the work order for the 
+procurement was appropriate. In relation to this procurement, speed of 
+implementation may have been prioritised to the detriment of compliance with 
+procurement requirements. 
+• 
+There appears to be significant limitations on the APVMA's case management 
+systems which may be impacting compliance with procurement requirements and 
+is likely limiting the APVMA's capacity to prepare or maintain sufficient 
+documentation to achieve or demonstrate compliance with relevant procurement 
+requirements and detect non-compliance with procurement requirements.   
+• 
+The APVMA's manual record keeping systems for procurements also limits its 
+ability to assess and improve its procurement performance. 
+4.1 
+Introduction, scope and approach of our review 
+4.1.1 
+Given that the Australian National Audit Office (the ANAO) carries out regular financial audits 
+of the APVMA, our review is primarily focused on potential issues arising in respect of the 
+APVMA's procurement of goods and services since 2018.  
+4.1.2 
+In preparing this Report we have had regard to select procurements for key services.  
+4.1.3 
+Whilst we have considered these select procurements in detail below we have also provided 
+comments on general procurement and financial management matters.  
+4.2 
+What are the key requirements for the APVMA? 
+4.2.1 
+The financial management of the APVMA is primarily governed by the PGPA Act and the 
+Public Governance, Performance and Accountability Rule 2014 (Cth) (together, the Finance 
+Law).  
+4.2.2 
+The Finance Law allows for the publication of Resource Management Guides (RMGs) by the 
+Department of Finance which provide guidance to Commonwealth entities on applicable 
+accounting and finance and finance requirements (such as RMG 110 and RMG 113). In 
+particular, these resources help Commonwealth entities comply with accounting standards set 
+by the Australian Accounting Standards Board.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+38 
+Financial management requirements 
+4.2.3 
+The Board, as the accountable authority of the APVMA, has an overarching duty to govern the 
+APVMA in a way that promotes the proper use and management of public resources for which 
+it is responsible for and promotes its financial sustainability.49  
+4.2.4 
+The Board is also under a general duty to keep the Minister and Finance Minister informed of 
+the APVMA's activities, including by:50   
+providing the relevant Ministers with reports, documents, and information as they 
+require; and 
+importantly - notifying the relevant Ministers as soon as practicable after the Board 
+makes a significant decision or where the Board becomes aware of any significant 
+issue that may affect or has affected the APVMA.  
+4.2.5 
+The Finance Law imposes general financial reporting and auditing requirements on the Board, 
+including: 
+causing accounts and records to be kept that properly record and explain the 
+APVMA's transactions and financial position;51 
+preparing annual financial statements for the APVMA for each reporting period in 
+accordance with the PGPA (Financial Reporting) Rule 2015, where each statement 
+is to be provided to the ANAO;52  
+allowing the annual audit of the APVMA by the ANAO, where each resulting audit 
+report is provided to the APVMA and the Minister;53 
+(d) 
+ensuring that the APVMA has an audit committee;54 and 
+(e) 
+preparing an annual report setting out the APVMA's activities in accordance with 
+section 61 of the Administration Act, where each report is made publicly available.55  
+4.2.6 
+In relation to the auditing of the APVMA, it is noted that the APVMA has an Audit and Risk 
+Committee which must include at least three external persons who have appropriate skills to 
+assist with performing the Audit and Risk Committee's functions.56 The Audit and Risk 
+Committee provides written advice to the Board on its views regarding the financial 
+management and risk of the APVMA.  
+4.2.7 
+The Finance Law also provides for obligations in relation to the use and management of public 
+resources.57 Relevantly, the Finance Law requires officials to record all commitments of 
+49 PGPA Act s 15. 
+50 PGPA Act s 19. 
+51 PGPA Act s 41. 
+52 PGPA Act s 42. 
+53 PGPA Act s 43. 
+54 PGPA Act s 45. 
+55 PGPA Act s 46; Administration Act s 61(e). 
+56 PGPA Act s 45; PGPA Rule s 17; APVMA Audit and Risk Committee Charter.  
+57 Part 2-4 of the PGPA Act.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+39 
+relevant money and those commitments must be consistent with any delegation or 
+authorisation that allows the commitment by the official.58 We note that we have not been 
+provided copies of any of the internal delegations or authorisations relating to procurement 
+matters.  
+Procurement 
+4.2.8 
+The Commonwealth Procurement Rules (CPRs), which are established under the Finance 
+Law, set out the requirements that apply to the process of acquiring goods or services by 
+relevant Commonwealth entities.  
+4.2.9 
+The CPRs apply to the APVMA as a corporate Commonwealth entity in accordance with rule 
+30 of the Public Governance, Performance and Accountability Rule 2014 (Cth) (the PGPA 
+Rule). All persons who are in or form part of the APVMA, such as employees, must comply 
+with the CPRs. 
+4.2.10 
+As set out in the foreword to the CPRs, "The Commonwealth Procurement Rules are the 
+keystone of the Government’s procurement policy framework… Achieving value for money is 
+the core principle of the Commonwealth Procurement Rules as it is critical to ensuring that 
+public resources are used in the most effective manner." 
+4.2.11 
+Division 1 of the CPRs must be complied with regardless of the value of the procurement. The 
+core rule of the CPRs is included in Division 1 and requires the APVMA official responsible for 
+the procurement to ensure that the procurement achieves a value for money outcome. As part 
+of the value for money objective:  
+each procurement should:59 
+(i) 
+encourage competition and be non-discriminatory;  
+(ii) 
+use public resources in an efficient, effective, economical and ethical 
+manner (including recognising and dealing with conflicts of interest) and 
+facilitate accountable and transparent decision making; and 
+(iii) 
+encourage appropriate engagement with risk and be commensurate with 
+the scale and scope of the business requirement;  
+relevantly, an official must consider the quality of the goods and services, the 
+supplier's relevant experience and performance history and whole of life costs 
+(which includes costs of additional features procured after the initial procurement);60 
+and 
+the expected value of a procurement must be estimated before a decision on the 
+procurement method is made - this is to ensure that Division 2 requirements are 
+complied with upfront where applicable. The expected value of the procurement 
+includes options, extensions, renewals or other mechanisms that may be executed 
+over the life of the procurement.61 
+58 PGPA Rule s 18. 
+59 CPRs r 4.4 and 6.6. 
+60 CPRs r 4.5. 
+61 CPRs r 9.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+40 
+4.2.12 
+Further, officials of the APVMA must maintain a level of documentation commensurate with the 
+scale, scope and risk of the procurement.62 This includes maintaining documentation on the 
+process that was followed for the procurement, how value for money was considered and 
+achieved and the relevant decisions and the basis of those decisions.63 
+4.2.13 
+Where the expected value of a procurement exceeds the threshold specified in rule 9.7 of the 
+CPRs, the rules in Division 2 apply to the procurement unless:  
+an exemption set out in Appendix A of the CPRs applies; or 
+the procurement is carried out in accordance with an existing standing offer.64  
+4.2.14 
+There are rules within the CPRs that prohibit the APVMA from avoiding the application of the 
+CPRs, including that a procurement must not be divided into separate parts to avoid exceeding 
+a procurement threshold and that the APVMA must not use options or modify an awarded 
+contract so as to avoid the requirements of Division 2.65  
+4.2.15 
+The core purpose of Division 2 is to set out tendering requirements for procurements that 
+exceed the relevant procurement thresholds. Division 2 also sets out the process and form 
+requirements for tenders. 
+4.2.16 
+The two forms of tender under Division 2 are limited tender and an open approach to market, 
+where limited tendering is only available in specified situations.66 
+4.2.17 
+Where a contract is awarded through limited tender, the official must prepare and appropriately 
+file a written report detailing the procurement, justifying the use of the limited tender and 
+demonstrating the achievement of the value for money requirement.67  
+4.2.18 
+Where a limited tender is not available, the procurement must be undertaken by inviting all 
+potential suppliers to participate in the procurement and inviting submissions.  
+4.2.19 
+Additional guidance on compliance with the CPRs is provided in the policies of the 
+Accountable Authority Instructions (AAIs) and Resource Management Guide 411 (Grants, 
+Procurement and other financial arrangements) (RMG 411). 
+4.2.20 
+Paragraph 22 of RMG 411 relevantly confirms that any procurement continues beyond the 
+awarding of the contract and includes the "delivery of and payment for the goods and services 
+and, where relevant, the ongoing management of the contract and consideration of disposal of 
+goods". The AAIs similarly provide that a variation to a procurement must comply with the 
+CPRs. 
+4.2.21 
+While the CPRs do not apply to the extent that an official applies measures determined by the 
+Board to be necessary for specified reasons,68 we are not aware of the Board making any such 
+determination in relation to the APVMA.  
+62 CPRs r 7.2. 
+63 CPRs r 7.3. 
+64 CPRs r 9.12. 
+65 CPRs r 9.5 and 10.36. 
+66 CPRs r 10.3. 
+67 CPRs r 10.5. 
+68 CPRs r 2.6.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+41 
+4.3 
+Does the APVMA achieve compliance with relevant requirements? 
+4.3.1 
+On the basis of the materials we have reviewed, the APVMA has been able to demonstrate a 
+baseline knowledge and application of procurement requirements. We have also identified 
+deficiencies in the APVMA's past management of procurements, exemplified by the key 
+services contract (discussed in the case study below). 
+4.3.2 
+Areas for potential improvement include: 
+changes to embed a culture not only of the need to comply but how compliance 
+with procurement requirements must be achieved, recorded and reviewed; 
+attempting to replace the public service corporate knowledge that was potentially 
+lost as part of the relocation to Armidale, where we understand less than 15 of 
+approximately 140 full time employees stayed with the APVMA; and 
+investing in the APVMA's capability with respect to financial management and 
+procurement - particularly by improving the APVMA's case management and 
+information systems. 
+4.3.3 
+We have not been provided with procurement documentation that we would expect to find for 
+an agency similar to APVMA, including:  
+copies of documentation demonstrating that the APVMA has complied with relevant 
+procurement requirements in accordance with the CPRs (as opposed to documents 
+that assert compliance and do not provide any transparent information that would 
+allow a person to verify the asserted compliance). In particular, there appeared 
+relatively few documents which detailed assessments of value for money for 
+procurements, explaining the basis of procurement decisions or otherwise recording 
+procurement processes. The APVMA's contract register (which appears to be a 
+manual spreadsheet) provides high-level information, but importantly, does not 
+detail the reasoning to support the information that is included. Further, it appears 
+that the level of detail that has been included in the register has significantly 
+decreased over time since the original entries in the register from 2018 - 2019; 
+correspondence, templates and advice (including legal advice) regarding the 
+satisfaction of requirements in the CPRs and whether a particular procurement 
+achieves value for money or requires an open approach to market. In practice, such 
+documentation may take the form of checklists, written reports and broader cost 
+benefit analysis. Importantly, if this type of documentation did exist, the APVMA was 
+unable to provide it for review in a timely or accessible fashion; 
+any documentation detailing when limited tenders or standing offers have been 
+used instead of an approach to open market or when Appendix A exemptions under 
+the CPRs have been relied upon. It would clearly be prudent to maintain such 
+records going forward; and 
+(d) 
+any internal procurement policies, including in relation to the processes for 
+identifying procurement risks, other than to the extent the procurement policy has 
+been incorporated in the relevant AAIs.  
+4.3.4 
+While such documentation may exist on the APVMA's internal database, the fact that these 
+documents have not been provided to us suggests that they are not readily available or cannot 
+be easily located.  
+4.3.5 
+In this respect, we note that the correspondence and briefs we have been provided do not 
+appear to attach or refer to prepared documentation of the type referred to above. The 
+absence of such documentation, including the lack of a register where such documentation is 
+kept, creates an impression of non-compliance with the CPRs.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+42 
+4.3.6 
+Further, the lack of such documentation raises a concern that the APVMA may not undertake 
+regular or ad hoc reviews of its procurement performance - which would be an important step 
+in improving performance.  
+4.3.7 
+In this respect, the APVMA's procurements appear to be manually tracked and updated in an 
+electronic spreadsheet. Where this is the APVMA's primary method for managing 
+procurements, this approach is at risk of giving rise to inadvertent non-compliances as well as 
+impeding the effective delivery of procured goods and services - such as a result of: 
+a failure to manually incorporate new information into the spreadsheet; 
+limited system capabilities to track and compare information in the register (which 
+can also drain available resources away from other procurement matters as a 
+manual review is required); and 
+potential inconsistencies in the approach to recording information in the register. 
+Such inconsistencies may give rise to an impression that information in the 
+spreadsheet is unreliable and would require additional manual confirmation from 
+APVMA personnel (which would further drain available resources). For example, a 
+potential non-compliance with the CPRs was identified in relation to a procurement 
+of particular expert services. The non-compliance appears to relate to an absence 
+of evaluation criteria and assessment stage in tender documents as required by 
+rule 7.12 of the CPRs. While it appears that the relevant non-compliance was 
+rectified before the relevant contract was awarded, the fact that the non-compliance 
+was only discovered inadvertently and was not provided to us in response to our 
+original requests is consistent with a view that there may be other unidentified non-
+compliances with procurement requirements within the APVMA. 
+4.3.8 
+The absence of key procurement documentation in combination with the material that has 
+been provided to us (as detailed in the case study below), indicates that some executive-level 
+personnel of the APVMA may not have had a detailed appreciation of the intent of the CPRs 
+and the importance of their application to the APVMA in its capacity as a corporate 
+Commonwealth entity.  This view is consistent with our findings following the review of select 
+key challenging procurements.  
+Procurement case study:  Key Services Contract 
+4.3.9 
+In undertaking this review, we have focused on the APVMA's procurement of a key services 
+contract entered into under a work order with a contractor (the Work Order). Under the Work 
+Order, the head contractor engaged subcontractors to carry out relevant services for the 
+APVMA.  
+4.3.10 
+The procurement process for the Work Order raises a range of concerns about the 
+procurement compliance and awareness within the APVMA.  The APVMA was keen to 
+progress the delivery of the services the subject of the Work Order.  However, in doing so, it 
+appears that critical procurement requirements were not met.   
+4.3.11 
+In particular, it is of concern that the total value of the Work Order for the relevant services 
+increased very significantly without a final work product having been produced.  It is also of 
+concern that despite the relevant services under the Work Order being a significant work 
+product for the APVMA, the procurement was carried out iteratively, by way of numerous 
+change orders to an existing umbrella work order for the delivery of the relevant services.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+43 
+4.3.12 
+There is a significant amount of background in relation to this complex procurement. We have 
+set out a summary of the key factual matters relevant to this case study below. 
+Background  
+Observations on the services procured under the Work Order 
+From the materials provided to us, it appears that: 
+• 
+the initial procurement for the Work Order may have been undertaken via a 
+standing offer under an existing panel arrangement. It is not clear whether an 
+initial open market procurement was undertaken for this Work Order, or whether 
+the APVMA relied on the existence of the panel as a way to expedite the 
+process. We were not provided with any original value for money assessment as 
+referred to in later correspondence and material by the APVMA;  
+• 
+following the entering into of the initial Work Order various additional (although 
+associated) services were subsequently incorporated under the Work Order by 
+the APVMA and there were various purposes for the undertaking of the services 
+under the Work Order; 
+• 
+the APVMA had made representations to industry that the services the subject of 
+the Work Order would be undertaken within a certain timeframe;  
+• 
+there were ongoing issues with the undertaking and implementation of the 
+services and that resulted in significant delays and cost overruns;  
+• 
+the implementation of the services may have been complicated by the 
+establishment of a new main office in Armidale and the relocation of the office in 
+Canberra. We note that the original Work Order was the subject of a change 
+order which procured additional services for the Canberra relocation; 
+• 
+a significant number of change orders to the original Work Order have been 
+proposed which, for those that were approved, have in aggregate quadrupled the 
+original contract value (as at 20 February 2023). As at 20 February 2023 not all 
+services were complete and the APVMA had in its view not received any 
+significant deliverable of value which addressed the original objectives for 
+entering into the Work Order; 
+• 
+where additional services were incorporated under the existing Work Order with 
+the contractor, on at least one occasion this option appeared to be selected as it 
+was the most expedient option. While we have not been provided the materials 
+setting out the different options for undertaking this procurement, there is a 
+concern that the APVMA may have preferred expedience over compliance;  
+• 
+members of the then executive of the APVMA also made representations to 
+industry, who were interested in the successful delivery of the relevant services, 
+that the delivery of the services was progressing well. However, at this stage the 
+project was significantly late, over budget and subject to serious allegations of 
+non-performance; 
+• 
+8 months later a member of the then executive of the APVMA raised issues with 
+the contractor in relation to the delayed progress and cost overruns for the 
+services. The contractor responded in detail to the issues raised by the APVMA, 
+which appeared to lead to the preparation of a Deed setting out the parties' 
+understanding and treatment of the matters the subject of the Work Order (the 
+Deed);  
+• 
+although the services had not been completed, the original Work Order was set 
+to expire unless the APVMA exercised its extension option; 
+• 
+the APVMA and the contractor executed the Deed to extend the Work Order;  
+• 
+in negotiating and entering into the Deed reliance appears to have been placed 
+on the APVMA having undertaken some earlier value for money assessment
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+44 
+Background  
+such that no further assessment was required (and where this necessitated that 
+there be no material departures in the scope of the services included as part of 
+the Deed) and that the procurement was low risk as the Work Order had 
+contemplated an extension of the term. Given the circumstances, it is difficult to 
+reconcile any "low risk" categorisation of any part of this procurement;  
+• 
+in this respect, the APVMA's risk register ranked the risk associated with a failure 
+to suitably implement the services at the highest level (i.e. "extreme"); 
+• 
+the progression of the services was discussed in Board meetings. However, the 
+extent to which issues were considered is not clear given there is little detail on 
+this topic in the meetings' minutes;  
+• 
+it is not clear at what stage (if any) the Minister or the Finance Minister were 
+notified of the issues with the implementation of the services (noting the 
+"extreme" internal rating attributed by the APVMA), including in accordance with 
+the notification requirements under the PGPA Act;  
+• 
+aside from the coversheet of the Work Order, we have not been provided any 
+documents that relate to the undertaking of a tender process for the services; 
+and 
+• 
+as at the date of this Report we understand from the APVMA that it had limited 
+options to address the issues associated with this procurement and has been 
+required to extend the Work Order again, for additional cost, without a deliverable 
+having been completed. To ensure some relevant services were delivered for the 
+benefit of the industry and to mitigate the risk of a potential claim from the 
+contractor this was seen as the least worst option, even where there were 
+serious questions concerning the performance of the contract. 
+What could the key services procurement case study indicate about Finance Law 
+compliance? 
+4.3.13 
+The information that we have reviewed in preparing this Report suggests that the key services 
+procurement was not, in our view, an acceptable procurement. 
+4.3.14 
+While we have not received material allowing us to confirm that the original services were 
+procured under the relevant standing offer or the basis of the original value for money 
+assessment (this being an issue in itself), it appears that the procurement of additional 
+services may not have complied with key procurement requirements. Indeed we note: 
+there would have been an expectation on the APVMA to reassess the project or 
+approach the open market at some point, or engage in another standing offer 
+process (noting there were a significant number of other suppliers which were 
+available to be used by the APVMA under existing panel arrangements) for the 
+additional services given the significant change in the scope of the original Work 
+Order and the issues that had arisen. The change in scope is evident in the number 
+and value of the iterative increases to the contract and is acknowledged in various 
+correspondence between the APVMA and the contractor; 
+it is unclear from the materials provided whether the APVMA sought tenders for the 
+additional services or relied upon an exception or exemption under the CPRs. As 
+noted for general procurement matters, the APVMA does not maintain a register for 
+exemptions relied upon during procurements;  
+even if an exception or exemption could have applied, it is unclear to us how the 
+APVMA would have demonstrated that an additional procurement of the relevant 
+services from the existing contractor would represent value for money, or would be
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+45 
+efficient, effective, economical and ethical - given the project and contractor issues 
+described above;  
+(d) 
+there is significant doubt that compliance reviews were undertaken (or appropriately 
+prioritised) for the procurement of certain services, including in relation to the Deed 
+noting that the APVMA Procurement Team appeared to not sign-off on the 
+procurement on the basis that the relevant spending proposal had "already been 
+signed and approved by the [relevant member of the APVMA executive] so any 
+further consideration by the procurement team is considered to be redundant" - this 
+of course means that no advice was taken from the procurement team before 
+deciding to complete the Deed which recommitted the APVMA to the procurement 
+and significant additional spend; and 
+(e) 
+the above concerns arise particularly in relation to the extension and variation of 
+services under the Deed, but also arise more generally in relation to the repeated 
+variations to the Work Order carried out prior to the date of the Deed.  
+4.3.15 
+This case study also illustrates the need for additional resourcing for record-keeping within the 
+APVMA.  Although we requested all documents relating to the procurement, we have not been 
+provided documentation that is commensurate with the scale, scope and risk of the 
+procurement, as required by the CPRs. Given the value and risk of the procurement (including 
+as attributed to it by the APVMA), we would expect there to be considerably more numerous 
+and sophisticated documentation setting out the reasoning behind procurement decisions and 
+any risks arising in relation to Finance Law compliance. As noted above for general 
+procurement matters, the absence of such documentation suggests that it is not readily 
+available, cannot be easily located or was otherwise not prepared in the first instance. 
+4.3.16 
+There is a risk the expedient completion of the relevant services, and potentially other 
+associated services, may have been prioritised to the detriment of ensuring compliance with 
+the CPRs and AAIs. In particular, there are concerns arising from internal correspondence that 
+compliance with procurement requirements for the Deed was only a matter considered after 
+the Deed was substantially prepared for execution (which may create pressure to affirm that 
+the requirements are satisfied).  
+4.3.17 
+There is also a risk the executive team of the APVMA may not have transparently or promptly 
+communicated the Finance Law compliance risks to the Board, the Audit and Risk Committee, 
+the Minister and the Finance Minister. Given the "extreme rating" attributed by the APVMA to 
+the implementation of the services the subject of the Work Order, we would expect that this 
+matter would have been notified to the Minister and the Finance Minister in accordance with 
+the PGPA Act. 
+4.3.18 
+Similarly, we have not been provided documentation between relevant members of the 
+APVMA executive and the Board that communicates the risks arising in relation to the 
+management of the services procurement in a way that is commensurate to its risk to the 
+APVMA. If these risks were properly communicated to the Board, they do not appear to have 
+been detailed as such in the minutes. 
+4.4 
+Compliance with other Finance Law: other matters 
+4.4.1 
+As noted at the beginning of this section 4, the ANAO prepares regular reports based on 
+detailed audits of the financial management of the APVMA.  
+4.4.2 
+The reports authored by the ANAO indicate that the risks identified during the audits are 
+typically "moderate" or "lower risk" and nonrecurring. Where the ANAO had suggested a 
+recommendation to address an identified risk, it appears from the materials provided that the 
+APVMA's Audit and Risk Committee sought to implement those recommendations.  
+4.4.3 
+While we have not been provided with materials allowing us to independently confirm the 
+extent to which these recommendations have been implemented, the fact that the same issues
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+46 
+were not identified in subsequent ANAO reports suggests that issues were rectified once 
+identified. 
+4.4.4 
+One of the ANAO reports dated August 2022 (for the year ending 30 June 2022) identified the 
+ability of the APVMA's management to override financial controls as an area of potential 
+'higher risk'. We understand that: 
+the risk only arose in the context of asset value estimations for the APVMA (which 
+are discussed in the relevant ANAO report); and  
+the matter has since been resolved as evidenced by a supporting statement from 
+the relevant APVMA executive member dated 31 August 2022.  
+4.4.5 
+As a result, and noting the ANAO undertakes regular financial auditing of the APVMA, we have 
+no additional comments on the accounting and financials of the APVMA for the purposes of 
+this review.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+47 
+5. 
+Operations 
+Summary of key findings and takeaways 
+• 
+During the period 2019 - 2022, the APVMA received a significant number of 
+personnel related complaints.  The volume of complaints is of high concern 
+having regard to the size of the agency.  The allegations also suggest a 
+consistent theme of dissatisfaction in the manner that complaints were handled 
+or progressed. 
+• 
+It should be noted that a number of the allegations and complaints made by staff 
+were very serious. We understand that, where appropriate, allegations have 
+been referred to the relevant authorities for further investigation. 
+• 
+Significant and recent changes to the APVMA's staff profile following the 
+relocation of the office to Armidale in 2019, has most likely impacted corporate 
+knowledge, workload, and work capacity as well as changes to its governance 
+structure (with the Board having been introduced in early 2022). We understand 
+only a small proportion of previous APVMA staff moved from Canberra to 
+Armidale and it may be inferred that the new staff and lack of previous APS 
+knowledge and experience impacted the operations of the APVMA. 
+• 
+The current governance structure, and in particular, the relationship between the 
+CEO and the Board, needs to be carefully examined and more clearly defined.   
+• 
+This lack of clear delineation of roles was probably a factor in the APVMA's 
+leadership failing to escalate serious issues which would normally require the 
+Board's strategic oversight. 
+• 
+Robust reporting and strategic frameworks, including a clear charter of the 
+Board's roles and responsibilities, may enhance the way that the APVMA 
+identifies and responds to significant challenges in the future.  
+• 
+Greater reporting between the APVMA and the Department and Minister would 
+allow for the APVMA to greater integrate into the overall APS and executive 
+framework and policy settings. 
+5.1 
+Introduction, scope and key issues 
+5.1.1 
+The Minister has requested the Board report on issues raised in relation to the administration 
+and operation of the agency more generally.  We consider that there are two key components 
+to be addressed in examining this issue: 
+personnel and operational matters; and 
+governance matters, in this case, the APVMA's current governance structure, 
+including the role of the Board, the role of the CEO and the impact of the 
+relationship between the substantive CEO and the Board between March 2022 and 
+March 2023. 
+5.1.2 
+In preparing this Report, we have reviewed what we understand to be all recorded personnel 
+complaints raised between 1 January 2018 to 11 February 2023.   
+5.1.3 
+It is beyond the scope of this Report to investigate allegations, to determine whether 
+allegations may constitute a breach of the Code of Conduct or to make any findings about 
+particular allegations in relation to staff members. It is also beyond this review to make 
+recommendations regarding workplace culture. These matters are both being investigated and 
+reviewed in different forums.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+48 
+5.1.4 
+However, we have considered what the volume and seriousness of the allegations might 
+indicate about the APVMA's operations more generally.  
+5.1.5 
+This part of the Report has also been undertaken by way of a desktop review of documentary 
+material.  This means that we have not: 
+conducted interviews with any staff members; or 
+conducted any form of investigation (including a desktop investigation) in relation to 
+particular incidents or allegations contained in the material we have reviewed; or 
+undertaken any qualitative assessment of the matters raised in the materials and 
+cannot comment on the veracity of these matters or the steps the Board (or any 
+other relevant party) may wish to take to address any matters. 
+5.1.6 
+Additionally, at the time of writing, referrals have been made to the Australian Public Service 
+Commissioner and policing authorities.  This Report makes no findings or recommendations in 
+relation to the allegations that precipitated the Australian Public Service Commissioner's 
+ongoing investigations or in relation to the overall workplace culture of the APVMA. 
+5.2 
+Personnel and operational matters   
+5.2.1 
+It is relevant to understand the size of the APVMA as an agency during 2019 - 2022 to put into 
+context the personnel and operational matters facing the agency. 
+5.2.2 
+The APVMA has offices at two locations in Australia: one in Armidale and the other Canberra.  
+5.2.3 
+As at 30 June 2022, the APVMA employed a total of 197 ongoing and 32 non-ongoing APS 
+employees.69  
+5.2.4 
+Across all APVMA staff as at 30 June 2022, there were:70 
+154 ongoing employees and 30 non-ongoing employees in the Armidale office; 
+43 ongoing employees and 2 non-ongoing employees in the Canberra office; and 
+a total of 158 staff with flexible working arrangements in place. 
+5.2.5 
+At the outset, we note that the APVMA is comparatively a smaller Commonwealth agency.  
+This context is important to understand the impact of complaints and disputes within the 
+agency which we consider would be more likely to impact more staff on a day-to-day basis 
+when the size of the agency is smaller, and where the resources of the agency to respond to 
+complaints is also likely to be smaller. 
+Summary of staff complaints, issues and concerns 
+5.2.6 
+We sought access to information from the APVMA regarding complaints, issues and concerns 
+raised by staff.  We were provided with a number of documents from the APVMA's document 
+management system from 2018-2023.  We were able to identify 56 complaints.  With the 
+information available to us, it is not possible to say whether the complaints are all unrelated or 
+whether some complaints are related to the same underlying conduct.   
+5.2.7 
+The complaints we have identified range from what may be described as relatively trivial 
+workplace grievances to alleged misconduct which is very serious in nature.  We have 
+69 APVMA, Annual Report 2021-22 (Annual Report, 21 October 2022), p 10. 
+70 Ibid, pp 15-17.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+49 
+categorised the complaints into six categories.  Below, we describe each of the six categories 
+and give an example of the types of complaints which fall into each category. 
+Summary of staff complaints, issues and concerns:  2018 - 2023 
+Conflicts of interest in recruitment - 2 complaints 
+This category includes allegations of nepotism and favouritism. 
+Inappropriate use of technology - 3 complaints 
+This category includes allegations unauthorised publication of official information 
+on social media. 
+Mental health concerns - 9 complaints 
+This category includes allegations about unsafe work practices (due to excessive 
+work demands). 
+(d) 
+Poor culture and management - 9 complaints 
+This category includes allegations about conflict between managers. 
+(e) 
+Complaints handling, including failure to take appropriate action - 
+12 complaints 
+This category includes allegations about taking adverse action against 
+employees who raised concerns about the management or the culture of the 
+APVMA. 
+(f) 
+Inappropriate behaviour - 21 complaints 
+This category includes allegations regarding inappropriate behaviour in the 
+workplace. 
+The number of complaints in each category is also shown in the diagram below.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+50 
+5.2.8 
+Based on the material that we have reviewed, the complaints appear to cover the entire 
+organisation and are made by and about employees at all levels within the APVMA (from junior 
+staff to executive level staff), and employees that are both longstanding and who had 
+commenced recently. The seriousness of the complaints also ranges significantly from 
+complaints on the lower end of seriousness (such as complaints about fire warden duties) to 
+allegations of serious misconduct. 
+5.2.9 
+The broad subject matter of the complaints includes matters which are arguably more personal 
+in nature, although which appear to filter into the work environment and affect the ability of 
+staff to perform their role, and complaints in relation to matters that fall within the scope of the 
+employee's position within the APVMA (such as disputes over professional responsibilities). 
+5.2.10 
+There are also a significant number of complaints that refer to serious impacts for the persons 
+involved, including numerous instances of employees having to take periods of stress leave or 
+feeling unable to attend work due to mental health concerns. Despite this, the manner in which 
+complaints appear to have been handled and documented indicates: 
+a lack of response to the complaint; or 
+a lack of record keeping; or 
+a lack of capacity to respond and/or keep accurate records in relation to the 
+complaint. 
+What does this suggest about the operations of the APVMA? 
+5.2.11 
+Due to the nature of this review, we have not assessed the veracity of any of these matters. 
+However, the points that need to be emphasised as a result of the mere making of the 
+complaints are as follows: 
+there were clearly cultural issues with the organisation given that on average there 
+was a formal complaint about once every 4-6 weeks for 5 years; 
+some of the complaints were very serious but there appears to have little if any 
+reporting of these matters to the Board. There was no reporting that we could find 
+of any kind of these matters to either the Department or the Minister meaning that 
+matters were not escalated and relevant action could not be taken; 
+some of the more serious complaints involved individuals that were either in the 
+APVMA executive, or who were direct reports to the then APVMA executive; 
+(d) 
+conversely, in some instances the making of a complaint and the response to it 
+seemed potentially disproportionate; 
+(e) 
+there were allegations of instances where instead of supporting people who were 
+trying to make a complaint, they were instead actively discouraged from making the 
+relevant complaint; and 
+(f) 
+there were serious mental health matters that were raised for a number of 
+employees. 
+5.2.12 
+It is apparent from the number of complaints that the APVMA has a very large number of what 
+may be described as personnel and organisational issues for an agency of its size.   
+5.2.13 
+We suggest, having regard to the other information reviewed for the purposes of this Report, 
+that the organisational operations of the APVMA has likely been significantly impacted by: 
+frequent and recent changes to the staff profile, including staff resourcing levels for 
+critical business areas in the regulatory and scientific areas.  This includes the
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+51 
+significant changes to the APVMA's staff base upon the relocation from Canberra to 
+Armidale in 2019; 
+rapid staff turnover and high levels of staff departure, including at supervisor levels 
+(with particularly high staff turnover reported in relation to EL2 positions); 
+the volume of complaints with respect to inappropriate behaviour in the workplace; 
+and 
+(d) 
+employee concerns about poor culture within the APVMA and a limited response 
+from those in management to the poor culture within the APVMA. 
+5.2.14 
+The APVMA has undergone a significant amount of organisational change in a relatively short 
+period.  The APVMA has been subject to repeated internal and external reviews with respect 
+to its strategic direction and has as recently as early 2022 undergone a significant change to 
+its governance structure, with the addition of the Board.  
+5.2.15 
+The relocation of the APVMA's main office to Armidale perhaps also fundamentally changed 
+the APVMA - if for no other reason than the APVMA had a very significant turnover of staff, 
+including a change in CEO, associated with the relocation. This turnover of staff would have 
+inevitably resulted in a loss of corporate knowledge, a loss of corporate culture and a loss of 
+experience and knowledge of what it is to work within the APS.  This may include practical 
+awareness of foundational public service principles, such as the need to adhere to the APS 
+Values. 
+5.2.16 
+In reflecting on the impact of significant organisational change on the APVMA's operations, it is 
+appropriate that for any future organisational changes, strategies are put in place to: 
+maintain corporate knowledge if there is staff turnover; 
+ensure that there are strong links to the Department and the wider public service so 
+that there is a clear appreciation of the accountability and behavioural requirements 
+expected of the APS; and 
+ensure that communication, transparency and consultation channels with existing 
+APVMA staff are prioritised as a central part of the plan in developing and 
+implementing change at an organisational and structural level.  
+5.2.17 
+The information we have reviewed does indicate that the APVMA is working to implement 
+ongoing and upcoming initiatives designed to bolster the operations and enhance the 
+workplace culture of the APVMA. These initiatives should continue to be progressed as a 
+matter of urgency, and it may be that additional workplace culture advice is required to deal 
+with the issues over time.  
+5.2.18 
+Among others the initiatives being progressed include: 
+developing and implementing new workplace policies and procedures including the 
+People and Culture Plan, the Workplace Respect Program and the Contact Officer 
+Network; 
+developing a bespoke work health and safety management system designed for the 
+APVMA, including policies which promote a flexible and agile workforce; 
+introducing annual compulsory training in relation to bullying, harassment and 
+inappropriate behaviour in the workplace; 
+(d) 
+engaging with APVMA staff in relation to what they want to see in their workplace, 
+including by conducting a workplace culture improvement project (the Culture Pulse 
+Check Project).  One of the Board’s key commitments arising out of this project is a
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+52 
+quarterly report on the progress in implementing the APVMA Culture Pulse Check 
+Roadmap; 
+(e) 
+increasing the depth and capacity of the APVMA People Team, including by 
+creating new positions in the team; 
+(f) 
+identifying and providing the contact details of APVMA staff who are authorised to 
+receive Public Interest Disclosures, with their contact details made readily available 
+to staff on the intranet;  
+(g) 
+developing a Behavioural Standards Policy that will incorporate the APS Values 
+and embed them into relevant business processes; 
+(h) 
+assisting staff to develop practical skills on how to deliver and receive feedback; 
+(i) 
+facilitate 'Values in Action for Managers' workshops, establish 'Values Team 
+Agreements' and organise team building workshops; 
+(j) 
+implement a Leadership Development Program and develop the APVMA 
+Leadership Capability Framework to articulate clear leadership expectations in line 
+with the APS Capability Framework; 
+(k) 
+undertake targeted business critical roles recruitment campaigns bi-annually, tied to 
+successful planning and a talent program; 
+(l) 
+conduct a review of organisational capabilities, including completion of a gap 
+analysis between current and future workplace requirements; 
+(m) 
+implementing measures to increase staff engagement and collaboration, including 
+by encouraging employees to increase the days that they are working from the 
+office (noting that until March 2023, a significant number of APVMA staff were on 
+almost full-time remote working arrangements); 
+(n) 
+create a better link between capability and performance through a revised approach 
+to performance management; 
+(o) 
+implement resources and guidance materials to support new managers' transition 
+into leadership roles; 
+(p) 
+promote prevention and early intervention strategies to manage organisational and 
+workplace issues; and 
+(q) 
+5.2.19 
+As the above work is either ongoing or in the process of implementation, it is not possible for 
+this Report to assess the effectiveness of these policies or initiatives.  These initiatives do 
+appear to be well placed to respond to the concerns of staff and the operational and 
+organisational issues we have identified in this Report. 
+5.3 
+Governance 
+5.3.1 
+This review has considered, in relation to the administration and organisation of the APVMA 
+more generally, the governance relationship between the role of the CEO and the role of the 
+Board.   
+5.3.2 
+Based on the information we have reviewed it appears that the APVMA's governance model in 
+the first year of the Board's operation was not successful in promoting Board oversight, 
+awareness and understanding of the issues facing the APVMA.  It is possible that this was due 
+to a combination of the APVMA's senior executive during this period not drawing appropriate
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+53 
+matters to the Board's attention as well as the Board not having a sufficiently clear mandate or 
+formal reporting requirements in relation to the operational issues of the APVMA. 
+5.3.3 
+In the section that follows, we have considered the current organisational structure of the 
+APVMA and information available about the relationship between the substantive CEO and the 
+Board from the period March 2022 (being when the Board was introduced into the governance 
+structure of the APVMA) to March 2023. 
+Organisational structure of the APVMA 
+The Board 
+5.3.4 
+The Board of the APVMA was only recently established on 4 March 2022 by the Agricultural 
+and Veterinary Chemicals Legislation Amendment (Australian Pesticides and Veterinary 
+Medicines Authority Board and Other Improvements) Act 2021 (Cth) (Improvements Act). 
+Membership of the Board consists of the Chair, the CEO, and three other members.   
+5.3.5 
+The Board was established following repeated reviews the APVMA's governance and 
+performance.71  Perhaps the most relevant recent review that included the APVMA in its scope 
+was the comprehensive review of the regulatory framework for agvet chemicals in Australia, 
+announced by the former Minister for Agriculture in September 2019.  This comprehensive 
+review concluded with the publication and release of the Systems Report.  
+5.3.6 
+Shortly after this review was announced, the government at the time introduced the 
+Agricultural and Veterinary Chemicals Legislation Amendment (Australian Pesticides and 
+Veterinary Medicines Authority Board and Other Improvements) Bill 2019 (Cth).  This Bill 
+relevantly recommended the introduction of the Board. 
+5.3.7 
+The Systems Report was the result of this review and was completed in May 2021. The 
+Systems Report relevantly include a recommendation that a Board be introduced into the 
+governance structure.  Specifically, the Systems Report stated that "all responsibility for 
+strategic leadership, governance, staff management, and day-to-day operations currently 
+resides with the APVMA's CEO",72 and commented that this was an unusual arrangement, 
+given 90% of Commonwealth corporate entities have a Board. The Systems Report also 
+observed that the APVMA's CEO model creates potential vulnerability as the CEO's attention 
+is divided between attending to external regulatory functions and internal management and 
+governance.73  The Systems Report recommended that the Board should 'not be involved in 
+day-to-day management and operational activities of the regulator, nor should it impact or 
+influence the scientific integrity of regulatory risk assessment'.74  Instead, the Systems Report 
+characterised the role of the Board as supporting the APVMA in managing operational, 
+financial and performance matters, and to drive a reform agenda. 
+5.3.8 
+Under the Administration Act, the Board's functions are to ensure the proper, efficient and 
+effective performance of the APVMA's functions and to determine its strategic and policy 
+direction. As the entity's accountable authority for the purposes of the PGPA Act, the Board is 
+also subject to various statutory duties under the PGPA Act in relation to its financial, risk and 
+audit oversight of the APVMA the performance of which is not subject to any Ministerial 
+direction under s 27G of the Administration Act. 
+71 A history of this scrutiny, including multiple audit reports, is set out in the Senate Rural and Regional Affairs and 
+Transport Standing Committee's 2019 report:  Independence of Regulatory Decisions Made by the Australian 
+Pesticides and Veterinary Medicines Authority (APVMA). 
+72 Systems Report, 64. 
+73 Systems Report, 64-65. 
+74 Systems Report, 64-65.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+54 
+5.3.9 
+A statutorily mandated review into the functions and operation of the Board is to be completed 
+by no later than 4 March 2026.75  
+The CEO 
+5.3.10 
+The CEO of the APVMA is appointed on a full-time basis by the Board in consultation with the 
+Minister. The CEO is an ex-officio member of the Board and serves as the head of the 
+APVMA's executive team as well as the APVMA Head for the purposes of the Public Service 
+Act 1999 (Cth). 
+5.3.11 
+Under s 32 of the Administration Act, the CEO is responsible for the day-to-day management 
+and decision-making of the APVMA and may exercise any of its powers and perform any of its 
+functions. However, in doing so, the CEO must act in accordance with the objectives, 
+strategies and polices determined by the Board, and comply with any written directions given 
+by the Board in relation to the performance of the CEO's duties under the Administration Act.76 
+5.3.12 
+It is relevant that the role of the CEO changed with the introduction of a Board into the 
+APVMA's governance structure.  Notably, the introduction of the Board also came with a 
+requirement for the CEO to report to the Board and be accountable to the Board (including 
+with respect to the CEO's appointment).  While the CEO remains responsible for the 
+day-to-day operations of the APVMA, it appears that the changes to the APVMA's governance 
+structure in 2019, that came into effect in 2022, were designed to carve out the broader 
+strategic agenda for the Board to develop and progress, with the CEO to continue to have 
+oversight over the APVMA's day-to-day operations, albeit with strategic oversight from the 
+Board. 
+5.3.13 
+This is reflected in the Explanatory Memorandum to the Agricultural and Veterinary Chemicals 
+Legislation Amendment (Australian Pesticides and Veterinary Medicines Authority Board and 
+Other Improvements) Bill 2019 (Cth) which relevantly stated that "[t]he functions of the Board 
+will complement, but not duplicate the duties of the CEO… this split of responsibilities will 
+ensure the Board provides the appropriate level of oversight, but will prevent it from getting 
+involved in the day-to-day decision-making of the APVMA".77 
+5.3.14 
+For completeness, we note that the Minister has general executive oversight over, and is 
+accountable to Parliament and the public for, the APVMA.78 In discharging those duties, the 
+Minister is vested with specific (delegable)79 powers and functions under the AVC legislation, 
+including:  
+giving written directions to the APVMA (or the Board) concerning the performance 
+of its functions or exercise of its powers;80 
+75 Administration Act s 27K. 
+76 Administration Act, s 32. 
+77 Systems Report, 71.  
+78 See also PGPA Act s 19(1) which requires the Board of the APVMA to keep the Minister informed of certain 
+matters in relation to its activities and decisions.  
+79 Administration Act s 71. 
+80 Ibid ss 10, 27G.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+55 
+approving the APVMA's annual corporate plan81 and facilitating certain contractual 
+and administrative arrangements involving the APVMA and the Commonwealth or 
+with a Minister or government of a State;82 and 
+review and decision-making responsibility in relation to applications for 
+reconsideration of certain permit decisions,83 and the granting of permission (which 
+may also be provided by authorised officers) to import, export, manufacture, or deal 
+with otherwise prohibited chemicals.84  
+5.3.15 
+The Secretary of the Department has policy oversight of the legislation administered by the 
+APVMA. In addition to the general roles and responsibilities set out in s 57 of the Public 
+Service Act 1999 (Cth), the Secretary also has specific responsibilities under the AVC 
+legislation in relation to the record keeping and document management.85 
+The relationship between the CEO and the Board 
+5.3.16 
+The CEO is the person responsible for the day-to-day operations of the APVMA, and reports to 
+the Board in that capacity. In contrast, the purpose of the Board is to provide strategic 
+oversight and additional guidance for the APVMA and for the CEO. 
+5.3.17 
+However, the Administration Act does not identify the specific matters over which the Board 
+ought to have oversight (if any) in the context of the day-to-day operations and administration 
+of the APVMA. 
+5.3.18 
+The information that we have reviewed indicates that in the first year of the Board's operation 
+(from March 2022 to February 2023) efforts were made for the Board to be regularly updated 
+in relation to matters relevant to the underlying organisational strategy for the APVMA. 
+Records of meeting minutes demonstrate that Board meetings were well-attended by senior 
+members of the APVMA across various business areas (including People and Governance, 
+ICT Services, Compliance, Reform, Finance and Legal) in addition to the APVMA's senior 
+leadership.  
+5.3.19 
+We further understand that the Chair of the Board and the substantive CEO met on a more 
+informal but weekly basis, also with a view to maintaining ongoing oversight by the Board of 
+matters relevant to the APVMA's broader strategy. 
+5.3.20 
+The Board has raised significant concerns relating to the information it was provided by 
+management of the APVMA.  The provision of information to the Board is critical for the Board 
+to be able to perform its functions and discharge its obligations.  The Board has noted that it 
+was not, in its opinion, kept informed of (and may have been inadvertently mislead in respect 
+of): 
+staffing matters - including complaints and incident reporting. We note that the 
+Board was not aware of the staffing matters raised by Senator Whish-Wilson until 
+the relevant Senate Estimates Hearing. The Board, Department and Minister only 
+became aware of those allegations at the hearing itself;  
+the financial performance of the APVMA; and 
+81 Ibid s 51. 
+82 Ibid ss 9, 58, 75(1), 76. 
+83 Agricultural and Veterinary Chemicals (Administration) Regulations 1995, Part 3 Div 3.9. 
+84 Ibid, regs 3.55, 3.110, 3.210, 3.185. 
+85 See, e.g. Administration Act ss 27E-27F, 27H; Collection of Levy Act s 35.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+56 
+procurement matters. 
+5.3.21 
+However, we do note that the Board meeting minutes we have been provided to review record 
+briefings from People and Governance, project updates on the significant procurements, 
+briefings from the Chief Financial Officer and financial statements, review and Board approval 
+of draft portfolio budget statements and annual performance statements, and regular updates 
+from the Compliance and Risk areas.  Of course, we cannot comment on whether the Board 
+was fully briefed as a result - it may be that either the information provided to the Board was 
+presented in a manner such that the Board was not able to identify the problems and risks 
+based on the information presented, or the Board was not in a position - either due to the lack 
+of context or a lack of understanding as to the actual operations of the APVMA or the 
+information presented - to identify, understand and appreciate the significant strategic 
+challenges that faced the APVMA during this period.   
+5.3.22 
+This is a significant issue as the Board is not in a position to comply with its statutory 
+obligations unless and until it is provided with all relevant information from management.  From 
+a governance perspective the Board needs to be held accountable for its decisions in relation 
+to the APVMA, but this accountability can only be established where the Board is able to 
+review all information that allows it to govern the APVMA. 
+5.3.23 
+However, and of course, where the Board is of the view, or is otherwise concerned, that it has 
+not received sufficient information to discharge its functions or obligations it is critical that the 
+Board takes all reasonable steps to ensure that it procures such information. 
+5.3.24 
+Focusing specifically on the allegations of serious misconduct that were first raised during the 
+November 2022 Senate Estimates hearing, which we accept the Board did not discuss at any 
+Board meetings, it is concerning that the APVMA's executive team failed to provide any 
+information in relation to the misconduct and other issues to the Board for a period of over a 
+year (on the basis that we understand the incident raised during the November Senate 
+Estimates Hearing took place in approximately September 2021, and the hearing took place in 
+November 2022).  
+5.3.25 
+In this respect, it remains unclear from our review of the limited material provided to us, 
+whether the executive team of the APVMA (including the substantive CEO) had knowledge of 
+all of the relevant workplace issues which had been raised - however, that leads to one of two 
+conclusions: 
+the executive team knew about the number and types of complaints being made but 
+failed to inform the Board of this; or 
+the executive team did not know about the number and types of complaints being 
+made. 
+Governance:  matters for further consideration 
+5.3.26 
+Given the above, in respect of the Board's role going forward, consideration should be given to 
+the following: 
+Arrange for detailed governance education programs to be delivered to the Board, 
+with a focus on Board responsibilities under the Administration Act, the applicable 
+Workplace Health and Safety legislation and in relation to procurement matters. 
+Consider implementing separate and formalised reporting mechanisms as between 
+the Board and the CEO, and the Board and other executive officers. This is to 
+ensure that the Board is informed of all relevant matters and so that compliance 
+matters are independent from other business and operational functions of the 
+APVMA.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+57 
+Review and implement more formal reporting mechanisms as between the Chair, 
+the Board and the Secretary of the Department, consistent with the Administration 
+Act. 
+(d) 
+Outline in detail the role of the Board and those matters consistent with the 
+Administration Act in respect of which it needs detailed information and briefings. 
+(e) 
+Clarify those matters which the CEO alone is responsible for, as opposed to those 
+in respect of which guidance is expected from the Board. 
+(f) 
+Expand the number of the Board to facilitate the inclusion of additional skill sets.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+58 
+6. 
+Glossary 
+Term 
+Definition 
+AAIs 
+Accountable Authority Instructions 
+Administration Act 
+Agricultural and Veterinary Chemicals (Administration) Act 1992 
+Agvet Code Act 
+Agricultural and Veterinary Chemicals Code Act 1994 
+ANAO 
+Australian National Audit Office 
+APS 
+Australian Public Service 
+APS Values 
+Means those values set out in section 10 of the Public Service Act 
+1999 (Cth) 
+APSC 
+Australian Public Service Commission 
+APVMA 
+Australian Pesticides and Veterinary Medicines Authority 
+AVC legislation 
+Collectively, and as applicable, the AVC Act, Agvet Code Act and 
+the Agricultural and Veterinary Chemical Products (Collection of 
+Levy) Act 1994 (Cth) 
+AVC Act 
+Agricultural and Veterinary Chemicals Act 1994 
+Board 
+Board of the APVMA 
+Brennan Review 
+Independent review into the workplace culture of the APVMA, 
+commissioned by the Senator Murray Watt 
+CDPP 
+Commonwealth Director of Public Prosecution 
+CEO 
+Chief Executive Officer of the APVMA 
+Code of Conduct 
+The Australian Public Service Code of Conduct, as set out in s 13 of 
+the Public Service Act 1999 (Cth) 
+CPRs 
+Commonwealth Procurement Rules 
+Department 
+Finance Law 
+Collectively, the PGPA Act and the PGPA Rule 
+Improvements Act 
+Agricultural and Veterinary Chemicals Legislation Amendment 
+(Australian Pesticides and Veterinary Medicines Authority Board 
+and Other Improvements) Act 2021 (Cth) 
+Interim Report 
+The interim report prepared by Ms Brennan in relation to the 
+Brennan Review, provided to Senator Murray Watt on 8 February 
+2023 
+Minister 
+Minister for Agriculture 
+November Senate 
+Estimates Hearing 
+Senate Rural and Regional Affairs and Transport Legislation 
+Committee hearing in Canberra on 8 November 2022
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+59 
+Term 
+Definition 
+PGPA Act 
+Public Governance, Performance and Accountability Act 2013 (Cth) 
+PGPA Rule 
+Public Governance, Performance and Accountability Rule 2014 
+(Cth) 
+Public Service Act 
+Public Service Act 1999 (Cth) 
+RMG 411 
+Commonwealth Resource Management Guide 411 (Grants, 
+Procurement and other financial arrangements) 
+RMG 128 
+Commonwealth Resource Management Guide 128 (Regulator 
+Performance) 
+Secretary 
+Systems Report 
+2021 Independent Review of the Pesticides and Veterinary 
+Medicines System in Australia
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+60 
+7. 
+Appendix:  APVMA Functions 
+Function 
+Key activities 
+Assessment 
+Assessing the suitability for 
+supply in Australia of active 
+constituents for proposed or 
+existing chemical products, 
+chemical products and labels for 
+containers for chemical 
+products.86 
+To perform this function, the Agvet Code confers powers on 
+the APVMA to: 
+• 
+approve active constituents for proposed or existing 
+chemical products; 87 
+• 
+register chemical products; 88 
+• 
+approve labels for containers for chemical products; 89 
+and 
+• 
+issue permits90 and licences,91 for the use, handling and 
+manufacture of chemicals. Permits may authorise the 
+use of unregistered chemicals for limited purposes. 
+The APVMA can impose conditions on approvals or 
+registrations, and can reconsider, vary, suspend or cancel 
+approvals and registrations. 
+Evaluating the effects of using 
+chemical products in states and 
+territories.92 
+The APVMA maintains a Chemical Review Program Plan (for 
+the purpose of reconsidering the approval of an active 
+constituent, product registration or a product or the approval of 
+a label).93 The APVMA conducts chemical reviews to assess 
+that products that have been available to the market are still 
+safe to use, having regard to concerns raised in relation to 
+health, safety and efficacy. 
+Collecting, interpreting, 
+disseminating and publishing 
+information relating to chemical 
+products and their use.94 
+The APVMA: 
+• 
+maintains an Adverse Experiences Reporting Program to 
+collect and assess reports of adverse experiences 
+resulting from the use of an agvet chemical, including 
+lack of efficacy, or harm to human, crop, animal or 
+environmental health;95  
+86 Administration Act s 7(1A)(a). 
+87 Agvet Code, Pt 2, Div 2. 
+88 Ibid. 
+89 Ibid. 
+90 Ibid Pt 7. 
+91 Ibid ss 122-127. 
+92 Administration Act s 7(1A)(d). 
+93 'Chemical Review', APVMA (Web Page, 2020) https://apvma.gov.au/node/10816.  
+94 Ibid s 7(1A)(g). 
+95 'Adverse Experience Reporting Program', APVMA (Web Page, 2022) https://apvma.gov.au/node/86336.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+61 
+Function 
+Key activities 
+• 
+collects information from registration, approval or permit 
+holders where they become aware of new information in 
+relation to an agvet chemical product;96  
+• 
+conducts educational campaigns including, in 2021 - 
+2022, in relation to importing chemicals and requirements 
+for scheduled drugs and poisons;97 and  
+• 
+provides public information via its website on the correct 
+use of agvet chemicals. 
+Advice, consultation and administration  
+Providing information to 
+Commonwealth and state and 
+territory governments and 
+authorities about approved 
+active constituents, chemical 
+products and labels for chemical 
+products, and cooperating with 
+governments on matters relating 
+to management and control of 
+chemical products.98 
+The APVMA participates in the Harmonised Agvet Chemicals 
+Control of Use Task Group with representatives from state 
+and territory regulatory agencies (who are responsible for the 
+use of Agvet chemicals after the point of sale) to consult with 
+those regulators and to share APVMA activities. 99  
+Keeping records and statistics of 
+approvals, registrations granted 
+and permits and licences 
+issued.100 
+The APVMA keeps records including: 
+• 
+a Record of Approved Active Constituents for Chemical 
+Products;101 
+• 
+a Register of Agricultural and Veterinary Chemical 
+Products;102 
+• 
+files including information about all approved chemical 
+labels;103  
+• 
+a Record of Permits identifying permits by their 
+distinguishing number and stating their conditions;104 and 
+• 
+in relation to licenses, the APVMA publishes particulars 
+in the Gazette after a license is issued,105 and from time 
+96 Agvet Code s 161; 'Holders to Notify the APVMA of New Information', APVMA (Web Page, 2022) 
+https://apvma.gov.au/node/10826.  
+97 APVMA, Annual Report 2021-22 (Annual Report, 21 October 2022) 32. 
+98 Administration Act s 7(1A)(b). 
+99 APVMA, Annual Report 2021-22 (Annual Report, 21 October 2022) 49. 
+100 Administration Act s 7(1A)(c). 
+101 Agvet Code s 17. 
+102 Ibid s 18. 
+103 Ibid s 21(c).  
+104 Ibid ss 113-114. 
+105 Ibid s 123(5).
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+62 
+Function 
+Key activities 
+to time publishes a list of manufacturers holding 
+licenses.106  
+Cooperating with the 
+Commonwealth and state and 
+territory governments and 
+authorities to facilitate a 
+consistent approach to 
+assessing and controlling 
+agricultural and veterinary 
+chemicals107 and encouraging 
+and facilitating the introduction 
+of uniform national procedures 
+for control of the use of chemical 
+products.108 
+The APVMA participates in an Interagency Regulators Forum, 
+Jurisdictional Spray Drift Working Group, Registration Liaison 
+Forum and the Harmonised Agvet Chemicals Control of Use 
+Task Group with Commonwealth and state/territory regulators, 
+along with the Regulatory Science Network with 
+Commonwealth chemical regulators to facilitate interagency 
+cooperation. 109 
+Developing, in cooperation with 
+Commonwealth and state and 
+territory governments and 
+authorities, codes of practice, 
+standards and guidelines, and 
+recommend precautions be 
+taken in relation to the 
+manufacture, import and export, 
+sale, handling, possession, use, 
+storage and disposal of chemical 
+products.110 
+The APVMA produces a range guidance materials and 
+standards including:  
+• 
+the Agricultural and Veterinary Chemicals Code 
+(Agricultural Active Constituents) Standards 2022 which 
+specifies purity standards for active constituents;  
+• 
+health-based acceptable daily intakes for agvet 
+chemicals;111  
+• 
+a Handbook of First Aid Instructions, Safety Directions, 
+Warning Statements and General Safety Precautions for 
+agvet chemicals;112  
+• 
+maximum residue levels for agvet chemicals, mandatory 
+withholding periods between the last administration of 
+agvet chemicals and the slaughter or collection of 
+animals or crops for human consumption, and advisory 
+intervals between last administration and export of 
+livestock for slaughter;113 and  
+• 
+the Australian Code of Good Manufacturing Practice for 
+veterinary chemical products.114 
+106 Ibid s 128. 
+107 Administration Act s 7(1A)(e). 
+108 Ibid s 7(1A)(k). 
+109 APVMA, Annual Report 2021-22 (Annual Report, 21 October 2022) 48-49. 
+110 Administration Act s 7(1A)(f). 
+111 'Acceptable Daily Intakes for Agricultural and Veterinary Chemicals', APVMA (Web Page, 2023) 
+https://apvma.gov.au/node/26596.  
+112 'FAISD Handbook', APVMA (Web Page, 2023) https://apvma.gov.au/node/26586.  
+113 For an overview of these limits and guidance, see 'Pesticides and Veterinary Residues', APVMA (Web Page, 
+2022) https://apvma.gov.au/node/10806.  
+114 APVMA, Australian Code of Good Manufacturing Practice for Veterinary Chemical Products (Code of Practice, 
+2007).
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+63 
+Function 
+Key activities 
+Encouraging and facilitating the 
+use of results generated from 
+testing and evaluating chemical 
+products.115 
+The APVMA compiles a list of acute reference doses 
+(maximum safe doses) for agvet chemicals, drawn directly 
+from the conclusions of scientific studies.116 
+Exchanging information relating 
+to chemical products with 
+overseas and international 
+bodies with similar functions to 
+the APVMA.117 
+In the 2021-2022 financial year, the APVMA participated in 34 
+international forums as an observer, participant, presenter, 
+board member or delegation lead; and attended meetings with 
+11 regulators or groups of regulators.118 
+Reporting to and advising the 
+Minister on any matter relating to 
+chemical products or arising in 
+the course of performing its 
+functions, when requested by 
+the Minister or of its own 
+initiative.119 
+Various. 
+Monitoring, investigations and enforcement 
+Funding and cooperating in a 
+program designed to ensure that 
+active constituents, chemical 
+products and labels comply with 
+the Agvet codes and Agvet 
+regulations.120 
+The APVMA undertakes a range of compliance and 
+enforcement activities designed to ensure that products 
+comply with agvet legislation including: 
+• 
+issuing stop supply and recall notices for defective or 
+non-compliant products under Pt 6 of the Agvet Code, 
+investigations and action for defective or non-compliant 
+agricultural and veterinary chemicals or labels; 
+• 
+conducting investigations and taking enforcement action 
+in alignment with existing policies and guidelines and 
+publishing the outcomes of these investigations. To 
+conduct investigations, the APVMA may issue notices 
+requiring a person to attend, given information or 
+produce documents or things,121 obtain and execute 
+monitoring warrants122 and investigation warrants.123 The 
+115 Administration Act s 7(1A)(h). 
+116 'Acute Reference Doses for Agricultural and Veterinary Chemicals', APVMA (Web Page, 2023) 
+https://apvma.gov.au/node/26591.  
+117 Administration Act s 7(1A)(i). 
+118 APVMA, Annual Report 2021-22 (Annual Report, 21 October 2022) 50-53. 
+119 Administration Act s 7(1A)(j). 
+120 Administration Act s 7(1A)(l). 
+121 Agvet Code s 130. 
+122 Agvet Code ss 131A, 143.  
+123 Agvet Code ss 132, 132A-C, 143A.
+
+Australian Pesticides and Veterinary Medicines Authority | Strategic Review Report 
+64 
+Function 
+Key activities 
+APVMA may also obtain civil penalty orders124 or apply 
+for injunctions; and125  
+• 
+compliance activities to ensure the continued safety and 
+efficacy of registered products, and to address the risk 
+associated with unregistered products, including issuing 
+formal warnings,126 infringement notices,127 enforceable 
+directions,128 and cancelling or suspending permits, 
+approvals and registrations.129 
+124 Agvet Code s 145A. 
+125 Agvet Code s 145F. 
+126 Agvet Code s 145J; Administration Act s 69EO. 
+127 Agvet Code s 145DA.  
+128 Agvet Code s 145H(5)  
+129 Agvet Code ss 34N, 118, 119.

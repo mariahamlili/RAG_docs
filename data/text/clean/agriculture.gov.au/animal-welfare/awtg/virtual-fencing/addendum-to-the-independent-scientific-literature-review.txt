@@ -1,0 +1,215 @@
+Addendum to the independent scientific 
+literature review on animal welfare 
+considerations for virtual fencing 
+Additional information provided by Halter 
+November 2023 
+Explanatory note 
+This addendum does not form part of the independent scientific literature review on animal welfare 
+considerations for virtual fencing conducted by Professor Andrew Fisher and Dr Amelia Cornish. 
+Virtual fencing technology and the animal welfare legislation governing its use across jurisdictions 
+continue to evolve. Since the finalisation of the literature review, new and more detailed 
+information on animal welfare considerations of virtual fencing technology has become available. It 
+is important to note that the information provided in this addendum has not yet been reviewed but 
+will be considered by the Animal Welfare Task Group (AWTG) virtual fencing subgroup at a later 
+date. For further information, refer directly to Halter.
+
+2 
+Halter 
+Halter’s animal welfare standards and safeguards 
+Halter follows these standards to ensure animal welfare is protected when training, containing and 
+guiding animals with virtual fencing technology. 
+Halter has trained more dairy cows with virtual fencing technology than any other wearable in the 
+market. Over seven years Halter has developed and refined its technology and gained deep expertise 
+in training and guiding animals while protecting their welfare. Halter takes very seriously the high 
+standards around responsible animal learning and training experiences. Below are Halter’s animal 
+welfare standards: 
+The System 
+1. The system should support the animal’s natural behaviour and should minimise disruption to 
+their natural behaviour. The system should support animal agency by working with the 
+animal, not against it. 
+2. Trained animals should be confident with the system and trusting of the guidance cues. 
+Animal learning must ensure that the aversive cue (pulse) becomes predictable and 
+controllable for every animal (Kearton et al., 2020): 
+○ 
+Predictable: the animal knows when the consistent development of primary cues 
+will escalate to a secondary aversive cue (pulse); and 
+○ 
+Controllable: the animal can choose to change its direction to avoid the aversive cue 
+or can ignore the primary cues knowing the consequence of doing so. 
+Cues must be precise and consistent to avoid confusing or stressing the animals and to 
+minimise the welfare impact (Weiss, 1970; Lee et al., 2018). 
+3. Whilst humans determine the destination of animal movements in the Halter app (i.e., a 
+‘pasture break’ or dairy shed), humans must never have direct control over the guidance 
+cues sent to animals, and the only inputs to determine the cues should be the animal’s 
+behaviour and location. 
+Safeguards 
+4. If an animal fails to respond to the guidance cues, the system should automatically disable. 
+The collar should not reactivate until the animal has demonstrated it is able to move freely. 
+5. If an animal crosses a virtual boundary at high speed (for example, if spooked), the system 
+should automatically deactivate. 
+6. Halter must monitor cue data of animals and, if required, take action to protect animal 
+welfare. 
+7. Continuous monitoring should be in place to disable guidance cues for an entire mob if a 
+subset of the mob fails to respond to the guidance cues (for example, if a mob is blocked 
+from moving down a race by a fallen tree). 
+8. The system should have in-built monitoring to detect key component failures and deactivate 
+the system if required. The system must not attempt to guide animals if the collar is not 
+operating according to its functional design. 
+9. The system should alert users if they inadvertently set pasture allocations with too small of 
+an angle (i.e., <45°) or stocking densities that are too high (m2/cow).
+
+3 
+10. If a communication network failure occurs, the system should put the farm into emergency 
+mode and alert the farmer; the system should hold animals in their current zone for a set 
+time period, allowing the farmer adequate time to respond. In this scenario, a farmer should 
+have the ability to disable the system and take over manual control to shift the animals. 
+Aversive cues 
+11. The system should use the minimum aversion necessary per individual animal. This should 
+be automatically customised based on each animal’s tolerance to the aversive cue. 
+12. Aversive cues must have time-bound lockouts to avoid the risk of animals experiencing 
+aversive cues for continuous periods. These lockouts should be customised per individual 
+animal, based on previous behaviour. 
+Collar 
+13. Collars should be designed to optimise the comfort and safety of animals. 
+14. The collar and the animal should be individually paired. 
+Halter’s virtual fencing and animal guidance 
+Cows wear a collar and are trained to follow the collar’s guidance cues. Using the Halter app on their 
+phone, farmers remotely shift their cows around the farm and set up virtual fences for grazing in 
+paddocks. This reduces the need for physical fences, and motorbikes and dogs to move cows. 
+The collar guides a cow using two primary cues: sound and vibration. 
+Sound cues give animals directional guidance if they cross a virtual boundary or to turn them 
+towards a new break or exit point. 
+Vibration cues encourage animals to walk in the correct direction. 
+The collar also uses a secondary cue - a low-energy electric pulse - that is used to reinforce the two 
+primary cues if they are ignored. The pulse is mainly used during the training period (section 7 of 
+Halter’s Animal Welfare Charter) as animals learn to associate the consistent development of the 
+primary cues with escalation to a secondary cue (pulse) unless they change their direction. Once 
+animals are trained, the pulse is rarely used. A trained animal can choose to change their direction or 
+can ignore the primary cues knowing the consequences of doing so (the pulse). The energy of this 
+pulse is set to the lowest level that will dissuade a cow from ignoring the sound cues, if it is set any 
+lower, they will ignore it. Halter refers to this secondary cue as a ‘pulse’ because it is significantly 
+weaker in energy than the ‘shock’ from a standard electric fence. The maximum strength of Halter’s 
+collar pulse is 0.18 joules, delivered in 20 microseconds, which is significantly less energy than the 
+shock received from a typical mains-powered electric fence (powered by energizer units ranging 
+from 18 to 40 joules). 
+If a cow moves beyond a virtual boundary, sound cues (an increasing frequency of beeps) are used 
+to encourage the cow to move back within the break. Cows receive ample time to correct their 
+direction and as long as they make progress to return to the break, they won’t receive a pulse. The 
+precise time frame depends on the individual cow and their behaviour at the time and is informed 
+by Halter’s research into millions of days of cow behaviour to ensure cows have ample time to 
+respond. The moment a cow moves her head in the correct direction, even only slightly, the system 
+detects this instantly and the sound cues ease (beeping interval reduces); if she starts to walk back
+
+4 
+towards the break, the cues stop. Only if the cow chooses to ignore the primary cues and they have 
+reached their maximum threshold, will a pulse be applied. 
+The pulse is used to reinforce the primary cues of sound and vibration. Because the pulse is 
+predictable and controllable for cows, no trained cow receives a pulse she wasn't expecting. A cow 
+will never receive a pulse without first receiving, and ignoring, the primary sound and vibration cue. 
+The roles of the two sensory cues do not overlap, meaning different cues are never given at the 
+same time. 
+Halter’s guidance system allows cows to express their normal behaviour. Once trained, the guidance 
+cues that a typical cow receives each day are almost entirely sound and vibration. Cows are 
+intelligent, so they learn and adapt quickly to the Halter system. Once they associate the sound cue 
+with crossing a virtual boundary, they quickly learn to correct their direction and avoid a pulse. The 
+typical cow receives primary cues (sound and vibration) for only 0.1% of the day (1.6 minutes per 
+day1), meaning that for over 99% of the day they receive no cues. 
+(i) Sound cue 
+The sound cue is a benign primary cue that gives animals directional guidance if they begin crossing 
+a virtual boundary, or it turns them towards a new break or exit point. The volume is set low enough 
+to not cause any distress. The sound cue is an increasing frequency of beeps, similar to a car’s 
+reversing sensor, and is designed to be quiet enough to direct only the cow paired with that collar, 
+and not adjacent cows. 
+Most dairy cows have already learnt to avoid electric fences. With electric fences, the primary cue is 
+the visual cue; when they see a fence, they learn to avoid it to not trigger the secondary cue of an 
+electric shock. Halter substitutes this primary visual cue with a sound cue. Instead of seeing a 
+physical fence, cows with Halter hear where a virtual fence is. The sound cues complement a cow’s 
+senses; cows have better hearing than humans, over a wider range of frequencies and volumes. 
+Visually cows cannot judge distance and depth well as they only have a relatively small area of 
+binocular vision and a binocular blind spot directly in front of them (Mounaix et al., 2014). 
+(ii) Vibration cue 
+The vibration cue is a primary cue, with a similar sensation to a mobile phone vibrating, and serves 
+these roles: 
+Signals an impending change in activity, such as a shift to the dairy shed or to a new pasture 
+allocation. 
+Cows that are being guided by the sound cues receive a vibration cue when they start 
+heading in the right direction. 
+Encourage consistent cow movement to the dairy shed. If a cow stops walking forward 
+during a shift to the dairy shed, vibration cues occur. If a cow recommences walking, the 
+vibration will cease. If she stays stationary, the intensity of the vibration gradually increases 
+1 Tasmanian Institute of Agriculture - ‘Managing dairy cows with Halter virtual fencing technology’, 
+Dr Megan Verdon (preliminary study results, September 2023)
+
+5 
+over a 30 second period, and if the cow chooses to ignore these cues (that she is trained to 
+understand and respond to), the pulse is applied. 
+(iii) Electric pulse 
+The low-energy electric pulse is an aversive cue used if cows choose to ignore the primary sound and 
+vibration cues. The maximum strength of Halter’s collar pulse is 0.18 joules, delivered in 20 
+microseconds, which is significantly less energy than the received shock from a typical mains-
+powered electric fence (powered by energizer units ranging from 18 to 40 joules). 
+The energy of the pulse is set to the lowest level that will dissuade a cow from ignoring the sound 
+cues, if it is set any lower, they ignore it. Most Halter staff have felt a pulse generated by a Halter 
+collar, and the sensation is similar to the feeling of a firm slap on the wrist. 
+Whilst the maximum strength of the pulse is 0.18 joules, for most cows, the Halter system 
+customises and delivers lower energy pulses based on each cow’s individual tolerance to the pulse 
+and their determination to push boundaries. This is a critical feature for animal welfare, given cows 
+have different thresholds to push boundaries. For example, some cows will choose to push past 
+virtual boundaries in the pursuit of fresh pasture. This feature is also consistent with the 
+recommendations from the UK’s Animal Welfare Committee’s opinion on the welfare implications of 
+using virtual fencing systems (see section 5 of Halter’s Animal Welfare Charter). 
+Managing livestock on any farm requires the occasional use of aversive cues to contain and shift 
+them. Aversive cues are varied and include: humans shouting, clapping, and waving arms, the use of 
+rattles or sticks, dogs, motorbikes, and electric fences. For animal welfare purposes, Halter uses the 
+least amount of aversion necessary to contain or move individual cows and Halter have designed the 
+system to give highly predictable and controllable cues as these have been shown to be less aversive 
+(Kearton et al., 2020). The Halter system uses an electric pulse as an aversive cue because: 
+It is adjustable - the energy can be customised and reduced to the absolute minimum 
+necessary for each individual animal; and 
+It is designed to be highly predictable and avoidable. 
+Furthermore, the Halter cues are consistent. Every day the cow is guided with the same primary cues 
+(sound and vibration), as opposed to the wide range of conventional cues which can vary 
+considerably from day to day, for example across different farm staff. Cue consistency is essential to 
+predictability and therefore efficiency of outcomes achieved and to the animal retaining a feeling of 
+control. 
+For each cow, the Halter system finds the optimal balance between the strength of the pulse and the 
+frequency of pulses (i.e., how the collar delivers energy) to achieve a desired change in direction 
+from the cow without unnecessary agitation. 
+Preliminary findings from Tasmanian Institute of Agriculture (TIA) independent study on Halter 
+Training period and management period
+
+6 
+TIA analysed extensive data from a 10-day training period and a 4-week management period 
+following training. In total, this was equivalent to 2,950 days of collars on cows. The objective of the 
+below cue data is to show the cows' level of understanding of the primary and secondary cues and 
+the frequency of them receiving the secondary cue (pulse). 
+During the 10-day training period, a typical cow received less than three low-energy pulses 
+per day. 
+During the management period, most cows received less than three pulses a week, and that 
+number continued to decline each week. 
+Once trained, the guidance cues that a typical cow receives each day are almost entirely 
+sound and vibration. 
+Cows are intelligent and typically learn to stay within a virtual boundary within a matter of hours of 
+beginning training. While cows generally show significant progress in their understanding within the 
+first 24 hours, Halter prescribes a full training program of seven days, with specific daily monitoring 
+and training modules assigned to farm staff on each of these days. 
+Cue ratios (pulse-to-sound ratio) 
+A low ratio of pulse-to-sound cues demonstrates that a cow is consistently responding to the sound 
+cues by changing her direction to avoid a pulse. By the fourth week of TIA’s management period, the 
+pulse-to-sound ratio was two pulses per 100 sound cues. This shows that Halter-trained cows had a 
+strong understanding of the system’s primary cues. Halter monitors cue data and analyses scenarios 
+where cows receive a high number of pulses. Halter is continually improving the ratio of pulse-to-
+sound cues through improvements in cow training, farmer training, and product upgrades.
+
+7 
+References 
+Kearton, T., Marini, D., Cowley, F., Belson, S., Keshavarzi, H., Mayes, B., and Lee, C. 2020. The 
+influence of predictability and controllability on stress responses to the aversive component of a 
+virtual fence. Frontiers in Veterinary Science 7: 986-997. 
+Lee, C., Colditz, I. G., and Campbell, D. L. 2018. A framework to assess the impact of new animal 
+management technologies on welfare: A case study of virtual fencing. Frontiers in Veterinary Science 
+5: 187-193. 
+Mounaix B, Boivin X, Brule A, Schmitt T. 2014. Cattle behaviour and the human-animal relationship: 
+Variation factors and consequences in breeding. https://edepot.wur.nl/312679. 
+Weiss, J. M. 1970. Somatic effects of predictable and unpredictable shock. Psychosomatic Medicine, 
+32(4), 397-408.

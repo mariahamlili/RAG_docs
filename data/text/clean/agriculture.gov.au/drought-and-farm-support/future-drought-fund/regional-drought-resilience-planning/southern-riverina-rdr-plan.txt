@@ -1,0 +1,3763 @@
+Regional Drought  
+Resilience Plan 
+Southern Riverina
+April 2024
+
+3
+2
+Abbreviations
+Term
+Definition
+ABS
+Australian Bureau of Statistics.
+BoM
+Bureau of Meteorology.
+CDI
+Combined Drought Indicator.
+CSIRO
+Commonwealth Scientific and Industrial Research Organisation.
+DCCEEW
+Department of Climate Change, the Environment, Energy & Water 
+New South Wales (see DPE).
+DDI
+Drought Direction Index.
+DPE
+Department of Planning and Environment (former DCCEEW).
+EDIS
+Enhanced Drought Information System.
+FDF
+Future Drought Fund.
+LGA
+Local Government Area.
+NSW
+New South Wales.
+PCG
+Project Control Group.
+RDRP
+Regional Drought Resilience Plan.
+SPI
+Standardised Precipitation Index.
+SRG
+Stakeholder Reference Group.
+SSMI
+Standardised Soil Moisture Index.
+WUE
+Water use efficiency.
+YACTAC
+Yanco Creek and Tributaries Advisory Council.
+Key Terms
+Term
+Definition
+Absorptive 
+capacity
+The ability of individuals and groups to continue without adapting 
+or changing their behaviour in response to environmental and 
+socioeconomic changes (Béné et al., 2012).
+Adaptation
+Adjustment or modification in natural and/or human systems in 
+response to actual or expected shocks and stresses to moderate 
+harm, reduce vulnerability and/or exploit beneficial opportunities.
+Adaptive 
+capacity
+The ability of individuals and groups to adjust and respond to 
+environmental and socioeconomic changes).
+Adaptive 
+governance
+Co-ordinating iterative, flexible and responsive interactions 
+between systems when designing interventions and for their 
+implementation and evaluation.
+Co-design
+The process of partnership to develop and formulate project 
+delivery and agreed objectives and needs, using participatory 
+methods. A process of working together utilising generative and 
+explorative processes.
+Climate Change
+Global, long-term shifts in average weather conditions, such as 
+becoming warmer, wetter, or drier over several decades or longer.
+Drought
+Drought in general means acute water shortage. Drought 
+is a prolonged, abnormally dry period when the amount of 
+available water is insufficient to meet our normal use (BoM, n.d). 
+Drought is complex and multi-dimensional and impacts society, 
+the environment and the economy. There are many types of 
+drought including meteorological, agricultural, hydrological and 
+socioeconomic. Definitions are provided within the report.
+Drought 
+declaration
+A drought declaration is the responsibility of State and Federal 
+Governments which must consider other factors apart from 
+rainfall, however the Bureau of Meteorology's Drought Statement 
+assists by providing rainfall information. In NSW, drought 
+declarations are supported by data confirmed through the 
+Enhanced Drought Information System.
+Term
+Definition
+Economic 
+resilience
+The ability of the economy to absorb the economic impact of 
+shocks and stressors without changing the economic status or 
+outcomes.
+Environmental 
+resilience
+The ability of the natural environment to cope with a diverse range 
+of shocks and stressors while maintaining natural processes and 
+ecosystem services.
+Governance
+Governance is the structures and processes by which individuals, 
+groups and agencies in a society share power and make decisions. 
+It can be formally institutionalised, or informal.
+Intervention 
+options
+Alternative or complementary actions, projects, programs, 
+policies, initiatives and investments that are planned to bring 
+about change in the system (Maru et al., 2018).
+Local 
+knowledge
+Local knowledge and First Nations knowledge incorporates 
+elements of lived experience within a landscape, bearing witness 
+to the operation of systems. It includes aspects of people, 
+landscape, culture – how people interact with surroundings and as 
+part of communities and processes.
+Preparation
+Action taken to reduce the impact of an event that occurs and 
+accelerate the recovery period.
+Recovery
+A return to longer term viability.
+Resilience
+The ability of a system to absorb a disturbance and reorganise so as 
+to maintain the existing functions, structure and feedbacks (Walker 
+et. al., 2004). Also see general resilience, specified resilience, 
+economic resilience, environmental resilience, social resilience, 
+adaptation and transformation. Resilience may also require a change 
+in structure, function and identity to adapt to change.
+Risk
+The potential for adverse consequences for human or ecological 
+systems, recognising the diversity of values and objectives 
+associated with such systems (Reisinger et. al, 2020).
+Term
+Definition
+Shock
+Sudden, short-term events that threaten a city (or region). Examples 
+include: major storms, floods, bush fires, heatwaves, disease 
+outbreaks, terrorism and cyber-attacks’ (City of Sydney, 2018).
+Social resilience
+The ability of the human society to cope with a diverse range 
+of shocks and stressors while maintaining existing social and 
+community functions.
+Stressor
+An event that occurs gradually over a timeframe that causes an 
+adverse effect, e.g. drought.
+Systems
+The interaction of processes, networks and inter-dependencies 
+across a complex ‘whole’. 
+Theory of 
+change
+Refers to theories, causal mechanisms and assumptions that 
+explain how and why outcomes and impacts will be achieved 
+through use, implementation and production of proposed inputs, 
+activities and outputs (Maru et al., 2018).
+Trends
+Major global or regional influences that have driven change  
+in the past and are expected to shape change into the future.
+Threshold
+The point at which a change in a level or amount a controlling 
+variable causes a system to shift to a qualitatively different 
+regime. Also referred to as a tipping point (Folke et al., 2010).
+Transformation
+The process of radically changing or building a new system  
+with different structure, functions, feedbacks and identity  
+(Folke et al., 2010).
+Transportation 
+/ Transmission 
+Losses
+Losses experienced where water is moved between water 
+providers or through the natural system, including the effects of 
+physical restraints such as the Barham Choke.
+Trigger point
+A pre-agreed situation or event, that when met, activates a 
+management intervention. Trigger points are usually defined in 
+the planning phase (Wise et al., 2014).
+
+5
+4
+Acknowledgements and Appreciations
+We recognise the central Murray area, which we now call the Southern Riverina, has supported 
+populations for thousands of generations. This country is now being asked to support new 
+economic systems with regulated water systems.
+In compliance with the United Nations Declaration of the Rights of Indigenous Peoples (2007), we wish to ensure that, 
+while we continue to support the towns and villages in our region, maintain our communities and build viable futures 
+for our next generations, we also ensure the Rights of Indigenous people are respected.
+Current water management systems have created risks to Aboriginal cultural values with the pressure of water flowing 
+through the catchment. In some instances, riverbank slumping has led to the relocation of Aboriginal burials. 
+While political decisions are being made, we recognise some past issues remain unresolved for example, Aboriginal 
+Water Entitlements. A successful implementation of this project would enable Aboriginal communities to be fully 
+involved in advocating for good cultural, environmental and economic outcomes.
+We also recognise the Commonwealth is investing in the Flow Mer 2 program researching the impact of the delivery 
+of Commonwealth water on environmental values and that all measures are interconnected. We recognise other parts 
+of the Basin are in urgent need of support with our partner community in Walgett reporting they have no fresh water 
+for drinking, that it is not healthy for their children to swim in the River and they are forced to set up filtered water for 
+the public.
+In making decisions we ask Governments take care to manage impacts on local communities and work in partnership 
+with them to create sustainable practices.
+The Regional Drought Resilience Planning (RDRP) program is one of the four focus areas of the Commonwealth 
+Government’s Future Drought Fund (FDF). These plans focus on innovative ways to build regional drought resilience, 
+taking steps to plan how to stem the impact of future drought on our region.
+supporting local governments to work together regionally to plan for drought resilience proactively and pragmatically.
+This Acknowledgement was provided by Yarkuwa Indigenous Knowledge Centre.
+A note from the Mayors
+We, as the Mayors of this region, are proud to present the Southern Riverina Drought Resilience Plan (the Plan).  
+The Plan has been developed through the collaboration of Berrigan Shire, Edward River, Murray River and Federation 
+Councils’ communities. We have worked closely with the Department of Regional NSW and the Commonwealth 
+Scientific and Industrial Research Organisation (CSIRO) to deliver this Plan. 
+The project was jointly funding by the Australian and NSW Governments under the FDF. We thank them for the 
+opportunity that funding has provided our communities.
+We firmly believe this document highlights not only the synergies between our four communities, but the fact our 
+Councils are often called upon to assist each other in times of crisis and as such, we have developed highly effective 
+working relationships. This Plan is our ongoing commitment to that collaboration.
+With recent droughts and floods, all Councils acknowledge the need to prepare our communities for our changing 
+climate conditions. This Plan outlines the work we need to take as a larger community to become more resilient to that 
+change and more adaptable to the climate conditions we face.
+This Plan reflects the desires of our community for us to achieve the following, even in the face of drought:
+•	 sustainable landscapes
+•	 connected people, cultures and improved community wellbeing
+•	 diverse and resilient local businesses and regional economies
+•	 resilient built infrastructure and complimentary technologies, and
+•	 good governance models that share knowledge and promote skills development.
+•	
+All Councils acknowledge we cannot deliver this Plan alone. We will need our communities 
+and all levels of government to work together to deliver the outcomes presented in the 
+Southern Riverina Drought Resilience Plan. It is through these strong partnerships and 
+working together that we can deliver the results outlined in this Plan.
+
+Albury
+Shepparton
+Wodonga
+Echuca
+Moama
+Swan Hill
+Yarrawonga
+Deniliquin
+Wakool
+Corowa
+Cobram
+Tocumwal
+Mulwala
+Rutherglen
+Finley
+Barham
+Barmah
+Berrigan
+Jerilderie
+Mathoura
+Nyah West
+Moulamein
+Gunbower
+Urana
+Oaklands
+Murray
+Valley National
+Park
+Kalyarr
+National
+Park
+Yanga
+National
+Park
+Yanga
+State Conservation
+Area
+Barmah
+National
+Park
+M
+t
+Chiltern-
+Mt Pilot
+National
+Park
+Oolambeyan
+National
+Park
+Proposed
+Murray
+River Park
+(part)
+Lake Hume
+Greater
+Bendigo
+National
+Park
+Goulburn
+River Heritage
+River
+Perricoota
+State Forest
+Lake Tyrrell
+Koondrook
+State Forest
+Warby-
+Ovens National
+Park
+South West
+Woodland
+Nature
+Reserve
+Murrumbidgee
+Valley National
+Park
+Berrigan 
+Shire Council
+Edward River Council
+Murray River Council 
+Federation 
+Council
+7
+04
+02
+03
+05
+01
+Drought Resilience
+History of Drought Impacts
+Listening to Local Experience
+Drought Resilience Actions
+Southern Riverina Region 
+and Communities
+Quick guide
+N
+
+8
+Drought Resilience
+01
+Contents
+Drought Resilience
+9
+Southern Riverina Regional Drought Resilience Plan 
+10
+Southern Riverina Region and Communities
+15
+History of Drought Impacts
+21
+Listening to Local Experience 
+29
+Drought Resilience Actions
+37
+What has already been done to build drought resilience
+38
+Prosperous agricultural landscape and water security
+40
+Connected people, cultures and improved community wellbeing
+45
+Diverse and resilient local businesses and regional economies 
+48
+Built infrastructure and technology improvements
+51
+Good governance, knowledge sharing and skills development
+53
+Monitoring, Evaluation and Learning
+55
+Conclusion
+56
+
+11
+10
+Southern Riverina Regional Drought Resilience Plan 
+Background
+Drought is expected and will continue 
+to impact the Southern Riverina into 
+the future. Drought affects all aspects 
+of the community, resulting in major 
+social, environmental and environmental 
+impacts. Our regional Councils recognise 
+the importance of preparing for and 
+developing a robust community in good 
+times to lessen the impact of drought 
+and accelerate the recovery period. 
+This Plan looks at how the whole of the 
+community can benefit from working 
+together to strengthen resilience. 
+The purpose of this Southern Riverina Drought Resilience Plan (the Plan) is to help 
+support our region to better plan for, and become more resilient to, the impacts of drought 
+over time. Resilience is important in rural and regional communities. It reinforces the 
+connectedness of community members and their ability to manage through seasonal 
+conditions (that create uncertainty and present a challenge to their businesses and way 
+of life). The Plan has been co-designed between the four Councils and our respective 
+communities in a collaborative, partnership approach that has drawn on the experience 
+and input of those who live and work in our region. 
+This Plan provides an opportunity to identify actions that will directly assist the region 
+to strengthen social, economic and environmental resilience, supporting communities in 
+future droughts. It builds on the wealth of effort, research and planning, that has been, 
+and continues to be delivered in drought. 
+The FDF seeks to enhance the public good by building drought resilience in Australia’s 
+agricultural sector, the agricultural landscape and communities. The intent of its eight 
+interrelated foundational programs is to have an innovative and profitable farming sector, 
+a sustainable natural environment and adaptable rural, regional and remote communities, 
+all with increased resilience to the impacts of drought and climate change (DAFF, 2023). 
+The FDF is intended to deliver against three inter-connected strategic priorities:
+•	 economic resilience for an innovative and profitable agricultural sector
+•	 environmental resilience for sustainable and improved functioning of  
+farming landscapes
+•	 social resilience for resourceful and adaptable communities.
+This Plan focuses on the community as a system where economic, environmental and 
+social capacity to endure, respond and evolve through drought are enhanced.
+The 20-Year Economic Vision for Regional NSW (NSW Government, 2018) sets out the 
+NSW Government’s priorities and plans to achieve long-term social and economic success 
+for regional communities across the state.
+Implementation funding will be available across Australia under the Commonwealth 
+Government’s FDF.
+Key inputs to the Plan
+The following documents were considered through the development of this Plan and 
+incorporated into the stakeholder engagement activities.
+•	 Murray Darling Basin Authority Plan and related documents
+•	 Other regional documents including: 
+	– Council strategic planning documents
+	– Local economic development strategy
+	– NSW Water Strategy 
+	– Draft Regional Water Strategies – Murray and Murrumbidgee
+	– Riverina and Murray Joint Organisation (RAMJO) Water Position Paper
+	– Murray Valley Adaptive Road Map
+•	 Resilience Principles: Infrastructure Australia’s approach to resilience
+•	 QLD Government: Investment Logic Mapping Guide
+•	 CSU Southern Innovation Hub Baselining Drought - Developing a baseline 
+understanding of farmer and community perceptions of drought
+•	 Drought Resilience, Adaptation and Management Policy (DRAMP) Framework 2018
+•	 Economic Development Study – Murray Region (2018)
+•	 Future Ready Regions – supporting resilient communities and economies. 
+•	 Government organisation publications including Australian Bureau of Agricultural 
+and Resource Economics and Sciences (ABARES), Commonwealth Scientific 
+and Industrial Research Organisation (CSIRO), Rural Industries Research and 
+Development Corporation (RIRDC), Grains Research and Development Corporation 
+(GRDC) and others
+Additionally, contributions from a broad range of community and stakeholders, including 
+community organisations, First Nations, businesses, service industries, producers and 
+volunteers, were instrumental in the co-design of this plan.
+It is intended for this Plan to be a living document and to be considered and factored  
+into a range of other plans and strategies by local government, state government,  
+non-government organisations, not-for-profits, businesses and others.
+A Plan for drought resilience
+Of all climate and weather-related conditions affecting Australia, drought is often 
+the most challenging, with the Southern Riverina region being prone to periods 
+of persistent drought with downward trends in rainfall and streamflow being well 
+documented. 
+Drought is a defining feature of the climatic cycle of the Australian landscape. In a large 
+part this owes to our geography. Our continent spans the latitudes of the subtropical 
+high pressure belt. This is an area of sinking, dry, stable air and usually clear skies.  
+The far north and south of the country come under the influence of reasonably regular 
+rain-bearing systems for at least part of the year. The east coast is normally well 
+watered by moisture from weather driven by the Tasman and Coral Seas. However, over 
+most of the country rainfall is low and erratic. Even in the wetter areas, very dry years 
+can disrupt normal activities and lead to water shortages (BoM, n.d.).
+As such, droughts will come again, and they are anticipated to get worse in parts of the 
+country as a result of a changing climate. Droughts are challenging times, not just for 
+each farm, but beyond the farm gate for entire communities and regions.
+The costs of drought are spread across economic, social and environmental factors.  
+The toll taken on regions and their communities has been enormous and the impacts 
+often linger for decades.
+The most effective response to rising uncertainty is to plan for greater drought 
+resilience. This can be achieved by building sustainable and diverse regional economies, 
+reducing the vulnerability of communities to changing economic conditions and 
+accelerating recovery, as well as enhancing thriving natural environments.
+Our vision is to build 
+the Southern Riverina 
+community to be a vibrant, 
+attractive place to live and 
+work and one which is able 
+to remain strong through 
+adverse events.
+
+13
+12
+2. Governance
+•	 Clear leadership e.g. 
+understanding drought 
+response and being prepared
+•	 Clear messaging around 
+drought signal e.g. 
+translating climate change/
+weather
+•	 Tracking of effectiveness of 
+drought measures
+What was previously heard
+Figure 2 	
+What was previously heard – at a glance
+1. Secure water supply
+•	 Water management and 
+infrastructure
+•	 Water efficiency - water 
+restrictions
+•	 Priority of drinking water 
+versus other uses
+4. Prosperous economy
+•	 Diversity of income outside 
+of agriculture
+•	 Industry within LGA that is 
+less reliant on agriculture 
+e.g. manufacturing
+•	 Maintaining diverse skills 
+within the community
+5. Connected and 
+resilient community
+•	 Communities that pull 
+together in times of hardship 
+e.g. festivals
+•	 Fatigue from living through 
+disasters e.g. bush fires to 
+drought to flood
+•	 First Nations communities 
+impacted by food source 
+shortage
+3. Agriculture
+•	 Resilient farm and 
+agriculture businesses i.e. 
+production flexibility
+•	 Mental resilience to 
+stressors of drought 
+e.g. decision making, 
+deteriorating landscape
+•	 Are financial drought 
+measures and grants 
+effect? i.e. farm household 
+allowance
+6. Reliable assets and 
+infrastructure
+•	 Reliable and available 
+facilities when required e.g. 
+emergency water supplies
+•	 Assets are fit for purpose 
+when they’re needed
+•	 Maintenance of roads from 
+increased traffic (stock, 
+fodder, water, freight)
+Drought Resilience at a glance
+When it comes to drought, “our best defence against the shocks of drought is to prepare. 
+Planning for greater drought resilience across all aspects of regional and remote 
+communities, not just for primary producers, will have the greatest impact. Resilience can be 
+achieved by building sustainable and diverse regional economies, reducing the vulnerability 
+of communities to changing economic conditions, accelerating recovery, and enhancing the 
+natural environment” (DRNSW, 2022).
+The impact of multiple events such as the Black Summer bushfires, floods of 2021 and 2022, 
+mice plagues, and COVID-19 related supply chain and labour force disruptions, are likely to 
+compound drought recovery challenges in the short term (DRNSW, 2022). 
+The journey for developing this Plan for the Southern Riverina is illustrated in Figure 1. 
+The process recognises communities in the Southern Riverina have been consulted about 
+drought previously; this Plan builds on this work. Figure 1 provides a graphical representation 
+that represents the insights previously gathered on the topics of drought and enhancing 
+resilience in the Southern Riverina. It captures the voices, ideas, and aspirations expressed 
+by the residents and stakeholders who live, work, and form these communities. 
+Project 
+Control 
+Group
+Engage
+Demographics
+Historical 
+droughts
+Future 
+droughts
+Resilience 
+Framework
+Climate 
+change
+Survey
+Regional 
+Drought 
+Resilience 
+Plan
+Stakeholder 
+reference 
+group
+In person
+Action Plan
+Interviews
+Weather
+Project Inception
+Reporting
+Literature Review 
+and data collection
+Community and 
+Stakeholder engagement
+Figure 1 	
+The Drought resilience journey
+
+15
+14
+Drought resilience framework
+Defining resilience
+The United Nations General Assembly defines resilience as: The ability of a system, 
+community or society that is exposed to hazards to resist, absorb, accommodate and 
+recover from the effects of a hazard in a timely and efficient manner, including through 
+the preservation and restoration of its essential basic structures and functions  
+(DPIE, 2021). However, it is important that the system maintains options to develop and 
+remains open to transformative and non-linear change (Nelson, 2011). 
+Resilience thinking
+Absorptive capacity is often described in traditional resilience terms as the ability 
+to absorb shocks or to ‘bounce-back’ (Haider and Cleaver, 2023). Adaptive capacity 
+is often the next step on the resilience journey and entails having the necessary 
+resources to learn and adapt the system (Haider and Cleaver, 2023). However, it 
+is increasinglyvww being recognised that adaptation is insufficient to deal with 
+large-scale environmental issues like climate change. Transformation, which is the 
+shift to a new system including change in priorities and leading to changes across 
+multiple scales, is sometimes the best way to deal with large scale issues. However, 
+transformation is not always needed or ‘good’ and in certain circumstances adaptation 
+is the best course of action (Haider and Cleaver, 2023). These three concepts are used 
+in Section 5 to indicate how the proposed resilience action may contribute to resilience 
+building in the region.
+Resilience thinking incorporates the notions of absorption, adaptation, and 
+transformation into a unified approach. It offers a structured framework for developing 
+strategies aimed at enhancing resilience (Folke et. al., 2010). These different capacities 
+are vital components of building resilience, and this holistic perspective acknowledges 
+resilience is not a one-size-fits-all concept and tailored approaches are necessary 
+to address the diverse and dynamic challenges communities, ecosystems, and 
+organisations / businesses face. 
+Resilience thinking scale
+Absorptive
+Adaptive
+Transformative
+Absorptive 
+capacity
+Adaptive 
+capacity
+Transformative 
+capacity
+For radically changing 
+the system or building 
+a new system if 
+maintaining and 
+modifying the existing 
+system won’t work.
+For modifying the 
+system when 
+needed.
+For maintaining of key 
+functions and 
+structures of a system 
+in the face of shocks.
+Types of resilience
+To establish a holistic approach towards resilience, a broad range of systems must be 
+considered, including social resilience, economic resilience and environmental resilience.
+Economic 
+Focuses on the ability of local economies to adapt to and recover from 
+the economic shocks caused by drought. This may include diversifying 
+the local economy, supporting businesses that are drought-resistant, 
+and providing financial resources to mitigate economic losses during 
+drought events (DPIE, 2021).
+Social 
+The ability of individuals and communities to withstand the 
+psychological and social impacts of drought. It involves fostering 
+strong social networks, community cohesion, and mental health 
+support systems to help people cope with the stress and challenges 
+associated with water scarcity. 
+Environment 
+Centres on the capacity of natural ecosystems and water resources to 
+endure and recover from the ecological impacts of drought. This may 
+involve protecting and restoring habitats, improving water conservation 
+practices, and preserving biodiversity to maintain ecosystem services 
+during and after drought.
+Shocks and stresses 
+Episodic shocks are sudden, large-scale disasters that disrupt and threaten 
+communities. In the context of drought, some significant shocks may include:
+•	 Sudden water shortages 
+•	 Extreme weather events (storms, bushfires, landslides, earthquakes, heatwaves)
+•	 Infrastructure failure.
+Chronic stressors can be thought of as slow-moving disasters that affect the community. 
+In the context of drought, stressors may include:
+•	 Food and water shortages 
+•	 Climate change
+•	 Drought
+•	 Aging infrastructure.
+
+17
+16
+Targeted interviews with stakeholders
+ Targeted interviews with 8 industry and community members to obtain more detailed input 
+on the drought work already undertaken in the region. 
+Online Meetings and phone calls
+Phone calls and hosting online meetings provided the opportunity to bridge geographical 
+gaps, ensuring a wider array of stakeholders could provide insights without the constraints 
+of location. This method enabled in-depth discussions, capturing the communities’ 
+perspectives, and concerns. A total of 10 PCG meetings were held.
+Development of the Plan
+This Plan was developed through a three 
+phased approach, focussed on community-led 
+development of themes, vision and actions. 
+Phase 1: Understanding the community profile, 
+what is known about drought in the region, the 
+lessons learnt and the region’s greatest risks
+Phase 1 involved the formation of a Project Control Group 
+(PCG) which consisted of members of the four Councils, 
+Department of Regional NSW, stakeholders (including 
+from Yarkuwa Indigenous Knowledge Centre and Western 
+Murray Land Improvement Group) and consultants. The PCG 
+provided inputs and guided the development of the Plan. 
+They also assisted with arrangements for community and 
+stakeholder engagement activities. This phase of the project 
+also included a review of literature to better understand the 
+community profile, what we currently know about drought 
+in the region, the lessons learnt from previous droughts and 
+where the greatest risks lie. Some of the sources utilised are 
+outlined in Section 1. The literature review informed future 
+phases of the project including identification of plan themes 
+and ensures the plan is built on past work and programs.
+Phase 2: Community and stakeholder 
+engagement to identify, test and understand 
+the regional opportunities
+Phase 2 comprised the delivery of the engagement 
+approach. A review of documentation from the consortia 
+of Councils resulted in the development of five common 
+themes, these comprised: 
+1.	
+Prosperous agricultural landscape and water security.
+2.	
+Connected people, cultures and improved community 
+wellbeing.
+3.	 Diverse and resilient local businesses and regional 
+economies.
+4.	
+Built infrastructure and technology improvements.
+5.	 Good governance, knowledge sharing and skills 
+development.
+Figure 3 	
+Summary of engagement
+Community Engagement Sessions
+Consulted with 100 community members at eight in-person drop-in sessions between 
+Saturday 7 October 2023 and Saturday 14 October 2023, at different locations. A factsheet 
+and poster were developed to inform the community about the Regional Drought Resilience 
+Program. Through undertaking relaxed and informal drop-in style information sessions, 
+attendees were asked a series of questions which were developed through integrating the 
+key themes of this project.
+Stakeholder Reference Group (SRG) Meetings
+Three SRG sessions were held between Monday 16 October and Wednesday 25 October 
+2023. They comprised of representatives from the local government areas, community 
+subject matter experts, project team members, and other stakeholders. Fifteen members 
+were invited to provide ideas, insights and feedback.
+Email Communication
+Employing email outreach provided an additional channel for engaging with stakeholders. 
+It enabled targeted stakeholders, in remote areas, to share their insights in a convenient 
+manner. This approach not only facilitated the collection of valuable data but also allowed  
+for a thoughtful, well-documented exchange of ideas and feedback.
+Online Survey
+Using digital tools and publishing a survey enabled engagement of a broader audience 
+and made participation more convenient for community members. Survey responses were 
+received and formed part of the feedback that informed the recommendations included 
+within this Plan. 
+These themes were initially tested and refined through the stakeholder reference 
+groups to make sure they were a sound representation of the region’s key areas of 
+focus. The PCG also provided input on the themes and the plan’s vision statement. 
+These themes were then used for categorising and analysing the community feedback, 
+providing a summary of the region's strengths and needs. The outputs from Phase 1 and 
+the eight in-person community engagement sessions were utilised to conduct a series 
+of resilience workshops with identified regional stakeholders to test these findings 
+and identify strategic opportunities. These workshops were held online with a targeted 
+group of stakeholders. Key drought related impacts (pages 30-31) were discussed and 
+identified for each of the themes, with major impacts rated as low, medium or high. 
+Initial ideas for actions were encouraged from the stakeholders and developed through 
+discussion within the group. 
+Community engagement was designed with the communities’ diverse needs and 
+perspectives in mind. Engagement allowed people to express information in their own 
+words so that local voices and needs were highlighted. The engagement combined the 
+use of in-person and digital methods, ensuring inclusivity and transparency throughout 
+the process. An overview of the engagement activities is provided in Figure 3. 
+The engagement activities were designed to encourage meaningful conversations and 
+insights from the broad range of community. It is noted that the region is suffering some 
+engagement fatigue and therefore targeted interviews and the SRG meetings were the 
+most engaging. 
+Phase 3: Prioritise and develop the Plan
+Phase 3 consisted of prioritising the opportunities (through the SRG and PCG) and 
+documenting each in this Plan. The investment logic framework (Section 4) was applied 
+to the long list of actions to better identify priority actions. These opportunities are 
+organised using the thematic framework shown in Figure 4. The themes highlight the 
+public sentiment that improving drought resilience in the broader community and 
+region, along with diversifying and value-adding to the agricultural industry, will benefit 
+the region’s response to drought. The Plan identifies actions that can be progressed now 
+that align with the consortia of Councils’ ability to influence and will improve outcomes 
+for the community. 
+The communities of the Southern Riverina have initiated several actions within their 
+communities, developed through successive droughts. Those actions have been built on 
+in this Plan in an effort to improve the region’s drought resilience. These actions include 
+innovative farming and production practices, advocating for improved water security 
+and reliability, community health and well-being, protecting landscape health and 
+natural resource management, investing in the region’s people in various sectors, and 
+sharing information and knowledge for the benefit of all. Building and extending this 
+work is the foundation of this Plan. The PCG provided final review of the plan before it 
+was sent to CSIRO for review. The PCG was also involved in the final updates before the 
+plan was published and publicly available.
+Good governance, 
+knowledge sharing and 
+skills development
+Accessible support, 
+streamlined funding 
+procedures and improved 
+communication, 
+recognising collaboration 
+and education as 
+essential to resilience. 
+Diverse and resilient 
+local businesses and 
+regional economies
+Economic diversity is 
+a key aspiration, with 
+investments in tourism, 
+industries and local 
+ventures at the forefront. 
+Prosperous 
+agricultural landscape 
+and water security
+A resilient agricultural 
+sector supported by 
+secure water supply 
+and a skilled and stable 
+labour force.
+Connected people, 
+cultures and improved 
+community wellbeing
+Strong community 
+bonds are a focal 
+point, showcasing the 
+importance of enhanced 
+communication and 
+support networks in times 
+of challenge. 
+Built infrastructure 
+and technology 
+improvements
+Equitable access 
+to appropriate and 
+meaningful infrastructure 
+plays an important role in 
+ensuring a community’s 
+quality of life. 
+Figure 4 	
+Five key themes
+
+19
+18
+Southern Riverina 
+Region and Communities
+02
+Introduction to the region
+The consortia of Councils of the Southern Riverina include 
+Berrigan Shire, Edward River, Federation and Murray 
+River Local Government Areas (LGA). The region covers 
+approximately 28,500 km2 and is home to 42,870 people 
+(ABS, 2022a). Moama, Deniliquin and Corowa are the 
+largest towns in the region and the primary locations 
+for health, cultural, education, and administrative 
+infrastructure and services. The Index of Socio-Economic 
+Advantage and Disadvantage (IRSAD) summarises 
+information about the economic and social conditions of 
+people and households. Three of the LGAs have a relatively 
+greater level of disadvantage (lower score) as seen in 
+Figure 5.
+Prominent First Nations Peoples within the Southern Riverina are the 
+Wiradjuri, Yorta Yorta, Bangerang, Perrepa Perrepa, Wamba Wamba/ 
+Wemba Wemba, Wadi Wadi and Nari Nari Peoples (Yarkuwa, n.d.), with 
+strong connections and responsibilities to Country for over 60,000 years 
+and making up 3.4% of the region’s population (ABS, 2022a).
+Berrigan, Federation and Murray River are bordered to the south by 
+the Murray River which forms the NSW - Victorian border. It is therefore 
+imperative this Plan considers the implications of drought on our 
+Victorian counterparts who form part of this diverse community. Murray 
+River LGA is bordered by the Murray and Murrumbidgee Rivers and is 
+close to their junction. Edward River is positioned between the Murray 
+and Murrumbidgee Rivers and although not bordering either the Edward 
+River forms its southern boundary. These river systems, including 
+wetlands and creeks throughout these LGAs, perform a multifaceted 
+role in the well-being and prosperity of these communities. Some 
+aspects of importance include cultural significance to the First Nations 
+Peoples, water resource for agriculture, tourist attraction, recreational 
+hub, ecological vitality, along with overall Murray-Darling Basin health.
+The region is well known for its agricultural production and is considered 
+a part of the ‘nation’s food bowl’. The fertile soils, aided by irrigation,  
+have made this a key region for Australia’s agricultural production. 
+Agriculture also has the highest level of employment across the region. 
+Largest economic sector being 
+agriculture (including forestry) 
+with an estimates output of 
+$1.7 Billion in 2021/22 which 
+is 32.8% of the region's total 
+economic output followed by 
+manufacturing at $942m
+In 2021/22 the main 
+agricultural production 
+was wheat, canola, and 
+livestock products
+Rice was the largest 
+user of irrigated 
+water at 36%
+Source: (ABS, 2022c).
+
+Albury
+Shepparton
+Wodonga
+Echuca
+Moama
+Swan Hill
+Yarrawonga
+Deniliquin
+Wakool
+Corowa
+Cobram
+Tocumwal
+Mulwala
+Rutherglen
+Finley
+Barham
+Barmah
+Berrigan
+Jerilderie
+Mathoura
+Nyah West
+Moulamein
+Gunbower
+Urana
+Oaklands
+Murray
+Valley National
+Park
+Kalyarr
+National
+Park
+Yanga
+National
+Park
+Yanga
+State Conservation
+Area
+Barmah
+National
+Park
+M
+t
+Chiltern-
+Mt Pilot
+National
+Park
+Oolambeyan
+National
+Park
+Proposed
+Murray
+River Park
+(part)
+Lake Hume
+Greater
+Bendigo
+National
+Park
+Goulburn
+River Heritage
+River
+Perricoota
+State Forest
+Lake Tyrrell
+Koondrook
+State Forest
+Warby-
+Ovens National
+Park
+South West
+Woodland
+Nature
+Reserve
+Murrumbidgee
+Valley National
+Park
+Berrigan 
+Shire Council
+Edward River Council
+Murray River Council 
+Federation 
+Council
+21
+20
+N
+Figure 5 	 Socio-economic summary of the Southern Riverina region (ABS, 2022; ABS, 2022a; ABS, 2023)
+* % of total employment
+Health care and social assistance, construction and 
+manufacturing also play important roles in the region’s 
+employment (ABS, 2022a). 
+Land use
+The region’s land use is governed by its soil quality and 
+access to irrigation, water making it a successful area of 
+agricultural activity. In the 2021 census, grazing was the 
+largest land use at 1.6 million hectares, while cropping 
+claimed a substantial 0.8 million hectares (Figure 6). 
+Despite the larger area utilised for grazing, cropping, 
+especially where irrigated, is of greater economic value 
+and the region is well-known for its cropping produce 
+(ABS, 2022b).
+The towns, and other dwellings, take up a relatively small 
+component of overall land use which is reflected in there 
+being approximately 1.5 people per square kilometre.
+The Murray River also hosts 63,000 hectares of 
+conservation area, an important aspect of Australia’s 
+biodiversity including the Barmah-Millewa Forest 
+established on the Murray River, which is the largest 
+continuous stand of river red gums in Australia (VEWH, 
+2022). Along with various wetlands and other protected 
+areas in the Murray-Darling Basin, these areas support 
+significant birdlife and other wildlife. This area is not only 
+a biodiversity asset to the region, it plays a vital role in 
+tourist attraction for the region.
+First Nations Peoples
+First Nations Peoples have a long and proud history 
+in the region and their affinity with the natural 
+environment runs deep. Prominent First Nations 
+Peoples with strong connections and responsibilities to 
+Country in the area include the Wiradjuri, Yorta Yorta, 
+Bangerang, Perrepa Perrepa/ Wamba Wamba/ Wemba 
+Wemba, Wadi Wadi and Nari Nari Peoples (Yarkuwa, 
+n.d.). The Yarkuwa Indigenous Knowledge Centre  
+(based in Deniliquin) is one example of how First Nations 
+Peoples within the region are connected to country. The 
+group, formed in 2003, aims to ensure the preservation 
+of Traditional Owner knowledge for future generations. 
+The aims of the organisation are (Yarkuwa, n.d.) to:
+•	 collate and maintain cultural, heritage and 
+environmental information as it relates to Wamba 
+Wamba and Perrepa Perrepa country. 
+•	 provide an educational service to the wider community 
+including schools and community groups. 
+•	 engage in negotiations with local, state and federal 
+and other agencies on matters relating to culture, 
+heritage and the environment.
+•	 provide the means for members to develop skills 
+that will allow them to be involved in the provision of 
+educational and research services.
+•	 provide a centre to facilitate the transfer of knowledge 
+from one generation to the next.
+•	 acquire and hold title to land and water for the 
+purposes of economic and cultural development.
+Yarkuwa worked over many years to gain management 
+and ownership of 12,000 ha of Werai Forest, under the 
+Werai Land and Water Aboriginal Corporation. This 
+transfer of the Werai Forest back to the Traditional 
+Custodians shows the local Aboriginal People's strong 
+connection to the Ramsar site (Hearn, 2021).
+Murray River Council
+11,865 km2
+12,850 
+Population (ABS census 2021)
+10% 
+Population change (2016-2021)
+17.9%* 
+Jobs in Agriculture, forestry,  
+and fishing industry
+7
+SEIFA IRSAD Score
+Federation Council
+5,685 km2
+12,899 
+Population (ABS census 2021)
+5.1% 
+Population change (2016-2021)
+12.5%*
+Jobs in Agriculture, forestry,  
+and fishing industry
+3
+SEIFA IRSAD Score
+Berrigan Council
+2,066 km2
+8,665 
+Population (ABS census 2021)
+2.4% 
+Population change (2016-2021)
+17.2%*
+Jobs in Agriculture, forestry,  
+and fishing industry
+3
+SEIFA IRSAD Score
+Edward River Council
+8,881 km2
+8,456 
+Population (ABS census 2021)
+-4.5% 
+Population change (2016-2021)
+19.1%*
+Jobs in Agriculture, forestry,  
+and fishing industry
+4
+SEIFA IRSAD Score
+
+23
+22
+Albury
+Shepparton
+Wodonga
+Echuca
+Moama
+Swan Hill
+Yarrawonga
+Deniliquin
+Wakool
+Corowa
+Cobram
+Tocumwal
+Mulwala
+Rutherglen
+Finley
+Barham
+Barmah
+Berrigan
+Jerilderie
+Mathoura
+Nyah West
+Moulamein
+Gunbower
+Urana
+Oaklands
+Murray
+Valley National
+Park
+Kalyarr
+National
+Park
+Yanga
+National
+Park
+Yanga
+State Conservation
+Area
+Barmah
+National
+Park
+M
+t
+Chiltern-
+Mt Pilot
+National
+Park
+Oolambeyan
+National
+Park
+Proposed
+Murray
+River Park
+(part)
+Lake Hume
+Greater
+Bendigo
+National
+Park
+Goulburn
+River Heritage
+River
+Perricoota
+State Forest
+Lake Tyrrell
+Koondrook
+State Forest
+Warby-
+Ovens National
+Park
+South West
+Woodland
+Nature
+Reserve
+Murrumbidgee
+Valley National
+Park
+Berrigan 
+Shire Council
+Edward River Council
+Murray River Council 
+Federation 
+Council
+The significance of water 
+resources in the area including 
+the reliance of the region on 
+agricultural produce makes the 
+region especially vulnerable to 
+impacts from drought. 
+Legend
+Nature conservation
+Grazing native vegetation
+Production native forests
+Cropping
+Irrigated cropping
+Manufacturing and industrial
+N
+Figure 6 	
+Summary of land use in the region
+Agriculture and irrigation
+The Southern Riverina’s rich natural resources, along with improvements in research and 
+technology, has made the region a vital contributor to Australia’s agricultural produce. 
+As of the 2021 ABS Census, the agricultural produce (including forestry) from the region 
+was valued at $1.7 billion (Figure 7) (ABS, 2022b). 
+The Agriculture, Forestry and Fishing sector is the highest in both value (economic 
+output) and employment for the Southern Riverina (ABS, 2022a). However, the 
+percentage employed in this sector has been decreasing since the last census.
+The diversity of production includes wheat, canola and barley, fruit and nuts, vegetables, 
+irrigated rice to livestock of sheep, cattle and pigs along with intensive dairy and poultry 
+production. This showcases the region’s focus on building absorptive capacity to shifts 
+in conditions. This resilience is supported by its natural resources including fertile soils, 
+favourable climatic conditions and access to available water for irrigation. Along with 
+the extensive infrastructure and applied technology, the region has created long term 
+increased levels of production for the region. However, the reliance on drought-prone 
+natural resources, including water from the Murray-Darling Basin, along with rainfall 
+and coupled with agriculture forming a major contributor to the total economic output 
+of the region, leaves the Southern Riverina in a vulnerable position to drought impacts. 
+This reduction in production impacts consumers and is often met with increased retail 
+prices and general inflationary pressure. 
+Irrigation water is essential to sustain a strong agricultural sector. Since European 
+settlement, there have been large infrastructure projects to link farms to irrigation 
+schemes. The Murray River Irrigation scheme supplies water to over 740,000 hectares 
+of farmland (Murray Irrigation, 2023), continuing to interact directly with the region’s 
+wellbeing economically, socially and environmentally. The scheme is a reliable water 
+source for the irrigation of a diverse range of crops which has been essential to the 
+agricultural success of the region. Therefore, this system is vital to the local economy. 
+The increase in production created through the use of irrigation systems has a 
+multiplying economic impact.
+Overall, the four LGAs use 477,000 ML of water annually for agricultural production. 
+Rice production is the most significant user of water for irrigated agricultural 
+production, at 36%. Cereals for grains or seed utilise 24% and pastures for grazing 21% 
+(ABS, 2022d). The community has observed an increase in more intensive production 
+industries of dairy and horticulture with a notable increase in nut production.
+The Murray-Darling Basin is home to diverse ecosystems and plays a vital role in the 
+overall wellbeing of Australia’s environment. The local irrigation schemes interact 
+directly with this system and hence, environmental outcomes. The region is in a period 
+of uncertainty surrounding the issue of water allocations and the best use of the water 
+in the Murray-Darling Basin. 
+Irrigation infrastructure is shown to increase reliability and overall production output 
+in both cropping and livestock industries with irrigation corporations in the region 
+recognising the importance of maintaining and upgrading infrastructure to mitigate 
+water losses in the system. If the Murray-Darling Basin is in drought, there is less 
+irrigation water available for on-farm use and hence the farms are limited to non-
+irrigated options. Further, a decrease in local rainfall during droughts impacts rain-fed 
+crops along with livestock operations.
+Wheat is the highest 
+value single crop across 
+all agricultural products
+All other crops including 
+Barley and Canola at 9% 
+and 11% respectively
+Value of animals 
+slaughtered including 
+pigs, sheep and cattle
+Produced from livestock 
+products such as milk
+23%
+44%
+44%
+10%
+Value of agricultural 
+produce (including 
+forestry) from the 
+region
+$1.7bn
+Figure 7 	
+Value of agricultural produce from the region (ABS, 2022b)
+
+25
+24
+History of 
+Drought Impacts
+03
+The Region’s Industry
+Edward River has a number of industrial areas; specifically around Deniliquin there are 
+manufacturing and light industrial areas focused on engineering products for the rural 
+and agricultural sector (NSW Department of Planning and Environment, 2023). They 
+also have a growing warehousing area (NSW Department of Planning and Environment, 
+2023). Federation Council has a piggery feedlot and abattoir, munitions factory, Uncle 
+Toby’s and freight companies (Federation Council, 2024). 
+Corowa and Deniliquin have airports, with both planning for an upgrade/expansion 
+(RAMJO, 2022; Federation Council, 2022). Tocumwal also has a popular Aerodrome 
+following recent investment and upgrades (Berrigan Shire, 2024). There are saleyards 
+at Corowa, Deniliquin, and Finley (Federation Council, 2020; Edward River Council, 
+2024a; Berrigan Shire, 2023). The Corowa Saleyard were recently upgraded and has a 
+training facility attached (Federation Council, 2020). 
+There are ongoing discussions regarding the development of Tocumwal Intermodal 
+Facility and how upgrades can support the businesses in the surrounding precinct 
+(NSW Department of Planning and Environment, 2023). As part of Edward River 
+Council’s Advocacy Plan to promote economic growth and create competitive advantage 
+for regional industries, the council is sourcing funding of $1.175 million towards the 
+development of the Deniliquin Intermodal Freight Hub (Edward River Council, 2024b). 
+The development is a partnership with Deni Industrial Park Pty Ltd and will comprise rail 
+terminal infrastructure and loading facilities that will connect regional businesses to 
+the Melbourne Port (Edward River Council, 2024b). It will improve regional connectivity 
+and attract new businesses, industry, and employment opportunities (Edward River 
+Council, 2024b). 
+The Councils combined own and manage numerous community facilities, including 
+preschools, across the region and there are many parks, open spaces and recreation 
+reserves.
+
+27
+26
+Drought, climate and impacts
+Drought as a natural hazard is pervasive, recurring, and 
+distressing. It is difficult to determine a start and end, or identify 
+when the landscape has recovered. As for other disasters, they 
+are difficult to predict or compare, with differences in seasonality, 
+extent, duration, severity, among other variables all contributing 
+to the drought experience. Drought affects all parts of the 
+community from agricultural producers and suppliers to industry, 
+First Nations Peoples and the broader community. The impacts 
+range from financial to health and wellbeing and the physical 
+decline of the environment.
+What is drought
+Australia has highly variable rainfall records and in contrast also has highly variable 
+periods of low rainfall. Both the Bureau of Meteorology and Kirono et. al. (2020) define 
+four types of drought (Figure 8): meteorological, agricultural, hydrological and socio-
+economic.  
+Meteorological drought: a period of months to years of low rainfall
+Agricultural drought: short-term dryness in the surface soil layers 
+(root-zone) at a critical time in the growing season
+Hydrological drought: prolonged moisture deficits that affect 
+surface or subsurface water supply, reducing streamflow, 
+groundwater, dam and lake levels
+Socio-economic drought: the effect of elements of the above 
+droughts on the supply and demand of economic goods and human 
+well-being 
+Figure 8 	 Types of drought (Source: BoM, 2023)
+Drought monitoring in NSW
+Drought monitoring over the years has become increasingly complex. The most common 
+means of currently monitoring drought is through the Enhanced Drought Information 
+System (EDIS) which is a publicly available drought monitoring tool that monitors 
+seasonal conditions across NSW. EDIS was launched in March 2018 and is used across 
+government and farming stakeholders to build drought risk awareness, emphasise 
+drought preparedness and improve confidence in drought monitoring and early warning. 
+A key feature of EDIS is the development of the NSW DPI Combined Drought Indicator 
+(CDI).
+The CDI combines meteorological, hydrological and agronomic definitions of drought 
+(above) using indexes for rainfall, soil and water, and plant growth. From these, a fourth 
+index, drought direction (DDI), is developed. EDIS is undergoing redevelopment to provide 
+farmers with world-leading weather and climate data to enable better business decisions.
+Stages of drought
+Used together, the indexes of the EDIS indicate the stage of drought. 
+The six stages progress from a non drought category where all indicators suggest 
+good conditions for production to recovery, through to a Drought Affected (weakening 
+or intensifying) category, a Drought category and into Intense Drought. The six stages 
+are shown in Figure 9. 
+Figure 9 	
+Stages of drought in NSW (DPI, 2023)
+1
+2
+3
+4
+Non-drought
+At least one indicator is above the 50th percentile.
+Recovering
+All indicators are below the 50th percentile but above the 
+30th percentile
+Drought 
+Affected 
+(weakening)
+At least one indicator is below the 30th percentile and the 
+rainfall trend is positive over the past 90 days.
+Drought 
+Affected 
+(intensifying)
+At least one indicator is below the 30th percentile and the 
+rainfall trend is negative over the past 90 days.
+Drought
+At least one indicator is below the 5th percentile
+Intense 
+Drought
+All three indicators (rainfall, soil water, plant growth) are 
+below the 5th percentile
+Complementing the stages is detailed information on: 
+•	
+the technical and on-the-ground description of typical field conditions.
+•	
+a suggested on-farm response and
+•	
+a suggested advisory or policy response.
+Historical droughts in the Southern Riverina
+Climate anomalies, such as drought, are regularly observed occurrences in inland Australia 
+and the Southern Riverina is no exception. Throughout the years, the area has experienced 
+a range of droughts with differing durations and intensities, as outlined below.
+Table 1	
+Historical droughts which effected the Southern Riverina (BoM n.d.)
+Drought 
+Period
+Duration
+Characteristics
+The 
+Federation 
+Drought
+1895-1902
+One of Australia's worst droughts. It had far-reaching implications 
+for agriculture, water availability, and the economy.
+World War I 
+Drought
+1914-1915
+Although relatively short, it had a significant impact because the 
+severe drought conditions were occurring simultaneously in both 
+southeastern and south western Australia. 
+World War 
+II Drought
+1937-1945
+Occurred frequently over eastern Australia, characterised by 
+intense dry spells and breaks, similar to the Federation drought, 
+but with more intermittent dryness. Major driver of the Black 
+Friday bushfires in January 1939.
+1965-1968 
+Drought
+1965-1968
+Generally dry conditions for Australia, especially severe in NSW. 
+1982-1983 
+Drought
+1982-1983
+One of Australia’s most severe droughts in the 20th century, 
+associated with a strong El Nino event. 
+The 
+Millennium 
+Drought
+1997-2009
+The region experienced a prolonged dry period which led to water 
+scarcity and agricultural challenges in the Murray-Darling Basin. 
+This drought event was particularly significant because of the 
+contrast with a wet period in northern Australia and its absence of 
+major wet episodes. Figure 10 displays this contrast. 
+This may have been the first major Australian drought that was 
+impacted by the changing climate, with temperatures higher than 
+ever seen before. The Millennium Drought ended with two of the 
+wettest years
+The 2017-
+2020 
+Drought
+2017-2020
+Following a wet period in 2016, this drought impacted the 
+Murray-Darling Basin, with substantially below-average rainfall in 
+2017, 2018, and 2019. Soil moisture levels in different regions hit 
+unprecedented lows during this time.
+The last two droughts have had a significant impact to the Southern Riverina due to 
+both the duration of the Millennium Drought shown in Figure 10 and the significant 
+period of below average rainfall to the area in the 2017-2020 drought shown in  
+Figure 11 which place the region in the very much below average and lowest on record 
+rainfall ranges. Some of the initiatives and tools the region has been able to build and 
+utilise in response to these past drought events and to help adapt and build resilience  
+to future drought events are outlined in the case studies in Section 4.
+Figure 10 	 Rainfall deciles in Australia during the Millennium Drought (1997 – 2009) (BoM, 2022)
+
+29
+28
+Regional weather and climate
+The Southern Riverina, along the border of NSW, is characterised by a dynamic and 
+influential climate that significantly shapes its landscape, agriculture, and water 
+management practices.
+The Southern Riverina is characterised by the Köppen climate classification as a region 
+of "grassland warm" climate. This classification speaks to the prevailing conditions of 
+consistent warmth and aridity. The distribution of rainfall throughout the year is skewed 
+towards the winter months, signifying a winter-dominant precipitation regime. In the last 
+30 years, annual rainfall has been relatively stable, while spring frosts have been more 
+common and have been occurring later (BoM, 2023).
+Temperatures have increased, along with more consecutive days above 38°C. 
+The highest temperatures are experienced in January with an average maximum 
+temperature of 32°C, while the lowest temperatures are experienced in July with an 
+average minimum temperature of 3°C. Figure 12 shows historical seasonal rainfall and 
+temperature data at the Tocumwal Airport Weather Station between 1970 and 2022 
+(BoM, 2022).
+These climatic conditions contribute to the occurrence of droughts, which have become 
+an integral part of the region's identity. Droughts in Southern Riverina are not isolated 
+incidents, being a significant part of the region’s history. 
+Figure 11 	 Rainfall deciles in Australia during the Drought (2017 – 2019) (BoM, 2022)
+Climate change impacts
+Climate change refers to global, long-term shifts in average weather conditions, 
+such as becoming warmer, wetter, or drier over several decades or longer. There is a 
+growing body of evidence that shows Australia’s climate has changed and continues to 
+change significantly, particularly driven by the work of the Commonwealth Scientific 
+and Industrial Research Organisation (CSIRO), Bureau of Meteorology (BoM), and 
+Department of Climate Change, the Environment, Energy & Water NSW (DCCEEW); 
+formerly Department of Planning and Environment (DPE). Temperatures in Australia 
+have risen by about 0.9 °C since 1910 and there is a high level of scientific confidence 
+that anthropogenic greenhouse gas emissions are a major driver of this increase in 
+temperature (State of the Climate, 2018). 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0
+5
+10
+15
+20
+25
+30
+35
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Average monthly rainfall (mm/y across month)
+Average of Maximum temperature (Degree C)
+Average of Minimum temperature (Degree C)
+Figure 12 	 Seasonal rainfall and temperature variations (averaged baseline from 1970 - 2022)  
+at Tocumwal Airport Weather Station (BoM, 2022)
+Drought projections in Australia are developed using climate simulations which are 
+used to estimate the response of regional climates to anthropogenic change. The latest 
+national drought projections (CSIRO and BoM, 2023) are based on the Standardised 
+Precipitation Index (SPI) with input of monthly rainfall simulated by 21 CMIP5 GCMs and 
+Standardised Soil Moisture Index (SSMI), a key indicator of agricultural drought. 
+Future median projections suggest that the region will experience more time in drought, 
+longer duration of drought and more intense drought (Kirono et. al., 2020). An increase 
+in the number of days over 35˚C and 40˚C is predicted (see Figure 13). There is high 
+confidence in decreasing soil moisture in the southern regions (particularly in winter 
+and spring) driven by the projected decrease in rainfall (see Figure 14 for further 
+breakdown) and higher evaporative demand (CSIRO and BoM, 2015). Additionally, the 
+projected increase in drought metrics is consistent with projected decreases in seasonal 
+mean of soil moisture, across the region.
+0
+10
+20
+30
+40
+50
+60
+1980
+2000
+2020
+2040
+2060
+2080
+2100
+Days 
+Year
+Historical baseline scenario — Days p.a. over 35 °C
+Historical baseline scenario — Days p.a. over 40 °C
+Days p.a. over 35 °C
+Days p.a. over 40 °C
+Days p.a. 
+over 35°C
+Days p.a. 
+over 40°C
+Figure 13 Baseline and projection data for days over 35˚C and days over 40˚C at Tocumwal Airport (074106)  
+(BoM, 2022)
+The changes in key climate variables outlined above were considered in the context of 
+impacts on cropping by GRDC to develop understanding of the vulnerabilities of the 
+industry (Hayman, 2020). Table 2 outlines the impacts climate change may have on 
+crops in the grain belt, so is a general reference and not specific to Southern Riverina. 
+Key findings for the residual vulnerability after feasible management changes are 
+considered in Table 2. 
+There are some changes such as increase in mean temperature where the confidence 
+from both climate science on projections and agricultural science on impacts are high 
+(Hayman, 2020). This contrasts with changes to rainfall where the confidence in the 
+projections is lower, but the impacts on cropping of changes to rainfall are very well 
+understood (Hayman, 2020). The interaction between these six aspects of climate 
+change is important but uncertain. For example, elevated carbon dioxide is likely to 
+partially offset some of the impacts of a decline in rainfall, but it is less clear how a drier, 
+but carbon dioxide enriched future will respond to a heat wave (Hayman, 2020). 
+-15
+-10
+-5
+0
+5
+10
+2020
+2030
+2040
+2050
+2060
+2070
+2080
+2090
+2100
+Percentage change (%)
+Spring (SON)
+Summer (DJF)
+Autumn (MAM)
+Winter (JJA)
+Figure 14 Seasonal changes (%) for rainfall under RCP 8.5 (using AR5 data)
+
+31
+30
+•	 Increased burden on mental health services.
+•	 Increased isolation within communities.
+•	 Impacts on children having lived through drought and 
+being involved with agricultural activities including 
+death of livestock.
+•	 Reduced access to recreational space for exercise and 
+activities, especially associated with water e.g. water 
+skiing.
+•	 Negative impact on local sporting clubs.
+•	 Some towns with reduced access to drinking water, 
+leading to increased anxiety and mental health impacts.
+•	 Emotional repercussions due to loss of stock and crops.
+•	 Changing demographics due to out-migration for 
+work, less work available.
+•	 Increased wear on roads and other assets.
+•	 Seeing countryside in poor health is a source of 
+distress for First Nations Peoples.
+•	 On-going decision-making fatigue and paralysis.
+•	 Mental stress on the farming community from rising 
+financial pressure and increasing debt levels.
+•	 Reduced numbers of tourists visiting the region.
+•	 Greater strain on the local economy due to lower 
+levels of spending.
+•	 Reduced demand for some services and lack of 
+business confidence.
+•	 Increasing fodder prices.
+•	 Increased need for loans, increased farm and small 
+business debt.
+•	 High water prices (>$1,000/LM) and cost of water 
+carting. 
+•	 Reduced access to water for agricultural production 
+and industry.
+•	 Reductions in skilled labour in the region.
+•	 Loss of skills, knowledge and business from the region.
+•	 Reduced on-farm income and increased costs.
+•	 Rainfall deficit leading to loss of crops, fodder 
+supplies, shelter belts and native vegetation (resulting 
+in loss of biodiversity).
+•	 Reduced groundcover leading to increased erosion 
+and loss of soil carbon.
+•	 Increased runoff into rivers caused issues with river 
+health e.g. decrease in dissolved oxygen.
+•	 Drying of the regional landscape.
+•	 Increased presence of local wildlife and invasive 
+species in regional communities, aggravating the 
+impact of drought.
+•	 Additional pressure on water resources including 
+increased pressure on wetlands and stream beds 
+leading to riparian damage.
+•	 Reduced maintenance on Council assets such as parks 
+and gardens (due to water constraints).
+•	 Decline in locations of cultural importance.
+•	 Decreased river health.
+•	 Increased frequency of fires and associated negative 
+impacts on ecosystems, community health and 
+wellbeing and water quality.
+•	 Increased animal welfare concerns.
+•	 Migration of species to and from the region which create 
+challenges to the management of the ecosystem.
+Table 2	
+Components of climate change and commentary regarding increased mean temperature, exposure and 
+changes to heatwaves, frost, rainfall, and carbon dioxide in the Australian grain belt (Hayman, 2020).
+Change
+Vulnerability
+Increased mean 
+temperature
+Low vulnerability to warming over coming decades provided 
+that grain growers have access to crops with appropriate 
+development. Vulnerability to warmer seasons will be greatly 
+increased if growing season rainfall was to decline, and warming 
+is associated with heat waves.
+Changes to 
+heatwave 
+frequency and 
+intensity
+High vulnerability to an increase in spring heat events for 
+all dryland winter crops but especially pulse crops. Spring 
+heat events are more damaging when combined with low soil 
+moisture. In cooler than normal Springs, water use efficiency 
+(WUE) tends to be higher than expected. This suggests moderate 
+heat events might be imposing a cost in most years.
+Changes to frost 
+frequency and 
+intensity
+Although there is less confidence on the likelihood, there is high 
+vulnerability to any increase in frost severity and frequency for 
+many parts of the grains belt. Agronomists working with frost 
+affected farmers refer to both a direct cost of frost damage and 
+an indirect psychological impact on decision making.
+Changes to 
+seasonal rainfall
+Very high vulnerability. Although grain growers are highly skilled 
+at managing low rainfall environments, the ongoing profitability 
+of enterprises relies on capturing good seasons and are strongly 
+affected by drier seasons. In medium to higher rainfall parts 
+of the southern grains belt, a substantial increase in drier than 
+average growing seasons would greatly reduce confidence in 
+management of input levels. Drier conditions would also reduce 
+the amount of higher return and higher risk broadleaf crops.
+Changes in the 
+intensity of 
+rainfall
+Low vulnerability. A modest increase in the intensity of rainfall 
+will be beneficial. There are risks of water erosion but these 
+can be managed with stubble retention which has high levels of 
+adoption and co-benefits of reducing wind and water erosion risk 
+and increasing productivity.
+Elevated levels 
+of carbon dioxide
+Changes in CO2 cannot be considered separately from 
+temperature and water supply, and plant breeding advances 
+cultivars suitable to present day conditions by default. In the 
+future there is likely to be deliberate selection of varieties that 
+respond more positively to elevated CO2. Monitoring of changes 
+to pests and disease and revising nutrition will be essential.
+Drought related impacts 
+Drought impacts were identified through the drought literature reviewed as a part of the 
+plan development. This long list of drought impacts was then tested with members of the 
+stakeholder reference group who were asked to rate each of the impacts in relation to 
+the effect on their community which produced a priority ranking for each. This provided 
+a customised view of the impacts that most greatly affect the communities within which 
+the plan operates. These impacts were then categorised into three components of social, 
+economic and environmental. When considered together, these components form the 
+foundations of drought resilience. It is important when considering impacts to note that 
+droughts are difficult to predict in their duration and severity and due to these differences, 
+impacts differ between drought events.
+Figure 15 	   Key impacts of drought on the region
+Social
+Economic
+Environment
+
+33
+32
+Listening to 
+Local Experience 
+04
+Prosperous Agricultural Landscape and water security
+•	 Diversification for Resilience: Recognition of the importance of mixed farming (both 
+crops and livestock), alternative drought tolerant production options and access to 
+possible tourism options. were emphasised as essential tools for economic resilience 
+during drought and to weather market volatility.
+•	 Balancing Environmental and Agricultural Water: The balance between environmental 
+flows and agricultural water is critical concern for many of these communities. Access to 
+water and maintaining water security is essential for continued agricultural success. There 
+are significant concerns centred around transmission losses of water and the potential 
+degradation of the river, emphasising the importance of responsible water usage and 
+management throughout the river system.
+•	 Streamlined Funding and Forward Planning: Clear funding processes and long-term 
+planning are seen as critical for maintaining agricultural prosperity. There was continued 
+backing for support mechanisms during drought periods, including tax relief, low-interest 
+loans for infrastructure, and containment areas, reflecting a determination to bolster the local 
+agricultural sector.
+Connected People, Cultures, and Improved Community Wellbeing
+•	 Role of Community Clubs and Social Projects: Local clubs and social initiatives play a 
+pivotal role in fostering community wellbeing and cultural cohesion.
+•	 Bridging Generational Gaps: Initiatives focusing on mutual respect and learning between 
+different age groups are considered important. Addressing the challenges posed by 
+an aging population and the importance of healthcare services were also emphasised, 
+revealing communities keen on improving the quality of life for its members.
+•	 Mental Health Services: Accessible mental health services are vital for 
+community wellbeing.
+Diverse and Resilient Local Businesses and Regional Economies
+•	 Economic Diversification: Investment in industries beyond agriculture and support for 
+local markets is a priority for growing the local economy and building resilience into the 
+system. Economic initiatives aimed at countering the slow decline of smaller townships 
+and villages by investing in smaller communities appropriately are valued by community.
+•	 Holistic Approach to Regional Development: Infrastructure, healthcare, educational 
+facilities, and tourism development are important components of a resilient 
+regional economy. 
+Building from local 
+experience
+The outcomes of this Plan are born from 
+community voice, which will support locals 
+in their journey towards drought resilience. 
+As drought impacts every facet of regional 
+communities, extending far beyond the 
+farm gate.
+What we heard
+It is clear the community of the Southern Riverina wish 
+for a resilient and prosperous future. The voices of the 
+community echo their commitment to maintaining a 
+thriving agricultural landscape, fostering interconnected 
+communities, supporting diverse local businesses, and 
+advancing critical infrastructure and governance.  
+A concise explanation of the feedback received during 
+consultation for each theme is provided.
+Key 
+themes
+
+35
+34
+•	 Collaborative Efforts: Partnerships with educational institutions and businesses are 
+deemed essential for building diverse and resilient local businesses and regional 
+economies. The potential for renewable energy was also discussed as a means to 
+generate employment opportunities and bolster the local economy.
+Built Infrastructure and Technology Improvements
+•	 Sustainable Housing: There is a desire for sustainable housing and long-term quality in 
+infrastructure. There is a call for more than traditional housing development, with a focus 
+on creating a range of housing options to suit different needs which are environmentally 
+friendly, water-efficient, and technologically advanced living spaces. 
+•	 Industrial Estates: Development of industrial estates with modernised technology is 
+seen as crucial for creating employment opportunities that are not tied to farming or 
+agriculture to attract young adults and families to live and work in the region.
+•	 Water Resource Management: the construction of water reservoirs and efficient water 
+infrastructure, and the use of recycled water where possible are key considerations 
+for both water security and sustainability. Clear advocacy interventions should also be 
+developed to continue to resist water buy back options, push for water capture and off 
+river storage infrastructure, and work with the Commonwealth Environmental Water 
+Holder to release essential water during significant or extended drought periods. 
+Good Governance, Knowledge Sharing, and Skills Development
+•	 Streamlined Support Processes: Simplifying funding applications and enhancing 
+community engagement are seen as ways to make support more accessible during droughts.
+•	 Improved Governance: Active involvement from the local Council and clearer 
+communication processes are essential during drought and is viewed as an essential step 
+to building better trust between local government and the community.
+•	 Collaboration for Transformation: The community 
+recognises the importance of working together, 
+both among themselves and with local government 
+and external organisations and businesses. This 
+collaboration can lead to transformative changes and 
+improved access to resources, which is crucial to build 
+resilience.
+Considering these insights, the Southern Riverina 
+community's vision for the future revolves around 
+enhancing water management, fostering a diversified, 
+resilient economy, and building stronger community 
+bonds. Simplifying funding application processes, 
+boosting educational initiatives, and strengthening cross-
+border collaboration are crucial steps towards achieving 
+these goals. By addressing these key areas, the region 
+can work toward securing its agricultural prosperity, 
+nurturing community wellbeing, and fostering economic 
+resilience, ultimately creating a more sustainable and 
+vibrant future for all residents. 
+This feedback collectively conveys a community working 
+to secure its agricultural prosperity, deepen social bonds, 
+and broaden economic horizons to ensure its long-term 
+resilience in the face of drought and other challenges.
+Volunteer program 
+Case study
+The Corowa Business Chamber has invested in a Volunteer Certified Course for the 
+Corowa, Wahgunyah and Rutherglen regions to assist community members in becoming 
+well skilled and capable volunteers, which in turn fosters a sense of community. 
+The program is focused on skills enhancement and will empower volunteers within the 
+region develop essential skills, certifications, and benefits, cultivating a strong and 
+inclusive volunteer community. The program is jointly funded through the business 
+chamber and local businesses who collaborate with TAFE on program content. 
+The program is targeted at participants aged 18 to 80+ and provides opportunities to 
+learn from and gain mutual respect for each generation. Keeping older volunteers actively 
+learning and engaged in community life, while also helping younger community members 
+to enhance their skills and establish links to Corowa. The program aims to either keep 
+volunteers in town or have them return in the future is a major driver of the program.
+Food desert in a food bowl 
+Case study
+The local IGA in Urana burnt down at Easter in 2022. Since then, the community of 330 
+has not had a supermarket open in town, and locals must either make a one-hour round 
+trip to Lockhart or choose home delivery on only one of two days available each week.
+The consequence of this is not just inconvenience for the local community, it directly 
+impacts on the town’s ‘other’ biggest industry, tourism. The local caravan park is located 
+on the banks of the Urana Aquatic Centre and attracts visitors all year round.
+However, locals have identified that the constraint of no local supermarket has been 
+detrimental, as the appeal of a local weekend away is interrupted with the limitation and 
+inconvenience of not having any local groceries available close by. 
+This loss of an essential service has severely impacted the community of Urana and its 
+ability to remain resilient in the face of future droughts.
+
+37
+36
+Agriculture and Wellness Group
+Case study
+The Agriculture and Wellness Group is a voluntary group who originally formed in 
+2019 from the Deniliquin Drought Support Officer and the District Community Mental 
+Health Drug and Alcohol Manager who identified an opportunity for government 
+agencies, agriculture and community groups to come together in a collaborative and 
+wholistic setting.
+This group is open to anyone who wants to join and assembles those working across the 
+community towards similar and/or related outcomes to assist with better co‑ordination 
+of projects and initiatives in the future. The group has evolved to have an ongoing 
+focus on business support-viability and general mental health and wellbeing of 
+agricultural community.
+Participants within the group include: Rice Growers Association, Murray Irrigation, 
+Murray Local Land Services, Rural Financial Counselling Service, Centrelink, Red Cross, 
+Resilience NSW, National Emergency Management Agency, Murrumbidgee Health 
+network, Regional Development Australia, Salvation Army, Deniliquin mental health 
+alliance, Murray Land Care Collective, as well as individuals who wanted to join.
+This initiative was successful throughout the last drought. The group led by The Rice 
+Growers Association and the Yarkuwa Indigenous Knowledge Centre have obtained 
+funding through the Foundation for Rural Regional Renewal to expand their work via a 
+Community Impact Project. 
+The grant will be used bring together all groups including landholders, cultural 
+knowledge holders, youth and seniors, to work with community connectors to ensure 
+that all sectors of the community are supported during periods of drought, adapting to 
+the economic challenges of the Murray-Darling Basin Plan implementation and other 
+periods of crisis.
+Anemeka 
+Case study
+Anemeka or Oldman Saltbush is a drought and salt tolerant shrub that is native to arid areas 
+of Australia. Anemeka is successfully providing supplementary forage to fill annual feed 
+gaps for livestock, which in turn, supports rural communities through periods of drought. 
+Typically, a shrub’s ability to grow in dry, saline and nutrient deficient conditions leaves the 
+plant less palatable and appealing, as well as decreasing its nutritional value for livestock. 
+Researchers at the CSIRO identified the need for a plant that was both resilient to 
+challenging growing conditions, and capable of improving livestock productivity and 
+health (CSIRO, 2021). Anemeka was recognised for its higher nutritional value and 
+improved palatability for livestock as well as its potential to regenerate the topsoil of land 
+that is too saline or infertile.
+Anemeka is a summer active plant, meaning it can be used as a tool to fill the late summer 
+to early winter feed gap period, which can reduce supplementary feed costs. Once 
+established, this shrub has been described as a “living haystack” for stock, and if managed 
+correctly, can continue to survive for 20+ years (CSIRO, 2021).
+As well as reducing supplementary feed costs, Anemeka has also shown to increase wool 
+production in sheep and meat production in cattle.
+The addition of Anemeka on farms throughout rural Australia is proving to have significant 
+positive environmental and social impacts on communities through improved landscape 
+function, and biodiversity, improved visual amenity of saline lands, as well as improved 
+drought resilience in rural communities.
+Currently, there is only one nursery on the eastern side of Australia that can grow and 
+supply this variety of Anemeka.
+Initiatives refinement
+Following community consultation, the ideas and initiatives from both 
+the literature and consultation were collated into a long list. 
+The investment logic used included a:
+1.	
+problem statement
+2.	
+key questions
+3.	 assessment
+4.	
+validation
+Problem Statement
+Regional economies will continue to be impacted by droughts, which are predicted to 
+become more frequent and severe into the future. Drought Resilience Plans are required 
+to identify the steps which communities should take to mitigate these impacts.
+Drought Resilience Plans should be developed by small consortia of local governments 
+working together so they are actionable and relevant to individual communities. 
+As our communities border Victoria, Drought Resilience Plans should consider the 
+impact of those communities as part of our own community.  Both NSW and Victorian 
+Cross Border Commissioners support always asking “the Border question”: that is 
+how might the plans and actions we implement here, affect the Victorian part of our 
+community?
+Key Questions
+Impact 
+How is Southern Riverina impacted by Drought? Which impacts are most acute?
+Actions 
+What actions or initiatives can provide support to build the region’s drought resilience? 
+Which of the actions deliver the greatest benefit to the region? 
+Concept 
+What is the anticipated scope of the identified action?
+Benefit 
+How will the region benefit? 
+Prioritise 
+How well do the actions address the three pillars of resilience? How feasible is the 
+action and is there a level of shovel-readiness? Do Councils’ have the capacity / 
+influence to undertake the action?
+Assessment
+Through the SRG, the most severe drought impacts under each theme were 
+confirmed and rated as low, medium or high impact to their respective LGAs. Each 
+idea and initiative (potential actions) were coded with this information. A score 
+relating to the relative 
+level of Council influence, 
+benefit to the community 
+and the feasibility of 
+implementation (how 
+shovel-ready the idea was) 
+was given. In this way, each 
+initiative had a score which 
+enabled the prioritisation 
+of ideas. 
+Initiatives were considered 
+where the benefit of 
+the action was high and 
+Councils have the greatest 
+level of influence. 
+High
+Expected beneﬁts
+Expected beneﬁts
+Council/regional inﬂuence
+Council/regional inﬂuence
+High
+Low
+Low
+Pursue
+Photo: AnamekaTM — Tulla Natives
+
+39
+38
+Climate Resilience 
+Case study
+The Murray River agricultural community is greatly dependent upon water from 
+the Murray-Darling Basin. Water insecurity from years of drought, followed by the 
+pandemic, saw the population in the Murray River Council area decline. This population 
+decline spurred the Council to launch their Adverse Event Plan to build the resilience of 
+the community and grow the regions social capital. 
+With the help of funding from Increasing Resilience to Climate Change Program, via 
+Murray River Council and Local Government NSW. Western Murray Land Improvement 
+Group (WMLIG) developed a plan in collaboration with farmers, local businesses, 
+Landcare groups, and health and crisis support specialists to “plan in the good times to 
+be prepared for the bad times”.
+The Building Our Community in Advance banner was created for a series of ground 
+trials, pilots and workshops to find opportunities in climate adaptation with projects 
+that grow jobs, enhance agricultural productivity, protect biodiversity, and build social 
+capital. Some of the scoping studies and workshops explored included: soil aerator trial 
+and environmental assessments, water market and water trading information sessions, 
+farm questionnaires, organic waste circular economy pilot, and community energy. 
+These pilots and workshops helped identify priority areas for adaptation.
+The program builds on Murray River Council’s resilience principles of encouraging 
+community-led recovery, building resilience with adaptive methods, and diversifying the 
+economy and capturing value at home. This program takes a community-led, bottom up 
+approach helping the Murray River community survive, adapt and grow, regardless of 
+chronic stresses and acute shocks. 
+Industrial Hemp Project
+Case study
+The Western Murray Land Improvement Group (WMLIG) established in 2003 is focused on 
+enriching community through the power of innovative thinking and knowledge sharing. 
+The WMLIG engage in projects that build on the community’s resilience, and their capacity 
+to harness and utilise their skills and knowledge encouraging industry diversification 
+in the local agricultural sector, to prepare the industry and community for the changing 
+climate. One such industry diversification initiative is the Industrial Hemp Project. 
+Beginning in 2021, WMLIG began a feasibility trial, engaging a number of partners and 
+consultants to determine if industrial hemp could be a viable summer crop inclusion in the 
+Western Murray region. Hemp crops sequester more carbon than other crops, Biomass 
+crops can grow 5m in 5 months, and the grain is processed into high value products 
+(WMLIG, n.d.).
+First crops were sewn in late 2021 to mark the beginning of a two-year trial. Crops are 
+sampled at the onset of male flowering to catch the crop with optimal fibre levels prior 
+to the crop producing seeds. Hemp does require a significant irrigation and fertiliser 
+investment compared to conventional cereal crops. 
+A pre-feasibility study is currently being developed by The Wedge Group to consider 
+aspects of production and processing, including: a market demand assessment, hemp 
+preprocessing, governance, sales and marketing, financial considerations, and project 
+SWOT analysis (WMLIG, n.d.). 
+Farming communities have a long history producing and utilising Hemp crops, and the 
+Murray River community could soon be added to the long list of farmers rotating these 
+crops through summer.
+Deniliquin Ute Muster 
+Case study
+The iconic Deniliquin Ute Muster was a concept derived in 1999 when the region was 
+in the depths of drought and a group of community minded people came together to 
+put on a festival to bring visitors to the region to bolster the economy which is largely 
+dependent on agriculture. 
+The festival is still going strong some 24 years later and has resulted in Deniliquin being 
+known as the Ute Capital of the World. The festival now attracts upwards of 20,000 
+people to the region each year, with a team of 1,000 volunteers mobilised to support the 
+event and $100,000 being donated back into community groups (DUM, n.d.). 
+The event has evolved to include two night time concerts featuring Australian country 
+and rock musicians, as well as offering free camping as a part of entry to the event. In 
+addition to this approximately $1 million is spent in businesses to put on the event each 
+year and $6 million is spent within the region by patrons of the event (DUM, n.d.). 
+Southern Riverina  
+Wellbeing Collaborative
+Case study
+The Southern Riverina Wellbeing Collaborative was formed in early 2022 from members 
+of the communities within their communities. The Collaborative recognised the challenges 
+with access to services due to both geographical factors and recent child safety concerns 
+that were exacerbated by the pandemic and were found to be impacting the mental 
+health and community connection within the Southern Riverina. Some of their successful 
+initiatives to date include:
+1.	
+The delivery of mental health first aid course that focus on providing skills to 
+support adults and young people to seek appropriate professional help and to 
+support them if they are in a crisis.
+2.	
+Burn Bright program has been delivered to 260 students in the region. The program 
+is focused on supporting wellbeing and building positive relationships in help in 
+creating a positive impact on the world.
+3.	 Live4Life is a mental health education and youth suicide prevention program 
+designed for rural and regional communities.
+
+40
+Drought Resilience 
+Actions
+05
+Strawberry Fields 
+Case study
+Founded in 2009 by a desire to acknowledge the traditional owners of the land and 
+to facilitate opportunities for First Nations artists. The annual festival has grown to 
+attract more than 10,000 visitors to the region for displays of art, music and camping. 
+The festival seeks to provide a unique experience and has established a permanent site 
+about 15 minutes from the town of Tocumwal. The Wildlands property that hosts the 
+event has been customised with sustainable infrastructure and a focus on minimising 
+the impact of the festival on the environment. The Strawberry Fields Festival has 
+become a celebration of the Australian bush, and it provides a platform for young, 
+local and upcoming talent to showcase their work. The festival invests into the local 
+community through a Community Grants fund that is directed to those organisations 
+that would otherwise struggle to obtain funds. 
+Photo: ©Flickr, ACAB Collective
+
+43
+42
+What has already been done to build 
+drought resilience
+The communities of the Southern Riverina know what they require to be more 
+drought resilient over successive droughts. They have sought to solve their 
+own problems and find solutions. This has resulted in numerous programs 
+and initiatives orchestrated by a number of organisations which support the 
+pillars of social, economic and environmental resilience to drought. Much of the 
+effort has come from individuals who are community minded and have sought 
+to implement action to help themselves and their communities during these 
+challenging times. 
+One of the identified resilience actions includes the iconic Deniliquin Ute Muster born out of a 
+united community looking for ways to improve their economic resilience in the face of the 1999 
+drought (see case study). Additionally, the Agricultural and Wellness Group is a liked-minded 
+collective of individuals working across the community towards similar and/or related outcomes 
+to assist with better coordination of projects and initiatives in the future. The group has evolved to 
+have an ongoing focus on business support-viability and general mental health and wellbeing of 
+agricultural community. These are both examples of building absorptive capacity.
+Recent funding through the Foundation for Rural & Regional Renewal is also set to deliver 
+resilience improvements to the region. Some examples include: the Holbrook Landcare Group who 
+have received funding to strengthen drought preparedness and drive local action in the Murray 
+region. This is through the co-ordination of Community Impact Program activities and evaluation 
+administration or the Cultural Awareness Training and Cultural Tour. The Corowa District Landcare 
+Group are implementing country culture walks, cultural awareness workshops and information 
+sharing drought preparedness events. These activities are designed to deepen social connection, 
+provide a shared sense of purpose and longer-term community belonging.
+There are numerous strategies that have been developed for the region including Riverina and 
+Murray Joint Organisation (RAMJO) Water Position Paper (2020), Murray Regional Water Strategy, 
+Riverina Murray Regional Plan 2041 (2022) and Western Enabling Regional Adaption Report 
+(OEH, 2017). These are in addition to the LGA corporate documents, Local Land Services and the 
+Department of Primary Industries resources, which are all key reports that have been developed 
+with actions in mind to benefit the region. 
+The following sub-sections describe the opportunities to test and the identified current and 
+potential actions to progress, arranged by the five themes. The need, the action and the expected 
+outcomes are provided, along with how these contribute to building resilience and the responsible 
+parties involved. Additional details regarding assumptions and metrics to measure progress 
+towards these actions are provided in this section.
+Opportunities to test 
+Throughout the consultation process a long list of ideas 
+were identified from the community as to how the 
+impacts of drought could be lessened, or have been in 
+the past. These are a mix of absorptive, adaptive and 
+transformational resilience actions. Some of these include:
+1.	
+Continued relief for Primary Producers via Freight/ 
+Hay subsidies in drought. 
+2.	
+Low interest/ 100% tax deductible loans for 
+infrastructure (storage/power/troughs); then the 
+only issue is ongoing maintenance costs. Income 
+averaging and Farm Management Deposits need 
+to be made tax deductible so they can be utilised 
+during drought. 
+3.	 The Government previously funded stock 
+containment areas. This was identified as a good 
+investment as it protects soil and pasture resources.
+4.	
+Look for methods to lessen the burden on farmers as 
+they are mentally and emotionally exhausted.
+5.	 The Rotary Clubs provided support during drought 
+via $500 credit cards.
+6.	
+The aging populations is more reliant on others 
+and community, and can place more pressure on 
+medical services, however this demographic are also 
+prepared to educate and be part of initiatives.
+7.	
+Being able to see green sporting fields during 
+drought is important for mental health of the 
+community and in particular for children. They are 
+also important to maintain social bonds though 
+recreation activities.
+8.	 Capitalise on possible opportunities for renewable 
+energy (wind/ solar developments) in the region. 
+Councils should work together to develop consistent 
+Community Benefit Frameworks to ensure 
+investment in the regions they build are managed in 
+a way that ensures their commitment to the region 
+long term and provides positive outcomes to the 
+region.  
+9.	
+Diversification of industries is needed to maintain the 
+attractiveness for people to re-locate to the area.
+10.	 Promote tourism in Moulamein based on it being the 
+oldest town in the Riverina. However, this requires 
+changes to existing infrastructure including roads 
+and designated areas for Caravans to Park along with 
+service improvements. 
+11.	 In Wakool, a syndicate of farming families have 
+joined together to own and operate the local pub. 
+This offers a place for the community to gather. 
+They also invested in accommodation on-site. This 
+provides people a place to stay and offers them the 
+opportunity to work on-farm and supplement their 
+income with bar work.
+12.	 In Moulamein, to attract business to the town, office 
+space is being modified with the purpose of offering 
+it rent-free for 24 months to attract health services to 
+the region. Attracting a doctor to the town would also 
+provide options for chemists and other supporting 
+services to establish. This is currently being funded 
+from private investment. 
+13.	 Local Councils to continue to advocate for increased 
+flexibility to state planning legislation to enable the 
+provision of housing diversity and typology (multi-
+dwelling housing/ large lifestyle blocks, on/off grid, 
+sustainable (green) development) to accommodate 
+key workers/ young professionals/ couples/ retirees/ 
+young families on infill and new sites. Increased 
+housing provision will attract skilled workers to 
+relocate to the region. 
+14.	 There is an opportunity for Councils to become a 
+better support system for the community during 
+drought. 
+15.	 Increased support to projects such as Murray 
+Connect and Barham Agri-Innovation Precinct 
+which will realise benefits for agriculture and the 
+communities within the region.
+This Plan seeks to capitalise on this previous work and 
+ideas and support actions that will benefit the broader 
+region.
+Absorptive 
+capacity
+Adaptive 
+capacity
+Transformative 
+capacity
+For radically changing 
+the system or building 
+a new system if 
+maintaining and 
+modifying the existing 
+system won’t work.
+For modifying the 
+system when 
+needed.
+For maintaining of key 
+functions and 
+structures of a system 
+in the face of shocks.
+Resilience thinking scale
+
+45
+44
+Theme 1
+Prosperous agricultural 
+landscape and water 
+security
+The Need: A resilient agricultural sector is at the forefront of improved drought resilience in 
+this region. Agriculture in the Southern Riverina is the main industry and source of revenue. 
+This is supported by irrigation corporations which supply water for production. Continuing 
+to have a strong agricultural industry requires support by having up-to-date knowledge 
+of water availability and security to allow producers to make the most informed choices 
+regarding production and adapt or transform their systems as required.
+There is a lot of on-going effort in the region focused on driving efficiencies in new 
+technology, improved water efficiency and alternate production models. This action 
+focuses on the connection and co-ordination of the region with other dynamic and 
+innovative work being conducted. 
+Increasing resilience in agriculture will be supported by improving the exchange and 
+distribution of information within the sector, along with supporting leaders to foster 
+connections within the community to provide better knowledge sharing. 
+Water 
+Current actions 
+Led by
+•	 Improve strategic decisions around allocation of irrigation 
+Improve strategic decisions around allocation of irrigation 
+water and optimise efficiency in delivery and use.
+•	 Optimise the efficient capture, storage and use of surface 
+water for agricultural production.
+•	 Balance agricultural water requirements with landscape 
+and cultural water needs.
+Southern 
+Innovation Hub 
+•	 Statement of Strategic Regional Priorities 2022-2026 and 
+Water Position Paper 2020.
+RAMJO
+•	 Significant research and initiatives are already completed 
+and being implemented across the Southern Riverina area.  
+Understanding and collating the breadth and depth of  
+those works will be essential to responding more fully to 
+the impacts of drought on the agricultural landscape  
+in particular. For example, some One Basin CRC  
+initiatives include:
+	– Future governance for water limited communities.
+	– Unlocking collaborations for transformation: towards a 
+platform for data and knowledge sharing.
+	– Understanding future leadership needs.
+	– Reducing uncertainties and enabling multiple benefits in 
+water delivery operations.
+	– Improved Approaches to securing and Delivering Water 
+Resources in a Changing Climate.
+	– Incentivising and Investing in Climate Adaptation and 
+the Adoption of Sustainable Basin Managementgement 
+Practices.
+WMLIG and other 
+similar bodies
+Water Actions
+Priority Action
+Consolidate the existing social and economic studies that have been conducted on the 
+impacts of water buy-backs on the Southern Riverina region. This will enable a more 
+streamlined approach to advocacy for water rights by Councils and other organisations 
+and highlight any alternative options. While this may be absorptive capacity building in 
+its infancy, it may lead to adaptive or transformational change. 
+Other Actions 
+1.	 Continue to advocate to State and Federal Governments to provide input 
+to water policies which reflect the issues and concerns of their region and 
+ensures that policies implemented consider the social and economic impacts 
+to community, particularly where water buy backs are concerned. Strong 
+advocacy for  complimentary improvements such as investments in water 
+infrastructure and changes to water management practices are considered. 
+2.	 Utilising the information from the priority action, investigate means by which to 
+support communities to understand and adapt to the future state of the region. 
+3.	Support the actions and updates of the RAMJO water position paper.
+4.	Encourage learning from First Nations Peoples about the importance of water 
+to their community and their connections to the local landscape.
+5.	Investigate opportunities to improve town water supply performance through 
+the DCEWW Water.
+6.	Work with MDBA to improve river management and manage flows and water 
+access, seeking opportunities to promote the social and economic impacts of 
+water management on communities. Two of the main concerns are transmission 
+losses of water and the degradation to the riverbanks.
+7.	 Consider the benefits of ‘water banks’ to keep water in the local area rather 
+than losing to other regions. Investigate reconnecting River Country projects 
+that improve connectivity for fish and environmental water to key assets like 
+wetlands. 
+8.	Advocate for emergency water allocations being unlocked (through holders 
+such as the Commonwealth Environmental Water Holder) during drought, 
+drawing from the environmental bucket, to ensure green spaces can be 
+maintained by Council. 
+9.	Investigate the potential to transition more people onto town water to improve 
+their water security. This will require enhanced water treatment and water 
+infrastructure and could only be achieved through full government funding. 
+Key Outcomes
+•	 The priority action will act as an input to the regional diversification strategy  
+(see Theme 3) and will also assist the consortia of Councils to lobby the state 
+government against any detrimental impacts to the community from pursuing high 
+levels of water buy-backs. This is vital to understand whether the current agricultural 
+systems will be sustainable into the future or whether transformational change and 
+uptake of new methods/ crops i.e. Hemp or Anameka (see case studies) is required.
+•	 Other actions will increase the understanding of access to water and support 
+improved relationships with other groups and agencies. 
+•	 The actions assist to integrate and align the importance of water for the region. It will 
+be important that advocacy and education actions utilise climate change predictions 
+to ensure an evidence base is used for business cases.
+Pillars of Resilience
+Social
+Economic
+Environmental
+Better mental health 
+outcomes from improved 
+water security.
+Integrates cultural 
+awareness of First Nations 
+People’s connection 
+to water and the 
+environment..
+Assist in quantifying the 
+potential financial impacts 
+to the region of future 
+water-buybacks. Allows 
+planning for adaptation 
+and/or transformation of 
+industry to occur.
+Seek opportunities for 
+environmental markets 
+to support natural capital 
+improvement. As stewards 
+of the land, farmers can 
+access environmental 
+markets to diversify 
+incomes, even during 
+adverse events.
+Improved outcomes for 
+agricultural properties 
+and the river(s).
+ Absorptive     
+ Adaptive     
+ Transformative
+
+47
+46
+Implementation Steps 
+Priority Actions
+1.	
+Consolidate the existing economic and social impact studies in the region (addressing 
+any gaps in the current studies and ensuring it represents the Southern Riverina) with 
+the assistance of a consultant or Council resource (if available).
+2.	
+Utilise the impact study as an input to the regional diversification strategy 
+(Theme3).
+3.	 Utilise the outputs of the study to support communities to adapt to the impacts of 
+water-buybacks.
+4.	
+Communicate findings in a clear and succinct manner that is engaging for both 
+farmers and the general community.
+5.	 Use the findings to advocate for better water security, management and policy.
+Other Actions
+1.	
+Continue to utilise RAMJO to advocate on water issues to State and Federal 
+government. 
+2.	
+Engage with First Nations Peoples (e.g., Yarkuwa Indigenous Knowledge Centre) 
+on how best to support and integrate First Nations knowledge and learnings into 
+Council activities and education.
+3.	 Establish and strengthen working relationships with external agencies.
+4.	
+Research the benefits and drawbacks of a community water bank. Make findings 
+available to the community.
+Delivery model
+Suggested Lead Agency 
+Potential Partner/s
+Consortia of Southern Riverina 
+Councils with the support of 
+RAMJO will lead the priority 
+action. 
+The balance of the theme 
+actions will be a collaborative 
+effort with program partners.
+The region’s industry including: 
+•	 Ricegrowers Association of Australia 
+•	 National Farmers Federation
+•	 Department of Planning and Environment (Water)
+•	 Murray-Darling Basin Authority 
+•	 WaterNSW
+•	 Water users and associations within the region 
+— NSW Irrigators Council, Southern Riverina 
+Irrigators, YACTAC, Murray Irrigation Limited.
+Finance 
+•	 FDF to fund the consolidation of the economic and social 
+assessment of water buy-backs.
+•	 Investigation of options to fund any further identified actions.
+•	 Cost: Estimated $50K to $150K to have economic and social 
+studies consolidated. 
+Timeframe
+•	 Short-term to deliver the economic and social assessment as 
+described above. 
+•	 The other actions can be commenced in the short-term but would 
+be on-going to deliver outcomes. 
+Measure of 
+Success
+•	 Consolidated economic and social assessment with findings 
+communicated.
+•	 Ongoing (regular) engagement with, and learning from, First 
+Nations Peoples (may be workshops or signage).
+•	 Improvements to water infrastructure and meeting water 
+performance measures, reduced complaints.
+Agriculture 
+Current actions 
+Led by
+Six LLS Drought Adoption Officers (funded from the Southern 
+Innovation Hub) and a boost to the Regional and Local 
+Landcare Co‑ordinator positions
+NSW Government 
+In previous drought periods there have been freight and hay 
+subsidies as well as low interest/ 100% tax deductible loans 
+for infrastructure (storage/power/troughs), income averaging 
+and FMDs, 100% tax write off for machinery/infrastructure. 
+NSW Government 
+Adoption of agricultural practices that optimise production 
+benefits whilst managing risk to farm business and landscape 
+assets
+Southern 
+Innovation Hub
+Wakool Agri-Innovation Program, natural capital / biodiversity 
+and carbon farming pilots, industrial hemp, Agri-innovation 
+Precinct, Murray Connect and other pilots/ programs aiming to 
+build-in resilience against adverse events by providing access 
+to novel markets.
+Western Murray 
+Land Improvement 
+Group
+Murray Landcare Regional Landcare Plan for the Murray 
+is to enable collaborations and strategic action towards 
+sustainable land management, environmental conservation 
+and empowering communities.
+Murray Landcare 
+Collective
+Sustainable Agriculture Facilitators (SAFs) (formerly 
+Regional Agriculture Landcare Facilitators) support farmers, 
+industry, and community groups to adopt new and innovative 
+sustainable agriculture practices. SAFs are funded under 
+They connect people and information and are out on the 
+ground as the key contacts for sustainable agriculture in their 
+community.
+Sustainable 
+Agricultural 
+Facilitator
+Agriculture Actions
+Priority Action:
+Secure on-going funding to support a regional climate change coordinator across the 
+four LGA’s, including consideration of our Victorian communities, on a shared service 
+basis. This will assist to build absorptive, adaptive and transformative capacity across 
+the region.  
+1.	
+Engage a local provider on a part-time basis to act as a co-ordinator of information 
+and facilitator of connections for agriculture and the community. There are 
+organisations within each of the LGA’s that could be sought as providers for this 
+service. Examples of these providers include Western Murray Land Improvement 
+Group, Yanco Creek and Tributaries Advisory Council and other private consultants 
+in the region. The role would entail establishing relationships with other programs 
+and organisations that are delivering drought resilience work and bringing this 
+knowledge back to local communities, as well as facilitating connections between 
+different groups to enable knowledge sharing. The officer may also suggest 
+opportunities where Councils can support other agencies / organisations (research 
+and programs e.g., Biochar pilot, micro abattoir, Food Producers Collective).
+•	 Being a conduit for connecting the agricultural industry with other service providers 
+eg RFCS, LLS, OneBasin CRC, Landcare and producer groups, Southern Innovation 
+Hub including existing programs / workshops which focus on diversifying income, 
+forward planning, succession planning and education regarding stocking rates and 
+technology advancements.
+•	 Being a conduit for information to the local community on early drought indicators 
+and support services available.
+•	 Assisting farmers with understanding and applying for funding. 
+Key Outcomes
+•	 Improves connection and exchange of information for both the agricultural sector 
+and the community with key messages and information prior to, and during, drought 
+by providing a dedicated contact for the community. 
+•	 Connects Council directly with improvement activities being conducted by the 
+Southern Innovation Hub, Western Murray Land Improvement Group, LLS Drought 
+Adoption Officers and Landcare Co-ordinators that will bring benefit to their 
+community.
+•	 Provides a connection to drought and general assistance information for both the 
+community and agricultural sectors. Can support the community response to flood, 
+bushfire and climate change, being a conduit to information, funding and resources.
+•	 Promotes and builds on existing resilience activities being undertaken across  
+the state.
+
+49
+48
+•	 Provides additional employment to the region from the creation of the new role. 
+Pillars of Resilience
+Social
+Economic
+Environmental
+Use of a common 
+language and 
+understanding of drought 
+impacts and indicators of 
+when the region is moving 
+into drought. 
+Increased access to 
+resources that support 
+planning and delivery of 
+mental health services. 
+Will assist the community 
+with financial planning 
+and improve farmers 
+understanding and access 
+to financial support.
+Provides greater 
+sharing of knowledge on 
+agricultural management 
+practices that improve 
+biodiversity and natural 
+resource management. 
+Implementation Steps 
+1.	
+Secure funding and develop job brief.
+2.	
+Appoint someone to the role.
+3.	 Conduct evaluation on effectiveness of position.
+4.	 Assess whether to continue position.
+Delivery model
+Suggested Lead Agency 
+Potential Partner/s
+Consortia of Southern Riverina Councils 
+will work with local agricultural and 
+natural resource service providers in 
+the LGA to identify a suitable service 
+provider for the priority action.  
+•	 Southern Innovation Hub
+•	 Murray LLS
+•	 NSW Department of Primary Industry 
+•	 Canberra University
+•	 Agricultural and natural resource 
+service providers in the LGA eg 
+WMLIG
+Finance 
+•	 FDF / Disaster Recovery Funding Arrangement  to fund the 
+position. Dedicated on-going state or federal funding would need 
+to be secured for the role to remain a permanent position in the 
+region, otherwise the funding burden falls to local Councils and 
+communities. 
+Timeframe
+•	 Engaging a service provider can occur in a relatively short period 
+of time. Implementing the co-ordinator will allow a dedicated 
+focus on preparing for future climate change events in the region. 
+Measure of 
+Success
+•	 Establish a baseline figure of visits to Councils’ and service 
+providers websites for climate change information.
+•	 Service provider to report on the number of users of the service, 
+introductions made or information sessions delivered.
+•	 Partners to be surveyed on the benefit created from the role.
+Theme 2 
+Connected people, 
+cultures and improved 
+community wellbeing
+This theme is based on the desire to maintain and promote a community that is well 
+connected, resilient and cohesive in times of challenge; where a strong social fabric 
+exists that supports and maintains the wellbeing of its members.
+This priority is focused on providing services that are delivered to the community to 
+support health and connectedness in times of hardship and provide support where it 
+is most needed. The provision and embedding of health services in the community in 
+good times is a pre-emptive means of improving resilience in the longer term especially 
+during and after drought. 
+The Need: We heard through the regional consultation that selected individuals within the 
+community are increasingly looking for drought solutions and messaging that the demand 
+for mental health services were not aligned with the demand from the community during 
+‘good’ times, let alone during crisis.  
+Current actions 
+Led by
+Agriculture Wellness Group (see case study)
+Rice Growers 
+Association
+Southern Riverina Wellbeing Collaborative and mental health 
+first aid training
+Berrigan Shire 
+Council
+PhD and student internships in the region
+One Basin CRC
+Naponda Store: local initiative established in 2012-13 as a 
+result of women struggling with mental health due to lack of 
+jobs during drought. A way for women to work on their hobby 
+crafts. Profits go to the store and local hospital. 
+Naponda Store 
+(community not-
+for-profit)
+Murray Connect Office; a coworking space and community 
+hub in Barham. A community initiative that aims to provide a 
+central hub for the purpose of connecting people, industry and 
+research for the purpose of facilitating adaptation within the 
+community to grow economic sustainability within the region.
+Western Murray 
+Land Improvement 
+Group
+Current actions 
+Led by
+Feast, Forest, Farm: two-day event with seminars, events on 
+local farms, local dining experiences to draw people to the area. 
+This will utilise the local accommodation and facilities and help 
+guests gain an understanding of the wealth of produce that is 
+within the region and showcase its cultural history.
+Western Murray 
+Land Improvement 
+Group
+Actions
+Priority Action:
+Develop a Regional Community Resilience Program. This would directly address the 
+need identified by community for greater mental health support. It would help to build 
+absorptive capacity in the community. The program could include:
+•	 Identify and develop relationships with health and well-being service providers 
+including but not limited to Active Farmers and the Red Cross. 
+•	 Advocate for access to improved mental health services for the community to better 
+meet the demand for such services in times of need. Advocate for district health 
+nurses and mental health services.
+•	 Partner with agencies and service providers to provide mental health first aid training 
+to supporting industries.
+•	 Improve collaboration and connection with local health providers such as the 
+Murrumbidgee Local Health District and the work being undertaken by the Southern 
+Innovation Hub on “identifying mental health indicators and service structures that 
+can be sustainable for small communities” can be capitalised in  
+the region. 
+•	 Provide information and support for leadership and volunteer programs such as the 
+Corowa Business Chamber Volunteer Program.
+•	 Support and promote educational and training opportunities within the region such 
+as the Regional University Study Hub, which encourages students to stay and study 
+in the region, and Deniliquin Business Chamber – Chamber Riggall Fellowship.
+•	 Develop and promote a program of events for the region that can be drawn upon 
+during times of hardship to promote social connectedness. This includes utilisation of 
+the mobile Finley Community BBQ Trailer (funded through the FRRR).
+•	 Publish and share information with the community on the health support options 
+accessible to them. 
+•	 Publish and share the community events information and community groups such as 
+the Men’s Shed to demonstrate opportunities available within the region for people to 
+become involved. Provide support for co-hosting family wellbeing days.
+
+51
+50
+•	 Promote the existing work of external organisations providing support services 
+e.g., mental health services, programs for farmers (tackling tough times, agritech 
+innovations, drought resilient species, innovation/diversification strategies).
+•	 Support and advocate for community gardens and heat refuges.
+Other actions 
+1.	 Continue to support local shows which provide opportunities for the community 
+to gather and contributes to tourism.
+2.	 Support diverse range of uses for recreational areas (e.g. Moulamein lake used 
+as emergency water supply but also recreation managed by 355 committee).
+3.	 Encourage more volunteering by appealing to the youth within the community 
+via means that engage and attract them. This will assist to mitigating volunteer 
+fatigue.
+4.	 Councils ensure basic services are available and work with the community to 
+keep clubs open.
+5.	 Investigate feasibility of (additional) public transport options to assist elderly to 
+move around and encourage town growth.
+6.	 Berrigan Shire, Edward River and Murray River Councils, along with community 
+stakeholders, apply as a consortium for Regional University Centre funding 
+across the three Council areas to encourage youth to stay and learn in the 
+region.
+Key Outcomes
+•	 The priority action will improve access to, and delivery of, community support 
+services which will build the baseline health of the community and promote social 
+cohesiveness. These services and supports will be in place when hardship arises and 
+will aid in the support and recovery of the community.
+•	 Other actions provide benefits to the local economy through assisting tourism and 
+help to improve social supports. 
+•	 All actions utilise and build upon existing knowledge, initiatives and support  
+services in the region while providing support and services that reflect the needs  
+of the region. 
+Pillars of Resilience
+Social
+Economic
+Environmental
+Improves community connectedness and 
+supports positive health outcomes. 
+Reduces isolation and provides skill 
+development in the community. 
+Strengthens community mental health to 
+improve overall resilience to stress.
+Encourages students to stay and learn in 
+the region. Overall, aims to improve mental 
+health which will assist individuals and 
+community withstand the psychological 
+and social impacts of drought. 
+Reduces the 
+amount of lost 
+production time due 
+to ill health.
+Encourages local 
+spending on 
+community events.
+NA
+Implementation Steps 
+Priority Actions
+Components of the program can be progressed individually or as a collective.
+1.	
+Develop the program with the assistance of a consultant or council resource (if 
+available).
+2.	
+Form partnerships with providers and establish the relationships with other 
+collaborators.
+3.	 Identify and seek any other funding to support the program.
+4.	 Publish the program and partner details on the councils’ websites.
+5.	 Review the program regularly to ensure components remain relevant for the 
+community.
+ Absorptive     
+ Adaptive     
+ Transformative
+Other Actions
+1.	
+Listen to and provide support to volunteers and committees
+2.	
+Survey community interest and conduct needs analysis.
+3.	 Investigate sources of funding and resources to implement programs.
+Delivery model
+Suggested Lead Agency 
+Potential Partner/s
+Consortia of Southern Riverina 
+Councils to oversee the priority 
+action. Support from partners will 
+be required to deliver the actions.
+•	 Agriculture and wellness group meetings 
+•	 Red Cross 
+•	 Active Farmers 
+•	 Local Health District 
+•	 Southern Innovation Hub
+•	 Men’s shed
+•	 Other organisations
+Finance 
+FDF to fund the program development.
+As part of program development, investigate options to fund any 
+further identified actions.
+Cost – Estimated $50K to develop, document and publish the priority 
+action program and its components. This cost maybe avoided if the 
+consortia have resources that can develop the program. 
+Timeframe
+Short-term – to commence developing program components and 
+fund those that are ‘shovel-ready’.
+Medium term – to develop and expand the program, build 
+partnerships and implement delivery. 
+Measure of 
+Success
+•	 Establish a baseline figure in year 1 of visits to Councils’ websites 
+for program information.
+•	 Review of reportable figures on users of services.
+•	 Review of plan events against actual events held and participation 
+levels.
+
+53
+52
+Theme 3 
+Diverse and resilient local 
+businesses and regional 
+economies 
+The Need: The community cited their main concerns regarding the local business economy 
+as the reduction in tourism resulting in less visitors for the region and a lack of adequate 
+housing, services and infrastructure to support the existing community needs and attract 
+new families and investors to the area. 
+Diversity in the local economy will build resilience to drought, reduce the impacts on the 
+community, and make the region more appealing for employment, business development 
+and population relocation. In this case it also reduces the burden on agriculture if 
+there are other industries that can independently sustain and contribute to the region’s 
+economic prosperity despite declining seasonal conditions. This builds the region’s 
+absorptive capacity.
+Whilst all the Councils have a series of planning documents that establish their priorities, 
+there is an opportunity for the region to build on this work though approaching the 
+diversification of industry and economy at a region level. 
+Current actions 
+Led by
+Rural regional community social research into pre-drought 
+indicators in communities.
+Building resilience of businesses and social networks that 
+underpin regional communities and service surrounding areas.
+Identifying mental health indicators and service structures 
+that can be sustainable for small communities.
+Southern 
+Innovation Hub 
+Renewable Energy Zone (REZ) will connect multiple 
+generators and storage in one location, capitalising on 
+economies of scale to deliver cheap, reliable and clean 
+electricity.
+South West REZ, 
+EnergyCo
+Current actions 
+Led by
+Murray River crossing projects include the second Echuca-
+Moama Bridge, Barham-Koondrook and Tooleybuc Bridge 
+restorations and plans for the Swan Hill and Yarrawonga 
+Mulwala Bridge replacement. 
+These projects will address heavy vehicle access to support 
+economic and industry diversification and cross boarder 
+relations.
+Transport for NSW
+Enhancing regional assets will sustain and increase tourism 
+including eco-tourism, agritourism, recreational opportunities, 
+cultural heritage to diversify the regional economy.
+Riverina Murray 
+Destination 
+Network
+Actions
+Priority Actions:
+The Development of a Regional Economic Diversification Strategy that will include 
+elements of absorptive, adaptive and transformational resilience building. The Strategy 
+could include: 
+•	 A  view of the region as a whole that provides the opportunity for Councils to improve 
+collaboration and co-ordination. 
+•	 Improving connectivity with cross border communities to support economic growth 
+and diversification. 
+•	 Consideration and improved planning for how to better utilise the existing 
+infrastructure within the region to benefit the whole, this can include how to 
+repurpose existing underutilised infrastructure within the region to support 
+investment in other industries, that are appropriate, as well as modifications / 
+improvements to better suit the regions changing demographic and community 
+needs and boost employment e.g., making pools more accessible for elderly, re-
+vitalisation / private investment of airports/ aerodromes, childhood centres, tertiary 
+and learning spaces, medical spaces.
+•	 Building on regional tourism planning that seeks to enhance the local economy and 
+promote the region as a place to stay, play and spend in. This needs to be considered 
+in terms of cost of maintenance, reliability of volunteers, employment viability and the 
+casualisation of the workforce. Supporting services and amenities also need to be 
+available to encourage people to stay. The region’s tourism plans should be aligned 
+with both the Destination Management Plan and the Local Area Plans.  
+•	 Advocating for buying local and support local production of commodities and 
+community owned businesses. This could occur through alignment with Buy from  
+the Bush. 
+•	 Encouraging diverse baseline economic activity and roles for women and First 
+Nations Peoples.
+•	 Investigation and planning for where potential funding from green energy project 
+investment would best benefit building resilience in the community.
+•	 Renewing and implementing economic development plans.
+•	 Investigation of where best to place new industrial estates to encourage investment 
+and growth in employment.
+•	 Exploration of where there is potential to value-add to existing industry and  
+business. This may be place-based investment projects with other impact investors 
+and venture capital. 
+•	 Listening to local community as to what social events and facilities will attract people 
+to town. 
+Key Outcomes
+•	 Identified opportunities for industry diversification in the region that can be 
+supported by the community and create new streams of income. 
+•	 Includes the community voice in creating the future vision of the region.
+•	 Supports good governance and decision-making in the region.
+•	 Demonstrates the desire for ownership and input into the region’s future.
+Pillars of Resilience
+Social
+Economic
+Environmental
+These actions will increase 
+regional collaboration with 
+Councils and community 
+through a joint vision. 
+Outcomes are seeking to 
+grow regional populations and 
+provide for more community 
+activities and opportunities 
+that will increase resilience 
+through challenging times. 
+Growing the regional 
+economy and making 
+it more prosperous, 
+through new business 
+and increased tourism. 
+Diversifying the 
+economy is an important 
+step in building overall 
+community resilience. 
+Sustaining and 
+promoting local 
+cultural heritage.
+Implementation Steps 
+1.	
+Work collaboratively with stakeholders to identify regional economic and 
+employment generating opportunities with cross border localities.
+2.	
+Identify regional economic opportunities based on agriculture and value add 
+manufacturing.
+3.	 Continue to grow and support the regional tourism industry through local economic 
+initiatives.
+4.	 Collaborate with key service providers to retain and sustain key employment 
+foundations. i.e. health and educational services.
+5.	 Promote the cultural heritage and character of the region. i.e. Murray River, 
+agricultural sector.
+
+55
+54
+Delivery model
+Suggested Lead Agency 
+Potential Partner/s
+Consortia of Southern Riverina 
+Councils in partnership with RAMJO 
+would lead the priority action. 
+Partners would provide valuable 
+input and assistance with delivery 
+of actions.
+•	 Business communities of Berrigan, Edward 
+River, Federation and Murray River
+•	 Chambers of commerce
+•	 Identified investors in the region
+•	 Cross boarder partners and co-
+collaborators
+•	 Department of Regional NSW
+•	 Regional Development Australia Murray 
+Finance 
+•	 FDF to fund the program development.
+•	 As part of program development, investigate options to fund any 
+further identified actions.
+•	 Cost – Estimated $100K-$200K to deliver the Regional Economic 
+Diversification Strategy.
+Timeframe
+•	 Short-term to develop the Regional Economic Diversification 
+Strategy.
+•	 Medium to long-term to implement actions from the plan and 
+seek additional funding.
+•	 Several of the individual components such as shop local can be 
+promoted by Council independently.
+Measure of 
+Success
+•	 Increased private investment in industry.
+•	 Stabilisation of tourism numbers over time.
+•	 Increased local production.
+•	 Increased and / or stable population in the region.
+•	 Increase in women and First Nations Peoples in employment, 
+through implementation and measurement of the regions 
+Diversity and Reconciliation Action Plans.
+Theme 4 
+Built infrastructure and 
+technology improvements
+This theme is focused on ensuring the Southern Riverina has in place the appropriate 
+infrastructure to support the needs of the community and, into the future, be a point of 
+attraction for new industry and residents. This has direct links with Theme 3. The Southern 
+Riverina is significant for its freight and logistics and its cross border connections, with 
+agribusiness relying heavily on transport infrastructure to efficiently move products. 
+The Need: Improvements with built infrastructure aligned with utility infrastructure  
+will drive future economic competitiveness while diversifying the economy and industry. 
+Future investment will ensure the region is not as beholden to the shocks of drought in this 
+predominantly agricultural region. 
+The community engagement identified there were opportunities to offer improved support 
+to the existing industry and attract new industry to the region however, a lack  
+of enabling infrastructure was identified as an issue. It was also identified that a stronger 
+community will come with increased access to education, employment and health services.
+Current actions 
+Led by
+Work with partner agencies (VLine) to upgrade Tocumwal 
+Intermodal area
+Berrigan Shire 
+Council
+Freight connections and dedicated land for industrial uses and 
+logistics. ie Deniliquin
+Edward River 
+Council 
+Workshops on improvements in agtech
+Landcare, WMLIG
+Actions
+1.	 Raise the community’s awareness of alternative telecommunications and 
+internet connectivity options for the region. 
+2.	Explore options to use existing facilities such as saleyards as a community hub 
+for agriculture-related education sessions and potentially generate income as 
+an events facility. Promote the new Corowa saleyards training facility.
+3.	For the agricultural sector, encourage construction of silage storage facilities 
+and work with partners to promote new technology / efficiencies  
+in infrastructure. 
+4.	Ensure new infrastructure is co-designed with the community to ensure it 
+meets the requirements and will be utilised.
+5.	Invest in and repurpose infrastructure to attract, sustain and retain the local 
+population. This includes health care services, educational opportunities, 
+recreational facilities and housing that supports the needs of a diverse (and 
+aging) population. This will require working with partners like Murrumbidgee 
+Local Health District.
+6.	Investigate water augmentation ideas for further off river storage.
+7.	 Plan maintenance and improvement works so activities are completed at a  
+time when there is reduced use of infrastructure e.g., table drains cleared 
+before La Nina. 
+Key Outcomes
+•	 Stronger communities through infrastructure that supports community.
+•	 Increased connection for communities. 
+•	 Adapting and repurposing existing assets and designing new infrastructure to meet 
+the community need.
+•	 Improved infrastructure will support other diversification activities. 
+ Absorptive     
+ Adaptive     
+ Transformative
+
+57
+56
+Pillars of Resilience
+Social
+Economic
+Environmental
+Technology and 
+infrastructure 
+developments will have 
+positive impacts on the 
+attractiveness of the 
+regional communities 
+and benefit community 
+wellbeing and 
+connectivity.
+Improvements in 
+infrastructure, services 
+and investor activity will 
+improve stimulation of 
+the economy. Attraction 
+of new investors results 
+in business diversity and 
+improved community 
+resilience.
+New investor activity has 
+the potential to create 
+positive environmental 
+outcomes as investors 
+seek to balance 
+infrastructure investments 
+with improved social 
+licence and ESG 
+commitments. 
+Implementation Steps 
+1.	
+Existing Council corporate documents provide an opportunity to identify options to 
+build infrastructure and technological advancement. Future population projections 
+are to be used to identify any gaps in infrastructure capacity. 
+2.	
+The economic diversification strategy (see Theme 3) will provide an opportunity to 
+identify infrastructure and service improvement opportunities for the region.
+3.	 Funding for new or upgraded infrastructure will need to be identified
+Delivery model
+Suggested Lead Agency 
+Potential Partner/s
+Consortia of Southern Riverina 
+Councils working closely in 
+collaboration with partners. 
+•	 Industry Partners
+•	 Chambers of commerce
+•	 Identified investors in the region
+•	 Cross boarder partners and co-
+collaborators
+•	 Department of Regional NSW
+•	 RAMJO
+•	 State government agencies
+Finance 
+•	 Improvements in infrastructure will require funding to be 
+identified to progress.
+Timeframe
+•	 Medium to Long-term
+Measure of 
+Success
+•	 Reduced telecommunications constraints in the region. Measured 
+by an increase in adoption of alternate network options. 
+•	 Lower levels of de-stocking during drought.
+•	 Increased use of community facilities.
+•	 Reduced complaints. 
+Theme 5 
+Good governance, 
+knowledge sharing and 
+skills development
+The Need: One of the main themes voiced by the community was the challenges faced in 
+co-ordinating and connecting all the innovative drought work that is being conducted in the 
+region. This will mainly be addressed by the co-ordinator role in Theme 1. However, there 
+are many other opportunities to improve knowledge sharing and increase local skills base. 
+Generally, governance is well developed, with the Joint Organisation assisting with 
+across region governance and leadership. Each of the LGA’s has developed a series of 
+corporate documents and plans that support the future vision for their community.
+Current actions 
+Led by
+Research project into leadership and 
+skills development
+One Basin CRC
+Research into early indicators of 
+resilience loss
+University of Canberra and Southern 
+Innovation Hub
+Actions
+1.	
+Utilise the Joint Organisation framework to strategically target focus areas and 
+continue to build on the RAMJO Strategic Regional Priorities 2022-2026.
+2.	 Seek opportunities to collaborate on initiatives and actions with various 
+organisations that benefit the region. 
+3.	 Promote business and social networks within the community.
+4.	 Continue efforts to educate the public regarding water efficiency measures, 
+importance of abiding by water restrictions, what the stages of drought are and 
+how they affect water security.
+5.	 Investigate (partner with research organisations) how best to engage with  
+the community post COVID where more people may want a combination of  
+in-person and online engagement or digital formats such as podcasts.
+6.	
+Support and help build the network of community connectors, 
+encourage place-based work and explore how to incorporate more First 
+Nations roles within the region.
+7.	
+Invest in educational programs that develop skills and expertise within 
+the region and incentivise professionals to the area. 
+8.	
+Investigate ways to increase partnerships with local professionals and 
+businesses such as career talks and internships to demonstrate to the 
+next generation future opportunity and career progression available by 
+remaining in the region. 
+9.	
+Support community leadership and volunteer training programs to 
+increase community cohesion and organisation.
+10.	
+Ensure opportunities for development are supported by Councils 
+through changes to state and local legislation and policy e.g., housing 
+provision, employment generating lands. 
+11.	
+Examine opportunities to share resources between Councils or 
+alternate employment models (job share/remote workers) to enable 
+the region to resource hard-to-fill roles like town planners.
+12.	
+Investigate opportunities to partner and learn with Councils in Victoria 
+who face the same challenges of having a population that is mobile 
+between the States.
+Key Outcomes
+•	 Develops trust between the community and local government which improves social 
+unity within the community. 
+•	 Demonstrates innovative and cohesive leadership across Councils to solve 
+challenging community issues.
+•	 Builds expertise and skills within the region and increases community strength and 
+education. 
+ Absorptive     
+ Adaptive     
+ Transformative
+
+59
+58
+Pillars of Resilience
+Social
+Economic
+Environmental
+Increased 
+educational, job and 
+housing opportunities 
+within the community 
+helps grow the region 
+and diversify social 
+networks.
+Increased efficiency in use 
+of Council resources through 
+collaboration; this also provides 
+some buffer against harder times. 
+Increased opportunity within 
+the region through support of 
+connectors; more diverse jobs 
+and economic base.
+Improvements in 
+efficient water use and 
+water literacy results 
+in better environmental 
+outcomes (water 
+availability and 
+ecological health). 
+Delivery model
+Suggested Lead Agency 
+Potential Partner/s
+Consortia of Southern Riverina 
+Councils in collaboration with 
+RAMJO.
+•	 Chambers of Commerce
+•	 Business community 
+•	 Group Training Organisations such as 
+Murray Mallee Training Co and Pointer 
+Remote 
+•	 Ricegrowers Association and Yarkuwa 
+Indigenous Knowledge Centre (connects 
+initiative)
+•	 Co-ordinator role (Theme 1)
+Finance 
+•	 Department of Planning and Environment – Safe and Secure 
+Water Program.
+•	 As part of program development, investigate options to fund any 
+further identified actions.
+Timeframe
+•	 These actions are a range of short-medium terms actions. 
+Measure of 
+Success
+•	 Report on number of joint initiatives progressed by the consortia 
+in the calendar year.
+•	 Reported number of joint training programs supported by the 
+consortia each year.
+•	 Improvements in efficiency of town water usage year on year.
+•	 Increased engagement in Council activities / events.
+•	 Report on the Key Performance Indicators (KPI’s) associated with 
+Councils corporate plans. 
+Monitoring, Evaluation and Learning
+To drive improved drought resilience in the region, this plan has identified the steps 
+required for change to meet the needs of the region. These include the identified priority 
+and related actions to be implemented; the outcomes that could be achieved as a result 
+and specifically how each would relate to building resilience. The plan also includes steps 
+required to implement the change, and identifies a delivery model to do so.
+To ensure this Plan delivers on the actions identified, a Monitoring, Evaluation Learning 
+(MEL) Framework should be adopted. The FDF MEL Framework will be used to assess 
+the effectiveness of implementing this Plan (DAWE, 2020). 
+Impact 
+Do the drought impacts identified in the plan represent those of greatest impact to 
+the region? 
+Rationale 
+Do the current actions and those proposed in this plan align to the 
+strategic priorities of Social, Economic and Environmental?
+Outputs 
+Does the implementation of the plan deliver the outputs 
+detailed in this Plan?
+Outcomes 
+Do the benefits of implementing the actions improve 
+resilience across the three strategic prioritises for 
+the Southern Riverina? If not, what can be adjusted 
+to improve the outcomes? 
+The four consortia of Councils working together with the delivery partners including 
+NSW State Government, not-for profit organisations, industry and community 
+organisations will need to collaborate on the implementation of this Plan. 
+The Councils have been nominated as the lead agency for the delivery of actions 
+within this plan. This is due to both the allocation of implementation funding via the 
+FDF and the ability of Councils to lead and advocate for the resilience needs of their 
+communities. However, it is expected that many of the initiatives will be delivered as a 
+collaborative effort.  
+Initial Plan measures of success have been identified for the first year of the plan 
+(Section 5). This establishes a starting point to measure the effectiveness and progress 
+of each of the actions. 
+When identifying the measures of success for each of the actions, the metrics should 
+where possible have quantifiable terms to enable data to be gathered to support a clear 
+monitoring and review process. Ideally, they should follow the SMART criteria: 
+Specific, Measurable, Achievable, Relevant and Time-bound.
+Where possible, metrics have been adopted from existing data 
+and systems such as the Australian Bureau of Statistics, census 
+data and existing reporting that could be obtained through 
+Council.  The metrics would need to be monitored and 
+reported to establish a baseline level with future years 
+measures of success and metrics to be identified. 
+Critical to regional-level monitoring of, and improvement 
+to, the Plan will be an on-going project control 
+group comprising of the four Councils with external 
+stakeholders as needed. This group would have the 
+role of initiating actions in line with the plan, reviewing 
+progress against the plan objectives.
+Monitoring
+Evaluation
+Learning
+R
+a
+t
+i
+o
+n
+a
+l
+e
+I
+m
+p
+a
+c
+t
+O
+u
+t
+p
+u
+t
+s
+O
+u
+t
+c
+o
+m
+e
+s
+Figure 16 FDF MEL Framework
+
+61
+60
+The Plan is a snapshot in time and requires regular update to ensure the overall actions 
+still align with the region’s requirements. A short progress review should be published 
+annually as part of the individual Councils Annual Report (as part of their Integrated 
+Planning and Reporting processes), highlighting any issues in implementation, and 
+reporting using the metrics described. A review and update of plan should be scheduled 
+every 4 years. This should include community consultation to ensure the needs, actions 
+and outcomes are still relevant and to ensure local ownership of the plan. The consortia 
+of Councils will continue to meet bi-annually to assess plan progress. This may include 
+inviting other stakeholders and delivery partners to provide progress updates. Aside 
+from this, the consortia of Councils would be involved in other implementation groups for 
+specific actions.
+Some of the key parameters assumed in the implementation of the plan include: 
+•	 Effective cooperation between delivery partners. 
+•	 Capacity of consortia of local Councils to lead and coordinate other stakeholders. 
+•	 Capacity and engagement of other stakeholders to lead and coordinate actions  
+where required.
+•	 Capacity of other stakeholders and the community to participate and actively engage 
+in implementation activities.
+•	 The ability to record and share plan outcomes.
+•	 The integration of the Plan with other local planning activities. 
+•	 Stakeholders’ willingness to share knowledge and work with each other. 
+•	 On-going funding to support implementation of plan actions.
+•	 The remit of delivery partners/stakeholders will not fundamentally change. 
+•	 Implementation targets past the short-term can be defined and agreed.
+•	 That the region is not moving directly into another drought and has some lead time to 
+commence plan activities.
+•	 Other agencies continue to deliver drought work that is being leveraged as a part of 
+this plan.
+Some of the longer-term factors that may impact plan outcomes include:
+•	 Ability to effect meaningful and longer-term behaviour change.
+•	 Legislative and regulatory change required to implement the actions.
+•	 Regular review and update of the plan.
+Monitoring progress and plan outcomes
+The following table contains a mix of plan-specific and FDF MEL Framework indicators. 
+Additional details regarding lead agency, partners and measures of success can be 
+found in Section 5. This table highlights the indicators/ metrics to be used in the  
+short-term. Further expansion of the metrics and indicators for medium to long-term 
+actions will need to be addressed in plan evaluations/ revisions.
+Table 4	
+Initial MEL framework
+Theme
+Outcome / priority
+High-level Indicator  
+/ Metric
+Timing
+Theme 1 
+Prosperous 
+agricultural 
+landscape and 
+water security
+Water
+(FDF) Sustainable 
+and improved 
+functioning of 
+agricultural 
+landscapes.
+(FDF) Partnerships 
+and engagement 
+is built between 
+stakeholders 
+managing natural 
+resources.
+Greater 
+understanding 
+of the impacts of 
+reduced water.
+Year 1: Completion of 
+consolidated existing 
+social and economic 
+studies including 
+consultation with 
+First Nations.
+Consultation with 
+external agencies to 
+confirm approach to 
+investigating water 
+bank completed.
+Short-term to 
+deliver Priority 
+action.
+Other actions to 
+be commenced in 
+the short-term but 
+would be ongoing 
+to deliver.
+Theme
+Outcome / priority
+High-level Indicator  
+/ Metric
+Timing
+Theme 1 
+Prosperous 
+agricultural 
+landscape and 
+water security
+Agriculture
+(FDF) Primary 
+producers and 
+businesses have 
+improved access to 
+new and existing 
+knowledge and 
+technology to 
+enable more 
+effective 
+responses to risks 
+such as drought.
+(FDF) Primary 
+producers’ 
+awareness of 
+new and existing 
+NRM practices 
+is increased, and 
+lessons from 
+experimentation 
+are shared.
+(FDF) Innovative 
+and profitable 
+agriculture sector.
+Year 1: Job brief 
+developed and 
+funding secured for 
+climate change co-
+ordinator position.
+Engaging a 
+service provider 
+can be short-term 
+but would be an 
+ongoing action.
+
+63
+62
+Theme
+Outcome / priority
+High-level Indicator  
+/ Metric
+Timing
+Theme 2 
+Connected 
+people, cultures 
+and improved 
+community 
+wellbeing
+Community that 
+remains socially 
+connected and 
+supported.
+(FDF) Stronger 
+connectedness 
+and greater social 
+capital within 
+communities, 
+contributing to 
+wellbeing and 
+security.
+(FDF) The 
+number of, and 
+participation in, 
+local networks 
+and programs 
+to enhance 
+drought resilience 
+increases.
+Year 1: Confirm lead 
+Council and Develop 
+Resilience Program 
+scope / brief.
+Short-term 
+to commence 
+developing 
+program 
+components and 
+fund those that are 
+‘shovel-ready’.
+Medium term 
+to develop and 
+expand the 
+program, build 
+partnerships and 
+implement delivery
+Theme 3 
+Diverse and 
+resilient local 
+businesses 
+and regional 
+economies
+(FDF) Agricultural 
+communities 
+are resourceful, 
+adaptable and 
+thriving. 
+Local produce and 
+businesses are 
+highlighted and 
+local community 
+has a strong voice 
+in future vision for 
+the region
+Year 1: Development 
+of stakeholder 
+engagement 
+approach / plan 
+and commence 
+consultation for the 
+Regional Economic 
+Diversification 
+Strategy.
+Short-term to 
+develop the 
+Regional Economic 
+Diversification 
+Strategy.
+Medium to long-
+term to implement 
+actions from the 
+plan and seek 
+additional funding.
+Theme
+Outcome / priority
+High-level Indicator  
+/ Metric
+Timing
+Theme 4  
+Built 
+infrastructure 
+and technology 
+improvements
+Adapting and 
+repurposing 
+infrastructure to 
+meet the needs 
+of the community, 
+driven by 
+community voice.
+(FDF) Improved 
+access to, and 
+greater utilisation 
+of community 
+infrastructure
+Year 1: Review 
+of existing 
+infrastructure (its 
+usage, potential 
+other uses) and new 
+infrastructure needs 
+identified. 
+Review of 
+maintenance and 
+improvement works 
+across the region 
+undertaken.
+Medium to Long-
+term.
+Theme 5 
+Good 
+governance, 
+knowledge 
+sharing and skills 
+development
+(FDF) Communities 
+better understand 
+their resilience to 
+drought.
+(FDF) Communities 
+implement 
+transformative 
+activities that 
+improve their 
+resilience to 
+drought.
+(FDF) Communities 
+build their local 
+leadership, 
+networks and 
+social support.
+Year 1: Research 
+partner for 
+community 
+engagement 
+identified.
+Report on number 
+of joint initiatives 
+progressed by the 
+consortia in the 
+calendar year.
+Short to  
+medium-term.
+CSIRO reviewed this initial plan. There were a number of suggestions for changes/ 
+updates for future plan revision. To ensure these are considered in the next revision, a 
+summary is listed below. 
+•	 Identify what drought resilience means in the regional context through greater 
+stakeholder engagement, and form more locally-relevant resilience principles for 
+drought planning.
+•	 Introduce the concepts of transition and transformation to ensure that resilience 
+thinking extends beyond the plan’s current primary focus on maintaining current 
+farming and rural systems.
+•	 Consider developing a stakeholder map of groups vulnerable to drought (for 
+example under-represented groups). This information could be used to better 
+target participants and ensure adequate supports are in place to involve different 
+community segments.
+•	 Provide more information about each collaboration and partnership, measures of 
+quality and identifying ways to enhance existing relationships and determine where 
+new relationships are potentially required.
+•	 Clearer articulation of a structured learning process across its various components 
+for adaptive governance of the plan’s implementation so that it is more responsive to 
+learning.
+•	 More nuanced interpretation and use of adaptive governance principles.
+•	 More explicitly draw on a greater diversity of plans and policies (from across 
+government, research sectors and local community organisations) to provide 
+perspectives on the region’s existing priorities in relation to future climate change 
+impacts and associated adaptation strategies.
+•	 Better characterise interrelationships between economic, social and environmental 
+factors, and explain how these relationships mediate cascading impacts of drought.
+•	 Conduct a baseline resilience assessment that covers economic, social, cultural and 
+environmental dimensions.
+•	 Develop a suite of plausible future scenarios through a participatory process with a 
+diverse range of stakeholders.
+•	 Prioritise, sequence and link proposed actions into alternative and complementary 
+pathways.
+•	 Assess the type and nature of change needed to the region’s sectors, farming 
+systems, non-farm businesses and value chains for building resilience to drought and 
+related stresses and shocks.
+•	 Expand the criteria used to assess how proposed actions are expected to contribute 
+to resilience-building goals.
+•	 Include a well-developed, evidence-based theory of change with explicit 
+assumptions, mechanisms and impact pathways by which the plan is intended to 
+bring about regional drought resilience.
+•	 Include an expanded set of MEL indicators, drawing on those suggested by the 
+Future Drought Fund’s MEL framework, that could be tracked with Australian Bureau 
+of Statistics (ABS) Census data (i.e. Socio-Economic Indexes for Areas (SEIFA) index 
+and population change). Other more specific economic, social and institutional or 
+governance indicators may also assist in monitoring changes resulting from drought 
+and the plan actions implemented, such as agricultural employment, employment 
+shares of other sectors, household incomes, and segment-specific measures for 
+youth, women and First Nations people.
+•	 Strengthen the interactions and linkages among its different components more 
+explicitly, and this could be done by developing cross-cutting components such as 
+active learning and governance, a theory of change and a MEL component.
+
+65
+64
+Conclusion
+This Plan was developed through a bottom-up approach 
+by the region which capitalises on earlier efforts made 
+by the community to improve its response to drought 
+and the community should be congratulated for taking 
+control and driving improvement. 
+This Plan has been designed with the Consortia of 
+Councils being the main leader of actions to ensure the 
+plan is actionable. The delivery of the plan will require 
+other agencies including state government, industry, not 
+for profit organisations and the community to be partners 
+in the delivery of the plan. 
+This Plan has identified a parcel of actions that can be 
+funded through the FDF Implementation Funding and 
+those that will require further investigation into alternate 
+funding options.  
+This Plan illustrates the key areas for the region at this 
+point in time. These areas are not static and will require 
+review and update continuously. 
+References
+ABS (Australian Bureau of Statistics). 2022. "Data by Region". ABS. https://dbr.abs.gov.au/
+ABS (Australian Bureau of Statistics). 2022a. "Agricultural commodities produced, Australia, 2021-2022". ABS. 
+https://www.abs.gov.au/statistics/industry/agriculture/agricultural-commodities-australia/latest-release
+ABS (Australian Bureau of Statistics). 2022b. "Value of agricultural commodities, Australia, 2021-2022". ABS. 
+https://www.abs.gov.au/statistics/industry/agriculture/value-agricultural-commodities-produced-australia/
+latest-release
+ABS (Australian Bureau of Statistics). 2022c. "Water use on Australian farms, 2021-2022". ABS. https://www.abs.
+gov.au/statistics/industry/agriculture/water-use-australian-farms/latest-release
+ABS (Australian Bureau of Statistics). 2023. "Socio-Economic Indexes for Areas (SEIFA), Australia". ABS. https://
+www.abs.gov.au/statistics/people/people-and-communities/socio-economic-indexes-areas-seifa-australia/
+latest-release
+Bene, C., Wood, R. G., Newsham, A., Davies, M. 2012. “Resilience: New utopia or new tyranny? Reflection about 
+the potentials and limits of the concept of resilience in relation to vulnerability reduction programs.” IDS Working 
+Papers, 2012: 1-61. https://onlinelibrary.wiley.com/doi/10.1111/j.2040-0209.2012.00405.x
+Bene et al. 2012. “Resilience: New utopia or new tyranny? Reflection about the potentials and limits of the 
+concept of resilience in relation to vulnerability reduction programs.” IDS Working Papers, 2012: 1-61. https://
+onlinelibrary.wiley.com/doi/10.1111/j.2040-0209.2012.00405.x
+Berrigan Shire. 2023. “Finley Saleyards Media Release”. NSW Government. https://www.berriganshire.nsw.gov.au/
+News-and-Media/Finley-Saleyards-Update
+Berrigan Shire. 2024. “Tocumwal Aerodrome”. NSW Government. https://www.berriganshire.nsw.gov.au/Our-
+Services/Airfields/Tocumwal-Aerodrome 
+BOM (Bureau of Meteorology). 2019. Regional Weather and Climate Guide: Murray. http://www.bom.gov.au/
+climate/climate-guides/guides/07-Murray-NSW-Climate-Guide.pdf
+BoM (Bureau of Meteorology). 2022. "Climate statistics for Australian locations". http://www.bom.gov.au/climate/
+averages/tables/cw_074106.shtml
+au/climate/maps/averages/climate-classification/
+BoM (Bureau of Meteorology). n.d. "Previous droughts". http://www.bom.gov.au/climate/drought/knowledge-
+centre/previous-droughts.shtml
+state-of-the-climate/State-of-the-Climate-2018.pdf
+City of Sydney. 2018. Resilient Sydney: A strategy for city resilience 2018. https://www.cityofsydney.nsw.gov.au/
+governance-decision-making/resilient-sydney
+CSIRO. 2021. Saltbush forage improvement (Anameka): Impact Case Study. Australia’s National Science 
+Agency. https://static1.squarespace.com/static/649bb4c61d3afa5d103df89a/t/64d99c3333741858ec7
+ae23a/1691982902592/CSIROOldman-Saltbush-Anameka-Impact-Case-Study-2021-FINALEXTERNAL-
+version+%285%29.pdf
+CSIRO and BoM. 2023. "My Climate View". https://myclimateview.com.au/about
+https://www.agriculture.gov.au/agriculture-land/farm-food-drought/drought/future-drought-fund?utm_
+campaign=website&utm_medium=email&utm_source=ehq_newsletter#drought-resilience-funding-plan
+documents/mel-framework.pdf
+DPIE (Department of Planning, Industry and Environment). 2021. "Resilience outcomes for the planning system". 
+NSW Government. https://www.planning.nsw.gov.au/sites/default/files/2023-03/resilience-outcomes-for-the-
+planning-system.pdf
+DPIE (Department of Planning, Industry and Environment). 2021. Riverina Murray regional plan 2041. NSW 
+Government. https://www.planning.nsw.gov.au/sites/default/files/2023-03/riverina-murray-regional-plan-2041.
+pdf
+DPI (Department of Primary Industries). 2023. "Combined drought indicator". NSW Government. https://edis.dpi.
+nsw.gov.au/about
+DPI (Department of Primary Industries). 2018. “Riverina Murray Region: Agricultural profile”. NSW Government. 
+https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0009/843363/Draft-ial-mapping-riverina-murray-agricultural-
+profile.pdf
+DRNSW (Department of Regional New South Wales). 2022. Future Ready Regions 2023 Update. Online: NSW 
+Government. https://www.nsw.gov.au/sites/default/files/2023-02/Future-Ready-Regions-Update-2023.pdf
+DUM (Deniliquin Ute Muster). n.d. “About Us”. NSW Government. https://www.deniutemuster.com.au/about-us/
+Edward River Council. 2024a. “Deniliquin Saleyards”. NSW Government. https://www.edwardriver.nsw.gov.au/
+Services/Infrastructure-and-Transport/Deniliquin-Saleyards
+Edward River Council. 2024b. “Advocacy Plan 2024-2025”. NSW Government. https://www.edwardriver.nsw.gov.
+au/Council/News-and-Media/Media-Releases/EDWARD-RIVER-COUNCIL-UNVEILS-ADVOCACY-PLAN-2024-25  
+Federation Council. 2024. “Economic Profile”. NSW Government. https://www.federationcouncil.nsw.gov.au/
+Business-Investment/Economic-Profile 
+Federation Council. 2022. “Corowa Aerodrome Upgrades planned”. NSW Government. https://www.
+federationcouncil.nsw.gov.au/News-Media/Corowa-Aerodrome-Upgrades-planned 
+Federation Council. 2020. “Corowa Saleyards upgrade to occur”. NSW Government. https://www.
+federationcouncil.nsw.gov.au/News-Media/Corowa-Saleyards-upgrade-to-occur 
+Folke, C., Carpenter, S.R., Walker, B., Scheffer, M., Chapin, T., Rockström, J. 2010. "Resilience Thinking: 
+integrating resilience, adaptability and transformability". Ecology and Society. 15(4): 20. https://www.jstor.org/
+stable/26268226
+Haider, L.J. and Cleaver, F. 2023. “Capacities for resilience: persisting, adapting and transforming through 
+bricolage.” Ecosystems and People, 19(1): 15. https://doi.org/10.1080/26395916.2023.2240434
+Hayman. 2020. Impact of climate change on southern farming systems. GRDC (Grains Research & Development 
+Corporation). https://grdc.com.au/resources-and-publications/grdc-update-papers/tab-content/grdc-update-
+papers/2020/02/impact-of-climate-change-on-southern-farming-systems
+Hearn. 2021. “Aboriginal groups working to improve the health of their country”. Local Land Services. https://
+www.lls.nsw.gov.au/regions/murray/articles,-plans-and-publications/nrm-news-august-2021/aboriginal-groups-
+working-to-improve-the-health-of-their-country#:~:text=This%20transfer%20of%20the%20Werai,condition%20
+of%20the%20Ramsar%20site.
+
+April 2024
+66
+Kirono, D.G.C., Round, V., Heady, C., Chiew, F.H.S, Osbrough, S. 2020. "Drought projections for Australia: Updated 
+results and analysis of model simulations". Weather and climate extremes. 30. https://www.sciencedirect.com/
+science/article/pii/S2212094720300645
+Maru Y.T., Sparrow, A., Butler, J.R.A., Banerjee, O., Ison, R., Hall, A., Carberry, P.. 2018. "Towards appropriate 
+mainstreaming of "Theory of Change" approaches into agricultural research for development: Challenges and 
+Opportunities". Agricultural Systems 165: pp.344-353. https://www.sciencedirect.com/science/article/abs/pii/
+S0308521X17310053
+Murray Irrigation. 2023. “Murray Irrigation: Our history”. https://www.murrayirrigation.com.au/our-history
+Murray Valley Adaptive Road Map:  https://drive.google.com/file/d/1Q1Hm0vYRbpBX_x2QmvwUaxi8Ba9UEUiJ/
+view
+Nelson, Donald, R. 2011. “Adaptation and Resilience: responding to a changing climate.” NSW Department of 
+Planning and Environment. 2023. Riverina Murray regional plan 2041. NSW Government. https://www.planning.
+nsw.gov.au/sites/default/files/2023-03/riverina-murray-regional-plan-2041.pdf
+NSW Government. 2018. A 20-year economic vision for regional NSW. https://static1.squarespace.com/
+static/59ae4a2a6f4ca38d47990cd8/t/5d63391c30af730001d228a3/1566783815503/20-Year-Vision-for-RNSW-
+accessible.pdf
+Office of Environment and Heritage (OEH). 2017. Western enabling regional adaptation. https://www.
+climatechange.environment.nsw.gov.au/sites/default/files/2021-06/Far%20West%20Enabling%20Regional%20
+Adaptation%20Report.pdf
+RAMJO (Riverina and Murray Joint Organization). 2020. Water Position Paper. https://www.ramjo.nsw.gov.au/wp-
+content/uploads/Riverina-And-Murray-Joint-Organisation-Water-Position-Paper.pdf
+RAMJO (Riverina and Murray Joint Organization). 2022. Statement of strategic regional priorities. https://www.
+ramjo.nsw.gov.au/wp-content/uploads/2022-RAMJO-STATEMENT-OF-STRATEGIC-REGIONAL-PRIORITIES-WEB.
+pdf
+Reisinger, A., Howden, M., Vera, C., Garschagen, M., Hurlbert, M., Kreibiehl, S., Mach, K.J., Mintenbeck, K., O’Neill, 
+B., Pathak, M., Pedace, R., Portner, H., Poloczanska, E., Corradi, M.R., Sillmann, J., van Aalst, M., Viner, D., Jones, 
+R., Ruane, A.C., Ranasinghe, R. 2020. "The Concept of Risk in the IPCC Sixth Assessment Report: A Summary of 
+Cross-Working Group Discussions". Intergovernmental Panel on Climate Change, Geneva, Switzerland. pp15. Risk-
+guidance-FINAL_15Feb2021.pdf (ipcc.ch)
+System Capacity Limitations: https://drive.google.com/file/d/11p5jNZOLgCmeQ1_82_I5ETH9xuP7MA1H/view
+VEWH. 2022. “Barmah Forest”. https://www.vewh.vic.gov.au/rivers-and-wetlands/northern-region/barmah-forest
+Walker, B., Holling, C.S., Carpenter, S.R., Kinzig, A.P. 2004. "Resilience, adaptability and transformability in social-
+ecological systems". Ecology and Society, 9 (5). https://www.researchgate.net/publication/42764046_Resilience_
+Adaptability_and_Transformability_in_Social-Ecological_Systems
+Waywurru Women's Collective. 2023. "The Waywurru: Pallangan-middang and Tare-re-middang women sharing 
+language, culture and history". Waywurru. https://culture.yarkuwa.org.au/home
+Wise, R.M., Fazey, I., Smith, M.S., Park, S.E., Eakin, H.C., Van Garderen, E.R.M.A., Campbell, B. 2014. 
+"Reconceptualizing adaptation to climate change as part of pathways of change and response". Global 
+environmental change. 28. pp. 325-336. https://research.fit.edu/media/site-specific/researchfitedu/coast-
+climate-adaptation-library/australia-amp-new-zealand/australia-national/Wise-et-al.--2014.--Reconceptualising-
+Adaptation-to-CC.pdf
+WMLIG (Western Murray Land Improvement Group). n.d. “Industrial Hemp Project” http://www.westernmurraylig.
+org/industrial-hemp.html
+Yarkuwa. n.d. "About Us". Yarkuwa Indigenous Knowledge Centre. https://culture.yarkuwa.org.au/home
+Yorta Yorta Nation Aboriginal Corporation. 2022. "Yorta Yorta Country". https://yynac.com.au/
+Produced by GHD
+Regional Drought Resilience Planning 
+The Regional Drought Resilience Planning Program is being delivered with joint funding from 
+The Regional Drought Resilience Planning Program provides support to identified Local 
+Government Areas in NSW to develop drought resilience plans that can be implemented by 
+councils and their communities.

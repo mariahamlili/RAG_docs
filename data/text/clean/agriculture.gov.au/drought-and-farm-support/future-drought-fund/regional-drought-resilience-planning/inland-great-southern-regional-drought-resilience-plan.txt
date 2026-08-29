@@ -1,0 +1,3376 @@
+Inland Great Southern
+Drought Resilience Plan
+Great Southern 
+Development Commission
+
+Contact Details:
+Great Southern Development Commission
+Pyrmont House
+110 Serpentine Road
+ALBANY WA 6330
+Telephone: (08) 9842 4888
+Email: gsdc@gsdc.wa.gov.au
+Website:	 www.gsdc.wa.gov.au
+
+10 Dore Street
+KATANNING WA 6317
+Telephone:(08) 9821 3211
+Email: katanning@gsdc.wa.gov.au
+be reproduced by any process without written permission from the Great Southern Development Commission. 
+Requests and enquiries concerning reproduction and rights should be addressed to the Chief Executive Officer, 
+Great Southern Development Commission, PO Box 280, Albany WA 6331.
+This report is available in alternative formats on request. We encourage readers to access the report online 
+through our website and to use recycled paper if they print a copy.
+
+TABLE OF 
+CONTENTS
+Acknowledgement of Country	
+4
+Acknowledgements 	
+5
+5
+Foreword	
+6
+Executive Summary	
+7
+01 Introduction	
+8
+02 Vision, Goals and Outcomes	
+12
+2.1 Developing Our Vision	
+13
+2.2 Goals and Outcomes	
+14
+2.3 Definitions	
+15
+03 Stakeholder Engagement and 
+Partnerships	
+16
+04 The Evidence Base	
+20
+4.1 Drought Vulnerability Assessment 	
+21
+4.2 Technical Expertise	
+24
+4.3 Plan Alignment	
+25
+05 The Inland Great Southern Region - 
+System Description	
+26
+06 An Assessment of the Inland Great 
+Southern’s Resilience	
+30
+6.1 Mapping Drought Vulnerability 	
+31
+6.2 Drought Vulnerability Index 	
+37
+6.3 Impacts of Drought on the inland 
+Great Southern 	
+40
+07 Building on Existing Resilience	
+44
+Theme 1: Resilient Water 	
+46
+Theme 2: Resilient Communities	
+47
+Theme 3: Resilient Agriculture	
+47
+Theme 4: Resilient Landscapes	
+48
+Theme 5: Resilient Regional Economy 	
+48
+08 Opportunities Moving Forward	
+50
+Theme 1: Resilient Water	
+51
+Theme 2: Resilient Communities	
+52
+Theme 3: Resilient Agriculture	
+52
+Theme 4: Resilient Landscapes	
+53
+Theme 5: Resilient Regional Economy	
+53
+09 The Plan	
+54
+9.1 Resilient Water	
+55
+9.2 Resilient Communities	
+57
+9.3  Resilient Agriculture	
+59
+9.4   Resilient Landscapes	
+61
+9.5    Resilient Regional Economy	
+63
+10 Plan Implementation and Enduring 
+Governance	
+64
+11 Investment Framework	
+65
+12 Monitoring and Evaluation	
+66
+12.1 Context	
+66
+12.2 Inland Great Southern Regional 
+Drought Resilience Plan Monitoring 
+and Evaluation Framework	
+67
+12.3 Reporting and Responsibility	
+67
+13 Appendix 1: Inland Great Southern 
+Policy, Strategy and Plan Alignment	
+70
+
+Acknowledgement 
+of Country
+We acknowledge the Noongar people, the traditional 
+custodians in the Great Southern, and their continuing 
+connection to the region’s land, waters and community. 
+We pay our respects to all members of Noongar 
+communities, and to elders past, present and emerging.
+Indigenous filmmaker Karla Hart (centre) and elders Averil Dean and Annette Eades lead 
+Noongar dancers during the CinefestOZ Albany event Kinjarling Koort.
+4          Great Southern Development Commission
+
+Welcome to the Inland Great Southern Drought Resilience Plan (DRP). This plan is jointly funded through the 
+of Primary Industries and Regional Development (DPIRD). The Inland Great Southern DRP is a locally led project 
+that champions drought resilience and preparedness for dry seasons in the region. It has been developed in 
+collaboration with the Shires of Jerramungup, Kent, Gnowangerup, Katanning, Kojonup, Cranbrook, Woodanilling 
+and Broomehill-Tambellup. 
+Acknowledgements 
+We would like to thank the nearly 330 people representing 150 different organisations and businesses in the region 
+who contributed to the development of this plan through participation in interviews, meetings and workshops. 
+The in-kind contribution of the Climate Science and Geographic Information Systems teams at DPIRD, and the 
+work of the consultants who undertook literature reviews and data syntheses on our behalf were integral in the 
+development of this document. We thank the Steering Committee and Technical Working Group that contributed to 
+the review and refinement of elements of this plan. We also acknowledge the partner agencies, organisations and 
+stakeholders who have supported and contributed to this plan including: 
+•	
+The Wheatbelt, Mid-West and Great Southern Development Commissions
+•	
+South-West WA Drought Resilience Adoption and Innovation Hub
+•	
+Shires of Kojonup, Jerramungup, Gnowangerup, Katanning, Kent,  Cranbrook, Woodanilling 
+and Broomehill-Tambellup 
+•	
+Southcoast Natural Resource Management 
+•	
+State Agencies
+•	
+Grower Groups
+•	
+Local community groups and business networks
+•	
+Indigenous groups
+•	
+Research organisations
+•	
+Consultants/technical experts
+This document has been prepared using best available information and expert analyses to provide an evidence base 
+for the Inland Great Southern DRP.  All information is provided to the best of our ability, and within the limits of our 
+knowledge and resources. It is anticipated that elements of this inaugural Drought Resilience Plan will require review 
+and updating, as new information and research become available. 
+The interventions identified in this Plan are conceptual and not endorsed by the State. The implementation of these 
+resilience building interventions and the proposed actions is subject to further development, feasibility studies and 
+endorsement with consortia stakeholders and lead delivery agencies.
+The Chief Executive Officer of the Department of Primary Industries and Regional Development, and the State 
+of Western Australia accept no liability whatsoever by reason of negligence or otherwise, arising from the use or 
+release of this information or any part of it. 
+Version: 1.0 
+An electronic copy of this plan may be obtained at gsdc@gsdc.wa.gov.au or www.gsdc.wa.gov.au
+Photos: Great Southern Development Commission, Marion Leonhardt, Shire of Gnowangerup.
+Inland Great Southern Drought Resilience Plan 2022              5
+
+Foreword
+The Great Southern region of Western Australia is well 
+known for its unique environment, strong communities, 
+and farmland. Agriculture is a significant segment of 
+our economy, with both livestock and a diverse variety 
+of cropping featuring across the region. 
+The impacts of extended dry seasons and drought 
+stretch far beyond the agricultural sector, bringing 
+uncertainty and strain to our local communities and the 
+broader economy. However, there are opportunities 
+for diversification of our regional economy to reduce 
+the dependence upon agriculture, and increase value- 
+adding options and new industries across the Great 
+Southern region. 
+For this reason that the Great Southern is heavily 
+invested in better understanding climate variability 
+and dry seasons in our local region, and how we can 
+support our regional economy. This will allow us to 
+strengthen our preparedness for future dry season 
+events to better withstand the risks of drought and an 
+increasingly changing climate.
+The Great Southern is fortunate to participate in the 
+pilot of the Regional Drought Resilience Planning 
+process which draws on understanding local impacts 
+and opportunities, while also creating pathways to 
+share and learn from other regions.
+This three-stage process brings together a Drought 
+Vulnerability Assessment, Regional Drought Resilience 
+Plan and Investment Framework specific for our region. 
+The combination of both technical and scientific 
+evaluation, along with extensive local insights, provide 
+a comprehensive picture of the impacts of climate 
+variability and practical future actions to encourage 
+investment in long term risk mitigation and 
+resilience activities.
+This community-led plan will ultimately place the 
+Great Southern in a position to adapt, recognise 
+opportunities, and implement mitigation activities with 
+the benefit of both local knowledge and learnings from 
+further afield. 
+I would like to acknowledge and thank everyone who 
+took part in the Regional Drought Resilience Planning 
+process. This input, paired with a strong evidence 
+base, will be invaluable when considering new options 
+for better managing dry seasons and reduced growing 
+season rainfall in the inland Great Southern.  
+We are fortunate to live and work in such a beautiful 
+part of the world, with a strong sense of community. 
+Our Drought Resilience Plan is yet another tool that will 
+help to support our communities to thrive. 
+Natasha Monks
+Chief Executive Officer
+Stirlings - Tourism Western Australia
+6          Great Southern Development Commission
+
+Executive Summary
+1	 Mastrantonis, S. (2022). Defining Drought in Western Australia. Centre for Crop and Disease management, School of Molecular 
+and Life Science, Curtin University, Bentley, WA.
+The inland Great Southern is one of three regions 
+developing Regional Drought Resilience Plans (RDRPs) 
+in Western Australia. The Great Southern Development 
+Commission (GSDC) partnered with the Department of 
+Primary Industries and Regional Development (DPIRD) 
+to support the delivery of the plan across the Shires of 
+Jerramungup, Kent, Gnowangerup, Katanning, Kojonup, 
+Cranbrook, Woodanilling and Broomehill-Tambellup. 
+Collaborative stakeholder consultation facilitated 
+the contribution of over 330 people, from 150 
+organisations. The Drought Vulnerability Assessment 
+(DVA) informs the Inland Great Southern DRP and 
+should be read in conjunction with the plan. 
+The intensity and duration of hot spells is projected to 
+increase across WA, with wet years likely to become 
+less frequent, and dry years likely to become more 
+common. Analyses of rainfall and temperature data 
+highlight a potentially concerning trend, with the 
+composite hazard of hot drought beginning to occur 
+in recent years.1  Appropriate steps must be taken 
+to anticipate and mitigate the potentially devastating 
+effects of hot droughts and a changing climate. 
+The region has demonstrated good capacity to 
+adapt to drying seasons and is in a strong position 
+of resilience due to consistent rainfall and increased 
+technology. However, there is a continual need to 
+adapt, innovate and potentially transform to enable this 
+success to be maintained or built upon. 
+The Inland Great Southern DRP identified five 
+key drought resilience themes, with a number of 
+interventions and specific actions identified.  
+These key themes include:
+Resilient Water
+Resilient Communities 
+Resilient Agriculture 
+Resilient Landscapes 
+Resilient Regional Economy 
+Inland Great Southern stakeholders identified 
+gaps in past dry season responses that could be 
+addressed through future resilience building activities. 
+Opportunities to enhance resilience include: 
+•	
+well-informed farm business planning
+•	
+earlier identification of dry season impacts 
+•	
+interventions to support community groups and 
+local government
+•	
+continued investment for research and 
+development into farming practices to maximise 
+preparedness for reduced rainfall in the growing 
+season
+The Inland Great Southern DRP has strong alignment 
+with the Great Southern Development Commission’s 
+strategic priorities of a Strong and Diverse Economy, 
+Regional Livability and Strong Communities. The 
+Plan also aligns with the Strategic Community Plans 
+of the Shires of Broomehill-Tambellup, Cranbrook, 
+Gnowangerup, Jerramungup, Katanning, Kent, Kojonup 
+and Woodanilling. 
+This Plan is intended to be a living document, guiding 
+state, federal and local government, community, and 
+industry action on drought resilience.  Implementation 
+of the plan is subject to further discussion with project 
+partners and local government stakeholders. This 
+will also include identification of high impact and high 
+feasibility interventions that can be further developed 
+into investable projects.  
+               7
+
+01 Introduction
+Inland Great Southern Drought Resilience Vision
+To build a resilient region that can withstand the impacts of 
+dry seasons and climate variability by creating a sustainable 
+environment, self-reliant communities, and a diverse 
+regional economy.
+Lake Ewlyamartup 
+8          Great Southern Development Commission
+
+Australia is a country with a history of drought. In the Great Southern region, there has been a recurring theme of 
+drier seasons over the last decade, adversely affecting the agricultural sector and agriculturally dependent rural 
+and regional communities. These impacts will become more frequent and severe with climate change.  Proactive 
+regional drought resilience planning is imperative to developing locally applicable solutions and responses. 
+initiatives, including development of RDRPs across States and Territories. These RDRPs focus on innovative ways 
+to build regional drought resilience across the agricultural sector and supporting industries, through a triple bottom 
+line, collaborative and evidence-based approach.  
+In the inaugural year of the program in WA, RDRPs have been completed for three regional consortia areas, 
+identified due to their reliance on agriculture, and their experiences of recent exposure to prolonged dry conditions 
+(figure 1).  The consortia include:
+•	
+Southern Wheatbelt - Wheatbelt Development Commission and five LGAs (Dumbleyung, Kulin, Kondinin, Lake 
+Grace and Wagin)
+•	
+Inland Great Southern - Great Southern Development Commission and eight LGAs (Jerramungup, Kent, 
+Gnowangerup, Katanning, Kojonup, Cranbrook, Woodanilling and Broomehill-Tambellup)
+•	
+Northern Agricultural - Mid-West Development Commission, Northern Agricultural Catchments Council and 
+three LGAs (Greater-Geraldton, Northampton and Chapman Valley)
+Figure 1: Pilot Consortia Areas of WA for 
+Regional Drought Resilience Planning
+Gascoyne
+LAKE GRACE
+WAGIN
+JERRAMUNGUP
+KONDININ
+KATANNING
+Regional Development Commission boundary
+Participating Shire
+Partner Development Commission
+GOLDFIELDS-
+ESPERANCE
+WHEATBELT
+GREAT
+SOUTHERN
+SOUTH WEST
+PEEL
+MID WEST
+KALGOORLIE
+MEEKATHARRA
+GERALDTON
+ALBANY
+PERTH
+BUNBURY
+ESPERANCE
+WESTERN AUSTRALIA
+REGIONAL DROUGHT
+RESILIENCE PLANNING
+NORTHAMPTON
+Inland Great Southern Drought Resilience Plan 2022              9
+
+Figure 2: Regional Drought Resilience Program Framework   
+To inform the planning process for the Inland Great Southern DRP, input was sought from a range of stakeholders. 
+The following figure presents an overview of the Regional Drought Resilience Program, with a description of each of 
+the four stages undertaken as part of our approach. 
+Regional Drought Resilience Program
+The project allocated funds to DPIRD and the Wheatbelt, Great Southern,  and Mid West Development Commissions 
+to support the development of Regional Drought Resilience Plans for three sub-regions across Western Australia
+ A DROUGHT RESILIENT REGION
+STAGE 1 - GOVERNANCE
+The RDRP has strong alignment to the Strategic Plans of the three Regional Development Commissions, and the 
+participating Local Governments. The Plans will be developed in partnership with DPIRD, Local Governments, 
+Regional Development Commissions, community and industry. The program will be overseen 
+by a Steering Committee, Project Advisory Groups (PAG) and technical experts.
+Steering Committee
+Project Team
+Project Advisory Group
+Technical Advisory Group
+STAGE 2 - DROUGHT VULNERABILITY ASSESSMENT
+The development of the drought vulnerability assessment is a vital informing piece of work for the Plans. 
+This will ensure a science-based approach, incorporation economic, social and environmental resilience factors.
+Demographic 
+analysis and 
+literature review
+Climate risk and 
+spatial analysis
+Economic 
+impacts analysis
+Environmental 
+impacts analysis
+Social impacts 
+analysis
+Indicators of 
+drought
+STAGE 3 - DROUGHT RESILIENCE PLAN DEVELOPMENT
+Engagement of the community by the Project Teams to identify projects. This will be completed with the support 
+of contracted Project Officers and Regional NRM Organisations. The Plan will be reviewed by the Project Advisory 
+Group.
+First Nations projects
+Agriculture and 
+related supply chain 
+projects
+Local government 
+service deliver 
+projects
+Transformational 
+projects
+Business and 
+community sector 
+projects
+STAGE 4 - INVESTMENT FRAMEWORK DEVELOPMENT
+A framework of investment ready Drought Resilience Actions will be developed, allowing targeting of
+ public and private investment
+Includes potentially 
+shovel-ready business 
+cases
+RDRP funding per region 
+to implement plan* 
+PLANNING WITH COMMUNITY AND PAG
+VALIDATION WITH PAG
+CO-DESIGNED COLLABORATIVE AND 
+REGIONALLY SPECIFIC
+*subject to negotiation with 
+the Federal government 
+10          Great Southern Development Commission
+
+Jake Wilton Photo
+Inland Great Southern Drought Resilience Plan 2022              11
+
+02 Vision, Goals 
+and Outcomes
+12          Great Southern Development Commission
+
+2.1 Developing Our Vision
+The purpose of the Inland Great Southern DRP is to identify actions to prepare for increased climate variability, 
+reduced growing season rainfall, and an increased number of drought events. This plan will inform future 
+investments and assist in securing future funding for communities, the agricultural sector and regional businesses 
+to help increase drought resilience in our region.  
+Our drought resilience vision for the inland Great Southern is based on a grass roots assessment of what can 
+realistically be achieved at a community, government and industry level to ensure the region is prepared for more 
+frequent and severe droughts in the future. By creating a shared vision and agreed goals and outcomes, we have 
+set a common direction and aspirational view of our region’s future from a drought resilience perspective. 
+Our vision has been guided and informed by widespread stakeholder input which points to a self-reliant agricultural 
+community, capable of withstanding the challenges of dry seasons through shared responsibility and an integrated 
+approach to drought management and preparedness.  As such, our resilience vision for the region is ‘to build 
+a resilient region that can withstand the impacts of dry seasons and climate variability, by creating a sustainable 
+environment, self-reliant communities, and a diverse regional economy.’
+Notably, the vision, priorities and outcomes of the Future Drought Fund have provided the background and context 
+for the development of the inland Great Southern drought resilience vision.
+Our Noongar youth artistically 
+represented Country with trees and 
+landscapes, highlighted the importance 
+of trees to address global challenges.  
+(Report on Aboriginal Community Consultations, 2022)
+“
+“
+Inland Great Southern Drought Resilience Plan 2022              13
+
+2.2 Goals and Outcomes
+Through discussions with regional stakeholders, five key themes emerged, each with its own long-term desired 
+outcome. These provide the roadmap needed to achieve our overall drought resilience vision and are outlined in the 
+following figure. 
+Figure 3: Inland Great Southern’s drought resilient themes and desired outcomes
+The specific priorities and actions associated with each of these themes and outcomes are provided in greater 
+detail in The Plan section of this document. The interventions detailed will guide investment to build drought 
+resilience, with actions implemented in partnership between communities, regional organisations, local government 
+and industry. 
+RESILIENT 
+WATER
+Outcome: A water 
+system that can 
+sustain industry, 
+agriculture and the 
+community for two 
+consecutive low 
+rainfall years
+What a 
+drought 
+resilient 
+region
+looks like
+RESILIENT COMMUNITIES 
+Outcome: Communities that are 
+resourceful, adaptable and 
+supported to mentally and physically 
+bounce back from drought
+RESILIENT 
+LANDSCAPES
+Outcome: Healthy landscapes 
+with natural resources able 
+to sustain industry and 
+environmental services
+RESILIENT 
+REGIONAL ECONOMY 
+Outcome: A diverse, forward 
+looking, adaptable business     
+sector, not wholly 
+     dependant on seasonal     
+conditions
+RESILIENT 
+AGRICULTURE
+Outcome: An 
+agriculture 
+sector that is 
+highly engaged in 
+innovating farming 
+systems to be 
+resilient to drought
+THEME
+THEME
+THEME
+THEME
+THEME
+14          Great Southern Development Commission
+
+From a government and funding perspective, the following figure illustrates how our five drought resilience themes 
+resonate with the objectives of the Drought Resilience Funding Plan. 
+Stakeholder themes and future drought fund alignment
+
+Figure 4: Inland Great Southern drought resilient themes
+2.3 Definitions
+The need for a regionally appropriate definition of “drought” was raised several times during stakeholder 
+engagement for this Plan.  Community groups defined drought as ‘consecutive dry seasons where there is 
+inadequate growing season rainfall over two or more seasons.’ Indicators that they are in a drought were the lack of 
+opening rains to commence their seeding operations, reduced growing season rainfall, less rainfall events that result 
+in reduced run-off, and reduced spring rainfall. The Drought Vulnerability Assessment highlights the need for a more 
+appropriate set of drought criteria for Western Australia. 
+The Technical Working Group further expanded the need for drought definitions to include social, environmental 
+and economic impacts. The Technical Working Group (TWG) defined drought for the RDRP project as follows:2
+“The term drought refers to a prolonged period of abnormally dry 
+conditions that impact negatively on water availability and agricultural 
+production in a region and, consequently, impacts negatively on the 
+economy and environment of the region and the health and well-being 
+of its residents”.
+An assessment of meteorological definitions of drought indicated that a definition based on growing season rainfall 
+(between April to October) is considered more appropriate for the inland Great Southern than a definition based on 
+total annual rainfall. 
+Growing season rainfall better represents agricultural drought in the region, where dryland cropping in autumn and 
+winter is the primary land use.3 Livestock also require water for runoff into dams, generally events greater than 
+25mm.  In some years there is sufficient rainfall for cropping but not enough on-farm water for livestock. A more 
+in-depth analysis of terms and definitions can be found in the Inland Great Southern Drought Vulnerability 
+Assessment and supporting analysis undertaken by Curtin University. 
+2	 Mastrantonis, s. (2022). Defining Drought in Western Australia. Centre for Crop and Disease management, School of Molecular 
+and Life Science, Curtin University, Bentley, WA.
+3	 Mastrantonis, Stanley. (2022). Defining Drought in Western Australia. Centre for Crop and Disease Management, School of 
+Molecular and Life Science, Curtin University, Bentley, WA.
+THEME 1
+RESILIENT 
+WATER
+RESILIENT 
+COMMUNITY
+RESILIENT 
+AGRICULTURE
+RESILIENT 
+LANDSCAPES
+RESILIENT 
+REGIONAL 
+ECONOMY
+THEME 2
+THEME 3
+THEME 4
+THEME 5
+FDF OBJECTIVE
+Grow the self-
+reliance and 
+performance of the 
+agriculture sector
+FDF OBJECTIVE
+Strengthen the 
+wellbeing and social 
+capital of rural, 
+regional and remote 
+communities 
+FDF OBJECTIVE
+Grow the self-
+reliance and 
+performance 
+(productivity and 
+profitability) or the 
+agriculture sector
+FDF OBJECTIVE
+Improve the natural 
+capital of agricultural 
+landscapes for 
+better  environmental 
+outcomes
+FDF OBJECTIVE
+Grow the self-
+reliance and 
+performance 
+(productivity and 
+profitability) or the 
+agriculture sector
+Inland Great Southern Drought Resilience Plan 2022              15
+
+03 Stakeholder 
+Engagement and 
+Partnerships
+Pingrup silos - Shire of Kent
+16          Great Southern Development Commission
+
+Through the regional stakeholder engagement process, project partners worked collaboratively to:
+•	
+demonstrate the State’s commitment to supporting farm businesses and communities to become more 
+prepared for, and resilient to, the impacts of drought 
+•	
+identify the appropriate target audiences in each region, share program benefits and promote the importance 
+of becoming drought-resilient and drought-prepared
+•	
+engage local stakeholders in each region, undertaking communication activities that promote the importance 
+of regional-scale planning, building commitment to the process and strengthening partnerships between 
+relevant stakeholders
+•	
+maximise participation and engagement in regional planning processes
+Strong partnerships were key in the successful delivery of the program. The following figure outlines the 
+governance framework that supported the achievement of our engagement goals. 
+Figure 5: Governance framework for the WA Regional Drought Resilience Planning Program 
+STEERING COMMITTEE
+(DPIRD, 3 x RDCs, SW WA 
+Hub, LGA Rep for each RDC)
+PROGRAM: Future Drought Fund
+TECHNICAL WORKING 
+GROUP
+(DPIRD, DWER, CSIRO, Water 
+Corporation, GIS expert, other 
+experts as required, RDC 
+representatives)
+Legend:
+Reporting	
+       Flow of funds	            Ongoing working relationship
+EXECUTING ENTITY: Department of Primary Industries 
+and Regional Development
+MID WEST 
+DEVELOPMENT 
+COMMISSION
+Local Project Advisory 
+Group and Implementation 
+Consortium
+(local DPIRD and DWER 
+officials, LGAs, tertiary 
+institutions, other State 
+agencies, industry, 
+consultants and 
+contractors)
+GREAT SOUTHERN 
+DEVELOPMENT 
+COMMISSION
+Local Project Advisory 
+Group and Implementation 
+Consortium
+(local DPIRD and DWER 
+officials, LGAs, tertiary 
+institutions, other State 
+agencies, industry, 
+consultants and 
+contractors)
+WHEATBELT 
+DEVELOPMENT 
+COMMISSION
+Local Project Advisory 
+Group and Implementation 
+Consortium
+(local DPIRD and DWER 
+officials, LGAs, tertiary 
+institutions, other State 
+agencies, industry, 
+consultants and 
+contractors)
+Inland Great Southern Drought Resilience Plan 2022              17
+
+To ensure our plan was well informed by local views, values, interests, knowledge and experience, we engaged a 
+diverse range of stakeholders in a fair and non-discriminatory way by creating a collaborative environment where 
+everyone was encouraged to have a voice and contribute their views, without judgement.  
+Engagement activities occurred between October 2021 and Dec 2022, involving more than 330 individuals 
+representing 150 organisations. 
+In addition to the Steering Committee, Project Advisory Group and Technical Working Group, stakeholders engaged 
+included:
+•	
+Agricultural and non-agricultural businesses
+•	
+Representatives of the Indigenous community
+•	
+Noongar Land Enterprise Group
+•	
+Growers groups
+•	
+Community organisations, leaders, and local champions
+•	
+Research organisations
+•	
+South Coast Natural Resource Management
+•	
+Local Government Areas (LGA)
+•	
+Tertiary organisations
+•	
+CSIRO
+•	
+Agricultural industry representatives
+•	
+State government agencies and government trading enterprises
+•	
+Financial experts, organisations and institutions
+•	
+Farm and agricultural advisers, consultants, agronomists, and stock and station agents
+Engagement sessions focused on reviewing emerging technical analyses and identifying drought resilience project 
+ideas for inclusion in the Inland Great Southern DRP.  A range of methods were used including in-person interviews, 
+meetings, surveys (online and in person), phone interviews, online engagement and workshops.  
+In addition to this consultation work, a global review of drought innovation4 was commissioned to identify global 
+resilience projects and assess their potential application to regional WA.  Areas of research were developed and 
+workshopped with regional areas to identify key priorities. These are outlined in more detail in “The Plan” section of 
+this document. 
+Strong stakeholder engagement generated buy-in from the community and stimulated interest in the project, 
+building and strengthening relationships across and within the region.
+As part of our engagement, interventions were identified within each of our five emerging themes.  Outlined in 
+Table 1, interventions are grouped under each theme, and classified according to their identified pathway – maintain, 
+modify, or transform. These pathways identify the type of change needed in the region to achieve our desired 
+outcomes. This allows for decision making around which set of intervention options to start with, given available 
+resources. 
+4	 Middleton, S. (2022). AgDots. Regional Drought Resilience Planning Program Global Literature Review – Key Drivers Report. 
+Prepared for Department of Primary Industries and Regional Development.
+18          Great Southern Development Commission
+
+MAINTAIN 
+MODIFY
+TRANSFORM
+Resilient Water
+Increase capacity of on-farm 
+water supplies to meet increasing 
+demands and a drying climate. 
+Bolster scheme capacity in 
+agricultural areas and regional 
+towns at risk of a drying climate and 
+increased demand (buffer tanks).
+Review risks of drought on regional 
+intensive livestock, horticulture and 
+viticulture industries, and support 
+implementation of drought proof 
+measures.  
+Prioritisation framework to guide 
+investment in water infrastructure 
+for agriculture and regional 
+communities, based on increased 
+demand and a drying climate.
+Install climate-independent water 
+infrastructure using innovative 
+technology in areas with no 
+access to scheme water.
+Extend scheme pipes further into 
+regions of the Great Southern at 
+risk of climate change.
+Water for industry growth: 
+Identification of future business 
+opportunities in regional areas 
+with access to suitable water 
+resources (i.e. Beaufort Paleo-
+channel).
+Resilient Communities
+“Green spaces” and community 
+infrastructure to support community 
+connection during drought events.
+ Mental health first aid training for 
+farm consultants and community 
+leaders to support farmers and 
+regional businesses pre, post and 
+during drought events. 
+Development of local leadership 
+capacity to share drought resilient 
+strategies.
+Drought Plan for WA (interagency 
+approach using framework of 
+Emergency Management). 
+Provision of drought officers 
+to support LGAs, regional 
+communities, businesses and 
+the agriculture sector during and 
+post drought events. 
+Drought Vulnerability 
+Assessment – refined to monitor, 
+track and predict impact of 
+drought (benchmarking social, 
+environment and economic 
+criteria). 
+Resilient Farms
+Farm Business Resilience and Small 
+Business climate resilience planning 
+workshops in the region.
+Collaborate to identify, prioritise, 
+and implement research and 
+development needs to increase 
+drought resilience.
+Identify and integrate economic 
+indicators into the DVA framework.
+WA Drought Platform (including 
+climate information, drought 
+indicators, support services, 
+drought resilience information).
+Increase uptake of innovative 
+research to address drought 
+resilience.
+Implement farm drought risk 
+planning and implement into 
+business planning to ensure 
+preparedness.
+Strengthen and expand WA 
+Climate Policy programs to 
+develop carbon farming and 
+sequestration markets.
+Identify transformative 
+agricultural enterprises that 
+could operate in areas at high 
+risk of drought.
+Continued research and trials 
+of drought resilient crops and 
+pastures.  
+Resilient Landscapes
+Quantify the impacts of 
+regenerative agriculture practices 
+during and post drought.
+Diversification options explored 
+and analysed to increase value for 
+marginal agricultural land at risk of 
+drought.
+Farm dams built with ecosystem 
+services to improve water quality 
+and reduce evaporation. 
+Natural resource condition 
+report card and natural capital 
+accounting for the regions.
+Increase capacity of Aboriginal 
+businesses to be more resilient 
+to dry seasons.
+Landscape rehydration project 
+– to increase water holding 
+capacity across the agricultural 
+land.
+Documented ecosystem services 
+for inland Great Southern. 
+Resilient Regional 
+Economy
+Undertake regional infrastructure 
+audit of regional towns and identify 
+actions to address limitations to 
+growth.
+Review risks and viability of supply 
+chain sector based on increasing 
+drought events.
+Support industry diversification 
+to buffer regional communities 
+from the impact of droughts.
+Address constraining enabling 
+infrastructure to support industry 
+growth and regional resilience to 
+climate change.
+Table 1: Inland Great Southern themes, interventions and pathways
+Inland Great Southern Drought Resilience Plan 2022              19
+
+04 The 
+Evidence Base
+20          Great Southern Development Commission
+
+4.1 Drought Vulnerability Assessment 
+4.1.1	
+Overview
+This Inland Great Southern DRP provides a high-level summary of the findings from our Drought Vulnerability 
+Assessment (DVA). The DVA provides the evidence base to support the identification of actions to mitigate drought 
+impacts in the inland Great Southern. It provides a summary of the likely economic, environmental and social 
+impacts of future drought, based on the latest available climate change scenarios.
+The DVA is comprised of a literature review, socio-economic analysis, spatial prioritisation, risk assessment. It 
+includes analysis from technical experts, research professionals and industry leaders. Extensive stakeholder and 
+community engagement allowed for the harnessing of perspectives and insights from people’s lived experience and 
+provided the opportunity to better understand how the regions have been affected by drought in the past, and what 
+has already been done to mitigate the impacts of future droughts.  This in-depth evidence base supports:
+•	
+An improved understanding of the impacts of drought in the region
+•	
+Synthesis of program and policy initiatives related to drought at a local, regional, state and federal level
+•	
+Investigation of alternative definitions of drought, based on growing season rainfall, better suited to the 
+broadacre cropping areas in the inland Great Southern
+•	
+In depth analyses of the economic, environmental, social and water impacts of drought, including the impacts 
+of drought on Aboriginal communities
+•	
+Development of a multi-criteria mapping methodology that synthesises many datasets into a single decision-
+support tool highlighting priority areas for investment in resilience-building activities
+•	
+An exploration of how readily measurable biophysical and socio-economic factors, often publicly available 
+data, might serve as indicators of drought and be used to understand and / or predict the impacts of drought
+•	
+A drought vulnerability index using the data collected to create the drought risk priority areas map 
+Regional drought vulnerability assessments require consideration of both the potential impacts of drought and the 
+adaptive capacities of the people and systems in each region. Drought impact includes the degree of exposure to 
+drought in the regions and each region’s inherent sensitivity to drought conditions. Adaptive capacity describes the 
+internal features and characteristics of the regions that influence their ability to respond effectively to and withstand 
+past and future droughts. 
+Exposure is the extent to which a given system, community or region will be subjected to a particular hazard. For 
+the RDRP, exposure is measured in terms of the extent to which a focus region will be exposed to drought and 
+drought-related climate change processes such as increasing atmospheric temperatures and changes in rainfall 
+patterns and soil moisture.
+Sensitivity is the extent to which a given system, community or region will be affected by a particular hazard. For 
+the RDRP, sensitivity is fundamentally about the ways in which regions are impacted by drought. It is measured in 
+terms of the effect of drought on crop and animal production, and the influence of regional characteristics such as 
+soil types and farming systems on the effect that a drought has in the region.
+Adaptive Capacity is the extent to which a system is able to exploit opportunities and resist or adjust to change. 
+For the RDRP, adaptive capacity is measured in terms of historical response to droughts in the regions or estimated 
+according to a set of vulnerability proxies such as income, education, community participation rates and drought 
+resilient natural features (ground cover, topography).
+Resilience refers to the region’s ability to absorb disturbance and to effectively maintain, reorganise or make 
+changes to sustain lives and livelihoods5. The RDRP drought vulnerability assessment conceptual framework draws 
+on past studies in Australia and around the world to ensure that sufficient attention is paid to all important aspects 
+of drought vulnerability and resilience in the affected regions. Planning for resilience is about building:
+•	
+absorptive capacity for maintaining the system
+•	
+adaptive capacity for modifying the systems when needed
+•	
+transformative capacity for systemic change when maintaining and modifying existing systems 
+•	
+developing new configuration of networks and institutions to implement these capacities
+5	 Maru, Yiheyis & Tom Measham. 2021. CSIRO Drought Resilience Mission: Transition planning for building resilient communities 
+in drought affected regions. National Science Agency.
+               21
+
+The following figure outlines the framework for the development of the DVA, with the broad range of information 
+sources that contributed to it.
+Figure 6: Conceptual framework for the DVA
+4.1.2	
+DVA Methodology Components
+Stakeholder Engagement
+Consultation with stakeholders is critical in understanding how those living and working in the regions have 
+experienced and responded to drought in the past, what they have undertaken to mitigate drought risk, how they 
+perceive future drought risk and understanding priority actions they consider important in building resilience to 
+drought in the future.  
+A Technical Working Group (TWG) was established and provided opportunity for input and review of the key 
+elements of the DVA model, including identification of important datasets to inform the assessment process. 
+Membership of the TWG included DPIRD climate scientists, CSIRO, University of Western Australia’s Centre for 
+Social Impact, Curtin University’s Centre for Crop Disease Management, Murdoch University’s Harry Butler Institute, 
+Planfarm and Noongar Land Enterprises
+A Steering Committee provided high level support and direction to the project team and was chaired by the CEO 
+of the Wheatbelt Development Commission, with representation from the participating Regional Development 
+Commissions and local governments, and the Director of the South-West of WA Drought Resilience and Adoption 
+Hub.  
+South Coast Natural Resource Management (South Coast NRM) was contracted to assist with consultation with 
+Grower Groups, farm advisors, farming champions and South Coast NRM Reference Groups. They also worked in 
+cooperation with Gillamii Centre and Keogh Bay to consult with First Nation representatives across the region. They 
+used a range of methods including participatory workshops, interviews and regional surveys. 
+NDVI at the end of 
+the growing season 
+(20yr average, 
+lowest  10%)
+Average household 
+income
+Farm profit
+Percentage 
+employment in 
+agriculture
+Average farm size
+DROUGHT
+ IMPACT
+Change in growing 
+season rainfall 
+(historical)
+ADAPTIVE 
+CAPACITY
+EXPOSURE
+SENSITIVITY
+Change in maturing 
+season temperature 
+(historical)
+Change in growing 
+season rainfall 
+(projected)
+Change in maturing 
+season temperature 
+(projected)
+Rainfall intensity 
+events > 10mm
+Change in drought 
+frequency
+Rainfall intensity 
+events > 25mm
+Distance from the 
+coast
+NATURAL CAPITAL
+•	 Soil capability
+•	 Plant available soil 
+moisture
+•	 Native vegetation extent
+•	 Trend in NDVI
+•	 Surface salinity
+•	 Important water 
+resources
+•	 Groundwater resources
+•	 Groundwater quality
+•	 Proclaimed water 
+protection areas
+Water quality
+High quality 
+agriculture land
+Livestock production 
+(numbers; sheep, 
+cattle)
+Crop population (t/
+ha; wheat, canola, 
+barley)
+Average potential 
+wheat yield
+Change in root zone 
+soil moisture
+Change in timing of 
+the autumn break
+Change in potential 
+yield
+FINANCIAL CAPITAL
+SOCIAL CAPITAL
+DROUGHT VULNERABILITY 
+AND RESISTANCE
+Ability to absorb, respond to and 
+recover from drought
+HUMAN CAPITAL
+•	 Population > 65yrs
+•	 Percentage 
+unemployment
+PHYSICAL CAPITAL
+•	 Road infrastructure
+•	 Strategic community 
+water supplies
+•	 Scheme water coverage
+Presence of bores 
+and dams
+Farm diversity
+remoteness index
+Population trends
+Areas declared 
+water deficient
+22          Great Southern Development Commission
+
+This consultation focused on identifying ways in which the local community understands and defines drought, 
+how they have been impacted by drought in the past, and how they responded in the most recent droughts.  
+Consultation then focused on identifying key actions and priorities to include in the final drought resilience plan.
+In the Great Southern region, engagement occurred with 24 farming businesses, six Grower groups, community 
+members, two agronomists, eight LGAs, South Coast NRM and over 25 Aboriginal community members and 
+industry representatives. 
+As the project includes the Wheatbelt and Midwest regions, collaboratively the program consulted with more 
+than 330 people representing at least 150 separate organisations and businesses. with 19 state agencies, six 
+peak bodies (agricultural), 34 agribusiness, three universities and CSIRO and over 300 stakeholder engagement 
+meetings.
+Locally, the project was overseen by the Great Southern Development Commission (GSDC). The GSDC’s role is to 
+coordinate and support endeavours that build the economy and promote growth in the Great Southern region of 
+Western Australia. Project updates were regularly provided to GSDC’s Board of Management, with the opportunity 
+to provide input and feedback into the DVA and final Inland Great Southern DRP. 
+Desktop review
+Desktop review is a critical component of any vulnerability assessment process. It involves identifying, summarising 
+and interpreting what is already known about the impacts of the hazard on drought.  The desktop review followed 
+the development of the RDRP conceptual framework, and investigated aspects of exposure, sensitivity, impact and 
+adaptive capacity and the ways in which each of these relate to and inform vulnerability and resilience to drought in 
+the regions. 
+The desktop review included an overview of existing data, research, tools and resources that informed our 
+stakeholders’ understanding of drought impacts and drought preparedness across the focus regions. It included 
+a socio-economic and land-use profile of each region, describing the population, major land uses and economic 
+activities, the threatening processes they face and what that means in terms of drought resilience. 
+The review identified those actively working to support drought resilience in the region with regards to drought, 
+including their respective roles and relationships between them, and summarised existing and past drought 
+resilience policies and plans across a range of levels, from local to international, and the suite of drought resilience 
+programs currently operating in Western Australia and Australia as a whole.
+Spatial Prioritisation
+The spatial component of the drought vulnerability assessments used mapping software to map drought resilience 
+priority areas. All spatial data was prepared and presented at the scale of local administrative boundaries, to best 
+support local level decision-making and investment.
+Inputs into the multi-criteria analysis (MCA) were determined following the development of the RDRP conceptual 
+framework, and include exposure, sensitivity, impact and adaptive capacity and the ways in which each of these 
+relate to and inform vulnerability and resilience to drought in the regions. Spatial data layers include:
+•	
+climate data (historical and projected change in rainfall, temperature, soil moisture and drought frequency and 
+severity)
+•	
+environmental data (soil type, topography, ground and surface water resources, native vegetation extent, 
+ground cover, Normalised Difference Vegetation Index)
+•	
+production data (crop yields, animal production, type of farming system)
+•	
+financial data (household income, farm profitability, use of farm management deposit schemes)
+•	
+social data (population trends, access to services, community participation rates)
+•	
+infrastructure data (roads, water supplies).
+Composite maps showing how different features of drought risk and resilience are overlaid using a standard multi-
+criterion GIS analysis (MCA). Priority areas for investment are highlighted at the overlap between spatial datasets 
+where drought is likely to occur, where there are features are likely to provide resilience to the impacts of drought 
+(e.g. high ground cover, availability of water resources, drought resilient farming systems) and/or where vulnerable 
+communities are likely to be impacted (e.g. remote communities with limited access to services). 
+Inland Great Southern Drought Resilience Plan 2022              23
+
+Risk Assessment
+A drought risk assessment collates all the data collected and analysed from the stakeholder engagement, desktop 
+review and spatial prioritisation components, and provides local decision-makers with a summary of vulnerability 
+to drought in their region. Synthesis of the data into a risk assessment followed the development of the RDRP 
+conceptual framework and investigated aspects of exposure, sensitivity, impact and adaptive capacity and the ways 
+in which each of these relate to and inform vulnerability and resilience to drought in the regions. 
+The aim of a risk assessment summary is to assist local decision makers and managers in the rapid evaluation of 
+drought vulnerability for the region and enable tracking of change over time. Data in each drought impact category 
+(i.e., social, financial, production, environmental) can be scored along a sliding scale and assessed over medium and 
+long-term timeframes in terms of drought risk and resilience6,7  
+4.2	 Technical Expertise
+To strengthen this evidence base, the following technical reports were commissioned to gain regionally specific 
+insights into drought resilience. These insights informed the DVA and were drawn from:
+•	
+Socio-economic and literature review (Anna Dixon Consulting);
+•	
+Drought Indices (CSIRO): Repeated the recent CSIRO NSW drought indicators exercise by deploying a 
+Random Forest Analysis to Nous data, relevant to the three focus regions.
+•	
+Defining Drought in WA (Curtin University): Assessment of the suitability of the current BoM definition of 
+drought in decile 1 over two or more consecutive years and investigation of other drought definitions or indices 
+appropriate for the regions.
+•	
+Drought Risk Assessment (DPIRD): Analysis of historical and future drought risk scenarios for each region.
+•	
+Drought Priority Areas Map for Southwest of Western Australia (DPIRD): A GIS-based multi-criteria analysis 
+integrating relevant economic, environmental and social data at a scale to identify high priority drought risk areas. 
+•	
+Economic Impacts of Drought (LA One Economics and Consulting): Review of historical and potential future 
+economic and environmental impacts of drought on farming businesses, communities, agribusiness and supply 
+chain sectors in the region.
+•	
+Social Impacts of Drought (UWA): Identification of primary social impacts of drought in the region and 
+assessment of the effectiveness of actions taken in the past.
+•	
+Investigating the Environmental Impacts of Drought in Regional WA (LA One Economics and Consulting): 
+Review of the impacts of drought on natural resources that support and surround farming, rural and regional 
+communities.  Identification of responses and initiatives to mitigate the environmental impacts of drought.
+•	
+Transformative Review (AgDots): Global review of transformative research areas to build resilience.  
+•	
+Regional Water Issues and Policy Analysis Wheatbelt and Great Southern (Aurora): An investigation into 
+issues and policies relating to provision of non-potable water during drought for agriculture (e.g. stock drinking 
+and crop spraying), community (e.g. firefighting, watering ovals and landscaped areas) and local government 
+authorities (LGAs, road works and water for community uses).
+•	
+Water Supply and Demand Assessment (Murdoch University): A report summarising a high-level water 
+balance for the Wheatbelt and Great Southern Consortia Shires. This report includes understanding the 
+current state of water supply and demand, identifying gaps and modelling the risk to water supplies under 
+drought and climate change scenarios (the Intergovernmental Panel on Climate Change (IPCC) Representative 
+Concentration Pathways (RCP) 4.5 and 8.5).
+•	
+Valuing Noongar People and Practices in Drought Resilience (Noongar Landcare Enterprises): A review of 
+the impacts of drought and First Nations land management practices, with a focus on Noongar Country; and 
+the impacts of drought on the Noongar region. Capturing Noongar knowledge and practices for integration 
+into Drought Resilient Strategies.
+•	
+Great Southern (Inland) Regional Drought Resilience Plan: Report on Aboriginal Community Consultations 
+(South Coast NRM in cooperation with Keogh Bay and the Gillamii Centre): A report that collates information 
+from stakeholders in the Noongar Community of the Great Southern and captures risks and impacts of 
+drought and strategies to increase drought resilience. 
+•	
+	Regional Drought Resilience Community Consultation Report for the Inland Great Southern (South Coast 
+NRM): A summary of drought risks, impacts and strategies to increase drought resilience from stakeholders in 
+the Great Southern. 
+6	 Bourne, Amanda R.; Petra de Abreu; Camilla Donatti; Sarshen Scorgie; Stephen Holness. 2015. A Climate Change Vulnerability 
+Assessment for the Namakwa District, South Africa: The 2015 revision. Conservation South Africa, Cape Town. Available here.
+7	 Hughes, Neil; Kevin Burns; Wei Ying Soh; Kenton Lawson. 2020. Measuring drought risk: the exposure and sensitivity of 
+Australian farms to drought. ABARES Research Report 20.17
+24
+
+Further adding to the range and quality of data, this plan has been developed using a partnership and co-design 
+process that has leveraged diverse region-specific knowledge and skills from the following sources:
+•	
+	South-West WA Drought Resilience Adoption and Innovation Hub
+•	
+relevant local government plans
+•	
+economic development plans
+•	
+strategic community plans
+•	
+•	
+regional blueprints 
+•	
+WA Government’s Climate Policy 
+•	
+State Infrastructure plans
+The evidence base for this plan was also informed by previous and current strategies such as the Australian 
+Government Drought Response, Resilience and Preparedness Plan and a review of relevant science-based 
+initiatives, such as the DPIRD WaterSmart Farms project and the work of the South-West WA Drought Resilience 
+Adoption and Innovation Hub.  
+4.3 Plan Alignment
+The Inland Great Southern DRP was developed to be consistent with the National Framework for Drought Policy 
+Plan (fitting under pillar 3). The Drought Resilience Plan has a focus on long term resilience and preparedness. The 
+Inland Great Southern DRP also has strong alignment with National, State, Regional and Local plans, strategies and 
+policies, including: 
+Nationally: 
+•	
+•	
+South-West WA Drought Resilience Adoption and Innovation Hub
+At a State level: 
+•	
+State Infrastructure Strategy: Foundations for a Stronger Tomorrow)
+•	
+Diversity WA (a Framework to Support the WA Government’s Economic Development Priorities)
+•	
+Department of Water (Strategic priority - Water for Growth 2016 plan)
+•	
+DPIRD Strategic Intent 2018-2021
+•	
+DPIRD Primary Industries Plan 2020–2024
+•	
+Water Corporation - Water Forever (Water Recycling and Water Efficiency)
+•	
+Towards Climate Resilience 50 Year Plan 2009
+•	
+Western Australian Climate Policy November 2020
+•	
+Western Australian Agricultural Research Collaboration
+•	
+DPIRD State Soil Health Strategy
+•	
+WA Natural Resource Management Framework
+Regionally: 
+•	
+The Great Southern Development Commission Strategic Plan 2022-25
+•	
+Regional Investment Blueprint – 2015
+•	
+Regional Planning and Infrastructure Framework 
+•	
+South Coast NRM Strategic Plan
+•	
+Southern Link Voluntary Regional Organisation of Councils (VROC) Strategic Plan 
+•	
+South-West Native Title Settlement Agreement
+Locally: 
+•	
+LGA Community Strategic Community plans 
+•	
+Local Government Emergency Rural Water Plans
+Appendix 1 of this document presents a detailed description of how the Inland Great Southern DRP aligns with the 
+above strategies, plans and policies. 
+Inland Great Southern Drought Resilience Plan 2022              25
+
+05 The Inland Great 
+Southern Region - 
+System Description
+ Tourism WA
+26          Great Southern Development Commission
+
+The inland Great Southern Consortia covers an area of 27,871 km2 in the Great Southern region of Western Australia 
+and includes the local government Shires of Broomehill-Tambellup, Cranbrook, Gnowangerup, Jerramungup, 
+Katanning, Kent, Kojonup and Woodanilling, as shown in the following figure. 
+Figure 7: Map showing the geographic scope of the regional drought resilience plan in inland Great Southern.
+The Consortia is within the Wagyl Kaip / Southern Noongar (Ganeang, Goreng and Menang) Agreement for Native 
+Title and the northern section is Ballardong Noongar, both in the South West Native Title Settlement. It is home 
+to 11,324 people. Between 2017 and 2019, there was population decline within all local government areas in the 
+Consortia. The median age is highest in the Shire of Cranbrook at 46 and all Shires are above the WA median of 36. 
+The percentage of older people (over 65 years) is projected to increase from 18.8% to 22.3% between 2015 and 
+2025 in the region.
+The Index of Relative Socio-economic Advantage and Disadvantage Socio-Economic Indexes for Areas (IRSAD 
+SEIFA) score found the Shires of Broomehill-Tambellup and Katanning have more disadvantage than greater 
+regional WA, while the Shires of Jerramungup and Kent have more advantage than both greater regional WA and 
+greater WA. Within the Consortia region, Katanning and Tambellup are considered locations of priority health need 
+in the Great Southern, based on analysis of social determinants, health indicators, service gaps and stakeholder 
+feedback.
+Inland Great Southern Drought Resilience Plan 2022              27
+
+The Index of Disadvantage Dropping off the Edge (DOTE) gives a score by SA2 area, with the Consortia covering 
+three SA2 areas.  Katanning had an overall score of 1 (highest level of disadvantage); Kojonup SA2 had an overall 
+score of 2 and Gnowangerup had an overall score of 3. Common areas of vulnerability across all three SA2 areas 
+were: no post-school qualification, family violence, psychiatric admissions and no access to recreation parks. Some 
+key characteristics of the inland Great Southern region are highlighted below:
+•	
+Largest population is in the Shire of Katanning, which is the key centre for the inland Great Southern
+•	
+All areas have a median age above the WA median, with the largest variance in Cranbrook
+•	
+All areas had negative in-migration between 2017-2020
+•	
+the Shires of Broomehill-Tambellup and Katanning have more disadvantage than greater regional WA 
+•	
+the Shires of Jerramungup and Kent have more advantage than both greater regional WA and greater WA
+•	
+the Shires of Broomehill-Tambellup, Cranbrook, Jerramungup, Kent and Kojonup agriculture accounts for 50% 
+or more of economic output.
+Climate
+The Consortia includes projections for average temperatures to continue to increase in all seasons, more hot days 
+and warm spells, a continuing reduction in growing season rainfall (April – October) increased extreme rainfall 
+events and a harsher fire-weather climate.
+Economy
+The Consortia has an annual economic output of $2.1 billion and accounts for 9.5% of employment in the broader 
+Great Southern region. Agriculture accounts for 40.1% of economic output and 40.9% of total jobs in the selected 
+areas. The Shire of Kojonup had the largest output from Agriculture at $178.5 million, and the Shire of Kent had 
+the largest percentage of total economic output from agriculture at 75.6%, followed by the Shire of Broomehill-
+Tambellup at 65.2%. 
+28          Great Southern Development Commission
+
+Inland Great Southern Drought Resilience Plan 2022              29
+
+06 An Assessment 
+of the Inland 
+Great Southern’s 
+Resilience
+Katanning saleyards
+30          Great Southern Development Commission
+
+The Inland Great Southern DVA identified key areas of the region’s vulnerability to drought. The characteristics of 
+each vulnerability driver are:
+•	
+Exposed areas – show low incidence of rainfall events over 10mm and 25mm, percentage change in autumn 
+break from 1975-1999 and 2000-2020, and decline in average yield potential over the same time frame, 
+number of hot days, and decline in growing season rainfall. 
+•	
+of livestock in some Shires, areas declared water deficient (Jerramungup and Kent), low water assets such as 
+bores and dams and high levels of employment dependence on agriculture.
+•	
+Areas with low adaptive capacity – could be related to an ageing population.  
+6.1 Mapping Drought Vulnerability 
+6.1.1	
+The Mapping Process 
+Using GIS-based multi-criteria analysis (MCA), DPIRD’s GIS team spatially integrated relevant economic, 
+environmental and social data to produce a set of maps identifying high priority drought risk areas.  These maps 
+take into consideration farm water supply, agricultural production, soil health and erosion potential along with a 
+range of socio-economic and landscape features that contribute to drought resilience or exacerbate drought risk 
+in the Great Southern region. These features include water-related ecological infrastructure, high value agricultural 
+land and areas of higher socio-economic vulnerability. 
+The approach consolidates complex information into user-friendly spatial products designed to enable fine-scale, 
+local-level decision making on drought resilience. The maps form part of the evidence base for the RDR Plans. 
+Drought resilience priority areas maps are made up of a set of composite maps for i) exposure, ii) sensitivity, iii) 
+impact (combining exposure and sensitivity) and iv) adaptive capacity.  Forty-four variables and ten composite maps 
+were weighted according to their likely influence on drought resilience, based on literature review, expert opinion 
+and feedback from regional stakeholders, and combined to create the final drought priority map. The analysis 
+was performed using the Multi-Criteria Analysis Shell for Spatial Decision Support (MCAS-S) tool developed by 
+ABARES8. Drought resilience priority areas lie at the intersection of all categories, where exposure, sensitivity and 
+adaptive capacity overlap. 
+The overlapping areas highlight where droughts are likely to occur most frequently and have the largest impact 
+on water resources and agricultural production. They also identify locations where regional communities may be 
+more vulnerable to the impacts of drought due to socio-economic factors including relative remoteness, access to 
+infrastructure and income. 
+The maps were ground-truthed with the community and the technical working group and feedback was 
+incorporated into the final products.
+The composite drought vulnerability map has the potential to be a powerful decision-support tool for the South 
+West of WA. There is a high level of confidence in the analysis as many of the included datasets are robust, regularly 
+collected and available at high spatial and temporal resolution including the participating Shires in the inland Great 
+Southern. 
+8	 MCAS-S Development Partnership. 2018. Multi-Criteria Analysis Shell for Spatial Decision Support MCAS-S version 3.2 user 
+guide. In ABARES BY-ND 4.0.
+Inland Great Southern Drought Resilience Plan 2022              31
+
+Figure 8: Final drought vulnerability map showing that the areas in WA most vulnerable to drought are in the north and east of the region
+The links between the component datasets and impacts of drought are well understood. Low rainfall exacerbates 
+drought risk, as does a shorter or warmer growing season; drought is associated with reduced production and farm 
+income; problems with water quality or infrastructure can leave regional communities more vulnerable to the effects 
+of drought. Spatial products such as the drought risk and resilience priority areas maps can provide significant 
+support to decision-makers by collating complex climate, ecological, and socio-economic information into a single 
+powerful image. These maps, developed together with regional stakeholders, are widely replicable.
+32          Great Southern Development Commission
+
+6.1.2	
+Drought Exposure Map
+Figure 9:  Inland Great Southern Exposure Map
+In the inland Great Southern, exposure to drought ranges from moderate in the far west of the region to high in the 
+north/east region. 
+This result was influenced by the low incidence of rainfall events over 10mm and 25mm, the percentage change in 
+the autumn break from 1975-1999 to 2000-2020 and decline in average yield potential from 1975-1999 to 2000-
+2020, number of hot days and decline in growing season rainfall. 
+Inland Great Southern Drought Resilience Plan 2022              33
+
+6.1.3	 Drought Sensitivity Map
+Figure 10:  Inland Great Southern Drought Sensitivity Map
+In the Great Southern, sensitivity to drought ranges from moderate in the far west of the region and high to very 
+high across the Shires of Jerramungup and Kent. 
+numbers of livestock in some Shires, areas declared water deficient (Jerramungup and Kent) and low counts of 
+water assets (bores and dams), and the high percentage of workers reliant on agriculture, may have contributed to 
+the result.
+34          Great Southern Development Commission
+
+6.1.4	 Drought Impact Map
+Figure 11:  Inland Great Southern Drought Impact Map 
+The drought impact map is a composite of the Drought Exposure and Drought Sensitivity maps. The Western Shires 
+including Kojonup, Katanning, Tambellup, Woodanilling Cranbrook and Broomehill-Tambellup have moderate risk of 
+being impacted adversely by drought.  The eastern half of the Great Southern region has high to very high likelihood 
+of being impacted adversely by drought. Areas of most concern are the northern areas in the Shire of Kent.
+Actions that are targeted at improving the reliable harvesting and storage of water, support drought resilient farming 
+systems, and diversification of economic activity across the region will support the ability of the region to lessen 
+adverse impacts of drought.
+Inland Great Southern Drought Resilience Plan 2022              35
+
+6.1.5	 Drought Adaptive Capacity Map
+Figure 12: Inland Great Southern Adaptive Capacity Map
+The adaptive capacity map is made up of three composite maps for human capital, natural capital and physical 
+capital. This map is based primarily on the natural and physical capital of the region and limited in its depiction of 
+human and social capital.  Though community consultation, and the outcomes of the social impact study, a strong 
+link was identified between natural and physical capital and economic prosperity, which impacts on individual 
+wellbeing and ultimately social and community resilience. 
+In the Great Southern, the areas that had the highest impact of drought, showed the highest capacity to adapt.  The 
+lower levels of capacity around Kojonup and Katanning would require further investigating. 
+The very low unemployment rate across the region relates to better adaptive capacity, though this does not reflect 
+the issues with attracting labour due to lack of housing options for workers. More exploration is needed of these 
+factors to ascertain true adaptive capacity to drought. 
+36          Great Southern Development Commission
+
+6.1.6	 Drought Vulnerability Map
+Figure 13: Great Southern Drought Vulnerability Map
+The drought vulnerability map is a composite map of Adaptive Capacity and Drought Impact. There is variability in 
+drought vulnerability across the inland Great Southern. 
+Further work is needed to consolidate the different approaches and agree on a final vulnerability assessment 
+framework for drought resilience planning. While the current drought vulnerability assessment for the inland Great 
+Southern is best represented by the regional drought priority areas maps, the spatial analysis is limited in its ability 
+to include social and economic data. 
+The DVA summarises several different possible approaches to assessing drought vulnerability focusing primarily 
+on measurable biophysical and economic indicators (indicators of drought) or primarily on socio-economic 
+factors. These contributions were considered and incorporated into the overarching conceptual framework for the 
+vulnerability assessment. 
+6.2 Drought Vulnerability Index 
+A Drought Vulnerability Index calculated for the inland Great Southern region, enables local decision makers and 
+managers in the rapid evaluation of drought risk in the region. The index has been specifically designed to track 
+change over time for the study, although it could be adapted for any region across Western Australia. The index can 
+be seen as a repeatable exercise providing a snapshot of vulnerability to drought that can be tracked over time. 
+The analysis utilizes the overarching DVA conceptual framework and an understanding overall vulnerability as the 
+outcome of interacting exposure, sensitivity and adaptive capacity parameters. A number of indicators were then 
+selected within each category to serve as proxies for exposure, sensitivity and adaptive capacity. 
+Each sub-indicator was scored using a 1-5 sliding scale where 1 represents the most desirable condition (low 
+vulnerability) and 5 represents the least desirable state (high vulnerability) in terms of drought risk. The data used 
+for determining scores for each indicator were drawn from the same (largely) publicly available datasets used to 
+create the drought risk priority areas map. Scores represent the average for the region.
+
+Inland Great Southern Drought Resilience Plan 2022              37
+
+Table 2: The exposure, sensitivity and adaptive capacity of the inland Great Southern
+Averaging the scores from each individual indicator returns an overall vulnerability index of 3.3, indicating moderate 
+vulnerability to drought. A radar chart is useful for seeing which components of vulnerability need to be addressed 
+most urgently as risk is not evenly spread across the selected indicators and therefore poorly represented by 
+the average score. Given that each indicator has been scored on a 1-5 sliding scale where 1 represents the most 
+desirable state and 5 the least desirable, it is most desirable for the indicators to cluster towards the centre of the 
+radar chart. 
+Areas of strength in terms of drought resilience in the inland Great Southern region lie in soil and production 
+capability, access to critical infrastructure and limited exposure to production risk. These are areas to maintain and 
+build on for a successful response to future drought in the region. These are shown on the radar chart as points 
+closer to the centre of the chart.
+AREA OF 
+RESILIENCE
+RISK RESULT BY 
+INDICATOR
+RESULT BY LOCALITY 
+KEY ISSUES AND RESPONSE
+Exposure
+2 - projected temperature 
+and rainfall change, 
+moderate increases in 
+temperature and moderate 
+drying
+4 - change in timing of the 
+autumn break experienced 
+to date
+4.5 - increasing drought 
+frequency.
+Moderate in the far west 
+(Kojonup, Cranbrook 
+and western parts of 
+Woodanilling, Katanning 
+and Tambellup), the far east 
+(parts of Jerramungup) 
+and far south (parts of 
+Gnowangerup).
+High (Kent and parts 
+of Woodanilling, 
+Katanning, Gnowangerup, 
+Jerramungup).
+Very high in minimal parts 
+of Kent. 
+Despite high resilience in agricultural 
+production capability, the region is 
+highly exposed to the impacts of 
+climate change and faces several 
+general resilience challenges including 
+economic diversification and access 
+to infrastructure, services and reliable, 
+good quality water.  Higher risk was 
+a result of decline in growing season 
+rainfall. The focus of resilience action 
+should be improving understanding of 
+and responses to these challenges.
+Sensitivity
+2.5 - production risk
+3.5 - lowest 10% of NDVI 
+values recorded between 
+2002-2021
+5 - % of the population that 
+is employed in agriculture.
+Ranges from moderate in 
+the far west of the region 
+and high to very high across 
+Shires of Jerramungup and 
+Kent.  
+percentage of Drought Risk by farm 
+profit, higher numbers of livestock in 
+some Shires, areas declared water 
+deficient (Jerramungup and Kent) and 
+low counts of water assets (bores 
+and dams), and the high percentage 
+of workers reliant on agriculture, may 
+have contributed to the result.
+Adaptive Capacity
+2 - levels of existing 
+unemployment in the region
+1.5 - access to water 
+services and transport 
+infrastructure
+5 - groundwater quality
+3 - soil capability.
+Lower levels of adaptive 
+capacity potentially linked 
+to ageing population 
+(Kojonup and Katanning). 
+Very high in north (Kent), 
+central (Gnowangerup) 
+and western areas 
+(Jerramungup).
+Through community engagement and 
+the outcomes of the social impact 
+study, a strong link was identified 
+between natural and physical capital 
+and economic prosperity, which 
+impacts on individual wellbeing and 
+ultimately social and community 
+resilience.  Very low unemployment 
+rate relates to better adaptive capacity, 
+though this does not reflect the issues 
+with attracting labour due to lack of 
+housing options for workers. More 
+exploration is needed to ascertain true 
+adaptive capacity to drought.
+38          Great Southern Development Commission
+
+Weaker areas in terms of drought resilience are shown on the radar chart as those points further from the centre 
+of the chart. These are the expected impacts of climate change on temperature and rainfall patterns, increasing 
+drought frequency, NDVI trends and the level of direct dependence of local economies and livelihoods on 
+agriculture. These are the aspects of vulnerability to drought in the region that need to be prioritised to improve 
+resilience. If these can be improved, or better understood, planned for and dealt with, the region will be in a better 
+position to respond effectively to drought. Improving levels of economic diversity are a desired outcome for the 
+region to build drought resilience. 
+Improving understanding of the impact of changing weather patterns on agricultural production is required. 
+Measures to improve access to water and road infrastructure, as well as other services, increase and diversify 
+employment opportunities and adapt agricultural practices in the region to accommodate shorter or later growing 
+seasons will improve resilience to drought. Current climate projections suggest that the situation is likely to worsen 
+over time and steps should be taken now to ensure proactive adaptation to expected impacts.
+
+Figure 14: Radar chart of vulnerability index scores
+Table 3: Inland Great Southern drought resilience strengths and weaknesses
+0
+1
+2
+3
+4
+5
+Climate change
+Autumn break
+Drought frequency
+Production
+NDVI
+Employment in Ag
+Unemployment
+Access to
+infrastructure
+Groundwater quality
+Soil capability
+INLAND GREAT SOUTHERN DROUGHT 
+RESILIENCE STRENGTHS
+INLAND GREAT SOUTHERN DROUGHT 
+RESILIENCE WEAKNESSES
+•	
+Access to critical infrastructure 
+•	
+Percentage unemployment
+•	
+Limited exposure to production risk 
+•	
+Projected change in growing season rainfall and 
+maturing season temperature
+•	
+Change in drought frequency to date
+•	
+Percentage employment in agriculture
+•	
+Groundwater quality
+Inland Great Southern Drought Resilience Plan 2022              39
+
+6.3 Impacts of Drought on the inland Great Southern 
+Drought impacts can be significant and wide ranging. It can impact a region’s economic, social and environmental 
+functioning. Several studies rank drought first amongst natural hazards in terms of the seriousness of impacts, 
+including loss of life and livelihoods, economic losses and adverse social, economic and ecological effects9. 
+Reduction in household income, financial hardship and a drop in financial position are three major economic impacts 
+experienced by those in drought across Australia. Broader economic impacts on regional communities include 
+job losses, worker relocation and a reduction in income for small local businesses, particularly in small towns with 
+economies highly dependent on-farm expenditure.
+Environmental impacts of drought include irreversible damage to soil and vegetation, leading to dust storms and 
+a loss of top soil, soil nutrients, organic matter and soil carbon. Social impacts of drought can be devastating and 
+include permanent loss of services in regional areas, loss of employment opportunities, negative physical and 
+mental health impacts and financial hardship. 
+Drought amplifies existing personal and professional burdens of regional communities such as poor health, 
+isolation and limited access to services and infrastructure. Drought resilience is strongly influenced by regional 
+characteristics including wealth, infrastructure, policies and plans, the level of community cohesion and the extent 
+to which regional economies depend directly on agriculture and/or water10,11,12.
+6.3.1	 Regional Level Impacts
+It is evident from the literature that climate change is having significant and ongoing impacts on the agricultural 
+regions of Western Australia. Australian average temperatures have increased by about 1o Celsius since 1950 and 
+the south west and south east of Australia are seeing a trend towards lower average winter rainfall. This includes 
+a forecast increase in hotter weather patterns across Western Australia and a reduction in wet years, with drought 
+becoming a more common occurrence13.
+Many areas of the State are experiencing the early impacts of drought and ongoing drying conditions including 
+the Northern Agricultural Region, inland areas of the Great Southern, parts of the Wheatbelt and Southern 
+Rangelands14.
+Decreased water availability is one of the biggest identified concerns across all regions.  Forage production may be 
+reduced by up to 10% over the agricultural areas, and by 10–20% over the rest of the state. Broadacre crops are the 
+most vulnerable to rainfall variations with an expected decline in yields in the drier eastern and northern areas of the 
+Great Southern. 
+9	 Bruntrup M. & Tsegai D. 2017. Drought Adaptation and Resilience in Developing Countries. German Development Institute in 
+partnership with United Nations Convention to Combat Desertification. Retrieved 22 January 2022. Available here. 
+10	Adams P., Horridge M., Madden J., Wittwer G. 2002. Drought, regions and the Australian economy between 2001-02 and 
+2004-05. Centre of Policy Studies, Monash University
+11	 Wanders N. 2016. Human impacts on droughts: how these hazards stopped being purely natural phenomena. Princeton 
+University. Retrieved 3 February 2022. Available here.
+10 January 2022. Available here.
+13	CSIRO. (2018). Australia’s Changing Climate. Retrieved 15 January 2022. Available here.
+14	Sudmeyer, R, Edward, A, Fazakerley, V, Simpkin, L & Foster. (2016). Climate change: impacts and adaptation for agriculture in Western 
+40          Great Southern Development Commission
+
+Additional potential impacts of climate to consider at a regional level include: 
+•	
+economic pressures
+•	
+increased input costs and energy prices
+•	
+competing land-use pressures
+•	
+policy-related economic pressures, such as measures to mitigate greenhouse gas emission.
+The results of stakeholder engagement were centred around the broad ranging impacts of drought at an economic, 
+environmental and social level. It is important to recognise that impacts span a spectrum and may be cumulative. 
+For example, a drought may not be seen as severe, but impacts might be greater due to a lack of recovery between 
+stress events. The dry seasons of 2018 and 2019 were compounded by events happening over two consecutive 
+years. The late break in 2020 amplified concerns of another dry season however, extensive spring rainfall events 
+provided relief and enabled farmers to finish their crops and replenish on-farm water storage.  
+Economic Impacts
+Agriculture is the primary land use in the region. Inland Great Southern stakeholders reported experiencing 
+financial stress because of reduced production during drought. Farming families sell livestock, change livestock 
+structure, liquidate assets or increase their debt to survive. Non-farming families in the region suffer from reduced 
+employment opportunities and cash flows. 
+A decline in rainfall over the winter months in the south-west regions of Western Australia, including in parts of 
+the Great Southern, over the past 20 years has contributed to a reduced inflow into many surface dams. In some 
+towns not connected to the Lower Great Southern Towns Water Supply Scheme, supplies are becoming critically 
+low. Below-average rainfall has also impacted on-farm storage sources, local government dams and Department of 
+Water and Environmental Regulation strategic community water supplies, which are held for emergency use when 
+low rainfall causes on-farm supplies to fail. To address water deficiencies in the Great Southern, resilient water 
+infrastructure is essential.
+Several localities in the region including Jerramungup, Gairdner and Kent experience water deficiencies, with 
+deficiency declarations triggering State Government assistance to cart water for emergency use.  Non-potable 
+strategic water supplies and on-farm supplies are often unable to cope with more than two dry seasons. 
+Regional businesses in LGAs with more diverse economies, not dependent upon agriculture, showed a reduced 
+effect of drought events15.  In the Great Southern region, some businesses, including dam building businesses, water 
+drilling companies, and hay production businesses, significantly benefited from drought events. However, there is 
+a significant risk to our value-adding industries such as abattoirs, where a significant loss of livestock to the region 
+impacts viability of our key regional industries.  
+15	 Anderton, L. (2022). Economic Review on the Impacts of Drought. Prepared for the Department of Primary Industries and 
+Regional Development.
+The additional labour demands, with 
+the need to carry out activities such as 
+confinement feeding and water carting 
+for some businesses, was identified. 
+Recovery times from drought are not 
+immediate, especially for stock related 
+enterprises. It can take considerable 
+time to restock to pre-drought levels. 
+(South Coast NRM stakeholder engagement 2022)
+“
+“
+Inland Great Southern Drought Resilience Plan 2022              41
+
+Environmental
+Drought can have serious, long-term consequences for soil health, vegetation cover and biodiversity. Reduced 
+vegetation cover and drier soils increase the risk of erosion and invasion by weeds, pests and diseases. Plant 
+mortality becomes more pronounced in drought years, impacting on biodiversity and ecosystem services, and 
+reduces the ability to sequester carbon. This also impacts on the functioning of the landscape for economic and 
+social purposes. Aboriginal community members expressed concern about the impact of drought on vegetation, 
+water and fire regimes in the region.
+Social
+During the consultation process, Great Southern stakeholders stated that drought and drying seasons negatively 
+affect mental health, and led to business closures. This causes people to move away from the region, reducing 
+population sizes and access to essential skills and services. Mental health pressures are observed particularly 
+in successive dry or damaging event seasons, with people withdrawing from social interaction, impacting on 
+volunteering and philanthropy.  
+Notably, Aboriginal communities are likely to be disproportionately affected by drought, based on pre-existing 
+health and social disadvantage. Dry seasons and climate change impacts were highlighted as two of several linked 
+factors that have damaged the foundation of Noongar identity and well-being. The effects of dry seasons are felt 
+most strongly in First Nations communities as people feel Country hurting. This is also felt by the youth who feel a 
+disconnection from country, leading to struggles retaining identity and culture16. There are however opportunities to 
+increase the resilience of our First Nation communities through on-country restoration programs, to help Noongar 
+people connect with landscape and share cultural knowledge.  
+Further work is required to unpack and further understand the links between social and economic impacts and 
+environmental and economic predictors in the context of drought. However, inland Great Southern consultation 
+identified that drought and a drying climate presents an existential threat to ongoing cultural connection to the land. 
+16	Noongar Land Enterprise Group (2022). Valuing Noongar People and Practices in Drought Resilience.
+Land clearing really affects the 
+environment and its ability to retain 
+water. Water runs off the land very fast 
+and poisons creeks with fertilizer or 
+chemicals and silt, and it brings up the 
+salt. All the land clearing creates heat. 
+These days, I see a lot of trees dying 
+because it is too dry.
+(Noongar stakeholder engagement participant, 2022).
+“
+“
+Country is pretty important to us. 
+I see the overload of community when 
+it becomes part of someone - it takes 
+their wellbeing. I see young fellas who 
+don’t get out into the bush enough. 
+It takes away their identity and they 
+start to lose it.
+(Noongar stakeholder engagement participant, 2022).
+“
+“
+42          Great Southern Development Commission
+
+Future Scenarios
+The intensity and duration of hot spells is projected to increase across WA, with wet years likely to become 
+less frequent, and dry years (and drought) likely to become more frequent. Analyses of rainfall and temperature 
+data highlight a potentially concerning trend, with the composite hazard of hot drought beginning to occur in 
+recent years17. Appropriate steps must be taken to anticipate and mitigate the potentially devastating effects of 
+hot droughts. Analysis of climate data over recent decades has demonstrated six key messages relevant to the 
+sustainable and profitable management of our agricultural land 18:
+•	
+mean temperatures are rising
+•	
+annual rainfall is declining
+•	
+autumn and winter rainfall is declining
+•	
+spring and summer rainfall is increasing
+•	
+predictions indicate that these trends will continue
+•	
+in the short term, year-to-year climate variability may be more important than the longer-term trends 
+Additional future impacts of climate to consider at a regional level include: 
+•	
+economic pressures
+•	
+increased input costs and energy prices
+•	
+competing land-use pressures
+•	
+policy-related economic pressures, such as measures to mitigate greenhouse gas emission
+Crop and livestock farms in the region are likely to be adversely affected by a changing climate, with projected 
+increases in extreme events. Through increases in extreme events, water supplies may not be able to meet industry 
+and community demand. The potential future environmental impacts of drought are soil degradation, in particular 
+soil erosion, increasing risk of fire, and ongoing biodiversity loss. 
+The Inland Great Southern Drought Vulnerability Assessment describes future drought scenarios and details 
+the vulnerability of the region to future climate impacts, along with potentially transformative actions.  Research 
+commissioned by DPIRD19 highlights transformative solutions to build drought resilience of the community, regional 
+businesses, and agriculture. The project pipeline underpins the Regional Drought Resilience Plans and pending 
+investment framework. The overarching objective when implemented, will ensure the transformative projects will 
+build the resilience of the communities and regional businesses. 
+Research areas were identified by mega trends and short-range trends, their impact on the regions and what type 
+of change they would drive. Seven categories were then identified: water, digital, farm business, farming systems, 
+natural capital, community resilience and regional economy resilience (table below).  
+The level of innovation is high within the Great Southern region and this information was captured where possible to 
+provide the opportunity to leverage existing projects to support increasing resilience.  
+Table 4: Mega trends and short-range trends and potential impacts on regions
+17	 Mastrantonis, S. (2022). Defining Drought in Western Australia. Centre for Crop and Disease management, School of Molecular 
+and Life Science, Curtin University, Bentley, WA.
+18	Anderton, L. (2022). Economic Review on the Impacts of Drought. Regional Drought Resilience Planning 2022. LA. One 
+Economics and Consulting.
+19	Middleton, S. (2022). AgDots. Regional Drought Resilience Planning Program Global Literature Review – Key Drivers Report. 
+Prepared for Department of Primary Industries and Regional Development. 
+MEGA TREND
+IMPACT/RELEVANCE
+Supply and demand 
+shocks
+High input costs – substitution inputs, tight supply commodities, confidence 
+agriculture industry, land value increases
+Food trends
+Vegetable oil and plant protein demand, aquaculture product demand, onshoring 
+meat production
+Climate crisis
+Need for adaptive responses, ecosystem services, natural capital market, carbon 
+market opportunities
+Resource scarcity
+Oil, gas, water, labour underpinning inputs for the region’s economy
+Digital transformation
+Connectivity is the new highway, and data is currency
+Neo-ecology
+Sustainability becoming major economic driver
+Globalisation and 
+pandemics
+Less safe world, which is very connected, ongoing impact from major events and 
+tensions
+Wellbeing
+Wellbeing of communities impacted by drought
+               43
+
+07 Building on 
+Existing Resilience
+44          Great Southern Development Commission
+
+The agricultural regions of South-West of Western Australia are a success story in terms of climate adaptation 
+to date. While regions like the inland Great Southern are exposed to the impacts of climate change, farmers have 
+demonstrated a very high level of innovation to climate variability and reduced growing season rainfall. This includes 
+strong advancements in farming technology such as spray innovations to reduce water consumption and tramline 
+farming. It must be recognised that there is substantial collective experience in dealing with adverse conditions and 
+innovation and increased technological advancements. Much can be learned from what is already happening within 
+our communities and farming businesses.
+The sector has a good track record with increasing levels of grain production occurring despite reduced growing 
+season rainfall.  The dryer seasons in the Great Southern have seen a shift towards more cropping, particularly 
+canola, which is very profitable and reduces the risk of water logging in areas such as Cranbrook.  
+All farmers indicated that they have plans and seeding dates were important. Decisions are made based on past 
+experiences, observations, and the plan they were following. They try not to look “over the fence” and have more 
+trust in their own decision-making skills.
+The region has a number of highly valued grower groups who are actively involved in activities that support the 
+production, profitability and sustainability of their members through farmer-led collaboration, participatory research 
+and peer to peer learning. The South-West Western Australia Drought Resilience and Innovation Hub is actively 
+working with grower groups to develop and enhance the uptake of farmer-centred drought innovation and adoption 
+practices in the region.20
+South Coast NRM is an organisation involved in initiatives and programs that support the regeneration and 
+sustainability of local landscapes.  The Gondwana Link program, supported by a number of local, national and global 
+organisations, is highly active in reconnecting natural habitats across the South West.
+Regional stakeholders identified a number of initiatives worth noting that have been successful in supporting 
+communities through the challenges of drought. These are summarised below, according to each of our five 
+regional resilience themes.  Through South Coast NRM discussions21 with the community, it was clear that a 
+“holistic” approach is needed to make our region more resilient in the face of future droughts.  
+Drought or dry seasons have encouraged better farming practices and planning, bringing farmers’ attention to 
+improvements required. Some farmers have worked harder to increase drought resilience, although there is room 
+for some enterprises to improve their cost structuring and farm planning. 
+Farmer interviews conducted by South Coast NRM 22 indicated a strong level of existing resilience amongst 
+agricultural businesses in the inland Great Southern region.  The responses revealed that farmers: 
+•	
+recognise adverse seasonal conditions and fully understand the impacts of dry seasons on their business
+•	
+see business planning as a way to limit the stress, with the need to be adaptable and flexible
+•	
+noted the need to read the season and make early decisions 
+•	
+were aware of changing climate trends
+20	Grower Group Alliance 2022. South West WA Drought Resilience Adoption and Innovation Hub. Available here. 
+21	 South Coast Natural Resource Management Inc (2022). Regional Drought Resilience. Community Consultation Report for the 
+Inland Great Southern. Prepared for the Department of Primary Industries and Regional Development
+22	South Coast Natural Resource Management Inc (2022). Regional Drought Resilience. Community Consultation Report for the 
+Inland Great Southern. Prepared for the Department of Primary Industries and Regional Development
+Building recognition of the impacts 
+of drought and what’s needed for 
+resilience should be an ongoing 
+conversation - set the groundwork in 
+the good times to prepare for the 
+bad times.
+South Coast NRM Community Consultation Report 2022 for 
+the Inland Great Southern).
+“
+“
+               45
+
+Theme 1: Resilient Water 
+Snapshot of what’s working:
+•	
+Water harvesting projects
+•	
+Community Water Supply Program providing grants for community water supply improvements provided by 
+Department of Water Environment and Regulation (DWER)
+•	
+Water Smart Farms – a program demonstration innovative options to increase water harvesting, storage and 
+desalination options
+•	
+Farm Water Rebate scheme and Farm Management Deposit scheme to support farm businesses through 
+drought, and in preparing for drought 
+•	
+Technology to improve water harvesting and storage
+•	
+Interconnected dam strategies to maximise water storage efficiencies i.e. Gnowangerup
+•	
+More farmers exploring and equipping ground water supplies
+•	
+Government provision of emergency water supplies
+•	
+Waterwise towns program. In the Great Southern region, the program is being adopted in Gnowangerup, 
+Katanning, Kojonup, Tambellup and Pingrup
+•	
+Stormwater recycling schemes for irrigating public open space and/or providing emergency agriculture 
+supplies
+•	
+Policies that encourage water re-use policies including decentralised water supplies such as plumbed-in 
+rainwater tanks, greywater recycling and water efficient appliances for new residential developments.23
+23	Clifton, P. and Price, M. (2022) Regional Water Issues and Policy Analysis – Non-potable water: Southern Wheatbelt and Inland 
+Great Southern, Western Australia.
+Gnowangerup Airport Dam funded 
+through DWER’s Community Water 
+Supply Program, in partnership with 
+the Shire of Gnowangerup. 
+Completed in 2021.
+“
+“
+46          Great Southern Development Commission
+
+Theme 2: Resilient Communities
+Snapshot of what’s working:
+•	
+Community events and projects supporting ongoing connection and opportunities to volunteer
+•	
+Participation in on-country land restoration projects
+•	
+Sharing cultural knowledge
+•	
+Maintaining green spaces and accessible community spaces to support social connection, particularly through 
+sport and cultural events, and networking opportunities
+•	
+Counselling services to support those farmers dealing with dry seasons, and extending this support to 
+regional businesses
+•	
+Sharing lessons learned from previous droughts and the community experiences of how they have adapted 
+when going through a drought period
+
+Theme 3: Resilient Agriculture
+Snapshot of what’s working:
+•	
+Drought mitigation and planning through shared experiences and farmer networking
+•	
+Encouraging farmers to adopt practices to become more profitable and sustainable, with a focus on carbon 
+sequestration
+•	
+Adoption of research innovation (no-till, new varieties, low input cropping) has been instrumental in ensuring 
+productivity increases despite declining growing season rainfall
+•	
+Increasing sophistication of farm business management, including use of professional farm consultants and 
+advisors
+•	
+Drought planning
+•	
+Exploration of pasture and perennial systems to make use of summer rainfall
+•	
+Niche, high value-adding opportunities
+•	
+Off-farm income
+•	
+Soil health monitoring site and projects aiming to remediate soil acidity and wind erosion
+•	
+General sound management such as weed control, appropriate varieties and stock husbandry
+•	
+Non-wetting management, such as clay spreading, mouldboard ploughing or application of wetting agents
+•	
+Seeking methods for improving soil biology to improve efficiency of inputs such as fertiliser
+•	
+Application of lime to improve soil pH and deep ripping for improvement in subsoil pH
+•	
+Precision agriculture tools such as GPS monitoring of operations allow for better targeted application of inputs
+•	
+Alternative crops and pastures, chickpeas, long coleoptile wheat varieties
+•	
+Lick feeders and increased storage facilities for grain and fodder
+•	
+Labour-saving technology for stock
+•	
+Re-greening farms to benefit biodiversity in a changing climate
+Participation in restoration projects gets 
+Noongar people out on Country. Spending 
+time on Country helps Noongar people 
+connect with the landscape and share 
+cultural knowledge.  These projects, 
+in addition to their restorative benefits 
+and mental health effects, are also 
+mechanisms for the maintenance and 
+transmission of Noongar culture.
+(Indigenous stakeholder participant 2022).
+“
+“
+Inland Great Southern Drought Resilience Plan 2022              47
+
+Theme 4: Resilient Landscapes
+Snapshot of what’s working:
+•	
+Analysis of climate change impacts and adaptation approaches 
+•	
+Soil health monitoring site and projects aiming to remediate soil acidity and wind erosion
+•	
+Supporting farmers with knowledge and tools across the Southern WA agricultural regions to regenerate 
+saline and marginal production lands (Gillamii)
+•	
+Improving farming practices to build soil health
+•	
+Active efforts to rehabilitate and regenerate landscapes restoring connection to land, while supporting the 
+economic participation of Aboriginal people through business opportunities, including seed collection, seedling 
+raising and revegetation efforts
+•	
+Noongar people bringing value from cultural knowledge and practices
+•	
+Switching to sustainable farming solutions
+Theme 5: Resilient Regional Economy 
+Snapshot of what’s working:
+•	
+Business diversification 
+•	
+Value-adding to existing agricultural enterprises 
+•	
+Improved online presence and e-commerce
+•	
+Good business planning
+•	
+Learning from experience
+•	
+Accessing professional advice
+•	
+Strong interest and commitment in the region for Noongar engagement and participation to support resilience 
+activities 24
+•	
+Katanning has a high level of business diversity (less reliance on agriculture)
+24	Wrigley, M. and Bartlett, K. (2022). Great Southern Inland Regional Drought Resilient Plan – Report on Aboriginal Community 
+Consultations. Prepared in collaboration by Keogh Bay; South Coast NRM and Gillamii Centre for the Department of Primary 
+Industries and Regional Development.
+But there are good things going on - 
+there is “a lot of seed collection and 
+replanting and revegetation, especially 
+at the Stirlings. You are starting to see 
+where there are more trees planted. 
+You start to see more rainfall, so it is 
+not all doom and gloom”.
+(Noongar stakeholder, 2022)).
+“
+“
+48          Great Southern Development Commission
+
+Inland Great Southern Drought Resilience Plan 2022              49
+
+Shire of Gnowangerup - Street Art 
+08 Opportunities 
+Moving Forward
+50          Great Southern Development Commission
+
+Whilst the region already has several initiatives and interventions that are working well in terms of dry season 
+preparedness and mitigation, efforts should be made to reduce socio-economic vulnerabilities and increase 
+institutional capacities. Through the stakeholder engagement process, a number of opportunities for drought 
+resilience were identified. 
+Inland Great Southern communities are very dependent on the agriculture sector for its their economic well-
+being.  This means climate variability and dry seasons could impact on the economic and social wellbeing of these 
+communities. The region also faces several resilience challenges, including economic diversification and access to 
+infrastructure and services. The number one issue of concern for inland Great Southern communities is having 
+confidence in existing available water systems to ride out at least two successive drought years.
+South Coast NRM stakeholder25 engagement revealed key whole of landscape, whole of business, and whole of 
+community resilience challenges. These include:
+•	
+the need for extension of drought preparedness information
+•	
+communications consistency in the delivery of planning and mitigation actions
+•	
+support for existing networks that work at the ground level (eg. grower groups and community landcare 
+groups)
+•	
+a more holistic approach to drought response (impacts don’t stop at the farm boundary)
+•	
+the need for mental health and wellbeing need to be supported individually and at a community level
+•	
+the need to build and restore natural resources
+The following is a summary of the key areas of opportunity for improving drought resilience. These are structured 
+around each of our five resilience themes. More details on this can be found in the Inland Great Southern DVA.
+Theme 1: Resilient Water
+Targeted research, development and extension to build on water efficient farming systems and practices, and 
+investment in water infrastructure, would further support ongoing agricultural resilience. Improved planning and 
+coordination of future water needs was identified as a key opportunity for industry, agriculture and community use, 
+supporting ongoing growth and development of the region. 
+Investigation of alternative water sources is an opportunity that should be pursued, along with reducing distances 
+between off-farm water sources and increasing the capacity of community water sources. Also important is 
+the bolstering of scheme capacity to support regional communities’ non-potable and potable water supplies. 
+Considerable work has been undertaken in the Great Southern to address rising saline groundwater beneath 
+farming land and rural towns. This water could supplement farm and emergency community water supplies and 
+alleviate the pressure on schemes that supply potable water.
+25	South Coast Natural Resource Management Inc (2022). Regional Drought Resilience. Community Consultation Report for the 
+Inland Great Southern. Prepared for the Department of Primary Industries and Regional Development.
+Inland Great Southern Drought Resilience Plan 2022              51
+
+Theme 2: Resilient Communities
+Mental health pressures are amplified in rural communities in successive dry or damaging event seasons.  This 
+manifests through people withdrawing from social interaction, impacting on volunteering and philanthropy which 
+often form the fabric of many communities.  The challenges to maintain green spaces in towns and the decline 
+in natural resource condition (soil erosion, water erosion, vegetation decline) adds to the mental health burden 
+associated with drought and directly impacts social cohesion.  The delivery of high-quality, large-scale events held 
+in the region provides significant regional economic benefits to the region. 
+Through regional stakeholder engagement, it became clear that opportunities for strengthening Indigenous 
+knowledge through creating and maintaining access to land and sea Country is very important for social and 
+community resilience. Fostering strong partnerships that enable the building of respect and appreciation for 
+Indigenous knowledge and the harnessing of intergenerational knowledge, peer-to-peer learning opportunities and 
+leveraging networks are highly valued and important opportunities to be pursued26.
+Theme 3: Resilient Agriculture
+There are opportunities to tap into the recently announced WA Farming Systems Project, a partnership between 
+DPIRD and the Grains Research and Development Corporation, that has focus areas in the low and medium rainfall 
+zones, including consortia locations.  
+Early detection and monitoring of seasonal conditions, and dissemination of relevant information to farming 
+communities about the potential for drought conditions would allow for timely decisions. There is an opportunity 
+to establish a network of ‘typical’ farms in WA to monitor farm performance and volatility of climate impacts which 
+would be a cost-effective and more informative strategy to understand the impacts of seasonal conditions. 
+Transitioning to regenerative agriculture practices has also been identified as fundamentally important to meet 
+climate change targets, food security needs, protect farmland and build healthier food systems in addition to carbon 
+farming opportunities.
+26	Noongar Land Enterprise Group (2022). Valuing Noongar People and Practices in Drought Resilience.
+“
+“
+The Inland Great Southern Drought Resilience 
+Plan presents for consideration a range of 
+interventions and actions to support the 
+preparedness and economic, environmental, and 
+social resilience to future droughts in the region.
+52          Great Southern Development Commission
+
+Theme 4: Resilient Landscapes
+Stakeholder consultation in the region revealed a number of opportunities for Aboriginal businesses to participate 
+and benefit from initiatives to support drought resilience. In particular, participation in landscape conservation and 
+restoration activities such as seed collection to support revegetation and carbon farming projects offer potential 
+economic opportunities for Aboriginal people. 
+Environmental stewardship programs, informed participation in carbon farming, and extension and adoption 
+programs were identified as opportunities to improve environmental resilience. Developing and sharing Noongar 
+“science” to support the improved condition and potential restoration of significant gathering places such as the 
+water pools, was an expressed desire of Noongar Elders. 
+Noongar people hold valuable and in-depth knowledge about the nature of the Great Southern. As a result, 
+opportunities should be sought to engage the Noongar community in leading and being involved in any restoration-
+related projects. It was suggested that an innovative project to support Noongar cultural maintenance and 
+relationships in the inland Great Southern might be to establish a “Noongar-friendly landowner network” willing to 
+allow Noongar people to do some, or all, of the following on their land27:
+•	
+Access remnant bushland
+•	
+Gather bush foods and medicines
+•	
+Run revegetation projects on parts of their land
+•	
+Take kangaroos and emus and other game
+•	
+Control feral animals
+•	
+Visit important sites and locations that may have previously been inaccessible
+•	
+Camp 
+•	
+Conduct traditional burning in remnant native vegetation 
+A Noongar led framework of action to support improved engagement in land management was suggested as a 
+way forward.
+Theme 5: Resilient Regional Economy
+There is strong potential to capture opportunities for decarbonisation of the economy, with growing interest and 
+investment in renewable energy and biofuels projects, and large-scale carbon farming plantings. Niche value-adding 
+on-farm, off-farm diversification, and multi-industry servicing also present opportunities to build drought resilience 
+and adaptive capacity. Improved understanding and advocacy for regional enabling infrastructure to support 
+economic growth is considered essential for building dry season and climate resilience. 
+Additionally, there is the opportunity to develop ‘culture based’ economies in areas such as biodiversity 
+conservation, land and water management and carbon sequestration. A project identified during stakeholder 
+engagement, included the option to integrate carbon farming to low-value agricultural land – across a number of 
+properties. This is an example of a project that would have significant benefits to the environment, in addition to a 
+potential economic benefit to landholders in the region. 
+Drought Policy and Support Mechanisms
+A range of policy ideas were raised during consultation, including: 
+•	
+defining drought for WA to ensure consistent and fair allocation of drought resilience/ drought support funding
+•	
+policies and programs to incentivise upgrading of water infrastructure on farms and in communities
+•	
+tax incentives for landholders/ businesses to invest in water supplies
+•	
+extension of farm management deposits to rural businesses that rely on agriculture
+A demonstrated ability for the agricultural industry, regional businesses and communities to adapt to changing 
+conditions make the region an excellent candidate for future drought resilience action.
+27	Wrigley, M. and Bartlett, K. (2022). Great Southern Inland Regional Drought Resilient Plan – Report on Aboriginal Community 
+Consultations. Prepared in collaboration by Keogh Bay; South  Coast NRM and Gillamii Centre.
+Inland Great Southern Drought Resilience Plan 2022              53
+
+09 The Plan
+Stirlings - Tourism WA
+54          Great Southern Development Commission
+
+The actions and priorities presented in this plan are grouped under each of our five drought resilience themes, 
+identified through stakeholder engagement, as follows: 
+Resilient Water
+Resilient Communities 
+Resilient Agriculture 
+Resilient Landscapes 
+Resilient Regional Economy 
+Building resilience can involve maintaining, modifying, or transforming parts, sectors or whole systems. Therefore, 
+each proposed set of actions is identified as either maintain, modify, or transform to indicate which pathway is 
+required. These pathways identify the type of change needed in the region to achieve our desired outcomes. This 
+allows for decision making around which set of intervention options to start with, given available resources.  
+Interventions identified as part of the formal Transformative Review undertaken by AgDots   have also been 
+included. The implementation of these resilience building actions is subject to further discussion with Consortia 
+stakeholders.  
+9.1 Resilient Water
+Theme Outcome
+The region has a water system the community has confidence in to sustain industry, agriculture, and the community 
+through consecutive decile 1 rainfall years.
+FDF Strategic Priority
+Environmental, Economic and Social Resilience
+FDF Objective
+Grow the self-reliance and performance (productivity and profitability) of the agricultural sector; Strengthen the 
+wellbeing and social capital of rural, regional, and remote communities; Improve the natural capital of agricultural 
+landscapes for better environmental outcomes.
+Current Situation
+The inland Great Southern’s potable water source is provided by externally sourced piped scheme water via Great 
+Southern Town Water Supply scheme. During dry periods, scheme water resources are strained.  Non-potable 
+strategic water supplies and on-farm supplies are often unable to cope with more than two dry seasons. Dry 
+seasons and reduced growing season rainfall result in increased draw on scheme water and strategic community 
+water supplies, triggering water deficiency declarations.  Water supply development occurs sporadically and is 
+undertaken by multiple organisations. Improved planning and coordination of future water needs was identified as a 
+key opportunity for industry and community use, supporting ongoing growth and development of the inland 
+Great Southern.
+Inland Great Southern Drought Resilience Plan 2022              55
+
+THEME 1: RESILIENT WATER
+INTERVENTION 
+PROPOSED ACTION
+Future looking and 
+coordinated total water 
+management planning. 
+•	
+Review and update LGA emergency water supply plans
+•	
+Review water requirement for regional road works and firefighting capabilities, 
+and identify risks in supply during times of drought
+•	
+Update regional water strategy for the Great Southern, taking into consideration 
+supply and demand requirements of non-potable water, and capacity from 
+scheme, groundwater and surface water resources
+•	
+Review Water Deficiency Declarations Policy, including a review of cost of 
+scheme water for regional communities in drought
+•	
+Review capacity of the Scheme system to cope during drought events and 
+risks associated in delivery of water for agriculture, businesses, farmland and 
+regional communities
+•	
+Develop a platform to make this information available to decision makers and 
+planners on current demand and availability of water across the region (include 
+Standpipe access, strategic community water supplies)
+•	
+Farm water budgeting - assist farmers to integrate climate information, 
+increased demand for water into on-farm water supply plans to ensure farms 
+are not at risk for two dry seasons
+Better water data 
+to support planning 
+and better regional 
+development outcomes
+•	
+Understand regional water development constraints to support business 
+investment decisions and consideration of options to address constraints
+•	
+Review capacity of regional bores that provide drought relief
+•	
+Review risks of water demands for key industries in the Great Southern
+•	
+Improve the security of strategic community water supplies through swipe card 
+access
+•	
+Undertake detailed hydrogeological surveys in areas at risk of drought to 
+identify potential groundwater resources for non-potable water use (including 
+new technologies/desalination)
+Improving the uptake of 
+on-farm and household 
+water supply 
+•	
+Investigate and promote cost effective water quality treatment options to 
+improve water quality on-farm
+•	
+Demonstrations of water monitoring technology on-farm
+•	
+Support access to hydrogeological expertise to investigate groundwater 
+opportunities to support regional communities access water for agriculture and 
+industry development
+Regional small water 
+infrastructure projects
+•	
+Review options to extend scheme and increase/buffer capacity to fill gaps in 
+high-risk areas
+•	
+Implement a program of water-related project upgrades to address urgent gaps 
+in the water supply system (based on DWER/LGA/Water Corporation planning)
+Optimising use of water in 
+communities
+•	
+Develop proactive regional water improvement incentive scheme (farm water 
+planning/farm water rebate scheme/rainwater tank subsidies)
+Transformative Actions 
+Identified through AgDots 
+Review
+Transform
+•	
+Water Supply and Risk Assessments (Regional Water Security and 
+Investment Plans)
+•	
+Conduct water source investigations for all new water sources
+•	
+Support and expand desalination pilots in communities and on-farm
+•	
+Support development of on-farm planning tools to accelerate water resource 
+planning at local scale (e.g., DamCat project acceleration)
+•	
+Incentivise on-farm water infrastructure investment
+56          Great Southern Development Commission
+
+9.2 Resilient Communities
+Theme Outcome
+Communities that are resourceful, adaptable and supported to mentally and physically bounce back from drought. 
+FDF Strategic Priority
+Social and Economic Resilience
+FDF Objective
+Strengthen the wellbeing and social capital of rural, regional and remote communities.
+Current Situation
+The small communities in the inland Great Southern are particularly exposed to dry season impacts, given the high 
+dependence on agriculture and the high levels of volunteerism that support social connection. The uncertainty and 
+financial stress associated with future droughts has the potential to negatively affect mental health in regional areas. 
+Drought also contributes to failed businesses, causing people to move away from regional communities. Smaller 
+communities lack access to community services and support networks in the region.  Noongar community members 
+see drought in the context of wider changes to the natural environment including land clearing, damage to rivers 
+and creeks, changing climate and ecological responses. Drought was noted as one of the several linked factors that 
+have damaged the foundation of Noongar identify and well-being. 28
+28	Wrigley, M. and Bartlett, K. (2022). Great Southern Inland Regional Drought Resilient Plan – Report on Aboriginal Community 
+Consultations. Prepared in collaboration by Keogh Bay; South Coast NRM and Gillamii Centre.
+THEME 2: RESILIENT COMMUNITIES
+INTERVENTION 
+PROPOSED ACTION
+Community Health and 
+Wellbeing 
+•	
+Development of drought responsive wellbeing programs to support key areas 
+including mental health, women, businesses, community groups and farmers
+•	
+Complete local community wellness plans based on local needs and drought 
+resilience risks
+•	
+Establish regular regional visiting mental/financial counselling/physical health 
+specialist program that is visible and delivery is considerate of local needs and 
+sensitivities, matched to drought status
+Events and green spaces 
+to support community 
+connection
+•	
+Provision and maintenance of green spaces for regional towns during drought 
+events
+•	
+Innovative flexible community events funding program with a defined trigger for 
+access during drought events
+•	
+Support LGA’s, communities and Grower Groups with Drought Officers, 
+providing support and knowledge/access to funding assistance
+Access to educational 
+opportunities closer to 
+home
+•	
+Education - review option of providing year 7 for smaller regional communities 
+impacted by drought
+•	
+Improved online learning options for regional people - qualifications on-line 
+(subsidised options)
+•	
+Enhance visibility of the regional University Centres/TAFE opportunities
+Inland Great Southern Drought Resilience Plan 2022              57
+
+THEME 2: RESILIENT COMMUNITIES
+INTERVENTION 
+PROPOSED ACTION
+Development of local 
+leadership capacity and 
+enhancing social capital
+•	
+Statewide drought plan to include appropriate indicators and response 
+mechanisms to support regional communities in drought (including a reviewed 
+communication and reporting mechanism from regional communities to State and 
+Commonwealth Government)
+•	
+Enhance local leadership capacity through encouraging participation in 
+leadership programs
+•	
+Identify mentors in and out of the community (drought champions)
+•	
+Support for inter-regional tours of growers and community leaders to share 
+drought experiences and practices
+•	
+Support an active network of arts/culture/community organisations during times 
+of drought
+•	
+Cultural connections and learning - increase collaboration between Noongar 
+organisations, farmers and natural resource management / landcare groups in 
+planning and implementing land restoration projects to increase climate resilience
+Increasing community 
+capacity to understand, 
+plan and manage for 
+drought
+•	
+Cultural Heritage Management Plans to include threats from climate change, 
+droughts and dry seasons
+•	
+Conduct vulnerability assessments of Aboriginal sites and potential risk of 
+drought/climate change impacts
+•	
+Drought Platform - one stop shop for support mechanism - enhance visibility 
+of support mechanisms of relevance to the region - (regionally relevant tools, 
+referral agencies, technical information); case studies of local champions that are 
+implementing climate change adaption and dry season/drought preparation on-
+farm; locations of relevant research, demonstration sites and trials
+•	
+Drought responses further validated based on appropriate drought indicators and 
+identified vulnerabilities contextualised to Western Australian agricultural systems
+Support evidence-based 
+policy and program 
+response to address 
+drought resilience in 
+vulnerable cohorts
+•	
+Conduct research into the true impact of drought and concepts of ‘resilience’ 
+on rural, remote and regional women - what is the most appropriate response 
+from a policy perspective
+•	
+Match financial Counsellor and drought support workers to demand - develop 
+triggers, linked with drought check in programs
+Natural resource condition 
+report card and natural 
+capital accounting for the 
+regions
+•	
+Develop a program to monitor and record impact of drought on natural 
+resources (report card instigated during times of drought)
+•	
+Include appropriate measures into DVAs (water quality and availability, soil 
+health (biology, carbon), pests and weed incursion, vegetation condition, salinity, 
+and erosion)
+•	
+Enlist support of regional landcare groups and Aboriginal rangers to support 
+resource condition monitoring and restoration during and post drought events
+•	
+Better articulate the economic and social value of natural resources and 
+ecosystem services - natural capital accounting for the regions; and impact on 
+capital during times of drought
+Building regional capacity 
+to manage natural 
+resources
+•	
+Support the regional NRM organisations to target and leverage grant 
+opportunities to assist landcare groups and grower groups become more 
+drought resilient
+•	
+Support expansion of Aboriginal ranger program to embed traditional 
+knowledge into natural resource management
+Best bet land and 
+infrastructure design 
+uses to support improved 
+natural resource 
+functioning 
+•	
+Identify diversified options for land not suitable for cropping or livestock such 
+as native bush food collection
+•	
+Explore how on-farm and town water structures can support environmental 
+functioning (e.g. better dam design to replicate wetland functioning/filtering; 
+evaporation control; drainage planning)
+Quantifying the impacts of 
+regenerative agriculture 
+practices during and post 
+drought
+•	
+Investigate and champion opportunities for uptake of regenerative agriculture 
+practices that support drought resilience in the region (increasing groundcover; 
+integration of animals; improving soil health)
+58          Great Southern Development Commission
+
+9.3  Resilient Agriculture
+Theme Outcome
+An agriculture sector that is highly engaged in innovating farming systems to be resilient to drought.
+FDF Strategic Priority
+Economic Resilience 
+FDF Objective
+Grow the self-reliance and performance (productivity and profitability) of the agricultural sector; Improve the natural 
+capital of agricultural landscapes for better environmental outcomes.
+Current Situation
+Despite high resilience in terms of agricultural production capability, the region is still exposed to the impacts of 
+climate change (increasing temperatures, decreasing rainfall, changes in the timing of rainfall and increasingly 
+frequent drought) and faces several general resilience challenges including economic diversification and access to 
+infrastructure, services and reliable, good quality water. 
+However, the agriculture sector across the region has made major changes to farm management practices to limit 
+the impacts of reduced growing season rainfall and dry seasons on businesses.  These include managing their debt, 
+accessing farm management and business support, de-stocking early and / or permanently, improving soil acidity 
+and water retention capability, increasing on-farm water storage and optimising pesticide and fertiliser use.  The 
+sector has a good track record in terms of capacity to adapt and respond to risks, with increasing levels of grain 
+production occurring despite reduced growing season rainfall.  
+There are still areas for further investigation to enable continued productive capacity and profitability in the face of 
+a drying climate. The region has a large number of highly valued grower groups who are actively involved in activities 
+that support the production, profitability and sustainability of their members through farmer-led collaboration, 
+participatory research and peer to peer learning.
+THEME 3: RESILIENT AGRICULTURE
+INTERVENTION 
+PROPOSED ACTION
+WA Drought Indicators 
+Platform and longitudinal 
+monitoring program
+•	
+Adapt the National Climate Drought Indicators platform for WA - develop WA 
+specific climate/drought indicators and platform to support early forecasting, 
+detection and reporting, of drought
+•	
+Develop an appropriate drought criterion for Western Australia (seasonal 
+rainfall, researching use of rainfall percentiles, or other more appropriate criteria 
+as triggers for drought support programs)
+•	
+Further investigate the application of drought indices relevant for the Great 
+Southern
+•	
+Further research on ‘hot droughts’ - current and predicted impacts on 
+agricultural production
+•	
+Further define the RDRP DVA methodology, updating as new information comes 
+on board; advocate for improved data quality collected by ABS/ABARES and 
+appropriate criteria.
+•	
+Develop a State-wide Drought Plan, documenting roles and responsibilities of all 
+agencies with appropriate response and support mechanisms
+Inland Great Southern Drought Resilience Plan 2022              59
+
+THEME 3: RESILIENT AGRICULTURE
+INTERVENTION 
+PROPOSED ACTION
+Building drought, climate 
+and carbon literacy to 
+support risk management 
+and planning
+•	
+Improve regional access to extension program to increase knowledge on 
+climate and weather patterns and forecasting, including use of existing tools 
+such as DR-SAT, CliMate, DPIRD Statistical Seasonal Forecasting
+•	
+Support initiatives to build regional climate monitoring capacity 
+•	
+Extension programs to support land managers to use available industry 
+approved tools to calculate carbon footprint and to support decision making 
+to mitigate the impact of climate change, drought and dry seasons on land and 
+economic assets
+•	
+Identify local champions that are implementing climate change adaption and dry 
+season/drought preparation on-farm to document and share their experiences
+•	
+Improve the adoption of on-farm water management improvements through 
+integration of water planning modules into existing farm business planning 
+decision making tools
+•	
+Cost benefit analysis of innovative wate resolutions and maintenance of existing 
+infrastructure
+•	
+Support delivery of Farm Business Resilience and Small Business climate 
+resilience planning workshops in the region; including focus on financial 
+strategies to mitigate drought impacts
+•	
+Support Aboriginal landholders to build drought resilience in their enterprises
+Connection and 
+collaboration for 
+identifying, prioritising and 
+implementing research and 
+development needs for the 
+region
+•	
+Articulate and communicate key drought R&D priorities for the region through 
+targeted grower group
+•	
+R&D forum and future farming system workshop, including strong engagement 
+with the SWWA Drought Hub and key industry stakeholders (MLA, GRDC)
+•	
+Identify and implement opportunities for ‘in my backyard’ innovation 
+demonstrations relevant to the region, including digital farm demonstrations to 
+increase uptake of drought innovation and research
+•	
+Advocate for extended field testing of long coleoptile wheat varieties (200mm +) 
+in WA’s low-medium rainfall grain belt and GM drought tolerant wheat and frost
+•	
+Enhance the visibility of State-led farming systems research and development, 
+including long term farming systems trial at Merredin and Katanning pastures 
+and low carbon livestock, research and crop and pasture modelling across soil 
+types and rainfall zones
+•	
+Trial AASF in WA in target areas for this program
+Better understanding risk
+•	
+Assess the risk and impact of drought on the agricultural supply chain
+•	
+Investigate improved agricultural weather insurance products and access to 
+products
+Collaboration and 
+extension support for 
+drought resilience
+•	
+Support local Grower Groups and local community groups who provide a 
+valuable role to implement drought adaption initiatives
+•	
+Support farmers to develop drought plans for their farms
+Transformative Actions 
+Identified through AgDots 
+Review
+Transform
+•	
+Build capability for usage of on-farm data for insurance index products
+•	
+Support grower education/training for financial risk management tools
+•	
+Advocate Farm Management Deposit maximum cap to be relative to the size of 
+the business
+•	
+Evaluate impact of drought support programs on-farm businesses
+•	
+Support research and development and industry development for alternative 
+drought tolerant crops
+•	
+Support research and industry development for livestock feeding options 
+(carbon positive feed supply e.g., asparagopis)
+•	
+Support research and increased adoption of low input cropping options (VRT, 
+alternative fuels, electric vehicles, regen farming)
+•	
+Support research and development for building soil health (greater depth soil 
+amelioration, hostile soil management, biochar)
+•	
+Support research and development in catchment management initiatives and 
+build soil and water systems health (e.g., landscape ecology and rehydration)
+60          Great Southern Development Commission
+
+9.4   Resilient Landscapes
+Theme Outcome
+Healthy landscapes with natural resources able to sustain industry and environmental services.
+FDF Strategic Priority
+Environmental Resilience 
+FDF Objective
+Improve the natural capital of agricultural landscapes for better environmental outcomes; Strengthen the wellbeing 
+and social capital of rural, regional and remote communities.
+Current Situation
+Consultation with Aboriginal Elders identified that, when country is not healthy, the people are not healthy. A number 
+of initiatives are already being undertaken by local natural resource management and Indigenous groups to mitigate 
+the effects of drought on the natural landscape. 
+During stakeholder consultation, Aboriginal community members expressed concern over the degradation of the 
+natural environment, through land clearing, and salinisation, worsened by global warming, higher temperatures and 
+dry seasons. Cultural values are steeped in connection to land, and this degradation is of concern in the Noongar 
+community. 
+Natural resource management support was noted as one of the first things to be cut in a dry season, with no extra 
+time or money for activities like revegetation. At the sub-regional level, management of landscapes to reduce impact 
+of erosion events (e.g. increased levels of vegetation, permanent plantings) and improve biodiversity are areas that 
+need further investigation and support. 
+THEME 4: RESILIENT LANDSCAPES
+INTERVENTION 
+PROPOSED ACTION
+Natural resource condition 
+report card and natural 
+capital accounting for the 
+regions
+•	
+Develop a program to monitor and record impact of drought on natural 
+resources, longitudinally monitor and incorporate into DVAs; includes water 
+quality and availability, soil health (biology, carbon), pests and weed incursion, 
+vegetation condition, salinity, erosion
+•	
+Re-establish regional wetland monitoring program to establish environmental 
+values, cultural values and condition of wetlands and the impact of drying 
+seasons (include groundwater dependent ecosystems)
+•	
+Enlist support of regional Landcare groups and Noongar Boodja Rangers to 
+support resource condition monitoring
+•	
+Identify and monitor indicator species for changes in the climate (such as the 
+Australasian bittern or noisy scrub bird)
+•	
+Collect more information on threatened species biology and ecology, 
+particularly climate tolerances
+•	
+Better articulate the economic and social value of natural resources and 
+ecosystem services - natural capital accounting for the regions; and impact on 
+capital during times of drought
+Inland Great Southern Drought Resilience Plan 2022              61
+
+THEME 4: RESILIENT LANDSCAPES
+INTERVENTION 
+PROPOSED ACTION
+Building regional capacity 
+to manage natural 
+resources
+•	
+Support sub-regional groups to ensure targeting and leveraging of NRM grant 
+opportunities
+•	
+Promote actions to improve soil health (e.g. increased soil cover, organic matter) 
+and ensure that actions are implemented to retain a vegetative cover/structure 
+to protect topsoil
+•	
+Support expansion of Noongar Boodja Ranger program; encourage expansion 
+of traditional knowledge into natural resource management
+•	
+Promote the principles of land rehydration and support the process through 
+education and funding for on-ground actions/trials/demonstrations
+•	
+Provide opportunities for on-country projects, recognising that on-country 
+activities enable intergenerational transfer of knowledge and build connection 
+to country and offer viable business opportunities
+Inland Great Southern 
+Revegatation
+•	
+Develop a strategy for optimised carbon plantings to ensure triple bottom 
+line benefits; includes mapping of suitable locations that do not compromise 
+agricultural productivity, provide biodiversity benefits (create habitat corridors) 
+and economic opportunities for landholders
+•	
+Build carbon farming literacy through delivery of workshops and accessible 
+information/support on carbon farming opportunity to support uptake of 
+appropriate opportunities
+•	
+Build resilience by large scale re-vegetation, build connectivity and improve 
+mosaic landscapes (using priority areas as identified in the South Coast Macro-
+Corridor Project and the NRM Planning for Climate Change MCAS modelling, 
+Gondwana Link)
+•	
+Monitor increased fire risk with vegetation management and fire research
+Best bet land and 
+infrastructure design 
+uses to support improved 
+natural resource 
+functioning
+•	
+Identify productive uses of land not suitable for cropping or livestock and 
+identify appropriate management options
+•	
+Explore how on-farm and in-town water structures can support environmental 
+functioning - e.g. better dam design to replicate wetland functioning/filtering; 
+evaporation control
+•	
+Investigate opportunities for uptake of regenerative agriculture practices that 
+support drought resilience in the region - increasing groundcover; integration of 
+animals; improving soil health
+Quantifying the impacts of 
+regenerative agriculture 
+practices during and post 
+drought
+•	
+Investigate opportunities for uptake of regenerative agriculture practices that 
+support drought resilience in the region - increasing groundcover; integration of 
+livestock and improving soil health
+Ecosystem services
+•	
+Marketing of good land stewardship (e.g. case studies)
+•	
+Environmental services
+•	
+Catchment plans to support holistic landscape scale actions
+•	
+Continue updating and implementing the Regional NRM Plan (Southern 
+Prospects) – a regional context and framework for catchment management.
+Transformative Actions 
+Identified through AgDots 
+Review
+Transform
+•	
+Support natural capital framework development in WA Agriculture 
+•	
+Evaluate and expand biodiversity stewardship program and trials in WA
+•	
+Pilot participation in national biodiversity trading platform
+•	
+Improve carbon and climate literacy and understanding of the carbon market
+•	
+Support projects to test market to develop smaller more integrated projects 
+(pollination, soil conditions, biodiversity) and create a model to provide co-
+benefits and support local communities and businesses
+62          Great Southern Development Commission
+
+9.5    Resilient Regional Economy
+Theme Outcome
+A diverse, forward looking, adaptable business sector, not wholly dependent on seasonal conditions.
+FDF Strategic Priority
+Economic Resilience 
+FDF Objective
+Grow the self-reliance and performance (productivity and profitability) of the agricultural sector; Strengthen the 
+wellbeing and social capital of rural, regional and remote communities.
+Current Situation
+Despite a declining or stagnant population growth, the Great Southern region’s gross regional product is growing as 
+the agricultural and mining sector grows, and small and medium enterprises establish to service those underpinning 
+sectors. Supporting the diversification of the economy through encouraging business development in the region 
+was considered important in enhancing economic and community resilience. 
+Anecdotal evidence suggests that farm numbers and on-farm based populations are declining, but regional ‘town’ 
+populations are not - a gap that warrants further investigation.  There is strong potential to capture opportunities for 
+decarbonisation of the economy, with growing interest and investment in renewable energy and biofuels projects, 
+and large-scale carbon farming plantings. Niche value-adding on-farm, off-farm diversification, and multi-industry 
+servicing also present opportunities to build drought resilience and adaptive capacity.
+THEME 5:  RESILIENT REGIONAL ECONOMY
+INTERVENTION 
+PROPOSED ACTION
+Addressing constraining 
+enabling infrastructure to 
+support industry growth 
+and regional resilience to 
+climate change
+•	
+Undertake regional infrastructure/market constraint audit - including power, 
+water, transport, telecommunications, land, housing and labour - to consolidate 
+understanding and focus investment to building economic and social resilience; 
+Great Southern water supply plan (refer to water resilience actions)
+•	
+Great Southern energy supply strategy developed, or made visible, to support 
+ongoing resilience of regional communities, including enhancing rollout of 
+alternative, grid independent energy sources (e.g. Stand Alone Power Systems) 
+and consideration of requirements to electrify the agricultural industry
+•	
+Work with relevant organisations to develop and implement a worker 
+accommodation strategy
+Supporting economic 
+diversification and 
+business development in 
+the region to capitalise on 
+growing agriculture and 
+mining sectors and the 
+region’s unique features
+•	
+Regional collaboration to support tourism product development related to 
+regional CRC Innovation and Incubation Centre strategy - explore leveraging 
+the existing CRC networks to support business incubation in regional 
+communities, including partnerships with networks outside the region
+•	
+Identify and share case studies of agribusiness diversification, build on the 
+network of businesses who are value-adding to commodities and developing 
+niche, high value products;
+•	
+Quantify and qualify the impact of small and medium enterprises in the region 
+and true dependency on agriculture
+•	
+Understand extent and plans for mining activity in the region; explore 
+opportunity for mining projects to support local content and local workforce 
+development and encourage business expansion or establishment
+•	
+In-drought support programs developed and encourage genuine local 
+expenditure/local content outcomes
+•	
+Expand Stand Alone Power System program to support energy efficiency on 
+farms and improved reliability
+Inland Great Southern Drought Resilience Plan 2022              63
+
+THEME 5:  RESILIENT REGIONAL ECONOMY
+Transformative Actions 
+Identified through AgDots 
+Review
+Transform
+•	
+Improve connectivity through co-investment in digital infrastructure (includes 
+backhaul + wireless networks to farms)
+•	
+Build tech skill and support in agriculture (connectivity literacy, data 
+management capability, farm tech capability of industry)
+•	
+Regional tech support built within regions (CRC flying squads) and develop long 
+term plan to build tech capacity in regions
+•	
+Support tourism planning processes (destination management plans) and invest 
+in regional and local tourism projects
+•	
+Support higher level of integration and planning for major mining resource 
+projects and develop community structures to capture benefit from investment
+•	
+Develop more intensive farming opportunities (e.g., horticulture through water 
+security assessments and identification of land/water/workforce /infrastructure 
+packages for investors)
+•	
+Create a revolving loan fund to encourage regional entrepreneurship and 
+innovation and support innovation/resilience training for regional businesses
+10 Plan Implementation and 
+Enduring Governance
+The Plan’s proposed themes and interventions have been developed with the community and technical experts, with 
+delivery and impact targeted at the local and regional level, with some interventions having significance beyond the 
+Consortia region.  We acknowledge there are many relevant programs already underway or being planned that will 
+support the delivery of this Plan. 
+The implementation of the Plan, including identification of priority program areas and the Plan’s enduring 
+governance and ongoing resourcing, will be subject to further discussion in coming months with Consortia local 
+governments and potential program delivery partners.  While locally-led delivery of the Plan is preferred to ensure 
+maximum community buy-in and impact, resourcing to implement the Plan requires resolution. 
+Successful plan implementation should consider projects for investment as drought preparedness measures against 
+those that could be delivered during an actual drought event. Drought mitigation actions are best implemented well 
+in advance of any drought event to mitigate drought induced impacts on local farming communities.
+64          Great Southern Development Commission
+
+11 Investment Framework
+An Investment Framework supporting the RDRP Plans is being developed to identify priority program areas and 
+potential resourcing opportunities. This will be subject to further discussion in coming months with Consortia local 
+governments and potential program delivery partners, including the South-West WA Drought Resilience Adoption 
+and Innovation Hub.  
+This work will include the principles of the feasibility and practicality of proposed actions and the quantitative and 
+qualitative public-good benefits to the region as described in Component 8 of the Regional Drought Resilience Plans 
+Independent Review Guide. It is vital that the momentum created by developing this initial plan is carried through the 
+implementation of this Plan and the supporting Investment Framework. 
+Figure 16: Investment Framework for RDRP Program
+WEIGHTING
+RANKING
+RESULT
+IMPACT
+Social
+Benefits
+33%
+6
+4.33
+Environmental
+Benefits
+33%
+3
+Economic
+Return on Investment
+33%
+4
+100%
+FEASIBILITY
+Capability
+Capacity, skills and expertise
+20%
+8
+4.8
+Approvals
+Planning and Approvals
+20%
+4
+Risks
+Project risk
+20%
+6
+Strategic Fit
+Aligns with Existing Programs
+20%
+4
+Timeframe
+Project delivery timeframe
+20%
+2
+100%
+West Australian Regional Drought Planning Investment Framework | FEB 2023
+What is drought resilience 
+and preparedness?
+Investment 
+Framework Criteria
+The WA Government is committed to 
+ensuring our regions are equipped 
+to manage the impacts of drought by 
+being more prepared and resilient. 
+The WA Government, through the 
+Department of Primary Industries 
+and Regional Development (DPIRD), 
+is working with the Australian 
+Government’s Future Drought Fund 
+to support partnerships of regional 
+organisations, local government, 
+communities and industry to develop 
+Regional Drought Resilience Plans (DRPs).
+This pamphlet outlines the core 
+elements of an Investment 
+Framework which will enable 
+the Western Australian State 
+Government to assess, rank and 
+prioritise its investment in this critical 
+area of drought resilience and 
+preparedness.   
+BACKGROUND
+IMPACT
+FEASIBILITY
+Very High        High     Medium   Low
+Risk
+Strategic Fit
+Capability
+(Capacity,
+Skills &
+Expertise)
+Planning &
+Approvals
+Timeframe
+SCORE
+Social
+Environmental
+Economic
+SCORE
+FEASIBILITY
+COST
+IMPACT
+Given the needs of 
+communities preparing, 
+responding and 
+recovering from drought and 
+maintaining a resilience to do so, 
+there needs to be a mechanism 
+to prioritise the allocation 
+of Government funding.
+This tool provides a framework 
+to assist with this goal.
+Inland Great Southern Drought Resilience Plan 2022              65
+
+12 Monitoring and Evaluation
+12.1	 Context
+Monitoring and evaluation is a critical component of effective planning. It provides the framework to assess 
+progress of implementation, adapt strategies and ensure that the plan ultimately achieves its intended outcomes. 
+The Inland Great Southern Regional Drought Resilience Plan Monitoring and Evaluation Framework sits within the 
+broader context of the Future Drought Fund (FDF) Monitoring, Evaluation and Learning Plan (MELP) and the WA 
+RDRP Monitoring Evaluation and Reporting Plan (MERP). 
+The Great Southern Development Commission has the role of initiating actions in line with the Plan, reviewing 
+progress against the Plan objectives and making changes to the Plan as needed to maintain its relevance and 
+usefulness. 
+During the program period, reporting against the MELP and MERP is coordinated by the Department of Primary 
+Industries and Regional Development (DPIRD) in WA, including monthly dashboard reporting, and annual reporting 
+including acquittal report at program completion. The MERP also includes a client survey at the completion of the 
+program to collect qualitative data on engagement, capacity and understanding of drought resilience.  
+A FDF Steering Committee formed within DPIRD will provide high-level monitoring and evaluation of the program at 
+a State level. FDF indicators of success include: 
+Short term:
+•	
+Regional representatives have considered and planned incremental, transitional and transformational 
+opportunities to strengthen resilience.
+•	
+Identified actions, pathways and opportunities (including innovative and transformative) to improve regional 
+drought resilience, mitigate risks and adapt to change.
+•	
+Communities use relevant data and information to better understand their resilience to plan for drought.
+•	
+Plans have buy-in from key stakeholders in the region.
+•	
+The number of, and participation in, local networks and programs to enhance drought resilience increases. 
+•	
+Communities share knowledge, collaborate and partner with government more often to build drought 
+resilience.
+•	
+Regional leaders are in a stronger position to implement strategic actions, adapt to change and take 
+advantage of opportunities to build economic resilience as they arise.
+•	
+Partnerships, networks and engagement are built between stakeholders managing natural resources.
+•	
+Increased community understanding of the region’s current and future drought resilience, considering the 
+region’s unique economic, environmental and social characteristics.
+•	
+Natural resource management capability is improved across region. 
+Long term: 
+•	
+Agricultural landscapes are functional and sustainable, with healthy natural capital (environmental resilience).
+•	
+Agricultural businesses are self-reliant, productive, and profitable (economic resilience).
+•	
+Agricultural communities are resourceful, adaptable, and thriving (social resilience).
+•	
+Stronger connectedness and greater social capital within communities, contributing to wellbeing and security.
+•	
+	Communities implement transformative activities that improve their resilience to drought.
+•	
+More primary producers preserve natural capital while also improving productivity and profitability.
+66          Great Southern Development Commission
+
+12.2	 Inland Great Southern Regional Drought Resilience Plan 
+Monitoring and Evaluation Framework
+The Monitoring and Evaluation Framework (Table 5) outlines how the regional level impact of the Inland Great 
+Southern Regional Drought Resilience Plan will be measured.
+The Vision for the IGS RDRP Plan is ‘to build a resilient region that can withstand the impacts of dry seasons and 
+climate variability, by creating a sustainable environment, self-reliant communities, and a diverse regional economy.’
+The Outcomes driving the IGS RDRP across the five themes are:
+1.	 	Resilient Water: The region has a water system the community has confidence in to sustain industry, 
+agriculture, and the community through consecutive decile 1 rainfall years.
+2.	 	Resilient Economy: A diverse, forward-looking, adaptable business sector, not wholly dependent on seasonal 
+conditions.
+3.	 	Resilient Landscapes: Healthy landscapes with natural resources able to sustain industry and environmental 
+services.
+4.	 	Resilient Agriculture: An agriculture sector that is highly engaged in innovating farming systems to be resilient 
+to drought.
+5.	 	Resilient Communities: Communities that are resourceful, adaptable and supported to mentally and 
+physically bounce back from drought.
+The Monitoring and Evaluation Framework align with these five theme areas of the IGS RDR, together with the 
+foundational requirement for communities to have access to relevant and up to date information to support planning 
+and implementation. A range of assessment tools will be used to assess progress, including but not limited to 
+surveys, environmental scans, data analysis, direct industry engagements and project counts.  
+In addition to the qualitative measures in Table 5, the Drought Vulnerability Assessment (DVA) is a key component 
+of the Regional Drought Resilience Planning program. In addition to identifying key areas of vulnerability to inform 
+interventions and actions, the information captured could be used as a baseline for comparison with future 
+assessments to measure the success of the program at building drought resilience.  
+12.3 Reporting and Responsibility
+Though the implementation of the plan will be undertaken by a range of agencies and organisations, the GSDC, with 
+DPIRD, is responsible for monitoring and evaluation through this framework.  
+Reporting will include progress towards achieving the desired outcomes of the IGS RDRP through the identified 
+interventions and activities. In addition to monitoring, reporting will be used to capture emerging opportunities, 
+record learnings and considerations for future interventions. Short-term evaluation will be captured through DPIRD 
+MERP reporting during the program phase. 
+Inland Great Southern Drought Resilience Plan 2022              67
+
+FDF Indicators 
+RDRP Theme
+RDRP Summary interventions*
+Foundational
+Decision makers and 
+planners have access to 
+relevant and up to date 
+information to underpin 
+planning and activities
+Platform for decision makers and planners to access 
+information.
+WA Drought Indicators Platform and longitudinal 
+monitoring.
+Communities implement 
+transformative activities 
+that improve their 
+resilience to drought.
+Resilient Water 
+The region has a water 
+system the community has 
+confidence in to sustain 
+industry, agriculture, and 
+the community through 
+consecutive decile 1 
+rainfall years.
+Optimise use of water and explore alternative water 
+sources for industry and community. 
+Future looking and coordinated total water management 
+planning to support regional development outcomes.
+Agricultural businesses 
+are self-reliant, productive, 
+and profitable.
+Resilient Economy
+A diverse, forward-looking, 
+adaptable business sector, 
+not wholly dependent on 
+seasonal conditions.
+Addressing constraining enabling infrastructure to 
+support industry growth and regional resilience to 
+climate change.
+Supporting economic diversification and business 
+development in the region.
+Maximising economic development opportunities for 
+communities associated with major projects.
+Agricultural landscapes 
+are functional and 
+sustainable, with healthy 
+natural capital.
+Resilient Landscapes
+Healthy landscapes with 
+natural resources able 
+to sustain industry and 
+environmental services.
+Incorporate environmental services and values in 
+agricultural and community landscape planning.
+Research and adoption of practises that support natural 
+resource functioning. 
+Building regional capacity to manage natural resources.
+More primary producers 
+preserve natural capital 
+while also improving 
+productivity and 
+profitability.
+Resilient Agriculture
+An agriculture sector 
+that is highly engaged 
+in innovating farming 
+systems to be resilient to 
+drought.
+Connection and collaboration for identifying, prioritising 
+and implementing research, development and extension 
+needs for the region.
+Building capacity of regional farmers and supporting 
+services to plan and adapt to a changing climate.
+Agricultural communities 
+are resourceful, adaptable, 
+and thriving.
+Stronger connectedness 
+and greater social capital 
+within communities, 
+ontributing to wellbeing 
+and security.
+Resilient Communities 
+Communities that are 
+resourceful, adaptable and 
+supported to mentally and 
+physically bounce back 
+from drought.
+Build community capacity to understand, plan and 
+respond to drought.
+Support initiatives that connect community and engage 
+vulnerable cohorts.
+* Refer to section 9 for the full list of interventions and actions
+Table 5. IGS RDRP Monitoring and Evaluation Framework
+68          Great Southern Development Commission
+
+Indicator
+Timeframe
+Availability of information to support rapid evaluation of drought risk in the region.
+1-4 years
+Regional plans reference the IGS RDRP and associated technical reports.
+1-4 years 
+4+ years
+Number of projects or initiatives that have been implemented that are aligned to the 
+actions outlined in the Plan or directly support by the Plan.
+1-4 years  
+4+ years
+Activities underway to progress identified priority interventions.
+1-4 years  
+4+ years
+Increased uptake of alternative/ innovative water infrastructure for farms, industry and 
+community.
+4+ years
+Investment framework for water infrastructure, underpinned by integrated water 
+planning, is delivered for consortia LGAs.
+4+ years
+Activities underway to progress identified priority interventions.
+1-4 years  
+4+ years
+Investment framework for enabling infrastructure, underpinned by an infrastructure 
+audit, is delivered for consortia LGAs.
+4+ years
+Activities underway to progress identified priority interventions.
+1-4 years  
+4+ years
+Uptake of environmental value assessments such as natural capital accounting and 
+ecosystem services.
+4+ years
+Activities underway to progress identified priority interventions.
+1-4 years  
+4+ years
+Increased R&D focus on drought resilience for Farms and agricultural industry.
+4+ years
+Activities underway to progress identified priority interventions.
+1-4 years  
+4+ years
+Number of community infrastructure projects and events remains steady pre, during 
+and post drought periods.
+4+ years
+Project Contact
+To provide feedback or to obtain further information, contact the Great Southern Development Commission at 
+gsdc@gsdc.wa.gov.au or (08) 9842 4888
+Inland Great Southern Drought Resilience Plan 2022              69
+
+13 Appendix 1: Inland Great Southern 
+Policy, Strategy and Plan Alignment
+POLICY/STRATEGY 
+ALIGNMENT
+Future Drought Fund
+The program will support the long-term outcomes of the Drought Resilience 
+Funding Plan 2020 to 2024, specifically:
+•	
+Creating stronger connectedness and greater social capital within communities, 
+contributing to wellbeing and security
+•	
+Empowering communities to implement transformative activities that improve 
+their resilience to drought
+•	
+Supporting more primary producers to adopt whole-of-system approaches to 
+Natural Resource Management to improve the natural resource base, for long 
+term productivity and landscape health
+This plan is key to delivering on the FDF’s three strategic priorities which include:
+•	
+Economic resilience for an innovative and profitable agricultural sector
+•	
+Environmental resilience for sustainable and improved functioning of 
+agricultural landscapes
+•	
+Social resilience for resourceful and adaptable communities
+WA Government: Diversity 
+WA - A framework 
+to support the WA 
+Government’s Our Priorities 
+July 2019
+Diversify WA is a blueprint for collaboration between government, industry and the 
+community, to supports the WA Government’s focus on creating secure, quality 
+jobs, growing and diversifying the economy and attracting investment.  Primary 
+Industries is one of six priority sectors in which Western Australia has a competitive 
+advantage significant growth and diversification opportunity. 
+Department of Water, 
+Strategic priority - Water for 
+Growth 2016 plan
+Moving to water sources for a drier climate - this project delivers new information 
+to support the development of climate-resilient water resource support.
+Department of Primary 
+Industries and Regional 
+Development, Strategic 
+Intent 2018-2021
+Sustainability - this project ensures future generations of agribusinesses will have 
+continued access to support social and economic growth.
+Research, Development and Innovation - this project will enable the creation of new 
+knowledge and build capacity within WA on alternative resources that incorporate 
+innovative and emerging technology.
+Regional Opportunities - this project will help drive the economic growth, local 
+capability and social amenity of regional communities. 
+Regional growth opportunities will benefit from investment in priority resources to 
+provide drought securities.
+DPIRD - Primary Industries 
+Plan 2020–2024
+Supports DPIRD vision of a more sophisticated, diverse and globally competitive 
+sector.  Growth and expansion into targeted markets remain at the heart of the 
+Plan which complements the State’s economic blueprint, Diversify WA.
+Water Corporation, Water 
+Forever, Towards Climate 
+Resilience 50 year plan, 
+2009
+Develop new water sources - Water Corporation have acknowledged that reducing 
+water use and increasing water recycling will not be enough to counteract 
+projected reductions in rainfall. As such, it is necessary that new water sources be 
+developed to ensure that there is sufficient supply to meet water demand over the 
+next 50 years. Increasing desalination to support population growth to optimise 
+water use are part of WC strategic vision.
+70          Great Southern Development Commission
+
+POLICY/STRATEGY 
+ALIGNMENT
+Western Australian Climate 
+Policy - November 2020
+The WA Climate Policy outlines the State Government’s commitment to climate 
+change adaptation and achieving net zero greenhouse gas emissions by 2050. 
+Several climate resilience initiatives are identified as part of this policy, including 
+the Climate Resilience Action Plan 2022-25, Climate Science Initiative, Climate Risk 
+Framework and Pilot Sectoral Adaptation Plans.
+The Climate Science Initiative is aimed at understanding how future global 
+emissions will affect WA’s climate. As part of this initiative, climate projections will 
+be provided along with communications material that support agribusinesses and 
+government with interpreting the projections
+Regional Investment 
+Blueprint - 2015
+Developed by each of the nine Regional Development Commissions, the Blueprints 
+are plans for investment, outlining transformative strategies, priority actions 
+and investment opportunities.  This plan identifies four regional imperatives that 
+are fundamental to the region’s economic and social development, growth and 
+prosperity to 2040:
+1.	 Economic growth and diversification
+2.	 Essential infrastructure and services
+3.	 Knowledge and innovation
+4.	 Community and environment
+It also specifies 7 transformation projects:
+1.	 Growing value (premium food production and value adding)
+2.	 Energy security
+3.	 Water for growth
+4.	 Avenues to opportunity (transport and industry hubs)
+5.	 Connected Great Southern (thriving in the digital age)
+6.	 Destination of natural choice (iconic and creative tourism)
+7.	 Strong communities
+Great Southern 
+Development Commission 
+Strategic Plan 2020-2022
+By working in partnership with local governments, businesses and communities, 
+the GSDC aims to coordinate and support endeavours that build an integrated 
+regional economy, foster regional growth, and transform our communities into 
+vibrant places to work, play and learn.  The GSDC’s strategic goals include:
+•	
+Strong and diverse economy
+•	
+Regional liveability
+•	
+Strong communities
+•	
+Organisational excellence 
+South Coast Natural 
+Resource Management –
+Southern Prospects 2019-
+2024
+A strategy to guide investment in natural resource management on the South 
+Coast of WA. Provides a common focus for the communities of the SCNRM region 
+to work collectively towards the vision of looking after where we live – communities 
+caring their environment. 
+Regional Planning and 
+Infrastructure Framework
+Identifies each region’s vision and provide an important foundation for future 
+decision making, outlining key planning initiatives for each region.
+LGA Community Strategic 
+Community plans
+Includes economic and community sustainability, quality long term water supply, 
+water security, and water holding infrastructure and harvesting.
+Inland Great Southern Drought Resilience Plan 2022              71
+
+Inland Great Southern Drought Resilience Plan
+Great Southern Development Commission 
+Pyrmont House 
+110 Serpentine Road 
+ALBANY WA 6330
+Telephone: (08) 9842 4888 
+Email: gsdc@gsdc.wa.gov.au
+Great Southern Development Commission 
+10 Dore Street 
+KATANNING WA 6317
+Telephone: (08) 9821 3211
+Email: katanning@gsdc.wa.gov.au
+Website: www.gsdc.wa.gov.au

@@ -1,0 +1,4229 @@
+Agricultural Lending Data 
+2017–18 
+December 2019
+
+© Commonwealth of Australia 2019 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except 
+content supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+Agricultural Lending Data 2017–18, Canberra, December. CC BY 4.0. 
+ISBN 978-1-76003-172-5 
+This publication is available at agriculture.gov.au/publications. 
+For more information about the statistics in this publication write to: 
+Manager External Data Reporting 
+Australian Prudential Regulation Authority 
+GPO Box 9836 
+Sydney NSW 2001 
+DataAnalytics@apra.gov.au 
+preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, its employees and advisers disclaim all liability, including liability for negligence and for any loss, damage, 
+injury, expense or cost incurred by any person as a result of accessing, using or relying on any of the information or 
+data in this publication to the maximum extent permitted by law. 
+ii
+
+Foreword 
+The second edition of the Agricultural Lending Data report again confirms the resilience of the 
+Australian agriculture sector and its continuing growth despite less than ideal seasonal 
+conditions. 
+In 2017–18 the gross value of farm production was $60 billion, a strong financial performance, 
+and well above the 5-year national average. 
+This was supported by the 5% increase in lending from commercial financial institutions, which 
+provided farm businesses with the assistance to grow and the opportunity to undertake new 
+farm investments. 
+encouraging its presence on the world stage. This is evident in our plan to help the agriculture 
+sector reach its goal of $100 billion in value by 2030. This plan will help ensure the necessary 
+resources for resilience, growth and production are fostered and see the Australian agriculture 
+sector continue to remain competitive. 
+This Agricultural Lending Data report, and future editions, will continue to assist the 
+government and agricultural stakeholders formulate policies that will achieve the sector’s plan 
+to advance the agricultural sector to new levels by 2030. 
+However, to realise our 2030 plan, we also need to have practical on the ground action. We will 
+be supporting famers to buy their first farm and plan for intergenerational transfers with 
+AgriStarter concessional loans delivered through the Regional Investment Corporation (RIC) to 
+support our next generation of famers. 
+We continue to stand with the current generation of farmers who have been suffering from 
+unrelenting drought. We are making sure they have access to the resources they need to manage 
+through and recover from this difficult time. 
+We are also making sure all farmers can better prepare for future droughts. For example, 
+farmers can now claim accelerated depreciation for fodder storage assets to cover costs of new 
+sheds, silos and storage. This will help famers store more feed for their animals during drought 
+and reduce the need to de-stock during drier years. 
+The government’s recently announced changes to the RIC’s drought loans will ensure farmers 
+can access interest and repayment free loans of up to $2 million. This will ensure that farmers 
+have the support they need to maintain their current businesses through the drought, and give 
+them the funds they need to restock, replant and rebuild when the drought ends. These 
+amended drought loans are expected to be highly popular, with farmers that are already 
+receiving the RIC’s concessional rate of 3.11% able to re-finance and benefit from the interest 
+free period.  
+In the longer term, we will also have a new funding source in the form of the Morrison 
+government’s Future Drought Fund. The Fund will help our rural communities by providing up 
+to $100 million per year towards building resilience and greater preparedness for future 
+droughts. 
+iii
+
+Farm Management Deposits (FMDs) continue to reach new heights and play an integral role in 
+seeing farmers through their leaner years. I continue to appeal to all banks to allow farmers to 
+use their FMDs as offset accounts so they have the potential to save thousands of dollars each 
+year in interest. 
+The government also remains focused on supporting a national farm debt mediation scheme as 
+outlined in its Banking Royal Commission Implementation Roadmap. I have flagged the need for 
+a national scheme with the states and territories and expect them to have it in place by the 
+middle of 2020. With drought continuing to tighten its grip on agriculture, a uniform approach 
+will clear up confusion created by having different rules in different jurisdictions. 
+I look forward to continuing working with financial institutions as the minister responsible for 
+rural finance, and thank the banks for their contribution to this report. 
+David Littleproud 
+Minister for Water Resources, Drought, Rural Finance, Natural Disasters and Emergency 
+Management 
+iv
+
+Contents 
+Foreword ............................................................................................................................................................iii 
+Glossary ............................................................................................................................................................. vii 
+Key statistics ..................................................................................................................................................... ix 
+Agricultural lending data ...................................................................................................................................... ix 
+Additional data .......................................................................................................................................................... x 
+Introduction ....................................................................................................................................................... 1 
+Data collection ........................................................................................................................................................... 1 
+Confidentiality requirements .............................................................................................................................. 1 
+Data collection, presentation and interpretation ................................................................................ 2 
+Data collected ............................................................................................................................................................. 2 
+Data source—financial sector reporting entities ........................................................................................ 2 
+Types of debt reported ........................................................................................................................................... 2 
+Data collection period ............................................................................................................................................. 3 
+Future data collections ........................................................................................................................................... 3 
+Data presentation and interpretation ...................................................................................................... 4 
+Data categories .......................................................................................................................................................... 4 
+Farm business entities ............................................................................................................................................ 4 
+Types of farm business entities .......................................................................................................................... 4 
+Farm business entity locations ........................................................................................................................... 4 
+Agriculture sector overview 2017–18 ...................................................................................................... 5 
+Farm debt levels ............................................................................................................................................... 7 
+Farm equity ................................................................................................................................................................. 7 
+National rural indebtedness ................................................................................................................................. 8 
+Distribution of farm debt ....................................................................................................................................... 9 
+Debt serviceability........................................................................................................................................ 10 
+Total loans and leases ................................................................................................................................. 12 
+Loans and leases in arrears ....................................................................................................................... 15 
+Farm debt mediations and foreclosures............................................................................................... 19 
+Other agriculture sector debt information .......................................................................................... 21 
+Farm business debt outside the scope of this collection ....................................................................... 21 
+Appendix A: State and territory lending data, by industry ............................................................ 22 
+Appendix B: Agricultural industry groups ........................................................................................... 36 
+References ....................................................................................................................................................... 37 
+v
+
+Tables 
+Table 1 Lending to agriculture, by industry and state, Australia ................................................................ 13 
+Table 2 Lending in arrears at 30 June, by industry and state, Australia .................................................. 17 
+Table 3 Farm debt mediation and foreclosures, all agricultural industries, by state, 2016–17 and 
+2017–18 .............................................................................................................................................................................. 20 
+Table A1 Lending to agriculture, by industry, New South Wales and Australian Capital Territory
+ ................................................................................................................................................................................................ 22 
+Table A2 Loans and leases in arrears at 30 June, agricultural industries, New South Wales and 
+Australian Capital Territory ....................................................................................................................................... 23 
+Table A3 Lending to agriculture, by industry, Victoria ................................................................................... 24 
+Table A4 Loans and leases in arrears at 30 June, agricultural industries, Victoria ............................. 25 
+Table A5 Lending to agriculture, by industry, Queensland ........................................................................... 26 
+Table A6 Loans and leases in arrears at 30 June, agricultural industries, Queensland ..................... 27 
+Table A7 Lending to agriculture, by industry, Western Australia .............................................................. 28 
+Table A8 Loans and leases in arrears at 30 June, agricultural industries, Western Australia ........ 29 
+Table A9 Lending to agriculture, by industry, South Australia .................................................................... 30 
+Table A10 Loans and leases in arrears at 30 June, agricultural industries, South Australia ........... 31 
+Table A11 Lending to agriculture, by industry, Tasmania ............................................................................. 32 
+Table A12 Loans and leases in arrears at 30 June, agricultural industries, Tasmania ....................... 33 
+Table A13 Lending to agriculture, by industry, Northern Territory ......................................................... 34 
+Table A14 Loans and leases in arrears at 30 June, agricultural industries, Northern Territory ... 35 
+Table B1 Agricultural industry groups, by class ................................................................................................ 36 
+Figures 
+Figure 1 Farm business debt, owner’s equity and equity ratio for broadacre farms, Australia, 
+1997–98 to 2017–18 (average per farm) ................................................................................................................ 8 
+Figure 2 Total institutional debt, agriculture, forestry and fishing industries, Australia, 1964–65 
+to 2017–18 ............................................................................................................................................................................ 9 
+Figure 3 Average interest rate paid on farm business debt, broadacre farms, Australia, 1977–78 
+to 2017–18 ......................................................................................................................................................................... 10 
+Figure 4 Percentage of net income used to pay interest, Australian agriculture, 1980–81 to 
+2017–18 .............................................................................................................................................................................. 11 
+Figure 5 Ratio of interest payments to net farm income for farms with debt, by industry, 
+Australia, 1998–99 to 2017–18 ................................................................................................................................ 11 
+vi
+
+Glossary 
+Term 
+Definition 
+90 days past due (in 
+arrears) 
+A loan or lease arrangement that is not subject to a regular repayment schedule is 
+considered 90 days past due when it has remained continuously outside contractual 
+or approved arrangements for 90 days. 
+A loan or lease arrangement that is subject to a regular repayment schedule is 
+considered 90 days past due when: 
+a) at least 90 calendar days have elapsed since the due date of a contractual payment 
+that has not been met in full 
+and 
+b) the total amount outside contractual arrangements is equivalent to at least 
+90 days’ worth of contractual payments. 
+Reporting entities provide APRA with the total values of loans greater than 90 days 
+past due and the number of business entities with loans greater than 90 days past 
+due. Reporting entities supply data as at the end of the reporting period. 
+ABARES 
+Australian Bureau of Agricultural and Resource Economics and Sciences 
+ADI 
+Authorised deposit-taking institution (as defined in the Banking Act 1959) 
+agricultural activity 
+Refers to an activity in one of the agricultural industry groups listed in Table B1. 
+ANZSIC 
+Australian and New Zealand Standard Industrial Classification (see Table B1) 
+APRA 
+Australian Prudential Regulation Authority, established under the 
+Australian Prudential Regulation Authority Act 1998. 
+borrower 
+See farm business entity 
+credit limit (total) 
+Means the maximum amount of funds available to the farm business entity without 
+additional authorisation or approval. This amount includes outstanding credit 
+(including capitalised interest or fees) and any other funds that can be drawn without 
+additional approval by the reporting entity. Reporting entities supply data as at the 
+end of the reporting period. 
+credit outstanding (total) 
+Credit outstanding is the original loan and/or lease amount less any repayments, 
+including any redraw facilities drawn. Outstanding amounts are reported gross of 
+provisions. Deposit balances in offset accounts are not netted against the outstanding 
+credit amount. Finance that has been written off has been excluded. Reporting 
+entities supply data as at the end of the reporting period. 
+department that assumes or succeeds to its functions. 
+farm business entity 
+An entity (company, trust, partnership, incorporated entity, sole trader or joint 
+venture) that undertakes productive agricultural activities that constitute the entity’s 
+primary source of income. A farm business entity may comprise a group of related 
+business entities. A group of related business entities are reported as one farm 
+business entity. 
+Related business entities include the parent entity, controlled entities, associated 
+entities, joint venture entities and any other entity under the same parent entity. 
+A farm business entity is effectively ‘one borrower’. 
+farm debt mediation 
+A structured negotiation process where a neutral and independent mediator helps 
+the farm business entity and the reporting entity reach agreement about current and 
+future debt arrangements. Some states and territories require that farm debt 
+mediation occurs before the reporting entity is allowed to undertake foreclosure 
+action. A new instance of farm debt mediation is considered by reporting entities to 
+have commenced when the first meeting of the mediating parties has taken place. 
+Reporting entities supply data to APRA on new instances of farm debt mediation for 
+the reporting period. 
+vii
+
+Term 
+Definition 
+foreclosure 
+A proceeding in which a reporting entity may take possession of a property used to 
+secure a loan or lease. A new instance of a foreclosure is considered by a reporting 
+entity to have commenced when a reporting entity, or a receiver or administrator 
+appointed by the reporting entity, takes possession of a mortgaged property. 
+Reporting entities supply data to APRA on new instances of farm foreclosures, and 
+the total credit outstanding for new farm foreclosures to APRA for the reporting 
+period. 
+FSCODA 
+Financial Sector (Collection of Data) Act 2001 
+industry classification 
+An individual farm business entity is assigned to an industry based on its 
+predominant agricultural activity. The industry classification used in this publication 
+is based on the 1993 and 2006 Australian and New Zealand Standard Industrial 
+Classification (ANZSIC) classes listed in Table B1. For confidentiality purposes, some 
+of these classes were amalgamated with others to form an industry group. 
+loans and leases 
+Amounts owing to a reporting entity by a farm business entity evidenced by non-
+negotiable documents, including: 
+• 
+advances 
+• 
+secured and unsecured loans 
+• 
+mortgages 
+• 
+commercial loans 
+• 
+redeemable preference share finance not evidenced by a security 
+• 
+lease arrangements 
+• 
+equity participation in leveraged leases. 
+Only those loans where half or more than half of the loan limit is for the purpose of 
+agricultural activities and leases, whether drawn down or not, are reported to APRA. 
+related parties 
+Related parties of the reporting entity include the parent entity, controlled entities, 
+associated entities, joint venture entities and other branches under the same parent 
+entity. 
+reporting entity 
+An ADI or RFC to which the reporting form ARF 750.0 (DAWR Agricultural Lending) 
+applies. 
+RFC 
+Registered financial corporation that is a registered entity under the Financial Sector 
+(Collection of Data) Act 2001. 
+viii
+
+Key statistics 
+Agricultural lending data 
+This publication provides data from the Agricultural Lending Data collection undertaken by the 
+The first full Agricultural Lending Data collection was undertaken for the 2016–17 year. This 
+publication reports data from the second full collection, which covers the 2017–18 year, 
+together with data from the 2016–17 collection for comparison purposes. The data focus on 
+lending to farm business entities and the performance of these in meeting their loan servicing 
+commitments. 
+For the purposes of this publication a farm business entity is effectively ‘one borrower’, debt is 
+defined as ‘credit outstanding’ and ‘in arrears’ means loans and leases are more than 90 days 
+past due. 
+Data from authorised deposit-taking institutions (ADIs) and Registered Financial Corporations 
+(RFCs) indicate that nationally: 
+• 
+Agricultural loans and leases totalled $73.5 billion at 30 June 2018, an increase of 
+$3.4 billion or 5% from 30 June 2017. 
+• 
+Total loan and lease facility limits were $88.6 billion at 30 June 2018, an increase of 
+$4.3 billion (5%) from 30 June 2017. 
+• 
+The number of borrowers declined to 143,849 at 30 June 2018, a reduction of 1% from 
+30 June 2017. 
+• 
+Outstanding loans and leases averaged $511,050 per borrower at 30 June 2018. 
+• 
+Loans and leases in arrears accounted for 0.8% of the total value of loans and leases at 
+30 June 2018, having declined from 0.9% at 30 June 2017. 
+• 
+By industry, the proportion of the total value of loans and leases in arrears was highest for 
+fruit and nuts (3.2%), grape growing (3.1%), vegetable growing (2.6%) and the dairy 
+industry (1.5%). 
+• 
+By state, the proportion of the total value of loans in arrears increased slightly in Victoria 
+and the Northern Territory and declined in all other states. 
+• 
+While the value of loans in arrears declined, the number of borrowers in arrears increased 
+in all states except Western Australia. The number of borrowers in arrears increased by 158 
+from 945 at 30 June 2017 to 1,103. In total, 0.8% of all borrowers were in arrears at 
+30 June 2018. 
+Data also indicate that nationally during 2017–18: 
+• 
+There were 144 new instances of farm debt mediation, an increase from 96 in 2016–17. 
+New instances of farm debt mediation increased in all states except the Northern Territory, 
+where no mediations were reported in either year. 
+ix
+
+• 
+There were 27 new instances of farm foreclosures recorded during 2017–18, a reduction 
+from 33 in 2016–17. 
+• 
+The total credit outstanding on new farm foreclosures in 2017–18 was only $7 million, 
+around 0.01% of total agricultural debt at 30 June 2018. This is significantly lower than 
+2016–17, when the credit outstanding on new farm foreclosures was $63 million, 
+representing 0.09% of total agricultural loans and leases. 
+• 
+Average credit outstanding per borrower for new foreclosures was $248,139 in 2017–18, a 
+decrease from the average of $1.9 million in 2016–17. 
+Additional data 
+This publication also summarises farm survey and other data from the Australian Bureau of 
+Agricultural and Resource Economics and Sciences (ABARES). 
+The ABARES data indicate that in 2017–18: 
+• 
+Debt to fund land purchases accounted for the largest share of debt on broadacre farms, at 
+an estimated 45% of average broadacre debt at 30 June 2018. Working capital debt 
+accounted for 33% of average broadacre debt at 30 June 2018. 
+• 
+In 2017–18, new borrowing by broadacre and dairy farms mostly funded on-farm 
+investment. Around 60% of new borrowing by broadacre farms and 70% by dairy farms 
+was for the purchase of land, machinery, equipment and vehicles or farm development. 
+• 
+Borrowing to cover operating expenses accounted for 21% of new debt for broadacre farms 
+and 11% for dairy farms in 2017–18. 
+• 
+Much of the aggregate broadacre sector debt is held by a relatively small proportion of 
+mostly larger farms. At 30 June 2018 around 70% of aggregate broadacre debt was held by 
+just 12% of farms. On average, these were large farm businesses. In aggregate, these farms 
+produced around 50% of the total value of broadacre farm production in 2017–18. 
+This publication also draws on publicly available data, including data published by the Reserve 
+Bank of Australia. This information is not directly comparable with the APRA Agricultural 
+Lending Data because it includes data on fishery and forestry businesses and lending by 
+government agencies and pastoral and other financial companies. Nevertheless, these data 
+series provide an important longer-term historical context to the Agricultural Lending Data as 
+they are available for the entire 55-year period since 1963–64. 
+Data from the Reserve Bank of Australia indicate that: 
+• 
+Nationally, total indebtedness of the agriculture, forestry and fishing industries (defined as 
+‘rural debt') increased by 77% from $42.7 billion at 30 June 2001 to $75.5 billion at 
+30 June 2009, in real terms. 
+• 
+Total rural debt subsequently declined in real terms to $69.4 billion at 30 June 2015, before 
+rising again to $76.4 billion at 30 June 2018. 
+• 
+Over the 20 years to 2017–18, rural debt has increased at a rate of 6.4% per year. Over the 
+full 55 years of the rural debt series the rate of increase has been 8.4% per year. 
+x
+
+Introduction 
+This publication presents data from the second annual Agricultural Lending collection made by 
+the Australian Prudential Regulation Authority (APRA) on behalf of the Department of 
+Agriculture. The data focus on lending to farm business entities and the performance of these in 
+meeting their loan servicing commitments in 2017–18. The information will inform analysis of 
+issues related to financing Australia’s agricultural industries. It will also enable the Australian 
+Government to implement effective assistance measures for regional communities and improve 
+the targeting of support for farmers. 
+Data collection 
+Under the Financial Sector (Collection of Data) Act 2001 (FSCODA), APRA is authorised to collect 
+information from financial sector entities. 
+Data in the tables in this publication are sourced from forms submitted by financial sector 
+entities to APRA as part of requirements under the Corporations Act 2001. Blank copies of 
+reporting form ARF 750.0 DAWR Agricultural Lending (in ARS 750.0) and associated 
+instructions are available on the APRA website. 
+Financial sector entities that provide data to APRA are: 
+• 
+Authorised deposit-taking institutions (ADIs), excluding Payment Facility Providers 
+• 
+Registered financial corporations (RFCs). 
+The FSCODA authorises APRA to share this data with the department for the purposes of 
+producing this publication. The information may also be used by APRA, the Australian Bureau of 
+Statistics or the Reserve Bank of Australia. 
+The information in the text and tables should be read in conjunction with the Glossary. The 
+Glossary describes the limitations of the data and how the information was prepared, and 
+contains definitions of abbreviations and terms used in this publication. 
+Confidentiality requirements 
+Data collected from individual ADIs and RFCs is subject to confidentiality requirements outlined 
+in the Australian Prudential Regulation Authority Act 1998. In most circumstances, aggregation of 
+data maintains confidentiality. Any items in this publication that are outside confidentiality 
+protection measures relating to aggregation of data will be masked. 
+1
+
+Data collection, presentation and 
+interpretation 
+Data collected 
+Data collected by APRA covers lending to the agriculture sector. The sector comprises 
+agricultural subdivision 01 code of the Australian and New Zealand Standard Industrial 
+Classification (ANZSIC) system. 
+The collection does not include data on fishing/aquaculture, forestry, hunting and trapping, and 
+support services to agriculture, forestry and fishing (ANZSIC subdivision codes 02 to 05). 
+Data collected include: 
+• 
+total credit outstanding on loans and leases 
+• 
+total credit limits on loans and leases 
+• 
+total credit outstanding on loans and leases more than 90 days past due 
+• 
+number of farm business entities with credit outstanding for loans and leases 
+• 
+number of farm business entities with credit outstanding that is more than 90 days past due 
+• 
+number of new instances of farm debt mediations 
+• 
+number of new farm foreclosures 
+• 
+total credit outstanding on loans and leases for any new farm foreclosures. 
+If only a portion of a loan or lease relates to an agricultural activity, APRA will only collect data 
+for those loans or leases where the majority (whether or not drawn down) is for the purpose of 
+agricultural activities. This may result in a slight over-reporting of agricultural lending. 
+Data source—financial sector reporting entities 
+It is mandatory for all ADIs to provide data for this publication. 
+RFCs with assets (loans, advances and lending facilities) valued at less than $50 million, either as 
+a single entity or for combined related bodies corporate, are not required to report to APRA. 
+This may result in some under-reporting of lending to farm business entities. 
+Types of debt reported 
+APRA collects data about business lending (loans and leases) by reporting entities to farm 
+business entities in the agriculture sector. 
+APRA does not collect data about personal loans (secured or unsecured), personal leases and 
+personal credit card debt. 
+Some major credit card providers may provide cards to businesses, but they do not classify this 
+as business lending. 
+2
+
+APRA does not collect data about loans from government agencies, other business entities, 
+vendor financiers, family or others external to the farm business entity, and sundry creditors 
+(mainly input suppliers). This may result in an understatement of loan funds available to the 
+agriculture sector. However, some information from other sources on these types of lending is 
+provided for context. 
+Data collection period 
+Lending data is presented as at 30 June 2018. New incidents of farm debt mediations and farm 
+foreclosures are reported for the full financial year. 
+Future data collections 
+APRA will continue to collect data under the same parameters as those used for the 2017 and 
+2018 collections. This will enable time-series data to be presented. Future Agricultural Lending 
+Data publications may include graphs, charts and tables to enable readers to compare data. 
+Future publications may also contain revisions to previously published data to reflect 
+resubmissions from reporting entities or corrections to compilation errors. APRA regularly 
+analyses past revisions to identify potential improvements to source data and statistical 
+compilation techniques. This helps minimise the frequency and scale of any future revisions. 
+Significant revisions (variances of at least 10% or $10 million) will be identified. 
+3
+
+Data presentation and interpretation 
+Amounts are expressed in Australian dollars. In some cases, data may not sum exactly to total 
+figures due to rounding. 
+If an item is masked to meet confidentiality requirements, other data items may also be masked 
+so the value of the primary masked data item cannot be otherwise derived from totals. 
+The term ‘na’ will be used to indicate where data has been masked to maintain confidentiality. 
+Values shown as ‘–’ represent nil values. 
+Numbers rounded to 0 represent values under $0.5 million. 
+Data categories 
+Data is presented for 14 agricultural industry ‘groups’, based on 4-digit level ANZSIC 
+classification codes. 
+Those classes that contain a small number of farm business entities have been grouped together 
+to maintain data confidentiality. For example, the sheep–beef industry group consists of ANZSIC 
+2006 classes 0141 and 0144 or ANZSIC 1993 classes 0123 and 0124. 
+Industry data is also presented at the national level and across the states and territories. In some 
+cases, state and territory data have been merged to maintain data confidentiality. 
+Farm business entities 
+This publication presents information on a ‘farm business entity’ basis. A farm business entity is 
+one that undertakes productive agricultural activities that constitute that entity’s primary 
+source of income. Farm business entities in this collection may be a single business entity or 
+comprise a group of related business entities within a grouped business structure. A farm 
+business entity can effectively be considered ‘one borrower’. 
+Types of farm business entities 
+Farm business entities are assigned to one of the 14 industry groups based on their predominant 
+agricultural activity (ANZSIC code). Where a farm business entity has a loan or lease directed to 
+agricultural activities across multiple industries, the loan or lease is attributed to the industry in 
+which the majority of the activity is undertaken. 
+Farm business entity locations 
+Farm business entities are assigned to the state or territory in which they undertake their 
+agricultural activity and derive their revenue. 
+Where a farm business entity has a loan or lease directed to agricultural activities across 
+multiple states and territories, the loan or lease is attributed to the state or territory where the 
+majority of the revenue is derived. 
+4
+
+Agriculture sector overview 2017–18 
+Australian farms experience substantial variability in income and therefore debt servicing 
+capacity across years. In any year, a proportion of farms in some industries and regions are 
+likely to be under financial pressure as a result of seasonal or other production conditions and 
+commodity prices. 
+The Australian farm sector recorded strong financial performance in 2017–18. The gross value 
+of farm production was $60.0 billion in 2017–18. While this was a reduction from the record 
+$62.8 billion recorded in 2016–17, it was still 8% above the average of $55.5 billion for the 
+5 years to 2016–17, in real terms. 
+Rainfall in 2017–18 was below average across much of the east of Australia and well below 
+average in large parts of New South Wales, South Australia and southern Queensland. Serious to 
+severe rainfall deficiencies (lowest 10% and 5% of historical observations) for 2017–18 affected 
+many areas across northern New South Wales into southern and central Queensland, parts of 
+central and eastern South Australia, and coastal parts of East Gippsland in Victoria and eastern 
+Tasmania (Bureau of Meteorology 2018). 
+The volume of farm production declined by 6% from the record achieved in 2016–17 as a result 
+of lower crop production. This was mainly the result of a 30% reduction in grain, oilseed and 
+grain legume production compared to the record 2016–17 crop, which was due to the drier 
+seasonal conditions through the winter crop growing period and continued dry seasonal 
+conditions in summer in north-western New South Wales and Queensland. Lower grain 
+production was partially offset by higher prices for grains. Overall, the value of grain oilseed and 
+grain legume production declined by 22%, in real terms. 
+The value of sugar production declined mainly as a result of lower export prices and reduced 
+production due to both drier seasonal conditions in southern Queensland and damage caused by 
+cyclone Debbie in early 2017. The value of vegetable production declined slightly with lower 
+prices for vegetables as a result of increased production in Australia and reduced exports due to 
+appreciation in the Australian dollar. In contrast, cotton production and the volume of cotton 
+exports increased, with the value of cotton production increasing by 40% in 2017–18. Other 
+cropping industries with small increases in the value of production included fruit and nuts, and 
+wine grapes. 
+Turnoff of beef cattle, sheep and lambs once again increased in 2017–18 after a small decline in 
+2016–17. Higher turnoff of beef cattle was largely a response to continued dry seasonal 
+conditions in parts of Queensland and northern New South Wales. Saleyard prices received for 
+beef cattle declined as a result of weaker export prices and the increased turn-off levels. The 
+gross value of beef cattle production declined by 11% in 2017–18, in real terms. In contrast, 
+prices for sheep, lambs and wool increased significantly 2017–18 due to strong export demand, 
+demand for sheep for restocking and low supply of wool. The value of sheep production 
+increased by 37%, lamb production by 18% and wool production by 22%. 
+Farm cash income is a measure of cash funds generated by farm businesses for farm investment 
+and consumption after paying all costs incurred in production. In 2017–18, farm cash incomes 
+for sheep industry farms were the highest recorded in more than 25 years. Farm cash incomes 
+5
+
+for grains and beef farms declined in 2017–18 relative to the very high incomes recorded in 
+2016–17, but still mostly remained well above the average for the previous 10 years. Larger 
+reductions farm cash incomes occurred in some regions with large reductions in crop 
+production including: parts of northern New South Wales, southern and central Queensland, the 
+Eyre Peninsula and central northern South Australia, as well as parts of the eastern wheat-belt in 
+Western Australia. 
+Overall, the availability of irrigation water was lower in 2017–18 compared to 2016–17. The 
+area planted to rice and cotton was reduced, but seasonal conditions were generally favourable 
+for irrigated crops, particularly cotton, resulting in high yields. 
+Amongst the intensive livestock industries, the value of pig production declined 21% as a result 
+of a record decline in pig prices (20%) due to strong increased supply of pigs in Australia and 
+increased competition from other meats, particularly beef. Consolidation and economies of scale 
+in the Australian pig industry over the 10 years to 2015–16 have resulted in strong productivity 
+growth increasing slaughter and pig meat production. During this period, the number of farms 
+with pigs in Australia contracted by around one-third, but the number of sows per farm 
+increased by 15%. 
+Dairy farms in Victoria, South Australia, Tasmania and southern New South Wales recorded 
+higher farm cash incomes in 2017–18, with a small increase in milk prices and production. Drier 
+seasonal conditions and higher grain prices resulted in increased expenditure on fodder for 
+most dairy farms. Expenditure on purchased fodder is the largest cost category for most dairy 
+farms. With little change in milk prices and higher fodder expenditure, farm cash incomes 
+declined for dairy farms in Queensland, northern New South Wales and Western Australia. The 
+dairy industry has undergone substantial restructuring over a prolonged period. At the national 
+level, the number of registered dairy farms contracted by 28% and the average milk production 
+per farm increased by 38% in the 10 years to 2017–18. 
+Relatively high farm cash incomes in 2017–18 and record farm cash incomes for broadacre in 
+2016–17 followed 2 years of high incomes in 2014–15 and 2015–16. This provided many farm 
+businesses with an opportunity to reduce existing farm business debt and the opportunity to 
+undertake new farm investment, partly funded by new borrowing. Investment in farm land, 
+machinery and infrastructure increased in the 3 years ending 2017–18 and land values 
+increased in many regions, boosting farm equity (ABARES 2019). 
+Higher farm cash incomes also provided farmers with the opportunity to increase liquid assets, 
+including bank deposits and off-farm investments. Farm Management Deposits increased by 9% 
+($524 million) in 2017–18. This risk-management tool is designed to enable farmers to put aside 
+pre-tax income in good years to draw on in years of lesser cash flow. Farm Management 
+Deposits increased in all states and for all industries in 2017–18. The dairy industry recorded 
+the smallest increase at just over $1 million. The largest increases were recorded for farms in the 
+sheep industry, sheep–beef industry and other crops industry, particularly in New South Wales, 
+Victoria, Western Australia and Tasmania. The other crops industry includes amongst a range of 
+activities, including farms that specialise in growing fodder crops. 
+6
+
+Farm debt levels 
+Debt is an important source of funds for Australian farmers. It is used for purchasing land and 
+new plant and equipment as well as for ongoing working capital. This is largely because 95% of 
+Australian farms are family owned and operated (ABARES 2018). Funding by family farms for 
+expansion and improvement is limited to the funds available to the family, the profits the 
+business can generate and the funds it can borrow. 
+ABARES data show that: 
+• 
+Debt to fund land purchases accounted for the largest share of debt on farms, at an 
+estimated 45% of average broadacre debt at 30 June 2018. 
+• 
+Working capital debt accounted for 33% of average broadacre debt at 30 June 2018. 
+• 
+In 2017–18, new borrowing for broadacre and dairy farms mostly funded on-farm 
+investment. The proportion of new borrowing to cover operating expenses was higher in 
+the broadacre industries (21%) than the dairy industry (11%), largely reflecting lower farm 
+cash incomes for some grains farms in 2017–18. 
+Farm equity 
+Family farms in Australia rely on maintaining high farm equity to provide the capacity to borrow 
+to meet cash flow needs during periods of reduced farm income and for new investment. Despite 
+increases in farm debt over the long term, average farm equity for broadacre and dairy farms 
+remains strong because of increases in the value of agricultural land (Figure 1). 
+The average equity ratio at 30 June 2018 is estimated at 88% for broadacre farms and 80% for 
+dairy farms. Around 82% of broadacre farms and 56% of dairy farms had equity ratios 
+exceeding 80% at 30 June 2018. 
+For the majority of broadacre farms, farm equity has strengthened between 2014–15 and 
+2017-18. This is due to higher land values, the general increase in prices for beef cattle and 
+sheep and reductions in debt for many farms as a result of high farm cash incomes. Between 
+2014–15 and 2017–18, higher farm cash incomes for many broadacre farms led to an increase in 
+the proportion of broadacre farms buying land.
+7
+
+Figure 1 Farm business debt, owner’s equity and equity ratio for broadacre farms, 
+Australia, 1997–98 to 2017–18 (average per farm) 
+p Preliminary estimate. Estimates are in 2018–19 dollars. 
+Source: ABARES Australian Agricultural and Grazing Industries Survey 
+National rural indebtedness 
+Data collected by APRA and reported by the Reserve Bank of Australia provides an indicator of 
+trends in debt since 1964 (RBA 2018). Figure 2 shows that total indebtedness of the agriculture, 
+forestry and fishing industries (defined by the Reserve Bank of Australia as ‘rural debt’) to 
+institutional lenders (ADIs, government agencies, and pastoral and other financial companies) 
+increased by 77% from $42.7 billion at 30 June 2001 to $75.5 billion at 30 June 2009, in real 
+terms. 
+Several factors contributed to the growth in debt over this period, including: 
+• 
+lower interest rates 
+• 
+large increases in land values, which raised borrowing capacities 
+• 
+increases in farm size and intensity of production 
+• 
+changes in commodities produced 
+• 
+reduced farm cash incomes because of drought conditions in the 2000s 
+• 
+provision of Exceptional Circumstances Interest Rate Subsidies to farmers in drought (these 
+arrangements ceased on 30 June 2012) 
+• 
+increased use of interest-only lending. 
+ %
+  50
+  60
+  70
+  80
+  90
+  100
+2018–19 $’000
+ 1000
+ 2000
+ 3000
+ 4000
+ 5000
+ 6000
+ 7000
+1997–98
+2002–03
+2007–08
+2012–13
+2017–18p
+Equity of
+business
+owners
+Farm
+business
+debt
+Equity
+ratio
+8
+
+Figure 2 Total institutional debt, agriculture, forestry and fishing industries, Australia, 
+1964–65 to 2017–18 
+Source: Reserve Bank of Australia (RBA 2019) 
+Total rural debt subsequently declined in real terms to $69.4 billion at 30 June 2015, before 
+rising again to $76.4 billion at 30 June 2018. 
+Bank lending accounts for 95% of total institutional lending. Bank lending declined from 
+$68.5 billion at 31 December 2009 to $63.2 billion at 31 March 2014, before rising to 
+$73.0 billion at 30 June 2018. 
+The information from the Reserve Bank of Australia is not directly comparable with the 
+Agricultural Lending Data. The Agricultural Lending Data does not cover fishery and forestry 
+businesses and lending by government agencies. The Reserve Bank of Australia data is provided 
+for context. 
+Distribution of farm debt 
+Much of the aggregate agriculture sector debt is held by a relatively small proportion of mostly 
+larger farms. At 30 June 2018 around 70% of aggregate broadacre debt was held by just 12% of 
+farms. On average, these were large farm businesses. In aggregate, they produced around 50% of 
+the total value of broadacre farm production in 2017–18. 
+Nationally, around 41% of grain industry farms and 34% of dairy farms carried more than 
+$1 million in debt at 30 June 2018. In contrast, 66% of beef farms and 57% of sheep farms had 
+debt of less than $100,000 at 30 June 2017. Many of these are small farm businesses. 
+Aggregate debt is slightly less concentrated among larger farms in the dairy industry. 
+Nevertheless, around 70% of aggregate dairy industry debt at 30 June 2018 was held by 30% of 
+farms. 
+ 2017-18 $ billion
+  10
+  20
+  30
+  40
+  50
+  60
+  70
+  80
+  90
+9
+
+Debt serviceability 
+The decline in interest rates and reduced bank lending following the 2008 global financial crisis, 
+and more recently the strong increase in farm income, have reduced the burden of servicing 
+debt and increased the rate of debt repayment. 
+Figure 3 Average interest rate paid on farm business debt, broadacre farms, Australia, 
+1977–78 to 2017–18 
+p Preliminary estimate. 
+Source: ABARES Australian Agricultural and Grazing Industries Survey (2019) 
+For the agriculture sector as a whole, the proportion of the net value of farm production needed 
+to fund interest payments rose substantially between 2001–02 and 2008–09. This was due to a 
+large increase in farm debt (Figure 2) and reduced farm receipts resulting from extended 
+drought conditions. Higher net farm income since 2010–11 and reductions in interest rates 
+(Figure 3) resulted in a decline in the average proportion of net income needed to fund interest 
+payments (Figure 4). 
+Some industries recorded notable changes in debt serviceability in the lead up to and 
+throughout 2017–18 (Figure 5). 
+For the beef industry, the proportion of net income needed to fund interest payments exceeded 
+40% for each year between 2006–07 and 2013–14. The proportion declined after 2013–14 due 
+to higher farm cash incomes as a result of historically high beef cattle prices. The proportion fell 
+to 16% in 2015–16 before increasing to 21% in 2017–18 as beef cattle prices eased and dry 
+seasonal conditions in some regions increased farm costs. This is similar to the proportion in 
+2000–01 and 2001–02, when beef cattle prices were also historically high. 
+For the sheep industry, the proportion of net income needed to fund interest payments in 
+2017-18 was historically low, at 12%. Farm cash incomes for sheep industry farms in 2017–18 
+were the highest recorded in more than 25 years as a result of high sheep, lamb and wool prices. 
+Nationally, the proportion of net income needed to fund interest payments increased slightly for 
+grains industry farms in 2017–18 as a result of lower farm cash incomes as a result of reductions 
+ %
+  2
+  4
+  6
+  8
+  10
+  12
+  14
+  16
+  18
+1977–78
+1982–83
+1987–88
+1992–93
+1997–98
+2002–03
+2007–08
+2012–13
+2017–18p
+10
+
+in grain, oilseed and grain legume production in 2017–18 compared to the record production in 
+2016–17. 
+Nationally, for the dairy industry, the proportion of net farm income needed to meet interest 
+payments increased to 37% in 2016–17 as a result of lower milk prices in southern Australia. 
+The proportion then declined to 27% in 2017–18 as a result of higher farm cash incomes in 
+Victoria, South Australia and Tasmania resulting from higher milk prices and increased milk 
+production. 
+Figure 4 Percentage of net income used to pay interest, Australian agriculture, 1980–81 to 
+2017–18 
+Source: ABARES (2019) 
+Figure 5 Ratio of interest payments to net farm income for farms with debt, by industry, 
+Australia, 1998–99 to 2017–18 
+Preliminary estimate for 2017–18. 
+ %
+  10
+  20
+  30
+  40
+  50
+  60
+  70
+  80
+ 2017-18 $ billion
+  5
+  10
+  15
+  20
+  25
+Net value of
+farm
+production
+(right axis)
+Percentage of
+net income
+used to pay
+interest (left
+axis)
+ %
+  10
+  20
+  30
+  40
+  50
+  60
+  70
+Dairy
+Grains
+Beef
+Sheep
+11
+
+Total loans and leases 
+Table 1 shows that at 30 June 2018: 
+• 
+Nationally, agricultural debt was $73.5 billion. 
+• 
+Debt was spread across 143,849 farm business entities. 
+• 
+Average debt per farm business entity was $511,050. 
+• 
+Total credit limits equated to $88.6 billion. 
+• 
+The average credit limit per farm business entity was $616,226. 
+Compared to the data from the 2016–17 Agricultural Lending Data report: 
+• 
+Nationally, agricultural debt increased by $3.4 billion. 
+• 
+The number of farm business entities with debt decreased by 1,809 entities. 
+• 
+The number of borrowers in the dairy industry decreased by 1,795 and increased by 4,673 
+in the grain growing and mixed grains–livestock industries. 
+• 
+Average debt per farm business entity increased by $29,629. 
+• 
+Total credit limits increased by $4.3 billion. 
+• 
+Average credit limit per farm business entity increased by $37,178. 
+12
+
+Table 1 Lending to agriculture, by industry and state, Australia 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+15,289 
+16,109 
+821 
+5 
+18,538 
+19,364 
+826 
+4 
+22,502 
+22,385 
+–117 
+–1 
+Sheep and sheep–beef 
+6,701 
+7,351 
+650 
+10 
+8,278 
+9,095 
+817 
+10 
+20,418 
+20,853 
+435 
+2 
+Pigs 
+396 
+500 
+104 
+26 
+589 
+711 
+122 
+21 
+865 
+837 
+–28 
+–3 
+Dairy 
+6,563 
+6,309 
+–254 
+–4 
+7,196 
+7,048 
+–149 
+–2 
+14,745 
+12,950 
+–1,795 
+–12 
+Poultry (meat and eggs) 
+1,407 
+1,447 
+40 
+3 
+1,791 
+1,681 
+–109 
+–6 
+1,500 
+1,978 
+478 
+32 
+Other livestock (horses, deer, beekeeping, 
+other livestock) 
+685 
+666 
+–19 
+–3 
+913 
+877 
+–36 
+–4 
+3,655 
+3,979 
+324 
+9 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+25,210 
+27,187 
+1,978 
+8 
+30,105 
+32,556 
+2,451 
+8 
+42,071 
+46,744 
+4,673 
+11 
+Cotton 
+4,014 
+4,282 
+269 
+7 
+4,838 
+4,897 
+59 
+1 
+1,863 
+1,434 
+–429 
+–23 
+Sugar cane 
+1,165 
+1,291 
+126 
+11 
+1,466 
+1,748 
+282 
+19 
+3,248 
+3,347 
+99 
+3 
+Vegetables (including mushrooms) 
+2,769 
+2,881 
+111 
+4 
+3,406 
+3,541 
+134 
+4 
+6,686 
+6,343 
+–343 
+–5 
+Grape growing 
+1,352 
+1,353 
+0 
+0 
+1,685 
+1,730 
+45 
+3 
+4,334 
+4,015 
+–319 
+–7 
+Fruit and nuts 
+2,215 
+2,299 
+84 
+4 
+2,742 
+2,894 
+151 
+6 
+5,600 
+5,686 
+86 
+2 
+Nursery and floriculture 
+427 
+408 
+–19 
+–4 
+532 
+533 
+1 
+0 
+2,378 
+2,202 
+–176 
+–7 
+Other crop growing 
+1,929 
+1,431 
+–498 
+–26 
+2,263 
+1,969 
+–294 
+–13 
+15,793 
+11,096 
+–4,697 
+–30 
+All agriculture 
+State 
+New South Wales a 
+20,059 
+21,274 
+1,215 
+6 
+24,360 
+25,984 
+1,624 
+7 
+39,854 
+40,484 
+630 
+2 
+Victoria 
+14,074 
+14,351 
+277 
+2 
+16,879 
+17,135 
+255 
+2 
+40,535 
+37,297 
+–3,238 
+–8 
+Queensland 
+16,990 
+18,193 
+1,202 
+7 
+20,614 
+22,011 
+1,397 
+7 
+26,015 
+26,639 
+624 
+2 
+13
+
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+South Australia 
+7,463 
+7,953 
+490 
+6 
+8,925 
+9,533 
+608 
+7 
+19,568 
+19,860 
+292 
+2 
+Western Australia 
+9,104 
+9,167 
+63 
+1 
+10,718 
+10,994 
+276 
+3 
+15,794 
+15,657 
+–137 
+–1 
+Tasmania 
+1,831 
+1,911 
+81 
+4 
+2,113 
+2,197 
+84 
+4 
+3,359 
+3,365 
+6 
+0 
+Northern Territory 
+603 
+666 
+63 
+10 
+734 
+790 
+56 
+8 
+533 
+547 
+14 
+3 
+Australia 
+70,123 
+73,514 
+3,391 
+5 
+84,343 
+88,643 
+4,301 
+5 
+145,658 
+143,849 
+–1,809 
+–1 
+a Includes ACT 
+14
+
+Loans and leases in arrears 
+Table 2 shows that at 30 June 2018: 
+• 
+Nationally, the total value of loans and leases in arrears was $577 million (0.8% of total 
+agricultural debt). 
+• 
+Nationally, loans and leases in arrears were held by 1,103 (0.8%) farm business entities. 
+• 
+By industry, the proportion of the total value of loans and leases in arrears was highest for 
+fruit and nuts (3.2%), grape growing (3.1%) and vegetable growing (2.6%). 
+• 
+By state, the proportion of the total value of loans and leases in arrears was lowest in the 
+Northern Territory and highest in Tasmania (1.4%), followed by Victoria (1.1%) and 
+South Australia (1.0%). 
+Compared to the data from the 2016–17 Agricultural Lending Data report: 
+• 
+Nationally, the total value of loans and leases in arrears decreased by $53 million. 
+• 
+The proportion of total value of loans and leases held in arrears declined in all states 
+except Victoria and the Northern Territory. 
+• 
+Nationally, the proportion of the total value of loans and leases in arrears increased in 
+the pig, poultry and fruit and nuts industry. In each case the number of borrowers in 
+arrears was small. 
+• 
+Nationally, the number of borrowers in arrears increased by 158 (17%) to 0.8% of all 
+borrowers. There was no increase in borrowers in arrears in Western Australia and a 
+small increase in all other states and territories. The number of borrowers in arrears 
+increased in all industries except cotton, grape growing and other crop growing. 
+• 
+The increase in the number of borrowers in arrears in combination with the reductions 
+in the proportion of loan value in arrears suggests most loans and leases in arrears are 
+relatively small. 
+Analysis of state and territory data in Appendix A indicate that at 30 June 2018: 
+• 
+In New South Wales (see Table A1 and Table A2) there was a 12% reduction in the total 
+value of Agriculture sector loans and leases in arrears at 30 June 2018. The grape industry 
+had the largest proportion of the total value of loans and leases in arrears. This industry also 
+had the highest proportion of debt in arrears in 2016–17. The grain growing and mixed 
+grains–livestock industry had the largest increase in the number of borrowers in arrears at 
+30 June 2018 and also had the largest increase in the number of borrowers (14%) in 
+2017-18. Average farm cash income declined for New South Wales grains industry farms in 
+2017-18. 
+• 
+In Victoria (see Table A3 and Table A4) there was a 25% increase in the total value of 
+Agriculture sector loans and leases in arrears at 30 June 2018. Industries with the largest 
+proportion of the total value of loans and leases in arrears were, in descending order: fruit 
+and nuts, poultry, other livestock and vegetables. The fruit and nuts industry also had the 
+highest proportion of debt in arrears in 2016–17. The grains and mixed grains–livestock 
+15
+
+industry had the largest increase in the number of borrowers in arrears at 30 June 2018, 
+followed by the dairy industry; the dairy industry also had the largest number in arrears at 
+30 June 2017. The dairy industry had a large (15%) reduction in the number of borrowers 
+(1,518 borrowers) between 30 June 2017 and 30 June 2018. This outcome is the result of 
+substantial restructuring of debt as a result of low profitability due to low milk prices and 
+problems with some of Australia’s largest dairy processors in 2016–17, high fodder costs in 
+2017–18 and the exit of farms from dairy production (as outlined in the Agriculture Sector 
+Overview). 
+• 
+In Queensland (see Table A5 and Table A6) there was a reduction of 15% in the total value 
+of Agriculture sector loans and leases in arrears at 30 June 2018. Industries with the largest 
+proportion of the total value of loans and leases in arrears were: fruit and nuts (4.7%) and 
+dairy (2.6%). The dairy industry had the highest proportion of debt in arrears in 2016–17. 
+There was only a very small increase in the number of Queensland borrowers in arrears at 
+30 June 2018. 
+• 
+In Western Australia (see Table A7 and Table A8) there was approximately a 20% reduction 
+in the total value of Agriculture sector loans and leases in arrears at 30 June 2018. 
+Industries with the largest proportion of the total value of loans and leases in arrears were: 
+vegetables, fruit and nuts, grapes and dairy. The vegetable industry also had the highest 
+proportion of debt in arrears in 2016–17. Overall, there was no increase in the number of 
+borrowers in arrears at 30 June 2018. 
+• 
+In South Australia (see Table A9 and Table A10) there was a 1% reduction in the total value 
+of Agriculture sector loans and leases in arrears at 30 June 2018. Industries with the largest 
+proportion of the total value of loans and leases in arrears were: dairy (3.8%) and grapes 
+(2.6%). The dairy and grape industries also had a relatively high proportion of debt in 
+arrears in 2016–17. The grain growing and mixed grains–livestock industry, sheep and 
+sheep–beef and vegetable industries had a small increases in the number of borrowers in 
+arrears at 30 June 2018. 
+• 
+In Tasmania (see Table A11 and Table A12) there was a 53% reduction in the total value of 
+Agriculture sector loans and leases in arrears between 30 June 2017 and 30 June 2018. 
+Industries with the largest proportion of the total value of loans and leases in arrears at 
+30 June 2018 were: vegetables (5.0%) and dairy. The vegetable industry and dairy industry 
+also had a relatively high proportion of debt in arrears in 2016–17. 
+• 
+In the Northern Territory (see Table A13 and Table A14) 5 borrowers were in arrears as at 
+30 June 2018. 
+16
+
+Table 2 Lending in arrears at 30 June, by industry and state, Australia 
+Category 
+Total value of loans and leases more 
+than 90 days past due 
+Proportion of total value of loans and 
+leases more than 90 days past due 
+Number of borrowers more than 90 
+days past due 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+132 
+83 
+–49 
+–37 
+0.9 
+0.5 
+–0.4 
+–41 
+130 
+156 
+26 
+20 
+Sheep and sheep–beef 
+22 
+35 
+13 
+62 
+0.3 
+0.5 
+0.2 
+48 
+87 
+111 
+24 
+28 
+Pigs 
+0 
+4 
+4 
+>200 
+0.1 
+0.8 
+0.7 
+>200 
+4 
+na 
+na 
+na 
+Dairy 
+99 
+92 
+–6 
+–6 
+1.5 
+1.5 
+0.0 
+–3 
+127 
+152 
+25 
+20 
+Poultry (meat and eggs) 
+8 
+na 
+na 
+na 
+0.6 
+na 
+0.6 
+109 
+22 
+26 
+4 
+18 
+Other livestock (horses, deer, beekeeping, 
+other livestock) 
+5 
+6 
+1 
+14 
+0.8 
+0.9 
+0.1 
+18 
+54 
+62 
+8 
+15 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+161 
+135 
+–26 
+–16 
+0.6 
+0.5 
+–0.1 
+–22 
+237 
+290 
+53 
+22 
+Cotton 
+11 
+na 
+na 
+na 
+0.3 
+na 
+–0.3 
+–99 
+5 
+na 
+na 
+na 
+Sugar cane 
+6 
+7 
+1 
+25 
+0.5 
+0.6 
+0.1 
+13 
+16 
+22 
+6 
+38 
+Vegetables (including mushrooms) 
+80 
+74 
+–6 
+–8 
+2.9 
+2.6 
+–0.3 
+–11 
+60 
+77 
+17 
+28 
+Grape growing 
+64 
+42 
+–22 
+–35 
+4.7 
+3.1 
+–1.7 
+–35 
+59 
+54 
+–5 
+–9 
+Fruit and nuts 
+34 
+73 
+39 
+114 
+1.5 
+3.2 
+1.6 
+106 
+69 
+77 
+8 
+12 
+Nursery and floriculture 
+1 
+2 
+1 
+167 
+0.2 
+0.4 
+0.3 
+179 
+24 
+24 
+0 
+0 
+Other crop growing 
+6 
+5 
+–1 
+–17 
+0.3 
+0.4 
+0.0 
+12 
+51 
+41 
+–10 
+–20 
+All agriculture 
+State 
+New South Wales a 
+98 
+86 
+–12 
+–12 
+0.5 
+0.4 
+–0.1 
+–17 
+222 
+242 
+20 
+9 
+Victoria 
+131 
+164 
+33 
+25 
+0.9 
+1.1 
+0.2 
+23 
+295 
+345 
+50 
+17 
+Queensland 
+159 
+136 
+–23 
+–14 
+0.9 
+0.7 
+–0.2 
+–20 
+163 
+175 
+12 
+7 
+17
+
+Category 
+Total value of loans and leases more 
+than 90 days past due 
+Proportion of total value of loans and 
+leases more than 90 days past due 
+Number of borrowers more than 90 
+days past due 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+(no.) 
+Change 
+(%) 
+South Australia 
+81 
+80 
+–1 
+–1 
+1.1 
+1.0 
+–0.1 
+–7 
+131 
+195 
+64 
+49 
+Western Australia 
+104 
+na 
+na 
+na 
+1.1 
+na 
+na 
+na 
+100 
+100 
+0 
+0 
+Tasmania 
+58 
+27 
+–30 
+–53 
+3.1 
+1.4 
+–1.7 
+–55 
+33 
+41 
+8 
+24 
+Northern Territory 
+0 
+na 
+na 
+na 
+0.0 
+na 
+na 
+na 
+1 
+5 
+4 
+>200 
+Australia 
+630 
+577 
+–53 
+–8 
+0.9 
+0.8 
+–0.1 
+–13 
+945 
+1,103 
+158 
+17 
+a Includes ACT. na Not available for publication but included in totals where applicable. 
+18
+
+Farm debt mediations and foreclosures 
+In 2017–18, the number of debt mediations increased and the number of foreclosures declined 
+in the agriculture sector (Table 3). 
+• 
+There was a 48% increase in new instances of debt mediation in 2017–18 compared to 
+2016–17. Nationally, there were 144 new instances of farm debt mediations in 2017–18 
+compared with 96 in 2016–17. 
+• 
+The majority of this increase in mediations was in Queensland and New South Wales, which 
+is likely reflective of worsening drought conditions in those states in 2017–18. 
+• 
+There were 27 new instances of farm foreclosure in 2017–18 compared with 33 in 2016-17. 
+• 
+Average credit outstanding per farm business entity for new foreclosures was $248,000, 
+compared with $1.9 million in 2016–17. 
+• 
+Total credit outstanding on new instances of farm foreclosure in 2017–18 was $7 million or 
+0.01% of total agricultural debt at 30 June 2018. At 30 June 2017, there was $63 million 
+outstanding on new instances of farm foreclosure or 0.09% of total agricultural debt. 
+19
+
+Table 3 Farm debt mediation and foreclosures, all agricultural industries, by state, 2016–17 and 2017–18 
+Category 
+Number of new instances of debt mediation 
+Number of new instances of foreclosure 
+Total balance of loans and leases 
+outstanding on new foreclosures 
+2016–17 
+(no.) 
+2017–18 
+(no.) 
+Change (no.) 
+2016–17 
+(no.) 
+2017–18 
+(no.) 
+Change (no.) 
+2016–17 
+($m) 
+2017–18 
+($m) 
+Change 
+($m) 
+All agriculture 
+State 
+New South Wales a 
+34 
+48 
+14 
+10 
+9 
+–1 
+2 
+1 
+–1 
+Victoria 
+38 
+44 
+6 
+8 
+8 
+0 
+24 
+1 
+–22 
+Queensland 
+19 
+39 
+20 
+5 
+6 
+1 
+22 
+1 
+–21 
+South Australia 
+1 
+na 
+na 
+2 
+na 
+na 
+1 
+na 
+na 
+Western Australia 
+4 
+7 
+3 
+6 
+na 
+na 
+9 
+na 
+na 
+Tasmania 
+– 
+na 
+na 
+2 
+na 
+na 
+5 
+na 
+na 
+Northern Territory 
+– 
+– 
+– 
+– 
+– 
+0 
+– 
+– 
+0 
+Australia 
+96 
+144 
+48 
+33 
+27 
+–6 
+63 
+7 
+–56 
+a Includes ACT. na Not available for publication but included in totals where applicable.
+20
+
+Other agriculture sector debt 
+information 
+Farm business debt outside the scope of this collection 
+An indication of the amount of farm business debt outside the scope of this collection is provided 
+by ABARES surveys of agricultural industries. ABARES annual surveys include the broadacre 
+industries (beef cattle including feedlots, sheep and sheep–beef, grain growing and mixed 
+grains–livestock) and the dairy industry. The broadacre and dairy sectors accounted for 63% of 
+the gross value of farm production, 74% of Australian farms in 2017–18 and 77% ($55.0 billion) 
+of the total agriculture sector debt to ADIs and RFCs (Table 1). 
+ABARES broadacre and dairy industry surveys estimate that at 30 June 2018 95% of aggregate 
+debt for the broadacre and dairy sectors was owed to ADIs and RFCs. In total, an additional 
+$2.8 billion is estimated to be owed by the broadacre and dairy sector to government agencies, 
+private lenders and sundry creditors. 
+ABARES found that the lending of Australian, state and territory governments accounted for 2% 
+of aggregate broadacre and dairy sector debt. Amounts outstanding to private lenders, including 
+vendor financiers and members of farm operators’ families, accounted for a further 2% of 
+aggregate debt. Sundry creditors (mainly input suppliers) accounted for around 1% of total farm 
+business debt at 30 June 2018. These proportions vary significantly across industries. 
+Reserve Bank of Australia data indicate that at 30 June 2018 government agencies had loaned a 
+total of $1.276 billion to agriculture, fisheries and forestry industry businesses (RBA 2019). 
+These agencies include the Queensland Rural and Industry Development Authority, the NSW 
+Rural Assistance Authority and other state and territory authorities. Government lending also 
+in the form of: 
+• 
+business improvement concessional loans 
+• 
+dairy recovery concessional loans 
+• 
+drought assistance concessional loans 
+• 
+drought concessional loans 
+• 
+drought recovery concessional loans 
+• 
+farm finance concessional loans. 
+Government lending accounted for 1.7% of total institutional lending to the agriculture, fisheries 
+and forestry sector at 30 June 2018 reported by the Reserve Bank. 
+Information on the growth in broadacre and dairy sector debt over the decade to 2016–17, the 
+composition of farm business debt and the distribution of farms by debt and equity is published 
+by ABARES (2019).
+21
+
+Appendix A: State and territory lending data, by industry 
+Table A1 Lending to agriculture, by industry, New South Wales and Australian Capital Territory 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 ($m) 
+2018 ($m) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+2,838 
+2,918 
+80 
+3 
+3,442 
+3,578 
+6,360 
+6,370 
+10 
+0 
+Sheep and sheep–beef 
+2,858 
+3,181 
+323 
+113 
+3,546 
+3,962 
+7,811 
+8,113 
+302 
+4 
+Pigs 
+86 
+115 
+29 
+33 
+118 
+215 
+172 
+156 
+–16 
+–9 
+Dairy 
+809 
+792 
+–17 
+–2 
+895 
+909 
+1,823 
+1,678 
+–145 
+–8 
+Poultry (meat and eggs) 
+418 
+330 
+–88 
+–21 
+515 
+381 
+427 
+460 
+33 
+8 
+Other livestock (horses, deer, beekeeping, 
+other livestock) 
+252 
+302 
+49 
+20 
+345 
+402 
+1,273 
+1,384 
+111 
+9 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+8,478 
+9,226 
+748 
+9 
+10,198 
+11,205 
+12,438 
+14,111 
+1,673 
+14 
+Cotton 
+2,570 
+2,905 
+335 
+13 
+3,149 
+3,302 
+857 
+774 
+–83 
+–10 
+Sugar cane 
+70 
+86 
+16 
+24 
+91 
+107 
+263 
+272 
+9 
+3 
+Vegetables (including mushrooms) 
+356 
+277 
+–78 
+–22 
+421 
+352 
+1,317 
+1,270 
+–47 
+–4 
+Grape growing 
+245 
+248 
+3 
+1 
+350 
+358 
+814 
+801 
+–13 
+–2 
+Fruit and nuts 
+460 
+481 
+21 
+5 
+550 
+592 
+1,309 
+1,321 
+12 
+1 
+Nursery and floriculture 
+74 
+78 
+5 
+6 
+87 
+93 
+574 
+557 
+–17 
+–3 
+Other crop growing 
+546 
+336 
+–210 
+–39 
+652 
+530 
+4,416 
+3,217 
+–1,199 
+–27 
+All agriculture 
+20,059 
+21,274 
+1,215 
+6 
+24,360 
+25,984 
+39,854 
+40,484 
+630 
+2 
+22
+
+Table A2 Loans and leases in arrears at 30 June, agricultural industries, New South Wales and Australian Capital Territory 
+Category 
+Total value of loans and leases more than 
+90 days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers more 
+than 90 days past due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+5 
+7 
+2 
+0.2 
+0.2 
+32 
+39 
+Sheep and sheep–beef 
+2 
+6 
+4 
+0.1 
+0.2 
+24 
+35 
+Pigs 
+0 
+0 
+0 
+0.0 
+0.0 
+1 
+na 
+Dairy 
+3 
+5 
+2 
+0.4 
+0.6 
+14 
+17 
+Poultry (meat and eggs) 
+6 
+0 
+–6 
+1.4 
+0.0 
+9 
+na 
+Other livestock (horses, deer, beekeeping, other livestock) 
+1 
+0 
+–1 
+0.4 
+0.1 
+16 
+13 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+24 
+34 
+10 
+0.3 
+0.4 
+58 
+82 
+Cotton 
+11 
+0 
+–11 
+0.4 
+0.0 
+4 
+0 
+Sugar cane 
+0 
+na 
+na 
+0.0 
+na 
+2 
+4 
+Vegetables (including mushrooms) 
+23 
+6 
+–17 
+6.5 
+2.1 
+8 
+10 
+Grape growing 
+19 
+na 
+na 
+7.8 
+na 
+17 
+14 
+Fruit and nuts 
+3 
+0 
+–3 
+0.7 
+0.1 
+16 
+10 
+Nursery and floriculture 
+0 
+na 
+na 
+0.0 
+na 
+6 
+4 
+Other crop growing 
+1 
+0 
+–1 
+0.2 
+0.1 
+15 
+10 
+All agriculture 
+98 
+86 
+–12 
+0.5 
+0.4 
+222 
+242 
+na Not available for publication but included in totals where applicable. 
+23
+
+Table A3 Lending to agriculture, by industry, Victoria 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 ($m) 
+2018 ($m) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+1,120 
+1,120 
+0 
+0 
+1,450 
+1,324 
+4,002 
+3,682 
+–320 
+–8 
+Sheep and sheep–beef 
+1,448 
+1,607 
+159 
+11 
+1,774 
+1,936 
+5,891 
+5,652 
+–239 
+–4 
+Pigs 
+80 
+97 
+17 
+22 
+124 
+126 
+211 
+194 
+–17 
+–8 
+Dairy 
+4,145 
+3,989 
+–156 
+–4 
+4,529 
+4,419 
+10,003 
+8,485 
+–1,518 
+–15 
+Poultry (meat and eggs) 
+405 
+436 
+31 
+8 
+525 
+500 
+526 
+494 
+–32 
+–6 
+Other livestock (horses, deer, beekeeping, other 
+livestock) 
+200 
+146 
+–53 
+–27 
+254 
+204 
+993 
+1,028 
+35 
+4 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+4,337 
+4,753 
+415 
+10 
+5,216 
+5,698 
+10,066 
+10,498 
+432 
+4 
+Cotton 
+129 
+na 
+na 
+na 
+153 
+na 
+161 
+na 
+na 
+na 
+Sugar cane 
+0 
+na 
+na 
+na 
+0 
+na 
+5 
+na 
+na 
+na 
+Vegetables (including mushrooms) 
+724 
+734 
+11 
+2 
+1,010 
+990 
+1,692 
+1,530 
+–162 
+–10 
+Grape growing 
+464 
+482 
+18 
+4 
+569 
+598 
+1,470 
+1,107 
+–363 
+–25 
+Fruit and nuts 
+462 
+491 
+28 
+6 
+603 
+623 
+1,236 
+1,301 
+65 
+5 
+Nursery and floriculture 
+155 
+152 
+–3 
+–2 
+200 
+214 
+756 
+662 
+–94 
+–12 
+Other crop growing 
+405 
+331 
+–74 
+–18 
+472 
+474 
+3,523 
+2,543 
+–980 
+–28 
+All agriculture 
+14,074 
+14,351 
+277 
+2 
+16,879 
+17,135 
+40,535 
+37,297 
+–3,238 
+–8 
+na Not available for publication but included in totals where applicable. 
+24
+
+Table A4 Loans and leases in arrears at 30 June, agricultural industries, Victoria 
+Category 
+Total value of loans and leases more than 
+90 days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers more 
+than 90 days past due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+19 
+4 
+–15 
+1.7 
+0.4 
+34 
+27 
+Sheep and sheep–beef 
+6 
+8 
+2 
+0.4 
+0.5 
+31 
+33 
+Pigs 
+0 
+1 
+1 
+0.0 
+1.4 
+0 
+4 
+Dairy 
+40 
+53 
+13 
+1.0 
+1.3 
+67 
+86 
+Poultry (meat and eggs) 
+2 
+na 
+na 
+0.5 
+na 
+8 
+13 
+Other livestock (horses, deer, beekeeping, other livestock) 
+3 
+5 
+2 
+1.5 
+3.1 
+16 
+27 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+36 
+30 
+–6 
+0.8 
+0.6 
+63 
+83 
+Cotton 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Sugar cane 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Vegetables (including mushrooms) 
+10 
+21 
+11 
+1.4 
+2.9 
+20 
+20 
+Grape growing 
+4 
+na 
+na 
+0.9 
+na 
+17 
+6 
+Fruit and nuts 
+10 
+24 
+14 
+2.2 
+4.8 
+18 
+24 
+Nursery and floriculture 
+0 
+na 
+na 
+0.0 
+na 
+5 
+8 
+Other crop growing 
+1 
+1 
+0 
+0.2 
+0.2 
+16 
+14 
+All agriculture 
+131 
+164 
+33 
+0.9 
+1.1 
+295 
+345 
+na Not available for publication but included in totals where applicable. 
+25
+
+Table A5 Lending to agriculture, by industry, Queensland 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 ($m) 
+2018 
+($m) 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+9,382 
+9,957 
+575 
+6 
+11,278 
+11,919 
+9,206 
+9,414 
+208 
+2 
+Sheep and sheep–beef 
+482 
+465 
+–16 
+–3 
+610 
+601 
+1,542 
+1,636 
+94 
+6 
+Pigs 
+101 
+141 
+40 
+39 
+163 
+178 
+204 
+214 
+10 
+5 
+Dairy 
+275 
+276 
+1 
+0 
+309 
+320 
+892 
+858 
+–34 
+–4 
+Poultry (meat and eggs) 
+284 
+339 
+55 
+20 
+414 
+414 
+222 
+370 
+148 
+67 
+Other livestock (horses, deer, beekeeping, other 
+livestock) 
+103 
+113 
+10 
+10 
+119 
+136 
+679 
+729 
+50 
+7 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+2,085 
+2,309 
+224 
+11 
+2,521 
+2,748 
+3,061 
+3,812 
+751 
+25 
+Cotton 
+1,309 
+1,369 
+60 
+5 
+1,531 
+1,575 
+711 
+619 
+–92 
+–13 
+Sugar cane 
+1,094 
+1,193 
+99 
+9 
+1,374 
+1,629 
+2,972 
+2,948 
+–24 
+–1 
+Vegetables (including mushrooms) 
+592 
+738 
+146 
+25 
+728 
+867 
+1,413 
+1,415 
+2 
+0 
+Grape growing 
+25 
+36 
+10 
+42 
+39 
+40 
+50 
+57 
+7 
+14 
+Fruit and nuts 
+799 
+809 
+10 
+1 
+987 
+1,013 
+1,496 
+1,470 
+–26 
+–2 
+Nursery and floriculture 
+90 
+84 
+–5 
+–6 
+110 
+105 
+479 
+465 
+–14 
+–3 
+Other crop growing 
+370 
+363 
+–7 
+–2 
+431 
+465 
+3,088 
+2,632 
+–456 
+–15 
+All agriculture 
+16,990 
+18,193 
+1,202 
+7 
+20,614 
+22,011 
+26,015 
+26,639 
+624 
+2 
+26
+
+Table A6 Loans and leases in arrears at 30 June, agricultural industries, Queensland 
+Category 
+Total value of loans and leases more than 
+90 days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers more 
+than 90 days past due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+105 
+65 
+–40 
+1.1 
+0.7 
+47 
+60 
+Sheep and sheep–beef 
+0 
+na 
+na 
+0.0 
+na 
+4 
+na 
+Pigs 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Dairy 
+9 
+7 
+–2 
+3.3 
+2.6 
+18 
+12 
+Poultry (meat and eggs) 
+0 
+na 
+na 
+0.0 
+na 
+3 
+na 
+Other livestock (horses, deer, beekeeping, other livestock) 
+1 
+na 
+na 
+1.0 
+na 
+12 
+na 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+14 
+3 
+–11 
+0.7 
+0.1 
+12 
+11 
+Cotton 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+na 
+Sugar cane 
+6 
+7 
+1 
+0.5 
+0.6 
+14 
+18 
+Vegetables (including mushrooms) 
+5 
+10 
+5 
+0.8 
+1.3 
+11 
+17 
+Grape growing 
+0 
+na 
+na 
+0.0 
+na 
+0 
+na 
+Fruit and nuts 
+14 
+38 
+24 
+1.8 
+4.7 
+20 
+16 
+Nursery and floriculture 
+1 
+1 
+0 
+1.1 
+0.7 
+5 
+7 
+Other crop growing 
+3 
+4 
+1 
+0.8 
+1.0 
+17 
+10 
+All agriculture 
+159 
+136 
+–23 
+0.9 
+0.7 
+163 
+175 
+na Not available for publication but included in totals where applicable. 
+27
+
+Table A7 Lending to agriculture, by industry, Western Australia 
+Category 
+Loans and leases outstanding at 
+30 June 
+Facility limit at 
+30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 
+($m) 
+2018 
+($m) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+673 
+698 
+24 
+4 
+816 
+834 
+1,220 
+1,208 
+–12 
+–1 
+Sheep and sheep–beef 
+576 
+580 
+5 
+1 
+735 
+768 
+1,772 
+1,808 
+36 
+2 
+Pigs 
+62 
+69 
+7 
+11 
+79 
+82 
+76 
+73 
+–3 
+–4 
+Dairy 
+252 
+252 
+1 
+0 
+296 
+310 
+508 
+460 
+–48 
+–9 
+Poultry (meat and eggs) 
+76 
+113 
+37 
+49 
+85 
+129 
+119 
+362 
+243 
+>200 
+Other livestock (horses, deer, beekeeping, other livestock) 
+29 
+32 
+3 
+10 
+36 
+42 
+278 
+300 
+22 
+8 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+6,514 
+6,693 
+179 
+3 
+7,617 
+7,935 
+7,880 
+8,812 
+932 
+12 
+Cotton 
+3 
+na 
+na 
+na 
+3 
+na 
+55 
+na 
+na 
+na 
+Sugar cane 
+0 
+na 
+na 
+na 
+0 
+na 
+2 
+na 
+na 
+na 
+Vegetables (including mushrooms) 
+335 
+323 
+–11 
+–3 
+369 
+382 
+822 
+734 
+–88 
+–11 
+Grape growing 
+69 
+51 
+–18 
+–26 
+83 
+62 
+222 
+161 
+–61 
+–28 
+Fruit and nuts 
+176 
+173 
+–3 
+–2 
+211 
+213 
+478 
+451 
+–27 
+–6 
+Nursery and floriculture 
+66 
+50 
+–16 
+–25 
+82 
+64 
+237 
+205 
+–32 
+–14 
+Other crop growing 
+273 
+133 
+–141 
+–51 
+306 
+171 
+2,125 
+1,064 
+–1,061 
+–50 
+All agriculture 
+9,104 
+9,167 
+63 
+1 
+10,718 
+10,994 
+15,794 
+15,657 
+–137 
+–1 
+na Not available for publication but included in totals where applicable. 
+28
+
+Table A8 Loans and leases in arrears at 30 June, agricultural industries, Western Australia  
+Category 
+Total value of loans and leases more than 
+90 days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers more 
+than 90 days past due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+1 
+3 
+2 
+0.1 
+0.4 
+5 
+11 
+Sheep and sheep–beef 
+2 
+na 
+na 
+0.3 
+na 
+10 
+6 
+Pigs 
+0 
+na 
+na 
+0.0 
+na 
+2 
+na 
+Dairy 
+5 
+na 
+na 
+2.0 
+na 
+3 
+5 
+Poultry (meat and eggs) 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+na 
+Other livestock (horses, deer, beekeeping, other livestock) 
+0 
+na 
+na 
+0.0 
+na 
+2 
+5 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+61 
+44 
+–17 
+0.9 
+0.7 
+52 
+48 
+Cotton 
+0 
+0 
+0 
+0.0 
+0.0 
+1 
+0 
+Sugar cane 
+0 
+na 
+na 
+0.0 
+na 
+0 
+0 
+Vegetables (including mushrooms) 
+23 
+na 
+na 
+6.9 
+na 
+10 
+9 
+Grape growing 
+3 
+2 
+–1 
+4.3 
+3.7 
+5 
+3 
+Fruit and nuts 
+7 
+na 
+na 
+4.0 
+na 
+7 
+8 
+Nursery and floriculture 
+0 
+na 
+na 
+0.0 
+na 
+2 
+na 
+Other crop growing 
+0 
+na 
+na 
+0.0 
+na 
+1 
+na 
+All agriculture 
+104 
+na 
+na 
+1.1 
+na 
+100 
+100 
+na Not available for publication but included in totals where applicable. 
+29
+
+Table A9 Lending to agriculture, by industry, South Australia 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 ($m) 
+2018 
+($m) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+550 
+595 
+46 
+8 
+674 
+724 
+1,048 
+1,047 
+–1 
+0 
+Sheep and sheep–beef 
+1,041 
+1,186 
+145 
+14 
+1,258 
+1,436 
+2,762 
+2,988 
+226 
+8 
+Pigs 
+64 
+74 
+10 
+15 
+103 
+105 
+180 
+178 
+–2 
+–1 
+Dairy 
+394 
+374 
+–20 
+–5 
+442 
+413 
+786 
+785 
+–1 
+0 
+Poultry (meat and eggs) 
+213 
+214 
+1 
+1 
+236 
+237 
+182 
+244 
+62 
+34 
+Other livestock (horses, deer, beekeeping, other livestock) 
+71 
+57 
+–14 
+–20 
+82 
+75 
+319 
+408 
+89 
+28 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+3,626 
+3,957 
+331 
+9 
+4,356 
+4,682 
+8,348 
+9,050 
+702 
+8 
+Cotton 
+1 
+na 
+na 
+na 
+1 
+na 
+45 
+na 
+na 
+na 
+Sugar cane 
+1 
+na 
+na 
+na 
+1 
+na 
+6 
+na 
+na 
+na 
+Vegetables (including mushrooms) 
+479 
+523 
+43 
+9 
+558 
+620 
+1,033 
+933 
+–100 
+–10 
+Grape growing 
+534 
+520 
+–14 
+–3 
+624 
+651 
+1,721 
+1,816 
+95 
+6 
+Fruit and nuts 
+238 
+264 
+26 
+11 
+293 
+346 
+904 
+952 
+48 
+5 
+Nursery and floriculture 
+24 
+22 
+–2 
+–9 
+32 
+31 
+234 
+228 
+–6 
+–3 
+Other crop growing 
+226 
+165 
+–61 
+–27 
+267 
+211 
+2,000 
+1,216 
+–784 
+–39 
+All agriculture 
+7,463 
+7,953 
+490 
+7 
+8,925 
+9,533 
+19,568 
+19,860 
+292 
+2 
+na Not available for publication but included in totals where applicable. 
+30
+
+Table A10 Loans and leases in arrears at 30 June, agricultural industries, South Australia 
+Category 
+Total value of loans and leases more than 90 
+days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers 
+more than 90 days past 
+due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+2 
+3 
+1 
+0.4 
+0.4 
+9 
+15 
+Sheep and sheep–beef 
+5 
+18 
+13 
+0.5 
+1.5 
+13 
+27 
+Pigs 
+0 
+na 
+na 
+0.0 
+na 
+1 
+na 
+Dairy 
+18 
+14 
+–4 
+4.6 
+3.8 
+13 
+12 
+Poultry (meat and eggs) 
+0 
+na 
+na 
+0.0 
+0.0 
+2 
+4 
+Other livestock (horses, deer, beekeeping, other livestock) 
+0 
+na 
+na 
+0.0 
+na 
+7 
+6 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+17 
+24 
+7 
+0.5 
+0.6 
+47 
+63 
+Cotton 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Sugar cane 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Vegetables (including mushrooms) 
+1 
+2 
+1 
+0.2 
+0.4 
+7 
+13 
+Grape growing 
+38 
+13 
+–25 
+7.1 
+2.6 
+19 
+29 
+Fruit and nuts 
+0 
+na 
+na 
+0.0 
+na 
+6 
+17 
+Nursery and floriculture 
+0 
+na 
+na 
+0.0 
+na 
+5 
+4 
+Other crop growing 
+0 
+0 
+0 
+0.0 
+0.1 
+2 
+4 
+All agriculture 
+81 
+80 
+–1 
+1.1 
+1.0 
+131 
+195 
+na Not available for publication but included in totals where applicable. 
+31
+
+Table A11 Lending to agriculture, by industry, Tasmania 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change 
+($m) 
+Change 
+(%) 
+2017 ($m) 
+2018 ($m) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+192 
+231 
+39 
+20 
+231 
+290 
+445 
+446 
+1 
+0 
+Sheep and sheep–beef 
+290 
+na 
+na 
+na 
+344 
+na 
+620 
+624 
+4 
+1 
+Pigs 
+3 
+4 
+2 
+58 
+3 
+5 
+21 
+22 
+1 
+5 
+Dairy 
+688 
+na 
+na 
+na 
+725 
+na 
+730 
+na 
+na 
+na 
+Poultry (meat and eggs) 
+12 
+na 
+na 
+na 
+16 
+na 
+23 
+na 
+na 
+na 
+Other livestock (horses, deer, beekeeping, other livestock) 
+29 
+14 
+–15 
+–51 
+77 
+17 
+95 
+112 
+17 
+18 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+162 
+244 
+82 
+51 
+188 
+279 
+256 
+421 
+165 
+65 
+Cotton 
+1 
+na 
+na 
+na 
+1 
+na 
+31 
+4 
+na 
+na 
+Sugar cane 
+0 
+na 
+na 
+na 
+0 
+na 
+0 
+8 
+na 
+na 
+Vegetables (including mushrooms) 
+281 
+281 
+0 
+–0 
+316 
+323 
+385 
+412 
+27 
+7 
+Grape growing 
+16 
+16 
+1 
+6 
+19 
+na 
+50 
+68 
+18 
+36 
+Fruit and nuts 
+45 
+46 
+1 
+2 
+56 
+62 
+95 
+104 
+9 
+10 
+Nursery and floriculture 
+15 
+na 
+na 
+na 
+17 
+20 
+85 
+76 
+–9 
+–11 
+Other crop growing 
+98 
+95 
+–3 
+–3 
+121 
+108 
+523 
+343 
+–180 
+–34 
+All agriculture 
+1,831 
+1,911 
+81 
+4 
+2,113 
+2,197 
+3,359 
+3,365 
+6 
+0 
+na Not available for publication but included in totals where applicable. 
+32
+
+Table A12 Loans and leases in arrears at 30 June, agricultural industries, Tasmania 
+Category 
+Total value of loans and leases more than 
+90 days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers more 
+than 90 days past due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+1 
+na 
+na 
+0.5 
+na 
+3 
+na 
+Sheep and sheep–beef 
+6 
+na 
+na 
+2.1 
+na 
+5 
+6 
+Pigs 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Dairy 
+24 
+na 
+na 
+3.5 
+na 
+12 
+na 
+Poultry (meat and eggs) 
+0 
+na 
+na 
+0.0 
+na 
+0 
+na 
+Other livestock (horses, deer, beekeeping, other livestock) 
+0 
+0 
+0 
+0.0 
+0.0 
+1 
+na 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+9 
+na 
+na 
+5.6 
+na 
+5 
+na 
+Cotton 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Sugar cane 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Vegetables (including mushrooms) 
+17 
+14 
+–3 
+6.0 
+5.0 
+4 
+7 
+Grape growing 
+0 
+0 
+0 
+0.0 
+0.0 
+1 
+0 
+Fruit and nuts 
+0 
+na 
+na 
+0.0 
+na 
+1 
+na 
+Nursery and floriculture 
+0 
+0 
+0 
+0.0 
+0.0 
+1 
+0 
+Other crop growing 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+All agriculture 
+58 
+27 
+–31 
+3.2 
+1.4 
+33 
+41 
+na Not available for publication but included in totals where applicable. 
+33
+
+Table A13 Lending to agriculture, by industry, Northern Territory 
+Category 
+Loans and leases outstanding at 30 June 
+Facility limit at 30 June 
+Number of borrowers 
+2017 
+($m) 
+2018 
+($m) 
+Change
+($m) 
+Change 
+(%) 
+2017 ($m) 
+2018 ($m) 
+2017 
+(no.) 
+2018 
+(no.) 
+Change 
+(no.) 
+Change 
+(%) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+533 
+590 
+57 
+11 
+647 
+696 
+221 
+218 
+–3 
+–1 
+Sheep and sheep–beef 
+7 
+na 
+na 
+na 
+11 
+18 
+20 
+32 
+12 
+60 
+Pigs 
+0 
+0 
+0 
+0 
+0 
+– 
+1 
+0 
+–1 
+0 
+Dairy 
+0 
+na 
+na 
+na 
+0 
+0 
+3 
+na 
+na 
+na 
+Poultry (meat and eggs) 
+0 
+na 
+na 
+na 
+0 
+1 
+1 
+na 
+na 
+na 
+Other livestock (horses, deer, beekeeping, other livestock) 
+1 
+1 
+0 
+28 
+1 
+1 
+18 
+18 
+0 
+0 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+7 
+6 
+–1 
+–14 
+9 
+9 
+22 
+40 
+18 
+82 
+Cotton 
+0 
+0 
+0 
+0 
+0 
+– 
+3 
+0 
+–3 
+0 
+Sugar cane 
+0 
+na 
+na 
+na 
+0 
+na 
+0 
+na 
+na 
+na 
+Vegetables (including mushrooms) 
+4 
+5 
+1 
+37 
+4 
+6 
+24 
+49 
+25 
+104 
+Grape growing 
+0 
+0 
+0 
+41 
+0 
+0 
+7 
+5 
+–2 
+–29 
+Fruit and nuts 
+35 
+37 
+1 
+4 
+42 
+43 
+82 
+87 
+5 
+6 
+Nursery and floriculture 
+4 
+4 
+0 
+–11 
+5 
+na 
+13 
+9 
+–4 
+–31 
+Other crop growing 
+12 
+9 
+–3 
+–23 
+14 
+10 
+118 
+81 
+–37 
+–31 
+All agriculture 
+603 
+666 
+63 
+10 
+734 
+790 
+533 
+547 
+14 
+3 
+na Not available for publication but included in totals where applicable. 
+34
+
+Table A14 Loans and leases in arrears at 30 June, agricultural industries, Northern Territory 
+Category 
+Total value of loans and leases more than 90 
+days past due 
+Proportion of total value of 
+loans and leases more than 
+90 days past due 
+Number of borrowers 
+more than 90 days past 
+due 
+2017 ($m) 
+2018 ($m) 
+Change ($m) 
+2017 (%) 
+2018 (%) 
+2017 (no.) 
+2018 (no.) 
+Industry 
+Livestock industries 
+Beef cattle (including beef cattle feedlots) 
+0 
+na 
+na 
+0.1 
+na 
+0 
+na 
+Sheep and sheep–beef 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Pigs 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Dairy 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Poultry (meat and eggs) 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Other livestock (horses, deer, beekeeping, other livestock) 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Cotton 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Sugar cane 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Vegetables (including mushrooms) 
+0 
+na 
+na 
+0.0 
+na 
+0 
+na 
+Grape growing 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Fruit and nuts 
+0 
+0 
+0 
+0.0 
+0.0 
+1 
+na 
+Nursery and floriculture 
+0 
+0 
+0 
+0.0 
+0.0 
+0 
+0 
+Other crop growing 
+0 
+na 
+na 
+0.6 
+na 
+0 
+na 
+All agriculture 
+0 
+na 
+na 
+0.0 
+na 
+1 
+5 
+na Not available for publication but included in totals where applicable. 
+35
+
+Appendix B: Agricultural industry groups 
+Table B1 Agricultural industry groups, by class 
+Industry group 
+Subgroup 
+ANZSIC 1993 class 
+ANZSIC 2006 class 
+Livestock industries 
+Beef cattle 
+0125 
+0142, 0143 
+Sheep and sheep–beef 
+0123, 0124 
+0141, 0144 
+Pigs 
+0151 
+0192 
+Dairy 
+0130 
+0160 
+Poultry (meat and eggs) 
+0141, 0142 
+0171, 0172 
+Other livestock (horses, deer, beekeeping, 
+other livestock) 
+0152, 0153, 0159 
+0180, 0191, 0193, 0199 
+Cropping industries 
+Grain growing and mixed grains–livestock 
+0121, 0122 
+0146, 0145, 0149  
+Cotton 
+0162 
+0152 
+Sugar cane 
+0161 
+0151 
+Vegetables (including mushrooms) 
+0113 
+0122, 0123, 0121 
+Grape growing 
+0114 
+0131 
+Fruit and nuts 
+0115, 0116, 0117, 0119 
+0132, 0133, 0134, 0135, 0136, 0137, 0139 
+Nursery and floriculture 
+0111, 0112 
+0111, 0112, 0113, 0114, 0115 
+Other crop growing 
+0169 
+0159 
+ANZSIC Australian and New Zealand Standard Industrial Classification.
+36
+
+References 
+ABARES 2019, Farm performance: broadacre and dairy farms, 2016–17 to 2018–19, in 
+Agricultural commodities: March quarter 2019, Australian Bureau of Agricultural and Resource 
+Economics and Sciences, Canberra. 
+——2019, Agricultural commodities: March quarter 2019, Australian Bureau of Agricultural and 
+Resource Economics and Sciences, Canberra, accessed 5 June 2019. 
+Bureau of Meteorology 2018, Climate of the 2017 to 2018 financial year, Bureau of Meteorology, 
+Melbourne, accessed 5 June 2019. 
+RBA 2019, Rural debt by lender–D9, Reserve Bank of Australia, Sydney, accessed 5 June 2019. 
+37

@@ -1,0 +1,1474 @@
+pwc.com.au 
+Liability limited by a scheme approved under Professional Standards Legislation 
+Australian 
+Pesticides and 
+Veterinary 
+Medicines 
+Authority  
+Review of Cost 
+Recovery 
+Arrangements 
+Final Report 
+October 2017
+
+Limitations 
+Our work was limited to that described in this report. It was performed in accordance with PIN 23350 under the 
+terms and conditions of the deed executive in relation to the Australian Customs and Border Protection Services 
+Resources. It did not constitute an ‘audit’ or ‘review’ in accordance with the standards issued by the Auditing and 
+Assurance Standards Board, and accordingly no such assurance under those standards will be provided in this 
+report. 
+ii 
+Contents 
+1 
+Executive Summary .................................................................................................... 3 
+2 
+Background ................................................................................................................ 6 
+3 
+Current cost recovery arrangements ........................................................................... 7 
+4 
+Appropriateness of the cost recovery model and pricing arrangements ....................... 9 
+5 
+Overview of current financial operations .................................................................. 14 
+6 
+Cost Model Update and Fee Analysis ......................................................................... 18 
+Appendix A – Scope and Approach of Review .................................................................. 20
+
+3 
+1 
+Executive Summary 
+1.1 
+Introduction 
+PricewaterhouseCoopers (PwC) was engaged to undertake an independent review of the current cost 
+recovery arrangements in place for the Australian Pesticides and Veterinary Medicines Authority 
+(APVMA or Authority). Through this assessment PwC were also required to provide an overview of the 
+APVMA’s financial outcomes over the period 2014-15 through to 2016-17 with a view to identifying any 
+key issues impacting the APVMA’s financial position and sustainability.  
+public to achieve its policy outcomes. These activities are funded from different revenue sources, 
+including general taxation, sales of public assets, government investments, cost recovery and other 
+government sector some or all of the efficient costs of a specific government activity. That activity may 
+include the provision of goods, services or regulation, or a combination of them. 
+Cost recovery can promote equity, whereby the recipients of a government activity, rather than the 
+general public, bear its costs.  An effective arrangement can also influence demand for government 
+activities, improve the efficiency, productivity and responsiveness of government activities and 
+accountability for those activities. A robust and transparent cost recovery model can also increase cost 
+consciousness for all stakeholders by raising awareness of how much a government activity costs. The 
+scope and approach of this review are included in Appendix A.  
+1.2 
+Overall observations 
+The review identified a number of issues that are currently contributing to the APVMAs financial 
+position and ongoing sustainability. The most significant of these issues are resulting from the time 
+taken to undertake a comprehensive cost recovery review of its arrangements and to update them as 
+necessary. There is a significant imbalance between revenue and expense which is forecasted to grow if 
+these issues are not addressed.  
+The table below provides a comprehensive summary of the findings made through this review with 
+further analysis and recommendation included within the report.  
+Finding 
+Description 
+Recommendations  
+1 
+The forecast assumptions which 
+underpinned the 2012 cost recovery 
+arrangements may not have been 
+appropriate and failed to adequately 
+project beyond the immediate term. 
+Recommendation 1– The policy authority 
+should be reviewed in line with the requirements 
+Recovery Guidelines and the Australian 
+Government Charging Framework to ensure the 
+intent remains consistent with the overarching 
+policy. 
+Recommendation 2– The APVMA should 
+consider refreshing its policy authority to allow 
+for the annual application of indexation. This will 
+ensure that the Authority can amend its pricing 
+annually in line with market factors to ensure 
+revenue and expenditure move consistently 
+across years. 
+Recommendation 3 - The Authority should 
+develop a process by which it can accurately 
+2 
+The current policy authority enabling 40% 
+of costs to be recovered through Fee for 
+Service (FFS) impedes APVMAs ability to 
+fully cost recover and drives cross 
+subsidisation 
+3 
+The APVMA does not currently have a 
+process in place to accurately forecast the 
+workload of applications and the modular 
+break up by activity it expects to 
+undertake.
+
+4 
+Finding 
+Description 
+Recommendations  
+4 
+The policy authority supporting the 
+current cost recovery arrangements does 
+not allow for the annual indexation of 
+charges to take into consideration wage 
+growth and CPI movements. 
+forecast the number of items/ modules that it 
+expects to process through the year as part of its 
+assessment function. 
+Recommendation 4 - the APVMA should 
+review and update its cost recovery arrangements 
+at the earliest including giving consideration to 
+the appropriateness of the existing policy 
+approval to recover 40% of costs through FFS 
+arrangements. 
+5 
+The current cost recovery model is 
+complex, outdated and needs to be 
+updated, the prices set are no longer 
+consistent or reflective of the true costs of 
+undertaking activities. 
+Recommendation 5– APVMA should review 
+with current cost recovery model and should 
+make the necessary updates to the model based 
+on the changes implemented to the cost recovery 
+arrangements.  
+6 
+Revenue forecasts across the Forward 
+Estimates are optimistic and not 
+representative of actual results and should 
+be revised based on an accurate trend.  
+Recommendation 6– APVMA should review 
+its current revenue forecast and amend this to 
+accurately reflect the trend following adjustments 
+for relevant events. 
+7 
+The APVMA has not undertaken an effort 
+estimation review and does not have a 
+reliable methodology to align effort 
+against each assessment category 
+including modules and items. The 
+methodology applied to determine the 
+complexity of each assessment module is 
+subjective and has a higher tendency to 
+deliver an in accurate outcome. 
+Recommendation 7– APVMA should 
+undertake a review of its current cost base and 
+workforce strategy to determine the cost 
+implications in the short to medium term and 
+either look at reducing costs or increasing pricing 
+to recover justifiable costs. A further option could 
+be for the Authority to investigate outsourcing 
+opportunities as an immediate cost reduction 
+mechanism. 
+8 
+There is a risk that the 2017/18 internal 
+expenditure budget allocations for 
+APVMA are aligned to a forecast activity 
+level that may not be achievable due to 
+reduced volumes and decreased revenue. 
+This report makes no specific recommendation 
+however management should consider the finding 
+and address as appropriate.  
+9 
+APVMA should address the gap between 
+revenue and expenditure by updating 
+current cost recovery arrangements to 
+avoid further reductions in the equity 
+reserve balance and its cash position.  
+Recommendation 8 – APVMA should review 
+its cash flow requirements, and consider what 
+approach or options that are available that will 
+assist in managing its revenue and expenses to 
+minimise the risk of further depleting its cash 
+reserves.  
+10 
+Stakeholder’s consistently reported that 
+APVMA’s IT systems were not sufficient to 
+support management. There is extensive 
+manual intervention to extract and 
+manipulate critical financial, HR and Item 
+Activity data. It was also identified that the 
+Authority is reliant on a key individuals to 
+undertake the required manipulation. 
+This report makes no specific recommendation 
+however management should consider the finding 
+and address as appropriate.
+
+5 
+Finding 
+Description 
+Recommendations  
+11 
+The imbalance between revenue and 
+expenses within the Registrations stream 
+is a result of a shift in costs in undertaking 
+a particular module or item assessment 
+from those derived as part of the 2012 
+CRIS. 
+This report makes no specific recommendation 
+however management should consider the finding 
+and address as appropriate. 
+12 
+The methodology applied was consistent 
+with past activity based costing reviews 
+and provides a good basis for comparison. 
+Generally though, it should not be relied 
+upon as the basis for adjusting the prices 
+of the modules or items, noting the 
+findings raised through the report.  
+This report makes no specific recommendation 
+however management should consider the finding 
+and address as appropriate.
+
+6 
+2 
+Background 
+The Australian Pesticides and Veterinary Medicines Authority (APVMA or Authority) is the Australian 
+Government Authority responsible for regulating agricultural and veterinary (AGVET) chemicals 
+(active constituents) and products containing them in Australia—up to and including the point of retail 
+sale. The sale and use of these chemicals is regulated through a National Registration Scheme (NRS), 
+which is established under Commonwealth, state and territory legislation. The AGVET Code identifies 
+which products and chemicals need to be registered or approved and which ones are exempt. The Code 
+also describes the APVMA’s responsibilities and activities as a regulator—including how the Authority 
+discharges it responsibilities as a regulator. 
+The current policy authority requires the APVMA to fully recover its costs of operations through a mix 
+of fees, charges and levies imposed on the industry it regulates. These costs are incurred by the 
+Authority undertaking registration assessments, renewing existing product registrations and 
+undertaking compliance, monitoring and enforcement activities to ensure the integrity of the industry. 
+Parties who wish to supply AGVET chemicals must apply to the APVMA to register the products and 
+obtain approval for labels attached to product containers before the products can be supplied, sold, 
+distributed or used in Australia. 
+When an application for registration is submitted, the APVMA first analyses the data package for 
+completeness of the data, any inconsistencies, and whether the level of detail is sufficient for an 
+adequate risk assessment to be performed. Registration is based on a rigorous and independent 
+evaluation of scientific information related to the safety and efficacy of a product. The APVMA grants 
+registration if the evaluation of a product has shown that it is not likely to be harmful to crops or 
+animals, users, consumers and the environment. The evaluation also has to demonstrate that the 
+product is suitably formulated, and that its label contains adequate instructions for safe and effective 
+use. The APVMA must also assess whether using the product may unduly prejudice trade. 
+The costs of registrations and approvals are generally recovered through a combination of application 
+fees and the levy, with a greater proportion of the costs recovered through the levy. The costs of 
+assessing applications are collected in two parts: 40 per cent of the assessment costs being charged are 
+to be recovered as an upfront application fee and the balance of revenue required to fund the APVMA’s 
+costs are to be recovered by the levy on the annual value of sales. The policy intent is to ensure that the 
+application fee to assess and register new and innovative products does not act as a disincentive to 
+bringing them into the market, particularly for small businesses, niche products and chemical 
+products that have a low value of sales. 
+In addition to the registration and approvals function, the APVMA conducts a number of post market 
+compliance activities, which includes GMP assessments, licencing, export certificates and other 
+investigation and enforcement activities. On occasions, the Government may provide funding to the 
+APVMA to fund or subsidise a specific function or reform initiative to lessen the cost impact on 
+industry. Expenses related to undertaking the Government directed activity are generally excluded 
+from the cost recovery arrangements. A summary of the Authority’s pre and post market activities and 
+the appropriate revenue type that funds those arrangements is included in the table below. 
+Activity 
+Revenue Type   
+Pre Market Activities: Registrations and Approvals 
+Item 1-25 
+Item Fee and Levy 
+Modules (for Items which do not have a defined module 
+pathway) 
+Module Fee and Levy 
+Post Market Activities 
+Good Manufacturing Practice (GMP) Audit Assessment  
+Fee 
+GMP Licence 
+Certificate of Export 
+Fee 
+Fee 
+Investigation and Enforcement 
+Fee 
+Other Agency Activity 
+Implementation of Reform 
+Funded via Government Appropriation
+
+7 
+3 
+Current cost recovery 
+arrangements 
+Analysis of cost allocations has not identified any significant issues with the legitimacy of the nature of 
+the direct and indirect costs attributed to the assessment, registration and compliance programs 
+applied to the AGVET industry as a whole, as the current policy authority requires the Authority to 
+remain fully cost recovered. The review however did identify that the cost recovery arrangements have 
+not been reviewed for a number of years and as a result the costs being attributed to activities may no 
+longer be consistent or representative of the true costs incurred in undertaking that activity.  
+The current policy authority and the supporting cost recovery arrangements allow the Authority to 
+recover 40% of the cost of the Registration and Approval function via the application fees, with the 
+remainder to be funded via the tiered levy on sales. Despite the changes proposed in the 2012 CRIS, 
+where stepped increases to the application fees were implemented progressively over the two years 
+following (last price update took effect 1 Jan 2015), it is apparent that these changes to prices did not 
+result in a sustained 40% cost recovery from fee for service activities as projected. This is likely due to 
+the following main factors: 
+The baseline assumptions is the 2012 CRIS did not consider movements in the expense base 
+beyond the final year of the stepped price changes and assumed the product mix would remain 
+unchanged. This assumption did not materialise because the volume of activity decreased with 
+more complex assessments coming forward requiring a greater proportion of costs to be recovered 
+through the levy charge, which could not fully be recovered through the levy.  
+The application mix and the number of items/ modules undertaken as part of the assessments 
+each financial year contributed to the financial losses because effort against these assessment 
+types was not appropriately measured and whilst the volume of activity reduced, the expense base 
+did not.  
+As part of the 2012 CRIS, the APVMA updated its fee structure, with recommendations concerning 
+changes to the application fees and levy charges, these were then progressively phased in. The 
+structure of application items and modules were left unchanged and remain current to date. From a 
+resource management perspective this was a significant outcome for two primary reasons: 
+The Authority currently offers 31 different application items, with each item being comprised of a 
+matrix of different evaluation modules. For the Authority to effectively manage its workforce and 
+expense base, and react to any fluctuations in application numbers, the Authority needs to be able 
+to accurately forecast the volume of each application type it is likely to receive in the coming 
+financial year. With 12 of the 31 item types not having a set evaluation pathway (“modular 
+pathways”), forecasting the number and type of modules to be undertaken can prove difficult as 
+has been evident in the 2012 CRIS which assumed that there would be no change to applications 
+Key Findings  
+The forecast assumptions which underpinned the 2012 cost recovery arrangements may not have been 
+appropriate and failed to adequately project beyond the immediate term 
+The current policy authority enabling 40% of costs to be recovered through Fee for Service (FFS) impedes 
+APVMAs ability to fully cost recover and drives cross subsidisation 
+The APVMA does not currently have a process in place to accurately forecast the workload of applications 
+and the modular break up by activity it expects to undertake. 
+The policy authority supporting the current cost recovery arrangements does not allow for the annual 
+indexation of charges to take into consideration wage growth and CPI movements.
+
+8 
+numbers or mix of applications items as part of recalculating the fees to be charged. 
+With no means to reliably forecast the makeup of application items, and by extending the 
+evaluation modules required across the forecast period, the Authority has no reliable means by 
+which it could monitor and adjust its staffing profile, and ensure it retains adequate skillsets 
+required to process certain evaluation modules. 
+Further as part of the 2012 CRIS, following stakeholder feedback, it was decided that automatic 
+indexation would not be applied to the fees at that time, and would be discussed as part of the First 
+Principles Review (the review ultimately recommended no change from this position). Under current 
+arrangements indexation is not being applied which is contributing further to the variance between 
+income and expenditure 
+These factors arising from the APVMAs inability to effectively forecast activity, measure effort, project 
+costs and to maintain a current operational cost model with current and valid assumptions have 
+contributed towards the Authority incurring operational losses over the last three financial years which 
+are presented in the table below 
+2014-15 
+$m 
+2015-16 
+$m 
+2016-17 
+$m 
+Application and Permit fees 
+           5.9  
+           5.7  
+           5.7  
+Levies 
+         16.3  
+         16.7  
+         17.3  
+Annual fees (renewal fees) 
+           4.7  
+           5.0  
+           5.9  
+Other 
+           1.6  
+           2.1  
+           1.8  
+Total Revenue  
+       28.4  
+        29.5  
+        30.7  
+Total Expenditure  
+        33.1  
+       33.8  
+       33.4  
+Operating Result* 
+-        4.7  
+-        4.3  
+-        2.7  
+ *Operating result attributable to cost recoverable functions   
+Recommendation 1– The policy authority should be reviewed in line with the requirements of the updated 
+ensure the intent remains consistent with the overarching policy. 
+Recommendation 2– The APVMA should consider refreshing its policy authority to allow for the annual 
+application of indexation. This will ensure that the Authority can amend its pricing annually in line with market 
+factors to ensure revenue and expenditure move consistently across years 
+Recommendation 3 - The Authority should develop a process by which it can accurately forecast the number 
+of items/ modules that it expects to process through the year as part of its assessment function. 
+Recommendation 4 - the APVMA should review and update its cost recovery arrangements at the earliest 
+including giving consideration to the appropriateness of the existing policy approval to recover 40% of costs 
+through FFS arrangements.
+
+9 
+4 
+Appropriateness of the cost 
+recovery model and pricing 
+arrangements 
+This review has identified 31 active registration items (some items have been introduced or removed 
+over time) across seven key groups which are represented below:  
+Application for approval of active constituent contained in a chemical product, registration of the 
+chemical product and approval of the product label  
+Application for registration of a chemical product containing an approved active constituent and 
+approval of the product label 
+Application to vary a registration or label approval 
+Application for approval of an active constituent  
+Application for variation to an approved active constituent  
+Application for a permit 
+Other applications. 
+A number of these registration items have a modular pricing arrangement with the work involved in 
+the registration process varying depending on the type of application, which can only be determined 
+after the preliminary assessment has been undertaken. As a result the APVMA schedule of fees also 
+includes costs for 12 different modules of work, with each module type then having up to 4 sub tiers, 
+totalling 39 individual modules. The 12 types of modules vary across the following:  
+1. Preliminary Assessment 
+2. Chemistry 
+3. Toxicology 
+4. Poison 
+5. Residues 
+6. OH&S 
+7. Environment 
+8. Efficacy and target animal safety 
+9. Non-food trade 
+Key Findings  
+The current cost recovery model is complex, outdated and needs to be updated, the prices set are no longer 
+consistent or reflective of the true costs of undertaking activities. 
+Revenue forecasts across the Forward Estimates are optimistic and not representative of actual results and 
+should be revised based on an accurate trend. 
+The APVMA has not undertaken an effort estimation review and does not have a reliable methodology to 
+align effort against each assessment category including modules and items. The methodology applied to 
+determine the complexity of each assessment module is subjective and has a higher tendency to deliver an 
+in accurate outcome.
+
+10 
+10. Special data 
+11. Finalisation 
+12. Data protection  
+From a cost modelling perspective activity against each of the areas must be captured to determine the 
+true costs of that specific activity, further the combination of modules undertaken against each 
+assessment must also be identified to derive appropriate pricing arrangements. Due to the level of 
+complexity the outcomes of this effort estimation process can currently be very subjective and as a 
+result provide an inaccurate outcome.  
+The distinction between modules and categories of registration become especially important in 
+relation to some sections, where the work is classified based on the module being completed rather 
+than the Item of registration being applied for. Their level of effort is essentially unchanged, for 
+example, when completing a module 5.1 residues analysis for an Item 1 registration or an Item 3 
+registration.  
+Whilst the APVMA has historically outsourced a number of modules to other Departments or private 
+entities, in 2015/16 a decision was taken to undertake a number of these less complex module 
+assessments internally and reduce outsourcing which has added to the complexity. Due to these factors 
+it is essential that the cost recovery model is reviewed and updated on an ongoing basis especially 
+when there is a significant shift in activity. The review has identified that this has not occurred over a 
+number of years and as a result the cost recovery model is outdated resulting in inconsistent pricing 
+arrangements. Some of the more complex assessments are still outsourced to experienced providers. 
+Based on the information reviewed PwC has been unable to determine the tangible benefits of this 
+insourcing activity.   
+4.1 
+Industry contributions under current pricing 
+arrangements 
+APVMA revenue can be attributed across a mixture of industry contributions including Levies, renewal 
+fees, product applications, permits and other fees including goods manufacturing practice. A summary 
+of the industry contribution items across the last two reported Financial Years and the latest forecast 
+for 2016/17 by category are provided in the table below. 
+The total contributions received have grown marginally across the reporting period, with the majority 
+of the increase resulting from increased annual fees (either via annual renewals charged at $430, or a 5 
+yearly renewal charged at $2,150) with the remainder predominately linked to increased receipts via 
+the levy charged on reported sales. The growth in annual fee revenue would support a view that the 
+2014-15
+2015-16
+2016-17
+$m
+$m
+$m
+Levies
+16.3
+16.7
+17.3
+Annual fees (renewal fees)
+4.7
+5.0
+5.9
+Product application fees
+5.6
+5.3
+5.5
+Good manufacturing practice fees
+1.0
+1.2
+1.2
+Permits, actives and other fees
+0.9
+1.3
+0.9
+Total industry contributions 
+28.4
+29.5
+30.7
+*2014-15 and 2015-16 results as per APVMA Annual report
+Recommendation 5– APVMA should review with current cost recovery model and should make the necessary 
+updates to the model based on the changes implemented to the cost recovery arrangements.
+
+11 
+number of new products being brought to market are declining (via decreased applications), with 
+existing products remaining on market (increased annual renewals).  
+Further the application and permit fees in 2016-17 are projected to make up only 21% of the 
+Authority’s overall revenue and that the revenue received via these fees have remained relatively 
+constant in absolute terms, despite consistently falling application numbers each year. This is 
+predominately attributable to the stepped increase in application fees across 2013- 2015 to restore the 
+proportion of costs recovered through a fee for service arrangement. Industry contributions through 
+the various fees and charges have been at the aggregate level relatively consistent since 2010/11, and 
+even applying simple trend forecast, gives the Authority a reasonable basis from which it can forward 
+project its likely future year revenue forecast, however this is not reflected in the current forecasts 
+represented in the Portfolio Budget Statements which demonstrate sustained growth in revenue over 
+the Forward Estimates.   
+Prolonged delays to application processing may overtime, undermine Industry’s confidence in the 
+Authority and result in further reduced applications, in favour of the simple renewal of already 
+approved products. If realised, with all other things remaining unchanged, this has the potential to 
+impact the APVMAs earnings, which may however be offset by continued growth in renewal fees. As 
+such, forward projections for this revenue source based on the past 3 year trend are defensible and 
+may be likely to slightly increase in net terms via increases to CPI, as smaller retailers sales totals are 
+pushed into the higher sale tiers whose thresholds are not automatically indexed.  
+4.2 
+Review of cost base  
+Total APVMA expenses (normalised for funding received from Government to undertake regulatory 
+reform or other change activities) has exceeded revenue receipts since at least 2014-15. A breakdown 
+of the expenses by category is provided in table 6 below, and depicts the major contributors by 
+category. The costs are inclusive of all activities which APVMA undertakes including compliance, 
+licencing, enforcement and other administrative activities. 
+2017/18 PBS
+2017-18
+$m
+2018-19
+$m
+2019-20
+$m
+2020-21
+$m
+Receipts (Amounts Payable to APVMA)
+33.2
+33.8
+34.3
+35.2
+Category
+Description
+$m
+% of Total Expenses
+$m
+% of Total Expenses
+$m
+% of Total Expenses
+Salary/Super/AL & LSL provisions
+21.7
+$                      
+65.5%
+22.8
+$                      
+67.4%
+24.1
+$                 
+72.2%
+Salaries and Superannuation
+19.9
+$                     
+60.1%
+21.2
+$                      
+62.6%
+22.5
+$                
+67.2%
+Casual Staff (Via Agencies)
+1.8
+$                       
+5.5%
+0.8
+$                       
+2.5%
+1.1
+$                   
+3.4%
+AL & LSL provisions
+0.2
+-$                      
+-0.5%
+0.5
+$                       
+1.5%
+0.3
+$                  
+1.0%
+Recruitment 
+0.1
+$                       
+0.2%
+0.2
+$                       
+0.5%
+0.2
+$                  
+0.5%
+Other Employee Expenses
+0.1
+$                       
+0.3%
+0.1
+$                        
+0.2%
+0.0
+$                  
+0.1%
+Training & Development
+0.3
+$                       
+1.0%
+0.2
+$                        
+0.5%
+0.2
+$                   
+0.5%
+Consulting Fees - Other
+0.7
+$                       
+2.1%
+0.6
+$                        
+1.7%
+0.6
+$                   
+1.9%
+Scientific Assessment Services
+5.1
+$                        
+15.3%
+5.1
+$                         
+15.0%
+2.5
+$                   
+7.4%
+Travel & Accomodation
+0.2
+$                       
+0.6%
+0.2
+$                        
+0.6%
+0.1
+$                   
+0.4%
+IT Software & Licence Expenses
+0.5
+$                       
+1.6%
+0.5
+$                        
+1.4%
+0.6
+$                   
+1.6%
+Communication Expenses
+0.3
+$                       
+0.9%
+0.4
+$                        
+1.3%
+0.4
+$                   
+1.3%
+Rent, Outgoings & Building Maint.
+1.5
+$                        
+4.6%
+1.5
+$                         
+4.3%
+1.6
+$                   
+4.8%
+Audit Fees
+0.2
+$                       
+0.7%
+0.1
+$                        
+0.4%
+0.1
+$                   
+0.2%
+Insurance
+0.1
+$                       
+0.4%
+0.2
+$                        
+0.7%
+0.3
+$                   
+1.0%
+Bank and Interest fees
+0.1
+$                       
+0.3%
+0.1
+$                        
+0.2%
+0.1
+$                   
+0.2%
+Legal Expenses
+0.4
+$                       
+1.1%
+0.1
+$                        
+0.4%
+0.5
+$                   
+1.4%
+Other Supplier Expenses
+0.7
+$                       
+2.2%
+0.5
+$                        
+1.6%
+0.6
+$                   
+1.8%
+Depreciation on Assets
+1.2
+$                        
+3.7%
+1.5
+$                         
+4.5%
+1.7
+$                   
+5.1%
+Total Expense
+33.1
+$                      
+100%
+33.8
+$                      
+100%
+33.4
+$                 
+100%
+2014/15
+2015/16
+2016/17
+Recommendation 6– APVMA should review its current revenue forecast and amend this to accurately reflect 
+the trend following adjustments for relevant events.
+
+12 
+The cost base of the Authority has been relatively stable over time, there are two key categories that 
+continue to account for approximately 80% of the Authority’s total costs: Employee costs 
+(predominately comprising of Salary and Superannuation expenses) and Scientific Assessment 
+Services (contractor costs). Analysis undertaken in the review indicates that while the volumes of 
+activities have decreased the increase in the level of complexity of activities being undertaken have 
+resulted in the costs remaining relatively stable. In the absence of an in depth review of effort against 
+each activity, this assumption is difficult to test, however we have used previous estimates and recent 
+management estimates to qualify this assumption.  
+Further analysis on the material expenditure categories in presented below  
+Employee Costs  
+These costs have continued to grow year on year, and are driven by two main factors: 
+Total FTE numbers have increased by approximately 10% over the reported period (165 FTE at 
+the end of 2014/15 to 189 FTE in 2016/17) increasing costs. This growth has been almost entirely 
+constrained within the Registration Management and Evaluation and Scientific Assessment and 
+Chemical Review teams. This increase is considered reasonable noting the Authority’s decision to 
+insource Scientific Assessment Reviews.  
+Staff progressing through the pay band, being placed in long term acting arrangements and/ or 
+being promoted have contributed to a further increase. APVMAs 2017- 2020 Enterprise 
+Agreement which took effect on 26 April 2017, and includes two further pay increases in April 
+2018 and April 2019 of 2% for all classifications will likely continue to drive these expenses 
+higher. This is particularly important, as whilst the 2012 CRIS did account for growth in employee 
+costs out to 2014/15, there was no consideration given to the foreseeable increases in these costs 
+through subsequent Employee Agreements. 
+Scientific Assessment Services (SAS) 
+SAS services are outsourced activities previously undertaken for APVMA through a supplier 
+arrangement by other Government departments as well as some private providers. SAS costs have 
+historically averaged approximately $5m per year (this was the basis of estimate in the 2012 CRIS). In 
+2015/16 the APVMA brought a number of these reviews in house, using APVMA staff, to ensure 
+ongoing capability. The APVMA also made assumptions that this insourcing would reduce costs. 
+The assumptions the insourcing would reduce costs involved: 
+Reduced regulatory burden on the AGVET industry would mean less complex assessments are 
+required going forward.  
+Overtime, improved staff qualifications to undertake analysis in house would further reduce 
+reliance on outsourcing to other providers reducing costs in the future. 
+Improved access to external scientific reviews (including from other jurisdictions) would reduce 
+the demand for the volume of reviews required and result in reduced costs for the Authority.  
+In 2016/17 costs directly attributable to SAS costs have roughly halved from previous years, though 
+this is offset at least partly by the increase in FTE and employee salary costs as discussed above 
+indicating that the benefits from reduced costs may have been over estimated in the short term. From 
+a cost management perspective, this decision is significant as the Authority has effectively transferred 
+an inherently variable cost (contractor costs) to a fixed cost (FTE). In instances where staff are 
+underutilised (i.e. no modules requiring such assessments) their costs are not being recovered and it is 
+difficult for the Authority to remove or shift the expense in accordance with shifting demand. Whilst 
+the need to maintain capability underpinned the decision to in-source these reviews, with no means to 
+reliably forecast the demand for those modules which would require such assessments, the overall 
+savings that were assumed to be derived may be negligible or overstated. There is a high likelihood 
+that initially at least, the costs per review may be higher than previously.   
+Whilst a significant portion of the APVMAs costs can be attributed to registration activities there are a 
+number of compliance and administrative activities also undertaken by the Authority. The table below 
+depicts a high level breakdown between the registration and compliance and other elements of the 
+business, as drawn from the previous cost recovery review conducted in 2015 (on 2014/15 financials) 
+and work undertaken through this review (2016/17 financials). An average of the two results has been
+
+13 
+used to provide an indicative split for 2015/16 financials by section. 
+The figures presented above show that at the aggregated level, the percentage of total Authority costs 
+associated with the registration function has increased year on year. This is partially offset the costs 
+associated with Compliance and other administrative activities trending downwards. The registration 
+function represented 81% of total Authority costs in 2016/17.  
+Analysis of the drivers underpinning the increase which were validated through the effort survey 
+undertaken as part of this review indicated that  
+The surveys indicated that an increased proportion of management level staff time was being 
+spent on non- registration related activities. In a period of heightened organisational change this 
+can be expected, though as the entirety of the costs of those staff are allocated to the application 
+items and modules, any increase in effort associated with non-registration activities would still 
+have an increasing cost impact on to each application item and module undertaken by that 
+section, though without the associated effort that may allow for more applications to be processed. 
+The surveys also indicated that an increased proportion of time spent on general application 
+processing was attributable to staff, which external stakeholders speculate is attributable to staff 
+turnover and loss of technical knowledge, however as the APVMA does not have a current time 
+capture system in place that would allow for staff productivity to be monitored and measured we 
+could not confirm at this time.  A productivity and efficiency review was not undertaken as part of 
+this review however it may be possible that due do the vast number of changes and loss of 
+corporate knowledge previously established KPIs may have been missed resulting in additional 
+effort and costs.  
+The decision to outsource lower quantities of SAS reviews in favour of conducting more of these 
+internally may not at this stage have returned benefits and were possible overstated. This is likely 
+due to two main reasons: 
+o 
+It is not unreasonable, initially at least, to expect the cost of undertaking these reviews are 
+higher than had they been outsourced as staff take time to develop their skillsets. 
+Assuming a relatively stable staffing cohort, over time the reviews will become more 
+efficient and reduce costs; and 
+o 
+modules which would normally require a specific SAS review are generally tied to those 
+application items which have inherently complex pathways, and require modules to be 
+undertaken which are not necessarily common. Whilst it must be emphasised that this 
+was not specifically raised, there is certainly a risk that the Authority maybe incurring 
+heightened costs by maintaining a pool of resources to undertake reviews which are not 
+common. The siloed nature of the resources could potentially be addressed by having staff 
+capable of moving between disciplines and this may be one of the more obvious areas 
+where the Authority is able to adjust its cost base to align with demand (and may have 
+been the reason the SAS reviews were outsourced initially). 
+Activity Based Costing by Section
+2014-15
+2015-16
+2016-17
+Section
+$m
+$m
+$m
+Registration Sections
+25.5
+26.8
+27.1
+Compliance and other Sections (MQL, Chemical Review, Compliance)
+7.6
+7.1
+6.3
+Percentage of Costs allocated to Registration Activites
+77%
+79%
+81%
+40% of Registration Section Cost
+10.2
+10.7
+10.9
+Recommendation 7– APVMA should undertake a review of its current cost base and workforce strategy to 
+determine the cost implications in the short to medium term and either look at reducing costs or increasing 
+pricing to recover justifiable costs. A further option could be for the Authority to investigate outsourcing 
+opportunities as an immediate cost reduction mechanism.
+
+14 
+5 
+Overview of current financial 
+operations 
+The APVMA has operated at a financial loss for the last three financial years, with the most recent loss 
+in 2016/17 being approximately $2.401m (normalised for Government funding received and the costs 
+associated with those activities). Whilst the proportion of total revenue earnt between the different 
+fees and charges has shifted year to year, overall revenue has remained constant, and this would 
+ordinarily allow the APVMA to take the required actions to reduce its expenses appropriately. The 
+Authority’s inability to avoid concurrent losses is a cause for concern as it would result in financial 
+sustainability issues in the short term with no improvements projected in the longer term.   
+Whilst it may be argued that the financial losses are resulting from a mismatch between revenue and 
+expenditure and could be addressed by readjusting prices, to determine longer term sustainability the 
+APVMA should review its cost base, analyse its activity forecast and undertake a detailed time and 
+motion study to help restate a baseline position.  
+What is most certainly apparent through the analysis undertaken, is that some of the assumptions 
+applied in the modelling as part of the 2012 CRIS although accurate at that point in time did not 
+materialise and have not been revised since then due to a number of contributing factors. Some of the 
+key factors that support this assumption include  
+The model assumed that the total number of product applications would remain relatively stable 
+over a period of time and that there would be no change in the application makeup. Further there 
+was no recognition that there would be a change in the makeup (for instance an increase in the 
+number of Item 2 applications, which have a modular pathway) or how this change could have a 
+material impact on the total number of modules undertaken across a given period. The 
+implications of this assumption has impacted both the revenue and expenditure. 
+The derived cost per item and module was based on a total cost allocation across the expected 
+volume to be processed each year. There was no consideration as to how much effort (measured in 
+hours) a particular module would take to complete, nor the impact a change in the product mix 
+would have on related modules undertaken by staff within the same section. I.e. an increase to a 
+particular modules volume at the expense of another may not necessarily have an equally 
+offsetting impact on the derived cost.  
+Growth in the operating expenditure allocation was tied entirely to a weighted average of the 
+forecast Wage Price Index and Consumer Price Index (3.4% was the weighted average applied to 
+each year out to 2014/15).  The model did not assume these changes to be enduring, and in effect 
+ensured that as the prices remained constant beyond 2014/15, expenses would overtime become 
+misaligned. 
+The CRIS included forecast operating outcomes out to 2014/15, which were based on actual 
+outcomes for 2011/12, and introduced stepped increases to the fees over a number of years. Phase 
+2 and 3 (an increase of all fees to 35 and then 40 percent of total costs) were to be implemented on 
+1 July 2014 and 1 January 2015 respectively. However the model was not updated with revised 
+assumptions which were more closely aligned to actual results and as such the nexus was lost.   
+The above misalignment between the assumptions made and the resulting outcome is evident in the 
+table below which demonstrates the importance of ongoing reviews and updates that are required to 
+cost recovery models, their base assumptions, forecasts and inputs.  
+Key Findings  
+There is a risk that the 2017/18 internal expenditure budget allocations for APVMA are aligned to a forecast 
+activity level that may not be achievable due to reduced volumes and decreased revenue. 
+APVMA should address the gap between revenue and expenditure by updating current cost recovery 
+arrangements to avoid further reductions in the equity reserve balance and its cash position
+
+15 
+The contents of the tables emphasise the important of this by detailing items finalised from 2014-15 
+through to 2016-17 and total associated modules processed to achieve that finalisation. It is clear, that 
+there is not a distinct 1:1 relationship, evidenced by a 33% drop in items finalised, but only a 22% drop 
+in modules undertaken.   
+The table above also demonstrates the volume, type and mix of items and modules may vary 
+significantly across the year and cannot be used as a representation of effort incurred in that year. In 
+addition to the number of applications steadily declining, the APVMA’s most recent (end March 2017 
+quarter) published performance statistics are reporting longer timeframes and lower number of 
+applications being finalised. As discussed earlier, prolonged delays to application processing may 
+overtime, undermine Industry’s confidence in the Authority and result in further reduced applications, 
+in favour of the simple renewal of already approved products. If realised, with all other things 
+remaining unchanged, this has the potential to undermine the solvency of the Authority in the short to 
+medium term. 
+2014-15
+2015-16
+2016-17
+% 
+Change
+2014-15
+2015-16
+2016-17
+% 
+Change
+ITEM 01
+9
+10
+5
+-44%
+81
+90
+63
+-22%
+ITEM 02
+47
+19
+33
+-30%
+216
+141
+224
+4%
+ITEM 03
+2
+1
+-50%
+18
+9
+-50%
+ITEM 04
+2
+-100%
+18
+-100%
+ITEM 05
+56
+26
+20
+-64%
+224
+106
+90
+-60%
+ITEM 06
+96
+6
+21
+-78%
+286
+25
+81
+-72%
+ITEM 07
+397
+245
+153
+-61%
+794
+260
+163
+-79%
+ITEM 08
+205
+158
+137
+-33%
+410
+170
+147
+-64%
+ITEM 09
+6
+1
+2
+-67%
+12
+3
+2
+-83%
+ITEM 10
+309
+161
+178
+-42%
+1,147
+677
+834
+-27%
+ITEM 10A
+5
+71
+30
+500%
+5
+72
+33
+560%
+ITEM 11
+7
+3
+-100%
+42
+17
+-100%
+ITEM 12
+581
+281
+198
+-66%
+581
+326
+218
+-62%
+ITEM 13
+62
+17
+8
+-87%
+62
+21
+10
+-84%
+ITEM 13A
+174
+300
+210
+21%
+174
+305
+220
+26%
+ITEM 14
+737
+295
+240
+-67%
+1,386
+1,016
+776
+-44%
+ITEM 15
+6
+2
+4
+-33%
+12
+10
+20
+67%
+ITEM 16
+2
+7
+2
+0%
+4
+34
+9
+125%
+ITEM 17
+90
+151
+538
+498%
+90
+459
+1,639
+1721%
+ITEM 18
+11
+35
+93
+745%
+11
+45
+95
+764%
+ ITEM 19
+31
+27
+11
+-65%
+31
+31
+11
+-65%
+ ITEM 20
+242
+233
+174
+-28%
+250
+239
+183
+-27%
+ ITEM 21
+191
+191
+107
+-44%
+262
+413
+246
+-6%
+ ITEM 22
+46
+27
+53
+15%
+66
+37
+105
+59%
+ ITEM 23
+130
+74
+71
+-45%
+164
+123
+119
+-27%
+ITEM 24
+11
+-100%
+39
+-100%
+ITEM 25
+ITEM 27
+7
+68
+Total
+3,455
+2,340
+2,296
+6,385
+4,620
+5,365
+Item
+Modules Processed
+Items Finalised
+
+16 
+5.1 
+Management of the APVMAs Equity Reserve 
+The APVMA operates with a target equity reserve equal to approximately 3 months of operating 
+expenses, as derived at the time of the last CRIS, on average to be equal to $7m. This amount was to be 
+in addition to the working capital requirements of the Authority to meet staff payment liabilities and 
+vendor payments. Since the 2012 CRIS, the equity balance has been relatively variable, owing to a 
+number of equity injections (such as the Better Practice Reforms), with some of these funds later 
+repaid, and the re-classification of Industry receipts to be recognised as income earned at the time of 
+cash being received, From a cash perspective, the Authority’s equity balances since 2010/11 is included 
+in the table below. 
+As above, the Authority operates under a plan to retain a cash reserve of approximately $7m to cover 
+periods of variations between revenue and expenses as a result of volatility in activity volumes. Whilst 
+the Authority has generally held amounts close to this amount in its equity reserves at the end of each 
+reporting year, the trend (normalised for equity injections) has been for the balance to progressively 
+decrease.  
+In the immediate terms, of concern is the cash flow of the Authority throughout the financial year, 
+which is depicted in table and graph below.  
+The two key issues identified through this high level analysis indicates that 
+APVMA Equity Balance
+2010-11*
+$m
+2011-12
+$m
+2012-13
+$m
+2013-14
+$m
+2014-15**
+$m
+2015-16
+$m
+2016-17***
+$m
+Contributed equity
+0.4
+0.4
+0.4
+5.5
+Reserves
+0.1
+0.1
+1.1
+1.1
+1.1
+10.5
+Retained surplus
+7 .3
+11.9
+11.0
+7 .3
+3.8
+3.3
+Other comprehensive income
+0.1
+Total equity
+7 .4
+12.4
+12.5
+8.8
+10.5
+7 .3
+6.7
+*** 2016-17 balance excludes equity provided for reform and relocation ($2.139m)
+ Not 
+Currently 
+Available 
+* Additional appropriations in 2010-11 and 2011-12 for Better Regulation reforms totalling $8.7 50m, $2m was 
+returned in 2013-14
+** Increase a result of recording fees and charges as equity injection $5.155m (recognition as income earnt and not 
+unearned revenue)
+Beginning
+Jul-17
+Aug-17
+Sep-17
+Oct-17
+Nov-17
+Dec-17
+Jan-18 Feb-18 Mar-18 Apr-18 May-18 Jun-18
+T otal
+Forecast Cash Receipts
+1.4
+1.1
+0.9
+1.8
+4.0
+2.6
+4.4
+0.9
+1.1
+2.1
+4.9
+7 .9
+33.2
+Available Cash
+6.5
+7 .9
+6.4
+4.8
+4.1
+5.5
+5.6
+7 .6
+5.9
+4.6
+4.2
+6.7
+12.1
+39.7
+Forecast Cash Paid
+0.0
+2.6
+2.5
+2.5
+2.6
+2.5
+2.5
+2.5
+2.4
+2.5
+2.4
+2.5
+2.4
+30.0
+Cash Available (end of 
+6.5
+5.3
+3.9
+2.3
+1.6
+3.0
+3.1
+5.0
+3.5
+2.0
+1.8
+4.2
+9.7
+9.7
+Cash level warning threshold represents the cash required to make 2 salary payments to all staff (exc contractors) each month based on the 17 /18 internal budget
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+Beginning
+Jul-17
+Aug-17
+Sep-17
+Oct-17
+Nov-17
+Dec-17
+Jan-18
+Feb-18
+Mar-18
+Apr-18
+May-18
+Jun-18
+Forecast Cash Flow 17/18
+Cash Available (end of period)
+Cash Level Warning
+
+17 
+The revenue projections are premised on total Industry receipts of $33.237m, which may be 
+considered unachievable and could be presenting a false sense of security from which the 
+Authority can fund its expenses. 
+Through relatively stable cash outflows (salaries and superannuation constitute on average $1.8m 
+per period), the cash balance from the start of the year ($6.479m) is steadily reduced through 
+these regular payments.  
+Recommendation 8 – APVMA should review its cash flow requirements, and consider what 
+approach or options that are available that will assist in managing its revenue and expenses to 
+minimise the risk of further depleting its cash reserves.
+
+18 
+6 
+Cost Model Update and Fee 
+Analysis 
+The 2017 cost modelling review was conducted using the same attribution model as that used in 
+previous updates, with adjustments made as required to account for changes in APVMAs structure or 
+operations. As with past reviews, the consultation phase involved updating the time effort surveys that 
+would be used to allocate staff effort against different activities where necessary. Team leaders were 
+asked to determine what activities their section undertook, what percentages of time their staff spend 
+undertaking these activities, how these activities correlate to the modules of work completed in each 
+section, and finally to weight the complexity involved in undertaking these modules against each other.  
+Owing to the differing information provided by each section, as outlined above, each part of the model 
+relating to a particular section was bespoke to meet the requirements of, and to take account of the 
+different characteristics of, each section. The cost model was designed to capture information for each 
+section that undertook work that related to modules and items– i.e. those sections that directly 
+contributed towards the registration and approvals function for which expenses are partly recovered 
+through the application fee. The remaining areas were not modelled as their expenses, taken in 
+aggregate inclusive of overheads, were not related to assessments undertaken through the modules 
+and items. 
+The costs incurred by the relevant sections of APVMA listed below were included within the cost 
+modelling:  
+Registration 
+Applications Management and Enquiries 
+Chemistry 
+Residues 
+Manufacturing Quality & Licencing (MQ&L) 
+Chemical Review 
+Compliance 
+Permits 
+Efficacy 
+Environment 
+Health 
+Key Findings  
+Stakeholder’s consistently reported that APVMA’s IT systems were not sufficient to support management. 
+There is extensive manual intervention to extract and manipulate critical financial, HR and Item Activity 
+data. It was also identified that the Authority is reliant on a key individuals to undertake the required 
+manipulation. 
+The imbalance between revenue and expenses within the Registrations stream is a result of a shift in costs 
+in undertaking a particular module or item assessment from those derived as part of the 2012 CRIS. 
+The methodology applied was consistent with past activity based costing reviews and provides a good basis 
+for comparison. Generally though, it should not be relied upon as the basis for adjusting the prices of the 
+modules or items, noting the findings raised through the report.
+
+19 
+The outputs of each of these sections were brought together and aggregated in the summary model. 
+The financial data upon which the cost of registration categories and modules was based was the 
+2016/17 financial year data to the end of June 17 for the whole of APVMA, and was exclusive of any 
+Government funding specifically appropriated to the Authority (to fund reform activities for example). 
+This total amount was broken down by section. The costs for sections that did not undertake activities 
+relating to cost recovery, but provided the necessary support to these activities, were combined and 
+formed the basis of the Corporate Overheads.  
+The nature of the work undertaken as Scientific Assessment Services (SAS) is traceable to a number of 
+different modules. The amount of expenditure relating to the use of SAS was able to be separately 
+identified from the Authority’s FMIS. Whilst the payment detail within the financial data did not allow 
+for a direct mapping of the outsourced assessment to a specific module, the Authority records such 
+details in a separate spreadsheet. This allowed for the direct mapping of SAS expenses to the section 
+responsible for that module. Where expenses could not be apportioned directly, this was added to the 
+Overhead allocation and allocated on that basis. 
+Full-time equivalent (FTE) data was used to attribute the total cost to each of the sections. Median 
+salaries were weighted to take into account different teams being comprised of different levels of staff.  
+Non-service delivery activity costs needed to be attributed as part of the model to provide a full cost of 
+registration activities. As such, all non-service delivery costs were aggregated and allocated to the each 
+section. Corporate overhead costs capture the costs associated with the Public Affairs, Principal 
+Scientists, Legal, the Executive, Information Technology, Information Services, Human Resources, 
+Finance and Corporate. 
+An assumption was made that all direct areas would draw equally upon corporate overheads and the 
+most appropriate driver to apply would be FTE.  
+While the key activities within section MQ&L, Compliance and Chemical Review were identified 
+during the consultation phase, as these activities do not directly correlate with the application process, 
+the associated costs (including the relevant component of corporate overheads) have not been directed 
+to any registration item or modular category. These costs however were still captured and presented as 
+distinct outputs in the summary model to allow for analysis as required, and to ensure that the model 
+attributes all costs of the APVMA. 
+The overall cost of each item, and the fee charged is determined and driven primarily by the modules 
+that encapsulate each respective Item type. As each registration item is composed of different modules, 
+by accurately costing each module, and then calculating costs of each registration category as a sum of 
+all relevant modules an accurate cost base for each item can be derived. This approach also eliminates 
+any instances where the cost associated with a registration item is not equal to the sum of all the 
+individual modules that compose it.
+
+20 
+Appendix A – Scope and Approach of 
+Review  
+Scope of work performed 
+In accordance with the agreed terms of reference for the review, PwC reviewed the cost recovery 
+arrangements currently supporting the operations of the APVMA to determine if they were adequate, 
+the Authority in achieving its policy objectives of remaining fully cost recovered.  
+In accordance with these terms, the overarching scope of the review was to validate the cost recovery 
+model and all costs (and therefore prices) to be applied for the assessment and registration of AGVET 
+medicines and products. In particular, the review was tasked to consider: 
+1. 
+the cost base of APVMA operations  
+2. if the costs being recovered by the APVMA are legitimately costs for industry (and not costs of 
+government) 
+3. if the current cost recovery arrangements were fully recovering the costs incurred by the 
+APVMA 
+4. the appropriateness of the existing cost recovery arrangements, cost model and price settings 
+5. how all APVMA costs are currently being attributed to the AGVET industry 
+6. whether the existing arrangement is defensible, equitable and consistent with Australian 
+Government Cost Recovery Guidelines. 
+Where the review identified areas of potential concern, we have proposed recommendations. While 
+intrinsically linked to the effectiveness of the cost recovery arrangements, this report does not 
+comment on implementation activities and current operational effectiveness of the APVMA. 
+Review Approach 
+Historically the APVMA generally recovered less through the cost recovery arrangements than the 
+actual costs incurred to undertake its operations, this was confirmed through a previous cost recovery 
+review undertaken by PwC.  
+Principles review of APVMA’s cost recovery arrangements to make recommendations and identify 
+options to strengthen the financial sustainability, transparency and accountability of those 
+arrangements, however none of those recommendations or options have been actioned to date.  
+Our approach to the review has taken the above into consideration and focussed on analysing the 
+current financial operations of the APVMA and assessing whether there are any sustainability issues 
+that the Authority should consider and address in the immediate future.

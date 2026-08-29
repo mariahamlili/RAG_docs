@@ -1,0 +1,101 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: farmcore
+      POSTGRES_USER: farmcore
+      POSTGRES_PASSWORD: farmcore
+    ports:
+      - "5432:5432"
+    volumes:
+      - farmcore_pgdata:/var/lib/postgresql/data
+      - ./farmcore/docker/init-db.sql:/docker-entrypoint-initdb.d/01-init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U farmcore -d farmcore"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  minio:
+    image: minio/minio:RELEASE.2024-12-18T13-15-44Z
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: minio
+      MINIO_ROOT_PASSWORD: minio12345
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - farmcore_minio:/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 15s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+  web:
+    build:
+      context: ./farmcore
+    command: >
+      sh -c "python manage.py migrate --noinput &&
+             python manage.py bootstrap_dev --if-empty &&
+             python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - ./farmcore:/app
+      - ./shared/schemas:/schemas:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      minio:
+        condition: service_started
+    environment:
+      DATABASE_URL: postgres://farmcore:farmcore@db:5432/farmcore
+      REDIS_URL: redis://redis:6379/0
+      MINIO_ENDPOINT: minio:9000
+      MINIO_ACCESS_KEY: minio
+      MINIO_SECRET_KEY: minio12345
+      MINIO_BUCKET: farmcore-documents
+      DJANGO_SECRET_KEY: dev-only-change-in-production
+      DJANGO_DEBUG: "1"
+      DJANGO_ALLOWED_HOSTS: localhost,127.0.0.1,web
+
+  worker:
+    build:
+      context: ./farmcore
+    command: python manage.py rqworker default
+    volumes:
+      - ./farmcore:/app
+      - ./shared/schemas:/schemas:ro
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://farmcore:farmcore@db:5432/farmcore
+      REDIS_URL: redis://redis:6379/0
+      MINIO_ENDPOINT: minio:9000
+      MINIO_ACCESS_KEY: minio
+      MINIO_SECRET_KEY: minio12345
+      MINIO_BUCKET: farmcore-documents
+      DJANGO_SECRET_KEY: dev-only-change-in-production
+      DJANGO_DEBUG: "1"
+
+volumes:
+  farmcore_pgdata:
+  farmcore_minio:

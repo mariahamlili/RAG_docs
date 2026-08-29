@@ -1,0 +1,84 @@
+ID,Week,Section,Title,Size,Depends,Description / Acceptance,Completion,Blockers
+CAI-001,Week 1,RAG core,Confirm FarmCore repo + Compose stack boots,M,—,✅ `docker-compose.yml` + `farmcore/`,Done,
+CAI-002,Week 1,RAG core,"Scaffold Django apps (`accounts`, `farms`, `documents`, `assistant`, `scheduling`)",M,CAI-001,✅,Done,
+CAI-003,Week 1,RAG core,Agree `document_chunks` schema on paper,M,CAI-002,✅ `shared/schemas/document_chunks.md` + model,Done,
+CAI-004,Week 1,RAG core,Implement `RetrievalScope` dataclass + validation,M,CAI-003,✅ `assistant/scope.py`,Done,
+CAI-005,Week 1,RAG core,Declare port interfaces + no-op adapters,M,CAI-003,✅ `assistant/ports/`,Done,
+CAI-006,Week 1,RAG core,Scaffold four registries + version constants,S,CAI-005,✅ `assistant/registries/`,Done,
+CAI-007,Week 1,RAG core,Define `chunks-v1` schema + standalone validator,M,CAI-003,✅ `shared/schemas/chunks-v1.schema.json`,Done,
+CAI-008,Week 1,RAG core,Audit event schema + `VersionTuple` + migration,M,CAI-002,✅ `assistant/models.py` + `versions.py`,Done,
+CAI-009,Week 1,RAG core,OpenAPI design freeze with UI team,S,—,✅ `docs/OPENAPI_FREEZE.md` (UI sign-off pending),Done (partial),UI team sign-off on OPENAPI_FREEZE.md pending
+CAI-010,Week 1,RAG core,Stub `POST /api/assistant/messages` E2E,L,"CAI-004, CAI-008, CAI-009",✅ `POST /api/assistant/messages`,Done,
+CAI-011,Week 1,RAG core,CI: scope-integrity + cross-farm leak test skeletons,M,CAI-010,✅ `tests/farmcore/` (14 tests),Done,
+CAI-012,Week 1,RAG core,Pin extraction tooling in `requirements.txt`,S,—,✅ `pymupdf` pinned in `ingest/requirements.txt`.,Done,
+CAI-013,Week 1,RAG core,**Done (pre-sprint)** Tier A PDF text extraction,—,CAI-012,"✅ 605 extracted, 34 empty, 0 failed → `data/text/source/`, `tier_a_pdf_text.jsonl`.",Done,
+CAI-014,Week 1,RAG core,Tier A manifest filter (`TIER_EXCLUDED`),S,CAI-013,✅ `ingest/scraper/corpus_filter.py` + `filter-corpus` CLI → `rejected.jsonl` (197 non–Tier A).,Done,
+CAI-015,Week 1,RAG core,Pre-chunk filters: empty + untitled,M,CAI-014,"✅ `EMPTY_EXTRACTION` (<50 tok), `LIKELY_NON_TEXT_ASSET` (untitled + <100 tok).",Done,
+CAI-016,Week 1,RAG core,Near-duplicate detection + pointer,M,CAI-015,✅ Similarity ≥0.9 → reject with `kept_doc_id` (4 pairs found).,Done,
+CAI-017,Week 1,RAG core,Boilerplate stripper,M,CAI-015,✅ Repeated short lines + nav blocklist → `data/text/clean/`.,Done,
+CAI-018,Week 1,RAG core,Manual review: 34 empty extractions,M,CAI-013,✅ All 34 `ocr_recoverable` — `empty_extractions_review.md` + `.jsonl` + OCR probe,Done,
+CAI-019,Week 1,RAG core,Manual review: 30-doc near-dup sample,S,CAI-016,✅ 4/4 pairs confirmed — `near_duplicate_review.md`,Done,
+CAI-020,Week 1,RAG core,Extraction quality report,M,CAI-015–017,✅ `data/manifests/extraction_quality_report.json` + `.md`.,Done,
+CAI-021,Week 1,RAG core,CI assertion: 605/34 extraction split,S,"CAI-013, CAI-020",✅ `ingest/tests/test_extraction_baseline.py`.,Done,
+CAI-022,Week 2,RAG core,Structure-aware chunker (headings → paragraphs),L,"CAI-017, CAI-007","300–500 tok, ~15% overlap within section; never split table mid-row; never cross heading.",Not started,OCR fallback not yet wired — 34 scans still empty in text/source (OCR probe proved recoverable)
+CAI-023,Week 2,RAG core,Parent-child chunk hierarchy,M,CAI-022,Children embedded/matched; parents for generation; every child has resolvable `parent_id`.,Not started,
+CAI-024,Week 2,RAG core,Table chunks with captions,M,CAI-022,Separate chunks; one-sentence caption prepended; `parent_id` link.,Not started,
+CAI-025,Week 2,RAG core,Chunk metadata completeness,M,CAI-022,"`content_hash`, `heading_path`, `section_path`, `source_url`, `tier` on every chunk.",Not started,
+CAI-026,Week 2,RAG core,Snapshot builder CLI,L,CAI-023–025,"Outputs `manifest.json`, `chunks.jsonl`, `parents.jsonl`, `rejected.jsonl`, `checksums.txt`; `snapshot_id = gov-a-<YYYYMMDD>-<hash12>`.",Not started,
+CAI-027,Week 2,RAG core,Snapshot validation gates,M,CAI-026,Hard-fail: no chunk >500 tok; non-null `source_url` + `tier`; all `parent_id` resolve.,Not started,
+CAI-028,Week 2,RAG core,Publish first Tier A snapshot,M,CAI-027,From 605 clean docs; idempotent rebuild → identical `snapshot_id`.,Not started,Depends on OCR re-extract for full ~635-doc corpus (optional)
+CAI-029,Week 2,RAG core,Sample review: 20 random chunks,S,CAI-028,"Manual read confirms self-contained, correctly attributed chunks.",Not started,
+CAI-030,Week 2,RAG core,Select + pin embedding model,M,CAI-028,Model chosen; dimension documented; cost/latency estimate for full corpus.,Not started,Embedding model choice not finalized
+CAI-031,Week 2,RAG core,Migrate `embedding vector(dim)` on `document_chunks`,M,"CAI-030, CAI-003","Migration applied; gov rows `farm_id = NULL`, `index_key = 'gov_tier_a'`.",Not started,
+CAI-032,Week 2,RAG core,Snapshot import management command,L,"CAI-028, CAI-031","Checksum verify, schema validate, transactional insert, embed jobs enqueued, activate only when 100% embedded.",Not started,
+CAI-033,Week 2,RAG core,`corpus_snapshots` table + atomic activation,M,CAI-032,Exactly one active row; rollback = pointer flip.,Not started,
+CAI-034,Week 2,RAG core,HNSW partial index (gov dense),M,CAI-031,Partial index for `index_key = 'gov_tier_a'`; query plan checked.,Not started,
+CAI-035,Week 2,RAG core,Dense retrieval path via `RetrievalScope`,L,"CAI-004, CAI-034",SQL scope predicate; top-k + parent expansion; no post-hoc Python farm filter.,Not started,
+CAI-036,Week 2,RAG core,Wire generation to retrieved context,L,"CAI-035, CAI-005",`POST /api/assistant/messages` returns real answer for gov-only questions (markers optional this week).,Not started,
+CAI-037,Week 2,RAG core,Idempotent re-import test,S,CAI-032,"Same snapshot twice → no duplicate rows, no partial state.",Not started,
+CAI-038,Week 2,RAG core,Cross-farm leak test with gov rows,M,CAI-035,Tenant query cannot return gov rows mis-scoped; gov query cannot leak farm data.,Not started,
+CAI-039,Week 2,RAG core,Import corrupted snapshot abort test,S,CAI-032,Bad checksum → active snapshot unchanged.,Not started,
+CAI-040,Week 2,RAG core,Audit: record `snapshot_id` + version tuple,S,CAI-036,Every assistant response audit row includes pinned snapshot.,Not started,
+CAI-041,Week 3,RAG core,`tsvector` column + GIN partial indexes,M,CAI-035,Postgres FTS for gov (and tenant partial stub if schema ready).,Not started,
+CAI-042,Week 3,RAG core,Lexical recall path,M,CAI-041,"Tuned for codes, chemical names, dates, machinery IDs.",Not started,
+CAI-043,Week 3,RAG core,RRF fusion (dense-50 + lexical-50),M,CAI-042,Weights in `retrieval_config_version`; audit logs stage scores.,Not started,
+CAI-044,Week 3,RAG core,`RerankPort` + cross-encoder integration,L,CAI-043,Top-50 → top-8; latency measured against §8 budget.,Not started,
+CAI-045,Week 3,RAG core,MMR diversity filter,M,CAI-044,Suppress near-duplicate chunks in final context.,Not started,
+CAI-046,Week 3,RAG core,Context assembly + token budget,M,CAI-045,"Parent expansion, dedup by `content_hash`, source-class floors.",Not started,
+CAI-047,Week 3,RAG core,Degradation paths (rerank / dense down),M,CAI-044,Reranker down → fused order; dense down → lexical-only; flagged in response + audit.,Not started,
+CAI-048,Week 3,RAG core,Capture dense-only baseline metrics,S,CAI-035,Informal Recall@10 on 20 queries before hybrid merge.,Not started,
+CAI-049,Week 3,RAG core,Prompt registry: citation marker template,M,CAI-036,Context-only constraint; facts vs general guidance separation.,Not started,
+CAI-050,Week 3,RAG core,Citation resolution + error on orphan markers,M,CAI-049,Every `[n]` resolves to assembled chunk; unresolvable = hard error.,Not started,
+CAI-051,Week 3,RAG core,`EntailmentPort` + per-claim scoring,L,CAI-050,Score cited claims; drop/re-cite/downgrade unsupported claims.,Not started,
+CAI-052,Week 3,RAG core,Citation display payload (content-addressed),M,CAI-050,UI contract: expanded citation shows exact chunk text model saw. Agree with UI.,Not started,UI contract for expandable citations not signed off
+CAI-053,Week 3,RAG core,Source-class tags in response,S,CAI-052,`gov_tier_a` distinguished in payload (tenant classes stubbed).,Not started,
+CAI-054,Week 3,RAG core,"Gate signals: confidence, coverage, conflict",L,CAI-046,Three signals implemented; provisional thresholds documented.,Not started,
+CAI-055,Week 3,RAG core,Gate policy: ANSWER / PARTIAL / REFUSE,M,CAI-054,Partial states what was not covered; no parametric gap-fill.,Not started,
+CAI-056,Week 3,RAG core,Refusal registry (full codes),M,CAI-006,"`NO_RELEVANT_CONTEXT`, `INSUFFICIENT_COVERAGE`, `CONFLICTING_SOURCES`, `OUT_OF_SCOPE`, `ACCESS_DENIED`, `TENANT_SCOPE_EMPTY`, `PROVIDER_UNAVAILABLE` + templates.",Not started,
+CAI-057,Week 3,RAG core,Fail-closed gate behaviour,S,CAI-055,Any gate error → `REFUSE`; tested.,Not started,
+CAI-058,Week 3,RAG core,Refusal path integration tests,M,CAI-056–057,Curated unanswerable set returns correct code + message.,Not started,
+CAI-059,Week 3,RAG core,Audit: retrieval funnel + per-claim entailment,M,"CAI-043, CAI-051","Candidate IDs, scores, gate decision reason on every request.",Not started,
+CAI-060,Week 3,RAG core,Draft gold query set (50 queries),M,CAI-048,"Gov-only, unanswerable, multi-part; labelling guide written.",Not started,
+CAI-061,Week 3,RAG core,Expand gold set to 100+ queries,M,CAI-060,Domain reviewer pass; double-label overlap sample.,Not started,Domain reviewer availability
+CAI-062,Week 3,RAG core,Eval script: retrieval metrics,M,CAI-061,"Recall@k, MRR, nDCG offline runner.",Not started,
+CAI-063,Week 3,RAG core,Eval script: generation + citation metrics,M,CAI-061,"Faithfulness, citation precision/recall skeleton.",Not started,
+CAI-064,Week 4,RAG core (required),Wire eval suite into CI,M,CAI-062–063,Fails on regression beyond agreed tolerance.,Not started,
+CAI-065,Week 4,RAG core (required),Calibrate gate thresholds from refusal curve,M,"CAI-061, CAI-054",Replace provisional Phase 6 thresholds with evidence-based values.,Not started,
+CAI-066,Week 4,RAG core (required),Version-tuple-aware eval result storage,M,CAI-064,Compare runs only when tuple element under test differs.,Not started,
+CAI-067,Week 4,RAG core (required),Audit replay: retrieval re-execution,L,CAI-059,"Given `audit_id`, reconstruct tuple + scope; re-run retrieval against pinned snapshot.",Not started,
+CAI-068,Week 4,RAG core (required),Tier B fallback (optional P1),L,CAI-065,Two-pass A then A+B; single retry; `index_key` predicate tests. Skip if Week 3 slipped.,Not started,Optional P1 — skip if Week 3 slips
+CAI-069,Week 4,RAG core (required),Tenant doc upload → MinIO → RQ job (optional),L,CAI-033,PDF/text only; `farm_id` set; `index_key = tenant_doc`. Skip if time-constrained.,Not started,Optional — skip if time-constrained
+CAI-070,Week 4,RAG core (required),Blended retrieval: tenant + gov separate calls,M,CAI-069,Merge at assembly only; source classes preserved. Depends on CAI-069.,Not started,Blocked on CAI-069 if tenant upload skipped
+CAI-071,Week 4,RAG core (required),Cross-farm leak test with real tenant data,M,CAI-069,Blocking test with two farms; worker vs owner scopes.,Not started,Blocked on CAI-069
+CAI-072,Week 4,RAG core (required),E2E demo script + checklist,M,"CAI-036, CAI-052","5 gov questions, 2 refusals, 1 conflict (if available); audit export sample.",Not started,
+CAI-073,Week 4,RAG core (required),Operational runbook,S,CAI-072,"Re-embed, snapshot rollback, provider outage, eval rerun commands.",Not started,
+CAI-074,Week 4,RAG core (required),Diary + PLAN status update,S,CAI-072,"Record metrics, thresholds, known gaps, Phase 11+ triggers fired.",Not started,
+CAI-075,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),Read tool: `get_farm_context`,S,CAI-006,Returns farm metadata + role; re-derives scope from principal. No scheduling logic.,Not started,Optional Week 4 — Scheduling team coordination
+CAI-076,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),Read tool: `list_tasks` / `list_schedules` (read-only),M,CAI-075,Calls Scheduling read APIs; structured JSON for orchestrator; audit per tool call.,Not started,Optional — Scheduling read APIs
+CAI-077,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),`POST /api/assistant/schedule-explanations` stub,M,CAI-010,Accepts schedule snapshot + question; returns explanation draft **without** mutating schedule. Contract aligned with Scheduling team.,Not started,Optional — Scheduling team contract
+CAI-078,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),Proposal tool: `draft_task` (no write),M,CAI-006,Creates `draft` record only; owner confirmation required to persist. **No feasibility check in this ticket.**,Not started,
+CAI-079,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),Proposal tool: `request_schedule_proposal` (no placement),M,CAI-077,Assistant requests Scheduling-generated proposal; assistant explains result; does not influence FarmFlow determinism.,Not started,
+CAI-080,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),Orchestration: tools-before-generation,M,CAI-076–079,Fixed tool set runs before LLM; no model-driven tool loop in POC.,Not started,
+CAI-081,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),**Deferred** `evaluate_task_feasibility` read tool,—,CAI-078,*Description only.* Calls `POST /api/task-feasibility-evaluations` (Scheduling-owned). Returns feasible / better-time / infeasible for **hypothetical** task fields. Chat shows guidance; no schedule write. Phase 11+ unless demo requires it.,Deferred,Deferred to Phase 11+
+CAI-082,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),**Deferred** Chat flow: draft → feasibility → confirm,—,CAI-081,"*Description only.* Owner describes work in chat; assistant drafts task, runs feasibility read, surfaces confirmation UI. Scheduling owns evaluation logic.",Deferred,Deferred to Phase 11+
+CAI-083,Week 4,Chat ↔ Scheduling integration (Week 4 only — optional / stub),Joint demo: blended farm doc + gov guidance + schedule explain,M,"CAI-070, CAI-077",Single scripted path for show-and-tell with UI + SCH present.,Not started,Optional joint demo — needs UI + SCH

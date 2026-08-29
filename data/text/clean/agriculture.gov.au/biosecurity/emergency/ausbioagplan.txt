@@ -1,0 +1,1304 @@
+1 
+AUSBIOAGPLAN 
+Agricultural Response Plan 
+25 February 2026 – Version 4.0
+
+Page 2 of 36 
+© Commonwealth of Australia 2026 
+Ownership of intellectual property rights 
+Commonwealth of Australia (referred to as the Commonwealth). 
+Creative Commons licence 
+All material in this publication is licensed under a Creative Commons Attribution 4.0 International Licence except content 
+supplied by third parties, logos and the Commonwealth Coat of Arms. 
+Cataloguing data 
+This publication (and any material sourced from it) should be attributed as: DAFF 2026, AUSBIOAGPLAN Australian 
+CC BY 4.0. 
+This publication is available at agriculture.gov.au/biosecurity-trade/policy/emergency. 
+GPO Box 858 Canberra ACT 2601 
+Telephone 1800 900 090 
+Web agriculture.gov.au 
+and skill in preparing and compiling the information and data in this publication. Notwithstanding, the Department of 
+Agriculture, Fisheries and Forestry, its employees and advisers disclaim all liability, including liability for negligence and 
+for any loss, damage, injury, expense or cost incurred by any person as a result of accessing, using or relying on any of 
+the information or data in this publication to the maximum extent permitted by law. 
+Acknowledgement of Country 
+We acknowledge the continuous connection of First Nations Traditional Owners and Custodians to the lands, seas and 
+waters of Australia. We recognise their care for and cultivation of Country. We pay respect to Elders past and present, 
+and recognise their knowledge and contribution to the productivity, innovation and sustainability of Australia’s agriculture, 
+fisheries and forestry industries.
+
+Page 3 of 36 
+Table of contents 
+1. 
+Acronyms .............................................................................................................................................. 5 
+2. 
+Definitions ............................................................................................................................................. 7 
+3. 
+Authorising environment ..................................................................................................................... 10 
+3.1. 
+Authority ......................................................................................................................................... 10 
+3.2. 
+Review and amendments ............................................................................................................... 10 
+3.3. 
+Version details ................................................................................................................................ 10 
+4.  
+Introduction ......................................................................................................................................... 11 
+4.1. 
+Purpose .......................................................................................................................................... 11 
+4.2. 
+Scope ............................................................................................................................................. 11 
+4.3. 
+Out of scope ................................................................................................................................... 11 
+4.4. 
+Principles ........................................................................................................................................ 11 
+4.5. 
+Consideration of diverse groups .................................................................................................... 12 
+5. 
+Roles and responsibilities ................................................................................................................... 12 
+5.1.  
+Lead Minister .................................................................................................................................. 12 
+5.2.  
+5.3.  
+Lead Coordinating Senior Official .................................................................................................. 14 
+5.5. 
+Sector Lead and Enabling Agencies .............................................................................................. 15 
+6. 
+Operational activities .......................................................................................................................... 15 
+6.1. 
+Authority ......................................................................................................................................... 15 
+6.2. 
+Phases and actions ........................................................................................................................ 15 
+STANDBY ................................................................................................................................................. 15 
+ALERT ...................................................................................................................................................... 16 
+ACTIVE ..................................................................................................................................................... 16 
+6.3. 
+Categorisation of coordination response........................................................................................ 16 
+6.4. 
+Tier-4 coordination ......................................................................................................................... 17 
+6.5. 
+Recovery ........................................................................................................................................ 17 
+6.6. 
+Deactivation .................................................................................................................................... 18 
+6.7. 
+Coordination mechanisms and arrangements ............................................................................... 18 
+National biosecurity emergency response agreements ........................................................................... 19 
+DAFF coordination mechanisms .............................................................................................................. 19 
+6.8 
+Crisis communication.......................................................................................................................... 21 
+National Biosecurity Communication and Engagement Network ............................................................. 21 
+6.9. 
+Resourcing and surge .................................................................................................................... 21
+
+Page 4 of 36 
+7. 
+Requests for assistance ..................................................................................................................... 22 
+7.1. 
+Domestic......................................................................................................................................... 22 
+7.2. 
+International .................................................................................................................................... 22 
+8. 
+Financial arrangements ...................................................................................................................... 22 
+9. 
+Associated documents and legislation ............................................................................................... 23 
+10. 
+Appendices ......................................................................................................................................... 24 
+Appendix B: Sector Lead and Enabling Agency roles and responsibilities ................................................. 29
+
+Page 5 of 36 
+1. 
+Acronyms 
+ABF 
+Australian Border Force 
+ACDP 
+Australian Centre for Disease Preparedness 
+AGCMF 
+AGD 
+Attorney-General’s Department 
+AgriCCC 
+Fisheries and Forestry 
+AHA 
+Animal Health Australia 
+AHPC 
+Australian Health Protection Committee 
+APVMA 
+Australian Pesticides and Veterinary Medicines Authority 
+AMSA 
+Australian Maritime Safety Authority 
+AUSRIAPLAN 
+AUSBIOAGPLAN 
+CASP 
+Crisis Appreciation and Strategic Planning 
+COMDISPLAN 
+territories in an emergency or disaster) 
+CSIRO 
+Commonwealth Scientific and Industrial Research Organisation 
+DAFF 
+DCCEEW 
+Department of Climate Change, Energy, the Environment and Water 
+DFAT 
+Department of Foreign Affairs and Trade 
+DHDA 
+Department of Health, Disability and Ageing 
+DISR 
+Department of Industry, Science and Resources 
+DITRDCA 
+Department of Infrastructure, Transport, Regional Development, 
+Communications and the Arts 
+EADRA 
+Government and Livestock Industry Cost Sharing Deed in Respect of 
+Emergency Animal Disease 
+EPPRD 
+Government and Plant Industry Cost Sharing Deed in Respect of 
+Emergency Plant Pest Response
+
+Page 6 of 36 
+FSANZ 
+Food Standards Australia New Zealand 
+IDETF 
+Interdepartmental Emergency Task Force 
+IMT 
+Incident Management Team 
+LCC 
+Local Control Centre 
+LEADDR 
+Laboratories for Emergency Animal Disease Diagnosis and Response 
+LO 
+Liaison Officer 
+NBCEN 
+National Biosecurity Communication and Engagement Network 
+NCC 
+National Coordination Centre 
+NCM 
+National Coordination Mechanism 
+NCM-AUSGOV 
+NEBRA 
+National Environment Biosecurity Response Agreement 
+NED 
+National Emergency Declaration 
+NEMA 
+National Emergency Management Agency 
+NJCOP 
+National Joint Common Operating Picture 
+NMG 
+National Management Group 
+NSR 
+OSCR 
+Office of Supply Chain Resilience 
+PHA 
+Plant Health Australia 
+PM&C 
+Department of Prime Minister and Cabinet 
+RCG 
+Response Coordination Group 
+RFA 
+Request for Assistance 
+SCC 
+State Coordination Centre 
+WOAH 
+World Organization for Animal Health
+
+Page 7 of 36 
+2. 
+Definitions 
+Coordinating Agency 
+The agency required to lead the coordination across the Australian 
+Government for a significant crisis (or concurrent crises with 
+converging consequences) caused by one or more identified hazards 
+under the AGCMF. This agency also leads the consequence 
+management activities within its agency functions and sector-specific 
+responsibilities. 
+Crisis Communication 
+Guidelines 
+communication, including development and dissemination of talking 
+points, media holding lines and response strategies for media 
+management and collaboration with state and territory operations 
+centres. 
+Crisis Management 
+Framework (AGCMF) 
+Australia‘s national crisis management arrangements. 
+Australian territory 
+Australia, Christmas Island, Cocos (Keeling) Islands and their 
+airspace and coastal seas and any external territory and its airspace 
+and coastal seas to which the provisions of the Biosecurity Act 2015 
+and its regulations extend. 
+biosecurity 
+Is the management of risks to Australia’s plant and animal health, the 
+environment, or the economy, from pests and diseases entering, 
+emerging, establishing or spreading in Australian territory or part of 
+Australian territory. 
+biosecurity emergency 
+An incident where a disease or pest is posing a severe and 
+immediate threat, or causing harm to Australia’s animal or plant 
+health, the environment, or the economy, and requires a whole-of-
+government response. 
+biosecurity risk 
+The likelihood of a disease or pest entering, emerging, establishing or 
+spreading in Australian territory or a part of Australian territory and 
+the potential for the disease or pest to harm animal or plant health, 
+the environment, or the economy. 
+consequence 
+management 
+Refers to a process undertaken to predict, identify, manage and 
+minimise negative outcomes and impacts from crises. 
+crisis 
+response outside business-as-usual arrangements to manage 
+potential or realised acute consequences and mitigate further harm.
+
+Page 8 of 36 
+Crisis Appreciation and 
+Strategic Planning 
+(CASP) 
+The CASP is a structured, systematic methodology that uses 
+strategic and critical thinking and conceptualises the big picture in 
+crisis planning. It supports practitioners to manage challenges 
+including concurrent events, consequences of uncertainty and 
+complexity. It can be used by Australian, state and territory 
+governments to conduct strategic planning and informs crisis 
+decision-making at all levels. 
+disease 
+(a) the signs or symptoms of an illness or infection caused by a 
+disease agent 
+ (b) a collection of signs or symptoms that is clinically defined, for 
+which the causal agent is unknown, or 
+ (c) a disease agent that has the potential to cause, either directly or 
+indirectly, an illness or infection. 
+early recovery 
+Temporary, near-term measures that support anticipated community 
+needs, such as transitional shelter, services and supplies. During 
+early recovery, the restoration of critical infrastructure would also be 
+underway. This may occur alongside operational response and relief 
+efforts. 
+Enabling Agency 
+programs, provides specialist technical, scientific, intelligence or 
+information capabilities, service delivery or conducts any other 
+enabling activities to support consequence management activities. 
+environmental 
+biosecurity 
+The management of risks to Australia’s environment, including 
+ecosystems and their constituent parts and natural physical 
+resources, from pests and diseases entering, emerging, establishing 
+or spreading in Australian territory or part of Australian territory. 
+Inter-departmental 
+Emergency Taskforce 
+(IDETF) 
+The IDETF is the peak senior officials' crisis coordination mechanism 
+incident 
+An incident is an event, occurrence or set of circumstances that: 
+• has a definite spatial extent and duration 
+• calls for human intervention 
+• has a set of concluding conditions that can be defined 
+• will be under the control of an individual who has the authority to 
+make decisions about how it will be brought to an end. 
+Incident Controller 
+The individual responsible for management of all incident control 
+activities across the department for the department’s operational 
+response. 
+Lead Coordinating 
+Senior Official 
+Coordinating Agency who is responsible for leading the Australian 
+Government coordination for a significant crisis (or concurrent crises 
+with converging consequences.
+
+Page 9 of 36 
+Lead Minister 
+coordination in response to a significant crisis (or concurrent crises 
+with converging consequences) caused by one or more identified 
+hazards under the AGCMF. 
+National Coordination 
+Mechanism (NCM) 
+The NCM is the peak senior officials’ crisis coordination mechanism 
+for national crises, providing a national picture of crisis to 
+governments and key stakeholders. 
+pest 
+A species, strain or biotype of a plant or animal, or a disease agent, 
+that has the potential to cause, either directly or indirectly, harm to: 
+ (a) animal or plant health; or 
+ (b) the environment. 
+preparedness 
+Preparedness refers to arrangements that ensure that, should a crisis 
+occur, the required resources, capabilities and services can be 
+efficiently mobilised and deployed. 
+recovery 
+Early and longer-term measures to restore or improve the livelihoods, 
+health, economic, physical, social, cultural and environmental assets, 
+systems and activities, of a disaster-affected community or society. 
+response 
+Actions taken to ensure that crisis impacts and consequences are 
+minimised, and that those affected are supported as quickly as 
+possible 
+Response Coordinator 
+The individual responsible for the management of all activities across 
+the department for the response. 
+Sector Lead Agency 
+consequence management activities relevant to agency functions 
+and sector-specific responsibilities. 
+zoonoses 
+Disease and infections that are naturally transmitted between 
+vertebrate animals and humans (including via vectors). A zoonotic 
+agent may be a bacterium, a virus, a fungus or other communicable 
+disease agent.
+
+Page 10 of 36 
+3. 
+Authorising environment  
+3.1. Authority 
+arrangements. 
+The minister responsible for this plan is the Minister for Agriculture, Fisheries and Forestry. 
+3.2. Review and amendments 
+This Plan is subject to a major review at least once every 3 years or when relevant updates are made to the 
+AGCMF. Recommendations for amendments or suggestions for improvement may be forwarded to: 
+Crisis and Emergency Management Branch 
+Email: CEMB@aff.gov.au. 
+3.3. Version details 
+This version supersedes all previous versions. 
+Version 
+Date 
+Authorisation 
+Description of change 
+1.0 
+July 2008 
+DAFF 
+Original version. 
+2.0 
+17 December 2012 
+DAFF 
+Management Framework. 
+3.0 
+27 July 2022 
+DAFF 
+Crisis Management Framework (V3) and current 
+4.0 
+25 February 2026 
+DAFF 
+Administrative review to reflect updates to Australian 
+Government Crisis Management Framework (V4.1) 
+and transfer to new template.
+
+Page 11 of 36 
+4.  Introduction 
+4.1. Purpose 
+response to domestic biosecurity crises. The plan can also apply to events impacting the agricultural sector 
+Framework (AGCMF). 
+4.2. Scope 
+AUSBIOAGPLAN applies to: 
+a) domestic biosecurity crises – incidents relating to pests and diseases entering, emerging, establishing 
+or spreading in Australian territory. 
+These incidents may include: 
+• 
+pests and diseases causing harm to animal health (terrestrial and aquatic) 
+• 
+pests and diseases causing harm to plant health 
+• 
+pests and diseases causing harm to Australia’s environment or economy. 
+b) agriculture crises – incidents impacting the agricultural sector (agriculture, fisheries and forestry) where 
+4.3. Out of scope 
+AUSBIOAGPLAN does not apply to the management of biosecurity incidents primarily impacting humans or 
+public health (including those resulting from zoonoses). The Department of Health, Disability and Ageing is 
+the responsible for the management of biosecurity incidents primarily impacting humans or public health. 
+4.4. Principles 
+1. Crises will be managed in accordance with relevant legislative and ministerial authority and in accordance 
+with existing coordination arrangements, including the relevant national biosecurity emergency response 
+agreements (where applicable). See Appendix A and Appendix B. 
+coordinate internally and with their state or territory counterparts (where appropriate) in line with their 
+sector-specific arrangements and mechanisms. 
+3. Engagement with relevant state and territory agriculture agencies and peak industry bodies will occur at 
+all levels of operation, including through the National Management Group (NMG) and Consultative 
+Committee established under the relevant national biosecurity emergency response agreements. 
+4. Unity of effort is supported through centralised strategic planning and coordination. When the scale or 
+complexity of an event requires national leadership across jurisdictions or agencies, the level of 
+coordination is scalable and flexible relative to the situation. 
+5. Impacts and consequences will be assessed and managed throughout all phases to inform strategic 
+priorities, support affected communities, and guide recovery planning. 
+6. State and territory governments maintain legislation and related arrangements to prevent, prepare for, 
+respond to, and recover from hazards within their jurisdiction.
+
+Page 12 of 36 
+4.5. Consideration of diverse groups 
+Under AUSBIOAGPLAN, decisions and crisis communication made through preparedness, response, and 
+early recovery phases will consider the needs of people who may be disproportionately at risk of harm and 
+ensure they are included in preparedness planning and considered during response and recovery activities. 
+This may include: 
+1. the recognition of the unique, environmental and cultural responsibilities of First Nations people and 
+communities 
+2. rural and/or regional communities experiencing high levels of stress, burden or vulnerability 
+3. people who have limited English, including refugee and migrant populations, including workers under 
+labour mobility schemes 
+4. people experiencing or at risk of gender-based violence 
+5. culturally and linguistically diverse communities. 
+5. 
+Roles and responsibilities 
+response activities are aligned and responsive to impacts and consequences of domestic biosecurity and 
+agricultural crises on the economy, environment or community. 
+Senior Official, Sector Lead Agencies and Enabling Agencies under AUSBIOAGPLAN are outlined in 
+section 5.1. 
+5.1.  Lead Minister 
+Under the AGCMF, the Lead Minister for AUSBIOAGPLAN is the Minister for Agriculture, Fisheries and 
+Forestry.  
+The Minister for Agriculture, Fisheries and Forestry is responsible for: 
+1. providing advice to the Prime Minister and the National Security Committee of Cabinet (or other 
+management objectives for domestic biosecurity or agricultural crises 
+ministers with relevant interests 
+4. ensuring there are systems and procedures available so that they are readily contactable 
+Government crisis communications strategy 
+6. determining if a disease or pest is posing a severe and immediate threat, or is causing harm, on a 
+nationally significant scale to animal or plant health, the environment or economic activities related to 
+animals, plants or the environment and advise the Governor-General to declare a biosecurity emergency 
+if the declaration is necessary to prevent or control the establishment or spread of the disease or pest in 
+Australian territory or part of Australian territory. 
+Should a crisis require Tier 4 coordination as defined by the AGCMF, the Prime Minister will become the 
+Lead Minister. The Prime Minister may delegate some, or all responsibilities, to another minister.
+
+Page 13 of 36 
+agricultural sector.  
+DAFF is responsible for: 
+1. maintaining a surge cohort of appropriately trained staff with appropriate security clearances to coordinate 
+and respond to a domestic biosecurity or agricultural crisis 
+2. coordinating across Australian, state and territory governments to respond to domestic biosecurity or 
+agricultural crises 
+3. leading consequence management activities to predict, identify, manage and minimise impacts of 
+domestic biosecurity or agricultural crises 
+4. monitoring events that may impact DAFF equities and notifying the National Situation Room (NSR) of 
+significant events that may occur or are occurring to ensure situational awareness across Australian 
+Government 
+decision-making and coordination mechanisms such as the National Coordination Mechanism (NCM) 
+6. using the national biosecurity emergency response agreements to support decision-making and facilitate 
+unity of effort, including through the National Management Group and Consultative Committees, or other 
+sector-specific committees 
+7. supporting the Lead Coordinating Senior Official to make decisions and recommendations on the level of 
+coordination and response required 
+8. undertaking, or arranging for others to undertake, on-ground biosecurity control operations in 
+Commonwealth places (such as Australian external territories, first points of entry, Indigenous Protected 
+Areas and areas managed by Commonwealth agencies such as the land and waters used by the 
+Department of Defence), in consultation with state and territory agencies and relevant First Nation 
+communities 
+9. identifying capability and resource needs and leveraging surge arrangements to fulfil requirements 
+products (such as whole of government talking points and briefing material) 
+11. deploying or receiving liaison officers as required to support a coordinated response 
+12. maintaining continuity of DAFF critical business functions 
+13. maintaining records of decisions and actions relevant to domestic biosecurity or agricultural crises 
+14. transferring any continuing functions and responsibilities to relevant officials and agencies (including state 
+and territory leads) and recovery coordination mechanisms, as crisis coordination concludes 
+15. conducting exercises and evaluations to identify lessons and contribute to continuous improvement of 
+still leads consequence management activities to predict, identify, manage and minimise negative outcomes 
+and impacts of domestic biosecurity or agricultural crises.
+
+Page 14 of 36 
+5.3.  Lead Coordinating Senior Official 
+The Lead Coordinating Senior Official is the DAFF Deputy Secretary responsible for Biosecurity and is 
+responsible for: 
+1. advising, briefing and supporting the Minister for Agriculture, Fisheries and Forestry to execute their 
+responsibilities 
+3. establishing an appropriate level of coordination to maintain effective situational awareness, appreciation 
+of impacts and consequences, strategic planning and prioritisation of resources across all relevant 
+efforts 
+committees 
+5. adapting the level of coordination in response to changes in the crisis level, including recommending 
+(see section 6.3) 
+6. requesting NEMA to convene and co-chair the NCM with the Deputy Coordinator General of National 
+Emergency Management Agency (NEMA), if required 
+outlined in Appendix B 
+8. engaging with counterparts in state, territory or foreign governments and maintaining oversight of any 
+requests or offers of assistance 
+communication strategy, disseminating of whole-of- Government talking points, key messages, media 
+releases and public information 
+10. co-opting people and resources internally as appropriate to resolve the crisis 
+11. ensuring records of decisions and actions are maintained 
+12. ensuring the transfer of any continuing functions and responsibilities to relevant officials and agencies 
+(including state and territory leads) and recovery coordination mechanisms as crisis coordination 
+concludes 
+13. determining when the Active phase ends and overseeing deactivation arrangements, including 
+evaluations, debriefs and after-action reviews. 
+Should a crisis require Tier 4 coordination as defined by the AGCMF, the Lead Coordinating Senior Official 
+role will transfer to Deputy Coordinator General, Emergency Management and Response, NEMA. 
+5.4. Australian Chief Veterinary Officer, Australian Chief Plant 
+Protection Officer, Australian Chief Environmental Biosecurity Officer 
+The relevant Chief Officer is responsible for: 
+1. receiving notifications of actual or suspected domestic biosecurity incidents 
+2. notifying the Lead Coordinating Senior Official of actual or suspected domestic biosecurity incidents, if 
+required 
+3. coordinating with Australian, state and territory government agency counterparts as appropriate, including 
+the Director of Human Biosecurity regarding potential public health ramifications
+
+Page 15 of 36 
+4. chairing the relevant CC and leading the technical response to domestic biosecurity crises 
+5. advising the NMG on response strategies 
+6. collaborating with international counterparts, including notifications to World Organisation for Animal 
+Health or the International Plant Protection Convention secretariat. 
+5.5. Sector Lead and Enabling Agencies 
+The roles and responsibilities of Sector Lead and Enabling agencies for responses to domestic biosecurity or 
+agricultural crises are listed at Appendix B. 
+6. 
+Operational activities 
+6.1. Authority 
+The DAFF Secretary (or a person nominated by the DAFF Secretary) has the authority to initiate phase 
+changes under AUSBIOAGPLAN. 
+A phase change from STANDBY to ALERT or ACTIVE will be authorised if an event to which 
+AUSBIOAGPLAN applies is imminent or occurring. 
+AUSBIOAGPLAN. 
+6.2. Phases and actions 
+AUSBIOAGPLAN consists of 3 phases: 
+• STANDBY 
+• ALERT 
+• ACTIVE. 
+STANDBY 
+STANDBY is the default phase of AUSBIOAGPLAN. 
+The following activities are undertaken in STANDBY: 
+sector. 
+2. Developing, training, exercising and evaluate the capabilities required to use AUSBIOAGPLAN. 
+3. Undertaking contingency planning for potential responses, including maintaining business continuity 
+plans. 
+4. Reviewing and maintain AUSBIOAGPLAN. 
+AUSBIOAGPLAN reverts to STANDBY when ACTIVE finishes or when the ALERT phase expires and does 
+not proceed to ACTIVE.
+
+Page 16 of 36 
+ALERT 
+ALERT phase may be authorised when there is a reasonably held suspicion that an event to which 
+AUSBIOAGPLAN applies is likely to occur. 
+The following activities are undertaken in ALERT: 
+1. Advising key stakeholders that AUSBIOAGPLAN has moved to ALERT. 
+2. Establishing and maintaining shared situational awareness. 
+3. Undertaking Crisis Appreciation and Strategic Planning (CASP) to identify potential impacts and 
+consequences. 
+4. Considering thresholds and triggers that may require the establishment of the NCM. 
+5. Bringing DAFF capabilities to an enhanced level of readiness. 
+ALERT phase automatically reverts to STANDBY phase after 72 hours unless advised otherwise. 
+ACTIVE 
+ACTIVE phase may be authorised when an event to which AUSBIOAGPLAN applies is imminent or has 
+occurred. 
+The following activities are undertaken in ACTIVE: 
+1. Advising key stakeholders that AUSBIOAGPLAN has moved to ACTIVE. 
+2. Activating DAFF crisis coordination arrangements, including the Response Coordination Group (RCG) 
+and an Incident Management Team (IMT). 
+3. Activating the relevant national biosecurity emergency response agreements (if not already activated by 
+an affected state or territory). 
+4. Establishing and maintaining shared situational awareness. 
+5. Using CASP methodology to identify impacts and consequences, agreed national strategic priorities and 
+establish lines of effort. 
+6. Requesting NEMA to convene the NCM (in collaboration with DAFF) to provide situational awareness and 
+coordinate response efforts, if required. 
+7. Developing and coordinating a crisis communication strategy, including the dissemination of whole-of-
+8. Coordinating with relevant Australian, state and territory government agencies, and industry peak bodies, 
+including through the deployment or receipt of Liaison Officers. 
+9. Once the crisis has been resolved or can be effectively managed without enhanced Australian 
+Government coordination: 
+10. Advising key stakeholders AUSBIOAGPLAN is moving to STANDBY. 
+11. Conducting debriefs or undertaking an after-action review. 
+ACTIVE phase ends when a decision is made by the Secretary on advice from the Lead Coordinating Senior 
+Official.  
+6.3. Categorisation of coordination response 
+AUSBIOAGPLAN uses a 4-tiered crisis coordination model (Figure 1) as outlined in the AGCMF to: 
+1. assess the severity and complexity of a crisis and its impacts and consequences 
+2. determine the appropriate level of crisis coordination and response mechanisms
+
+Page 17 of 36 
+3. decide when to escalate or de-escalate crisis coordination 
+4. manage responses to crisis and their consequences as they become clear 
+5. adjust the coordination over time including the ability to change the Lead Minister and Australian 
+Government Coordinating Agency. 
+Figure 1 AGCMF 4-tiered crisis coordination model 
+6.4. Tier-4 coordination 
+Tier 4 coordination may be triggered by a domestic biosecurity or agricultural crisis when the complexity and 
+severity of impacts and consequences requires the highest level of coordination across the Australian 
+Government. 
+If a domestic biosecurity or agricultural crisis is determined to require Tier-4 crisis coordination under the 
+AGCMF: 
+1. the Lead Minister role will transition to the Prime Minister who may wish to delegate some, or all, 
+responsibilities to another minister 
+2. the Deputy Secretary responsible for Biosecurity, as the Lead Coordinating Senior Official, will transition 
+Senior Official transferring to Deputy Coordinator General, Emergency Management and Response, 
+NEMA. 
+The transition does not displace portfolio specific responsibilities. Should a transition occur, DAFF will remain 
+the Sector Lead Agency for agriculture, fisheries and forestry and will continue to lead consequence 
+management activities to predict, identify, manage and minimise negative outcomes and impacts of domestic 
+biosecurity or agricultural crises. 
+6.5. Recovery 
+Consideration of recovery commences at the same time as response activities are implemented. Under most 
+circumstances, responsibility for the management of recovery from crises that fall within the scope of 
+AUSBIOAGPLAN will sit with state and territory government agencies. 
+territory governments.
+
+Page 18 of 36 
+This assistance may include: 
+2. the provision of financial assistance 
+3. national coordination functions. 
+Recovery efforts in Commonwealth places (such as Australian external territories, first points of entry, 
+Indigenous Protected Areas and areas managed by Commonwealth agencies such as the land and waters 
+used by the Department of Defence) will sit with the Commonwealth Place land manager, in consultation 
+with state and territory agencies and relevant First Nation communities. 
+considered on a case-by-case basis. 
+6.6. Deactivation 
+Upon completion of all response actions and confirmation of no further requirement for Australian 
+Government coordination, AUSBIOAGPLAN will revert to STANDBY. 
+Following deactivation, DAFF will conduct a post-response evaluation and after-action review process to 
+required under the AGCMF. The outcomes of any review process will be distributed to relevant stakeholders, 
+Government crisis management arrangements. 
+6.7. Coordination mechanisms and arrangements 
+agencies and impacted industries primarily through the NCM, National Management Group, relevant 
+Consultative Committee and State Coordination Centres. 
+The NCM can be used for shared situational awareness, national coordination and synchronisation of effort 
+under AUSBIOAGPLAN. It may bring together relevant Australian, state, territory and local government 
+officials, industry, peak bodies, non-government organisations (NGOs) and eminent individuals for 
+coordination, communication and collaboration. NCM participation can be restricted when required, as with 
+The structures in Figure 2 and described in this section outline how AUSBIOAGPLAN integrates with 
+arrangements. 
+National Coordination Mechanism (NCM) 
+The NCM is the peak senior officials’ crisis coordination mechanism providing a national picture of crisis to 
+governments and key stakeholders. The NCM provides the convening mechanism to bring together 
+before, during and after a crisis. 
+When AUSBIOAGPLAN is in ALERT and or ACTIVE phase the NCM may be used for coordination of near 
+term preparedness activities, maintain situational awareness, ensure strategic alignment, agree to national 
+
+Page 19 of 36 
+National biosecurity emergency response agreements 
+Australia’s biosecurity system includes sector specific national biosecurity emergency response agreements 
+(cost sharing deeds). The following coordination mechanisms enable collaborative decision-making under 
+the cost sharing deeds. 
+National Management Group (NMG) 
+The NMG is the decision-making body for national biosecurity emergency responses. The NMG approves 
+national pest or disease emergency response plans and agrees to the proportional sharing of costs between 
+DAFF chairs, participates in and provides secretariat support to the group. 
+Consultative Committee (CC) 
+The CC is the technical body that agrees to the technical response to national biosecurity emergencies and 
+affected industry parties. DAFF chairs, participates in, and provides secretariat support to consultative 
+committees. 
+DAFF coordination mechanisms 
+Response Coordination Group (RCG) 
+The RCG provides an agency-wide strategic coordination function to facilitate leadership and oversight of 
+DAFF’s response efforts. The RCG supports shared situational awareness across the department. The RCG 
+is led by a Response Coordinator and comprises senior executive service (SES) representation. The 
+agencies to support enhanced coordination where AGCMF mechanisms have not been activated. 
+Incident Management Team (IMT) 
+The IMT manages DAFF’s operational response and provides a centralised command and control capability 
+within DAFF. Where appropriate, other agencies can provide Liaison Officers to the IMT. If responding to 
+more than one incident, DAFF can establish multiple IMTs. 
+Agriculture Crisis Coordination Centre (AgriCCC) 
+The AgriCCC function is a virtual conduit between DAFF and the NSR. The AgriCCC shares situational 
+awareness between agencies, coordinates general communication and facilitates agency representation for 
+coordination mechanisms, such as the NCM. Situational awareness materials, including scientific, technical 
+agriculture and biosecurity agencies and affected industries to maintain a common operating picture. 
+Liaison Officers 
+In addition to Liaison officers received from other agencies, DAFF can deploy Liaison Officers to other 
+operations centres or agencies to facilitate shared situational awareness and response coordination. For 
+example, DAFF can deploy Liaison Officers to the NSR, State Coordination Centres and other Australian 
+Government agencies.
+
+Page 20 of 36 
+Figure 2 AUSBIOAGPLAN integration with the AGCMF, national biosecurity systems, and state and 
+territory arrangements
+
+Page 21 of 36 
+6.8 
+Crisis communication 
+To ensure consistent messaging across government during AUSBIOAGPLAN activation, the Lead 
+messages, media releases and public information. 
+During a biosecurity crisis DAFF will: 
+Communication Guidelines. 
+• Develop and disseminate national talking points. 
+• Coordinate crisis communication key messages and products with relevant states and territories. 
+• Confirm key spokespeople and tempo of engagement. 
+• Liaise with media and public information officers across government, and other stakeholders including 
+media outlets as required. 
+• Anticipate and resolve communication risks, including misinformation and disinformation. 
+• Incorporate and prioritise coordinated and consistent key messages across government. 
+• Adjust communications as the event, the media cycle and community needs evolve. 
+governments, industry and other stakeholders as required or deemed relevant. 
+• Support other areas of government that are organising media conferences. 
+National Biosecurity Communication and Engagement Network 
+The National Biosecurity Communication and Engagement Network (NBCEN) supports the national 
+biosecurity response arrangements and advises the CC and NMG on best practice crisis communication. It 
+provides a forum to support unity of effort and maintain national consistency of communication and 
+engagement efforts for biosecurity events. 
+NBCEN comprises communication managers from Australian and state and territory agencies responsible for 
+biosecurity, Animal Health Australia, and Plant Health Australia. NBCEN can also include communication 
+managers from affected industries, other agencies or organisations critical to the response. 
+NBCEN will engage across governments, and with industry and stakeholders such as media outlets, to 
+ensure relevant information is provided to the public in a timely manner. 
+6.9. Resourcing and surge 
+The Lead Coordinating Senior Official may co-opt people and resources internally as appropriate to resolve 
+the crisis. A prolonged biosecurity crisis or a crisis of significant scale or complexity could erode DAFF’s 
+capacity to respond to a crisis event. When internal surge options are exhausted, DAFF may use surge 
+workforce options across the Australian Public Service to augment its coordination arrangements. These 
+options may include the surge reserve maintained by the Australian Public Service Commission (APSC), 
+which mobilises staff in large numbers to respond to significant crises when required.
+
+Page 22 of 36 
+7. 
+Requests for assistance 
+7.1. Domestic 
+impacted jurisdiction.  
+The National Biosecurity Response Team (NBRT) is a group of trained and experienced personnel that may 
+be deployed to assist a jurisdiction in the response to biosecurity incidents. NBRT members are personnel 
+from government agencies with knowledge, experience and training in responding to biosecurity incidents. 
+NBRT includes a functional cohort (personnel for working in a response team) and a more experienced 
+mentor cohort (which can assist in setting up an initial response structure and provide guidance to less 
+experienced response personnel). Deployment is managed using the Interstate Deployment Arrangements 
+for Biosecurity Responses. 
+The Interstate Deployment Arrangements (IDA) for Biosecurity Responses are national arrangements to 
+facilitate the sharing of non-financial resources between biosecurity agencies. DAFF may provide a national 
+coordination function under these arrangements. 
+understand the resourcing needed to prepare for, respond to, and recover from the crisis. If additional non-
+financial assistance may be required, or a Request for Assistance (RFA) is anticipated, contact should be 
+If additional non-financial assistance may be required, or a Request for Assistance (RFA) is anticipated 
+information on the provision of non-financial assistance to states and territories, see COMDISPLAN. 
+7.2. International 
+During a domestic biosecurity or agricultural crisis, international non-financial assistance may be required or 
+offered to Australia to assist with response or recovery efforts. Offers of international assistance, or requests 
+for international assistance, and coordinating the reception of international assistance is covered by 
+(AUSRIAPLAN).  
+The International Animal Health Emergency Reserve (IAHER) is a formal arrangement that provides 
+participating countries access to additional human resources in the event of an emergency animal disease 
+outbreak. Australia, Canada, Ireland, New Zealand, United Kingdom and United States of America are 
+signatories. 
+8. 
+Financial arrangements 
+Agencies under AUSBIOAGPLAN are responsible for their own expenses consistent with their 
+responsibilities. If assistance in the form of personnel or physical resources is provided across agencies or 
+jurisdictions, financial considerations are managed according to the arrangements under which the 
+assistance is provided.
+
+Page 23 of 36 
+9. 
+Associated documents and legislation 
+Agencies should read AUSBIOAGPLAN in conjunction with: 
+• Agricultural and Veterinary Chemicals Act 1994 
+• Biosecurity Act 2015 (Biosecurity Act) 
+• Biosecurity Emergency Management Interstate Deployment Arrangements for Biosecurity Response – for 
+resource coordination in a biosecurity response 
+• Crisis Appreciation and Strategic Planning (CASP) Guidebook 
+• Environment Protection and Biodiversity Conservation Act 1999 
+• Export Control Act 2020 
+• Food Standards Australia New Zealand Act 1991 
+• Gene Technology Act 2000 
+• Imported Food Control Act 1992 
+• National Emergency Declaration (NED) Act 2020 and NED Aide-Memoire.
+
+Page 24 of 36 
+10. Appendices 
+This is not an exhaustive list. The complete list of plans are contained within the AGCMF appendices. 
+Related response arrangements are set out in tables A1 to A4: 
+• Table A3 lists national cost sharing agreements. 
+• Table A4 lists national agriculture biosecurity plans. 
+Title 
+Sponsor or owner 
+Application 
+Purpose and scope 
+Crisis Management 
+Framework (AGCMF) 
+Department of the Prime 
+Minister and Cabinet 
+Generic – incidents that require 
+coordination across Australian 
+Government agencies 
+to preparing for, responding to and recovering from 
+crises. 
+The AGCMF provides ministers and senior officials with 
+guidance on their respective roles and responsibilities, 
+including those relevant to the response to biosecurity 
+crises. It also sets out the arrangements that link 
+ministerial responsibility to the work of key officials, 
+committees and facilities. 
+Disaster Response Plan 
+(COMDISPLAN) 
+National Emergency 
+Management Agency 
+Generic 
+COMDISPLAN describes the coordination 
+arrangements for the provision of Australian 
+Government non-financial assistance [to states and 
+territories] in the event of a disaster or emergency in 
+Australia or its offshore territories.
+
+Page 25 of 36 
+Title 
+Sponsor or owner 
+Application 
+Purpose and scope 
+Interim Australian 
+Government Reception 
+of International 
+Assistance Plan 
+(AUSRIAPLAN) 
+National Emergency 
+Management Agency  
+Generic 
+AUSRIAPLAN details the process for the reception and 
+coordination of international assistance. The provision 
+International offers of assistance may vary significantly, 
+arise from any source and be made to any Australian 
+Government agency. Any offers of assistance received 
+should be appropriately coordinated, considered and 
+actioned as required to support jurisdictions and the 
+Title 
+Sponsor or owner 
+Subject 
+Purpose and scope 
+Head Memorandum of 
+Understanding for the 
+collaborative working 
+relationship between 
+Department of 
+Agriculture Fisheries 
+and Forestry (DAFF) 
+and Department of 
+Health, Disability and 
+Ageing (Health) 
+Fisheries and Forestry (DAFF) 
+and Department of Health, 
+Disability and Ageing (DHDA) 
+Activities that require 
+coordination between DAFF and 
+DHDA 
+(includes annex on imported food 
+– an arrangement for 
+coordination of procedures and 
+communication of imported food 
+issues between Food Standards 
+Australia New Zealand and 
+DAFF) 
+The framework under which DAFF and DHDA work 
+together to provide a high level of collaboration, support 
+and service to each other and the Australian 
+Government. 
+Statement of Intent 
+between the Secretary 
+of the Department of 
+Agriculture, Fisheries 
+and Forestry and the 
+Chief Executive Officer 
+(CEO) of Services 
+Australia 
+DAFF and Services Australia 
+Generic agreement that covers 
+arrangements to facilitate 
+Services Australia in the delivery 
+of payments and services on 
+behalf of DAFF 
+The Head Agreement and Services Schedules describe 
+the financial arrangements for providing services or 
+delivering payments on behalf of DAFF. A Service 
+Schedules exists for provision of National Emergency 
+Call Centre Surge Capability – which involves the 
+activation of a virtual call centre for provision of 
+telephony overflow services for a DAFF call centre
+
+Page 26 of 36 
+Title 
+Sponsor or owner 
+Subject 
+Purpose and scope 
+Memorandum of 
+Understanding between 
+the Department of 
+Agriculture, Fisheries 
+and Forestry (DAFF) 
+and the Department of 
+Home Affairs (Home 
+Affairs) 
+DAFF and Home Affairs 
+Generic agreement that covers 
+arrangements collaboratively 
+shared risk and harness new 
+opportunities  
+Principles-based document setting out the overall 
+framework in which DAFF and Home Affairs will 
+collaboratively mange shared risk and harness new 
+opportunities to achieve policy and regulatory 
+Table A3 National biosecurity incident response and cost-sharing agreements 
+Title 
+Sponsor or owner 
+Application 
+Purpose and scope 
+Government and 
+Livestock Industry Cost 
+Sharing Deed in 
+Respect of Emergency 
+Animal Disease 
+Response (EADRA) 
+Animal Health Australia (AHA) 
+(custodian) and the Parties to 
+the EADRA (owners) 
+Terrestrial animal disease 
+incidents 
+The EADRA is a legally binding agreement between 
+governments and national livestock industry body 
+signatories. It covers the management and funding of 
+responses to Emergency Animal Disease (EAD) 
+incidents, including the potential for reimbursement and 
+cost sharing. It also formalises the role of livestock 
+industry signatories participating in decision making, as 
+well as their contribution towards the costs related to 
+EAD responses. 
+Government and Plant 
+Industry Cost Sharing 
+Deed in Respect of 
+Emergency Plant Pest 
+Responses (EPPRD) 
+Plant Health Australia (PHA) 
+(custodian) and the Parties to 
+the EPPRD (owners)  
+Plant pest and disease incidents 
+The EPPRD is a legally binding agreement between 
+governments and national plant industry body 
+signatories. It covers the management and funding of 
+responses to Emergency Plant Pest (EPP) incidents, 
+including the potential for owner reimbursement costs 
+for growers. It also formalises the role of plant industry 
+signatories participating in decision making as well as
+
+Page 27 of 36 
+Title 
+Sponsor or owner 
+Application 
+Purpose and scope 
+their contribution towards the costs related to EPP 
+responses. 
+National Environmental 
+Biosecurity Response 
+Agreement (NEBRA) 
+National Biosecurity Committee 
+– DAFF (custodian) 
+Biosecurity incidents primarily 
+affecting the environment or 
+economy 
+The purpose of the NEBRA is to establish national 
+arrangements for response to nationally significant 
+biosecurity incidents where there are predominantly 
+public benefits. 
+The scope of the NEBRA is to reduce the impacts of 
+pests and diseases on Australia’s environment and 
+economy. It establishes national response 
+arrangements, including cost sharing, to be applied by 
+agreement of the parties where there are no pre-
+existing arrangements. 
+Table A4 National biosecurity plans 
+Title 
+Sponsor or owner 
+Application 
+Purpose and scope 
+Australian Veterinary 
+Emergency Plan 
+(AUSVETPLAN) 
+AHA (custodian) and the 
+Parties to the EADRA (owners) 
+Terrestrial animal disease 
+incidents 
+AUSVETPLAN is a series of technical response 
+manuals that describe the proposed Australian 
+approach to an emergency animal disease incursion. 
+The documents provide guidance based on sound 
+analysis, linking policy, strategies, implementation, 
+coordination and emergency management plans. 
+AUSVETPLAN includes a range of documentation to 
+guide strategic and operational decision making. 
+Australian Aquatic 
+Animal Disease 
+Veterinary Emergency 
+Plan (AQUAVETPLAN) 
+DAFF 
+Aquatic animal disease incidents AQUAVETPLAN is a series of manuals that describe 
+the proposed Australian approach to an aquatic animal 
+disease emergency. These manuals outline national 
+emergency preparedness, response and control 
+strategies for aquatic animal disease emergencies in 
+Australia.
+
+Page 28 of 36 
+Title 
+Sponsor or owner 
+Application 
+Purpose and scope 
+AQUAVETPLAN includes a range of documentation to 
+guide strategic and operational decision making. 
+Australian Emergency 
+Marine Pest Plan 
+(EMPPlan) 
+Consultative Committee on 
+Invasive Marine Pest 
+Emergencies (CCIMPE), 
+through DAFF 
+Incursions of introduced marine 
+pests 
+EMPPlan is a series of response manuals that outline: 
+• the national approach to marine pest preparedness 
+• technical response and control strategies to activate 
+in a national marine pest emergency. 
+Within this series, the Rapid response manual generic 
+describes the intended generic response to a marine 
+pest emergency within Australia. 
+Australian Emergency 
+Plant Pest Response 
+Plan (PLANTPLAN) 
+PHA (custodian) and the 
+Parties to the EPPRD (owners) 
+Plant pest and disease incidents 
+PLANTPLAN is the generic emergency response plan 
+for emergency plant pest and disease incursions and 
+will be used by all plant industries and government 
+agencies as a guide to management of emergency 
+plant pest and disease incursions. 
+PLANTPLAN provides a description of the general 
+procedures, management structure and information 
+flow system for the handling of emergency plant pest 
+incursions at the national, state and/or territory and 
+district levels.
+
+Page 29 of 36 
+Appendix B: Sector Lead and Enabling Agency roles and responsibilities 
+In addition to the agencies listed in Appendix B other relevant agencies may be involved relative to their portfolio. These may include: 
+• Australian Climate Service 
+• Australian Taxation Office 
+• Bureau of Meteorology 
+• Department of Education 
+• Department of Employment and Workplace Relations 
+• Department of Social Services 
+• Food Standards Australia New Zealand 
+• Office of the Gene Technology Regulators. 
+AUSBIOAGPLAN is in active phase. This is not an exhaustive list, as input from different agencies may be needed depending on the situation. 
+Table B1 Sector Lead and Enabling Agency responsibilities 
+Agency 
+Responsibilities 
+Department of 
+Agriculture, 
+Fisheries and 
+Forestry (DAFF) 
+• Review and maintain AUSBIOAGPLAN. 
+• Manage impacts and consequences to the economy, the environment and the community of a domestic biosecurity or 
+agricultural crisis. 
+• Undertake response actions relevant to the legislation the department administers and its administrative responsibilities. 
+• Undertake, or arrange for others to undertake, on-ground control operations in Commonwealth places in consultation with 
+state and territory agencies (such as Australian external territories, first points of entry and areas managed by Commonwealth 
+agencies such as the land and waters used by the Department of Defence). 
+• Undertake surveillance and/or horizon scanning and monitoring of events and risks that could cause domestic biosecurity or 
+agricultural crises. 
+• Invoke, or make recommendation to the relevant delegate to invoke, the provisions of the Biosecurity Act 2015 to assist with 
+pest and disease control operations.
+
+Page 30 of 36 
+• Impose import controls under the Imported Food Control Act 1992, as determined in consultation with Food Standards 
+Australia New Zealand (FSANZ). 
+• Facilitate and coordinate the deployment of incoming international assistance (such as resources through the International 
+Animal Health Emergency Reserve). 
+• Coordinate the deployment of national surge resources (such as the National Biosecurity Response Team). 
+• Maintain or regain market access through the provision of technical briefings and other information to trading partners and 
+overseas posts. 
+• Trace imported and exported agricultural commodities to support response objectives and comply with international reporting 
+requirements. 
+• Meet Australia’s international reporting obligations, particularly to the World Organisation for Animal Health, the International 
+Plant Protection Convention secretariat, the World Trade Organization and International Maritime Organization. 
+• Where necessary work with other agencies, in consultation with the Attorney General’s Department, and Department of 
+Foreign Affairs and Trade (DFAT) to exercise our rights and obligations as a member of the World Trade Organization to 
+minimise the impacts of a crisis on trade. 
+Australian 
+Radiation 
+Protection and 
+Nuclear Safety 
+Agency 
+(ARPANSA) 
+(AUSRNEPLAN) to produce nationally consistent public messages. 
+• Provide scientific and technical advice to DAFF and DHDA. 
+• Undertake and coordinate response actions relevant to responsibilities described in the AUSRNEPLAN notification to the 
+International Atomic Energy Agency (IAEA) of radiological or nuclear incidents into the environment, which may impact the 
+agricultural sector. 
+Attorney-General’s 
+Department (AGD) 
+• The Office of International Law, within the Attorney-General’s Department may be called upon to assist DAFF to ensure 
+compliance with international legal obligations such as trade law and environmental law. 
+Australian Border 
+Force 
+• Undertake customs and immigration clearance functions for essential materials and supplies and/or personnel pursuant to 
+customs and migration legislation.  
+• Assist DAFF in investigation of possible non-compliance and offences under customs legislation and take infringement action 
+where necessary. 
+• Through Maritime Border Command (MBC), respond to Civil Maritime Security threats that pose a biosecurity threat to 
+Australian territory.
+
+Page 31 of 36 
+• Undertake response actions relevant to the legislation the department administers and its administrative responsibilities. 
+• Undertake customs and immigration clearance functions for essential materials and supplies and/or personnel pursuant to 
+customs and migration legislation. 
+• Provide advice relevant for the importation, exportation, transit, permit and/or license requirements and customs reporting of 
+goods, vessels and aircraft provide customs and immigration clearance for essential materials and supplies and/or personnel 
+on request from DAFF. 
+• Manage and conduct investigations of offences under the Customs Act 1901 and Migration Act 1958. 
+Australian 
+Maritime Safety 
+Authority (AMSA) 
+• Provide advice on safety requirements and compliance regarding livestock export vessels. 
+• Investigate and take appropriate action concerning safety compliance breaches regarding livestock export vessels. 
+• Respond to emergency crises involving ships, including maritime assistance to ships in distress and marine oil and chemical 
+spills responses. 
+• Provide search and rescue services, including medical evacuation from ships. 
+Australian 
+Pesticides and 
+Veterinary 
+Medicines 
+Authority (APVMA) 
+Biosecurity crises 
+• Provide advice on existing registered products that may be appropriate for use against the disease or pest. 
+• Provide advice on residues aspects of pesticide or veterinary medicine use. 
+• Provide advice on timeframes and requirements for potential permit applications based on information and assessment 
+requirements. 
+• Evaluate emergency permit applications for use of registered or unregistered products against the disease or pest and 
+approve the application if appropriate. 
+• Provide advice on longer term permits or registration if a disease or plant is declared non-eradicable. 
+Agricultural crises 
+• Provide advice on existing registered products that may be appropriate for use to address outcomes of the crisis. 
+• Provide advice on residues aspects of pesticide or veterinary medicine use. 
+• Provide advice on timeframes and requirements for potential permit applications based on information and assessment 
+requirements. 
+• Evaluate emergency use permits applications for use to address outcomes of the crisis, and approve if appropriate.
+
+Page 32 of 36 
+• Provide advice on longer term permits or registration if the crisis presents a long-term issue. 
+• Monitor and enforce compliance with the Agricultural and Veterinary Chemicals Code Act 1994 and other legislation 
+administered by the agency. 
+Commonwealth 
+Scientific and 
+Industrial 
+Research 
+Organisation 
+(CSIRO) 
+• Provide scientific and technical support to DAFF regarding vertebrate and invertebrate pests, weeds and diseases (e.g. pest 
+risk assessment, diagnostics, and biological, genetic and integrated mitigation interventions). 
+Department of 
+Climate Change, 
+Energy, the 
+Environment and 
+Water (DCCEEW) 
+If a crisis is declared, DCCEEW would have the following responsibilities: 
+• Provide advice on impacts on, and priority response actions for, matters of national environmental significance protected 
+under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). 
+• Responding as managers of Commonwealth places, for the places the DCCEEW administers (for example, national parks and 
+botanic gardens, marine parks), in consultation with state and territory agencies. 
+• Responding as managers of the Australian Antarctic Program and the following Australian external territories: 
+− Australian Antarctic Territory 
+− Heard Island and McDonald Islands. 
+Department of 
+Defence 
+• Has a range of military capabilities that may be called upon to provide assistance to the civil community in emergency 
+situations, as required and as appropriate. 
+− In seeking assistance from Defence, the most effective method is to define or outline the outcome or result required (the 
+effect to be achieved) rather than seek assistance of a specific capability. By defining the desired outcome, Defence 
+can consider a broader range of available capabilities and can assign the most suitable and available assets to achieve 
+the required result.  
+• Capabilities may include logistics support including airlift (fixed and rotary wing aircraft), sealift, land transport, engineering 
+and medical support, temporary accommodation, imagery, and communications. 
+• Responding as managers of Commonwealth places, for the places the Department of Defence administers.
+
+Page 33 of 36 
+Department of 
+Finance 
+• Review and agree costings of initiatives proposed in response to the crisis, consistent with the Budget Process 
+Operational Rules. 
+• Provide advice on insurance, risk management and procurement matters. 
+Department of 
+Foreign Affairs 
+and Trade (DFAT) 
+• Assist DAFF to provide information to international trading partners. 
+• Work closely with DAFF and industry to minimise disruption to agricultural exports. 
+• Assist DAFF in working with international trading partners to maintain and re-establish export markets. 
+• Assist DAFF to ensure compliance with international trade obligation. 
+International Animal Health Emergency Reserve is activated. 
+• Assist DAFF to facilitate and coordinate acquisition and deployment of overseas assistance into Australia. 
+Austrade 
+• Provide timely advice and assistance to clients to protect Australian commercial interests. 
+• If an agricultural or biosecurity crisis in Australia or overseas causes sudden change to market access arrangements that 
+would impact on Australian exports, or to an Australian businesses’ ability to export, Austrade may be called upon to: 
+− Advise DAFF and DFAT on the extent of the commercial impact to Australian businesses overseas 
+− support DAFF and DFAT by providing approved advice to Australian exporters, overseas customers and allies (for 
+example, business chambers) on the crisis. 
+Department of 
+Health Disability 
+and Ageing 
+(DHDA) 
+DHDA, the interim Australian Centre for Disease Control (CDC) and DAFF work closely in response to biosecurity crises that 
+have human health impacts, including those known to be or with the potential to be zoonotic in nature 
+• Ensure appropriate and timely information flow through the National Incident Centre in DHDA, during all stages of a response. 
+• Share information on health investigations with relevant Australian jurisdictional health agencies through the Australian Health 
+mechanisms. 
+• Coordinate with DAFF and other relevant agencies to produce nationally consistent public messages and responses to 
+enquiries through the National Biosecurity Communication and Engagement Network (NBCEN).
+
+Page 34 of 36 
+Organization (WHO) and the World Organization for Animal Health (WOAH), in response to crises with both human and 
+agricultural impacts. 
+• Undertake response actions relevant to the legislation the department administers and its portfolio responsibilities. 
+• Contribute to post crisis joint debriefs and reviews. 
+Department of 
+Home Affairs 
+• Administers and provides advice on operational policy matters relevant to the National Emergency Declaration (NED) Act. 
+Department of 
+Industry, Science 
+and Resources 
+(DISR) 
+Australian Centre for Disease Preparedness (ACDP) 
+• Provide timely, quality-assured diagnostic services for exotic, new and emerging diseases of terrestrial and aquatic animal 
+species, including those affecting both animals and humans (zoonotic). 
+• Undertake confirmatory diagnosis, new test development and in-depth disease investigation, including disease intervention 
+measures, to support crisis response. 
+• Provide scientific and technical advice to the Australian Chief Veterinary Officer and state or territory chief veterinary officers 
+both directly and through the Consultative Committee on Emergency Animal Disease. 
+• Transfer suitable screening tests to state and territory laboratories and provide relevant technical support, including specific 
+reagents supply, proficiency testing programs, training and other quality assurance needs. 
+• Coordinate laboratory response and surveillance through the LEADDR (Laboratories for Emergency Animal Disease 
+Diagnosis and Response) network and the national Sample Tracking and Reporting System (STARS). 
+• Undertake specific disease research activities that require high-level biocontainment facilities for microbiological security 
+reason. 
+• Participate in NBCEN and contribute to producing and disseminating nationally consistent public information. 
+Office of Supply Chain Resilience (OSCR) 
+• Provide general supply chain advice when requested, relating to the supply of agricultural chemicals, including insecticides, 
+pesticides, soil drenches and fumigants and other relevant products to assist with response efforts. 
+Department of 
+Infrastructure, 
+Transport, 
+Regional 
+• Partner with key stakeholders including Regional Development Australia committees and local governments to better 
+understand the needs and priorities of regions.
+
+Page 35 of 36 
+Development, 
+Communications 
+and the Arts 
+(DITRDCA) 
+• Respond as managers of Commonwealth places and Australian external territories, including 
+− Christmas Island 
+− Norfolk Island 
+− Jervis Bay Territory 
+− Ashmore and Cartier Islands 
+− Coral Sea Islands 
+− Cocos (Keeling) Islands 
+− Australian Antarctic Territory 
+− Heard and McDonald Islands. 
+• Advise on transport issues that may arise and liaise with the transport industry as appropriate. 
+Department of the 
+Prime Minister and 
+Cabinet (PM&C) 
+• Provide advice and support to the Prime Minister, including advice on key decision points, such as recommending a National 
+Emergency Declaration be made; or convening of a Committee of Cabinet or National Cabinet. 
+• Development, and oversight of, whole-of-government crisis management policy arrangements, and providing advice to 
+agencies on these arrangements. 
+• Liaising with state and territory first ministers’ departments to support a national response on decisions at the highest level. 
+• Contributing to public communication. 
+• Co-chair the IDETF and/or the NCM, where deemed appropriate. 
+• Initiates escalation to NEMA-led coordination where appropriate. 
+National 
+Emergency 
+Management 
+Agency 
+• Support whole of government situational awareness through the NSR. 
+− convening and co-chairing the NCM 
+− developing and maintaining the National Joint Common Operating Picture (NJCOP) 
+• Provide whole-of-government advice, strategic coordination and communication strategies
+
+Page 36 of 36 
+COMDISPLAN. 
+• Provide advice on operational policy matters relevant to the NED Act 2020. 
+• Engage across all levels of government and the non-government sector to support a national approach to recovery in line with 
+best practice. 
+• Deliver relevant recovery and resilience support services and programs to affected communities. 
+• If required, provide financial assistance to impacted people and businesses. 
+Services Australia 
+• Coordinate the provision of the National Emergency Call Centre Surge Capability (NECCSC). 
+• Provide surge assistance in the form of service officers, social workers and other health and allied health professionals. 
+• Support the delivery of relevant Commonwealth support payments to impacted individuals.
